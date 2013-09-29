@@ -1,0 +1,388 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Virginia Econmic Development Partnership
+      Originator: Virginia Business Incubation Association
+      Publication_Date: March 2010
+      Title: Small Business Incubators in Virginia
+      Geospatial_Data_Presentation_Form: vector digital data
+      Publication_Information:
+        Publication_Place: Richmond, Virginia
+        Publisher: Virginia Economic Development Partnership
+      Online_Linkage: http://www.yesvirginia.org/
+      Online_Linkage: http://gis.vedp.org/
+      Online_Linkage: http://www.vbia.org
+  Description:
+    Abstract:
+      What is Business Incubation?
+
+      business incubation is a support process that:
+
+          *  Nurtures individuals in the pre-startup stage;
+          *  Supports the successful development of start-up and fledgling companies
+          *  Aids in accelerating the development of small businesses by providing an array of targeted resources and services.
+
+      As a statewide organization, VBIA’s goal is to bring together as many of the elements of the business incubation support network and to provide a forum that advances the successful implementation of Virginia’s business incubation process. To that end, VBIA seeks to provide creater public awareness of the economic benefits of business incubation by involving incubation professionals, economic developers, sponsors, clients and graduates in an on-going campaign to provide public information and awareness of incubation programs across the Commonwealth.
+
+      ~Virginia Business Incubation Association
+
+
+      Business incubation is a business support process that accelerates the successful development of start-up and fledgling companies by providing entrepreneurs with an array of targeted resources and services. These services are usually developed or orchestrated by incubator management and offered both in the business incubator and through its network of contacts. A business incubator’s main goal is to produce successful firms that will leave the program financially viable and freestanding. These incubator graduates have the potential to create jobs, revitalize neighborhoods, commercialize new technologies, and strengthen local and national economies.
+
+      Critical to the definition of an incubator is the provision of management guidance, technical assistance and consulting tailored to young growing companies. Incubators usually also provide clients access to appropriate rental space and flexible leases, shared basic business services and equipment, technology support services and assistance in obtaining the financing necessary for company growth.
+
+      Incubators vary in the way they deliver their services, in their organizational structure and in the types of clients they serve. Highly adaptable, incubators have differing goals, including diversifying rural economies, providing employment for and increasing wealth of depressed inner cities, and transferring technology from universities and major corporations. Incubator clients are at the forefront of developing new and innovative technologies creating products and services that improve the quality of our lives in communities around the world.
+
+      The earliest incubation programs focused on a variety of technology companies or on a combination of light industrial, technology and service firms today referred to as mixed-use incubators. However, in more recent years, new incubators have emerged targeting industries such as food processing, medical technologies, space and ceramics technologies, arts and crafts, and software development. Incubator sponsors have also targeted programs to support microenterprise creation, the needs of women and minorities, environmental endeavors and telecommunications.
+
+      ~National Business Incubation Association
+    Purpose: The purpose of this dataset is to show the locations of local business incubators in Virginia.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: March 2010
+    Currentness_Reference: ground condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: Annually
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -82.901397
+      East_Bounding_Coordinate: -76.181251
+      North_Bounding_Coordinate: 38.983437
+      South_Bounding_Coordinate: 36.557256
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 1915 Topic Category
+      Theme_Keyword: structure
+    Theme:
+      Theme_Keyword: business
+      Theme_Keyword: incubation
+      Theme_Keyword: incubator
+      Theme_Keyword: businesses
+      Theme_Keyword: company
+      Theme_Keyword: development
+      Theme_Keyword: resources
+      Theme_Keyword: VBIA
+      Theme_Keyword: economic
+      Theme_Keyword: investment
+      Theme_Keyword: firm
+      Theme_Keyword: start-up
+      Theme_Keyword: office
+      Theme_Keyword: equipment
+      Theme_Keyword: technical
+      Theme_Keyword: support
+      Theme_Keyword: entrepreneurial
+    Place:
+      Place_Keyword: Virginia
+      Place_Keyword: statewide
+    Temporal:
+      Temporal_Keyword: 2010
+  Access_Constraints: None.
+  Use_Constraints: None.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Virginia Economic Development Partnership
+        Contact_Person: Trent Park
+      Contact_Position: GIS Manager
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 901 East Byrd Street, 18th Fl West
+        Address: P.O. Box 798
+        City: Richmond
+        State_or_Province: Virginia
+        Postal_Code: 23218-0798
+        Country: USA
+      Contact_Voice_Telephone: 804-545-5685
+      Contact_Facsimile_Telephone: 804-545-5681
+      Contact_Electronic_Mail_Address: TPark@yesvirginia.org
+      Hours_of_Service: 8:00am - 5:00pm EST
+  Native_Data_Set_Environment: Microsoft Windows 2000 Version 5.2 (Build 3790) Service Pack 2; ESRI ArcCatalog 9.3.1.3000
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: All attributes were assigned using information from the Virginia Business Incubation Association website (2010).  www.vbia.org
+  Logical_Consistency_Report: These data are logically consistent, although no tests were performed.
+  Completeness_Report: All current busines incubators as tracked by the Virginia Business Incubation Association are included in this dataset and are as complete as possible at the time this dataset was created.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: The horizontal positional accuracy meets 1:10,000 national map standards.
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: Not applicable.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Virginia Business Incubation Association
+          Publication_Date: 2009
+          Title: Business Incubation Facilities
+          Geospatial_Data_Presentation_Form: document
+          Online_Linkage: www.vbia.org
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2009
+        Source_Currentness_Reference: ground condition
+      Source_Citation_Abbreviation: VBIA
+      Source_Contribution: List of available business incubators was obtained from www. vbia.org.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: ESRI
+          Publication_Date: 2009
+          Title: USA Geocoding Service
+          Online_Linkage: http://www.esri.com/software/businessanalyst/index.html
+      Type_of_Source_Media: computer program
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2009
+        Source_Currentness_Reference: ground condition
+      Source_Citation_Abbreviation: ESRI
+      Source_Contribution: ESRI USA Geocoding Service was used to geocode the addresses of business incuation facilities.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Virginia Geographic Information Network
+          Publication_Date: 2007
+          Title: Virginia Base Mapping Program, Aerial Imagery 06-07
+          Geospatial_Data_Presentation_Form: raster digital data
+          Online_Linkage: http://www.vita.virginia.gov/isp/default.aspx?id=8412
+      Type_of_Source_Media: CD-ROM
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2007
+        Source_Currentness_Reference: ground condition
+      Source_Citation_Abbreviation: VBMP
+      Source_Contribution: VGIN 2006-07 Orthophotograhy was used to verify business incubation facility address locations.
+    Process_Step:
+      Process_Description: List of business incubation facilities was obtained from VBIA
+      Source_Used_Citation_Abbreviation: VBIA
+      Process_Date: February 2010
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Virginia Econmic Development Partnership
+            Contact_Person: Lyndsay Duncan
+          Contact_Position: GIS Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 901 East Byrd Street, 18th Floor West
+            Address: P.O. Box 798
+            City: Richmond
+            State_or_Province: VA
+            Postal_Code: 23218-0798
+            Country: USA
+          Contact_Voice_Telephone: 804-545-5689
+          Contact_Facsimile_Telephone: 804-545-5681
+          Contact_Electronic_Mail_Address: LDuncan@yesvirginia.org
+          Hours_of_Service: 8:00am - 5:00pm EST
+    Process_Step:
+      Process_Description: Business incubation facility addresses were geocoded.
+      Source_Used_Citation_Abbreviation: ESRI
+      Process_Date: February 2010
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Virginia Econmic Development Partnership
+            Contact_Person: Lyndsay Duncan
+          Contact_Position: GIS Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 901 East Byrd Street, 18th Floor West
+            Address: P.O. Box 798
+            City: Richmond
+            State_or_Province: VA
+            Postal_Code: 23218-0798
+            Country: USA
+          Contact_Voice_Telephone: 804-545-5689
+          Contact_Facsimile_Telephone: 804-545-5681
+          Contact_Electronic_Mail_Address: LDuncan@yesvirginia.org
+          Hours_of_Service: 8:00am - 5:00pm EST
+    Process_Step:
+      Process_Description: Geocoded business incubation facilities addresses were verified using VBMP aerial imagery.
+      Source_Used_Citation_Abbreviation: VBMP
+      Process_Date: February 2010
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Virginia Economic Development Partnership
+            Contact_Person: Lyndsay Duncan
+          Contact_Position: GIS Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 901 East Byrd Street, 18th Floor West
+            Address: P.O. Box 798
+            City: Richmond
+            State_or_Province: VA
+            Postal_Code: 23218-0798
+            Country: USA
+          Contact_Voice_Telephone: 804-545-5689
+          Contact_Facsimile_Telephone: 804-545-5681
+          Contact_Electronic_Mail_Address: LDuncan@yesvirginia.org
+          Hours_of_Service: 8:00am - 5:00pm EST
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Entity point
+      Point_and_Vector_Object_Count: 32
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Map_Projection:
+        Map_Projection_Name: Lambert Conformal Conic
+        Lambert_Conformal_Conic:
+          Standard_Parallel: 37.000000
+          Standard_Parallel: 39.500000
+          Longitude_of_Central_Meridian: -79.500000
+          Latitude_of_Projection_Origin: 36.000000
+          False_Easting: 0.000000
+          False_Northing: 0.000000
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: coordinate pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 0.000000
+          Ordinate_Resolution: 0.000000
+        Planar_Distance_Units: meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: BusinessIncubators
+      Entity_Type_Definition: Small business incubation facilities in Virginia
+      Entity_Type_Definition_Source: VBIA, VEDP
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: Name
+      Attribute_Definition: Business incubation facility name
+      Attribute_Definition_Source: VBIA
+    Attribute:
+      Attribute_Label: Address
+      Attribute_Definition: Street Address.  If no street address listed, then P.O. box #.
+      Attribute_Definition_Source: VBIA
+    Attribute:
+      Attribute_Label: Web
+      Attribute_Definition: Web address of business incubation facility
+      Attribute_Definition_Source: VBIA
+    Attribute:
+      Attribute_Label: Address2
+      Attribute_Definition: P.O. Box #, or second line of mailing address
+      Attribute_Definition_Source: VBIA
+    Attribute:
+      Attribute_Label: City
+      Attribute_Definition: Mailing address city or town
+      Attribute_Definition_Source: VBIA
+    Attribute:
+      Attribute_Label: State
+      Attribute_Definition: Mailing address state
+      Attribute_Definition_Source: VBIA
+    Attribute:
+      Attribute_Label: Zip
+      Attribute_Definition: Mailing address zip code
+      Attribute_Definition_Source: VBIA
+    Attribute:
+      Attribute_Label: Ver
+      Attribute_Definition: Location verified Y/N
+      Attribute_Definition_Source: VEDP
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: Yes (location verified)
+          Enumerated_Domain_Value_Definition_Source: VEDP
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: No (location not verified)
+          Enumerated_Domain_Value_Definition_Source: VEDP
+    Attribute:
+      Attribute_Label: Label
+      Attribute_Definition: Internal cartography label
+      Attribute_Definition_Source: VEDP
+  Overview_Description:
+    Entity_and_Attribute_Overview: The attributes included in this dataset show information related to the locations of the small business incubation facilities as well as their web address.
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Virginia Economic Development Partnership
+        Contact_Person: Trent Park
+      Contact_Position: GIS Manager
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 901 East Byrd Street, 18th Floor West
+        Address: P.O. Box 798
+        City: Richmond
+        State_or_Province: VA
+        Postal_Code: 23218-0798
+        Country: USA
+      Contact_Voice_Telephone: 804-545-5685
+      Contact_Facsimile_Telephone: 804-545-5681
+      Contact_Electronic_Mail_Address: TPark@yesvirginia.org
+      Hours_of_Service: 8:00am - 5:00pm EST
+  Resource_Description: Downloadable Data
+  Distribution_Liability: Although all data referred to in this doucmentation have been used by the VEDP, no warranty, expressed or implied, is made by the VEDP as to the accuracy of the data.  The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the VEDP in the use of these data.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ARCE
+        Format_Version_Number: ArcGIS shapefile
+        Transfer_Size: 0.001
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://gis.vedp.org/data_main.aspx
+          Access_Instructions: Download
+          Online_Computer_and_Operating_System: http://gis.vedp.org/data_main.aspx
+    Fees: None
+    Turnaround: Immediate
+  Custom_Order_Process: Please contact staff at VEDP.
+  Available_Time_Period:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: March 2010
+Metadata_Reference_Information:
+  Metadata_Date: 20100310
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Virginia Economic Development Partnership
+        Contact_Person: Lyndsay Duncan
+      Contact_Position: GIS Specialist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 901 East Byrd Street, 18th Floor West
+        Address: P.O. Box 798
+        City: Richmond
+        State_or_Province: VA
+        Postal_Code: 23218-0798
+        Country: USA
+      Contact_Voice_Telephone: 804-545-5689
+      Contact_Facsimile_Telephone: 804-545-5681
+      Contact_Electronic_Mail_Address: LDuncan@yesvirginia.org
+      Hours_of_Service: 8:00am - 5:00pm EST
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Access_Constraints: None
+  Metadata_Use_Constraints: None
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile

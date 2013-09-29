@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Virginia Economic Development Partnership</origin>
+				<pubdate>September 2002</pubdate>
+				<title>Metrorail Stations and Lines in Washington D.C.</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Richmond, Virginia</pubplace>
+					<publish>Virginia Economic Development Partnership</publish>
+				</pubinfo>
+				<onlink>http://www.yesvirginia.org</onlink>
+				<onlink>http://www.gis.vedp.org</onlink>
+				<ftname Sync="TRUE">metro_lines</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>
+The Washington Metropolitan Area Transit Authority operates the second largest rail transit system and the fifth largest bus network in the United States.  Safe, clean and reliable, America's Transit System transports more than a third of the federal government to work and millions of tourists to the landmarks in the Nation's Capital.
+
+The Authority was created in 1967 by an Interstate Compact to plan, develop, build, finance and operate a balanced regional transportation system in the National Capital area. Construction of the Metrorail system began in 1969. Four area bus systems were acquired in 1973. The first phase of Metrorail  began operation in 1976. The final leg of the original 103-mile rail network was completed in early 2001. Today, there are 86 Metro stations in service within a 106.3 mile network.
+
+Metrorail and Metrobus serve a population of 3.5 million within a 1,500 square-mile area. The transit zone consists of the District of Columbia, the suburban Maryland counties of Montgomery and Prince George's and the Northern Virginia counties of Arlington, Fairfax and Loudoun and the cities of Alexandria, Fairfax and Falls Church. Overall, 42 percent of those working in the center core Washington and parts of Arlington County use mass transit.
+
+Metro and the federal government are partners in transportation. Thirty-five Metrorail stations serve federal facilities and nearly half of Metro's peak period commuters are federal employees. Since WMATA's inception, the federal government has contributed 65 percent of the capital costs. Fares and other revenue fund 57.6 percent of the daily operations while state and local governments fund the remaining 42.4 percent.
+
+[WMATA Facts, www.wmata.com]
+</abstract>
+			<purpose>The purpose of this dataset is to show the metrorail stations and lines in the Washington DC area.</purpose>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>November 2002</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-77.502672</westbc>
+				<eastbc Sync="TRUE">-76.867481</eastbc>
+				<northbc Sync="TRUE">39.127367</northbc>
+				<southbc Sync="TRUE">38.760285</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">173526.709278</leftbc><rightbc Sync="TRUE">227616.650375</rightbc><bottombc Sync="TRUE">309563.574394</bottombc><topbc Sync="TRUE">348968.294098</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>ISO 1915 topic category</themekt>
+				<themekey>transportation</themekey>
+			</theme>
+			<theme>
+				<themekey>Metrorail</themekey>
+				<themekey>rail</themekey>
+				<themekey>metro</themekey>
+				<themekey>train</themekey>
+				<themekey>line</themekey>
+				<themekey>station</themekey>
+				<themekey>transfer</themekey>
+				<themekey>proposed</themekey>
+				<themekey>red</themekey>
+				<themekey>orange</themekey>
+				<themekey>green</themekey>
+				<themekey>blue</themekey>
+				<themekey>yellow</themekey>
+				<themekey>stop</themekey>
+				<themekey>WMATA</themekey>
+				<themekey>Washington</themekey>
+				<themekey>Metropolitain</themekey>
+				<themekey>Area</themekey>
+				<themekey>Transit</themekey>
+				<themekey>Authority</themekey>
+				<themekey>transport</themekey>
+				<themekey>public</themekey>
+				<themekey>National</themekey>
+				<themekey>Capital</themekey>
+				<themekey>service</themekey>
+				<themekey>District</themekey>
+				<themekey>Columbia</themekey>
+				<themekey>Virginia</themekey>
+				<themekey>Maryland</themekey>
+				<themekey>Northern</themekey>
+				<themekey>commuter</themekey>
+				<themekey>commute</themekey>
+				<themekey>accessible</themekey>
+				<themekey>handicap</themekey>
+				<themekey>Montgomery</themekey>
+				<themekey>Prince George's</themekey>
+				<themekey>Alexandria</themekey>
+				<themekey>Arlington</themekey>
+				<themekey>Fairfax</themekey>
+				<themekey>metrobus</themekey>
+				<themekey>MetroAccess</themekey>
+				<themekey>paratransit</themekey>
+				<themekey>Loudoun</themekey>
+				<themekey>Falls Church</themekey>
+			</theme>
+			<place>
+				<placekey>Washington DC</placekey>
+				<placekey>National</placekey>
+				<placekey>Capital</placekey>
+				<placekey>Virginia</placekey>
+				<placekey>Maryland</placekey>
+			</place>
+		</keywords>
+		<accconst>None.</accconst>
+		<useconst>None.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Virginia Economic Development Partnership</cntorg>
+					<cntper>Trent Park</cntper>
+				</cntorgp>
+				<cntpos>GIS Manager</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>P.O. Box 798</address>
+					<address>901 East Byrd Street, 18th floor</address>
+					<city>Richmond</city>
+					<state>Virginia</state>
+					<postal>23218-0798</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>804-545-5685</cntvoice>
+				<cntfax>804-545-5681</cntfax>
+				<cntemail>TPark@yesvirginia.org</cntemail>
+				<hours>9:00am - 5:00pm</hours>
+			</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows 2000 Version 5.2 (Build 3790) Service Pack 2; ESRI ArcCatalog 9.3.1.3000</native>
+		<natvform Sync="TRUE">Shapefile</natvform></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>The attributes are accurate as of November 2002.</attraccr>
+		</attracc>
+		<logic>These data are logically consistent, though no tests were performed.</logic>
+		<posacc>
+			<horizpa>
+				<horizpar>The horizontal positional accuracy meets 1:24,000 national map accuracy standards.</horizpar>
+			</horizpa>
+			<vertacc>
+				<vertaccr>NA</vertaccr>
+			</vertacc>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Washington Metropolitain Area Transit Authority</origin>
+						<pubdate>2002</pubdate>
+						<title>Washington Metropolitain Area Transit Authority</title>
+						<onlink>http://www.wmata.com/</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2002</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>WMATA</srccitea>
+				<srccontr>DC Metro stations were digitized using information from the Washington Metropolitan Area transit Authority website (http://www.wmata.com)</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>StationMasters</origin>
+						<pubdate>2002</pubdate>
+						<title>StationMasters</title>
+						<onlink>http://www.stationmasters.com</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2002</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>SM</srccitea>
+				<srccontr>DC Metro stations were digitized using information from the Washington Metropolitan Area Transit Authority website (http://www.wmata.com) and  StationMasters Online (http://www.stationmasters.com).</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Virginia Geographic Information Network</origin>
+						<pubdate>2000</pubdate>
+						<title>Virginia Base Mapping Program</title>
+						<onlink>http://www.isp.virginia.gov/</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>4800</srcscale>
+				<typesrc>CD-ROM</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2000</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>VBMP</srccitea>
+				<srccontr>The stations in Virginia were located on the 2000 digital aerial photography, and the remaining stations were located using the Streetmap USA data layer.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Environmental Systems Research Institute (ESRI)</origin>
+						<pubdate>Unknown</pubdate>
+						<title>Streetmap USA</title>
+						<geoform>vector digital data</geoform>
+						<onlink>http://www.esri.com/</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>CD-ROM</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>unknown</caldate>
+						</sngdate>
+					</timeinfo>
+				</srctime>
+				<srccitea>ESRI</srccitea>
+				<srccontr>The stations in Virginia were located on the 2000 digital aerial photography, and the remaining stations were located using the Streetmap USA data layer.</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>
+DC Metro stations were digitized using information from the Washington Metropolitan Area Transit Authority website (http://www.wmata.com) and StationMasters Online (http://www.stationmasters.com).
+The stations in Virginia were located on the 2000 digital aerial photography, and the remaining stations
+were located using the Streetmap USA data layer.
+SDB
+9/9/2002
+</procdesc>
+				<srcused>WMATA</srcused>
+				<srcused>SM</srcused>
+				<srcused>VBMP</srcused>
+				<srcused>ESRI</srcused>
+				<procdate>2002</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Virginia Economic Development Partnership</cntorg>
+							<cntper>Stuart Blankenship</cntper>
+						</cntorgp>
+						<cntpos>GIS Manager</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>901 East Byrd Street, 18th Floor West</address>
+							<address>PO Box 798</address>
+							<city>Richmond</city>
+							<state>Virginia</state>
+							<postal>23218-0798</postal>
+							<country>USA</country>
+						</cntaddr>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>
+Stations were updated to include name of lines that serve them.  An item was also added indicating whether or not the station allows transfers to other lines.  Metro_lines.shp was also created to represent approximate location of each rail line. Line locations were verified using digital aerial photography when possible.  In remaining cases, Streetmap USA information was used to verify locations.
+11/19/2002
+</procdesc>
+				<srcused>WMATA</srcused>
+				<srcused>SM</srcused>
+				<srcused>VBMP</srcused>
+				<srcused>ESRI</srcused>
+				<procdate>2002</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Virginia Economic Development Partnership</cntorg>
+							<cntper>Stuart Blankenship</cntper>
+						</cntorgp>
+						<cntpos>GIS Manager</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>901 East Byrd Street, 18th Floor West</address>
+							<address>PO Box 798</address>
+							<city>Richmond</city>
+							<state>Virginia</state>
+							<postal>23218-0798</postal>
+							<country>USA</country>
+						</cntaddr>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\DOCUME~1\LDuncan\LOCALS~1\Temp\xml47.tmp</srcused><date Sync="TRUE">20080527</date><time Sync="TRUE">13571500</time></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="metro_lines">
+				<sdtstype Sync="TRUE">String</sdtstype>
+				<ptvctcnt Sync="TRUE">14</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="metro_lines"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polyline</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">14</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000000</absres>
+						<ordres Sync="TRUE">0.000000</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">meters</plandu>
+				</planci>
+				<mapproj><mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn><lambertc><stdparll Sync="TRUE">37.000000</stdparll><stdparll Sync="TRUE">39.500000</stdparll><longcm Sync="TRUE">-79.500000</longcm><latprjo Sync="TRUE">36.000000</latprjo><feast Sync="TRUE">0.000000</feast><fnorth Sync="TRUE">0.000000</fnorth></lambertc></mapproj></planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><projcsn Sync="TRUE">Lambert_Conformal_Conic_Virginia</projcsn></cordsysn></horizsys>
+		<vertdef>
+			<altsys>
+				<altres>1.000000</altres>
+				<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed Name="metro_lines">
+			<enttyp>
+				<enttypl Sync="TRUE">metro_lines</enttypl>
+				<enttypd>Metrorail stations in Washington DC</enttypd>
+				<enttypds>WMATA</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">14</enttypc></enttyp>
+			<attr>
+				<attrlabl>SHAPE</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Line1</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">10</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>Line1</attrlabl>
+				<attrdef>The primary line that runs into the station</attrdef>
+				<attrdefs>user defined</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Blue</edomv>
+						<edomvd>The blue line</edomvd>
+						<edomvds>WMATA</edomvds>
+					</edom>
+					<edom>
+						<edomv>Green</edomv>
+						<edomvd>The green line</edomvd>
+						<edomvds>WMATA</edomvds>
+					</edom>
+					<edom>
+						<edomv>Orange</edomv>
+						<edomvd>The orange line</edomvd>
+						<edomvds>user defined</edomvds>
+					</edom>
+					<edom>
+						<edomv>Red</edomv>
+						<edomvd>The red line</edomvd>
+						<edomvds>user defined</edomvds>
+					</edom>
+					<edom>
+						<edomv>Yellow</edomv>
+						<edomvd>The yellow line</edomvd>
+						<edomvds>User defined</edomvds>
+					</edom>
+					<udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">10</attwidth><attalias Sync="TRUE">Shape</attalias></attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">10</attwidth><attalias Sync="TRUE">Line2</attalias><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>Line2</attrlabl>
+				<attrdef>The secondary line that runs into the station</attrdef>
+				<attrdefs>user defined</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Blue</edomv>
+						<edomvd>The blue line</edomvd>
+						<edomvds>user defined</edomvds>
+					</edom>
+					<edom>
+						<edomv>Green</edomv>
+						<edomvd>The green line</edomvd>
+						<edomvds>user defined</edomvds>
+					</edom>
+					<edom>
+						<edomv>Orange</edomv>
+						<edomvd>The orange line</edomvd>
+						<edomvds>user defined</edomvds>
+					</edom>
+					<edom>
+						<edomv>Red</edomv>
+						<edomvd>The red line</edomvd>
+						<edomvds>user defined</edomvds>
+					</edom>
+					<edom>
+						<edomv>Yellow</edomv>
+						<edomvd>The yellow line</edomvd>
+						<edomvds>user defined</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">10</attwidth><attalias Sync="TRUE">Line3</attalias></attr>
+			<attr>
+				<attrlabl>Line3</attrlabl>
+				<attrdef>The third line that runs into the station</attrdef>
+				<attrdefs>user defined</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Blue</edomv>
+						<edomvd>The blue line</edomvd>
+						<edomvds>user defined</edomvds>
+					</edom>
+					<edom>
+						<edomv>Green</edomv>
+						<edomvd>The green line</edomvd>
+						<edomvds>user defined</edomvds>
+					</edom>
+					<edom>
+						<edomv>Orange</edomv>
+						<edomvd>The orange line</edomvd>
+						<edomvds>user defined</edomvds>
+					</edom>
+					<edom>
+						<edomv>Red</edomv>
+						<edomvd>The red line</edomvd>
+						<edomvds>User defined</edomvds>
+					</edom>
+					<edom>
+						<edomv>Yellow</edomv>
+						<edomvd>The yellow line</edomvd>
+						<edomvds>user defined</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">10</attwidth><attalias Sync="TRUE">Line4</attalias></attr>
+			<attr>
+				<attrlabl>Line4</attrlabl>
+				<attrdef>The fourth line that runs into the station</attrdef>
+				<attrdefs>user defined</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Blue</edomv>
+						<edomvd>The blue line</edomvd>
+						<edomvds>user defined</edomvds>
+					</edom>
+					<edom>
+						<edomv>Green</edomv>
+						<edomvd>The green line</edomvd>
+						<edomvds>user defined</edomvds>
+					</edom>
+					<edom>
+						<edomv>Orange</edomv>
+						<edomvd>The orange line</edomvd>
+						<edomvds>user defined</edomvds>
+					</edom>
+					<edom>
+						<edomv>Red</edomv>
+						<edomvd>The red line</edomvd>
+						<edomvds>user defined</edomvds>
+					</edom>
+					<edom>
+						<edomv>Yellow</edomv>
+						<edomvd>The yellow line</edomvd>
+						<edomvds>user defined</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">10</attwidth></attr>
+		</detailed>
+		<overview>
+			<eaover>The attributes describe the lines and other information related to the stations.</eaover>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Virginia Economic Development Partnership</cntorg>
+					<cntper>Lyndsay Duncan</cntper>
+				</cntorgp>
+				<cntpos>GIS Specialist</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>P.O. Box 798</address>
+					<address>901 East Bryd Street, 18th floor</address>
+					<city>Richmond</city>
+					<state>Virginia</state>
+					<postal>23218-0798</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>804-545-5689</cntvoice>
+				<cntfax>804-545-5681</cntfax>
+				<cntemail>LDuncan@yesvirginia.org</cntemail>
+				<hours>9:00am - 5:00pm</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>Although all data referred to in this documentation have been used by the VEDP, no warranty, expressed or implied, is made by the VEDP as to the accuracy of the data.  The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the VEDP inthe use of these data.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ARCE</formname>
+					<filedec>no compression applied</filedec>
+					<transize>0.003</transize>
+					<dssize Sync="TRUE">0.020</dssize></digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://gis.vedp.org/data_main.aspx</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>none</fees>
+			<ordering>Contact VEDP staff, download from http://www.gis.vedp.org</ordering>
+		</stdorder>
+		<custom>Email VEDP GIS staff for request.</custom>
+		<availabl>
+			<timeinfo>
+				<sngdate>
+					<caldate>2002</caldate>
+				</sngdate>
+			</timeinfo>
+		</availabl>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20100111</metd>
+		<metfrd>20090527</metfrd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Virginia Economic Development Partnership</cntorg>
+					<cntper>Lyndsay Duncan</cntper>
+				</cntorgp>
+				<cntpos>GIS Specialist</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>P.O. Box 798</address>
+					<address>901 East Byrd Street, 18th floor</address>
+					<city>Richmond</city>
+					<state>Virginia</state>
+					<postal>23218-0798</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>804-545-5689</cntvoice>
+				<cntfax>804-545-5681</cntfax>
+				<cntemail>LDuncan@yesvirginia.org</cntemail>
+				<hours>9:00am - 5:00pm</hours>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metac>none</metac>
+		<metuc>The metadata was created 6 years after the dataset.  Accuracy is not guaranteed.</metuc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><MetaID>{24944685-6A49-4916-986C-E4C29082037F}</MetaID><CreaDate>20080527</CreaDate><CreaTime>13571500</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20100111</SyncDate><SyncTime>11353600</SyncTime><ModDate>20100111</ModDate><ModTime>11353600</ModTime></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows 2000 Version 5.2 (Build 3790) Service Pack 2; ESRI ArcCatalog 9.3.1.3000</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">metro_lines</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">173526.709278</westBL><eastBL Sync="TRUE">227616.650375</eastBL><northBL Sync="TRUE">348968.294098</northBL><southBL Sync="TRUE">309563.574394</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-77.502672</westBL><eastBL Sync="TRUE">-76.867481</eastBL><northBL Sync="TRUE">39.127367</northBL><southBL Sync="TRUE">38.760285</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\Supermothra\Data\state\VEDP\dcmetro\metro_lines.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">0.020</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">Lambert_Conformal_Conic_Virginia</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="metro_lines"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">14</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20100111</mdDateSt></metadata>

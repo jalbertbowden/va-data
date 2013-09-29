@@ -1,0 +1,574 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<metadata xml:lang="en">
+  <Esri>
+    <CreaDate>20110726</CreaDate>
+    <CreaTime>12164000</CreaTime>
+    <ArcGISFormat>1.0</ArcGISFormat>
+    <SyncOnce>FALSE</SyncOnce>
+    <RematchLocator>Locators/TA_Streets_US_10<Category Locator="Review">Address</Category><Description Locator="Review">::</Description><OutColumns Locator="Review">Shape</OutColumns><OutColumns Locator="Review">Status</OutColumns><OutColumns Locator="Review">Score</OutColumns><OutColumns Locator="Review">Match_addr</OutColumns><OutColumns Locator="Review">Side</OutColumns><OutColumns Locator="Review">Ref_ID</OutColumns><OutColumns Locator="Review">Street_ID</OutColumns><OutColumns Locator="Review">User_fld</OutColumns><OutColumns Locator="Review">Addr_type</OutColumns><OutKeyColumns Locator="Review">::</OutKeyColumns><OutTable Locator="Review">::</OutTable><InColumns Locator="Review">ARC_Street</InColumns><InColumns Locator="Review">ARC_City</InColumns><InColumns Locator="Review">ARC_State</InColumns><InColumns Locator="Review">ARC_ZIP</InColumns><InKeyColumns Locator="Review">::</InKeyColumns><InTable Locator="Review">::</InTable><CLSID Locator="Review">{47A9F8CE-597B-11D5-9BE2-000000000000}</CLSID><ServerObjectURL Locator="Review">http://tasks.arcgisonline.com/ArcGIS/services/Locators/TA_Streets_US_10/GeocodeServer</ServerObjectURL><ServerObjectName Locator="Review">Locators/TA_Streets_US_10</ServerObjectName><ServerObjectType Locator="Review">GeocodeServer</ServerObjectType><ServerConnectionURL Locator="Review">http://tasks.arcgisonline.com/arcgis/services</ServerConnectionURL></RematchLocator>
+    <DataProperties>
+      <itemProps>
+        <itemName Sync="TRUE">Virginia Wineries 2011</itemName>
+        <imsContentType Sync="TRUE">002</imsContentType>
+        <itemSize Sync="TRUE">0.005</itemSize>
+        <itemLocation>
+          <linkage Sync="TRUE">file://\\Winkeltripel\Data\state\VEDP\wineries\2011\Virginia Wineries 2011.shp</linkage>
+          <protocol Sync="TRUE">Local Area Network</protocol>
+        </itemLocation>
+        <nativeExtBox>
+          <westBL Sync="TRUE">-82.521673</westBL>
+          <eastBL Sync="TRUE">-75.621484</eastBL>
+          <southBL Sync="TRUE">36.590121</southBL>
+          <northBL Sync="TRUE">39.399470</northBL>
+          <exTypeCode Sync="TRUE">1</exTypeCode>
+        </nativeExtBox>
+      </itemProps>
+      <coordRef>
+        <type Sync="TRUE">Geographic</type>
+        <geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+        <peXml Sync="TRUE">&lt;GeographicCoordinateSystem xsi:type='typens:GeographicCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.0'&gt;&lt;WKT&gt;GEOGCS[&amp;quot;GCS_WGS_1984&amp;quot;,DATUM[&amp;quot;D_WGS_1984&amp;quot;,SPHEROID[&amp;quot;WGS_1984&amp;quot;,6378137.0,298.257223563]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433],AUTHORITY[&amp;quot;EPSG&amp;quot;,4326]]&lt;/WKT&gt;&lt;XOrigin&gt;-399.99999999999989&lt;/XOrigin&gt;&lt;YOrigin&gt;-399.99999999999989&lt;/YOrigin&gt;&lt;XYScale&gt;11258999068426.24&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;8.9831528411952133e-009&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;LeftLongitude&gt;-180&lt;/LeftLongitude&gt;&lt;WKID&gt;4326&lt;/WKID&gt;&lt;/GeographicCoordinateSystem&gt;</peXml>
+      </coordRef>
+      <lineage>
+        <Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\Merge" Date="20110726" Time="122812">Merge New_2;'Virginia Wineries 2009' "T:\state\VEDP\wineries\2011\Virginia Wineries 2011.shp" "Name "Name" true true false 254 Text 0 0 ,First,#,New_2,Name,-1,-1,Virginia Wineries 2009,Name,-1,-1;Address "Address" true true false 254 Text 0 0 ,First,#,New_2,Address,-1,-1,Virginia Wineries 2009,Address,-1,-1;City "City" true true false 254 Text 0 0 ,First,#,New_2,City,-1,-1,Virginia Wineries 2009,City,-1,-1;State "State" true true false 254 Text 0 0 ,First,#,New_2,State,-1,-1,Virginia Wineries 2009,State,-1,-1;Zip "Zip" true true false 16 Double 6 15 ,First,#,New_2,Zip,-1,-1,Virginia Wineries 2009,Zip,-1,-1;Addresss2 "Addresss2" true true false 254 Text 0 0 ,First,#,Virginia Wineries 2009,Addresss2,-1,-1;Contact "Contact" true true false 254 Text 0 0 ,First,#,Virginia Wineries 2009,Contact,-1,-1;Phone "Phone" true true false 15 Text 0 0 ,First,#,Virginia Wineries 2009,Phone,-1,-1;Phone2 "Phone2" true true false 15 Text 0 0 ,First,#,Virginia Wineries 2009,Phone2,-1,-1;Fax "Fax" true true false 15 Text 0 0 ,First,#,Virginia Wineries 2009,Fax,-1,-1;Email "Email" true true false 254 Text 0 0 ,First,#,Virginia Wineries 2009,Email,-1,-1;Web "Web" true true false 254 Text 0 0 ,First,#,Virginia Wineries 2009,Web,-1,-1;LV "LV" true true false 10 Text 0 0 ,First,#,Virginia Wineries 2009,LV,-1,-1;Weddings "Weddings" true true false 1 Text 0 0 ,First,#,Virginia Wineries 2009,Weddings,-1,-1;Food_Avail "Food_Avail" true true false 1 Text 0 0 ,First,#,Virginia Wineries 2009,Food_Avail,-1,-1;Picnicarea "Picnicarea" true true false 1 Text 0 0 ,First,#,Virginia Wineries 2009,Picnicarea,-1,-1;Gift_shop "Gift_shop" true true false 1 Text 0 0 ,First,#,Virginia Wineries 2009,Gift_shop,-1,-1;tasting_rm "tasting_rm" true true false 1 Text 0 0 ,First,#,Virginia Wineries 2009,tasting_rm,-1,-1;Group_tour "Group_tour" true true false 1 Text 0 0 ,First,#,Virginia Wineries 2009,Group_tour,-1,-1;overnight "overnight" true true false 1 Text 0 0 ,First,#,Virginia Wineries 2009,overnight,-1,-1;privt_prty "privt_prty" true true false 1 Text 0 0 ,First,#,Virginia Wineries 2009,privt_prty,-1,-1"</Process>
+      </lineage>
+    </DataProperties>
+    <SyncDate>20110810</SyncDate>
+    <SyncTime>10294700</SyncTime>
+    <ModDate>20110810</ModDate>
+    <ModTime>10294700</ModTime>
+  </Esri>
+  <mdLang>
+    <languageCode value="en" />
+  </mdLang>
+  <mdHrLv>
+    <ScopeCd value="005" />
+  </mdHrLv>
+  <mdContact>
+    <rpIndName>Eric Hetzer</rpIndName>
+    <rpOrgName>Virginia Economic Development Partnership</rpOrgName>
+    <rpPosName>GIS Technician</rpPosName>
+    <rpCntInfo>
+      <cntPhone>
+        <voiceNum>804-545-5689</voiceNum>
+        <faxNum>804-545-5681</faxNum>
+      </cntPhone>
+      <cntAddress>
+        <delPoint>901 East Byrd Street, 18th floor</delPoint>
+        <delPoint>P.O. Box 798</delPoint>
+        <city>Richmond</city>
+        <adminArea>Virginia</adminArea>
+        <postCode>23218-0798</postCode>
+        <country>USA</country>
+        <eMailAdd>LDuncan@yesvirginia.org</eMailAdd>
+      </cntAddress>
+      <cntHours>9:00am - 5:00pm</cntHours>
+    </rpCntInfo>
+    <role>
+      <RoleCd value="007" />
+    </role>
+  </mdContact>
+  <mdStanName>ArcGIS Metadata</mdStanName>
+  <mdStanVer>1.0</mdStanVer>
+  <distInfo>
+    <distributor>
+      <distorCont>
+        <rpIndName>Lyndsay Duncan</rpIndName>
+        <rpOrgName>Virginia Economic Development Partnership</rpOrgName>
+        <rpPosName>GIS Technician</rpPosName>
+        <rpCntInfo>
+          <cntPhone>
+            <voiceNum>804-545-5689</voiceNum>
+            <faxNum>804-545-5681</faxNum>
+          </cntPhone>
+          <cntAddress>
+            <delPoint>901 East Bryd Street, 18th floor</delPoint>
+            <delPoint>P.O. Box 798</delPoint>
+            <city>Richmond</city>
+            <adminArea>Virginia</adminArea>
+            <postCode>23218-0798</postCode>
+            <country>USA</country>
+            <eMailAdd>LDuncan@yesvirginia.org</eMailAdd>
+          </cntAddress>
+          <cntHours>9:00am - 5:00pm</cntHours>
+        </rpCntInfo>
+        <role>
+          <RoleCd value="005" />
+        </role>
+      </distorCont>
+      <distorOrdPrc>
+        <resFees>None</resFees>
+        <planAvDtTm />
+        <ordInstr>Contact VEDP GIS</ordInstr>
+        <ordTurn>Asap</ordTurn>
+      </distorOrdPrc>
+      <distorOrdPrc>
+        <ordInstr>Email VEDP GIS staff for request.</ordInstr>
+        <planAvDtTm />
+      </distorOrdPrc>
+    </distributor>
+    <distFormat>
+      <formatName>ARCE</formatName>
+      <formatVer>ESRI ArcGIS (ArcInfo) 9.2</formatVer>
+      <formatSpec>ESRI shapefile</formatSpec>
+      <fileDecmTech>no compression applied</fileDecmTech>
+    </distFormat>
+    <distTranOps>
+      <onLineSrc>
+        <linkage>http://gis.vedp.org/data_search.aspx</linkage>
+      </onLineSrc>
+    </distTranOps>
+    <distTranOps>
+      <onLineSrc>
+        <linkage>http://gis.vedp.org/data_search.aspx</linkage>
+        <orDesc>http://gis.vedp.org/data_search.aspx</orDesc>
+      </onLineSrc>
+    </distTranOps>
+  </distInfo>
+  <dataIdInfo>
+    <idCitation>
+      <resTitle>Wineries in Virginia</resTitle>
+      <date>
+        <pubDate />
+      </date>
+      <resEd>2</resEd>
+      <citRespParty>
+        <rpOrgName>Virginia Economic Development Partnership<!-- WARNING: translation from FGDC is ambiguous, this may require correction --></rpOrgName>
+        <rpCntInfo>
+          <cntAddress>
+            <delPoint>Richmond, Virginia<!-- WARNING: translation from FGDC is ambiguous, this may require correction --></delPoint>
+          </cntAddress>
+        </rpCntInfo>
+        <role>
+          <RoleCd value="010" />
+        </role>
+      </citRespParty>
+      <citRespParty>
+        <rpOrgName>Virginia Economic Development Partnership<!-- WARNING: translation from FGDC is ambiguous, this may require correction --></rpOrgName>
+        <role>
+          <RoleCd value="006" />
+        </role>
+      </citRespParty>
+    </idCitation>
+    <idAbs>Wineries and vineyards provide a unique experience for visitors and tourists in Virginia. As part of quality of life and recreation data, their locations represent a type of outing and agribuisness valued by many.</idAbs>
+    <idPurp>This dataset was developed to accurately show the locations of wineries and vineyards throughout Virginia.</idPurp>
+    <idStatus>
+      <ProgCd value="001" />
+    </idStatus>
+    <idPoC>
+      <rpIndName>Lyndsay Duncan</rpIndName>
+      <rpOrgName>Virginia Economic Development Partnership</rpOrgName>
+      <rpPosName>GIS Technician</rpPosName>
+      <rpCntInfo>
+        <cntPhone>
+          <voiceNum>804-545-5689</voiceNum>
+          <faxNum>804-545-5681</faxNum>
+        </cntPhone>
+        <cntAddress>
+          <delPoint>P.O. Box 798</delPoint>
+          <delPoint>901 East Byrd Street, 18th floor</delPoint>
+          <city>Richmond</city>
+          <adminArea>Virginia</adminArea>
+          <postCode>23218-0798</postCode>
+          <country>USA</country>
+          <eMailAdd>LDuncan@yesvirginia.org</eMailAdd>
+        </cntAddress>
+        <cntHours>9:00am - 5:00pm</cntHours>
+      </rpCntInfo>
+      <role>
+        <RoleCd value="007" />
+      </role>
+    </idPoC>
+    <resMaint>
+      <maintFreq>
+        <MaintFreqCd value="008" />
+      </maintFreq>
+    </resMaint>
+    <placeKeys>
+      <keyword>Commonwealth</keyword>
+      <keyword>Virginia</keyword>
+    </placeKeys>
+    <stratKeys>
+      <keyword>None</keyword>
+    </stratKeys>
+    <tempKeys>
+      <keyword>2009</keyword>
+    </tempKeys>
+    <themeKeys>
+      <keyword>Red</keyword>
+      <keyword>Winemaking</keyword>
+      <keyword>Mead</keyword>
+      <keyword>Negociant</keyword>
+      <keyword>Cider</keyword>
+      <keyword>Alcohol</keyword>
+      <keyword>Oenologist</keyword>
+      <keyword>Sommelier</keyword>
+      <keyword>Tours</keyword>
+      <keyword>economy</keyword>
+      <keyword>farming</keyword>
+      <keyword>Vintage</keyword>
+      <keyword>Bottle</keyword>
+      <keyword>Production</keyword>
+      <keyword>Viticulturalist</keyword>
+      <keyword>Vintner</keyword>
+      <keyword>Fermentation</keyword>
+      <keyword>Grape</keyword>
+      <keyword>Farm</keyword>
+      <keyword>Cellar</keyword>
+      <keyword>Winemaker</keyword>
+      <keyword>Winery</keyword>
+      <keyword>Wine</keyword>
+      <keyword>Tasting</keyword>
+      <keyword>White</keyword>
+    </themeKeys>
+    <searchKeys>
+      <keyword>Red</keyword>
+      <keyword>Alcohol</keyword>
+      <keyword>Winemaking</keyword>
+      <keyword>Mead</keyword>
+      <keyword>Negociant</keyword>
+      <keyword>economy</keyword>
+      <keyword>Negociant</keyword>
+      <keyword>Bottle</keyword>
+      <keyword>Oenologist</keyword>
+      <keyword>None</keyword>
+      <keyword>2009</keyword>
+      <keyword>Viticulturalist</keyword>
+      <keyword>Cider</keyword>
+      <keyword>Alcohol</keyword>
+      <keyword>Commonwealth</keyword>
+      <keyword>Winery</keyword>
+      <keyword>Tasting</keyword>
+      <keyword>Virginia</keyword>
+      <keyword>Winemaker</keyword>
+      <keyword>Winemaking</keyword>
+      <keyword>farming</keyword>
+      <keyword>None</keyword>
+      <keyword>Oenologist</keyword>
+      <keyword>Sommelier</keyword>
+      <keyword>White</keyword>
+      <keyword>Tours</keyword>
+      <keyword>economy</keyword>
+      <keyword>farming</keyword>
+      <keyword>Commonwealth</keyword>
+      <keyword>Vintage</keyword>
+      <keyword>Farm</keyword>
+      <keyword>Bottle</keyword>
+      <keyword>Vintner</keyword>
+      <keyword>Production</keyword>
+      <keyword>Mead</keyword>
+      <keyword>Viticulturalist</keyword>
+      <keyword>Vintner</keyword>
+      <keyword>Cider</keyword>
+      <keyword>Red</keyword>
+      <keyword>Fermentation</keyword>
+      <keyword>Grape</keyword>
+      <keyword>Grape</keyword>
+      <keyword>Cellar</keyword>
+      <keyword>Tours</keyword>
+      <keyword>Farm</keyword>
+      <keyword>Fermentation</keyword>
+      <keyword>Cellar</keyword>
+      <keyword>Winemaker</keyword>
+      <keyword>Winery</keyword>
+      <keyword>2009</keyword>
+      <keyword>Vintage</keyword>
+      <keyword>Wine</keyword>
+      <keyword>Tasting</keyword>
+      <keyword>Production</keyword>
+      <keyword>Virginia</keyword>
+      <keyword>Sommelier</keyword>
+      <keyword>White</keyword>
+      <keyword>Wine</keyword>
+    </searchKeys>
+    <resConst>
+      <LegConsts>
+        <accessConsts>
+          <RestrictCd value="008" />
+        </accessConsts>
+        <useConsts>
+          <RestrictCd value="008" />
+        </useConsts>
+        <othConsts>Access constraints: None.</othConsts>
+      </LegConsts>
+    </resConst>
+    <resConst>
+      <LegConsts>
+        <accessConsts>
+          <RestrictCd value="008" />
+        </accessConsts>
+        <useConsts>
+          <RestrictCd value="008" />
+        </useConsts>
+        <othConsts>Access constraints: None.</othConsts>
+      </LegConsts>
+    </resConst>
+    <resConst>
+      <Consts>
+        <useLimit>Data is not to be re-distributed. Please contact VEDP staff for original copies of the data.</useLimit>
+      </Consts>
+    </resConst>
+    <aggrInfo>
+      <aggrDSName>
+        <resTitle>Virginia Wineries 2009</resTitle>
+        <date>
+          <pubDate />
+        </date>
+        <citRespParty>
+          <rpOrgName>Virginia Econmoic Development Partnership<!-- WARNING: translation from FGDC is ambiguous, this may require correction --></rpOrgName>
+          <rpCntInfo>
+            <cntAddress>
+              <delPoint>Richmond, Virginia<!-- WARNING: translation from FGDC is ambiguous, this may require correction --></delPoint>
+            </cntAddress>
+          </rpCntInfo>
+          <role>
+            <RoleCd value="010" />
+          </role>
+        </citRespParty>
+        <citRespParty>
+          <rpOrgName>Virginia Economic Development Partnership<!-- WARNING: translation from FGDC is ambiguous, this may require correction --></rpOrgName>
+          <role>
+            <RoleCd value="006" />
+          </role>
+        </citRespParty>
+        <presForm>
+          <PresFormCd value="005" />
+        </presForm>
+      </aggrDSName>
+      <assocType>
+        <AscTypeCd value="001" />
+      </assocType>
+    </aggrInfo>
+    <dataLang>
+      <languageCode value="en" />
+    </dataLang>
+    <tpCat>
+      <TopicCatCd value="005" />
+    </tpCat>
+    <tpCat>
+      <TopicCatCd value="001" />
+    </tpCat>
+    <dataExt>
+      <exDesc>July 2009</exDesc>
+      <tempEle>
+        <TempExtent>
+          <exTemp>
+            <TM_Instant>
+              <tmPosition>July 2009</tmPosition>
+            </TM_Instant>
+          </exTemp>
+        </TempExtent>
+      </tempEle>
+    </dataExt>
+  </dataIdInfo>
+  <mdConst>
+    <LegConsts>
+      <accessConsts>
+        <RestrictCd value="008" />
+      </accessConsts>
+      <useConsts>
+        <RestrictCd value="008" />
+      </useConsts>
+      <othConsts>Access constraints: None</othConsts>
+    </LegConsts>
+  </mdConst>
+  <mdConst>
+    <LegConsts>
+      <accessConsts>
+        <RestrictCd value="008" />
+      </accessConsts>
+      <useConsts>
+        <RestrictCd value="008" />
+      </useConsts>
+      <othConsts>Access constraints: None</othConsts>
+    </LegConsts>
+  </mdConst>
+  <dqInfo>
+    <dqScope>
+      <scpLvl>
+        <ScopeCd value="005" />
+      </scpLvl>
+    </dqScope>
+    <dqReport type="DQConcConsis">
+      <measDesc>These data are logically consistent, although no tests were performed.</measDesc>
+    </dqReport>
+    <dqReport type="DQCompOm">
+      <measDesc>All current wineries as tracked by the Virginia Wineries Association are included in this dataset and are as complete as possible at the time this dataset was created.</measDesc>
+    </dqReport>
+    <dqReport type="DQQuanAttAcc">
+      <measDesc>All attributes were assigned using information from the Virginia Wineries Association list of Wineries and Vineyards (2009).</measDesc>
+    </dqReport>
+    <dqReport type="DQAbsExtPosAcc">
+      <measDesc>Not applicable.</measDesc>
+    </dqReport>
+    <dqReport type="DQAbsExtPosAcc">
+      <measDesc>The horizontal positional accuracy meets 1:10,000 national map standards.</measDesc>
+    </dqReport>
+    <dataLineage>
+      <prcStep>
+        <stepDesc>Winery locations were further digiitized to reflect more accurate locations over top of VBMP aerial imagery.</stepDesc>
+        <stepDateTm />
+        <stepProc>
+          <rpIndName>Eric Hetzer</rpIndName>
+          <rpOrgName>Virginia Economic Development Partnership</rpOrgName>
+          <rpPosName>GIS Technician</rpPosName>
+          <rpCntInfo>
+            <cntPhone>
+              <voiceNum>804-545-5689</voiceNum>
+              <faxNum>804-545-5681</faxNum>
+            </cntPhone>
+            <cntAddress>
+              <delPoint>901 East Byrd Street, 18th Floor West</delPoint>
+              <delPoint>P.O. Box 798</delPoint>
+              <city>Richmond</city>
+              <adminArea>Virginia</adminArea>
+              <postCode>23218-0798</postCode>
+              <country>USA</country>
+              <eMailAdd>LDuncan@yesvirginia.org</eMailAdd>
+            </cntAddress>
+            <cntHours>9:00am - 5:00pm</cntHours>
+          </rpCntInfo>
+          <role>
+            <RoleCd value="009" />
+          </role>
+        </stepProc>
+      </prcStep>
+      <prcStep>
+        <stepDesc>Spreadsheet created from listing of wineries in Virginia at www.virginiawines.org</stepDesc>
+        <stepDateTm />
+        <stepProc>
+          <rpIndName>Eric Hetzer</rpIndName>
+          <rpOrgName>Virginia Economic Development Partnership</rpOrgName>
+          <rpCntInfo>
+            <cntPhone>
+              <voiceNum>804-545-5600</voiceNum>
+              <faxNum>804-545-5681</faxNum>
+            </cntPhone>
+            <cntAddress>
+              <delPoint>901 East Byrd Street, 18th floor</delPoint>
+              <delPoint>P.O. Box 798</delPoint>
+              <city>Richmond</city>
+              <adminArea>Virginia</adminArea>
+              <postCode>23218-0798</postCode>
+              <country>USA</country>
+            </cntAddress>
+          </rpCntInfo>
+          <role>
+            <RoleCd value="009" />
+          </role>
+        </stepProc>
+      </prcStep>
+      <prcStep>
+        <stepDesc>Virginia Wineries addresses geocoded using ESRI's Buisness Analyst 9.2 USA Geocoding Service (2009).</stepDesc>
+        <stepDateTm />
+        <stepProc>
+          <rpIndName>Eric Hetzer</rpIndName>
+          <rpOrgName>Virginia Economic Development Partnership</rpOrgName>
+          <rpPosName>GIS Technician</rpPosName>
+          <rpCntInfo>
+            <cntPhone>
+              <voiceNum>804-545-5689</voiceNum>
+              <faxNum>804-545-5681</faxNum>
+            </cntPhone>
+            <cntAddress>
+              <delPoint>901 East Byrd Street, 18th Floor West</delPoint>
+              <delPoint>P.O. Box 798</delPoint>
+              <city>Richmond</city>
+              <adminArea>Virginia</adminArea>
+              <postCode>23218-0798</postCode>
+              <country>USA</country>
+              <eMailAdd>LDuncan@yesvirginia.org</eMailAdd>
+            </cntAddress>
+            <cntHours>9:00am - 5:00pm</cntHours>
+          </rpCntInfo>
+          <role>
+            <RoleCd value="009" />
+          </role>
+        </stepProc>
+      </prcStep>
+      <dataSource>
+        <srcDesc>Correct winery locations were digitized atop of VBMP orthophotograpy</srcDesc>
+        <srcScale>
+          <equScale>
+            <rfDenom>0</rfDenom>
+          </equScale>
+        </srcScale>
+        <srcCitatn>
+          <resTitle>VBMP Imagery</resTitle>
+          <date>
+            <pubDate>20020101</pubDate>
+          </date>
+          <citRespParty>
+            <rpOrgName>Virginia Geographic Information Network<!-- WARNING: translation from FGDC is ambiguous, this may require correction --></rpOrgName>
+            <role>
+              <RoleCd value="006" />
+            </role>
+          </citRespParty>
+          <presForm>
+            <PresFormCd value="005" />
+          </presForm>
+        </srcCitatn>
+      </dataSource>
+      <dataSource>
+        <srcDesc>USA Geocoding Service</srcDesc>
+        <srcScale>
+          <equScale>
+            <rfDenom>0</rfDenom>
+          </equScale>
+        </srcScale>
+        <srcCitatn>
+          <resTitle>USA Geocoding Service</resTitle>
+          <date>
+            <pubDate>20070101</pubDate>
+          </date>
+          <citRespParty>
+            <rpOrgName>ESRI Buisness Analyst 9.2<!-- WARNING: translation from FGDC is ambiguous, this may require correction --></rpOrgName>
+            <role>
+              <RoleCd value="006" />
+            </role>
+          </citRespParty>
+          <presForm>
+            <PresFormCd value="006" />
+          </presForm>
+        </srcCitatn>
+      </dataSource>
+      <dataSource>
+        <srcDesc>Lising of all of the wineries in Virginia in 2009 from the Virginia Wineries Association. Complete with names, adresses, contact information, websites, etc.</srcDesc>
+        <srcScale>
+          <equScale>
+            <rfDenom>0</rfDenom>
+          </equScale>
+        </srcScale>
+        <srcCitatn>
+          <resTitle>Virginia Wineries &amp; Vineyards 2009</resTitle>
+          <date>
+            <pubDate>20070101</pubDate>
+          </date>
+          <citRespParty>
+            <rpOrgName>Virginia Wineries Association<!-- WARNING: translation from FGDC is ambiguous, this may require correction --></rpOrgName>
+            <rpCntInfo>
+              <cntAddress>
+                <delPoint>Virginia<!-- WARNING: translation from FGDC is ambiguous, this may require correction --></delPoint>
+              </cntAddress>
+            </rpCntInfo>
+            <role>
+              <RoleCd value="010" />
+            </role>
+          </citRespParty>
+          <citRespParty>
+            <rpOrgName>Virginia Wineries Association<!-- WARNING: translation from FGDC is ambiguous, this may require correction --></rpOrgName>
+            <role>
+              <RoleCd value="006" />
+            </role>
+          </citRespParty>
+          <presForm>
+            <PresFormCd value="002" />
+          </presForm>
+          <otherCitDet>Virginia Wineries Association 515 King Street, Suite 420 Alexandria, Virginia 22314 Phone: 1-800-828-4637 E-mail: info@virginiawine.org Wineries by region and listed alphabetically</otherCitDet>
+        </srcCitatn>
+      </dataSource>
+    </dataLineage>
+  </dqInfo>
+  <spatRepInfo>
+    <VectSpatRep />
+  </spatRepInfo>
+</metadata>

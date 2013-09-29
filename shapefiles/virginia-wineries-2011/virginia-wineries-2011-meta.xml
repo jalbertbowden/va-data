@@ -1,0 +1,421 @@
+﻿<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Virginia Economic Development Partnership</origin>
+        <title>Virginia Wineries 2011</title>
+        <edition>2</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Richmond, Virginia</pubplace>
+          <publish>Virginia Economic Development Partnership</publish>
+        </pubinfo>
+        <onlink>http://gis.vedp.org/data_search.aspx</onlink>
+        <onlink>http://gis.vedp.org/data_search.aspx</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Wineries and vineyards provide a unique experience for visitors and tourists in Virginia. As part of quality of life and recreation data, their locations represent a type of outing and agribuisness valued by many.</abstract>
+      <purpose>This dataset was developed to accurately show the locations of wineries and vineyards throughout Virginia.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>July 2009</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>August 2011</current>
+    </timeperd>
+    <status>
+      <progress>In work</progress>
+      <update>Annually</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-82.521673</westbc>
+        <eastbc>-75.621484</eastbc>
+        <northbc>39.399470</northbc>
+        <southbc>36.590121</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>Red</themekey>
+        <themekey>Winemaking</themekey>
+        <themekey>Mead</themekey>
+        <themekey>Negociant</themekey>
+        <themekey>Cider</themekey>
+        <themekey>Alcohol</themekey>
+        <themekey>Oenologist</themekey>
+        <themekey>Sommelier</themekey>
+        <themekey>Tours</themekey>
+        <themekey>economy</themekey>
+        <themekey>farming</themekey>
+        <themekey>Vintage</themekey>
+        <themekey>Bottle</themekey>
+        <themekey>Production</themekey>
+        <themekey>Viticulturalist</themekey>
+        <themekey>Vintner</themekey>
+        <themekey>Fermentation</themekey>
+        <themekey>Grape</themekey>
+        <themekey>Farm</themekey>
+        <themekey>Cellar</themekey>
+        <themekey>Winemaker</themekey>
+        <themekey>Winery</themekey>
+        <themekey>Wine</themekey>
+        <themekey>Tasting</themekey>
+        <themekey>White</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Commonwealth</placekey>
+        <placekey>Virginia</placekey>
+      </place>
+      <stratum>
+        <stratkt>None</stratkt>
+        <stratkey>None</stratkey>
+      </stratum>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>2011</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>Restriction Code: other restrictions; Other Constraints: Access constraints: None.</accconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Virginia Economic Development Partnership</cntorg>
+          <cntper>Lyndsay Duncan</cntper>
+        </cntorgp>
+        <cntpos>GIS Specialist</cntpos>
+        <cntaddr>
+          <addrtype>Unknown</addrtype>
+          <address>P.O. Box 798</address>
+          <address>901 East Byrd Street, 18th floor</address>
+          <city>Richmond</city>
+          <state>Virginia</state>
+          <postal>23218-0798</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>804-545-5689</cntvoice>
+        <cntfax>804-545-5681</cntfax>
+        <cntemail>LDuncan@yesvirginia.org</cntemail>
+        <hours>9:00am - 5:00pm</hours>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows Server 2008 R2 Version 6.1 (Build 7601) Service Pack 1; ESRI ArcGIS 10.0.2.3200</native>
+    <crossref>
+      <citeinfo>
+        <origin>Virginia Economic Development Partnership</origin>
+        <title>Virginia Wineries 2009</title>
+        <geoform>map</geoform>
+        <pubinfo>
+          <pubplace>Richmond, Virginia</pubplace>
+          <publish>Virginia Econmoic Development Partnership</publish>
+        </pubinfo>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>All attributes were assigned using information from the Virginia Wineries Association list of Wineries and Vineyards (2009).</attraccr>
+    </attracc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Virginia Geographic Information Network</origin>
+            <pubdate>20020101</pubdate>
+            <title>VBMP Imagery</title>
+            <geoform>map</geoform>
+          </citeinfo>
+        </srccite>
+        <typesrc>None</typesrc>
+        <srccitea>VBMP Imagery</srccitea>
+        <srccontr>Correct winery locations were digitized atop of VBMP orthophotograpy</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>ESRI Buisness Analyst 9.2</origin>
+            <pubdate>20070101</pubdate>
+            <title>USA Geocoding Service</title>
+            <geoform>map</geoform>
+          </citeinfo>
+        </srccite>
+        <typesrc>None</typesrc>
+        <srccitea>USA Geocoding Service</srccitea>
+        <srccontr>USA Geocoding Service</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Virginia Wineries Association</origin>
+            <pubdate>20070101</pubdate>
+            <title>Virginia Wineries &amp; Vineyards 2011</title>
+            <geoform>document</geoform>
+            <pubinfo>
+              <pubplace>Virginia Wineries Association, Alexandria, Virginia, 22314, United States, 515 King Street, Suite 420</pubplace>
+              <publish>Virginia Wineries Association</publish>
+            </pubinfo>
+            <othercit>Wineries by region and listed alphabetically</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>None</typesrc>
+        <srccitea>Virginia Wineries &amp; Vineyards 2011</srccitea>
+        <srccontr>Lising of all of the wineries in Virginia in 2011 from the Virginia Wineries Association. Complete with names, adresses, contact information, websites, etc.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Winery locations were further digiitized to reflect more accurate locations over top of VBMP aerial imagery.</procdesc>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Virginia Economic Development Partnership</cntorg>
+              <cntper>Angela Campagnoli</cntper>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>Unknown</addrtype>
+              <address>901 East Byrd Street, 18th Floor West</address>
+              <address>P.O. Box 798</address>
+              <city>Richmond</city>
+              <state>Virginia</state>
+              <postal>23218-0798</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>804-545-5689</cntvoice>
+            <cntfax>804-545-5681</cntfax>
+            <cntemail>LDuncan@yesvirginia.org</cntemail>
+            <hours>9:00am - 5:00pm</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Spreadsheet created from listing of wineries in Virginia at www.virginiawines.org</procdesc>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Virginia Economic Development Partnership</cntorg>
+              <cntper>Angela Campagnoli</cntper>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>Unknown</addrtype>
+              <address>901 East Byrd Street, 18th floor</address>
+              <address>P.O. Box 798</address>
+              <city>Richmond</city>
+              <state>Virginia</state>
+              <postal>23218-0798</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>804-545-5600</cntvoice>
+            <cntfax>804-545-5681</cntfax>
+            <cntemail>LDuncan@yesvirginia.org</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Virginia Wineries addresses geocoded using ESRI's 10.0 US Streets Geocode Service from ArcGIS Online (2011).</procdesc>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Virginia Economic Development Partnership</cntorg>
+              <cntper>Angela Campagnoli</cntper>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>Unknown</addrtype>
+              <address>901 East Byrd Street, 18th Floor West</address>
+              <address>P.O. Box 798</address>
+              <city>Richmond</city>
+              <state>Virginia</state>
+              <postal>23218-0798</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>804-545-5689</cntvoice>
+            <cntfax>804-545-5681</cntfax>
+            <cntemail>LDuncan@yesvirginia.org</cntemail>
+            <hours>9:00am - 5:00pm</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>188</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.9831528411952133e-009</latres>
+        <longres>8.9831528411952133e-009</longres>
+        <geogunit>Decimal Degree</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D WGS 1984</horizdn>
+        <ellips>WGS 1984</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Virginia Wineries 2011</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Name</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Address</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>City</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>State</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Zip</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Addresss2</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Contact</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Phone</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Phone2</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Fax</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Email</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Web</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>LV</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Weddings</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Food_Avail</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Picnicarea</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Gift_shop</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>tasting_rm</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Group_tour</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>overnight</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>privt_prty</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Trails</attrlabl>
+        <attrdomv>
+          <udom>Wine trails separated by </udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Virginia Economic Development Partnership</cntorg>
+          <cntper>Lyndsay Duncan</cntper>
+        </cntorgp>
+        <cntpos>GIS Technician</cntpos>
+        <cntaddr>
+          <addrtype>Unknown</addrtype>
+          <address>901 East Bryd Street, 18th floor</address>
+          <address>P.O. Box 798</address>
+          <city>Richmond</city>
+          <state>Virginia</state>
+          <postal>23218-0798</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>804-545-5689</cntvoice>
+        <cntfax>804-545-5681</cntfax>
+        <cntemail>LDuncan@yesvirginia.org</cntemail>
+        <hours>9:00am - 5:00pm</hours>
+      </cntinfo>
+    </distrib>
+    <distliab>See access and use constraints information.</distliab>
+    <stdorder>
+      <fees>None</fees>
+      <ordering>Contact VEDP GIS</ordering>
+      <turnarnd>Asap</turnarnd>
+    </stdorder>
+    <stdorder>
+      <ordering>Email VEDP GIS staff for request.</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20110822</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Virginia Economic Development Partnership</cntorg>
+          <cntper>Lyndsay Duncan</cntper>
+        </cntorgp>
+        <cntpos>GIS Specialist</cntpos>
+        <cntaddr>
+          <addrtype>Unknown</addrtype>
+          <address>901 East Byrd Street, 18th floor</address>
+          <address>P.O. Box 798</address>
+          <city>Richmond</city>
+          <state>Virginia</state>
+          <postal>23218-0798</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>804-545-5689</cntvoice>
+        <cntfax>804-545-5681</cntfax>
+        <cntemail>LDuncan@yesvirginia.org</cntemail>
+        <hours>9:00am - 5:00pm</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <metac>Restriction Code: other restrictions; Other Constraints: Access constraints: None</metac>
+  </metainfo>
+</metadata>

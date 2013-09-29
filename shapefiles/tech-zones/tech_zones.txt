@@ -1,0 +1,356 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Virginia Economic Development Partnership
+      Publication_Date: 20090501
+      Title: Technology Zones in Virginia
+      Geospatial_Data_Presentation_Form: vector digital data
+      Publication_Information:
+        Publication_Place: Richmond, VA
+        Publisher: Virginia Economic Development Partnership
+      Online_Linkage: http://www.yesvirginia.org
+      Online_Linkage: http://gis.vedp.org/
+  Description:
+    Abstract:
+      Virginia cities, counties and towns have the ability to establish, by ordinance, one or more technology zones to attract growth in targeted industries. Qualified businesses locating or expanding operations in a zone may receive local
+      permit and user fee waivers, local tax incentives, special zoning treatment or exemption from ordinances. Once a local technology zone has been established, incentives may be provided for up to ten years. Each locality designs and administers its own program.
+      As of May 2009, localities that have established technology zones include Arlington, Culpepper, Frederick, Halifax, Henry, Roanoke, Rockingham, Russell, Spotsylvania, Smyth and Warren Counties, the cities of Bedford, Charlottesville, Falls Church, Franklin, Harrisonburg, Lynchburg, Roanoke, and Winchester, and the towns of Front Royal in Warren County, and Marion in Smyth County.
+    Purpose: The purpose of the state technology zones dataset is to illustrate the economic incentive provided by these regions to businesses contemplating expanding or relocating to Virginia.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 2009
+    Currentness_Reference: ground condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: Annually
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -82.160626
+      East_Bounding_Coordinate: -76.818883
+      North_Bounding_Coordinate: 39.303976
+      South_Bounding_Coordinate: 36.513075
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 1915 Topic Category
+      Theme_Keyword: economy
+    Theme:
+      Theme_Keyword_Thesaurus: none
+      Theme_Keyword: technology
+      Theme_Keyword: zone
+      Theme_Keyword: economic
+      Theme_Keyword: incentive
+      Theme_Keyword: economy
+      Theme_Keyword: business
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: Commonwealth
+      Place_Keyword: Virginia
+      Place_Keyword: statewide
+      Place_Keyword: locality
+  Access_Constraints: None
+  Use_Constraints: None
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Virginia Economic Development Partnership
+        Contact_Person: Trent Park
+      Contact_Position: GIS Manager
+      Contact_Address:
+        Address_Type: mailing address
+        Address: 901 E. Byrd Street
+        City: Richmond
+        State_or_Province: VA
+        Postal_Code: 23218-0798
+        Country: US
+      Contact_Voice_Telephone: 804-545-5685
+      Contact_Facsimile_Telephone: 804-545-5681
+      Contact_Electronic_Mail_Address: tpark@yesvirginia.org
+      Hours_of_Service: 8:00-5:00 EST
+  Data_Set_Credit: Virginia Economic Development Partnership
+  Native_Data_Set_Environment: Microsoft Windows 2000 Version 5.2 (Build 3790) Service Pack 2; ESRI ArcCatalog 9.3.1.3000
+  Cross_Reference:
+    Citation_Information:
+      Originator: Virginia Economic Development Parntnership
+      Publication_Date: 2005
+      Title: Technology Zones in Virginia
+      Publication_Information:
+        Publication_Place: Richmond, VA
+        Publisher: VEDP
+      Online_Linkage: http://www.yesvirginia.org
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: The Technology Zones coverage was created from data received from individual localities.  Data will be updated on an annual basis is coordination with the VEDP Research Division
+  Logical_Consistency_Report: These data are logically consistent, though no tests were performed.  Polygons are positionally accurate.
+  Completeness_Report: All local Technology Zones in the Commonwealth of Virginia are believed to be as complete as possible based on information obtained at the time of data creation.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: The horizontal positional accuracy meets 1:24,000 national map accuracy standards.
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: NA
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Localities
+          Publication_Date: 2005
+          Title: Data from individual localities
+          Geospatial_Data_Presentation_Form: map
+          Online_Linkage: NA
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2005
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: LOC
+      Source_Contribution: Data received from the localities was used as technology zones distribution data.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: United States Geologic Survey
+          Publication_Date: Unknown
+          Title: Digital Raster Graphic
+          Geospatial_Data_Presentation_Form: map
+          Online_Linkage: http://www.usgs.gov
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: 1:24,000 topograhic images and digital orthophotos
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: unknown
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: DRG
+      Source_Contribution: USGS DRGs were used along with PDC information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Virginia Geographic Information Network
+          Publication_Date: 2007
+          Title: Virginia Base Mapping Program
+          Online_Linkage: http://www.isp.virginia.gov/
+      Type_of_Source_Media: CD-ROM
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2007
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: VBMP
+      Source_Contribution: Technology Zone boundaries were mapped based on VBMP aerial imagery.
+    Process_Step:
+      Process_Description: Individual localities sent hard copy maps, with technology zones indicated.  Hard copy maps were digitized in ArcGIS on top of vbmp imagery.
+      Source_Used_Citation_Abbreviation: LOC
+      Source_Used_Citation_Abbreviation: DRG
+      Process_Date: 20050627
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Trent M Park
+            Contact_Organization: Virginia Economic Development Partnership
+          Contact_Position: GIS Manager
+          Contact_Address:
+            Address_Type: mailing address
+            Address: 901 East Byrd Street
+            City: Richmond
+            State_or_Province: VA
+            Postal_Code: 23218-0798
+            Country: US
+          Contact_Voice_Telephone: 804-545-5685
+          Contact_Facsimile_Telephone: 804-545-5681
+          Contact_Electronic_Mail_Address: tpark@yesvirginia.org
+          Hours_of_Service: 8:00 AM - 5:00 PM EST
+    Process_Step:
+      Process_Description: Michelle Mende in VEDP's Research Division contacted all of the localities and collected information on the status of local technology zones.  The localities with technology zones were instructed to either send mapping or GIS shapefiles of their technology zones to assist in the update of this dataset.  Hard copy maps were digitized using ESRI ArcGIS (ArcInfo 9.3) with VBMP and county parcel data (when available) as a basemap.  Shapefiles were incorporated into the overall technology zones shapefile.
+      Source_Used_Citation_Abbreviation: LOC
+      Source_Used_Citation_Abbreviation: VBMP
+      Process_Date: May 2009
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Lyndsay Duncan
+            Contact_Organization: Virginia Economic Development Partnership
+          Contact_Position: GIS Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 901 East Byrd Street, 18th Floor West
+            Address: P.O. Box 798
+            City: Richmond
+            State_or_Province: Virginia
+            Postal_Code: 23218-0798
+            Country: USA
+          Contact_Voice_Telephone: 804-545-5689
+          Contact_Facsimile_Telephone: 804-545-5681
+          Contact_Electronic_Mail_Address: LDuncan@yesvirginia.org
+          Hours_of_Service: 8:00am - 5:00pm
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: G-polygon
+      Point_and_Vector_Object_Count: 34
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Map_Projection:
+        Map_Projection_Name: Lambert Conformal Conic
+        Lambert_Conformal_Conic:
+          Standard_Parallel: 37.000000
+          Standard_Parallel: 39.500000
+          Longitude_of_Central_Meridian: -79.500000
+          Latitude_of_Projection_Origin: 36.000000
+          False_Easting: 0.000000
+          False_Northing: 0.000000
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: coordinate pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 0.000000
+          Ordinate_Resolution: 0.000000
+        Planar_Distance_Units: meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+  Vertical_Coordinate_System_Definition:
+    Altitude_System_Definition:
+      Altitude_Datum_Name: North American Vertical Datum of 1988
+      Altitude_Resolution: 1.000000
+      Altitude_Distance_Units: meters
+      Altitude_Encoding_Method: Explicit elevation coordinate included with horizontal coordinates
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: state_techzones
+      Entity_Type_Definition: Virginia Technology Zones
+      Entity_Type_Definition_Source: User defined
+    Attribute:
+      Attribute_Label: OBJECTID
+      Attribute_Definition: Internal Feature Number
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Internal ID number
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character Field
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character Field
+    Attribute:
+      Attribute_Label: SHAPE
+      Attribute_Definition: Feature geometry
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: NAME
+      Attribute_Definition: Tech Zone name
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: CFIPS
+      Attribute_Definition: CFIPS (text)
+      Attribute_Definition_Source: VEDP
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character Field
+    Attribute:
+      Attribute_Label: CFIPS_NUM
+      Attribute_Definition: CFIPS (number)
+      Attribute_Definition_Source: DCR
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character Field
+    Attribute:
+      Attribute_Label: TECH_COUNC
+      Attribute_Definition: Technology Council Name
+      Attribute_Definition_Source: VEDP
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character Field
+    Attribute:
+      Attribute_Label: COUNTY_NAM
+      Attribute_Definition: County Name
+      Attribute_Definition_Source: DCR
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: SOURCE
+      Attribute_Definition: Tech zone data update source
+      Attribute_Definition_Source: user defined
+  Overview_Description:
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Virginia Economic Development Partnership
+        Contact_Person: Trent M Park
+      Contact_Position: GIS Manager
+      Contact_Address:
+        Address_Type: mailing address
+        Address: 901 East Byrd Street
+        City: Richmond
+        State_or_Province: VA
+        Postal_Code: 23218-0798
+        Country: US
+      Contact_Voice_Telephone: 804-545-5685
+      Contact_Facsimile_Telephone: 804-545-5681
+      Contact_Electronic_Mail_Address: tpark@yesvirgina.org
+      Hours_of_Service: 8:00 AM - 5:00 PM EST
+  Resource_Description: DownloadableData
+  Distribution_Liability: Although all data referred to in this documentation have been used by the VEDP, no warranty, expressed or implied, is made by the VEDP as to the accuracy of the data.  The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the VEDP inthe use of these data.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: Shapefile
+        Transfer_Size: 0.154
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://gis.vedp.org
+          Access_Instructions: Local area network
+    Fees: None
+  Available_Time_Period:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 2009
+Metadata_Reference_Information:
+  Metadata_Date: 20090529
+  Metadata_Future_Review_Date: 20100529
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Virginia Economic Development Partnership
+        Contact_Person: Lyndsay Duncan
+      Contact_Position: GIS Specialist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 901 E. Byrd Street, 18th Floor West
+        Address: P.O. Box 798
+        City: Richmond
+        State_or_Province: VA
+        Postal_Code: 23218-0798
+        Country: US
+      Contact_Voice_Telephone: 804-545-5689
+      Contact_Facsimile_Telephone: 804-545-5681
+      Contact_Electronic_Mail_Address: Lduncan@yesvirginia.org
+      Hours_of_Service: 8:00 AM - 5:00 PM EST
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Access_Constraints: none
+  Metadata_Use_Constraints: none
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile

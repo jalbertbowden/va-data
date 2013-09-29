@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Virginia Economic Development Partnership</origin>
+				<pubdate>20050627</pubdate>
+				<title>Technology Zones in Virginia</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink>http://www.yesvirginia.org</onlink>
+				<ftname Sync="TRUE">state_techzones</ftname><onlink>http://gis.vedp.org/</onlink><pubinfo><pubplace>Richmond, VA</pubplace><publish>Virginia Economic Development Partnership</publish></pubinfo></citeinfo>
+		</citation>
+		<descript>
+			<abstract>Virginia cities, counties and towns have the ability to establish, by ordinance, one or more technology zones to attract growth in targeted industries. Qualified businesses locating or expanding operations in a zone may receive local
+permit and user fee waivers, local tax incentives, special zoning treatment or exemption from ordinances. Once a local technology zone has been established, incentives may be provided for up to ten years. Each locality designs and administers its own program.
+Localities that have established technology zones include Arlington, Roanoke, Rockingham, Russell and Smyth Counties, the cities of Charlottesville, Falls Church, Franklin, Hampton, Harrisonburg, Lynchburg and Winchester, and the towns of Front Royal in Warren County and Kilmarnock in Lancaster County. In addition, the City of Virginia Beach has an approved technology zone ordinance, but has not yet designated a zone.  state_techzones was digitized using hardcopy paper maps or verbal boundary descriptions provided by the localities.  Boundaries were identified using vbmp imagery and VDOT centerline data, 2005.</abstract>
+			<purpose>The purpose of state_techzones is to illustrate the economic incentive provided by these regions to businesses contemplating expanding or relocating to Virginia.</purpose>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2005</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-82.160626</westbc>
+				<eastbc Sync="TRUE">-76.305894</eastbc>
+				<northbc Sync="TRUE">39.303976</northbc>
+				<southbc Sync="TRUE">36.500878</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">-229538.516800</leftbc><rightbc Sync="TRUE">275596.580800</rightbc><bottombc Sync="TRUE">60180.701000</bottombc><topbc Sync="TRUE">366691.552600</topbc></lboundng></spdom>
+		<keywords>
+			<place>
+				<placekt>None</placekt>
+				<placekey>Commonwealth</placekey>
+				<placekey>Virginia</placekey>
+				<placekey>statewide</placekey>
+				<placekey>locality</placekey>
+			</place>
+			<theme><themekt>ISO 1915 Topic Category</themekt><themekey>economy</themekey></theme><theme><themekey>technology</themekey><themekey>zone</themekey><themekey>economic</themekey><themekey>incentive</themekey><themekey>economy</themekey><themekt>none</themekt><themekey>business</themekey></theme></keywords>
+		<accconst>None</accconst>
+		<useconst>None</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Virginia Economic Development Partnership</cntorg>
+					<cntper>Trent M Park</cntper>
+				</cntorgp>
+				<cntpos>GIS Manager</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>901 E. Byrd Street</address>
+					<city>Richmond</city>
+					<state>VA</state>
+					<postal>23218-0798</postal>
+					<country>US</country>
+				</cntaddr>
+				<cntvoice>804-545-5685</cntvoice>
+				<cntfax>804-545-5681</cntfax>
+				<cntemail>tpark@yesvirginia.org</cntemail>
+				<hours>8:00-5:00 EST</hours>
+			</cntinfo>
+		</ptcontac>
+		<datacred>Virginia Economic Development Partnership</datacred>
+		<native Sync="TRUE">Microsoft Windows 2000 Version 5.2 (Build 3790) Service Pack 2; ESRI ArcCatalog 9.3.1.3000</native>
+		<natvform Sync="TRUE">Personal GeoDatabase Feature Class</natvform><crossref><citeinfo><title>Technology Zones in Virginia</title><origin>Virginia Economic Development Parntnership</origin><pubdate>2005</pubdate><pubinfo><pubplace>Richmond, VA</pubplace><publish>VEDP</publish></pubinfo><onlink>http://www.yesvirginia.org</onlink></citeinfo></crossref></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>The Technology Zones coverage was created from data received from individual localities.  Data will be updated as needed.</attraccr>
+		</attracc>
+		<logic>These data are logically consistent, though no tests were performed.  Polygons are positionally accurate.</logic>
+		<complete>All local Technology Zones in the Commonwealth of Virginia are believed to be as complete as possible based on information obtained at the time of data creation.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>The horizontal positional accuracy meets 1:24,000 national map accuracy standards.</horizpar>
+			</horizpa>
+			<vertacc>
+				<vertaccr>NA</vertaccr>
+			</vertacc>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Localities</origin>
+						<pubdate>2005</pubdate>
+						<title>Data from individual localities</title>
+						<geoform>map</geoform>
+						<onlink>NA</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2005</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>LOC</srccitea>
+				<srccontr>Data received from the localities was used as technology zones distribution data.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>United States Geologic Survey</origin>
+						<pubdate>Unknown</pubdate>
+						<title>Digital Raster Graphic</title>
+						<geoform>map</geoform>
+						<onlink>http://www.usgs.gov</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>1:24,000 topograhic images and digital orthophotos</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>unknown</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>DRG</srccitea>
+				<srccontr>USGS DRGs were used along with PDC information</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>Individual localities sent hard copy maps, with technology zones indicated.  Hard copy maps were digitized in ArcGIS on top of vbmp imagery.  </procdesc>
+				<procdate>20050627</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Trent M Park</cntper>
+							<cntorg>Virginia Economic Development Partnership</cntorg>
+						</cntperp>
+						<cntpos>GIS Manager</cntpos>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>901 East Byrd Street</address>
+							<city>Richmond</city>
+							<state>VA</state>
+							<postal>23218-0798</postal>
+							<country>US</country>
+						</cntaddr>
+						<cntvoice>804-545-5685</cntvoice>
+						<cntfax>804-545-5681</cntfax>
+						<cntemail>tpark@yesvirginia.org</cntemail>
+						<hours>8:00 AM - 5:00 PM EST</hours>
+					</cntinfo>
+				</proccont>
+				<procsv>ArcInfo 9.1</procsv><srcused>LOC</srcused><srcused>DRG</srcused></procstep>
+			<procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">\\Supermothra2\Data\state\VEDP\technology_zones\geodatabase\techzones.mdb</srcused><procdate Sync="TRUE">20100426</procdate><proctime Sync="TRUE">09472900</proctime></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="state_techzones">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">39</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="state_techzones"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polygon</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">39</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000100</absres>
+						<ordres Sync="TRUE">0.000100</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">meters</plandu>
+				</planci>
+				<mapproj><mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn><lambertc><stdparll Sync="TRUE">37.000000</stdparll><stdparll Sync="TRUE">39.500000</stdparll><longcm Sync="TRUE">-79.500000</longcm><latprjo Sync="TRUE">36.000000</latprjo><feast Sync="TRUE">0.000000</feast><fnorth Sync="TRUE">0.000000</fnorth></lambertc></mapproj></planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><projcsn Sync="TRUE">NAD_1983_Lambert_Conformal_Conic</projcsn></cordsysn></horizsys>
+		<vertdef>
+			<altsys>
+				<altdatum>North American Vertical Datum of 1988</altdatum>
+				<altres>1.000000</altres>
+				<altunits>meters</altunits>
+				<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed Name="state_techzones">
+			<attr>
+				<attrlabl>OBJECTID</attrlabl>
+				<attrdef>Internal Feature Number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">OBJECTID</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr><attrlabl Sync="TRUE">Shape_Area</attrlabl><attalias Sync="TRUE">OBJECTID_1</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">COUNTY_NAM</attrlabl><attalias Sync="TRUE">COUNTY_NAM</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">20</attwidth><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">Shape</attrlabl><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><attrdef>County Name</attrdef><attrdefs>DCR</attrdefs><attrdomv><udom>Character Field</udom></attrdomv><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr>
+				<attrlabl>SHAPE</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">NAME</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">128</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr><attrlabl Sync="TRUE">NAME</attrlabl><attalias Sync="TRUE">CFIPS</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">CFIPS</attrlabl><attalias Sync="TRUE">CFIPS_NUM</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">4</attwidth><attrdef>CFIPS (text)</attrdef><attrdefs>VEDP</attrdefs><attrdomv><udom>Character Field</udom></attrdomv><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">CFIPS_NUM</attrlabl><attalias Sync="TRUE">TECH_COUNC</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">60</attwidth><attrdef>CFIPS (number)</attrdef><attrdefs>DCR</attrdefs><attrdomv><udom>Character Field</udom></attrdomv><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">TECH_COUNC</attrlabl><attalias Sync="TRUE">EDIT</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth><attrdef>Technology Zone Name</attrdef><attrdefs>VEDP</attrdefs><attrdomv><udom>Character Field</udom></attrdomv><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><enttyp>
+				<enttypl Sync="TRUE">state_techzones</enttypl>
+				<enttypd>Virginia Technology Zones</enttypd>
+				<enttypds>User defined</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">39</enttypc></enttyp>
+			<attr><attrlabl Sync="TRUE">EDIT</attrlabl><attalias Sync="TRUE">SOURCE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">SOURCE</attrlabl><attalias Sync="TRUE">Shape_Length</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Length of feature in internal units.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">Shape_Length</attrlabl><attalias Sync="TRUE">Shape_Area</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Length of feature in internal units.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv></attr></detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntpos>GIS Manager</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>901 East Byrd Street</address>
+					<city>Richmond</city>
+					<state>VA</state>
+					<postal>23218-0798</postal>
+					<country>US</country>
+				</cntaddr>
+				<cntvoice>804-545-5685</cntvoice>
+				<cntfax>804-545-5681</cntfax>
+				<cntemail>tpark@yesvirgina.org</cntemail>
+				<hours>8:00 AM - 5:00 PM EST</hours>
+				<cntorgp><cntorg>Virginia Economic Development Partnership</cntorg><cntper>Trent M Park</cntper></cntorgp></cntinfo>
+		</distrib>
+		<resdesc>DownloadableData</resdesc>
+		<distliab>Although all data referred to in this documentation have been used by the VEDP, no warranty, expressed or implied, is made by the VEDP as to the accuracy of the data.  The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the VEDP inthe use of these data.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>Shapefile</formname>
+					<transize Sync="TRUE">0.072</transize><dssize Sync="TRUE">0.072</dssize></digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://gis.vedp.org</networkr>
+							</networka>
+						</computer>
+						<accinstr>Local area network</accinstr>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>None</fees>
+		</stdorder>
+		<availabl><timeinfo><sngdate><caldate>2005</caldate></sngdate></timeinfo></availabl></distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20091215</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Virginia Economic Development Partnership</cntorg>
+					<cntper>Trent M Park</cntper>
+				</cntorgp>
+				<cntpos>GIS Specialist</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>901 E. Byrd Street</address>
+					<city>Richmond</city>
+					<state>VA</state>
+					<postal>23218-0798</postal>
+					<country>US</country>
+				</cntaddr>
+				<cntvoice>804-545-5685</cntvoice>
+				<cntfax>804-545-5681</cntfax>
+				<cntemail>tpark@yesvirginia.org</cntemail>
+				<hours>8:00 AM - 5:00 PM EST</hours>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><CreaDate>20100426</CreaDate><CreaTime>09472900</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20091215</SyncDate><SyncTime>16561400</SyncTime><ModDate>20091215</ModDate><ModTime>16561400</ModTime><PublishStatus>Published</PublishStatus><DataProperties><lineage><Process ToolSource="C:\Program Files (x86)\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyFeatures" Date="20090430" Time="101333">CopyFeatures T:\state\vedp\technology_zones\shapefiles\state_techzones.shp T:\state\vedp\technology_zones\geodatabase\techzones.mdb\state_techzones # 0 0 0</Process></lineage></DataProperties><MetaID>{FFB02328-8273-476C-B52A-F5864778DE6E}</MetaID></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows 2000 Version 5.2 (Build 3790) Service Pack 2; ESRI ArcCatalog 9.3.1.3000</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">state_techzones</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">-229538.5168</westBL><eastBL Sync="TRUE">275596.5808</eastBL><northBL Sync="TRUE">366691.5526</northBL><southBL Sync="TRUE">60180.701</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-82.160626</westBL><eastBL Sync="TRUE">-76.305894</eastBL><northBL Sync="TRUE">39.303976</northBL><southBL Sync="TRUE">36.500878</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">0.072</transSize></distorTran><distorFormat><formatName Sync="TRUE">Personal GeoDatabase Feature Class</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">NAD_1983_Lambert_Conformal_Conic</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="state_techzones"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">39</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20091215</mdDateSt><mdFileID Sync="TRUE">{9EDDFEEF-D7B4-4720-AE9F-B6821060AFF4}</mdFileID></metadata>

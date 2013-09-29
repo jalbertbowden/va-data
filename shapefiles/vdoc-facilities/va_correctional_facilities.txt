@@ -1,0 +1,607 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Virginia Economic Development Partnership (VEDP)
+      Publication_Date: 20070524
+      Title: Correctional Facilities in Virginia
+      Geospatial_Data_Presentation_Form: vector digital data
+      Publication_Information:
+        Publication_Place: Richmond, Virginina
+        Publisher: Virginia Economic Development Partnership
+      Other_Citation_Details: Initial information used was originally generated from EcoMaps.  The file used was the State Lands Coverage from 1993 which had polygons outlining state facilities.  2007 update was based on data from the VDOC, Federal BOP and VDJJ websites.
+      Online_Linkage: http://gis.vedp.org
+  Description:
+    Abstract: This dataset represents both adult and juvenile correctional facilities throughout Virginia.  The adult correctional facilities include information on male and female correctional facilities, work facilities, and mental treatment facilities run by Virginia Department of Corrections (VDOC).  The juvenile correctional facilities include information on the correctional center and reception/diagnostic centers run by the Virginia Department of Juvenile Justice (VDJJ).
+    Purpose: The purpose of this data is to provide a geographic representation of the location of the current correctional facilities in Virginia.
+    Supplemental_Information: none
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 20100819
+        Ending_Date: Present
+    Currentness_Reference: publication date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: As needed
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -83.114297
+      East_Bounding_Coordinate: -76.067970
+      North_Bounding_Coordinate: 39.061261
+      South_Bounding_Coordinate: 36.570862
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 1915 Topic Category
+      Theme_Keyword: society
+    Theme:
+      Theme_Keyword_Thesaurus: none
+      Theme_Keyword: correctional
+      Theme_Keyword: juvenile
+      Theme_Keyword: prison
+      Theme_Keyword: detention
+      Theme_Keyword: diversion
+      Theme_Keyword: facilities
+      Theme_Keyword: facility
+      Theme_Keyword: center
+      Theme_Keyword: centers
+    Place:
+      Place_Keyword_Thesaurus: none
+      Place_Keyword: Virginia
+    Stratum:
+    Temporal:
+      Temporal_Keyword_Thesaurus: none
+      Temporal_Keyword: 2010
+  Access_Constraints: none
+  Use_Constraints: none
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Virginia Economic Development Partnership
+        Contact_Person: Trent Park
+      Contact_Position: GIS Manager
+      Contact_Address:
+        Address_Type: mailing address
+        Address: 901 East Byrd Street, 18th Floor
+        Address: P.O. Box 798
+        City: Richmond
+        State_or_Province: Virginia
+        Postal_Code: 23218-0798
+        Country: USA
+      Contact_Voice_Telephone: 804-545-5685
+      Contact_Facsimile_Telephone: 804-545-5681
+      Contact_Electronic_Mail_Address: TPark@YesVirginia.org
+      Hours_of_Service: 8:00 AM - 5:00 PM EST
+  Native_Data_Set_Environment: ArcView shapefiles
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: Accuracy of the ditigization and attributes was tested by comparing the facility locations on DRG's, DOQQ's, SPOT2000, and 2006-07 VBMP imagery.
+  Logical_Consistency_Report: These data are believed to be logically consistent, though no tests were performed.
+  Completeness_Report: The facility information is believed to be as complete as possible based upon information obtained from Virginia Department of Corrections and Juvenile Justice web pages.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: The horizontal position accuracy meets 1:20,000 national map accuracy standards.
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: No vertical accuracy tests were performed.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Virginia Department of Corrections (VDOC)
+          Publication_Date: 2010
+          Title: Virginia Department of Corrections
+          Geospatial_Data_Presentation_Form: document
+          Publication_Information:
+            Publication_Place: Virginia
+            Publisher: Department of Corrections
+          Other_Citation_Details: This metadata document describes the overall data set; information about the correctional facilities within each region can be found under the web pages listed below.
+          Online_Linkage: http://www.vadoc.virginia.gov/facilities/
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2010
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: VDOC
+      Source_Contribution: The list of facilities was obtained from the Virginia Department of Corrections web page.  Facilities were divided among four regions.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Department of Corrections - Juvenile Justice
+          Publication_Date: 2010
+          Title: Virginia Department of Juvenile Justice
+          Geospatial_Data_Presentation_Form: document
+          Publication_Information:
+            Publication_Place: Virginia
+            Publisher: Department of Corrections - Juvenile Justice
+          Other_Citation_Details: This metadata document describes the overall data set; information about the juvenile correctional facilities can be found under the web pages listed below.
+          Online_Linkage: http://www.djj.virginia.gov
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2010
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: VDJJ
+      Source_Contribution: The list of facilities was obtained from the Virginia Department of Juvenile Justice web page.  Facilities were divided among three regions.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Federal Bureau of Prisons
+          Publication_Date: 2010
+          Title: Federal Bureau of Prisons
+          Other_Citation_Details: This metadata document describes the overall data set: information about the federal prisons and  can be found under the web pages listed below.
+          Online_Linkage: http://www.bop.gov/DataSource/execute/dsFacilityLoc
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2010
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: BOP
+      Source_Contribution: The list of facilities was obtained from the US Bureau of Prisons web page.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: VGIN
+          Publication_Date: 2007
+          Title: Virginia Base Mapping Program Orthophotography
+          Online_Linkage: http://www.vita.virginia.gov/isp/
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2007
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: VBMP
+      Source_Contribution: The facility locations were digitized on top of 2006-2007 Virginia Base Mapping Program orthophotography.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Virginia Geographic Information Network
+          Originator: Virginia Department of Corrections
+          Publication_Date: 2010
+          Title: VGIN VDOC Facilities
+          Online_Linkage: http://gismaps.virginia.gov/ftpfiles/VDOC20100723.zip
+      Type_of_Source_Media: CD-ROM
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2010
+      Source_Citation_Abbreviation: VGIN
+      Source_Contribution: Previous versions of this dataset were compared to a Virginia Department of Correction facilities dataset prepared by the Virginia Geographic Information Network for the VDOC.  Corrections were made as needed.
+    Process_Step:
+      Process_Description: The site location of each adult and juvenile correctional facility was orginally digitized using SPOT 2000, USGS Digital Orthophotos and USGS Digital Raster Graphics.  Updates to the dataset were digitized using 2002 VBMP Orthophotography.  The digitized point was chosen based upon the approximate location of the front door of the main facility on the property.  The projection of the digitized data set is in Lambert Conformal Conic, allowing use of this information with other VEDP coverages.  All of the digitizing was done utilizing ArcView.
+      Source_Used_Citation_Abbreviation: VBMP
+      Source_Used_Citation_Abbreviation: VDOC
+      Source_Used_Citation_Abbreviation: VDJJ
+      Source_Used_Citation_Abbreviation: BOP
+      Process_Date: 20070524
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Lyndsay Duncan
+            Contact_Organization: Virginia Economic Development Partnership
+          Contact_Position: GIS Technician
+          Contact_Address:
+            Address_Type: physical address
+            Address: 901 E. Byrd Street, 18th Floor
+            City: Richmond
+            State_or_Province: Virginia
+            Postal_Code: 23218
+            Country: USA
+          Contact_Address:
+            Address_Type: mailing address
+            Address: P.O. Box 798
+            City: Richmond
+            State_or_Province: VA
+            Postal_Code: 23218-0798
+            Country: USA
+          Contact_Voice_Telephone: (804) 545-5689
+          Contact_Facsimile_Telephone: (804) 545-5681
+          Contact_Electronic_Mail_Address: lduncan@yesvirginia.org
+          Hours_of_Service: 8:00 AM - 5:00 PM EST
+    Process_Step:
+      Process_Description: The Virginia Geographic Information Network produced an updated version of the Virginia Department of Corrections Facilities based on inforamtion provided to them from the VDOC.  This VGIN dataset was used to update those facilities in the VEDP Correctional Facilities dataset.  Additionally, corrections and updates were made to the Juvenile and Federal facilities also included in the VEDP dataset.  All attribute information was gathered from the official web pages for these facilities.
+      Source_Used_Citation_Abbreviation: VDOC
+      Source_Used_Citation_Abbreviation: VDJJ
+      Source_Used_Citation_Abbreviation: VGIN
+      Source_Used_Citation_Abbreviation: VBMP
+      Source_Used_Citation_Abbreviation: BOP
+      Process_Date: 20100819
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Lyndsay Duncan
+            Contact_Organization: Virginia Economic Development Partnership
+          Contact_Position: GIS Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 901 East Byrd Street
+            Address: P.O. Box 798
+            City: Richmond
+            State_or_Province: Virginia
+            Postal_Code: 23219-0798
+            Country: USA
+          Contact_Voice_Telephone: 804-545-5689
+          Contact_Facsimile_Telephone: 804-545-5681
+          Contact_Electronic_Mail_Address: LDuncan@yesvirginia.org
+          Hours_of_Service: 8:00am - 5:00pm EST
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Point
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Entity point
+      Point_and_Vector_Object_Count: 52
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Map_Projection:
+        Map_Projection_Name: Lambert Conformal Conic
+        Lambert_Conformal_Conic:
+          Standard_Parallel: 37.000000
+          Standard_Parallel: 39.500000
+          Longitude_of_Central_Meridian: -79.500000
+          Latitude_of_Projection_Origin: 36.000000
+          False_Easting: 0.000000
+          False_Northing: 0.000000
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: coordinate pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 0.000001
+          Ordinate_Resolution: 0.000001
+        Planar_Distance_Units: meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: VA_Correctional_Facilities
+      Entity_Type_Definition: Point location for adult and juvenile correctional facilities and work centers
+      Entity_Type_Definition_Source: User Defined
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: ID
+      Attribute_Definition: Unique number assigned to each facility
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Numeric field with unique identifiers for each facility
+    Attribute:
+      Attribute_Label: FACNAME
+      Attribute_Definition: Correctional Facility Name
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character field
+    Attribute:
+      Attribute_Label: ADDRESS1
+      Attribute_Definition: Address
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character field
+    Attribute:
+      Attribute_Label: ADDRESS2
+      Attribute_Definition: Address (P.O. Box)
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character field
+    Attribute:
+      Attribute_Label: CITY
+      Attribute_Definition: Name of City where facility is located
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character field
+    Attribute:
+      Attribute_Label: STATE
+      Attribute_Definition: State
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character field
+    Attribute:
+      Attribute_Label: ZIP
+      Attribute_Definition: Zip code
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character field
+    Attribute:
+      Attribute_Label: PHONENO
+      Attribute_Definition: Phone number of facility
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character field
+    Attribute:
+      Attribute_Label: FAXNO
+      Attribute_Definition: Fax number at facility
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character field
+    Attribute:
+      Attribute_Label: CONTACT
+      Attribute_Definition: Person to contact at correctional facility
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character field
+    Attribute:
+      Attribute_Label: TITLE
+      Attribute_Definition: Title of contact person
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character field
+    Attribute:
+      Attribute_Label: REGION
+      Attribute_Definition: Regional name of VDOC facilities located within a defined boundary based upon grouping of counties throughout the state
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Western
+          Enumerated_Domain_Value_Definition: Western Regional coverage of correctional facilities, regional boundary defined by VDOC
+          Enumerated_Domain_Value_Definition_Source: User Defined
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Eastern
+          Enumerated_Domain_Value_Definition: Eastern Regional coverage of correctional facilities, regional boundary defined by VDOC
+          Enumerated_Domain_Value_Definition_Source: User Defined
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Central
+          Enumerated_Domain_Value_Definition: Central Regional coverage of correctional facilities, regional boundary defined by VDOC
+          Enumerated_Domain_Value_Definition_Source: User Defined
+    Attribute:
+      Attribute_Label: FACTYPE
+      Attribute_Definition: Facility type (adult, juvenile, federal type, detention & deiversion)
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Adult
+          Enumerated_Domain_Value_Definition: Facilities where adults are housed
+          Enumerated_Domain_Value_Definition_Source: User Defined
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Juvenile
+          Enumerated_Domain_Value_Definition: Facilities where juveniles are housed
+          Enumerated_Domain_Value_Definition_Source: User Defined
+        Enumerated_Domain:
+          Enumerated_Domain_Value: USP
+          Enumerated_Domain_Value_Definition: United States Prison
+          Enumerated_Domain_Value_Definition_Source: user defined
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Detention
+          Enumerated_Domain_Value_Definition: Adult Detention Center
+          Enumerated_Domain_Value_Definition_Source: user defined
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Diversion
+          Enumerated_Domain_Value_Definition: Adult Diversion Center
+          Enumerated_Domain_Value_Definition_Source: User defined
+        Enumerated_Domain:
+          Enumerated_Domain_Value: FCI
+          Enumerated_Domain_Value_Definition: Federal Correctional Institution
+          Enumerated_Domain_Value_Definition_Source: User defined
+    Attribute:
+      Attribute_Label: FACLEVEL
+      Attribute_Definition: VDOC Security level assigned to each facility
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 6
+    Attribute:
+      Attribute_Label: DATEOPEN
+      Attribute_Definition: Date the facility opened
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1896
+          Range_Domain_Maximum: 2007
+    Attribute:
+      Attribute_Label: AVEDAILYPO
+      Attribute_Definition: Average Daily Population at the facility for the adults and average yearly population for the juveniles
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 40
+          Range_Domain_Maximum: 3007
+    Attribute:
+      Attribute_Label: SPECPOP
+      Attribute_Definition: Special population information about inmates (parole violators, death row, etc)
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character field
+    Attribute:
+      Attribute_Label: SPECPRG
+      Attribute_Definition: Special Programs at each facility (substance abuse, classification facility, etc)
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character field
+    Attribute:
+      Attribute_Label: ADDUPGRD
+      Attribute_Definition: Additions, upgrades, or changes to facility or inmate population
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character field
+    Attribute:
+      Attribute_Label: VCE_SITE
+      Attribute_Definition: Type of Virginia Correctional Enterprise (VCE) activities
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character field
+    Attribute:
+      Attribute_Label: UPDATED
+      Attribute_Definition: Date the data was updated
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character field
+    Attribute:
+      Attribute_Label: GENDER
+      Attribute_Definition: Associated gender at each facility (male, female, or co-ed)
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Male
+          Enumerated_Domain_Value_Definition: Correctional facilities where males are housed
+          Enumerated_Domain_Value_Definition_Source: User Defined
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Female
+          Enumerated_Domain_Value_Definition: Correctional facilities where females are housed
+          Enumerated_Domain_Value_Definition_Source: User Defined
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Co-ed
+          Enumerated_Domain_Value_Definition: Correctional facilities which house both males and females
+          Enumerated_Domain_Value_Definition_Source: User Defined
+    Attribute:
+      Attribute_Label: FAC_SIZE
+      Attribute_Definition: Number of acres on which the facility was built
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 15
+          Range_Domain_Maximum: 2630
+          Attribute_Units_of_Measure: acres
+    Attribute:
+      Attribute_Label: COMMENTS
+      Attribute_Definition: General comments about the facility
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character field
+    Attribute:
+      Attribute_Label: FACLEVEL2
+      Attribute_Definition: Secondary security level assiged to the correctional facilities
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 6
+    Attribute:
+      Attribute_Label: Authority
+      Attribute_Definition: Group which has the ownership responsiblities over the facilities
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character field
+    Attribute:
+      Attribute_Label: AUTHORITY
+      Attribute_Definition: Group which has the ownership responsiblities over the facilities
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: State
+          Enumerated_Domain_Value_Definition: Group responsible for ownership of the correctional facility
+          Enumerated_Domain_Value_Definition_Source: User Defined
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Federal
+          Enumerated_Domain_Value_Definition: Group responsible for ownership of the correctional facility
+          Enumerated_Domain_Value_Definition_Source: User Defined
+    Attribute:
+      Attribute_Label: VCE_Cntr
+      Attribute_Definition: VCE center location (Virginia Correctional Enterprises)
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Y
+          Enumerated_Domain_Value_Definition: Yes, facility has a VCE center on the property
+          Enumerated_Domain_Value_Definition_Source: User Defined
+        Enumerated_Domain:
+          Enumerated_Domain_Value: N
+          Enumerated_Domain_Value_Definition: No, facility does not have a VCE center on property
+          Enumerated_Domain_Value_Definition_Source: User Defined
+    Attribute:
+      Attribute_Label: CanineCntr
+      Attribute_Definition: Canine training center for dogs and handlers, courses for bloodhounds, police service/patrol dogs, & narcotic dogs
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Y
+          Enumerated_Domain_Value_Definition: Yes, canine training center on property
+          Enumerated_Domain_Value_Definition_Source: User Defined
+        Enumerated_Domain:
+          Enumerated_Domain_Value: N
+          Enumerated_Domain_Value_Definition: No, canine center not on property
+          Enumerated_Domain_Value_Definition_Source: User Defined
+  Overview_Description:
+    Entity_and_Attribute_Overview: Attributes show contact and locational information as well as describe conditions at the facility.
+    Entity_and_Attribute_Detail_Citation: Attributes were user defined based on information gathered from VDOC and VDJJ web sites.
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Virginia Economic Development Partnership
+        Contact_Person: Lyndsay Duncan
+      Contact_Position: GIS Specialist
+      Contact_Address:
+        Address_Type: physical address
+        Address: 901 East Byrd Street, 18th Floor
+        City: Richmond
+        State_or_Province: Virginia
+        Postal_Code: 23218
+        Country: USA
+      Contact_Address:
+        Address_Type: mailing address
+        Address: P.O. Box 798
+        City: Richmond
+        State_or_Province: VA
+        Postal_Code: 23218-0798
+        Country: USA
+      Contact_Voice_Telephone: (804) 545-5689
+      Contact_Facsimile_Telephone: (804) 545-5681
+      Contact_Electronic_Mail_Address: lduncan@yesvirginia.org
+      Hours_of_Service: 8:00 AM - 5:00 PM EST
+  Resource_Description: DownloadableData
+  Distribution_Liability: Although all data referred to in this doucmentation have been used by the VEDP, no warranty, expressed or implied, is made by the VEDP as to the accuracy of the data.  The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the VEDP in the use of these data.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ARCE
+        Transfer_Size: 2.26 MB
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://gis.vedp.org
+        Offline_Option:
+    Fees: None
+  Available_Time_Period:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 2010
+Metadata_Reference_Information:
+  Metadata_Date: 20100819
+  Metadata_Future_Review_Date: 20070524
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Virginia Economic Development Partnership
+        Contact_Person: Lyndsay Duncan
+      Contact_Position: GIS Specialist
+      Contact_Address:
+        Address_Type: physical address
+        Address: 901 East Byrd Street, 18th Floor
+        City: Richmond
+        State_or_Province: Virginia
+        Postal_Code: 23218
+        Country: USA
+      Contact_Address:
+        Address_Type: mailing address
+        Address: P.O. Box 798
+        City: Richmond
+        State_or_Province: VA
+        Postal_Code: 23218-0798
+        Country: USA
+      Contact_Voice_Telephone: (804) 545-5689
+      Contact_Facsimile_Telephone: (804) 545-5681
+      Contact_Electronic_Mail_Address: lduncan@yesvirginia.org
+      Hours_of_Service: 8:00 AM - 5:00 PM EST
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Access_Constraints: None
+  Metadata_Use_Constraints: None
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile
