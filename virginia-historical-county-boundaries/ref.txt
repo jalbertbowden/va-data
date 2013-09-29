@@ -1,0 +1,20 @@
+Data
+<a href="http://publications.newberry.org/ahcbp/">Atlas of Historical County Boundaries</a>
+<a href="http://publications.newberry.org/ahcbp/downloads/states.html">State Historical County Boundary Downloads</a>
+
+<h2>Data Types</h3>
+<h3><abbr title="Geographic Information Systems">gis</abbr></h3>
+<p>full dataset for the selected state. Each zipped folder contains the following files:</p>
+<ul>
+  <li><strong>Historical Counties Shapefile</strong> (polygons) for the state's counties and county equivalents.</li>
+  <li><strong>Small_Changes Shapefile</strong> (point feature) for all changes too small to map [if available].</li>
+  <li><strong>Comprehensive Database</strong> (tab-delimited text file) for all historical data.</li>
+  <li>Copies of all the historical chronologies, supplemental texts, and metadata forms.</li>
+  <li>Copy of the free access Attribution-NonCommercial-ShareAlike Creative Commons License.</li>
+</ul>
+<h3><abbr title="">kmz</abbr></h3>
+<p><abbr>kmz</abbr> Atlas data formatted to be used with Google Earth and Google Maps.</p>
+
+<h3><abbr>pdf</abbr></h3>
+<p><abbr>pdf</abbr> data containing atlas data for each county in Virginia formatted in a printer and reader friendly format.</p>
+
