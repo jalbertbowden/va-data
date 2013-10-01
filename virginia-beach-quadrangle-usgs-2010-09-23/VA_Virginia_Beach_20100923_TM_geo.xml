@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="http://webhosts.cr.usgs.gov/mod/FGDC_Plus.xsl"?>
+<!DOCTYPE metadata[<!-- FGDC Metadata DTD 3.0.2 20020205 --><!-- This is the Document Type Declaration for formal metadata, metadata --><!-- conforming to the Content Standards for Digital Geospatial Metadata --><!-- of the Federal Geographic Data Committee. This DTD corresponds to --><!-- the June, 1998 version of the standard, FGDC-STD-001-1998. --><!-- This file is the XML DTD. --><!-- Tags: --><!-- Tags are a maximum of 8-characters long, to coincide with the --><!-- Reference Concrete Syntax. In some systems, this will obviate --><!-- the need for an explicit SGML declaration. --><!-- Entity sets: --><!-- Scalar values (meaning the values of elements that are not --><!-- compound) are here declared #PCDATA to allow parsers to --><!-- recognize and support entities representing special characters --><!-- such as the degree symbol, less, and greater. --><!-- Element ordering: --><!-- Generally the order of elements is now significant. XML makes --><!-- it difficult to write a DTD that allows elements to be in any --><!-- order. --><!-- Authors: --><!-- Peter N. Schweitzer (U.S. Geological Survey, Reston, VA 20192) --><!-- with assistance from Doug Nebert (USGS), Eric Miller (OCLC), --><!-- Quinn Hart (CERES), Jim Frew (UCSB), and Archie Warnock (AWWW). --><!-- --><!-- Revisions: --><!-- 19990611 (PNS) Removed extinfo from content model of metadata. --><!-- Removed SGML entity declarations, replaced with --><!-- Latin-1 entity declarations from HTML. (3.0.1) --><!-- 20020205 (PNS) changed albers, equicon, lambertc, and mdattim --><!-- to better specify repeatable subelements --><!-- Changed metainfo to make both metrd and metfrd --><!-- both optional and independent. --><!ELEMENT metadata (idinfo, dataqual?, spdoinfo?, spref?, eainfo?, distinfo*, metainfo)><!ELEMENT idinfo (citation, descript, timeperd, status, spdom, keywords, accconst, useconst, ptcontac?, browse*, datacred?, secinfo?, native?, crossref*)><!ELEMENT citation (citeinfo)><!ELEMENT descript (abstract, purpose, supplinf?)><!ELEMENT timeperd (timeinfo, current)><!ELEMENT status (progress, update)><!ELEMENT spdom (bounding, dsgpoly*)><!ELEMENT bounding (westbc, eastbc, northbc, southbc)><!ELEMENT dsgpoly (dsgpolyo, dsgpolyx*)><!ELEMENT dsgpolyo ((grngpoin,grngpoin,grngpoin,grngpoin+) | gring)><!ELEMENT dsgpolyx ((grngpoin,grngpoin,grngpoin,grngpoin+) | gring)><!ELEMENT grngpoin (gringlat,gringlon)><!ELEMENT keywords (theme+, place*, stratum*, temporal*)><!ELEMENT theme (themekt, themekey+)><!ELEMENT place (placekt, placekey+)><!ELEMENT stratum (stratkt, stratkey+)><!ELEMENT temporal (tempkt, tempkey+)><!ELEMENT ptcontac (cntinfo)><!ELEMENT browse (browsen, browsed, browset)><!ELEMENT secinfo (secsys, secclass, sechandl)><!ELEMENT crossref (citeinfo)><!ELEMENT dataqual (attracc?, logic, complete, posacc?, lineage, cloud?)><!ELEMENT attracc (attraccr, qattracc*)><!ELEMENT qattracc (attraccv, attracce)><!ELEMENT posacc (horizpa?, vertacc?)><!ELEMENT horizpa (horizpar, qhorizpa*)><!ELEMENT qhorizpa (horizpav, horizpae)><!ELEMENT vertacc (vertaccr, qvertpa*)><!ELEMENT qvertpa (vertaccv, vertacce)><!ELEMENT lineage (srcinfo*, procstep+)><!ELEMENT srcinfo (srccite, srcscale?, typesrc, srctime, srccitea, srccontr)><!ELEMENT srccite (citeinfo)><!ELEMENT srctime (timeinfo, srccurr)><!ELEMENT procstep (procdesc, srcused*, procdate, proctime?, srcprod*, proccont?)><!ELEMENT proccont (cntinfo)><!ELEMENT spdoinfo (indspref?, (direct, ((ptvctinf | rastinfo))?)?)><!ELEMENT ptvctinf ((sdtsterm+ | vpfterm))><!ELEMENT sdtsterm (sdtstype, ptvctcnt?)><!ELEMENT vpfterm (vpflevel, vpfinfo+)><!ELEMENT vpfinfo (vpftype, ptvctcnt?)><!ELEMENT rastinfo (rasttype, (rowcount, colcount, vrtcount?)?)><!ELEMENT spref (horizsys?, vertdef?)><!ELEMENT horizsys ((geograph | planar+ | local), geodetic?)><!ELEMENT geograph (latres, longres, geogunit)><!ELEMENT planar ((mapproj | gridsys | localp), planci)><!ELEMENT mapproj (mapprojn, (albers | azimequi | equicon | equirect | gvnsp | gnomonic | lamberta | lambertc | mercator | modsak | miller | obqmerc | orthogr | polarst | polycon | robinson | sinusoid | spaceobq | stereo | transmer | vdgrin | otherprj | mapprojp))><!ELEMENT albers (stdparll, stdparll?, longcm, latprjo, feast, fnorth)><!ELEMENT azimequi (longcm, latprjo, feast, fnorth)><!ELEMENT equicon (stdparll, stdparll?, longcm, latprjo, feast, fnorth)><!ELEMENT equirect (stdparll, longcm, feast, fnorth)><!ELEMENT gvnsp (heightpt, longpc, latprjc, feast, fnorth)><!ELEMENT gnomonic (longpc, latprjc, feast, fnorth)><!ELEMENT lamberta (longpc, latprjc, feast, fnorth)><!ELEMENT lambertc (stdparll, stdparll?, longcm, latprjo, feast, fnorth)><!ELEMENT mercator ((stdparll | sfequat), longcm, feast, fnorth)><!ELEMENT modsak (feast, fnorth)><!ELEMENT miller (longcm, feast, fnorth)><!ELEMENT obqmerc (sfctrlin, (obqlazim | obqlpt), latprjo, feast, fnorth)><!ELEMENT obqlazim (azimangl, azimptl)><!ELEMENT obqlpt ((obqllat, obqllong),(obqllat, obqllong))><!ELEMENT orthogr (longpc, latprjc, feast, fnorth)><!ELEMENT polarst (svlong, (stdparll | sfprjorg), feast, fnorth)><!ELEMENT polycon (longcm, latprjo, feast, fnorth)><!ELEMENT robinson (longpc, feast, fnorth)><!ELEMENT sinusoid (longcm, feast, fnorth)><!ELEMENT spaceobq (landsat, pathnum, feast, fnorth)><!ELEMENT stereo (longpc, latprjc, feast, fnorth)><!ELEMENT transmer (sfctrmer, longcm, latprjo, feast, fnorth)><!ELEMENT vdgrin (longcm, feast, fnorth)><!ELEMENT mapprojp (azimptl?, azimangl?, feast?, fnorth?, heightpt?, landsat?, latprjc?, latprjo?, longcm?, longpc?, obqllat*, obqllong*, pathnum?, sfctrlin?, sfctrmer?, sfequat?, sfprjorg?, stdparll*, svlong?)><!ELEMENT gridsys (gridsysn, (utm | ups | spcs | arcsys | othergrd))><!ELEMENT utm (utmzone, transmer)><!ELEMENT ups (upszone, polarst)><!ELEMENT spcs (spcszone, (lambertc | transmer | obqmerc | polycon))><!ELEMENT arcsys (arczone, (equirect | azimequi))><!ELEMENT localp (localpd, localpgi)><!ELEMENT planci (plance, (coordrep | distbrep), plandu)><!ELEMENT coordrep (absres, ordres)><!ELEMENT distbrep (distres, bearres, bearunit, bearrefd, bearrefm)><!ELEMENT local (localdes, localgeo)><!ELEMENT geodetic (horizdn?, ellips, semiaxis, denflat)><!ELEMENT vertdef (altsys?, depthsys?)><!ELEMENT altsys (altdatum, altres+, altunits, altenc)><!ELEMENT depthsys (depthdn, depthres+, depthdu, depthem)><!ELEMENT eainfo (detailed*, overview*)><!ELEMENT detailed (enttyp, attr*)><!ELEMENT enttyp (enttypl, enttypd, enttypds)><!ELEMENT attr (attrlabl, attrdef, attrdefs, attrdomv+, (begdatea, enddatea?)*, attrvai?, attrmfrq?)><!ELEMENT attrdomv ((edom+ | rdom | codesetd | udom))><!ELEMENT edom (edomv, edomvd, edomvds, attr*)><!ELEMENT rdom (rdommin, rdommax, attrunit?, attrmres?, attr*)><!ELEMENT codesetd (codesetn, codesets)><!ELEMENT attrvai (attrva, attrvae)><!ELEMENT overview (eaover, eadetcit+)><!ELEMENT distinfo (distrib, (resdesc?, distliab, stdorder*, custom?, techpreq?, availabl?))><!ELEMENT distrib (cntinfo)><!ELEMENT stdorder ((nondig | digform+), fees, ordering?, turnarnd?)><!ELEMENT digform (digtinfo, digtopt)><!ELEMENT digtinfo (formname, ((formvern | formverd), formspec?)?, formcont?, filedec?, transize?)><!ELEMENT digtopt (((onlinopt | offoptn))+)><!ELEMENT onlinopt (computer+, accinstr?, oncomp?)><!ELEMENT computer ((networka | dialinst))><!ELEMENT networka (networkr+)><!ELEMENT dialinst (lowbps, highbps?, numdata, numstop, parity, compress?, dialtel+, dialfile+)><!ELEMENT offoptn (offmedia, reccap?, recfmt+, compat?)><!ELEMENT reccap (recden+, recdenu)><!ELEMENT availabl (timeinfo)><!ELEMENT metainfo (metd, metrd?, metfrd?, metc, metstdn, metstdv, mettc?, metac?, metuc?, metsi?, metextns*)><!ELEMENT metc (cntinfo)><!ELEMENT metsi (metscs, metsc, metshd)><!ELEMENT metextns (onlink*, metprof?)><!ELEMENT citeinfo (origin+, pubdate, pubtime?, title, edition?, geoform?, serinfo?, pubinfo?, othercit?, onlink*, lworkcit?)><!ELEMENT serinfo (sername, issue)><!ELEMENT pubinfo (pubplace, publish)><!ELEMENT lworkcit (citeinfo)><!ELEMENT timeinfo ((sngdate | mdattim | rngdates))><!ELEMENT sngdate (caldate, time?)><!ELEMENT mdattim (sngdate, sngdate+)><!ELEMENT rngdates (begdate, begtime?, enddate, endtime?)><!ELEMENT cntinfo ((cntperp | cntorgp), cntpos?, cntaddr+, cntvoice+, cnttdd*, cntfax*, cntemail*, hours?, cntinst?)><!ELEMENT cntperp (cntper, cntorg?)><!ELEMENT cntorgp (cntorg, cntper?)><!ELEMENT cntaddr (addrtype, address*, city, state, postal, country?)><!ELEMENT arczone (#PCDATA)><!ELEMENT absres (#PCDATA)><!ELEMENT abstract (#PCDATA)><!ELEMENT accconst (#PCDATA)><!ELEMENT accinstr (#PCDATA)><!ELEMENT address (#PCDATA)><!ELEMENT addrtype (#PCDATA)><!ELEMENT altdatum (#PCDATA)><!ELEMENT altunits (#PCDATA)><!ELEMENT altenc (#PCDATA)><!ELEMENT altres (#PCDATA)><!ELEMENT attracce (#PCDATA)><!ELEMENT attraccr (#PCDATA)><!ELEMENT attraccv (#PCDATA)><!ELEMENT attrdef (#PCDATA)><!ELEMENT attrdefs (#PCDATA)><!ELEMENT attrlabl (#PCDATA)><!ELEMENT attrmfrq (#PCDATA)><!ELEMENT attrmres (#PCDATA)><!ELEMENT attrunit (#PCDATA)><!ELEMENT attrva (#PCDATA)><!ELEMENT attrvae (#PCDATA)><!ELEMENT azimptl (#PCDATA)><!ELEMENT azimangl (#PCDATA)><!ELEMENT bearrefd (#PCDATA)><!ELEMENT bearrefm (#PCDATA)><!ELEMENT bearres (#PCDATA)><!ELEMENT bearunit (#PCDATA)><!ELEMENT begdate (#PCDATA)><!ELEMENT begdatea (#PCDATA)><!ELEMENT begtime (#PCDATA)><!ELEMENT browsed (#PCDATA)><!ELEMENT browsen (#PCDATA)><!ELEMENT browset (#PCDATA)><!ELEMENT caldate (#PCDATA)><!ELEMENT city (#PCDATA)><!ELEMENT cloud (#PCDATA)><!ELEMENT codesetn (#PCDATA)><!ELEMENT codesets (#PCDATA)><!ELEMENT colcount (#PCDATA)><!ELEMENT compat (#PCDATA)><!ELEMENT complete (#PCDATA)><!ELEMENT compress (#PCDATA)><!ELEMENT cntemail (#PCDATA)><!ELEMENT cntfax (#PCDATA)><!ELEMENT cntinst (#PCDATA)><!ELEMENT cntorg (#PCDATA)><!ELEMENT cntper (#PCDATA)><!ELEMENT cntpos (#PCDATA)><!ELEMENT cnttdd (#PCDATA)><!ELEMENT cntvoice (#PCDATA)><!ELEMENT country (#PCDATA)><!ELEMENT current (#PCDATA)><!ELEMENT custom (#PCDATA)><!ELEMENT datacred (#PCDATA)><!ELEMENT denflat (#PCDATA)><!ELEMENT depthdn (#PCDATA)><!ELEMENT depthdu (#PCDATA)><!ELEMENT depthem (#PCDATA)><!ELEMENT depthres (#PCDATA)><!ELEMENT dialfile (#PCDATA)><!ELEMENT dialtel (#PCDATA)><!ELEMENT direct (#PCDATA)><!ELEMENT distres (#PCDATA)><!ELEMENT distliab (#PCDATA)><!ELEMENT eastbc (#PCDATA)><!ELEMENT edition (#PCDATA)><!ELEMENT ellips (#PCDATA)><!ELEMENT enddate (#PCDATA)><!ELEMENT enddatea (#PCDATA)><!ELEMENT endtime (#PCDATA)><!ELEMENT enttypd (#PCDATA)><!ELEMENT enttypds (#PCDATA)><!ELEMENT enttypl (#PCDATA)><!ELEMENT eadetcit (#PCDATA)><!ELEMENT eaover (#PCDATA)><!ELEMENT edomv (#PCDATA)><!ELEMENT edomvd (#PCDATA)><!ELEMENT edomvds (#PCDATA)><!ELEMENT feast (#PCDATA)><!ELEMENT fnorth (#PCDATA)><!ELEMENT fees (#PCDATA)><!ELEMENT filedec (#PCDATA)><!ELEMENT formcont (#PCDATA)><!ELEMENT formname (#PCDATA)><!ELEMENT formspec (#PCDATA)><!ELEMENT formverd (#PCDATA)><!ELEMENT formvern (#PCDATA)><!ELEMENT gringlat (#PCDATA)><!ELEMENT gringlon (#PCDATA)><!ELEMENT geogunit (#PCDATA)><!ELEMENT geoform (#PCDATA)><!ELEMENT gridsysn (#PCDATA)><!ELEMENT heightpt (#PCDATA)><!ELEMENT highbps (#PCDATA)><!ELEMENT horizdn (#PCDATA)><!ELEMENT horizpae (#PCDATA)><!ELEMENT horizpar (#PCDATA)><!ELEMENT horizpav (#PCDATA)><!ELEMENT hours (#PCDATA)><!ELEMENT indspref (#PCDATA)><!ELEMENT issue (#PCDATA)><!ELEMENT landsat (#PCDATA)><!ELEMENT latres (#PCDATA)><!ELEMENT latprjc (#PCDATA)><!ELEMENT latprjo (#PCDATA)><!ELEMENT localdes (#PCDATA)><!ELEMENT localgeo (#PCDATA)><!ELEMENT localpd (#PCDATA)><!ELEMENT localpgi (#PCDATA)><!ELEMENT logic (#PCDATA)><!ELEMENT longres (#PCDATA)><!ELEMENT longcm (#PCDATA)><!ELEMENT longpc (#PCDATA)><!ELEMENT lowbps (#PCDATA)><!ELEMENT update (#PCDATA)><!ELEMENT mapprojn (#PCDATA)><!ELEMENT metac (#PCDATA)><!ELEMENT metd (#PCDATA)><!ELEMENT metfrd (#PCDATA)><!ELEMENT metrd (#PCDATA)><!ELEMENT metsc (#PCDATA)><!ELEMENT metscs (#PCDATA)><!ELEMENT metshd (#PCDATA)><!ELEMENT metstdn (#PCDATA)><!ELEMENT metstdv (#PCDATA)><!ELEMENT mettc (#PCDATA)><!ELEMENT metuc (#PCDATA)><!ELEMENT native (#PCDATA)><!ELEMENT networkr (#PCDATA)><!ELEMENT nondig (#PCDATA)><!ELEMENT northbc (#PCDATA)><!ELEMENT numdata (#PCDATA)><!ELEMENT numstop (#PCDATA)><!ELEMENT obqllat (#PCDATA)><!ELEMENT obqllong (#PCDATA)><!ELEMENT offmedia (#PCDATA)><!ELEMENT oncomp (#PCDATA)><!ELEMENT onlink (#PCDATA)><!ELEMENT ordering (#PCDATA)><!ELEMENT ordres (#PCDATA)><!ELEMENT origin (#PCDATA)><!ELEMENT othercit (#PCDATA)><!ELEMENT othergrd (#PCDATA)><!ELEMENT otherprj (#PCDATA)><!ELEMENT parity (#PCDATA)><!ELEMENT pathnum (#PCDATA)><!ELEMENT placekey (#PCDATA)><!ELEMENT placekt (#PCDATA)><!ELEMENT plance (#PCDATA)><!ELEMENT plandu (#PCDATA)><!ELEMENT ptvctcnt (#PCDATA)><!ELEMENT postal (#PCDATA)><!ELEMENT procdate (#PCDATA)><!ELEMENT procdesc (#PCDATA)><!ELEMENT proctime (#PCDATA)><!ELEMENT progress (#PCDATA)><!ELEMENT pubdate (#PCDATA)><!ELEMENT pubplace (#PCDATA)><!ELEMENT pubtime (#PCDATA)><!ELEMENT publish (#PCDATA)><!ELEMENT purpose (#PCDATA)><!ELEMENT rdommax (#PCDATA)><!ELEMENT rdommin (#PCDATA)><!ELEMENT rasttype (#PCDATA)><!ELEMENT recden (#PCDATA)><!ELEMENT recdenu (#PCDATA)><!ELEMENT recfmt (#PCDATA)><!ELEMENT resdesc (#PCDATA)><!ELEMENT rowcount (#PCDATA)><!ELEMENT sdtstype (#PCDATA)><!ELEMENT spcszone (#PCDATA)><!ELEMENT sfctrlin (#PCDATA)><!ELEMENT sfctrmer (#PCDATA)><!ELEMENT sfequat (#PCDATA)><!ELEMENT sfprjorg (#PCDATA)><!ELEMENT secclass (#PCDATA)><!ELEMENT secsys (#PCDATA)><!ELEMENT sechandl (#PCDATA)><!ELEMENT semiaxis (#PCDATA)><!ELEMENT sername (#PCDATA)><!ELEMENT srccitea (#PCDATA)><!ELEMENT srccontr (#PCDATA)><!ELEMENT srccurr (#PCDATA)><!ELEMENT srcprod (#PCDATA)><!ELEMENT srcscale (#PCDATA)><!ELEMENT srcused (#PCDATA)><!ELEMENT southbc (#PCDATA)><!ELEMENT stdparll (#PCDATA)><!ELEMENT state (#PCDATA)><!ELEMENT svlong (#PCDATA)><!ELEMENT stratkey (#PCDATA)><!ELEMENT stratkt (#PCDATA)><!ELEMENT supplinf (#PCDATA)><!ELEMENT techpreq (#PCDATA)><!ELEMENT tempkey (#PCDATA)><!ELEMENT tempkt (#PCDATA)><!ELEMENT themekey (#PCDATA)><!ELEMENT themekt (#PCDATA)><!ELEMENT time (#PCDATA)><!ELEMENT title (#PCDATA)><!ELEMENT transize (#PCDATA)><!ELEMENT turnarnd (#PCDATA)><!ELEMENT typesrc (#PCDATA)><!ELEMENT upszone (#PCDATA)><!ELEMENT utmzone (#PCDATA)><!ELEMENT udom (#PCDATA)><!ELEMENT useconst (#PCDATA)><!ELEMENT vpftype (#PCDATA)><!ELEMENT vpflevel (#PCDATA)><!ELEMENT vrtcount (#PCDATA)><!ELEMENT vertacce (#PCDATA)><!ELEMENT vertaccr (#PCDATA)><!ELEMENT vertaccv (#PCDATA)><!ELEMENT westbc (#PCDATA)><!ELEMENT gring (#PCDATA)><!ELEMENT metprof (#PCDATA)>]>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>U.S. Geological Survey</origin>
+				<pubdate>20100923</pubdate>
+				<title>US Topo 7.5-minute map for Virginia Beach, VA</title>
+				<geoform>map, raster digital data<!--Enter the mode in which the geospatial data are represented.Domain: (the listed domain is partially from pp. 88-91 in Anglo-American Committee on Cataloguing of Cartographic Materials, 1982, Cartographic materials: A manual of interpretation for AACR2: Chicago, American Library Association):"atlas" "audio" "diagram" "document" "globe" "map" "model" "multimediapresentation" "profile" "raster digital data" "remote-sensing image" "section" "spreadsheet" "tabular digital data" "vector digital data" "video" "view" free text--></geoform>
+				<pubinfo>
+					<pubplace>Rolla, MO and Denver, CO<!--Enter the name of the city (and state or province, and country, if needed to identify the city) where the data set was published or released. Domain: free text--></pubplace>
+					<publish>USGS - National Geospatial Technical Operations Center (NGTOC)<!--Enter the name of the individual or organization that published the data set.Domain: free text--></publish>
+					</pubinfo>
+				</citeinfo>
+			</citation>
+		<descript>
+			<abstract>Layered GeoPDF 7.5 Minute Quadrangle Map. Layers of geospatial data include orthoimagery, roads, grids, geographic names, elevation contours, hydrography, and other selected map features.<!--Enter a brief narrative summary of the data set.Domain: free text--></abstract>
+			<purpose>This map depicts geographic features on the surface of the earth. It is a general purpose map for users who are not GIS experts. One intended purpose is to support emergency response at all levels of government. The geospatial data in this map are from selected National Map data holdings and other government sources.<!--Enter a summary of the intentions with which the data set was developed.Domain: free text--></purpose>
+			<supplinf>GNIS Cell ID = 46996</supplinf>
+			</descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>1999</begdate>
+					<enddate>2010</enddate>
+					</rngdates>
+				</timeinfo>
+			<current>publication date<!--Enter the basis on which the time period of content information is determined.Domain: "ground condition" "publication date" free text--></current>
+			</timeperd>
+		<status>
+			<progress>Complete<!--Enter the state of the data set.Domain: "Complete" "In work" "Planned" free text--></progress>
+			<update>Irregular<!--Enter the frequency with which changes and additions are made to the dataset after the initial data set is completed.Domain: "Continually" "Daily" "Weekly" "Monthly" "Annually" "Unknown" "As needed" "Irregular" "None planned" free text--></update>
+			</status>
+		<spdom>
+			<bounding>
+				<westbc>-76.0</westbc>
+				<eastbc>-75.875</eastbc>
+				<northbc>36.875</northbc>
+				<southbc>36.75</southbc>
+				</bounding>
+			</spdom>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Category<!--Reference to a formally registered thesaurus or a similar authoritative source of theme keywords.Domain: "None" free text--></themekt>
+				<themekey>imageryBaseMapsEarthCover<!--A common-use word or phrase used to describe the subject of the data set.Domain: free text--></themekey>
+				<themekey>EarthCover<!--A common-use word or phrase used to describe the subject of the data set.Domain: free text--></themekey>
+				<themekey>Imagery and Base Maps<!--A common-use word or phrase used to describe the subject of the data set.Domain: free text--></themekey>
+				</theme>
+			<theme>
+				<themekt>None<!--Reference to a formally registered thesaurus or a similar authoritative source of theme keywords.Domain: "None" free text--></themekt>
+				<themekey>topographic<!--A common-use word or phrase used to describe the subject of the data set.Domain: free text--></themekey>
+				<themekey>transportation<!--A common-use word or phrase used to describe the subject of the data set.Domain: free text--></themekey>
+				<themekey>geographic names<!--A common-use word or phrase used to describe the subject of the data set.Domain: free text--></themekey>
+				<themekey>hydrography<!--A common-use word or phrase used to describe the subject of the data set.Domain: free text--></themekey>
+				<themekey>orthoimage<!--A common-use word or phrase used to describe the subject of the data set.Domain: free text--></themekey>
+				<themekey>contour<!--A common-use word or phrase used to describe the subject of the data set.Domain: free text--></themekey>
+				<themekey>U.S. National Grid<!--A common-use word or phrase used to describe the subject of the data set.Domain: free text--></themekey>
+				</theme>
+			<place>
+				<placekt>Geographic Names Information System<!--Reference to a formally registered thesaurus or a similar authoritative source of place keywords.Domain: "None" "Geographic Names Information System" free text--></placekt>
+				<placekey>US<!--Enter the geographic name of a location covered by a data set.Domain: free text--></placekey>
+				<placekey>United States<!--Enter the geographic name of a location covered by a data set.Domain: free text--></placekey>
+				<placekey>Virginia</placekey>
+				<placekey>Virginia Beach (city)</placekey>
+				</place>
+			<place>
+				<placekt>None<!--Reference to a formally registered thesaurus or a similar authoritative source of place keywords.Domain: "None" "Geographic Names Information System" free text--></placekt>
+				<placekey>Virginia Beach, VA</placekey>
+				</place>
+			</keywords>
+		<accconst>None<!--Enter restrictions and legal prerequisites for accessing the data set. These include any access constraints applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations on obtaining the data set.Domain: "None" free text--></accconst>
+		<useconst>None. However, users should be aware that temporal changes may have occurred since this data set was collected and that some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. Acknowledgment of the U.S. Geological Survey would be appreciated for products derived from these data.<!--Enter restrictions and legal prerequisites for using the data set after access is granted. These include any use constraints applied to assure the protection of privacy or intellectual property, and any specialrestrictions or limitations on using the data set.Domain: "None" free text--></useconst>
+		</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Cartographic content is derived from USGS national geospatial databases. The data is owned and hosted by the USGS, but does not preclude using data sources owned and hosted by other organizations, provided that these sources have been approved by the USGS data program.<!--Contractor should enter description of quality control.Domain: free text--></attraccr>
+			</attracc>
+		<logic>This product is a layered GeoPDF file. GeoPDF is a copyright format with implementation rights held exclusively by TerraGo Technologies. This design is based on use of specific commercial software systems therefore any changes to the software specifications and dependencies will be followed by the USGS and codified in the product standard.</logic>
+		<complete>Each layer of the GeoPDF is extracted from the USGS national geospatial databases. These data are intended to be cartographically complete at a 1:24,000 scale.<!--Describe any specific void areas in the dataset.--></complete>
+		<posacc>
+			<horizpa>
+				<horizpar>This US Topo map product is compiled to meet National Map Accuracy Standards (NMAS). NMAS horizontal accuracy requires that at least 90 percent of well-defined points tested are within 0.02 inch of the true position. In this product, the projection line, grids, and orthoimage are believed to meet NMAS. Positional accuracy of the other data layers is less controllable because of diversity of data sources, and may not meet NMAS.<!--An explanation of the accuracy of the horizontal coordinate measurements and a description of the tests used. This must be entered by the contractor to reflect their methods. This is provided only as a sample of the type of information needed. "Tested" can only be used when data testing is performed against independent checkpoints from a source of higher accuracy.Domain: free text--></horizpar>
+				</horizpa>
+			<vertacc>
+				<vertaccr>The accuracy of the National Elevation Dataset (NED) is inherited from the source digital elevation models (DEMs). The overall absolute vertical accuracy expressed as the root mean square error (RMSE) is 2.44 meters. The measured vertical RMSE was converted to equivalent NMAS and NSSDA expressions. The accuracy is expressed in terms of the National Map Accuracy Standards (NMAS), which use a 90 percent confidence interval, and in terms of the National Standard for Spatial Data Accuracy (NSSDA), which uses a 95 percent confidence interval.</vertaccr>
+				</vertacc>
+			</posacc>
+		<lineage><!--The lineage tag of this file contains one 'srcinfo' tag for each layer source of this map product.-->
+			<srcinfo><!--Layer Source: Imagery -->
+				<srccite>
+					<citeinfo>
+						<origin>National Agriculture Image Program (NAIP) administered by the Aerial Photography Field Office (APFO) for the United States Department of Agriculture.<!-- Enter the source data provider. Domain: free text--></origin>
+						<pubdate>Unknown</pubdate>
+						<title>Orthoimagery<!--Enter the layer dataset theme. Domain: "Transportation" "Hydrography" "Orthoimagery" Geographic Names"--></title>
+						<geoform>Raster digital data or Digital Orthorectified Image or NAIP Digital Ortho Photo Image<!--Enter the mode in which the geospatial data are represented. Domain:"presentation" "profile" "raster digital data" "remote-sensing image" "section" "spreadsheet" "tabular digital data" "vector digital data" "video" "view" free text--></geoform>
+						<othercit>An orthorectified image is a layer in every product and is provided by the USDA-FSA-APFO from the National Agriculture Image Program (NAIP). This offers the USGS a nationally consistent image product, normally with a one meter resolution in natural color.<!--Enter other information to complete the citation--></othercit>
+						<onlink>http://www.fsa.usda.gov/</onlink>
+						</citeinfo>
+					</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>digital data<!--Type of source media Domain: "digital data" "paper" "stable-base material" "disc" "cartridge tape" "CD-ROM" "on-line" free text.--></typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>20090809</begdate>
+							<enddate>20090809</enddate>
+							</rngdates>
+						</timeinfo>
+					<srccurr>publication date<!--Currentness of data based on time period of content. Domain: free text--></srccurr>
+					</srctime>
+				<srccitea>Imagery<!--The short-form alias for source citation. Domain: free text.--></srccitea>
+				<srccontr>Image<!--Brief statement identifying the information contributed by the source to the data set. Domain: free text.--></srccontr>
+				</srcinfo>
+			<srcinfo><!--Layer Source: Transportation -->
+				<srccite>
+					<citeinfo>
+						<origin>Tele Atlas<!-- Enter the source data provider.--></origin>
+						<pubdate>2010</pubdate>
+						<title>Transportation, commercial roads<!--Enter the layer dataset theme.Domain: "Transportation" "Hydrography" "Orthoimagery" Geographic Names"--></title>
+						<geoform>vector digital data<!--Enter the mode in which the geospatial data are represented.Domain: "presentation" "profile" "raster digital data" "remote-sensing image" "section" "spreadsheet" "tabular digital data" "vector digital data" "video" "view" free text--></geoform>
+						<othercit>Tele Atlas Multinet dataset, licensed to the USGS for use in US Topo (1:24,000-scale topographic maps in GeoPDF format). Tele Atlas retains copyright to these data. The USGS license allows these data to be freely used and redistributed in US Topo instances, provided this copyright notice is retained. Tele Atlas data are filtered and may be generalized by USGS for protrayal in this product. Tele Atlas roads are not mixed with other road data sources within a 7.5-minute quadrangle, with the exception of U.S. Forest Service lands, where public domain data from the Forest Service are used.<!--Enter other information to complete the citation--></othercit>
+						<onlink>http://www.teleatlas.com/</onlink>
+						</citeinfo>
+					</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>digital data<!--Type of source mediaDomain: "digital data" "paper" "stable-base material" "disc" "cartridge tape" "CD-ROM" "on-line" free text.--></typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>2006<!--Use the begin date (year and month or year, month, and day) of the source, format yyyy, yyyymm, or yyyymmdd.--></begdate>
+							<enddate>2010<!--Use the end date (year and month or year, month, and day) of the source, format yyyy, yyyymm, or yyyymmdd.--></enddate>
+							</rngdates>
+						</timeinfo>
+					<srccurr>publication date<!--Currentness of data based on time period of contentDomain: free text--></srccurr>
+					</srctime>
+				<srccitea>Roads - Tele Atlas<!--The short-form alias for source citation.Domain: free text.--></srccitea>
+				<srccontr>Road centerlines, route numbers, road classification, street names<!--Brief statement identifying the information contributed by the source to the data set.Domain: free text.--></srccontr>
+				</srcinfo>
+			<srcinfo><!--Layer Source: Transportation -->
+				<srccite>
+					<citeinfo>
+						<origin>Federal Aviation Administration<!-- Enter the source data provider.--></origin>
+						<pubdate>2010</pubdate>
+						<title>Airports<!--Enter the layer dataset theme.Domain: "Transportation" "Hydrography" "Orthoimagery" "Geographic Names"--></title>
+						<geoform>vector digital data<!--Enter the mode in which the geospatial data are represented.Domain: "presentation" "profile" "raster digital data" "remote-sensing image" "section" "spreadsheet" "tabular digital data" "vector digital data" "video" "view" free text--></geoform>
+						<othercit>Runway outlines are for Federal Aviation Administration (FAA)-recognized public and private airports in the United States. The 2008 FAA runway coordinates, FAA_RunwayID, and Airport Location Codes were used by the USGS to digitize runway outlines on recent NAIP orthoimagery. The digitized data were inspected for accuracy and completeness then loaded into the USGS national transportation database.<!--Enter other information to complete the citation--></othercit>
+						<onlink>http://www.faa.gov</onlink>
+						</citeinfo>
+					</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>digital data<!--Type of source mediaDomain: "digital data" "paper" "stable-base material" "disc" "cartridge tape" "CD-ROM" "on-line" free text.--></typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>2008</begdate>
+							<enddate>2010</enddate>
+							</rngdates>
+						</timeinfo>
+					<srccurr>publication date<!--Currentness of data based on time period of contentDomain: free text--></srccurr>
+					</srctime>
+				<srccitea>Transportation: Airports<!--The short-form alias for source citation.Domain: free text.--></srccitea>
+				<srccontr>runways<!--Brief statement identifying the information contributed by the source to the data set.Domain: free text.--></srccontr>
+				</srcinfo>
+			<srcinfo><!--Layer Source: Geographic Names-->
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey<!-- Enter the source data provider.--></origin>
+						<pubdate>Unknown</pubdate>
+						<title>Geographic Names Information System (GNIS)<!--Enter the layer dataset theme. Domain: "Transportation" "Hydrography" "Orthoimagery" Geographic Names"--></title>
+						<geoform>vector digital data<!--Enter the mode in which the geospatial data are represented. Domain: "presentation" "profile" "raster digital data" "remote-sensing image" "section" "spreadsheet" "tabular digital data" "vector digital data" "video" "view" free text--></geoform>
+						<othercit>The National Geographic Names Database is a part of the Geographic Names Information System (GNIS) and represents the primary source for identifying official names. The system is maintained by the U.S. Geological Survey in cooperation with the U.S. Board of Geographic Names.<!--Enter other information to complete the citation--></othercit>
+						<onlink>http://geonames.usgs.gov/</onlink>
+						</citeinfo>
+					</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>digital data<!--Type of source mediaDomain: "digital data" "paper" "stable-base material" "disc" "cartridge tape" "CD-ROM" "on-line" free text.--></typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>Unknown</begdate>
+							<enddate>Unknown</enddate>
+							</rngdates>
+						</timeinfo>
+					<srccurr>publication date<!--Currentness of data based on time period of contentDomain: free text--></srccurr>
+					</srctime>
+				<srccitea>Geographic Names<!--The short-form alias for source citation.Domain: free text.--></srccitea>
+				<srccontr>Geographic feature names<!--Brief statement identifying the information contributed by the source to the data set.Domain: free text.--></srccontr>
+				</srcinfo>
+			<srcinfo><!--Layer Source: Hydrography -->
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey in cooperation with U.S. Environmental Protection Agency, USDA Forest Service, and other Federal, State and local partners. National Hydrography Dataset is a component of a comprehensive base geospatial data model.<!-- Enter the source data provider.--></origin>
+						<pubdate>Unknown</pubdate>
+						<title>Hydrography<!--Enter the layer dataset theme.Domain: "Transportation" "Hydrography" "Orthoimagery" Geographic Names"--></title>
+						<geoform>vector digital data<!--Enter the mode in which the geospatial data are represented.Domain: "presentation" "profile" "raster digital data" "remote-sensing image" "section" "spreadsheet" "tabular digital data" "vector digital data" "video" "view" free text--></geoform>
+						<othercit>The National Hydrography Dataset (NHD) is a feature-based database that interconnects and uniquely identifies the stream segments or reaches that make up the nation's surface water drainage system. The high-resolution NHD was originally created using 1:24,000-scale data. State and Local Stewards are improving the data by incorporating local updates based on more current and more accurate source data. Water features in the real world are relatively dynamic and the differences at the time of data collection mean that water features may not register exactly to other layers. The hydrographic feature names contained in and displayed by the NHD are extracted and validated from the Geographic Names Information System (GNIS).<!--Enter other information to complete the citation--></othercit>
+						<onlink>http://nhd.usgs.gov/</onlink>
+						<onlink>http://nhd.usgs.gov/gnis.html</onlink>
+						<onlink>http://nhdgeo.usgs.gov/metadata/nhd_high.htm</onlink>
+						</citeinfo>
+					</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>digital data<!--Type of source mediaDomain: "digital data" "paper" "stable-base material" "disc" "cartridge tape" "CD-ROM" "on-line" free text.--></typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>20090809</begdate>
+							<enddate>20090809</enddate>
+							</rngdates>
+						</timeinfo>
+					<srccurr>publication date<!--Currentness of data based on time period of contentDomain: free text--></srccurr>
+					</srctime>
+				<srccitea>Hydrography<!--The short-form alias for source citation.Domain: free text.--></srccitea>
+				<srccontr>Hydrography features and feature names<!--Brief statement identifying the information contributed by the source to the data set.Domain: free text.--></srccontr>
+				</srcinfo>
+			<srcinfo><!--Layer Source: Boundaries-->
+				<srccite>
+					<citeinfo>
+						<origin>International Boundary Commission<!-- Enter the source data provider.--></origin>
+						<pubdate>Unknown</pubdate>
+						<title>U.S.-Canada National Boundary<!--Enter the layer dataset theme.Domain: "Transportation" "Hydrography" "Orthoimagery" "Boundaries" "Geographic Names" free text--></title>
+						<othercit>The international boundary dataset between Canada and the United States was provided by Maine Office of Geographic Information Systems (MEGIS), University of New Hampshire, Vermont Center for Geographic Information, Inc (VCGI). The dataset was collected from multiple source agencies such as the U.S. Geological Survey, U.S. Department of Commerce, Bureau of Census, Bureau of Parks and Lands, Coastal Island Registry (CIREG) and various state agencies. The data and attribution accuracy was tested by manual comparison of the source with hard copy printouts and/or symbolized display of digital files and corrected by each state GIS department for use at a scale not greater than 1:24,000.<!--Enter other information to complete the citation--></othercit>
+						<onlink>http://www.internationalboundarycommission.org/</onlink>
+						<onlink>http://www.internationalboundarycommission.org/products.html#nad83</onlink>
+						</citeinfo>
+					</srccite>
+				<typesrc>point digital data<!--Enter the mode in which the geospatial data are represented.Domain: "digital data" "paper" "stable-base material" "disc" "cartridge tape" "CD-ROM" "on-line" free text.--></typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>Unknown</begdate>
+							<enddate>Unknown</enddate>
+							</rngdates>
+						</timeinfo>
+					<srccurr>publication date<!--Currentness of data based on time period of contentDomain: free text--></srccurr>
+					</srctime>
+				<srccitea>U.S.-Canada Boundary<!--The short-form alias for source citation.Domain: free text.--></srccitea>
+				<srccontr>International Boundary between Canada and the United States</srccontr>
+				</srcinfo>
+			<srcinfo><!--Layer Source: Boundaries-->
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey, U.S. Department of Agriculture, and the Instituto Nacional de Estadística y Geografía of Mexico.<!-- Enter the source data provider.--></origin>
+						<pubdate>2006</pubdate>
+						<title>U.S.-Mexico National Boundary<!--Enter the layer dataset theme.Domain: "Transportation" "Hydrography" "Orthoimagery" "Boundaries" "Geographic Names" free text--></title>
+						<othercit>The international boundary between Mexico and the United States, defined as a joint venture between the U.S. Department of Agriculture (USDA) and the Instituto Nacional de Estadística y Geografía of Mexico (INEGI), resulted in an unofficial United States-Mexico boundary dataset that was further enhanced by the U.S. Geological Survey's Border Environmental Health Initiative (BEHI). With the data frame scale set to 1:5,000 in ArcMap, the center of the Rio Grande/Río Bravo was digitized using the NAIP 2004 Imagery. In areas with dense stands of salt cedar (bounding box = UL -104.714 30.038, UR -104.664 30.037, LR -104.666 29.933, LL -104.717 29.934; NAD83), the center of the channel was difficult, and sometimes impossible, to easily determine. To determine the location of the boundary, the GIS analyst compared the location of the line in the INEGI 1:250K Limite feature class with the NAIP 2004 Imagery and adjusted the boundary to the image, thus, the delineation of the international boundary is less certain in these areas. The remaining part of the border was extracted from the INEGI 1:250K Limite feature class and appended to the line feature class created along the Rio Grande/Río Bravo. The U.S. Geological Survey reviewed the original USDA data against 2007 NAIP imagery and further edited 9 line segments in the Rio Grande areas to conform to National Map Accuracy Standards.<!--Enter other information to complete the citation--></othercit>
+						<onlink>http://borderhealth.cr.usgs.gov/projectindex.html</onlink>
+						<onlink>http://extract.cr.usgs.gov/BorderHealth/Boundaries/Int_Boundary/International_Boundary_Shapefile.zip</onlink>
+						</citeinfo>
+					</srccite>
+				<typesrc>vector digital data<!--Enter the mode in which the geospatial data are represented.Domain: "digital data" "paper" "stable-base material" "disc" "cartridge tape" "CD-ROM" "on-line" free text.--></typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>Unknown<!-- Use the begin date (year and month or year, month, and day) of the source, format yyyy, yyyymm, or yyyymmdd. --></begdate>
+							<enddate>Unknown<!-- Use the begin date (year and month or year, month, and day) of the source, format yyyy, yyyymm, or yyyymmdd. --></enddate>
+							</rngdates>
+						</timeinfo>
+					<srccurr>publication date<!--Currentness of data based on time period of content Domain: free text--></srccurr>
+					</srctime>
+				<srccitea>U.S.-Mexico Boundary<!--The short-form alias for source citation.Domain: free text.--></srccitea>
+				<srccontr>International Boundary between Mexico and the United States</srccontr>
+				</srcinfo>
+			<srcinfo><!--Layer Source: Hypsography-->
+				<srccite>
+					<citeinfo>
+						<origin>USGS - National Elevation Dataset is a component of a comprehensive base geospatial data model.<!-- Enter the source data provider. Domain: free text--></origin>
+						<pubdate>Unknown</pubdate>
+						<title>Hypsography<!--Enter the layer dataset theme. Domain: "Transportation" "Hydrography" "Orthoimagery" Geographic Names"--></title>
+						<geoform>Vector digital data<!--Enter the mode in which the geospatial data are represented. Domain:"presentation" "profile" "raster digital data" "remote-sensing image" "section" "spreadsheet" "tabular digital data" "vector digital data" "video" "view" free text--></geoform>
+						<othercit>This contour featureclass was generated from the 1/3 arc-second version of the National Elevation Dataset (NED). The intended viewing scale for these features is 1:24,000. The contours are derived from a filtered elevation raster to achieve smoother arcs. The NED data were modified by the National Hydrography Dataset (NHD) flow lines and water bodies to facilitate improved integration between the hypsography and hydrography on USGS map products. These contours were generated primarily for use as a layer in GeoPDFs created in the US Topo digital mapping program. The raster data source of contours is the National Elevation Dataset (NED) 1/3 arc-second layer. The 1/3 arc-second NED contains resampled data from the 1/9 arc-second layer of NED. Secondary datasets include the high resolution flow lines, water bodies, and areas from the National Hydrography Dataset (NHD). The NHD layers are used in hydro-enforcement of the DEM prior to contour generation. The goals of the hydro-enforcement are to prevent contour lines from extending over the surface of water bodies and to align the contour reentrants with the NHD single-line streams. The NED raster cells are converted to points. Those points, along with the NHD flow lines are input into an interpolation tool to create a new surface. The NHD water bodies and areas are preprocessed to attach the minimum and maximum elevation to each polygon. From these precalculated values, an appropriate value is calculated by which to raise the elevation cells under the NHD polygons. The NHD polygons are then converted into rasters, which in turn will be used to generate a mosaic that includes the new raster surface. The mosaic is filtered to provide smoother contour lines. Contours are generated and depression and index contours are identified. There is no guarantee or warranty concerning the accuracy of the data. Users should be aware that temporal changes may have occurred since these data were collected and generated and that some parts of these data may no longer represent actual surface conditions. Hydro-enforcement and generalization can also significantly alter the spatial characteristics of the contours. Users should not use these data for critical applications without a full awareness of its limitations.<!--Enter other information to complete the citation--></othercit>
+						<onlink>http://ned.usgs.gov/</onlink>
+						</citeinfo>
+					</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>digital data<!--Type of source media Domain: "digital data" "paper" "stable-base material" "disc" "cartridge tape" "CD-ROM" "on-line" free text.--></typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>19990402</begdate>
+							<enddate>19990402</enddate>
+							</rngdates>
+						</timeinfo>
+					<srccurr>publication date<!--Currentness of data based on time period of content. Domain: free text--></srccurr>
+					</srctime>
+				<srccitea>Hypsography<!--The short-form alias for source citation. Domain: free text.--></srccitea>
+				<srccontr>Contours<!--Brief statement identifying the information contributed by the source to the data set. Domain: free text.--></srccontr>
+				</srcinfo>
+			<srcinfo><!--Layer Source: Grids and coordinate systems.-->
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey<!-- Enter the source data provider.--></origin>
+						<pubdate>Unknown</pubdate>
+						<title>Grids and Coordinate System<!--Enter the layer dataset theme.Domain: free text--></title>
+						<othercit>U.S. National Grid, UTM grid, and State Plane Coordinate System values are displayed along the map projection.<!--Enter other information to complete the citation.Domain: free text--></othercit>
+						</citeinfo>
+					</srccite>
+				<typesrc>raster data<!--Enter the mode in which the geospatial data are represented.Domain: "paper" "stable-base material" "disc" "cartridge tape" "CD-ROM" "on-line" free text.--></typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>Unknown</caldate>
+							</sngdate>
+						</timeinfo>
+					<srccurr>publication date<!--Currentness of data based on time period of contentDomain: free text--></srccurr>
+					</srctime>
+				<srccitea>Grids and Coordinate Systems<!--The short-form alias for source citation.Domain: free text.--></srccitea>
+				<srccontr>2.5-minute geographic ticks, U.S. National Grid, UTM grid, State Plane Coordinate System ticks.<!--Brief statement identifying the information contributed by the source to the data set.Domain: free text.--></srccontr>
+				</srcinfo>
+			<procstep>
+				<procdesc>The GeoPDFs for this product are created in 3 basic steps as described. All geospatial content is taken from national geospatial databases under the stewardship of USGS data programs. The NAIP imagery is merged and compressed using GlobalMapper to achieve an acceptable file size and exported as a GeoTIFF. The GeoTIFF is processed through TerraGo, Map2PDF for Raster software to be exported as a 300 DPI Image GeoPDF. The vector data, grids and collar information are processed using ESRI, ArcGIS software and exported as a Vector GeoPDF using a combination of the TerraGo, Map2PDF for ArcGIS Server software and a customized application. The Image GeoPDF and Vector GeoPDF are merged using TerraGo, Map Assembler software, and customized applications to arrange the data layers and attach the metadata XML with an embedded DTD file. GeoPDF is a copyrighted format, with implementation rights held exclusively by TerraGo Technologies. Any use of trade, product, or firm names in this publication is for descriptive purposes only and does not imply endorsement by the U.S. Government.<!--Describe the process used to create this product--></procdesc>
+				<procdate>20100923</procdate>
+				</procstep>
+			</lineage>
+		</dataqual>
+	<spdoinfo>
+		<direct>Raster<!--Spatial reference method--></direct>
+		</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<gridsys>
+					<gridsysn>Universal Transverse Mercator<!--Enter name of the grid coordinate system.Domain: "Universal Transverse Mercator" "Universal Polar Stereographic" "State Plane Coordinate System 1927" "State Plane Coordinate System 1983" "ARC Coordinate System""other grid system" --></gridsysn>
+					<utm>
+						<utmzone>18</utmzone>
+						<transmer>
+							<sfctrmer>0.9996<!--Enter a multiplier for reducing a distance obtained from a map by computation or scaling to the actual distance along the central meridian. Domain: Scale Factor at Central Meridian > 0.0--></sfctrmer>
+							<longcm>-75</longcm>
+							<latprjo>0.0<!--Enter latitude chosen as the origin of rectangular coordinates for a map projection.Domain: -90.0 <= Latitude of Projection Origin <= 90.0--></latprjo>
+							<feast>500000<!--Enter the value added to all "x" values in the rectangular coordinates for a map projection. This value frequently is assigned to eliminate negative numbers. Expressed in the unit of measure identified in Planar Coordinate Units.Domain: free real--></feast>
+							<fnorth>0.0<!--Enter the value added to all "y" values in the rectangular coordinates for a map projection. This value frequently is assigned to eliminate negative numbers. Expressed in the unit of measure identified in Planar Coordinate Units.Domain: free real--></fnorth>
+							</transmer>
+						</utm>
+					</gridsys>
+				<planci>
+					<plance>coordinate pair<!--Enter the means used to represent horizontal positions.Domain: "coordinate pair" "distance and bearing" "row and column"--></plance>
+					<coordrep>
+						<absres>2<!--Nominal resolution of the dataset is normally 300dpi - 2 meters ground.Domain: Abscissa Resolution > 0.0--></absres>
+						<ordres>2<!--Nominal resolution of the dataset is normally 300dpi - 2 meters ground.Domain: Ordinate Resolution > 0.0--></ordres>
+						</coordrep>
+					<plandu>meters<!--Enter units of measure used for distances.Domain: "meters" "international feet" "survey feet" free text--></plandu>
+					</planci>
+				</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983<!--Enter the identification given to the reference system used for defining the coordinates of points.Domain: "North American Datum of 1927" "North American Datum of 1983" free text--></horizdn>
+				<ellips>Geodetic Reference System 80<!--Enter identification given to established representations of the Earth's shape.Domain: "Clarke 1866" "Geodetic Reference System 80" free text--></ellips>
+				<semiaxis>6378137<!--Enter radius of the equatorial axis of the ellipsoid.Domain: Semi-major Axis > 0.0--></semiaxis>
+				<denflat>298.2572221<!--Enter the denominator of the ratio of the difference between the equatorial and polar radii of the ellipsoid when the numerator is set to 1. Domain: Denominator of Flattening > 0.0--></denflat>
+				</geodetic>
+			</horizsys>
+		<vertdef>
+			<altsys>
+				<altdatum>North American Vertical Datum of 1988<!--Enter the identification given to the surface taken as the surface of reference from which altitudes are measured.Domain: "National Geodetic Vertical Datum of 1929" "North American Vertical Datum of 1988" free text--></altdatum>
+				<altres>3</altres>
+				<altunits>meters<!--Units in which altitudes are recorded.Domain: "meters" "feet" free text--></altunits>
+				<altenc>Explicit elevation coordinate included with horizontal coordinates<!-- Enter the means used to encode the altitudes.Domain: "Explicit elevation coordinate included with horizontal coordinates" "Implicit coordinate" "Attribute values"--></altenc>
+				</altsys>
+			</vertdef>
+		</spref>
+	<eainfo>
+		<overview>
+			<eaover>This is a general-purpose design and layout quadrangle map based on the traditional USGS quadrangle cells. The domain is a standard 7.5-minute cell. The scale is 1:24,000.<!--Enter detailed summary of the information contained in a data set.Domain: free text--></eaover>
+			<eadetcit>U.S. Department of the Interior, Draft US Topo Product Standard, Version 0.5.10.<!--Enter reference to the complete description of the entity types, attributes, and attribute values for the data set. Always place version number at the end of text string.Domain: free text--></eadetcit>
+			</overview>
+		</eainfo>
+	<metainfo>
+		<metd>20100924</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Geological Survey, National Geospatial Technical Operations Center<!--Enter the name of the organization to which the contact type applies.Domain: free text--></cntorg>
+					<cntper>Not Provided</cntper>
+					</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical<!--Enter the information provided by the address.Domain: "mailing" "physical" "mailing and physical", free text--></addrtype>
+					<address>1400 Independence Road<!--Enter an address line for the address. Enter contractor's mailing address here.Domain: free text--></address>
+					<city>Rolla<!--Enter name of the city where the provider is located.--></city>
+					<state>MO<!--Enter the name of the State in which the provider is located.--></state>
+					<postal>65401<!--Enter the zip code for the address above.--></postal>
+					</cntaddr>
+				<cntaddr>
+					<addrtype>mailing and physical<!--Enter the information provided by the address.Domain: "mailing" "physical" "mailing and physical", free text--></addrtype>
+					<address>Box 25046 Denver Federal Center<!--Enter an address line for the address. Enter contractor's mailing address here.Domain: free text--></address>
+					<city>Lakewood<!--Enter name of the city where the provider is located.--></city>
+					<state>CO<!--Enter the name of the State in which the provider is located.--></state>
+					<postal>80225<!--Enter the zip code for the address above.--></postal>
+					</cntaddr>
+				<cntvoice>1-888-ASK-USGS (1-888-275-8747)<!--Enter the telephone number for the POC for this dataset.--></cntvoice>
+				<cntemail>ask@usgs.gov<!--Enter the e-mail address for the contact group or persons.--></cntemail>
+				<hours>Monday through Friday 8:00 AM to 4:00 PM<!-- Enter hours of customer service--></hours>
+				<cntinst>Metadata information can also be obtained through online services using The National Map Viewer, at http://nationalmap.usgs.gov or EarthExplorer, at http://earthexplorer.usgs.gov or Ask USGS at http://www.usgs.gov/ask.<!--Enter additional contact instructions--></cntinst>
+				</cntinfo>
+			</metc>
+		<metstdn>FGDC Content Standard for Digital Geospatial Metadata<!--Enter the name of the metadata standard used to document the data set.Domain: "FGDC Content Standard for Digital Geospatial Metadata" free text--></metstdn>
+		<metstdv>FGDC-STD-001-1998<!--Enter identification of the version of the metadata standard used to document the data set.Domain: free text--></metstdv>
+		</metainfo>
+</metadata>
