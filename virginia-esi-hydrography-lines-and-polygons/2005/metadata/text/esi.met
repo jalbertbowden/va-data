@@ -1,0 +1,486 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Hazardous Materials Response Division, Seattle, Washington and NOAA Chesapeake Bay Office, Gloucester Point, Virginia.
+      Publication_Date: 200512
+      Title: Virginia ESI: ESI (Environmental Sensitivity Index Shoreline Types - Lines and Polygons)
+      Edition: 2
+      Geospatial_Data_Presentation_Form: Vector digital data
+      Series_Information:
+        Series_Name: None
+        Issue_Identification: Virginia
+      Publication_Information:
+        Publication_Place: Seattle, Washington
+        Publisher: National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Hazardous Materials Response Division, Seattle, Washington.
+      Other_Citation_Details: Prepared by Research Planning, Inc., Columbia, South Carolina for the National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Hazardous Materials Response Division, Seattle, Washington and NOAA Chesapeake Bay Office, Gloucester Point, Virginia.
+  Description:
+    Abstract: This data set contains vector lines and polygons representing the shoreline and coastal habitats for Virginia, classified according to the Environmental Sensitivity Index (ESI) classification system.  This data set comprises a portion of the ESI data for Virginia.  ESI data characterize the marine and coastal environments and wildlife by their sensitivity to spilled oil.  The ESI data include information for three main components: shoreline habitats, sensitive biological resources, and human-use resources.  See also the WETLANDS (Wetland Polygons) data layer, part of the larger Virginia ESI database, for additional coastal habitat information.
+    Purpose: The ESI data were collected, mapped, and digitized to provide environmental data for oil spill planning and response.  The Clean Water Act with amendments by the Oil Pollution Act of 1990 requires response plans for immediate and effective protection of sensitive resources.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 1988
+        Ending_Date: 2004
+    Currentness_Reference: The data were compiled during 2004-2005.  The currentness dates for the data range from 1988 to 2004 and are documented in the Lineage section.
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None Scheduled
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -77.50000
+      East_Bounding_Coordinate: -75.12500
+      North_Bounding_Coordinate: 38.87500
+      South_Bounding_Coordinate: 36.50000
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: ESI
+      Theme_Keyword: Sensitivity maps
+      Theme_Keyword: Coastal resources
+      Theme_Keyword: Oil spill planning
+      Theme_Keyword: Coastal Zone Management
+      Theme_Keyword: Wildlife
+      Theme_Keyword: Shoreline habitats
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: Virginia
+  Access_Constraints: None
+  Use_Constraints:
+    DO NOT USE MAPS FOR NAVIGATIONAL PURPOSES.
+    Besides the above warning, there are no use constraints on these data.  Note that the ESI database should not be used to the exclusion of other pertinent data or information held by state or federal agencies or other organizations.  Likewise, information contained in the database cannot be used in place of consultations with environmental, natural resource, and cultural resource agencies, or in place of field surveys.  Recognize that the information contained in the ESI database represents known concentration areas or occurrences of natural, cultural, and human-use resources, but does not necessarily represent the full distribution or range of each species or resource.  This is particularly important to recognize when considering potential impacts to protected resources, such as endangered species, wetlands, etc.  Acknowledgment of the originators, publishers, contributors, and sources listed would be appreciated in products derived from these data.
+  Browse_Graphic:
+    Browse_Graphic_File_Name: datafig.jpg
+    Browse_Graphic_File_Description: Depicts the relationships between spatial data layers and attribute data tables for the Virginia ESI data.
+    Browse_Graphic_File_Type: JPEG
+  Data_Set_Credit: This project was supported by the National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Hazardous Materials Response Division, Seattle, Washington and NOAA Chesapeake Bay Office, Gloucester Point, Virginia.
+  Native_Data_Set_Environment:
+    The software packages used to develop the atlas are Environmental Systems Research Institute's ARC/INFO(r) (version 8.3) and SQL SERVER(r) (version 7.0).  The hardware configuration is PC's with Windows Operating System (NT4.0/2000).
+
+    The Spatial_Data_Organization Information section refers only to the source files in the ARC export format. The following files are included in the data set: birds.e00, esi.e00, fish.e00, habitats.e00, hydro.e00, index.e00, invert.e00, m_mammal.e00, mgt.e00, nests.e00, reptiles.e00, reptpt.e00, socecon.e00, t_mammal.e00, wetlands.e00.   Associated relational and desktop data tables provided in Arc export and text format are bio_lut, biofile, biores, breed, breed_dt, seasonal, soc_dat, soc_lut, sources, species, and status.
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: A multi-stage error checking process is used to verify both attribute accuracy and logical consistency throughout data production.  The process includes a standardized data entry methodology, hardcopy data review by in-house and external resource experts, a final Quality Assurance/Quality Control (QA/QC) process, and multiple automated logical consistency checks.  Quantitative data (such as densities, counts, abundances, or concentrations) provided by resource experts for inclusion in the data set may vary widely in attribute accuracy, depending upon the methodology used to collect and compile such data.  For a more detailed evaluation of source data attribute accuracy, contact the sources listed in the Lineage section.
+  Logical_Consistency_Report: A multi-stage error checking process, described in the above Attribute_Accuracy_Report, is used to verify both attribute accuracy and logical consistency throughout data production.  This process  includes multiple automated logical consistency checks that test the files for missing or duplicate data, rules for proper coding, GIS topological consistencies (such as dangles, unnecessary nodes, etc.), and SQL SERVER(r) to ARC/INFO(r) consistencies.  A final review is made by the GIS manager, where the data are written to CD-ROM and the metadata are written.  After the data are delivered to NOAA, they are again subjected to a number of quality and consistency checks.
+  Completeness_Report: These data represent coastal shorelines and habitats classified according to the Environmental Sensitivity Index (ESI) classification system.  See also the WETLANDS (Wetland Polygons) data layer, part of the larger Virginia ESI database, for additional coastal habitat information.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: The ESI data set was developed from pre-existing digital sources and reflects the positional accuracy of these original data.  The horizontal positional accuracy of the 1:24,000 USGS topographic quads should conform to National Map Accuracy Standards at scales of 1:24,000.  The minimum mapping unit (MMU) of the actual shoreline classification segments is estimated at 50 meters where mapping is conducted using 1:24,000 hardcopy fieldmaps.  Field verification has shown that the absolute positional accuracy of breaks between shoreline ESI types with a 95-percent error bound is approximately 58 meters.  See the Lineage and Process_Description sections for more information on the original data source and how these data were integrated or manipulated to create the final data set.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: MARYLAND DEPARTMENT OF NATURAL RESOURCES (DNR)
+          Publication_Date: 2003
+          Title: RECENT (1988-1995) MARYLAND SHORELINES WITH EROSION RATE ATTRIBUTES
+          Geospatial_Data_Presentation_Form: DIGITAL VECTOR DATA
+          Other_Citation_Details: MARYLAND DNR, CHESAPEAKE BAY AND WATERSHED PROGRAM, MARYLAND GEOLOGICAL SURVEY HTTP://WWW.MGS.MD.GOV
+      Type_of_Source_Media: ONLINE
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1988
+            Ending_Date: 1995
+        Source_Currentness_Reference: DATE OF IMAGERY
+      Source_Citation_Abbreviation: NONE
+      Source_Contribution: ESI INFORMATION
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: RESEARCH PLANNING, INC.
+          Publication_Date: 2004
+          Title: RPI LOW ALTITUDE OVERFLIGHTS
+          Geospatial_Data_Presentation_Form: HARDCOPY MAP
+          Other_Citation_Details: 2004
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: PAPER
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2004
+        Source_Currentness_Reference: DATE OF SURVEY
+      Source_Citation_Abbreviation: NONE
+      Source_Contribution: ESI INFORMATION
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. GEOLOGICAL SURVEY
+          Publication_Date: VARIES
+          Title: SCANNED TOPOGRAPHIC QUADRANGLES
+          Geospatial_Data_Presentation_Form: HARDCOPY MAP
+          Other_Citation_Details: DENVER, CO OR RESTON, VA
+      Source_Scale_Denominator: 24,000
+      Type_of_Source_Media: ONLINE
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: VARIES
+        Source_Currentness_Reference: DATE OF PUBLICATION
+      Source_Citation_Abbreviation: NONE
+      Source_Contribution: ESI INFORMATION
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. GEOLOGICAL SURVEY
+          Publication_Date: 1998
+          Title: DIGITAL ORTHOPHOTO QUADRANGLES (DOQQ'S) FOR VA, DOWNLOADED FROM THE UNIVERSITY OF VIRGINIA (UVA) GEOSPATIAL AND STATISTICAL DATA CENTER
+          Geospatial_Data_Presentation_Form: DIGITAL RASTER DATA
+          Other_Citation_Details: http://fisher.lib.virginia.edu/collections/gis/doq/go_to_html.html
+      Type_of_Source_Media: ONLINE
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1998
+        Source_Currentness_Reference: DATE OF PUBLICATION
+      Source_Citation_Abbreviation: NONE
+      Source_Contribution: ESI INFORMATION
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. GEOLOGICAL SURVEY
+          Publication_Date: VARIES
+          Title: DIGITAL RASTER GRAPHICS FOR VA
+          Geospatial_Data_Presentation_Form: DIGITAL RASTER DATA
+          Other_Citation_Details: DENVER, CO OR RESTON, VA
+      Source_Scale_Denominator: 24,000
+      Type_of_Source_Media: ONLINE
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: VARIES
+        Source_Currentness_Reference: DATE OF PUBLICATION
+      Source_Citation_Abbreviation: NONE
+      Source_Contribution: ESI INFORMATION
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: VIRGINIA GEOGRAPHIC INFORMATION NETWORK (VGIN)
+          Publication_Date: 2002
+          Title: 1 METER HYDROGRAPHY EXTRACTED FROM DTMS
+          Geospatial_Data_Presentation_Form: DIGITAL VECTOR DATA
+          Other_Citation_Details: VIRGINIA GEOGRAPHIC INFORMATION NETWORK, RICHMOND, VA 23219
+      Type_of_Source_Media: FTP
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2002
+        Source_Currentness_Reference: DATE OF PUBLICATION
+      Source_Citation_Abbreviation: NONE
+      Source_Contribution: ESI INFORMATION
+    Process_Step:
+      Process_Description: Overflights for Virginia occurred in January 2004.  The overflights were conducted at altitudes of 400-600 feet and slow air speeds. All flights were planned to maximize time on site during the 2.5 hours preceding and the 2.5 hours following peak low tide. During this work the shoreline depicted on current 1:24,000-scale USGS topographic maps was annotated with the ESI ranking of observed intertidal shoreline habitats. Where appropriate, revisions to the existing shoreline were made and where necessary, multiple habitats were described for each shoreline segment.
+      Process_Date: 200505
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: NOAA, Office of Response and Restoration
+            Contact_Person: Jill Petersen
+          Contact_Address:
+            Address_Type: Physical address
+            Address: 7600 Sand Point Way N.E.
+            City: Seattle
+            State_or_Province: Washington
+            Postal_Code: 98115-6349
+          Contact_Voice_Telephone: (206) 526-6944
+          Contact_Facsimile_Telephone: (206) 526-6329
+          Contact_Electronic_Mail_Address: Jill.Petersen@noaa.gov
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: GT-polygon composed of chains
+      Point_and_Vector_Object_Count: 2864
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Area point
+      Point_and_Vector_Object_Count: 2864
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Complete chain
+      Point_and_Vector_Object_Count: 18326
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Link
+      Point_and_Vector_Object_Count: 1806859
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Node, planar graph
+      Point_and_Vector_Object_Count: 18047
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.0000001
+      Longitude_Resolution: 0.0000001
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1927
+      Ellipsoid_Name: Clark 1866
+      Semi-major_Axis: 6378206.400000
+      Denominator_of_Flattening_Ratio: 294.978698
+Entity_and_Attribute_Information:
+  Overview_Description:
+    Entity_and_Attribute_Overview: In addition to the geographic data layers, one relational attribute or data table, SOURCES, is used to store the source data information in the ESI data structure. The geographic data layer containing resource information (in this case, ESI) is linked to the SOURCES table using the SOURCE_ID. The entity-relationship diagram describes the relationships between the attribute tables in the ESI data structure.
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: ESI.AAT
+      Entity_Type_Definition: The ESI.AAT table contains attribute information for the vector lines representing linear shoreline features with ESI classification.
+      Entity_Type_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: ESI
+      Attribute_Definition:
+        The item ESI contains values representing the ESI shoreline type.  In many cases shorelines are ranked with multiple codes, such as "6B/3A" (listed landward to seaward from left to right).  The first code, "6B", is the most landward shoreline type and the second code, "3A", is the shoreline type closest to the water.  Singular shoreline types are listed below.  No multiple codes are listed, but all multiple codes included in the data set can be assembled from the codes described.
+        The ESI rankings progress from low to high susceptibility to oil spills.  To determine the sensitivity of a particular intertidal shoreline habitat, the following factors are integrated: (1) Shoreline type (substrate, grain size, tidal elevation, origin); (2) Exposure to wave and tidal energy; (3) Biological productivity and sensitivity; (4) Ease of cleanup.  Prediction of the behavior and persistence of oil in intertidal habitats is based on an understanding of the dynamics of the coastal environments, not just the substrate type and grain size.  The intensity of energy expended upon a shoreline by wave action, tidal currents, and river currents directly affects the persistence of stranded oil.  The need for shoreline cleanup activities is determined, in part, by the slowness of natural processes in removal of oil stranded on the shoreline.  The potential for biological injury, and ease of cleanup of spilled oil, are also important factors in the ESI ranking.  Generally speaking, areas exposed to high levels of physical energy, such as wave action and tidal currents, and low biological activity rank low on the scale, whereas sheltered areas with associated high biological activity have the highest ranking.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1B
+          Enumerated_Domain_Value_Definition: Exposed, Solid Man-made Structures
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 2A
+          Enumerated_Domain_Value_Definition: Exposed Wave-cut Platforms in Clay
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 2B
+          Enumerated_Domain_Value_Definition: Exposed Scarps and Steep Slopes in Clay
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 3A
+          Enumerated_Domain_Value_Definition: Fine- to Medium-grained Sand Beaches
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 3B
+          Enumerated_Domain_Value_Definition: Scarps and Steep Slopes in Sand
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 4
+          Enumerated_Domain_Value_Definition: Coarse-grained Sand Beaches
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 5
+          Enumerated_Domain_Value_Definition: Mixed Sand and Gravel Beaches
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 6A
+          Enumerated_Domain_Value_Definition: Gravel Beaches
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 6B
+          Enumerated_Domain_Value_Definition: Riprap
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 7
+          Enumerated_Domain_Value_Definition: Exposed Tidal Flats
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 8A
+          Enumerated_Domain_Value_Definition: Sheltered Scarps in Clay
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 8B
+          Enumerated_Domain_Value_Definition: Sheltered, Solid Man-made Structures
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 8C
+          Enumerated_Domain_Value_Definition: Sheltered Riprap
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 9A
+          Enumerated_Domain_Value_Definition: Sheltered Tidal Flats
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 9B
+          Enumerated_Domain_Value_Definition: Sheltered Vegetated Low Banks
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 10A
+          Enumerated_Domain_Value_Definition: Salt- and Brackish-water marshes
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 10B
+          Enumerated_Domain_Value_Definition: Freshwater Marshes
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 10C
+          Enumerated_Domain_Value_Definition: Swamps
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: U
+          Enumerated_Domain_Value_Definition: Unranked
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: LINE
+      Attribute_Definition: Type of geographic feature.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: B
+          Enumerated_Domain_Value_Definition: Breakwater
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: F
+          Enumerated_Domain_Value_Definition: Flat
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: S
+          Enumerated_Domain_Value_Definition: Shoreline
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: SOURCE_ID
+      Attribute_Definition: Spatial data source for the data layer lines that link to records in the SOURCES data table.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: N
+    Attribute:
+      Attribute_Label: ENVIR
+      Attribute_Definition: Type of regional environment.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: E
+          Enumerated_Domain_Value_Definition: Estuarine
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: U
+          Enumerated_Domain_Value_Definition: Unranked
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: ESI.PAT
+      Entity_Type_Definition: The ESI.PAT table contains attribute information for the vector polygons representing polygonal features with ESI classification.
+      Entity_Type_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: ESI
+      Attribute_Definition: The item ESI contains values representing the ESI polygon type.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 7
+          Enumerated_Domain_Value_Definition: Exposed Tidal Flats
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 9A
+          Enumerated_Domain_Value_Definition: Sheltered Tidal Flats
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: U
+          Enumerated_Domain_Value_Definition: Unranked
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: WATER_CODE
+      Attribute_Definition: Specifies a polygon as either water or land.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: L
+          Enumerated_Domain_Value_Definition: Land
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: W
+          Enumerated_Domain_Value_Definition: Water
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: ENVIR
+      Attribute_Definition: Type of regional environment.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: E
+          Enumerated_Domain_Value_Definition: Estuarine
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: U
+          Enumerated_Domain_Value_Definition: Unranked
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: SOURCES
+      Entity_Type_Definition: The data table SOURCES contains the primary sources used to create the ESI data set.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the way this table relates to other attribute tables in the ESI data structure.
+      Entity_Type_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: SOURCE_ID
+      Attribute_Definition: Source identifier that links records in the SOURCES data table to the items G_SOURCE and A_SOURCE in the SOC_DAT table; G_SOURCE and S_SOURCE in the BIORES table; and SOURCE_ID in the ESI and HYDRO data layers.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: N
+    Attribute:
+      Attribute_Label: ORIGINATOR
+      Attribute_Definition: Author or developer of source material or data set.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Acceptable values change from atlas to atlas.
+    Attribute:
+      Attribute_Label: DATE_PUB
+      Attribute_Definition: Date of source material, publication, or date of personal communication with expert source.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: YYYYMM
+          Enumerated_Domain_Value_Definition: YYYY for year and optionally MM for month
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: TITLE
+      Attribute_Definition: Title of source material or data.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Acceptable values change from atlas to atlas.
+    Attribute:
+      Attribute_Label: DATA_FORMAT
+      Attribute_Definition: The format of the source material.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Acceptable values change from atlas to atlas.
+    Attribute:
+      Attribute_Label: PUBLICATION
+      Attribute_Definition: Additional citation information.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Acceptable values change from atlas to atlas.
+    Attribute:
+      Attribute_Label: SCALE
+      Attribute_Definition: Description of the source scale.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Acceptable values change from atlas to atlas.
+    Attribute:
+      Attribute_Label: TIME_PERIOD
+      Attribute_Definition: Date(s) of data collection that the source material is based upon.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Acceptable values change from atlas to atlas.
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: John Kaperick
+        Contact_Organization: NOAA, Office of Response and Restoration
+      Contact_Address:
+        Address_Type: Physical Address
+        Address: 7600 Sand Point Way N.E.
+        City: Seattle
+        State_or_Province: Washington
+        Postal_Code: 98115-6349
+      Contact_Voice_Telephone: (206) 526-6400
+      Contact_Facsimile_Telephone: (206) 526-6329
+  Resource_Description: ESI Atlas for Virginia
+  Distribution_Liability: Although these data have been processed successfully on a computer system at the National Oceanic and Atmospheric Administration, no warranty, expressed or implied, is made by NOAA regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty.  NOAA warrants the delivery of this product in computer-readable format, and will offer a replacement copy of the product when the product is determined unreadable by computer-input peripherals, or when the physical medium is delivered in damaged condition.
+  Custom_Order_Process: Contact NOAA for distribution options (see Distributor).  ESI data are processed into multiple formats to make them useful to a wider community of GIS/mapping users.  Distribution formats include ARC export, MOSS and Shape files, and MARPLOT map folders.  An ArcView ESI project and ESI_Viewer product are also included on the distribution CDs for ease of use of the ESI data.  The database files are distributed both in the NOAA standard relational database format (see NOAA Technical Memorandum NOS ORCA 115) and in a simplified desktop flat file format.  This metadata document includes information on both of these database formats.
+Metadata_Reference_Information:
+  Metadata_Date: 200512
+  Metadata_Review_Date: 200512
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Jill Petersen
+        Contact_Organization: NOAA, Office of Response and Restoration
+      Contact_Position: GIS Manager
+      Contact_Address:
+        Address_Type: Physical Address
+        Address: 7600 Sand Point Way N.E.
+        City: Seattle
+        State_or_Province: Washington
+        Postal_Code: 98115-6349
+      Contact_Voice_Telephone: (206) 526-6944
+      Contact_Facsimile_Telephone: (206) 526-6329
+      Contact_Electronic_Mail_Address: Jill.Petersen@noaa.gov
+  Metadata_Standard_Name: Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998

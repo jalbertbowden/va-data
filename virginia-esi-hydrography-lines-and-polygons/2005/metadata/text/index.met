@@ -1,0 +1,213 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Hazardous Materials Response Division, Seattle, Washington and NOAA Chesapeake Bay Office, Gloucester Point, Virginia.
+      Publication_Date: 200512
+      Title: Virginia ESI: INDEX (Index Polygons)
+      Edition: 2
+      Geospatial_Data_Presentation_Form: Vector digital data
+      Series_Information:
+        Series_Name: None
+        Issue_Identification: Virginia
+      Publication_Information:
+        Publication_Place: Seattle, Washington
+        Publisher: National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Hazardous Materials Response Division, Seattle, Washington.
+      Other_Citation_Details: Prepared by Research Planning, Inc., Columbia, South Carolina for the National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Hazardous Materials Response Division, Seattle, Washington and NOAA Chesapeake Bay Office, Gloucester Point, Virginia.
+  Description:
+    Abstract: This data set contains vector polygons representing the boundaries of all hardcopy cartographic products produced as part of the Environmental Sensitivity Index (ESI) for Virginia.  This data set comprises a portion of the ESI data for Virginia.  ESI data characterize the marine and coastal environments and wildlife by their sensitivity to spilled oil.  The ESI data include information for three main components: shoreline habitats, sensitive biological resources, and human-use resources.
+    Purpose: The ESI data were collected, mapped, and digitized to provide environmental data for oil spill planning and response.  The Clean Water Act with amendments by the Oil Pollution Act of 1990 requires response plans for immediate and effective protection of sensitive resources.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 2004
+    Currentness_Reference: The INDEX data were compiled during 2004-2005.  The currentness date for the data is 2004 and is documented in the Lineage section.
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None Scheduled
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -77.50000
+      East_Bounding_Coordinate: -75.12500
+      North_Bounding_Coordinate: 38.87500
+      South_Bounding_Coordinate: 36.50000
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: ESI
+      Theme_Keyword: Sensitivity maps
+      Theme_Keyword: Coastal resources
+      Theme_Keyword: Oil spill planning
+      Theme_Keyword: Coastal Zone Management
+      Theme_Keyword: Wildlife
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: Virginia
+  Access_Constraints: None
+  Use_Constraints:
+    DO NOT USE MAPS FOR NAVIGATIONAL PURPOSES.
+    Besides the above warning, there are no use constraints on these data.  Note that the ESI database should not be used to the exclusion of other pertinent data or information held by state or federal agencies or other organizations.  Likewise, information contained in the database cannot be used in place of consultations with environmental, natural resource, and cultural resource agencies, or in place of field surveys.  Recognize that the information contained in the ESI database represents known concentration areas or occurrences of natural, cultural, and human-use resources, but does not necessarily represent the full distribution or range of each species or resource.  This is particularly important to recognize when considering potential impacts to protected resources, such as endangered species, wetlands, etc.  Acknowledgment of the originators, publishers, contributors, and sources listed would be appreciated in products derived from these data.
+  Browse_Graphic:
+    Browse_Graphic_File_Name: datafig.jpg
+    Browse_Graphic_File_Description: Depicts the relationships between spatial data layers and attribute data tables for the Virginia ESI data.
+    Browse_Graphic_File_Type: JPEG
+  Data_Set_Credit: This project was supported by the National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Hazardous Materials Response Division, Seattle, Washington and NOAA Chesapeake Bay Office, Gloucester Point, Virginia.
+  Native_Data_Set_Environment:
+    The software packages used to develop the atlas are Environmental Systems Research Institute's ARC/INFO(r) (version 8.3) and SQL SERVER(r) (version 7.0).  The hardware configuration is PC's with Windows Operating System (NT4.0/2000).
+
+    The Spatial_Data_Organization Information section refers only to the source files in the ARC export format.  The following files are included in the data set: birds.e00, esi.e00, fish.e00, habitats.e00, hydro.e00, index.e00, invert.e00, m_mammal.e00, mgt.e00, nests.e00, reptiles.e00, reptpt.e00, socecon.e00, t_mammal.e00, wetlands.e00.  Associated relational and desktop data tables provided in Arc export and text format are bio_lut, biofile, biores, breed, breed_dt, seasonal, soc_dat, soc_lut, sources, species, and status.
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: A multi-stage error checking process is used to verify both attribute accuracy and logical consistency throughout data production.  The process includes a standardized data entry methodology, hardcopy data review by in-house and external resource experts, a final Quality Assurance/Quality Control (QA/QC) process, and multiple automated logical consistency checks.  Quantitative data (such as densities, counts, abundances, or concentrations) provided by resource experts for inclusion in the data set may vary widely in attribute accuracy, depending upon the methodology used to collect and compile such data.  For a more detailed evaluation of source data attribute accuracy, contact the sources listed in the Lineage section.
+  Logical_Consistency_Report: A multi-stage error checking process, described in the above Attribute_Accuracy_Report, is used to verify both attribute accuracy and logical consistency throughout data production.  This process includes multiple automated logical consistency checks that test the files for missing or duplicate data, rules for proper coding, GIS topological consistencies (such as dangles, unnecessary nodes, etc.), and SQL SERVER(r) to ARC/INFO(r) consistencies.  A final review is made by the GIS manager, where the data are written to CD-ROM and the metadata are written.  After the data are delivered to NOAA, they are again subjected to a number of quality and consistency checks.
+  Completeness_Report: These data represent the boundaries of all hardcopy cartographic products produced as part of the Virginia ESI, as well as digital data extents.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: The index polygons in this data layer were generated in ArcInfo from the coordinates of the U.S. Geological Survey (USGS) 1:24,000 topographic map corners.  Some small amount of positional error may be present along the arcs forming the boundaries of these polygons, particularly away from the polygon corners.  Some boundaries were developed from pre-existing digital and hardcopy sources and reflect the positional accuracy of these original data.  See the Lineage and Process_Description sections for more information on the original source data and how these data were integrated or manipulated to create the final data set.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: RESEARCH PLANNING, INC.
+          Publication_Date: 2004
+          Title: STUDY AREA INDEX
+          Geospatial_Data_Presentation_Form: DIGITAL VECTOR DATA
+          Other_Citation_Details: UNPUBLISHED
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: DISC
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2004
+        Source_Currentness_Reference: DATE OF PUBLICATION
+      Source_Citation_Abbreviation: NONE
+      Source_Contribution: INDEX INFORMATION
+    Process_Step:
+      Process_Description: Primarily, 1:24,000 U.S. Geological Survey (USGS) topographic maps were used to provide boundaries for cartographic products. In some cases, the polygons represent USGS topographic maps that were re-tiled, moved, or extended to provide better cartographic coverage of the study area.
+      Process_Date: 200505
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: NOAA, Office of Response and Restoration
+            Contact_Person: Jill Petersen
+          Contact_Address:
+            Address_Type: Physical address
+            Address: 7600 Sand Point Way N.E.
+            City: Seattle
+            State_or_Province: Washington
+            Postal_Code: 98115-6349
+          Contact_Voice_Telephone: (206) 526-6944
+          Contact_Facsimile_Telephone: (206) 526-6329
+          Contact_Electronic_Mail_Address: Jill.Petersen@noaa.gov
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: GT-polygon composed of chains
+      Point_and_Vector_Object_Count: 129
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Area point
+      Point_and_Vector_Object_Count: 129
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Complete chain
+      Point_and_Vector_Object_Count: 311
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Link
+      Point_and_Vector_Object_Count: 6611
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Node, planar graph
+      Point_and_Vector_Object_Count: 183
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.0000001
+      Longitude_Resolution: 0.0000001
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1927
+      Ellipsoid_Name: Clark 1866
+      Semi-major_Axis: 6378206.400000
+      Denominator_of_Flattening_Ratio: 294.978698
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: INDEX.PAT
+      Entity_Type_Definition: The INDEX.PAT table contains attribute information for the vector polygons representing the boundaries of the maps and digital data boundaries used in the creation of the ESI.
+      Entity_Type_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: TILE-NAME
+      Attribute_Definition: The TILE-NAME contains the map number according to the specified layout of the atlas.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 125
+    Attribute:
+      Attribute_Label: TOPO-NAME
+      Attribute_Definition: USGS Topographic map name, short description of location, or atlas name.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Acceptable values change from atlas to atlas.
+    Attribute:
+      Attribute_Label: SCALE
+      Attribute_Definition: SCALE contains the value of the denominator of the scale at which the map is plotted in the final map product.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 24000
+          Enumerated_Domain_Value_Definition: Scale = 1:24,000
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: MAPANGLE
+      Attribute_Definition: MAPANGLE contains the value to rotate the final map product so that it is situated straight up and down.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.0000
+          Range_Domain_Maximum: 1.4890
+          Attribute_Units_of_Measure: Degree
+    Attribute:
+      Attribute_Label: PAGESIZE
+      Attribute_Definition: PAGESIZE contains the value of the width and height of the map in the final map product.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 11,17
+          Enumerated_Domain_Value_Definition: Page size= 11" by 17"
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: John Kaperick
+        Contact_Organization: NOAA, Office of Response and Restoration
+      Contact_Address:
+        Address_Type: Physical Address
+        Address: 7600 Sand Point Way N.E.
+        City: Seattle
+        State_or_Province: Washington
+        Postal_Code: 98115-6349
+      Contact_Voice_Telephone: (206) 526-6400
+      Contact_Facsimile_Telephone: (206) 526-6329
+  Resource_Description: ESI Atlas for Virginia
+  Distribution_Liability: Although these data have been processed successfully on a computer system at the National Oceanic and Atmospheric Administration, no warranty, expressed or implied, is made by NOAA regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty.  NOAA warrants the delivery of this product in computer-readable format, and will offer a replacement copy of the product when the product is determined unreadable by computer-input peripherals, or when the physical medium is delivered in damaged condition.
+  Custom_Order_Process: Contact NOAA for distribution options (see Distributor).  ESI data are processed into multiple formats to make them useful to a wider community of GIS/mapping users.  Distribution formats include ARC export, MOSS and Shape files, and MARPLOT map folders.  An ArcView ESI project and ESI_Viewer product are also included on the distribution CDs for ease of use of the ESI data.  The database files are distributed both in the NOAA standard relational database format (see NOAA Technical Memorandum NOS ORCA 115) and in a simplified desktop flat file format.  This metadata document includes information on both of these database formats.
+Metadata_Reference_Information:
+  Metadata_Date: 200512
+  Metadata_Review_Date: 200512
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Jill Petersen
+        Contact_Organization: NOAA, Office of Response and Restoration
+      Contact_Position: GIS Manager
+      Contact_Address:
+        Address_Type: Physical Address
+        Address: 7600 Sand Point Way N.E.
+        City: Seattle
+        State_or_Province: Washington
+        Postal_Code: 98115-6349
+      Contact_Voice_Telephone: (206) 526-6944
+      Contact_Facsimile_Telephone: (206) 526-6329
+      Contact_Electronic_Mail_Address: Jill.Petersen@noaa.gov
+  Metadata_Standard_Name: Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998

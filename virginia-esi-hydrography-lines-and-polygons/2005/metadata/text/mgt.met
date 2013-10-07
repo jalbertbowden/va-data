@@ -1,0 +1,487 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Hazardous Materials Response Division, Seattle, Washington and NOAA Chesapeake Bay Office, Gloucester Point, Virginia.
+      Publication_Date: 200512
+      Title: Virginia ESI: MGT (Management Area Polygons)
+      Edition: 2
+      Geospatial_Data_Presentation_Form: Vector digital data
+      Series_Information:
+        Series_Name: None
+        Issue_Identification: Virginia
+      Publication_Information:
+        Publication_Place: Seattle, Washington
+        Publisher: National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Hazardous Materials Response Division, Seattle, Washington.
+      Other_Citation_Details: Prepared by Research Planning, Inc., Columbia, South Carolina for the National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Hazardous Materials Response Division, Seattle, Washington and NOAA Chesapeake Bay Office, Gloucester Point, Virginia.
+  Description:
+    Abstract:
+      This data set contains boundaries for management areas, national parks, state and local parks, and wildlife refuges in Virginia.  Vector polygons in this data set represent the management areas.  Location-specific type and source information is stored in relational data tables (described below) designed to be used in conjunction with this spatial data layer.
+
+      This data set comprises a portion of the Environmental Sensitivity Index (ESI) data for Virginia.  ESI data characterize the marine and coastal environments and wildlife by their sensitivity to spilled oil.  The ESI data include information for three main components: shoreline habitats, sensitive biological resources, and human-use resources.  See also the SOCECON (Socioeconomic Resource Points and Lines) data layer, part of the larger Virginia ESI database, for additional human-use information.
+    Purpose: The ESI data were collected, mapped, and digitized to provide environmental data for oil spill planning and response.  The Clean Water Act with amendments by the Oil Pollution Act of 1990 requires response plans for immediate and effective protection of sensitive resources.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 2001
+        Ending_Date: 2003
+    Currentness_Reference: The MGT data were compiled during 2004-2005.  The currentness dates for the data range from 2001 to 2003 and are documented in the Lineage section.
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None Scheduled
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -77.50000
+      East_Bounding_Coordinate: -75.12500
+      North_Bounding_Coordinate: 38.87500
+      South_Bounding_Coordinate: 36.50000
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: ESI
+      Theme_Keyword: Sensitivity maps
+      Theme_Keyword: Coastal resources
+      Theme_Keyword: Oil spill planning
+      Theme_Keyword: Coastal Zone Management
+      Theme_Keyword: Wildlife
+      Theme_Keyword: Management areas
+      Theme_Keyword: Human use resources
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: Virginia
+  Access_Constraints: None
+  Use_Constraints:
+    DO NOT USE MAPS FOR NAVIGATIONAL PURPOSES.
+    Besides the above warning, there are no use constraints on these data.  Note that the ESI database should not be used to the exclusion of other pertinent data or information held by state or federal agencies or other organizations.  Likewise, information contained in the database cannot be used in place of consultations with environmental, natural resource, and cultural resource agencies, or in place of field surveys.  Recognize that the information contained in the ESI database represents known concentration areas or occurrences of natural, cultural, and human-use resources, but does not necessarily represent the full distribution or range of each species or resource.  This is particularly important to recognize when considering potential impacts to protected resources, such as endangered species, wetlands, etc.  Acknowledgment of the originators, publishers, contributors, and sources listed would be appreciated in products derived from these data.
+  Browse_Graphic:
+    Browse_Graphic_File_Name: datafig.jpg
+    Browse_Graphic_File_Description: Depicts the relationships between spatial data layers and attribute data tables for the Virginia ESI data.
+    Browse_Graphic_File_Type: JPEG
+  Data_Set_Credit: This project was supported by the National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Hazardous Materials Response Division, Seattle, Washington and NOAA Chesapeake Bay Office, Gloucester Point, Virginia.
+  Native_Data_Set_Environment:
+    The software packages used to develop the atlas are Environmental Systems Research Institute's ARC/INFO(r) (version 8.3) and SQL SERVER(r) (version 7.0).  The hardware configuration is PC's with Windows Operating System (NT4.0/2000).
+
+    The Spatial_Data_Organization Information section refers only to the source files in the ARC export format.  The following files are included in the data set: birds.e00, esi.e00, fish.e00, habitats.e00, hydro.e00, index.e00, invert.e00, m_mammal.e00, mgt.e00, nests.e00, reptiles.e00, reptpt.e00, socecon.e00, t_mammal.e00, wetlands.e00.   Associated relational and desktop data tables provided in Arc export and text format are bio_lut, biofile, biores, breed, breed_dt, seasonal, soc_dat, soc_lut, sources, species, and status.
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: A multi-stage error checking process is used to verify both attribute accuracy and logical consistency throughout data production.  The process includes a standardized data entry methodology, hardcopy data review by in-house and external resource experts, a final Quality Assurance/Quality Control (QA/QC) process, and multiple automated logical consistency checks.  Quantitative data (such as densities, counts, abundances, or concentrations) provided by resource experts for inclusion in the data set may vary widely in attribute accuracy, depending upon the methodology used to collect and compile such data.  For a more detailed evaluation of source data attribute accuracy, contact the sources listed in the Lineage section.
+  Logical_Consistency_Report: A multi-stage error checking process, described in the above Attribute_Accuracy_Report, is used to verify both attribute accuracy and logical consistency throughout data production.  This process includes multiple automated logical consistency checks that test the files for missing or duplicate data, rules for proper coding, GIS topological consistencies (such as dangles, unnecessary nodes, etc.), and SQL SERVER(r) to ARC/INFO(r) consistencies.  A final review is made by the GIS manager, where the data are written to CD-ROM and the metadata are written. After the data are delivered to NOAA, they are again subjected to a number of quality and consistency checks.
+  Completeness_Report: These data represent a synthesis of digital boundaries for management areas. These data do not necessarily represent all management areas in Virginia. See also the SOCECON (Socioeconomic Resource Points and Lines) data layer, part of the larger Virginia ESI database, for additional human-use information.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: Spatial components for the human-use data layers can come from expert interviews, hardcopy, or digital sources.  Most of the spatial components of the human-use data layers are developed from pre-existing digital or hardcopy sources and reflect the positional accuracy of these original data.  Some of the spatial components of the human-use data layers are compiled on hardcopy base maps with a scale of 1:24,000.  See the Lineage and Process_Description sections for more information on the original data source and how these data were integrated or manipulated to create the final data set.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: VIRGINIA DEPARTMENT OF CONSERVATION AND RECREATION
+          Publication_Date: 2001
+          Title: STATE FORESTS
+          Geospatial_Data_Presentation_Form: DIGITAL VECTOR DATA
+          Other_Citation_Details: VIRGINIA DEPARTMENT OF CONSERVATION AND RECREATION, RICHMOND, VA
+      Type_of_Source_Media: ONLINE
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2001
+        Source_Currentness_Reference: DATE OF PUBLICATION
+      Source_Citation_Abbreviation: NONE
+      Source_Contribution: MGT INFORMATION
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: VIRGINIA DEPARTMENT OF CONSERVATION AND RECREATION
+          Publication_Date: 2001
+          Title: NATIONAL PARK BOUNDARIES
+          Geospatial_Data_Presentation_Form: DIGITAL VECTOR DATA
+          Other_Citation_Details: VIRGINIA DEPARTMENT OF CONSERVATION AND RECREATION
+      Type_of_Source_Media: ONLINE
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2001
+        Source_Currentness_Reference: DATE OF PUBLICATION
+      Source_Citation_Abbreviation: NONE
+      Source_Contribution: MGT INFORMATION
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: VIRGINIA DEPARTMENT OF CONSERVATION AND RECREATION
+          Publication_Date: 2001
+          Title: STATE PARKS AND STATE DEDICATED NATURAL AREA PRESERVES
+          Geospatial_Data_Presentation_Form: DIGITAL VECTOR DATA
+          Other_Citation_Details: VIRGINIA DEPARTMENT OF CONSERVATION AND RECREATION, RICHMOND, VA
+      Type_of_Source_Media: ONLINE
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2001
+        Source_Currentness_Reference: DATE OF PUBLICATION
+      Source_Citation_Abbreviation: NONE
+      Source_Contribution: MGT INFORMATION
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: VIRGINIA DEPARTMENT OF CONSERVATION AND RECREATION
+          Publication_Date: 2001
+          Title: NATIONAL WILDLIFE REFUGES
+          Geospatial_Data_Presentation_Form: DIGITAL VECTOR DATA
+          Other_Citation_Details: VIRGINIA DEPARTMENT OF CONSERVATION AND RECREATION, RICHMOND, VA
+      Type_of_Source_Media: ONLINE
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2001
+        Source_Currentness_Reference: DATE OF PUBLICATION
+      Source_Citation_Abbreviation: NONE
+      Source_Contribution: MGT INFORMATION
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: VIRGINIA DEPARTMENT OF GAME AND INLAND FISHERIES
+          Publication_Date: 2003
+          Title: WILDLIFE MANAGEMENT AREA BOUNDARIES
+          Geospatial_Data_Presentation_Form: DIGITAL VECTOR DATA
+          Other_Citation_Details: UNPUBLISHED
+      Source_Scale_Denominator: 24,000
+      Type_of_Source_Media: ONLINE
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2003
+        Source_Currentness_Reference: DATE OF PUBLICATION
+      Source_Citation_Abbreviation: NONE
+      Source_Contribution: MGT INFORMATION
+    Process_Step:
+      Process_Description:
+        Five digital coverages were used to depict management areas for this data layer: (1) Department of Game and Inland Fisheries Wildlife Management Areas (WMAs), (2) Department of Conservation and Recreation (DCR) National Parks, (3) DCR State Parks, (4) DCR National Wildlife Refuges (NWRs), and (5) DCR State Forests.
+
+        The above digital and/or hardcopy sources were compiled by the project biologist to create the MGT data layer. Depending on the type of source data, three general approaches are used for compiling a human-use data layer: (1) information gathered during initial interviews and from hardcopy sources are compiled onto U.S. Geological Survey 1:24,000 topographic quadrangles and digitized; (2) hardcopy maps are digitized at their source scale; and (3) digital data layers are evaluated and used 'as is' or integrated with the hardcopy data sources. See the Lineage section for additional information on the type of source data for this data layer. The compiled ESI, biology, and human-use data are plotted onto hardcopy draft maps.  Following the delivery of draft maps to the participating resource experts, a second set of interviews is conducted to review the maps.  If necessary, edits to the MGT data layer are made based on the recommendations of the resource experts, and final hardcopy maps and digital data are created.
+      Process_Date: 200505
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: NOAA, Office of Response and Restoration
+            Contact_Person: Jill Petersen
+          Contact_Address:
+            Address_Type: Physical address
+            Address: 7600 Sand Point Way N.E.
+            City: Seattle
+            State_or_Province: Washington
+            Postal_Code: 98115-6349
+          Contact_Voice_Telephone: (206) 526-6944
+          Contact_Facsimile_Telephone: (206) 526-6329
+          Contact_Electronic_Mail_Address: Jill.Petersen@noaa.gov
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: GT-polygon composed of chains
+      Point_and_Vector_Object_Count: 309
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Area point
+      Point_and_Vector_Object_Count: 309
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Complete chain
+      Point_and_Vector_Object_Count: 429
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Link
+      Point_and_Vector_Object_Count: 78931
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Node, planar graph
+      Point_and_Vector_Object_Count: 413
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.0000001
+      Longitude_Resolution: 0.0000001
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1927
+      Ellipsoid_Name: Clark 1866
+      Semi-major_Axis: 6378206.400000
+      Denominator_of_Flattening_Ratio: 294.978698
+Entity_and_Attribute_Information:
+  Overview_Description:
+    Entity_and_Attribute_Overview: In addition to the geographic data layers, two relational attribute or data tables, SOC_DAT and SOURCES, are used to store the complex socioeconomic data in the ESI data structure.  The geographic data layer containing socioeconomic data resource information (in this case, MGT) is linked to the Socioeconomic Resources table (SOC_DAT) using the unique ID and the lookup table SOC_LUT, or it can be linked directly using HUNUM. HUNUM is a unique reference number concatenated with the atlas number (for Virginia, the number is 55).  ID is a unique combination of the atlas number (55), an element specific number (MGT = 11), and a unique record number.  SOC_DAT and the other relational data tables are described below in detail.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the way these tables relate to the geographic data layers and other attribute tables in the ESI data structure.
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: MGT.PAT
+      Entity_Type_Definition: The MGT.PAT table contains attribute information for the vector polygons representing national parks, state and local parks, wildlife refuges, and other management areas.  Note that all attribute information is stored in a series of relational files, described below.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the relationships between attribute tables in the ESI data structure.
+      Entity_Type_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: TYPE
+      Attribute_Definition: The human-use features depicted on the maps are those that could be impacted by an oil spill or could provide access for response operations.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MA
+          Enumerated_Domain_Value_Definition: Management Area
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MR
+          Enumerated_Domain_Value_Definition: Multiple Records - Signifies that multiple types overlap in the polygon
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: NP
+          Enumerated_Domain_Value_Definition: National Park
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: P
+          Enumerated_Domain_Value_Definition: Regional or State Park
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: WR
+          Enumerated_Domain_Value_Definition: Wildlife Refuge
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: ID
+      Attribute_Definition: An identifier that links vector objects in the human-use data layers to records in the SOC_LUT data table.  ID is a concatenation of atlas number (55), element number (11), and record number.  ID values of 9999 are holes in polygons and do not contain information.
+      Attribute_Definition_Source: NOAA
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 551100002
+          Range_Domain_Maximum: 551100312
+    Attribute:
+      Attribute_Label: HUNUM
+      Attribute_Definition: An identifier that links directly to the SOC_DAT table.  HUNUM values of 0 are holes in the polygons and do not contain information.
+      Attribute_Definition_Source: NOAA
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 55000098
+          Range_Domain_Maximum: 55000165
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: SOC_LUT
+      Entity_Type_Definition: The data table SOC_LUT is a lookup table that contains items necessary for linking vector objects in the human-use data layers with the SOC_DAT data table.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the way this table relates to other attribute tables in the ESI data structure.
+      Entity_Type_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: HUNUM
+      Attribute_Definition: An identifier that links records in the SOC_LUT data table to records in the SOC_DAT data table.  HUNUM values of 0 are holes in polygons and do not contain information.
+      Attribute_Definition_Source: NOAA
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 55000001
+          Range_Domain_Maximum: 55000165
+    Attribute:
+      Attribute_Label: ID
+      Attribute_Definition: An identifier that links vector objects in the human-use data layers to records in the SOC_LUT data table.  ID is a concatenation of atlas number (55), element number (SOCECON=10; MGT=11), and record number.  ID values of 9999 are holes in polygons and do not contain information.
+      Attribute_Definition_Source: NOAA
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 551000001
+          Range_Domain_Maximum: 551000312
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: SOC_DAT
+      Entity_Type_Definition: The data table SOC_DAT contains both human-use attribute data and items necessary for linking the human-use spatial data layers to the SOURCES data table.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the way this table relates to other attribute tables in the ESI data structure.
+      Entity_Type_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: HUNUM
+      Attribute_Definition: An identifier that links records in the SOC_DAT data table to records in the SOC_LUT data table.
+      Attribute_Definition_Source: NOAA
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 55000001
+          Range_Domain_Maximum: 55000165
+    Attribute:
+      Attribute_Label: TYPE
+      Attribute_Definition: Identifies the feature type
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: AIRPORT
+          Enumerated_Domain_Value_Definition: Airport
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: AQUACULTURE
+          Enumerated_Domain_Value_Definition: Aquaculture Site
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: BEACH
+          Enumerated_Domain_Value_Definition: Beach
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: BOAT RAMP
+          Enumerated_Domain_Value_Definition: Boat Ramp
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: COAST GUARD
+          Enumerated_Domain_Value_Definition: Coast Guard Station
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: HELIPORT
+          Enumerated_Domain_Value_Definition: Heliport
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: LOCK AND DAM
+          Enumerated_Domain_Value_Definition: Lock and Dam
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MANAGEMENT AREA
+          Enumerated_Domain_Value_Definition: Management Area
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MARINA
+          Enumerated_Domain_Value_Definition: Marina
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: NATIONAL PARK
+          Enumerated_Domain_Value_Definition: National Park
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: REGIONAL OR STATE PARK
+          Enumerated_Domain_Value_Definition: Regional or State Park
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: WATER INTAKE
+          Enumerated_Domain_Value_Definition: Water Intake
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: WILDLIFE REFUGE
+          Enumerated_Domain_Value_Definition: Wildlife Refuge
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: NAME
+      Attribute_Definition: The feature name
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Acceptable values change from atlas to atlas.
+    Attribute:
+      Attribute_Label: CONTACT
+      Attribute_Definition: Contact person or entity
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Acceptable values change from atlas to atlas.
+    Attribute:
+      Attribute_Label: PHONE
+      Attribute_Definition: Contact telephone number
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Acceptable values change from atlas to atlas
+    Attribute:
+      Attribute_Label: G_SOURCE
+      Attribute_Definition: Geographic source identifier that links records in the SOC_DAT data table to records in the SOURCES data table.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: N
+    Attribute:
+      Attribute_Label: A_SOURCE
+      Attribute_Definition: Attribute source identifier that links records in the SOC_DAT data table to records in the SOURCES data table.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: N
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: SOURCES
+      Entity_Type_Definition: The data table SOURCES contains the primary sources used to create the ESI data set.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the way this table relates to other attribute tables in the ESI data structure.
+      Entity_Type_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: SOURCE_ID
+      Attribute_Definition: Source identifier that links records in the SOURCES data table to the items G_SOURCE and A_SOURCE in the SOC_DAT table; G_SOURCE and S_SOURCE in the BIORES table; and SOURCE_ID in the ESI and HYDRO data layers.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: N
+    Attribute:
+      Attribute_Label: ORIGINATOR
+      Attribute_Definition: Author or developer of source material or data set.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Acceptable values change from atlas to atlas.
+    Attribute:
+      Attribute_Label: DATE_PUB
+      Attribute_Definition: Date of source material, publication, or date of personal communication with expert source.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: YYYYMM
+          Enumerated_Domain_Value_Definition: YYYY for year and optionally MM for month
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: TITLE
+      Attribute_Definition: Title of source material or data.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Acceptable values change from atlas to atlas.
+    Attribute:
+      Attribute_Label: DATA_FORMAT
+      Attribute_Definition: The format of the source material.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Acceptable values change from atlas to atlas.
+    Attribute:
+      Attribute_Label: PUBLICATION
+      Attribute_Definition: Additional citation information.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Acceptable values change from atlas to atlas.
+    Attribute:
+      Attribute_Label: SCALE
+      Attribute_Definition: Description of the source scale.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Acceptable values change from atlas to atlas.
+    Attribute:
+      Attribute_Label: TIME_PERIOD
+      Attribute_Definition: Date(s) of data collection that the source material is based upon.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Acceptable values change from atlas to atlas.
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: John Kaperick
+        Contact_Organization: NOAA, Office of Response and Restoration
+      Contact_Address:
+        Address_Type: Physical Address
+        Address: 7600 Sand Point Way N.E.
+        City: Seattle
+        State_or_Province: Washington
+        Postal_Code: 98115-6349
+      Contact_Voice_Telephone: (206) 526-6400
+      Contact_Facsimile_Telephone: (206) 526-6329
+  Resource_Description: ESI Atlas for Virginia
+  Distribution_Liability: Although these data have been processed successfully on a computer system at the National Oceanic and Atmospheric Administration, no warranty, expressed or implied, is made by NOAA regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty.  NOAA warrants the delivery of this product in computer-readable format, and will offer a replacement copy of the product when the product is determined unreadable by computer-input peripherals, or when the physical medium is delivered in damaged condition.
+  Custom_Order_Process: Contact NOAA for distribution options (see Distributor).  ESI data are processed into multiple formats to make them useful to a wider community of GIS/mapping users.  Distribution formats include ARC export, MOSS and Shape files, and MARPLOT map folders.  An ArcView ESI project and ESI_Viewer product are also included on the distribution CDs for ease of use of the ESI data.  The database files are distributed both in the NOAA standard relational database format (see NOAA Technical Memorandum NOS ORCA 115) and in a simplified desktop flat file format.  This metadata document includes information on both of these database formats.
+Metadata_Reference_Information:
+  Metadata_Date: 200512
+  Metadata_Review_Date: 200512
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Jill Petersen
+        Contact_Organization: NOAA, Office of Response and Restoration
+      Contact_Position: GIS Manager
+      Contact_Address:
+        Address_Type: Physical Address
+        Address: 7600 Sand Point Way N.E.
+        City: Seattle
+        State_or_Province: Washington
+        Postal_Code: 98115-6349
+      Contact_Voice_Telephone: (206) 526-6944
+      Contact_Facsimile_Telephone: (206) 526-6329
+      Contact_Electronic_Mail_Address: Jill.Petersen@noaa.gov
+  Metadata_Standard_Name: Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998

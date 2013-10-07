@@ -1,0 +1,263 @@
+<!DOCTYPE METADATA PUBLIC "-//FGDC//DTD METADATA 2.0//EN">
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Hazardous Materials Response Division, Seattle, Washington and NOAA Chesapeake Bay Office, Gloucester Point, Virginia.</origin>
+<pubdate>200512</pubdate>
+<title>Virginia ESI: Wetlands (Wetland Polygons)</title>
+<edition>2</edition>
+<geoform>Vector digital data</geoform>
+<serinfo>
+<sername>None</sername>
+<issue>Virginia</issue>
+</serinfo>
+<pubinfo>
+<pubplace>Seattle, Washington</pubplace>
+<publish>National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Hazardous Materials Response Division, Seattle, Washington.</publish>
+</pubinfo>
+<othercit>Prepared by Research Planning, Inc., Columbia, South Carolina for the National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Hazardous Materials Response Division, Seattle, Washington and NOAA Chesapeake Bay Office, Gloucester Point, Virginia.</othercit>
+</citeinfo>
+</citation>
+<descript>
+<abstract>This data set contains vector polygons representing the coastal wetlands for Virginia, classified according to the Environmental Sensitivity Index (ESI) classification system.  This data set comprises a portion of the ESI data for Virginia.  ESI data characterize the marine and coastal environments and wildlife by their sensitivity to spilled oil.  The ESI data include information for three main components: shoreline habitats, sensitive biological resources, and human-use resources.  See also the ESI data layer, part of the larger Virginia ESI database, for additional coastal habitat information.</abstract>
+<purpose>The ESI data were collected, mapped, and digitized to provide environmental data for oil spill planning and response.  The Clean Water Act with amendments by the Oil Pollution Act of 1990 requires response plans for immediate and effective protection of sensitive resources.</purpose>
+</descript>
+<timeperd>
+<timeinfo>
+<rngdates>
+<begdate>1974</begdate>
+<enddate>1988</enddate>
+</rngdates>
+</timeinfo>
+<current>The data were compiled during 2004-2005.  The currentness dates for the data range from 1974 to 1988 and are documented in the Lineage section.</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>None Scheduled</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-77.50000</westbc>
+<eastbc>-75.12500</eastbc>
+<northbc>38.87500</northbc>
+<southbc>36.50000</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>ESI</themekey>
+<themekey>Sensitivity maps</themekey>
+<themekey>Coastal resources</themekey>
+<themekey>Oil spill planning</themekey>
+<themekey>Coastal Zone Management</themekey>
+<themekey>Wildlife</themekey>
+<themekey>Coastal wetlands</themekey>
+</theme>
+<place>
+<placekt>None</placekt>
+<placekey>Virginia</placekey>
+</place>
+</keywords>
+<accconst>None</accconst>
+<useconst>
+DO NOT USE MAPS FOR NAVIGATIONAL PURPOSES.
+Besides the above warning, there are no use constraints on these data.  Note that the ESI database should not be used to the exclusion of other pertinent data or information held by state or federal agencies or other organizations.  Likewise, information contained in the database cannot be used in place of consultations with environmental, natural resource, and cultural resource agencies, or in place of field surveys.  Recognize that the information contained in the ESI database represents known concentration areas or occurrences of natural, cultural, and human-use resources, but does not necessarily represent the full distribution or range of each species or resource.  This is particularly important to recognize when considering potential impacts to protected resources, such as endangered species, wetlands, etc.  Acknowledgment of the originators, publishers, contributors, and sources listed would be appreciated in products derived from these data.
+</useconst>
+<browse>
+<browsen>datafig.jpg</browsen>
+<browsed>Depicts the relationships between spatial data layers and attribute data tables for the Virginia ESI data.</browsed>
+<browset>JPEG</browset>
+</browse>
+<datacred>This project was supported by the National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Hazardous Materials Response Division, Seattle, Washington and NOAA Chesapeake Bay Office, Gloucester Point, Virginia.</datacred>
+<native>
+The software packages used to develop the atlas are Environmental Systems Research Institute&apos;s ARC/INFO(r) (version 8.3) and SQL SERVER(r) (version 7.0).  The hardware configuration is PC&apos;s with Windows Operating System (NT4.0/2000).
+
+The Spatial_Data_Organization Information section refers only to the source files in the ARC export format. The following files are included in the data set: birds.e00, esi.e00, fish.e00, habitats.e00, hydro.e00, index.e00, invert.e00, m_mammal.e00, mgt.e00, nests.e00, reptiles.e00, reptpt.e00, socecon.e00, t_mammal.e00, wetlands.e00.   Associated relational and desktop data tables provided in Arc export and text format are bio_lut, biofile, biores, breed, breed_dt, seasonal, soc_dat, soc_lut, sources, species, and status.
+</native>
+</idinfo>
+<dataqual>
+<attracc>
+<attraccr>A multi-stage error checking process is used to verify both attribute accuracy and logical consistency throughout data production.  The process includes a standardized data entry methodology, hardcopy data review by in-house and external resource experts, a final Quality Assurance/Quality Control (QA/QC) process, and multiple automated logical consistency checks.  Quantitative data (such as densities, counts, abundances, or concentrations) provided by resource experts for inclusion in the data set may vary widely in attribute accuracy, depending upon the methodology used to collect and compile such data.  For a more detailed evaluation of source data attribute accuracy, contact the sources listed in the Lineage section.</attraccr>
+</attracc>
+<logic>A multi-stage error checking process, described in the above Attribute_Accuracy_Report, is used to verify both attribute accuracy and logical consistency throughout data production.  This process  includes multiple automated logical consistency checks that test the files for missing or duplicate data, rules for proper coding, GIS topological consistencies (such as dangles, unnecessary nodes, etc.), and SQL SERVER(r) to ARC/INFO(r) consistencies.  A final review is made by the GIS manager, where the data are written to CD-ROM and the metadata are written.  After the data are delivered to NOAA, they are again subjected to a number of quality and consistency checks.</logic>
+<complete>These data represent coastal wetlands classified according to the Environmental Sensitivity Index (ESI) classification system.  See also the ESI data layer, part of the larger Virginia ESI database, for additional coastal habitat information.</complete>
+<posacc>
+<horizpa>
+<horizpar>The WETLANDS data set was developed from pre-existing digital sources and reflects the positional accuracy of these original data.   See the Lineage and Process_Description sections for more information on the original data source and how these data were integrated or manipulated to create the final data set.</horizpar>
+</horizpa>
+</posacc>
+<lineage>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>COMPREHENSIVE COASTAL INVENTORY, VIMS, COLLEGE OF WILLIAM AND MARY</origin>
+<pubdate>1974-1988</pubdate>
+<title>TIDAL MARSH INVENTORY (TMIALL27)</title>
+<geoform>DIGITAL VECTOR DATA</geoform>
+<othercit>GLOUCESTER POINT, VA, VIRGINIA INSTITUTE OF MARINE SCIENCE</othercit>
+</citeinfo>
+</srccite>
+<srcscale>24000</srcscale>
+<typesrc>DISk</typesrc>
+<srctime>
+<timeinfo>
+<rngdates>
+<begdate>1974</begdate>
+<enddate>1988</enddate>
+</rngdates>
+</timeinfo>
+<srccurr>DATE OF INVENTORY</srccurr>
+</srctime>
+<srccitea>NONE</srccitea>
+<srccontr>WETLANDS INFORMATION</srccontr>
+</srcinfo>
+<procstep>
+<procdesc>The WETLANDS data layer was created by clipping the Virginia Institute of Marine Science (VIMS) College of William and Mary Tidal Marsh Inventory data set with the ESI Hydrography (HYDRO) layer for this atlas. The existing 12-category wetland classification scheme for the Tidal Marsh Inventory was collapsed to the ESI scale classification.</procdesc>
+<procdate>200505</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>NOAA, Office of Response and Restoration</cntorg>
+<cntper>Jill Petersen</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>Physical address</addrtype>
+<address>7600 Sand Point Way N.E.</address>
+<city>Seattle</city>
+<state>Washington</state>
+<postal>98115-6349</postal>
+</cntaddr>
+<cntvoice>(206) 526-6944</cntvoice>
+<cntfax>(206) 526-6329</cntfax>
+<cntemail>Jill.Petersen@noaa.gov</cntemail>
+</cntinfo>
+</proccont>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>GT-polygon composed of chains</sdtstype>
+<ptvctcnt>18725</ptvctcnt>
+</sdtsterm>
+<sdtsterm>
+<sdtstype>Area point</sdtstype>
+<ptvctcnt>18725</ptvctcnt>
+</sdtsterm>
+<sdtsterm>
+<sdtstype>Complete chain</sdtstype>
+<ptvctcnt>20259</ptvctcnt>
+</sdtsterm>
+<sdtsterm>
+<sdtstype>Link</sdtstype>
+<ptvctcnt>1624956</ptvctcnt>
+</sdtsterm>
+<sdtsterm>
+<sdtstype>Node, planar graph</sdtstype>
+<ptvctcnt>19989</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<geograph>
+<latres>0.0000001</latres>
+<longres>0.0000001</longres>
+<geogunit>Decimal degrees</geogunit>
+</geograph>
+<geodetic>
+<horizdn>North American Datum of 1927</horizdn>
+<ellips>Clark 1866</ellips>
+<semiaxis>6378206.400000</semiaxis>
+<denflat>294.978698</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>ESI.PAT</enttypl>
+<enttypd>The ESI.PAT table contains attribute information for the vector polygons representing polygonal features with ESI classification.</enttypd>
+<enttypds>Research Planning, Inc.</enttypds>
+</enttyp>
+<attr>
+<attrlabl>ESI</attrlabl>
+<attrdef>The item ESI contains values representing the ESI polygon type.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>10A</edomv>
+<edomvd>Salt- and Brackish-Water Marshes</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+<edom>
+<edomv>10B</edomv>
+<edomvd>Freshwater Marshes</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+<edom>
+<edomv>10D</edomv>
+<edomvd>Scrub-shrub Wetlands</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+<edom>
+<edomv>U</edomv>
+<edomvd>Unranked</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+</detailed>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntperp>
+<cntper>John Kaperick</cntper>
+<cntorg>NOAA, Office of Response and Restoration</cntorg>
+</cntperp>
+<cntaddr>
+<addrtype>Physical Address</addrtype>
+<address>7600 Sand Point Way N.E.</address>
+<city>Seattle</city>
+<state>Washington</state>
+<postal>98115-6349</postal>
+</cntaddr>
+<cntvoice>(206) 526-6400</cntvoice>
+<cntfax>(206) 526-6329</cntfax>
+</cntinfo>
+</distrib>
+<resdesc>ESI Atlas for Virginia</resdesc>
+<distliab>Although these data have been processed successfully on a computer system at the National Oceanic and Atmospheric Administration, no warranty, expressed or implied, is made by NOAA regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty.  NOAA warrants the delivery of this product in computer-readable format, and will offer a replacement copy of the product when the product is determined unreadable by computer-input peripherals, or when the physical medium is delivered in damaged condition.</distliab>
+<custom>Contact NOAA for distribution options (see Distributor).  ESI data are processed into multiple formats to make them useful to a wider community of GIS/mapping users.  Distribution formats include ARC export, MOSS and Shape files, and MARPLOT map folders.  An ArcView ESI project and ESI_Viewer product are also included on the distribution CDs for ease of use of the ESI data.  The database files are distributed both in the NOAA standard relational database format (see NOAA Technical Memorandum NOS ORCA 115) and in a simplified desktop flat file format.  This metadata document includes information on both of these database formats.</custom>
+</distinfo>
+<metainfo>
+<metd>200512</metd>
+<metrd>200512</metrd>
+<metc>
+<cntinfo>
+<cntperp>
+<cntper>Jill Petersen</cntper>
+<cntorg>NOAA, Office of Response and Restoration</cntorg>
+</cntperp>
+<cntpos>GIS Manager</cntpos>
+<cntaddr>
+<addrtype>Physical Address</addrtype>
+<address>7600 Sand Point Way N.E.</address>
+<city>Seattle</city>
+<state>Washington</state>
+<postal>98115-6349</postal>
+</cntaddr>
+<cntvoice>(206) 526-6944</cntvoice>
+<cntfax>(206) 526-6329</cntfax>
+<cntemail>Jill.Petersen@noaa.gov</cntemail>
+</cntinfo>
+</metc>
+<metstdn>Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+</metainfo>
+</metadata>

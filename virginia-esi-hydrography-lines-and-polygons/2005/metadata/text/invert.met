@@ -1,0 +1,1275 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Hazardous Materials Response Division, Seattle, Washington and NOAA Chesapeake Bay Office, Gloucester Point, Virginia.
+      Publication_Date: 200512
+      Title: Virginia ESI: INVERT (Invertebrate Polygons)
+      Edition: 2
+      Geospatial_Data_Presentation_Form: Vector digital data
+      Series_Information:
+        Series_Name: None
+        Issue_Identification: Virginia
+      Publication_Information:
+        Publication_Place: Seattle, Washington
+        Publisher: National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Hazardous Materials Response Division, Seattle, Washington.
+      Other_Citation_Details: Prepared by Research Planning, Inc., Columbia, South Carolina for the National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Hazardous Materials Response Division, Seattle, Washington and NOAA Chesapeake Bay Office, Gloucester Point, Virginia.
+  Description:
+    Abstract:
+      This data set contains sensitive biological resource data for marine, estuarine, and rare invertebrate species in Virginia.  Vector polygons in this data set represent invertebrate distribution and concentration areas. Species-specific abundance, seasonality, status, life history, and source information are stored in relational data tables (described below) designed to be used in conjunction with this spatial data layer.
+
+      This data set comprises a portion of the Environmental Sensitivity Index (ESI) data for Virginia.  ESI data characterize the marine and coastal environments and wildlife by their sensitivity to spilled oil.  The ESI data include information for three main components: shoreline habitats, sensitive biological resources, and human-use resources.
+    Purpose: The ESI data were collected, mapped, and digitized to provide environmental data for oil spill planning and response.  The Clean Water Act with amendments by the Oil Pollution Act of 1990 requires response plans for immediate and effective protection of sensitive resources.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 1994
+        Ending_Date: 2004
+    Currentness_Reference: The biological data were compiled during 2004-2005.  The currentness dates for the data range from 1994 to 2004 and are documented in the Lineage section.
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None Scheduled
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -77.50000
+      East_Bounding_Coordinate: -75.12500
+      North_Bounding_Coordinate: 38.87500
+      South_Bounding_Coordinate: 36.50000
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: ESI
+      Theme_Keyword: Sensitivity maps
+      Theme_Keyword: Coastal resources
+      Theme_Keyword: Oil spill planning
+      Theme_Keyword: Coastal Zone Management
+      Theme_Keyword: Wildlife
+      Theme_Keyword: Invertebrate
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: Virginia
+  Access_Constraints: None
+  Use_Constraints:
+    DO NOT USE MAPS FOR NAVIGATIONAL PURPOSES.
+    Besides the above warning, there are no use constraints on these data.  Note that the ESI database should not be used to the exclusion of other pertinent data or information held by state or federal agencies or other organizations.  Likewise, information contained in the database cannot be used in place of consultations with environmental, natural resource, and cultural resource agencies, or in place of field surveys.  Recognize that the information contained in the ESI database represents known concentration areas or occurrences of natural, cultural, and human-use resources, but does not necessarily represent the full distribution or range of each species or resource.  This is particularly important to recognize when considering potential impacts to protected resources, such as endangered species, wetlands, etc.  Acknowledgment of the originators, publishers, contributors, and sources listed would be appreciated in products derived from these data.
+  Browse_Graphic:
+    Browse_Graphic_File_Name: datafig.jpg
+    Browse_Graphic_File_Description: Depicts the relationships between spatial data layers and attribute data tables for the Virginia ESI data.
+    Browse_Graphic_File_Type: JPEG
+  Data_Set_Credit: This project was supported by the National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Hazardous Materials Response Division, Seattle, Washington and NOAA Chesapeake Bay Office, Gloucester Point, Virginia.
+  Native_Data_Set_Environment:
+    The software packages used to develop the atlas are Environmental Systems Research Institute's ARC/INFO(r) (version 8.3) and SQL SERVER(r) (version 7.0). The hardware configuration is PC's with Windows Operating System (NT4.0/2000).
+
+    The Spatial_Data_Organization Information section refers only to the source files in the ARC export format.  The following files are included in that data set: birds.e00, esi.e00, fish.e00, habitats.e00, hydro.e00, index.e00, invert.e00, m_mammal.e00, mgt.e00, nests.e00, reptiles.e00, reptpt.e00, socecon.e00, t_mammal.e00, wetlands.e00.  Associated relational and desktop data tables provided in Arc export and text format are bio_lut, biofile, biores, breed, breed_dt, seasonal, soc_dat, soc_lut, sources, species, and status.
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: A multi-stage error checking process is used to verify both attribute accuracy and logical consistency throughout data production.  The process includes a standardized data entry methodology, hardcopy data review by in-house and external resource experts, a final Quality Assurance/Quality Control (QA/QC) process, and multiple automated logical consistency checks.  Quantitative data (such as densities, counts, abundances, or concentrations) provided by resource experts for inclusion in the data set may vary widely in attribute accuracy, depending upon the methodology used to collect and compile such data.  For a more detailed evaluation of source data attribute accuracy, contact the sources listed in the Lineage section.
+  Logical_Consistency_Report:
+    A multi-stage error checking process, described in the above Attribute_Accuracy_Report, is used to verify both attribute accuracy and logical consistency throughout data production.  This process includes multiple automated logical consistency checks that test the files for missing or duplicate data, rules for proper coding, GIS topological consistencies (such as dangles, unnecessary nodes, etc.), and SQL SERVER(r) to ARC/INFO(r) consistencies.  A final review is made by the GIS manager, where the data are written to CD-ROM and the metadata are written.
+
+    After the data are delivered to NOAA, they are again subjected to a number of quality and consistency checks. In the process of checking for topological and database consistencies, new ID's and RARNUM's or HUNUM's are also generated.  The new ID's are a combination of atlas number, element number, and record number.  In addition, the value used to represent the element is modified to reflect the type of feature being mapped.  In the case of an element that is normally represented by a point or polygon, a value of 20 is added to the standard element value for mapping of linear features.  In the case where an element usually mapped as a polygon is represented by a point, a value of 30 is added to the regular element value.  The RARNUM's are also modified to include the atlas number, so multiple atlases can be combined and RARNUM's remain unique.  RARNUM's are redefined on an element basis, so "resource at risk" groupings will contain only a single element.  HUNUM's are also modified to include the atlas number.
+  Completeness_Report: These data represent a synthesis of expert knowledge and hardcopy reports on invertebrate distribution.   These data do not necessarily represent all invertebrate occurrences in Virginia.  The following species are included in this data set: (Species_ID, Common Name, Scientific Name [n/a if not applicable]): 42, Northern quahog (hard clam), Mercenaria mercenaria; 43, Eastern oyster, Crassostrea virginica; 44, Horseshoe crab, Limulus polyphemus; 46, Channeled whelk, Busycon canaliculatum; 47, Knobbed whelk, Busycon carica; 49, Blue crab, Callinectes sapidus; 82, Brackishwater clam, Rangia cuneata; 285, Northeastern beach tiger beetle, Cicindela dorsalis dorsalis; 505, Monarch butterfly, Danaus plexippus; 506, Carolina marsh clam, Polymesoda caroliniana; 507, Little white tiger beetle, Cicindela lepida.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: Spatial components for the biological data layers can come from expert interviews, hardcopy, or digital sources. Most of the spatial components of the biological data layers are developed using regional experts who estimate concentration areas.  It is difficult to estimate the positional accuracy of such data, except to state that they are compiled on hardcopy base maps with a scale of 1:24,000.  Some of the spatial components of the biological data sets are developed from pre-existing digital or hardcopy sources and reflect the positional accuracy of these original data.  See the Lineage and Process_Description sections for more information on the original data source and how these data were integrated or manipulated to create the final data set.  Note that biological resource data by their very nature are considered "fuzzy", and this should be understood when considering the positional accuracy of vector digital objects representing these resources.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: AUSTIN, H., VIRGINIA INSTITUTE OF MARINE SCIENCE (VIMS)
+          Publication_Date: 2004
+          Title: FISH AND HORSESHOE CRAB DATA
+          Geospatial_Data_Presentation_Form: EXPERT KNOWLEDGE
+          Other_Citation_Details: N/A
+      Type_of_Source_Media: PERSONAL COMMUNICATION
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2004
+        Source_Currentness_Reference: DATE OF COMMUNICATION
+      Source_Citation_Abbreviation: NONE
+      Source_Contribution: INVERT INFORMATION
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: BRINDZA, L.J.
+          Publication_Date: 2002
+          Title: MONARCH BUTTERFLY MIGRATION PROJECT: A SUMMARY FROM 1998-2001
+          Geospatial_Data_Presentation_Form: HARDCOPY TEXT
+          Other_Citation_Details: IN FIELD RESEARCH REPORT 1995-2002: COASTAL VIRGINIA WILDLIFE OBSERVATORY, EASTVILLE VA, PP. 92-96.
+      Type_of_Source_Media: PAPER
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1998
+            Ending_Date: 2001
+        Source_Currentness_Reference: DATE OF SURVEY
+      Source_Citation_Abbreviation: NONE
+      Source_Contribution: INVERT INFORMATION
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: CHESMMAAP TRAWL PROGRAM GROUP
+          Publication_Date: 2004
+          Title: CHESAPEAKE BAY MULTISPECIES MODELLING AND ASSESSMENT PROGRAM, 2002 AND 2003
+          Geospatial_Data_Presentation_Form: HARDCOPY TEXT
+          Other_Citation_Details: N/A
+      Type_of_Source_Media: PAPER
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 2002
+            Ending_Date: 2003
+        Source_Currentness_Reference: DATE OF SURVEY
+      Source_Citation_Abbreviation: NONE
+      Source_Contribution: INVERT INFORMATION
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: FIELD, D. (VA DEPARTMENT OF CONSERVATION AND RECREATION [DCR], WACHAPREAGUE)
+          Publication_Date: 2004
+          Title: NATURAL HERITAGE PROGRAM DATA
+          Geospatial_Data_Presentation_Form: EXPERT KNOWLEDGE
+          Other_Citation_Details: UNPUBLISHED
+      Type_of_Source_Media: PERSONAL COMMUNICATION
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2004
+        Source_Currentness_Reference: DATE OF COMMUNICATION
+      Source_Citation_Abbreviation: NONE
+      Source_Contribution: INVERT INFORMATION
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: GALLEGOS, J. (U.S. FISH AND WILDLIFE SERVICE [USFWS], VA BEACH)
+          Publication_Date: 2004
+          Title: BACK BAY NATIONAL WILDLIFE REFUGE SPECIES DISTRIBUTION
+          Geospatial_Data_Presentation_Form: EXPERT KNOWLEDGE
+          Other_Citation_Details: UNPUBLISHED
+      Type_of_Source_Media: PERSONAL COMMUNICATION
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2004
+        Source_Currentness_Reference: DATE OF COMMUNICATION
+      Source_Citation_Abbreviation: NONE
+      Source_Contribution: INVERT INFORMATION
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: HARAMIS, M., U.S. GEOLOGICAL SURVEY (USGS)
+          Publication_Date: 2004
+          Title: DISTRIBUTION OF HORSESHOE CRAB IN CHESAPEAKE BAY
+          Geospatial_Data_Presentation_Form: EXPERT KNOWLEDGE
+          Other_Citation_Details: N/A
+      Type_of_Source_Media: EMAIL
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2004
+        Source_Currentness_Reference: DATE OF COMMUNICATION
+      Source_Citation_Abbreviation: NONE
+      Source_Contribution: INVERT INFORMATION
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: HATA D., VIRGINIA TECH
+          Publication_Date: 2004
+          Title: DISTRIBUTION AND ABUNDANCE OF HORSESHOE CRABS
+          Geospatial_Data_Presentation_Form: EXPERT KNOWLEDGE
+          Other_Citation_Details: N/A
+      Type_of_Source_Media: EMAIL
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2004
+        Source_Currentness_Reference: DATE OF COMMUNICATION
+      Source_Citation_Abbreviation: NONE
+      Source_Contribution: INVERT INFORMATION
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: MCCAULEY, J. (USFWS, WARSAW, VA)
+          Publication_Date: 2004
+          Title: BIRD AND INVERT SEASONALITY AND DISTRIBUTION IN EASTERN VA RIVERS NWR COMPLEX
+          Geospatial_Data_Presentation_Form: EXPERT KNOWLEDGE
+          Other_Citation_Details: UNPUBLISHED
+      Type_of_Source_Media: PERSONAL COMMUNICATION
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2004
+        Source_Currentness_Reference: DATE OF COMMUNICATION
+      Source_Citation_Abbreviation: NONE
+      Source_Contribution: INVERT INFORMATION
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: MONTANE, M., VIMS
+          Publication_Date: 2004
+          Title: ABUNDANCE AND DISTRIBUTION OF FINFISH AND BLUE CRAB OF VIRGINIA
+          Geospatial_Data_Presentation_Form: EXPERT KNOWLEDGE
+          Other_Citation_Details: UNPUBLISHED
+      Type_of_Source_Media: PERSONAL COMMUNICATION
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2004
+        Source_Currentness_Reference: DATE OF COMMUNICATION
+      Source_Citation_Abbreviation: NONE
+      Source_Contribution: INVERT INFORMATION
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: OESTERLING, M., VIMS
+          Publication_Date: 2004
+          Title: DISTRIBUTION AND ABUNDANCE OF SHELLFISH IN VIRGINIA
+          Geospatial_Data_Presentation_Form: EXPERT KNOWLEDGE
+          Other_Citation_Details: N/A
+      Type_of_Source_Media: PERSONAL COMMUNICATION
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2004
+        Source_Currentness_Reference: DATE OF COMMUNICATION
+      Source_Citation_Abbreviation: NONE
+      Source_Contribution: INVERT INFORMATION
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: STONE, S.L. ET AL.
+          Publication_Date: 1994
+          Title: DISTRIBUTION AND ABUNDANCE OF FISHES AND INVERTEBRATES IN MID-ATLANTIC ESTUARIES
+          Geospatial_Data_Presentation_Form: HARDCOPY TEXT
+          Other_Citation_Details: NOAA/NOS STRATEGIC ENVIRONMENTAL ASSESSMENTS DIVISION, SILVER SPRING, MD
+      Type_of_Source_Media: PAPER
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1985
+            Ending_Date: 1994
+        Source_Currentness_Reference: DATE OF SURVEY
+      Source_Citation_Abbreviation: NONE
+      Source_Contribution: INVERT INFORMATION
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: T. PENN, USFWS, CHINCOTEAGUE ISLAND
+          Publication_Date: 2004
+          Title: DISTRIBUTION OF CHINCOTEAGUE NATIONAL WILDLIFE REFUGE SPECIES
+          Geospatial_Data_Presentation_Form: EXPERT KNOWLEDGE
+          Other_Citation_Details: UNPUBLISHED
+      Type_of_Source_Media: PERSONAL COMMUNICATION
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2004
+        Source_Currentness_Reference: DATE OF COMMUNICATION
+      Source_Citation_Abbreviation: NONE
+      Source_Contribution: INVERT INFORMATION
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: VIMS, DEPT OF FISHERIES SCIENCE
+          Publication_Date: 2003
+          Title: ESTIMATION OF RELATIVE ABUNDANCE OF RECREATIONALLY IMPORTANT JUVENILE FINFISH
+          Geospatial_Data_Presentation_Form: HARDCOPY TEXT
+          Other_Citation_Details: VA MARINE RESOURCES COMMISSION, GLOUCESTER POINT, VA
+      Type_of_Source_Media: PAPER
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 2002
+            Ending_Date: 2003
+        Source_Currentness_Reference: DATE OF SURVEY
+      Source_Citation_Abbreviation: NONE
+      Source_Contribution: INVERT INFORMATION
+    Process_Step:
+      Process_Description:
+        Two main sources of data were used to depict invertebrate distribution for this data layer: (1) personal interviews with resource experts from the Virginia Institute of Marine Science (VIMS), U.S. Fish and Wildlife Service (USFWS), U.S. Geological Survey (USGS), Virginia Polytechnic Institute and State University (VA Tech), and Virginia Department of Conservation and Recreation Division of Natural Heritage (VA DCR DNH); and (2) numerous published reports.
+
+        Resource experts and hardcopy reports provided concentration and seasonality information.
+
+        The above digital and/or hardcopy sources were compiled by the project biologist to create the INVERT data layer. Depending on the type of source data, three general approaches are used for compiling a biology data layer: (1) information gathered during initial interviews and from hardcopy sources are compiled onto U.S. Geological Survey 1:24,000 topographic quadrangles and digitized; (2) hardcopy maps are digitized at their source scale; (3) digital data layers are evaluated and used "as is" or integrated with the hardcopy data sources. See the Lineage section for additional information on the type of source data for this data layer. The compiled ESI, biology, and human-use data are plotted onto hardcopy draft maps.  Following the delivery of draft maps to the participating resource experts, a second set of interviews is conducted to review the maps.  If necessary, edits to the INVERT data layer are made based on the recommendations of the resource experts, and final hardcopy maps and digital data are created.
+      Process_Date: 200505
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: NOAA, Office of Response and Restoration
+            Contact_Person: Jill Petersen
+          Contact_Address:
+            Address_Type: Physical address
+            Address: 7600 Sand Point Way N.E.
+            City: Seattle
+            State_or_Province: Washington
+            Postal_Code: 98115-6349
+          Contact_Voice_Telephone: (206) 526-6944
+          Contact_Facsimile_Telephone: (206) 526-6329
+          Contact_Electronic_Mail_Address: Jill.Petersen@noaa.gov
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: GT-polygon composed of chains
+      Point_and_Vector_Object_Count: 2547
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Area point
+      Point_and_Vector_Object_Count: 2547
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Complete chain
+      Point_and_Vector_Object_Count: 6615
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Link
+      Point_and_Vector_Object_Count: 1683233
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Node, planar graph
+      Point_and_Vector_Object_Count: 6345
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.0000001
+      Longitude_Resolution: 0.0000001
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1927
+      Ellipsoid_Name: Clark 1866
+      Semi-major_Axis: 6378206.400000
+      Denominator_of_Flattening_Ratio: 294.978698
+Entity_and_Attribute_Information:
+  Overview_Description:
+    Entity_and_Attribute_Overview:
+      In addition to the geographic data layers, six relational attribute or data tables, BIORES, BREED, SEASONAL, SOURCES, SPECIES, and STATUS, are used to store the complex biological data in the ESI data structure.  The geographic data layer containing biological resource information (in this case, INVERT) is linked to the Biological Resources table (BIORES) using the unique ID and the lookup table BIO_LUT, or it can be linked directly using RARNUM.  The ID is a unique combination of the atlas number (for the Virginia atlas, the number is 55), an element/layer specific number (BIRDS are layer 1, FISH are layer 2, etc.), and a unique record number.  The RARNUM represents a unique combination of species, seasonalities, concentrations, and source information.  For each of these groupings, a number is generated.  That number is concatenated with the atlas number to create a "resource at risk" number that is unique across atlases.  BIORES and the other relational data tables are described below in detail.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the way these tables relate to the geographic data layers and other attribute tables in the ESI data structure.
+
+      Due to the complexity of the relational database model, the data items are also post-processed into a flat file format.  This table, called BIOFILE, may be used in place of the relational files described below to ease simple data queries.  The items in the flat file are ELEMENT, SUBELEMENT, NAME, GEN_SPEC, S, F, NHP, DATE_PUB, CONC, JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC, BREED1, BREED2, BREED3, BREED4, BREED5, RARNUM, G_SOURCE, S_SOURCE, and BREED.  All of these items are the same as their counterparts in the individual data tables described below, except the BREED1-BREED5 and BREED items. BREED is a newly generated variable used to link to the BREED_DT data table, a modified, more compact version of the relational BREED data table. BREED1-BREED5 give a text summary of when each life stage occurs within the associated map object.  The life stages referred to are the same as those listed in the Detailed_Description of the BREED data table.  The link to the BIOFILE may be made through the BIO_LUT, using ID to link to RARNUM, or BIOFILE may be linked directly to the RARNUM in each of the geographic layer's attribute data tables.  As mentioned, BREED_DT is an auxiliary support data table to the flat file structure, which allows the user to do searches based on month for seasonal breeding activities.  The link from the flat file to BREED_DT is the BREED item.
+
+      A second supporting data table is SOURCES.  This is the same as the source file described above, and the link from the flat file is both G_SOURCE and S_SOURCE.  It should be noted that although the flat file eases data query, it is not a normalized database structure, and actual updates performed by the states and other responsible agencies should be done using the relational data tables.  The entity-relationship diagram, describing relationships between attribute tables in the ESI data structure, does NOT include the BIOFILE data table, and this data table is NOT described in detail below.
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: INVERT.PAT
+      Entity_Type_Definition: The INVERT.PAT table contains attribute information for the vector polygons in this data set representing invertebrate distribution and concentration areas.  Note that all attribute information is stored in a series of relational files, described below.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the relationships between attribute tables in the ESI data structure.
+      Entity_Type_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: ID
+      Attribute_Definition: An identifier that links vector objects in the biology data layers to records in the BIO_LUT data table.  ID is a concatenation of atlas number (55), element number (7), and record number.  ID values of 9999 are holes in polygons and do not contain information.
+      Attribute_Definition_Source: NOAA
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 550700002
+          Range_Domain_Maximum: 550702507
+    Attribute:
+      Attribute_Label: RARNUM
+      Attribute_Definition: An identifier that links directly to the BIORES table or the flat format BIOFILE table.  RARNUM values of 0 are holes in polygons and do not contain information.
+      Attribute_Definition_Source: NOAA
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 55000774
+          Range_Domain_Maximum: 55000818
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: BIO_LUT
+      Entity_Type_Definition: The data table BIO_LUT is a lookup table that contains items necessary for linking vector objects in the biological data layers with the BIORES data table.  Note that all attribute information is stored in a series of relational files, described below.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the way this table relates to other attribute tables in the ESI data structure.
+      Entity_Type_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: RARNUM
+      Attribute_Definition: An identifier that links records in the BIO_LUT data table to records in the BIORES data table or the flat format BIOFILE data table.  RARNUM values of 0 are holes in polygons and do not contain information.
+      Attribute_Definition_Source: NOAA
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 55000001
+          Range_Domain_Maximum: 55000847
+    Attribute:
+      Attribute_Label: ID
+      Attribute_Definition: An identifier that links vector objects in the biology data layers to records in the BIO_LUT data table.  ID is a concatenation of atlas number (55), element number (7), and record number. ID values of 9999 are holes in polygons and do not contain information.
+      Attribute_Definition_Source: NOAA
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 550100002
+          Range_Domain_Maximum: 553600012
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: BIORES
+      Entity_Type_Definition: The data table BIORES contains both biological attribute data and items necessary for linking vector objects in the biological data layers via the BIO_LUT data table to other associated data tables.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the way this table relates to other attribute tables in the ESI data structure.
+      Entity_Type_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: RARNUM
+      Attribute_Definition: An identifier that links records in the BIORES data table to records in the BIO_LUT data table or the flat format BIOFILE data table.
+      Attribute_Definition_Source: NOAA
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 055000001
+          Range_Domain_Maximum: 055000847
+    Attribute:
+      Attribute_Label: SPECIES_ID
+      Attribute_Definition: Numeric identifier for each species that is unique within each element and refers to a nationwide master ESI species list maintained at NOAA.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: N
+    Attribute:
+      Attribute_Label: CONC
+      Attribute_Definition: The field CONC refers to "concentration," abundance, or density values, and may contain counts or the approximate density (e.g., 1000s) of a species at a particular location. In cases where no quantitative data were available, descriptive terms such as "LOW-MED" and "HIGH" were used to describe the relative abundance of a species at a specific location. In cases where no concentration information was available from any source, the field was populated with "-".
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Acceptable values change from atlas to atlas.
+    Attribute:
+      Attribute_Label: SEASON_ID
+      Attribute_Definition: Numeric identifier for the unique monthly presence and life history characteristics of each species at a given location.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: N
+    Attribute:
+      Attribute_Label: G_SOURCE
+      Attribute_Definition: Geographic source identifier that links records in the BIORES data table to records in the SOURCES data table.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: N
+    Attribute:
+      Attribute_Label: S_SOURCE
+      Attribute_Definition: Seasonality source identifier that links records in the BIORES data table to records in the SOURCES data table.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: N
+    Attribute:
+      Attribute_Label: ELEMENT
+      Attribute_Definition: Major categories of biological data.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: BIRD
+          Enumerated_Domain_Value_Definition: Birds
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: FISH
+          Enumerated_Domain_Value_Definition: Fish
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: HABITAT
+          Enumerated_Domain_Value_Definition: Habitats and Plants
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: INVERT
+          Enumerated_Domain_Value_Definition: Invertebrates
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: M_MAMMAL
+          Enumerated_Domain_Value_Definition: Marine Mammals
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: REPTILE
+          Enumerated_Domain_Value_Definition: Reptiles and Amphibians
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: T_MAMMAL
+          Enumerated_Domain_Value_Definition: Terrestrial Mammals
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: EL_SPE
+      Attribute_Definition: Concatenation of ELEMENT and SPECIES_ID.  This item links records in the BIORES data table to records in the SPECIES and STATUS data tables.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: E#####
+          Enumerated_Domain_Value_Definition: Where E is the first character of ELEMENT and the next five characters are SPECIES_ID (e.g. ELEMENT = 'BIRD' and SPECIES_ID = 1; EL_SPE = 'B00001').
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: EL_SPE_SEA
+      Attribute_Definition: Concatenation of ELEMENT, SPECIES_ID, and SEASON_ID. This item links records in the BIORES data table to records in the SEASONAL and BREED data tables.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: E#######
+          Enumerated_Domain_Value_Definition: Where E is the first character of ELEMENT, the next five characters are SPECIES_ID, and the last two characters are SEASON_ID (e.g. ELEMENT = 'BIRD', SPECIES_ID = 1 and SEASON_ID = 1; EL_SPE_SEA = 'B0000101').
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: SPECIES
+      Entity_Type_Definition: The data table SPECIES identifies all species in the ESI data set.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the way this table relates to other attribute tables in the ESI data structure.  Refer to the Completeness_Report for a list of layer-specific species.
+      Entity_Type_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: SPECIES_ID
+      Attribute_Definition: Numeric identifier for each species that is unique within each element and refers to a nationwide master ESI species list maintained at NOAA.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: N
+    Attribute:
+      Attribute_Label: NAME
+      Attribute_Definition: Species common name for the entire ESI data set.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Acceptable values change from atlas to atlas.
+    Attribute:
+      Attribute_Label: GEN_SPEC
+      Attribute_Definition: Species scientific name for the entire ESI data set.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Acceptable values change from atlas to atlas.
+    Attribute:
+      Attribute_Label: ELEMENT
+      Attribute_Definition: Major categories of biological data.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: BIRD
+          Enumerated_Domain_Value_Definition: Birds
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: FISH
+          Enumerated_Domain_Value_Definition: Fish
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: HABITAT
+          Enumerated_Domain_Value_Definition: Habitats and Plants
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: INVERT
+          Enumerated_Domain_Value_Definition: Invertebrates
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: M_MAMMAL
+          Enumerated_Domain_Value_Definition: Marine Mammals
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: REPTILE
+          Enumerated_Domain_Value_Definition: Reptiles and Amphibians
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: T_MAMMAL
+          Enumerated_Domain_Value_Definition: Terrestrial Mammals
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: SUBELEMENT
+      Attribute_Definition: Element subgroup delineating a logical grouping of species.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: bivalve
+          Enumerated_Domain_Value_Definition: Bivalve
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: crab
+          Enumerated_Domain_Value_Definition: Crab
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: diadromous
+          Enumerated_Domain_Value_Definition: Diadromous fish
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: diving
+          Enumerated_Domain_Value_Definition: Diving bird
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: dolphin
+          Enumerated_Domain_Value_Definition: Dolphin
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: e_nursery
+          Enumerated_Domain_Value_Definition: Estuarine nursery fish
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: e_resident
+          Enumerated_Domain_Value_Definition: Estuarine resident
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: freshwater
+          Enumerated_Domain_Value_Definition: Freshwater fish
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: gastropod
+          Enumerated_Domain_Value_Definition: Gastropod
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: gull_tern
+          Enumerated_Domain_Value_Definition: Gull or tern
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: insect
+          Enumerated_Domain_Value_Definition: Insect
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: m_benthic
+          Enumerated_Domain_Value_Definition: Marine benthic fish
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: m_pelagic
+          Enumerated_Domain_Value_Definition: Marine pelagic fish
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: passerine
+          Enumerated_Domain_Value_Definition: Passerine bird
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: pelagic
+          Enumerated_Domain_Value_Definition: Pelagic bird
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: pinniped
+          Enumerated_Domain_Value_Definition: Pinniped
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: plant
+          Enumerated_Domain_Value_Definition: Plant
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: raptor
+          Enumerated_Domain_Value_Definition: Raptor
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: sav
+          Enumerated_Domain_Value_Definition: Submerged aquatic vegetation
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: shorebird
+          Enumerated_Domain_Value_Definition: Shorebird
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: sm_mammal
+          Enumerated_Domain_Value_Definition: Small mammal
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: turtle
+          Enumerated_Domain_Value_Definition: Turtle
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: upland
+          Enumerated_Domain_Value_Definition: Upland habitat
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: wading
+          Enumerated_Domain_Value_Definition: Wading bird
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: waterfowl
+          Enumerated_Domain_Value_Definition: Waterfowl
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: wetland
+          Enumerated_Domain_Value_Definition: Wetland
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: whale
+          Enumerated_Domain_Value_Definition: Whale
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: NHP
+      Attribute_Definition: Natural Heritage Program global ranking.
+      Attribute_Definition_Source: Network of Natural Heritage Program
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: NHP Global Conservation Status Rank
+          Codeset_Source: Natural Heritage Program
+    Attribute:
+      Attribute_Label: DATE_PUB
+      Attribute_Definition: Date of NHP listing.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: YYYYMM
+          Enumerated_Domain_Value_Definition: YYYY for year and optionally MM for month
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: Date unspecified
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: EL_SPE
+      Attribute_Definition: Concatenation of ELEMENT and SPECIES_ID.  This item links records in the SPECIES data table to records in the BIORES and STATUS data tables.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: E#####
+          Enumerated_Domain_Value_Definition: Where E is the first character of ELEMENT and the next five characters are SPECIES_ID (e.g. ELEMENT = 'BIRD' and SPECIES_ID = 1; EL_SPE = 'B00001').
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: SEASONAL
+      Entity_Type_Definition: The data table SEASONAL contains information on the seasonal presence of each species associated with each spatial vector object.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the way this table relates to other attribute tables in the ESI data structure.
+      Entity_Type_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: ELEMENT
+      Attribute_Definition: Major categories of biological data.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: BIRD
+          Enumerated_Domain_Value_Definition: Birds
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: FISH
+          Enumerated_Domain_Value_Definition: Fish
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: HABITAT
+          Enumerated_Domain_Value_Definition: Habitats and Plants
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: INVERT
+          Enumerated_Domain_Value_Definition: Invertebrates
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: M_MAMMAL
+          Enumerated_Domain_Value_Definition: Marine Mammals
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: REPTILE
+          Enumerated_Domain_Value_Definition: Reptiles and Amphibians
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: T_MAMMAL
+          Enumerated_Domain_Value_Definition: Terrestrial Mammals
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: SPECIES_ID
+      Attribute_Definition: Numeric identifier for each species that is unique within each element and refers to a nationwide ESI species list maintained at NOAA.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: N
+    Attribute:
+      Attribute_Label: SEASON_ID
+      Attribute_Definition: Numeric identifier for the unique monthly presence and life history characteristics of each species at a given location.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: N
+    Attribute:
+      Attribute_Label: JAN
+      Attribute_Definition: January
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: X
+          Enumerated_Domain_Value_Definition: Present in January
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: FEB
+      Attribute_Definition: February
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: X
+          Enumerated_Domain_Value_Definition: Present in February
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: MAR
+      Attribute_Definition: March
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: X
+          Enumerated_Domain_Value_Definition: Present in March
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: APR
+      Attribute_Definition: April
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: X
+          Enumerated_Domain_Value_Definition: Present in April
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: MAY
+      Attribute_Definition: May
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: X
+          Enumerated_Domain_Value_Definition: Present in May
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: JUN
+      Attribute_Definition: June
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: X
+          Enumerated_Domain_Value_Definition: Present in June
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: JUL
+      Attribute_Definition: July
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: X
+          Enumerated_Domain_Value_Definition: Present in July
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: AUG
+      Attribute_Definition: August
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: X
+          Enumerated_Domain_Value_Definition: Present in August
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: SEP
+      Attribute_Definition: September
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: X
+          Enumerated_Domain_Value_Definition: Present in September
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: OCT
+      Attribute_Definition: October
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: X
+          Enumerated_Domain_Value_Definition: Present in October
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: NOV
+      Attribute_Definition: November
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: X
+          Enumerated_Domain_Value_Definition: Present in November
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: DEC
+      Attribute_Definition: December
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: X
+          Enumerated_Domain_Value_Definition: Present in December
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: EL_SPE_SEA
+      Attribute_Definition: Concatenation of ELEMENT, SPECIES_ID, and SEASON_ID. This item links records in the SEASONAL data table to records in the BIORES and BREED data tables.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: E#######
+          Enumerated_Domain_Value_Definition: Where E is the first character of ELEMENT, the next five characters are SPECIES_ID, and the last two characters are SEASON_ID (e.g. ELEMENT = 'BIRD', SPECIES_ID = 1 and SEASON_ID = 1; EL_SPE_SEA = 'B0000101').
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: BREED
+      Entity_Type_Definition: The data table BREED identifies the monthly presence of certain life-history stages or activities for each species at a given location.
+      Entity_Type_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: EL_SPE_SEA
+      Attribute_Definition: Concatenation of ELEMENT, SPECIES_ID, and SEASON_ID.  This item links records in the BREED data table to records in the BIORES and SEASONAL data tables.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: E#######
+          Enumerated_Domain_Value_Definition: Where E is the first character of ELEMENT, the next five characters are SPECIES_ID, and the last two characters are SEASON_ID (e.g. ELEMENT = 'BIRD', SPECIES_ID = 1 and SEASON_ID = 1; EL_SPE_SEA = 'B0000101').
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: MONTH
+      Attribute_Definition: Two-digit calendar month.  Each life history stage or activity type for a particular species can have up to 12 records to account for each month of the year.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 12
+    Attribute:
+      Attribute_Label: BREED1
+      Attribute_Definition: Life history stage or activity type, where: if ELEMENT is "BIRD" then BREED1 = nesting; if ELEMENT is "FISH" then BREED1 = spawning; if ELEMENT is "INVERT" then BREED1 = spawning; if ELEMENT is "REPTILE" then BREED1 = nesting; if ELEMENT is "M_MAMMAL" then BREED1 = mating.  This attribute is not used for HABITAT or T_MAMMAL elements.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Y
+          Enumerated_Domain_Value_Definition: Life-history stage or activity present
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: N
+          Enumerated_Domain_Value_Definition: Life-history stage or activity not present or not reported
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: -
+          Enumerated_Domain_Value_Definition: Breed category not used or not appropriate for record(s) in question
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: BREED2
+      Attribute_Definition: Life history stage or activity type, where: if ELEMENT is "BIRD" then BREED2 = migrating; if ELEMENT is "FISH" then BREED2 = eggs; if ELEMENT is "INVERT" then BREED2 = eggs; if ELEMENT is "REPTILE" then BREED2 = hatching; if ELEMENT is "M_MAMMAL" then BREED2 = calving.  This attribute is not used for HABITAT or T_MAMMAL elements.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Y
+          Enumerated_Domain_Value_Definition: Life-history stage or activity present
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: N
+          Enumerated_Domain_Value_Definition: Life-history stage or activity not present or not reported
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: -
+          Enumerated_Domain_Value_Definition: Breed category not used or not appropriate for record(s) in question
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: BREED3
+      Attribute_Definition: Life history stage or activity type, where: if ELEMENT is "BIRD" then BREED3 = molting; if ELEMENT is "FISH" then BREED3 = larvae; if ELEMENT is "INVERT" then BREED3 = larvae; if ELEMENT is "REPTILE" then BREED3 = internesting; if ELEMENT is "M_MAMMAL" then BREED3 = pupping.  This attribute is not used for HABITAT or T_MAMMAL elements.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Y
+          Enumerated_Domain_Value_Definition: Life-history stage or activity present
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: N
+          Enumerated_Domain_Value_Definition: Life-history stage or activity not present or not reported
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: -
+          Enumerated_Domain_Value_Definition: Breed category not used or not appropriate for record(s) in question
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: BREED4
+      Attribute_Definition: Life history stage or activity type, where: if ELEMENT is "FISH" then BREED4 = juveniles; if ELEMENT is "INVERT" then BREED4 = juveniles; if ELEMENT is "REPTILE" then BREED4 = juveniles; if ELEMENT is "M_MAMMAL" then BREED4 = molting.  This attribute is not used for BIRD, HABITAT, or T_MAMMAL elements.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Y
+          Enumerated_Domain_Value_Definition: Life-history stage or activity present
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: N
+          Enumerated_Domain_Value_Definition: Life-history stage or activity not present or not reported
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: -
+          Enumerated_Domain_Value_Definition: Breed category not used or not appropriate for record(s) in question
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: BREED5
+      Attribute_Definition: Life history stage or activity type, where: if ELEMENT is "FISH" then BREED5 = adults; if ELEMENT is "INVERT" then BREED5 = adults; if ELEMENT is "REPTILE" then BREED5 = adults.  This attribute is not used for BIRD, M_MAMMAL, HABITAT, or T_MAMMAL elements.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Y
+          Enumerated_Domain_Value_Definition: Life-history stage or activity present
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: N
+          Enumerated_Domain_Value_Definition: Life-history stage or activity not present or not reported
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: -
+          Enumerated_Domain_Value_Definition: Breed category not used or not appropriate for record(s) in question
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: SOURCES
+      Entity_Type_Definition: The data table SOURCES contains the primary sources used to create the ESI data set.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the way this table relates to other attribute tables in the ESI data structure.
+      Entity_Type_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: SOURCE_ID
+      Attribute_Definition: Source identifier that links records in the SOURCES data table to the items G_SOURCE and A_SOURCE in the SOC_DAT table; G_SOURCE and S_SOURCE in the BIORES table; and SOURCE_ID in the ESI and HYDRO data layers.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: N
+    Attribute:
+      Attribute_Label: ORIGINATOR
+      Attribute_Definition: Author or developer of source material or data set.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Acceptable values change from atlas to atlas.
+    Attribute:
+      Attribute_Label: DATE_PUB
+      Attribute_Definition: Date of source material, publication, or date of personal communication with expert source.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: YYYYMM
+          Enumerated_Domain_Value_Definition: YYYY for year and optionally MM for month.
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: TITLE
+      Attribute_Definition: Title of source material or data.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Acceptable values change from atlas to atlas.
+    Attribute:
+      Attribute_Label: DATA_FORMAT
+      Attribute_Definition: The format of the source material.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Acceptable values change from atlas to atlas.
+    Attribute:
+      Attribute_Label: PUBLICATION
+      Attribute_Definition: Additional citation information.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Acceptable values change from atlas to atlas.
+    Attribute:
+      Attribute_Label: SCALE
+      Attribute_Definition: Description of the source scale.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Acceptable values change from atlas to atlas.
+    Attribute:
+      Attribute_Label: TIME_PERIOD
+      Attribute_Definition: Date(s) of data collection that the source material is based upon.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Acceptable values change from atlas to atlas.
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: STATUS
+      Entity_Type_Definition: The data table STATUS identifies the species that are listed as either threatened or endangered by a state, federal, or international authority.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the way this table relates to other attribute tables in the ESI data structure.
+      Entity_Type_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: ELEMENT
+      Attribute_Definition: Major categories of biological data.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: BIRD
+          Enumerated_Domain_Value_Definition: Birds
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: FISH
+          Enumerated_Domain_Value_Definition: Fish
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: HABITAT
+          Enumerated_Domain_Value_Definition: Habitats and Plants
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: INVERT
+          Enumerated_Domain_Value_Definition: Invertebrates
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: M_MAMMAL
+          Enumerated_Domain_Value_Definition: Marine Mammals
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: REPTILE
+          Enumerated_Domain_Value_Definition: Reptiles and Amphibians
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: T_MAMMAL
+          Enumerated_Domain_Value_Definition: Terrestrial Mammals
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: SPECIES_ID
+      Attribute_Definition: Numeric identifier for each species that is unique within each element and refers to a nationwide master ESI species list maintained at NOAA.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: N
+    Attribute:
+      Attribute_Label: STATE
+      Attribute_Definition: Two-letter state abbreviation.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Acceptable values change from atlas to atlas.
+    Attribute:
+      Attribute_Label: COUNTRY
+      Attribute_Definition: Three-letter country abbreviation.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Acceptable values change from atlas to atlas.
+    Attribute:
+      Attribute_Label: S
+      Attribute_Definition: State threatened or endangered status.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: E
+          Enumerated_Domain_Value_Definition: Endangered on state list
+          Enumerated_Domain_Value_Definition_Source: NOAA ESI Guidelines
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: T
+          Enumerated_Domain_Value_Definition: Threatened on state list
+          Enumerated_Domain_Value_Definition_Source: NOAA ESI Guidelines
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: C
+          Enumerated_Domain_Value_Definition: Species of Special Concern
+          Enumerated_Domain_Value_Definition_Source: NOAA ESI Guidelines
+    Attribute:
+      Attribute_Label: F
+      Attribute_Definition: Federal threatened or endangered status.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: E
+          Enumerated_Domain_Value_Definition: Endangered on federal list
+          Enumerated_Domain_Value_Definition_Source: NOAA ESI Guidelines
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: T
+          Enumerated_Domain_Value_Definition: Threatened on federal list
+          Enumerated_Domain_Value_Definition_Source: NOAA ESI Guidelines
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: C
+          Enumerated_Domain_Value_Definition: Species of Special Concern
+          Enumerated_Domain_Value_Definition_Source: NOAA ESI Guidelines
+    Attribute:
+      Attribute_Label: I
+      Attribute_Definition: International threatened or endangered status.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: E
+          Enumerated_Domain_Value_Definition: Endangered on international list
+          Enumerated_Domain_Value_Definition_Source: NOAA ESI Guidelines
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: T
+          Enumerated_Domain_Value_Definition: Threatened on international list
+          Enumerated_Domain_Value_Definition_Source: NOAA ESI Guidelines
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: C
+          Enumerated_Domain_Value_Definition: Species of Special Concern
+          Enumerated_Domain_Value_Definition_Source: NOAA ESI Guidelines
+    Attribute:
+      Attribute_Label: S_DATE
+      Attribute_Definition: Publication date of source material used to assign state status values for each species, if used.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: YYYYMM
+          Enumerated_Domain_Value_Definition: YYYY for year and optionally MM for month
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: F_DATE
+      Attribute_Definition: Publication date of source material used to assign federal status values for each species, if used.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: YYYYMM
+          Enumerated_Domain_Value_Definition: YYYY for year and optionally MM for month
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: I_DATE
+      Attribute_Definition: Publication date of source material used to assign international status values for each species, if used.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: YYYYMM
+          Enumerated_Domain_Value_Definition: YYYY for year and optionally MM for month
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+    Attribute:
+      Attribute_Label: EL_SPE
+      Attribute_Definition: Concatenation of ELEMENT and SPECIES_ID.  This item links the STATUS data table to the BIORES and SPECIES data tables.
+      Attribute_Definition_Source: Research Planning, Inc.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: E#####
+          Enumerated_Domain_Value_Definition: Where E is the first character of ELEMENT and the next five characters are SPECIES_ID (e.g. ELEMENT = 'BIRD' and SPECIES_ID = 1; EL_SPE = 'B00001').
+          Enumerated_Domain_Value_Definition_Source: Research Planning, Inc.
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: John Kaperick
+        Contact_Organization: NOAA, Office of Response and Restoration
+      Contact_Address:
+        Address_Type: Physical Address
+        Address: 7600 Sand Point Way N.E.
+        City: Seattle
+        State_or_Province: Washington
+        Postal_Code: 98115-6349
+      Contact_Voice_Telephone: (206) 526-6400
+      Contact_Facsimile_Telephone: (206) 526-6329
+  Resource_Description: ESI Atlas for Virginia
+  Distribution_Liability: Although these data have been processed successfully on a computer system at the National Oceanic and Atmospheric Administration, no warranty, expressed or implied, is made by NOAA regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty.  NOAA warrants the delivery of this product in computer-readable format, and will offer a replacement copy of the product when the product is determined unreadable by computer-input peripherals, or when the physical medium is delivered in damaged condition.
+  Custom_Order_Process: Contact NOAA for distribution options (see Distributor).  ESI data are processed into multiple formats to make them useful to a wider community of GIS/mapping users.  Distribution formats include ARC export, MOSS and Shape files, and MARPLOT map folders.  An ArcView ESI project and ESI_Viewer product are also included on the distribution CDs for ease of use of the ESI data.  The database files are distributed both in the NOAA standard relational database format (see NOAA Technical Memorandum NOS ORCA 115) and in a simplified desktop flat file format.  This metadata document includes information on both of these database formats.
+Metadata_Reference_Information:
+  Metadata_Date: 200512
+  Metadata_Review_Date: 200512
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Jill Petersen
+        Contact_Organization: NOAA, Office of Response and Restoration
+      Contact_Position: GIS Manager
+      Contact_Address:
+        Address_Type: Physical Address
+        Address: 7600 Sand Point Way N.E.
+        City: Seattle
+        State_or_Province: Washington
+        Postal_Code: 98115-6349
+      Contact_Voice_Telephone: (206) 526-6944
+      Contact_Facsimile_Telephone: (206) 526-6329
+      Contact_Electronic_Mail_Address: Jill.Petersen@noaa.gov
+  Metadata_Standard_Name: Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998

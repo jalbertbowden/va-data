@@ -1,0 +1,1875 @@
+<!DOCTYPE METADATA PUBLIC "-//FGDC//DTD METADATA 2.0//EN">
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Hazardous Materials Response Division, Seattle, Washington and NOAA Chesapeake Bay Office, Gloucester Point, Virginia.</origin>
+<pubdate>200512</pubdate>
+<title>Virginia ESI: NESTS (Nest Points)</title>
+<edition>2</edition>
+<geoform>Vector digital data</geoform>
+<serinfo>
+<sername>None</sername>
+<issue>Virginia</issue>
+</serinfo>
+<pubinfo>
+<pubplace>Seattle, Washington</pubplace>
+<publish>National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Hazardous Materials Response Division, Seattle, Washington.</publish>
+</pubinfo>
+<othercit>Prepared by Research Planning, Inc., Columbia, South Carolina for the National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Hazardous Materials Response Division, Seattle, Washington and NOAA Chesapeake Bay Office, Gloucester Point, Virginia.</othercit>
+</citeinfo>
+</citation>
+<descript>
+<abstract>
+This data set contains sensitive biological resource data for wading birds, shorebirds, raptors, diving birds, passerine birds, and gulls and terns in Virginia.  Vector points in this data set represent bird nesting locations. Species-specific abundance, seasonality, status, life history, and source information are stored in relational data tables (described below) designed to be used in conjunction with this spatial data layer.
+
+This data set comprises a portion of the Environmental Sensitivity Index (ESI) data for Virginia.  ESI data characterize the marine and coastal environments and wildlife by their sensitivity to spilled oil.  The ESI data include information for three main components: shoreline habitats, sensitive biological resources, and human-use resources. See also the BIRDS (Bird Polygons) data layer, part of the larger Virginia ESI database, for additional bird information.
+</abstract>
+<purpose>The ESI data were collected, mapped, and digitized to provide environmental data for oil spill planning and response.  The Clean Water Act with amendments by the Oil Pollution Act of 1990 requires response plans for immediate and effective protection of sensitive resources.</purpose>
+</descript>
+<timeperd>
+<timeinfo>
+<rngdates>
+<begdate>1977</begdate>
+<enddate>2004</enddate>
+</rngdates>
+</timeinfo>
+<current>The biological data were compiled during 2004-2005.  The currentness dates for the data range from 1977 to 2004 and are documented in the Lineage section.</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>None Scheduled</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-77.50000</westbc>
+<eastbc>-75.12500</eastbc>
+<northbc>38.87500</northbc>
+<southbc>36.50000</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>ESI</themekey>
+<themekey>Sensitivity maps</themekey>
+<themekey>Coastal resources</themekey>
+<themekey>Oil spill planning</themekey>
+<themekey>Coastal Zone Management</themekey>
+<themekey>Wildlife</themekey>
+<themekey>Nest</themekey>
+<themekey>Bird</themekey>
+</theme>
+<place>
+<placekt>None</placekt>
+<placekey>Virginia</placekey>
+</place>
+</keywords>
+<accconst>None</accconst>
+<useconst>
+DO NOT USE MAPS FOR NAVIGATIONAL PURPOSES.
+Besides the above warning, there are no use constraints on these data.  Note that the ESI database should not be used to the exclusion of other pertinent data or information held by state or federal agencies or other organizations.  Likewise, information contained in the database cannot be used in place of consultations with environmental, natural resource, and cultural resource agencies, or in place of field surveys.  Recognize that the information contained in the ESI database represents known concentration areas or occurrences of natural, cultural, and human-use resources, but does not necessarily represent the full distribution or range of each species or resource.  This is particularly important to recognize when considering potential impacts to protected resources, such as endangered species, wetlands, etc.  Acknowledgment of the originators, publishers, contributors, and sources listed would be appreciated in products derived from these data.
+</useconst>
+<browse>
+<browsen>datafig.jpg</browsen>
+<browsed>Depicts the relationships between spatial data layers and attribute data tables for the Virginia ESI data.</browsed>
+<browset>JPEG</browset>
+</browse>
+<datacred>This project was supported by the National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Hazardous Materials Response Division, Seattle, Washington and NOAA Chesapeake Bay Office, Gloucester Point, Virginia.</datacred>
+<native>
+The software packages used to develop the atlas are Environmental Systems Research Institute&apos;s ARC/INFO(r) (version 8.3) and SQL SERVER(r) (version 7.0). The hardware configuration is PC&apos;s with Windows Operating System (NT4.0/2000).
+
+The Spatial_Data_Organization Information section refers only to the source files in the ARC export format.  The following files are included in that data set: birds.e00, esi.e00, fish.e00, habitats.e00, hydro.e00, index.e00, invert.e00, m_mammal.e00, mgt.e00, nests.e00, reptiles.e00, reptpt.e00, socecon.e00, t_mammal.e00, wetlands.e00.  Associated relational and desktop data tables provided in Arc export and text format are bio_lut, biofile, biores, breed, breed_dt, seasonal, soc_dat, soc_lut, sources, species, and status.
+</native>
+</idinfo>
+<dataqual>
+<attracc>
+<attraccr>A multi-stage error checking process is used to verify both attribute accuracy and logical consistency throughout data production.  The process includes a standardized data entry methodology, hardcopy data review by in-house and external resource experts, a final Quality Assurance/Quality Control (QA/QC) process, and multiple automated logical consistency checks.  Quantitative data (such as densities, counts, abundances, or concentrations) provided by resource experts for inclusion in the data set may vary widely in attribute accuracy, depending upon the methodology used to collect and compile such data.  For a more detailed evaluation of source data attribute accuracy, contact the sources listed in the Lineage section.</attraccr>
+</attracc>
+<logic>
+A multi-stage error checking process, described in the above Attribute_Accuracy_Report, is used to verify both attribute accuracy and logical consistency throughout data production.  This process includes multiple automated logical consistency checks that test the files for missing or duplicate data, rules for proper coding, GIS topological consistencies (such as dangles, unnecessary nodes, etc.), and SQL SERVER(r) to ARC/INFO(r) consistencies.  A final review is made by the GIS manager, where the data are written to CD-ROM and the metadata are written.
+
+After the data are delivered to NOAA, they are again subjected to a number of quality and consistency checks. In the process of checking for topological and database consistencies, new ID&apos;s and RARNUM&apos;s or HUNUM&apos;s are also generated.  The new ID&apos;s are a combination of atlas number, element number, and record number.  In addition, the value used to represent the element is modified to reflect the type of feature being mapped.  In the case of an element that is normally represented by a point or polygon, a value of 20 is added to the standard element value for mapping of linear features.  In the case where an element usually mapped as a polygon is represented by a point, a value of 30 is added to the regular element value.  The RARNUM&apos;s are also modified to include the atlas number, so multiple atlases can be combined and RARNUM&apos;s remain unique.  RARNUM&apos;s are redefined on an element basis, so &quot;resource at risk&quot; groupings will contain only a single element.  HUNUM&apos;s are also modified to include the atlas number.
+</logic>
+<complete>These data represent a synthesis of bird nesting locations. See also the BIRDS (Bird Polygons) data layer, part of the larger Virginia ESI database, for additional bird information.  These data do not necessarily represent all nest occurrences in Virginia.  The following species are included in this data set: (Species_ID, Common Name, Scientific Name [n/a if not applicable]): 8, Double-crested cormorant, Phalacrocorax auritus; 38, Herring gull, Larus argentatus; 45, Common tern, Sterna hirundo; 54, Great blue heron, Ardea herodias; 76, Bald eagle, Haliaeetus leucocephalus; 77, Osprey, Pandion haliaetus; 86, Least tern, Sterna antillarum; 87, Little blue heron, Egretta caerulea; 88, Great egret, Ardea alba; 89, Snowy egret, Egretta thula; 90, Black-crowned night-heron, Nycticorax nycticorax; 91, Glossy ibis, Plegadis falcinellus; 92, Great black-backed gull, Larus marinus; 93, Cattle egret, Bubulcus ibis; 94, Tricolored heron, Egretta tricolor; 98, Laughing gull, Larus atricilla; 107, Peregrine falcon, Falco peregrinus; 115, White ibis, Eudocimus albus; 118, Brown pelican, Pelecanus occidentalis; 120, Yellow-crowned night-heron, Nyctanassa violacea; 133, Black skimmer, Rynchops niger; 134, Gull-billed tern, Sterna nilotica; 135, Sandwich tern, Sterna sandvicensis; 136, Caspian tern, Sterna caspia; 137, Royal tern, Sterna maxima; 138, Forster&apos;s tern, Sterna forsteri; 142, Black-necked stilt, Himantopus mexicanus; 152, American oystercatcher, Haematopus palliatus; 735, Brown-headed cowbird, Molothrus ater.</complete>
+<posacc>
+<horizpa>
+<horizpar>Spatial components for the biological data layers can come from expert interviews, hardcopy, or digital sources. Most of the spatial components of the biological data layers are developed using regional experts who estimate concentration areas.  It is difficult to estimate the positional accuracy of such data, except to state that they are compiled on hardcopy base maps with a scale of 1:24,000.  Some of the spatial components of the biological data sets are developed from pre-existing digital or hardcopy sources and reflect the positional accuracy of these original data.  See the Lineage and Process_Description sections for more information on the original data source and how these data were integrated or manipulated to create the final data set.  Note that biological resource data by their very nature are considered &quot;fuzzy&quot;, and this should be understood when considering the positional accuracy of vector digital objects representing these resources.</horizpar>
+</horizpa>
+</posacc>
+<lineage>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>BOETTCHER, R. (VIRGINIA DEPARTMENT OF GAME AND INLAND FISHERIES [VDGIF], PAINTER)</origin>
+<pubdate>2004</pubdate>
+<title>DISTRIBUTION OF WILDLIFE ALONG THE EASTERN SHORE</title>
+<geoform>EXPERT KNOWLEDGE</geoform>
+<othercit>UNPUBLISHED</othercit>
+</citeinfo>
+</srccite>
+<typesrc>PERSONAL COMMUNICATION</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2004</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>DATE OF COMMUNICATION</srccurr>
+</srctime>
+<srccitea>NONE</srccitea>
+<srccontr>NESTS INFORMATION</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>DENMON, P. (U.S. FISH AND WILDLIFE SERVICE [USFWS], CAPE CHARLES)</origin>
+<pubdate>2004</pubdate>
+<title>SPECIES DISTRIBUTION AT FISHERMANS ISLAND NWR</title>
+<geoform>EXPERT KNOWLEDGE</geoform>
+<othercit>UNPUBLISHED</othercit>
+</citeinfo>
+</srccite>
+<typesrc>PERSONAL COMMUNICATION</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2004</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>DATE OF COMMUNICATION</srccurr>
+</srctime>
+<srccitea>NONE</srccitea>
+<srccontr>NESTS INFORMATION</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>FIELD, D. (VIRGINIA DEPARTMENT OF CONSERVATION AND RECREATION [DCR], WACHAPREAGUE)</origin>
+<pubdate>2004</pubdate>
+<title>NATURAL HERITAGE PROGRAM DATA</title>
+<geoform>EXPERT KNOWLEDGE</geoform>
+<othercit>UNPUBLISHED</othercit>
+</citeinfo>
+</srccite>
+<typesrc>PERSONAL COMMUNICATION</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2004</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>DATE OF COMMUNICATION</srccurr>
+</srctime>
+<srccitea>NONE</srccitea>
+<srccontr>NESTS INFORMATION</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>T. PENN, USFWS, CHINCOTEAGUE ISLAND</origin>
+<pubdate>2004</pubdate>
+<title>DISTRIBUTION OF CHINCOTEAGUE NATIONAL WILDLIFE REFUGE SPECIES</title>
+<geoform>EXPERT KNOWLEDGE</geoform>
+<othercit>UNPUBLISHED</othercit>
+</citeinfo>
+</srccite>
+<typesrc>PERSONAL COMMUNICATION</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2004</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>DATE OF COMMUNICATION</srccurr>
+</srctime>
+<srccitea>NONE</srccitea>
+<srccontr>NESTS INFORMATION</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>THE NATURE CONSERVANCY</origin>
+<pubdate>1998</pubdate>
+<title>1998 SEASIDE LAGOON SURVEY RESULTS</title>
+<geoform>DIGITAL VECTOR DATA</geoform>
+<othercit>THE NATURE CONSERVANCY, CHARLOTTESVILLE, VA (CONTACT: JOHN PORTER, BARRY TRUITT)</othercit>
+</citeinfo>
+</srccite>
+<typesrc>EMAIL</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>1998</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>DATE OF SURVEY</srccurr>
+</srctime>
+<srccitea>NONE</srccitea>
+<srccontr>NESTS INFORMATION</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>THE NATURE CONSERVANCY (TNC), COLLEGE OF WILLIAM &amp; MARY CENTER FOR CONSERVATION BIOLOGY (CCB), VIRGINIA DEPARTMENT OF GAME AND INLAND FISHERIES (VDGIF)</origin>
+<pubdate>2003</pubdate>
+<title>AMERICAN OYSTERCATCHER WINTER ROOST SURVEYS</title>
+<geoform>DIGITAL TABLE</geoform>
+<othercit>UNPUBLISHED</othercit>
+</citeinfo>
+</srccite>
+<typesrc>EMAIL</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2003</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>DATE OF SURVEY</srccurr>
+</srctime>
+<srccitea>NONE</srccitea>
+<srccontr>NESTS INFORMATION</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>TRUITT, B.</origin>
+<pubdate>2004</pubdate>
+<title>SHOREBIRD SEASONALITY</title>
+<geoform>EXPERT KNOWLEDGE</geoform>
+<othercit>UNPUBLISHED</othercit>
+</citeinfo>
+</srccite>
+<typesrc>EMAIL</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2004</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>DATE OF COMMUNICATION</srccurr>
+</srctime>
+<srccitea>NONE</srccitea>
+<srccontr>NESTS INFORMATION</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>TRUITT, B., R. BOETTCHER, A. WILKE</origin>
+<pubdate>2004</pubdate>
+<title>2003 WINTER AMERICAN OYSTERCATCHER ROOST SURVEY: SEASIDE-EASTERN SHORE-NOV.12-18</title>
+<geoform>DIGITAL TABLE</geoform>
+<othercit>UNPUBLISHED</othercit>
+</citeinfo>
+</srccite>
+<typesrc>EMAIL</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2003</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>DATE OF SURVEY</srccurr>
+</srctime>
+<srccitea>NONE</srccitea>
+<srccontr>NESTS INFORMATION</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>USFWS, ANNAPOLIS, MD</origin>
+<pubdate>1991</pubdate>
+<title>CHESAPEAKE BAY BALD EAGLE FACT SHEET</title>
+<geoform>HARDCOPY TEXT</geoform>
+<othercit>USFWS, APRIL 1991</othercit>
+</citeinfo>
+</srccite>
+<typesrc>PAPER</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>1991</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>DATE OF PUBLICATION</srccurr>
+</srctime>
+<srccitea>NONE</srccitea>
+<srccontr>NESTS INFORMATION</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>USFWS, CAPE CHARLES, VA</origin>
+<pubdate>1992</pubdate>
+<title>BIRDS: EASTERN SHORE OF VIRGINIA AND FISHERMAN ISLAND NATIONAL WILDLIFE REFUGES</title>
+<geoform>HARDCOPY TEXT</geoform>
+<othercit>DEPARTMENT OF THE INTERIOR, U.S. FISH AND WILDLIFE SERVICE, BROCHURE</othercit>
+</citeinfo>
+</srccite>
+<typesrc>PAPER</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>1992</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>DATE OF PUBLICATION</srccurr>
+</srctime>
+<srccitea>NONE</srccitea>
+<srccontr>NESTS INFORMATION</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>USFWS, CHINCOTEAGUE ISLAND, VA</origin>
+<pubdate>1999</pubdate>
+<title>USFWS CHINCOTEAGUE NATIONAL WILDLIFE REFUGE BIRDS</title>
+<geoform>HARDCOPY TEXT</geoform>
+<othercit>USFWS, CHINCOTEAGUE ISLAND, VA, 10 PP.</othercit>
+</citeinfo>
+</srccite>
+<typesrc>PAPER</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>1999</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>DATE OF PUBLICATION</srccurr>
+</srctime>
+<srccitea>NONE</srccitea>
+<srccontr>NESTS INFORMATION</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>USFWS, VIRGINIA BEACH, VA</origin>
+<pubdate>2003</pubdate>
+<title>BIRDS: BACK BAY NATIONAL WILDLIFE REFUGE</title>
+<geoform>HARDCOPY TEXT</geoform>
+<othercit>DEPARTMENT OF THE INTERIOR, U.S. FISH AND WILDLIFE SERVICE, BROCHURE</othercit>
+</citeinfo>
+</srccite>
+<typesrc>PAPER</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2003</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>DATE OF PUBLICATION</srccurr>
+</srctime>
+<srccitea>NONE</srccitea>
+<srccontr>NESTS INFORMATION</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>USFWS, VIRGINIA BEACH, VA</origin>
+<pubdate>2004</pubdate>
+<title>BACK BAY NWR OSPREY NEST LOCATIONS</title>
+<geoform>HARDCOPY TEXT</geoform>
+<othercit>UNPUBLISHED</othercit>
+</citeinfo>
+</srccite>
+<typesrc>PAPER</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2004</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>DATE OF PUBLICATION</srccurr>
+</srctime>
+<srccitea>NONE</srccitea>
+<srccontr>NESTS INFORMATION</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>VA DEPT. OF GAME &amp; INLAND FISHERIES</origin>
+<pubdate>2003</pubdate>
+<title>COASTAL PEREGRINE FALCON COORDINATES</title>
+<geoform>DIGITAL TABLE</geoform>
+<othercit>UNPUBLISHED</othercit>
+</citeinfo>
+</srccite>
+<typesrc>EMAIL</typesrc>
+<srctime>
+<timeinfo>
+<rngdates>
+<begdate>1977</begdate>
+<enddate>2003</enddate>
+</rngdates>
+</timeinfo>
+<srccurr>DATE OF SURVEY</srccurr>
+</srctime>
+<srccitea>NONE</srccitea>
+<srccontr>NESTS INFORMATION</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>VA DEPT. OF GAME &amp; INLAND FISHERIES</origin>
+<pubdate>2003</pubdate>
+<title>BALD EAGLE NESTS ACTIVE IN 2003</title>
+<geoform>HARDCOPY MAP</geoform>
+<othercit>UNPUBLISHED</othercit>
+</citeinfo>
+</srccite>
+<srcscale>24,000</srcscale>
+<typesrc>PAPER</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2003</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>DATE OF SURVEY</srccurr>
+</srctime>
+<srccitea>NONE</srccitea>
+<srccontr>NESTS INFORMATION</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>VA NATURAL HERITAGE PROGRAM</origin>
+<pubdate>2004</pubdate>
+<title>WRECK ISLAND BIRD COLONIES 2003</title>
+<geoform>HARDCOPY MAP</geoform>
+<othercit>UNPUBLISHED</othercit>
+</citeinfo>
+</srccite>
+<srcscale>41,292</srcscale>
+<typesrc>PAPER</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2003</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>DATE OF SURVEY</srccurr>
+</srctime>
+<srccitea>NONE</srccitea>
+<srccontr>NESTS INFORMATION</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>WATTS, B.D. &amp; B.J. PAXTON</origin>
+<pubdate>2004</pubdate>
+<title>DIGITAL ATLAS OF COLONIAL WATERBIRDS IN COASTAL VIRGINIA: 2003 BREEDING SEASON</title>
+<geoform>DIGITAL VECTOR DATA</geoform>
+<othercit>CCBTR-04-05. CENTER FOR CONSERVATION BIOLOGY, COLLEGE OF WILLIAM AND MARY, WILLIAMSBURG, VA.</othercit>
+</citeinfo>
+</srccite>
+<typesrc>CD-ROM</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2003</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>DATE OF SURVEY</srccurr>
+</srctime>
+<srccitea>NONE</srccitea>
+<srccontr>NESTS INFORMATION</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>WILKE, A. (COLLEGE OF WILLIAM AND MARY CCB)</origin>
+<pubdate>2003</pubdate>
+<title>BREEDING SURVEYS, BANDING, &amp; PRODUCTIVITY OF AMOY&apos;S ON THE BARRIER ISLANDS OF VA</title>
+<geoform>DIGITAL MAP</geoform>
+<othercit>UNPUBLISHED</othercit>
+</citeinfo>
+</srccite>
+<typesrc>EMAIL</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2003</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>DATE OF SURVEY</srccurr>
+</srctime>
+<srccitea>NONE</srccitea>
+<srccontr>NESTS INFORMATION</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>WILKE, A. (COLLEGE OF WILLIAM AND MARY CCB)</origin>
+<pubdate>2004</pubdate>
+<title>AMERICAN OYSTERCATCHER SEASONALITY</title>
+<geoform>EXPERT KNOWLEDGE</geoform>
+<othercit>UNPUBLISHED</othercit>
+</citeinfo>
+</srccite>
+<typesrc>PERSONAL COMMUNICATION</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2004</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>DATE OF COMMUNICATION</srccurr>
+</srctime>
+<srccitea>NONE</srccitea>
+<srccontr>NESTS INFORMATION</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>WITT, J. (WOODBRIDGE, VA)</origin>
+<pubdate>2004</pubdate>
+<title>SPECIES DISTRIBUTION AND SEASONALITY AT THE POTOMAC RIVER NWR COMPLEX</title>
+<geoform>EXPERT KNOWLEDGE</geoform>
+<othercit>UNPUBLISHED</othercit>
+</citeinfo>
+</srccite>
+<typesrc>PERSONAL COMMUNICATION</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2004</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>DATE OF COMMUNICATION</srccurr>
+</srctime>
+<srccitea>NONE</srccitea>
+<srccontr>NESTS INFORMATION</srccontr>
+</srcinfo>
+<procstep>
+<procdesc>
+Three main sources of data were used to depict bird distribution and seasonality for this data layer: (1) personal interviews with resource experts from U.S. Fish and Wildlife Service (USFWS), Virginia Department of Game and Inland Fisheries (VDGIF), College of William and Mary Center for Conservation Biology (CCB), and The Nature Conservancy (TNC); (2) published and unpublished documents and maps (dates range from 1992-2004); and (3) survey/location data in digital format (publication dates range from 1998-2004).
+
+The above digital and/or hardcopy sources were compiled by the project biologist to create the NESTS data layer. Depending on the type of source data, three general approaches are used for compiling a biology data layer: (1) information gathered during initial interviews and from hardcopy sources are compiled onto U.S. Geological Survey 1:24,000 topographic quadrangles and digitized; (2) hardcopy maps are digitized at their source scale; (3) digital data layers are evaluated and used &quot;as is&quot; or integrated with the hardcopy data sources. See the Lineage section for additional information on the type of source data for this data layer. The compiled ESI, biology, and human-use data are plotted onto hardcopy draft maps.  Following the delivery of draft maps to the participating resource experts, a second set of interviews is conducted to review the maps.  If necessary, edits to the NESTS data layer are made based on the recommendations of the resource experts, and final hardcopy maps and digital data are created.
+</procdesc>
+<procdate>200505</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>NOAA, Office of Response and Restoration</cntorg>
+<cntper>Jill Petersen</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>Physical address</addrtype>
+<address>7600 Sand Point Way N.E.</address>
+<city>Seattle</city>
+<state>Washington</state>
+<postal>98115-6349</postal>
+</cntaddr>
+<cntvoice>(206) 526-6944</cntvoice>
+<cntfax>(206) 526-6329</cntfax>
+<cntemail>Jill.Petersen@noaa.gov</cntemail>
+</cntinfo>
+</proccont>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>Entity Point</sdtstype>
+<ptvctcnt>632</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<geograph>
+<latres>0.0000001</latres>
+<longres>0.0000001</longres>
+<geogunit>Decimal degrees</geogunit>
+</geograph>
+<geodetic>
+<horizdn>North American Datum of 1927</horizdn>
+<ellips>Clark 1866</ellips>
+<semiaxis>6378206.400000</semiaxis>
+<denflat>294.978698</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<eainfo>
+<overview>
+<eaover>
+In addition to the geographic data layers, six relational attribute or data tables, BIORES, BREED, SEASONAL, SOURCES, SPECIES, and STATUS, are used to store the complex biological data in the ESI data structure.  The geographic data layer containing biological resource information (in this case, NESTS) is linked to the Biological Resources table (BIORES) using the unique ID and the lookup table BIO_LUT, or it can be linked directly using RARNUM.  The ID is a unique combination of the atlas number (for the Virginia atlas, the number is 55), an element/layer specific number (BIRDS are layer 1, FISH are layer 2, etc.), and a unique record number.  The RARNUM represents a unique combination of species, seasonalities, concentrations, and source information.  For each of these groupings, a number is generated.  That number is concatenated with the atlas number to create a &quot;resource at risk&quot; number that is unique across atlases.  BIORES and the other relational data tables are described below in detail.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the way these tables relate to the geographic data layers and other attribute tables in the ESI data structure.
+
+Due to the complexity of the relational database model, the data items are also post-processed into a flat file format.  This table, called BIOFILE, may be used in place of the relational files described below to ease simple data queries.  The items in the flat file are ELEMENT, SUBELEMENT, NAME, GEN_SPEC, S, F, NHP, DATE_PUB, CONC, JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC, BREED1, BREED2, BREED3, BREED4, BREED5, RARNUM, G_SOURCE, S_SOURCE, and BREED.  All of these items are the same as their counterparts in the individual data tables described below, except the BREED1-BREED5 and BREED items. BREED is a newly generated variable used to link to the BREED_DT data table, a modified, more compact version of the relational BREED data table. BREED1-BREED5 give a text summary of when each life stage occurs within the associated map object.  The life stages referred to are the same as those listed in the Detailed_Description of the BREED data table.  The link to the BIOFILE may be made through the BIO_LUT, using ID to link to RARNUM, or BIOFILE may be linked directly to the RARNUM in each of the geographic layer&apos;s attribute data tables.  As mentioned, BREED_DT is an auxiliary support data table to the flat file structure, which allows the user to do searches based on month for seasonal breeding activities.  The link from the flat file to BREED_DT is the BREED item.
+
+A second supporting data table is SOURCES.  This is the same as the source file described above, and the link from the flat file is both G_SOURCE and S_SOURCE.  It should be noted that although the flat file eases data query, it is not a normalized database structure, and actual updates performed by the states and other responsible agencies should be done using the relational data tables.  The entity-relationship diagram, describing relationships between attribute tables in the ESI data structure, does NOT include the BIOFILE data table, and this data table is NOT described in detail below.
+</eaover>
+</overview>
+<detailed>
+<enttyp>
+<enttypl>NESTS.PAT</enttypl>
+<enttypd>The NESTS.PAT table contains attribute information for the vector points in this data set representing bird nesting locations.  Note that all attribute information is stored in a series of relational files, described below.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the relationships between attribute tables in the ESI data structure.</enttypd>
+<enttypds>Research Planning, Inc.</enttypds>
+</enttyp>
+<attr>
+<attrlabl>ID</attrlabl>
+<attrdef>An identifier that links vector objects in the biology data layers to records in the BIO_LUT data table.  ID is a concatenation of atlas number (55), element number (5), and record number.</attrdef>
+<attrdefs>NOAA</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>550500001</rdommin>
+<rdommax>550500633</rdommax>
+</rdom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>RARNUM</attrlabl>
+<attrdef>An identifier that links directly to the BIORES table or the flat format BIOFILE table.</attrdef>
+<attrdefs>NOAA</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>55000004</rdommin>
+<rdommax>55000432</rdommax>
+</rdom>
+</attrdomv>
+</attr>
+</detailed>
+<detailed>
+<enttyp>
+<enttypl>BIO_LUT</enttypl>
+<enttypd>The data table BIO_LUT is a lookup table that contains items necessary for linking vector objects in the biological data layers with the BIORES data table.  Note that all attribute information is stored in a series of relational files, described below.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the way this table relates to other attribute tables in the ESI data structure.</enttypd>
+<enttypds>Research Planning, Inc.</enttypds>
+</enttyp>
+<attr>
+<attrlabl>RARNUM</attrlabl>
+<attrdef>An identifier that links records in the BIO_LUT data table to records in the BIORES data table or the flat format BIOFILE data table.  RARNUM values of 0 are holes in polygons and do not contain information.</attrdef>
+<attrdefs>NOAA</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>55000001</rdommin>
+<rdommax>55000847</rdommax>
+</rdom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>ID</attrlabl>
+<attrdef>An identifier that links vector objects in the biology data layers to records in the BIO_LUT data table.  ID is a concatenation of atlas number (55), element number (5), and record number. ID values of 9999 are holes in polygons and do not contain information.</attrdef>
+<attrdefs>NOAA</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>550100002</rdommin>
+<rdommax>553600012</rdommax>
+</rdom>
+</attrdomv>
+</attr>
+</detailed>
+<detailed>
+<enttyp>
+<enttypl>BIORES</enttypl>
+<enttypd>The data table BIORES contains both biological attribute data and items necessary for linking vector objects in the biological data layers via the BIO_LUT data table to other associated data tables.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the way this table relates to other attribute tables in the ESI data structure.</enttypd>
+<enttypds>Research Planning, Inc.</enttypds>
+</enttyp>
+<attr>
+<attrlabl>RARNUM</attrlabl>
+<attrdef>An identifier that links records in the BIORES data table to records in the BIO_LUT data table or the flat format BIOFILE data table.</attrdef>
+<attrdefs>NOAA</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>055000001</rdommin>
+<rdommax>055000847</rdommax>
+</rdom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>SPECIES_ID</attrlabl>
+<attrdef>Numeric identifier for each species that is unique within each element and refers to a nationwide master ESI species list maintained at NOAA.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>1</rdommin>
+<rdommax>N</rdommax>
+</rdom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>CONC</attrlabl>
+<attrdef>The field CONC refers to &quot;concentration,&quot; abundance, or density values and may contain counts of individuals or nests for each species present at a particular site (e.g., XX ADULTS or XX NESTS). In cases where no quantitative data were available, the field may contain a descriptive term such as &quot;HIGH&quot;. If no concentration information was available from any source, the field is populated with &quot;-&quot;. Counts were derived from multiple surveys and conversations with resource experts and may range in date from 1998-2004.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<udom>Acceptable values change from atlas to atlas.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>SEASON_ID</attrlabl>
+<attrdef>Numeric identifier for the unique monthly presence and life history characteristics of each species at a given location.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>1</rdommin>
+<rdommax>N</rdommax>
+</rdom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>G_SOURCE</attrlabl>
+<attrdef>Geographic source identifier that links records in the BIORES data table to records in the SOURCES data table.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>1</rdommin>
+<rdommax>N</rdommax>
+</rdom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>S_SOURCE</attrlabl>
+<attrdef>Seasonality source identifier that links records in the BIORES data table to records in the SOURCES data table.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>1</rdommin>
+<rdommax>N</rdommax>
+</rdom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>ELEMENT</attrlabl>
+<attrdef>Major categories of biological data.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>BIRD</edomv>
+<edomvd>Birds</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>FISH</edomv>
+<edomvd>Fish</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>HABITAT</edomv>
+<edomvd>Habitats and Plants</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>INVERT</edomv>
+<edomvd>Invertebrates</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>M_MAMMAL</edomv>
+<edomvd>Marine Mammals</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>REPTILE</edomv>
+<edomvd>Reptiles and Amphibians</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>T_MAMMAL</edomv>
+<edomvd>Terrestrial Mammals</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>EL_SPE</attrlabl>
+<attrdef>Concatenation of ELEMENT and SPECIES_ID.  This item links records in the BIORES data table to records in the SPECIES and STATUS data tables.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>E#####</edomv>
+<edomvd>Where E is the first character of ELEMENT and the next five characters are SPECIES_ID (e.g. ELEMENT = &apos;BIRD&apos; and SPECIES_ID = 1; EL_SPE = &apos;B00001&apos;).</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>EL_SPE_SEA</attrlabl>
+<attrdef>Concatenation of ELEMENT, SPECIES_ID, and SEASON_ID. This item links records in the BIORES data table to records in the SEASONAL and BREED data tables.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>E#######</edomv>
+<edomvd>Where E is the first character of ELEMENT, the next five characters are SPECIES_ID, and the last two characters are SEASON_ID (e.g. ELEMENT = &apos;BIRD&apos;, SPECIES_ID = 1 and SEASON_ID = 1; EL_SPE_SEA = &apos;B0000101&apos;).</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+</detailed>
+<detailed>
+<enttyp>
+<enttypl>SPECIES</enttypl>
+<enttypd>The data table SPECIES identifies all species in the ESI data set.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the way this table relates to other attribute tables in the ESI data structure.  Refer to the Completeness_Report for a list of layer-specific species.</enttypd>
+<enttypds>Research Planning, Inc.</enttypds>
+</enttyp>
+<attr>
+<attrlabl>SPECIES_ID</attrlabl>
+<attrdef>Numeric identifier for each species that is unique within each element and refers to a nationwide master ESI species list maintained at NOAA.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>1</rdommin>
+<rdommax>N</rdommax>
+</rdom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>NAME</attrlabl>
+<attrdef>Species common name for the entire ESI data set.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<udom>Acceptable values change from atlas to atlas.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>GEN_SPEC</attrlabl>
+<attrdef>Species scientific name for the entire ESI data set.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<udom>Acceptable values change from atlas to atlas.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>ELEMENT</attrlabl>
+<attrdef>Major categories of biological data.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>BIRD</edomv>
+<edomvd>Birds</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>FISH</edomv>
+<edomvd>Fish</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>HABITAT</edomv>
+<edomvd>Habitats and Plants</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>INVERT</edomv>
+<edomvd>Invertebrates</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>M_MAMMAL</edomv>
+<edomvd>Marine Mammals</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>REPTILE</edomv>
+<edomvd>Reptiles and Amphibians</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>T_MAMMAL</edomv>
+<edomvd>Terrestrial Mammals</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>SUBELEMENT</attrlabl>
+<attrdef>Element subgroup delineating a logical grouping of species.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>bivalve</edomv>
+<edomvd>Bivalve</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>crab</edomv>
+<edomvd>Crab</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>diadromous</edomv>
+<edomvd>Diadromous fish</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>diving</edomv>
+<edomvd>Diving bird</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>dolphin</edomv>
+<edomvd>Dolphin</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>e_nursery</edomv>
+<edomvd>Estuarine nursery fish</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>e_resident</edomv>
+<edomvd>Estuarine resident</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>freshwater</edomv>
+<edomvd>Freshwater fish</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>gastropod</edomv>
+<edomvd>Gastropod</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>gull_tern</edomv>
+<edomvd>Gull or tern</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>insect</edomv>
+<edomvd>Insect</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>m_benthic</edomv>
+<edomvd>Marine benthic fish</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>m_pelagic</edomv>
+<edomvd>Marine pelagic fish</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>passerine</edomv>
+<edomvd>Passerine bird</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>pelagic</edomv>
+<edomvd>Pelagic bird</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>pinniped</edomv>
+<edomvd>Pinniped</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>plant</edomv>
+<edomvd>Plant</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>raptor</edomv>
+<edomvd>Raptor</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>sav</edomv>
+<edomvd>Submerged aquatic vegetation</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>shorebird</edomv>
+<edomvd>Shorebird</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>sm_mammal</edomv>
+<edomvd>Small mammal</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>turtle</edomv>
+<edomvd>Turtle</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>upland</edomv>
+<edomvd>Upland habitat</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>wading</edomv>
+<edomvd>Wading bird</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>waterfowl</edomv>
+<edomvd>Waterfowl</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>wetland</edomv>
+<edomvd>Wetland</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>whale</edomv>
+<edomvd>Whale</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>NHP</attrlabl>
+<attrdef>Natural Heritage Program global ranking.</attrdef>
+<attrdefs>Network of Natural Heritage Program</attrdefs>
+<attrdomv>
+<codesetd>
+<codesetn>NHP Global Conservation Status Rank</codesetn>
+<codesets>Natural Heritage Program</codesets>
+</codesetd>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>DATE_PUB</attrlabl>
+<attrdef>Date of NHP listing.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>YYYYMM</edomv>
+<edomvd>YYYY for year and optionally MM for month</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Date unspecified</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>EL_SPE</attrlabl>
+<attrdef>Concatenation of ELEMENT and SPECIES_ID.  This item links records in the SPECIES data table to records in the BIORES and STATUS data tables.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>E#####</edomv>
+<edomvd>Where E is the first character of ELEMENT and the next five characters are SPECIES_ID (e.g. ELEMENT = &apos;BIRD&apos; and SPECIES_ID = 1; EL_SPE = &apos;B00001&apos;).</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+</detailed>
+<detailed>
+<enttyp>
+<enttypl>SEASONAL</enttypl>
+<enttypd>The data table SEASONAL contains information on the seasonal presence of each species associated with each spatial vector object.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the way this table relates to other attribute tables in the ESI data structure.</enttypd>
+<enttypds>Research Planning, Inc.</enttypds>
+</enttyp>
+<attr>
+<attrlabl>ELEMENT</attrlabl>
+<attrdef>Major categories of biological data.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>BIRD</edomv>
+<edomvd>Birds</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>FISH</edomv>
+<edomvd>Fish</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>HABITAT</edomv>
+<edomvd>Habitats and Plants</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>INVERT</edomv>
+<edomvd>Invertebrates</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>M_MAMMAL</edomv>
+<edomvd>Marine Mammals</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>REPTILE</edomv>
+<edomvd>Reptiles and Amphibians</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>T_MAMMAL</edomv>
+<edomvd>Terrestrial Mammals</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>SPECIES_ID</attrlabl>
+<attrdef>Numeric identifier for each species that is unique within each element and refers to a nationwide ESI species list maintained at NOAA.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>1</rdommin>
+<rdommax>N</rdommax>
+</rdom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>SEASON_ID</attrlabl>
+<attrdef>Numeric identifier for the unique monthly presence and life history characteristics of each species at a given location.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>1</rdommin>
+<rdommax>N</rdommax>
+</rdom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>JAN</attrlabl>
+<attrdef>January</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>X</edomv>
+<edomvd>Present in January</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>FEB</attrlabl>
+<attrdef>February</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>X</edomv>
+<edomvd>Present in February</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>MAR</attrlabl>
+<attrdef>March</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>X</edomv>
+<edomvd>Present in March</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>APR</attrlabl>
+<attrdef>April</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>X</edomv>
+<edomvd>Present in April</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>MAY</attrlabl>
+<attrdef>May</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>X</edomv>
+<edomvd>Present in May</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>JUN</attrlabl>
+<attrdef>June</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>X</edomv>
+<edomvd>Present in June</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>JUL</attrlabl>
+<attrdef>July</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>X</edomv>
+<edomvd>Present in July</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>AUG</attrlabl>
+<attrdef>August</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>X</edomv>
+<edomvd>Present in August</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>SEP</attrlabl>
+<attrdef>September</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>X</edomv>
+<edomvd>Present in September</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>OCT</attrlabl>
+<attrdef>October</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>X</edomv>
+<edomvd>Present in October</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>NOV</attrlabl>
+<attrdef>November</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>X</edomv>
+<edomvd>Present in November</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>DEC</attrlabl>
+<attrdef>December</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>X</edomv>
+<edomvd>Present in December</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>EL_SPE_SEA</attrlabl>
+<attrdef>Concatenation of ELEMENT, SPECIES_ID, and SEASON_ID. This item links records in the SEASONAL data table to records in the BIORES and BREED data tables.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>E#######</edomv>
+<edomvd>Where E is the first character of ELEMENT, the next five characters are SPECIES_ID, and the last two characters are SEASON_ID (e.g. ELEMENT = &apos;BIRD&apos;, SPECIES_ID = 1 and SEASON_ID = 1; EL_SPE_SEA = &apos;B0000101&apos;).</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+</detailed>
+<detailed>
+<enttyp>
+<enttypl>BREED</enttypl>
+<enttypd>The data table BREED identifies the monthly presence of certain life-history stages or activities for each species at a given location.</enttypd>
+<enttypds>Research Planning, Inc.</enttypds>
+</enttyp>
+<attr>
+<attrlabl>EL_SPE_SEA</attrlabl>
+<attrdef>Concatenation of ELEMENT, SPECIES_ID, and SEASON_ID.  This item links records in the BREED data table to records in the BIORES and SEASONAL data tables.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>E#######</edomv>
+<edomvd>Where E is the first character of ELEMENT, the next five characters are SPECIES_ID, and the last two characters are SEASON_ID (e.g. ELEMENT = &apos;BIRD&apos;, SPECIES_ID = 1 and SEASON_ID = 1; EL_SPE_SEA = &apos;B0000101&apos;).</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>MONTH</attrlabl>
+<attrdef>Two-digit calendar month.  Each life history stage or activity type for a particular species can have up to 12 records to account for each month of the year.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>1</rdommin>
+<rdommax>12</rdommax>
+</rdom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>BREED1</attrlabl>
+<attrdef>Life history stage or activity type, where: if ELEMENT is &quot;BIRD&quot; then BREED1 = nesting; if ELEMENT is &quot;FISH&quot; then BREED1 = spawning; if ELEMENT is &quot;INVERT&quot; then BREED1 = spawning; if ELEMENT is &quot;REPTILE&quot; then BREED1 = nesting; if ELEMENT is &quot;M_MAMMAL&quot; then BREED1 = mating.  This attribute is not used for HABITAT or T_MAMMAL elements.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>Y</edomv>
+<edomvd>Life-history stage or activity present</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>N</edomv>
+<edomvd>Life-history stage or activity not present or not reported</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-</edomv>
+<edomvd>Breed category not used or not appropriate for record(s) in question</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>BREED2</attrlabl>
+<attrdef>Life history stage or activity type, where: if ELEMENT is &quot;BIRD&quot; then BREED2 = migrating; if ELEMENT is &quot;FISH&quot; then BREED2 = eggs; if ELEMENT is &quot;INVERT&quot; then BREED2 = eggs; if ELEMENT is &quot;REPTILE&quot; then BREED2 = hatching; if ELEMENT is &quot;M_MAMMAL&quot; then BREED2 = calving.  This attribute is not used for HABITAT or T_MAMMAL elements.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>Y</edomv>
+<edomvd>Life-history stage or activity present</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>N</edomv>
+<edomvd>Life-history stage or activity not present or not reported</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-</edomv>
+<edomvd>Breed category not used or not appropriate for record(s) in question</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>BREED3</attrlabl>
+<attrdef>Life history stage or activity type, where: if ELEMENT is &quot;BIRD&quot; then BREED3 = molting; if ELEMENT is &quot;FISH&quot; then BREED3 = larvae; if ELEMENT is &quot;INVERT&quot; then BREED3 = larvae; if ELEMENT is &quot;REPTILE&quot; then BREED3 = internesting; if ELEMENT is &quot;M_MAMMAL&quot; then BREED3 = pupping.  This attribute is not used for HABITAT or T_MAMMAL elements.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>Y</edomv>
+<edomvd>Life-history stage or activity present</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>N</edomv>
+<edomvd>Life-history stage or activity not present or not reported</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-</edomv>
+<edomvd>Breed category not used or not appropriate for record(s) in question</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>BREED4</attrlabl>
+<attrdef>Life history stage or activity type, where: if ELEMENT is &quot;FISH&quot; then BREED4 = juveniles; if ELEMENT is &quot;INVERT&quot; then BREED4 = juveniles; if ELEMENT is &quot;REPTILE&quot; then BREED4 = juveniles; if ELEMENT is &quot;M_MAMMAL&quot; then BREED4 = molting.  This attribute is not used for BIRD, HABITAT, or T_MAMMAL elements.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>Y</edomv>
+<edomvd>Life-history stage or activity present</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>N</edomv>
+<edomvd>Life-history stage or activity not present or not reported</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-</edomv>
+<edomvd>Breed category not used or not appropriate for record(s) in question</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>BREED5</attrlabl>
+<attrdef>Life history stage or activity type, where: if ELEMENT is &quot;FISH&quot; then BREED5 = adults; if ELEMENT is &quot;INVERT&quot; then BREED5 = adults; if ELEMENT is &quot;REPTILE&quot; then BREED5 = adults.  This attribute is not used for BIRD, M_MAMMAL, HABITAT, or T_MAMMAL elements.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>Y</edomv>
+<edomvd>Life-history stage or activity present</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>N</edomv>
+<edomvd>Life-history stage or activity not present or not reported</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-</edomv>
+<edomvd>Breed category not used or not appropriate for record(s) in question</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+</detailed>
+<detailed>
+<enttyp>
+<enttypl>SOURCES</enttypl>
+<enttypd>The data table SOURCES contains the primary sources used to create the ESI data set.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the way this table relates to other attribute tables in the ESI data structure.</enttypd>
+<enttypds>Research Planning, Inc.</enttypds>
+</enttyp>
+<attr>
+<attrlabl>SOURCE_ID</attrlabl>
+<attrdef>Source identifier that links records in the SOURCES data table to the items G_SOURCE and A_SOURCE in the SOC_DAT table; G_SOURCE and S_SOURCE in the BIORES table; and SOURCE_ID in the ESI and HYDRO data layers.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>1</rdommin>
+<rdommax>N</rdommax>
+</rdom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>ORIGINATOR</attrlabl>
+<attrdef>Author or developer of source material or data set.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<udom>Acceptable values change from atlas to atlas.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>DATE_PUB</attrlabl>
+<attrdef>Date of source material, publication, or date of personal communication with expert source.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>YYYYMM</edomv>
+<edomvd>YYYY for year and optionally MM for month.</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>TITLE</attrlabl>
+<attrdef>Title of source material or data.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<udom>Acceptable values change from atlas to atlas.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>DATA_FORMAT</attrlabl>
+<attrdef>The format of the source material.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<udom>Acceptable values change from atlas to atlas.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>PUBLICATION</attrlabl>
+<attrdef>Additional citation information.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<udom>Acceptable values change from atlas to atlas.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>SCALE</attrlabl>
+<attrdef>Description of the source scale.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<udom>Acceptable values change from atlas to atlas.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>TIME_PERIOD</attrlabl>
+<attrdef>Date(s) of data collection that the source material is based upon.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<udom>Acceptable values change from atlas to atlas.</udom>
+</attrdomv>
+</attr>
+</detailed>
+<detailed>
+<enttyp>
+<enttypl>STATUS</enttypl>
+<enttypd>The data table STATUS identifies the species that are listed as either threatened or endangered by a state, federal, or international authority.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the way this table relates to other attribute tables in the ESI data structure.</enttypd>
+<enttypds>Research Planning, Inc.</enttypds>
+</enttyp>
+<attr>
+<attrlabl>ELEMENT</attrlabl>
+<attrdef>Major categories of biological data.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>BIRD</edomv>
+<edomvd>Birds</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>FISH</edomv>
+<edomvd>Fish</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>HABITAT</edomv>
+<edomvd>Habitats and Plants</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>INVERT</edomv>
+<edomvd>Invertebrates</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>M_MAMMAL</edomv>
+<edomvd>Marine Mammals</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>REPTILE</edomv>
+<edomvd>Reptiles and Amphibians</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>T_MAMMAL</edomv>
+<edomvd>Terrestrial Mammals</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>SPECIES_ID</attrlabl>
+<attrdef>Numeric identifier for each species that is unique within each element and refers to a nationwide master ESI species list maintained at NOAA.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>1</rdommin>
+<rdommax>N</rdommax>
+</rdom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>STATE</attrlabl>
+<attrdef>Two-letter state abbreviation.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<udom>Acceptable values change from atlas to atlas.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>COUNTRY</attrlabl>
+<attrdef>Three-letter country abbreviation.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<udom>Acceptable values change from atlas to atlas.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>S</attrlabl>
+<attrdef>State threatened or endangered status.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>E</edomv>
+<edomvd>Endangered on state list</edomvd>
+<edomvds>NOAA ESI Guidelines</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>T</edomv>
+<edomvd>Threatened on state list</edomvd>
+<edomvds>NOAA ESI Guidelines</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>C</edomv>
+<edomvd>Species of Special Concern</edomvd>
+<edomvds>NOAA ESI Guidelines</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>F</attrlabl>
+<attrdef>Federal threatened or endangered status.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>E</edomv>
+<edomvd>Endangered on federal list</edomvd>
+<edomvds>NOAA ESI Guidelines</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>T</edomv>
+<edomvd>Threatened on federal list</edomvd>
+<edomvds>NOAA ESI Guidelines</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>C</edomv>
+<edomvd>Species of Special Concern</edomvd>
+<edomvds>NOAA ESI Guidelines</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>I</attrlabl>
+<attrdef>International threatened or endangered status.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>E</edomv>
+<edomvd>Endangered on international list</edomvd>
+<edomvds>NOAA ESI Guidelines</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>T</edomv>
+<edomvd>Threatened on international list</edomvd>
+<edomvds>NOAA ESI Guidelines</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>C</edomv>
+<edomvd>Species of Special Concern</edomvd>
+<edomvds>NOAA ESI Guidelines</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>S_DATE</attrlabl>
+<attrdef>Publication date of source material used to assign state status values for each species, if used.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>YYYYMM</edomv>
+<edomvd>YYYY for year and optionally MM for month</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>F_DATE</attrlabl>
+<attrdef>Publication date of source material used to assign federal status values for each species, if used.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>YYYYMM</edomv>
+<edomvd>YYYY for year and optionally MM for month</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>I_DATE</attrlabl>
+<attrdef>Publication date of source material used to assign international status values for each species, if used.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>YYYYMM</edomv>
+<edomvd>YYYY for year and optionally MM for month</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>EL_SPE</attrlabl>
+<attrdef>Concatenation of ELEMENT and SPECIES_ID.  This item links the STATUS data table to the BIORES and SPECIES data tables.</attrdef>
+<attrdefs>Research Planning, Inc.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>E#####</edomv>
+<edomvd>Where E is the first character of ELEMENT and the next five characters are SPECIES_ID (e.g. ELEMENT = &apos;BIRD&apos; and SPECIES_ID = 1; EL_SPE = &apos;B00001&apos;).</edomvd>
+<edomvds>Research Planning, Inc.</edomvds>
+</edom>
+</attrdomv>
+</attr>
+</detailed>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntperp>
+<cntper>John Kaperick</cntper>
+<cntorg>NOAA, Office of Response and Restoration</cntorg>
+</cntperp>
+<cntaddr>
+<addrtype>Physical Address</addrtype>
+<address>7600 Sand Point Way N.E.</address>
+<city>Seattle</city>
+<state>Washington</state>
+<postal>98115-6349</postal>
+</cntaddr>
+<cntvoice>(206) 526-6400</cntvoice>
+<cntfax>(206) 526-6329</cntfax>
+</cntinfo>
+</distrib>
+<resdesc>ESI Atlas for Virginia</resdesc>
+<distliab>Although these data have been processed successfully on a computer system at the National Oceanic and Atmospheric Administration, no warranty, expressed or implied, is made by NOAA regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty.  NOAA warrants the delivery of this product in computer-readable format, and will offer a replacement copy of the product when the product is determined unreadable by computer-input peripherals, or when the physical medium is delivered in damaged condition.</distliab>
+<custom>Contact NOAA for distribution options (see Distributor).  ESI data are processed into multiple formats to make them useful to a wider community of GIS/mapping users.  Distribution formats include ARC export, MOSS and Shape files, and MARPLOT map folders.  An ArcView ESI project and ESI_Viewer product are also included on the distribution CDs for ease of use of the ESI data.  The database files are distributed both in the NOAA standard relational database format (see NOAA Technical Memorandum NOS ORCA 115) and in a simplified desktop flat file format.  This metadata document includes information on both of these database formats.</custom>
+</distinfo>
+<metainfo>
+<metd>200512</metd>
+<metrd>200512</metrd>
+<metc>
+<cntinfo>
+<cntperp>
+<cntper>Jill Petersen</cntper>
+<cntorg>NOAA, Office of Response and Restoration</cntorg>
+</cntperp>
+<cntpos>GIS Manager</cntpos>
+<cntaddr>
+<addrtype>Physical Address</addrtype>
+<address>7600 Sand Point Way N.E.</address>
+<city>Seattle</city>
+<state>Washington</state>
+<postal>98115-6349</postal>
+</cntaddr>
+<cntvoice>(206) 526-6944</cntvoice>
+<cntfax>(206) 526-6329</cntfax>
+<cntemail>Jill.Petersen@noaa.gov</cntemail>
+</cntinfo>
+</metc>
+<metstdn>Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+</metainfo>
+</metadata>
