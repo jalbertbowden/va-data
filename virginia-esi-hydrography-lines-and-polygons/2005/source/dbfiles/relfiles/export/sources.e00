@@ -1,0 +1,383 @@
+EXP  0 C:\VIRGINIA\GEOG\GEO\DBFILES\RELFILES\EXPORT\SOURCES.E00                 
+IFO  2
+SOURCES                              8   8 374        74
+SOURCE_ID         6-1   14-1   6-1 30-1  -1  -1-1                   1-
+ORIGINATOR       35-1   74-1  35-1 20-1  -1  -1-1                   2-
+DATE_PUB         10-1  424-1  10-1 30-1  -1  -1-1                   3-
+TITLE            80-1  524-1  80-1 20-1  -1  -1-1                   4-
+DATA_FORMAT      80-1 1324-1  80-1 20-1  -1  -1-1                   5-
+PUBLICATION     120-1 2124-1 120-1 20-1  -1  -1-1                   6-
+SCALE            20-1 3324-1  20-1 20-1  -1  -1-1                   7-
+TIME_PERIOD      22-1 3524-1  22-1 20-1  -1  -1-1                   8-
+     1VGIN                                     20021 METER HYDROGRAPHY EXTRACTED
+ FROM DTMS                                         DIGITAL VECTOR DATA
+                                                   VIRGINIA GEOGRAPHIC INFORMATI
+ON NETWORK, RICHMOND, VA 23219
+           1 METER RESOLUTION  2002
+     2RESEARCH PLANNING INC                    2004RPI- LOW ALTITUDE OVERFLIGHTS
+                                                   HARDCOPY MAP
+                                                   2004
+
+           24000               2004
+     5US GEOLOGICAL SURVEY                        0SCANNED TOPOGRAPHIC QUADRANGL
+ES                                                 HARDCOPY MAP
+                                                   DENVER, CO OR RESTON, VA
+
+           1:24,000            VARIES
+     7RESEARCH PLANNING INC                    2004STUDY AREA INDEX
+                                                   DIGITAL VECTOR DATA
+                                                   UNPUBLISHED
+
+           24000               2004
+     9US GEOLOGICAL SURVEY                     1998'DOQQ''S FOR VA DOWNLOADED FR
+OM THE UVA GEOSPATIAL AND STATISTICAL DATA CENTER' DIGITAL RASTER DATA
+                                                   HTTP://FISHER.LIB.VIRGINIA.ED
+U/COLLECTIONS/GIS/DOQ/GO_TO_HTML.HTML
+           1 METER RESOLUTION  1998
+    10US GEOLOGICAL SURVEY                        0DIGITAL RASTER GRAPHICS FOR V
+A                                                  DIGITAL RASTER DATA
+                                                   DENVER, CO OR RESTON, VA
+
+           1:24,000            VARIES
+    11NOAA                                     1996NORTH CAROLINA ENVIRONMENTAL
+SENSITIVITY INDEX DIGITAL DATA                     DIGITAL VECTOR DATA
+                                                   NOAA OFFICE OF RESPONSE AND R
+ESTORATION, SEATTLE, WA 98115
+           1:24,000            1996
+    12MARYLAND DNR                             2003RECENT (1988-1995) MARYLAND S
+HORELINES WITH EROSION RATE ATTRIBUTES             DIGITAL VECTOR DATA
+                                                   MARYLAND DNR, CHESAPEAKE BAY
+AND WATERSHED PROGRAM, MARYLAND GEOLOGICAL SURVEY HTTP://WWW.MGS.MD.GOV
+           1 METER RESOLUTION  1988 - 1995
+    21VA DEPT. OF GAME & INLAND FISHERIES      2003VIRGINIA PLOVER SURVEY 2001-2
+003                                                DIGITAL TABLE
+                                                   UNPUBLISHED
+
+           N/A                 2001 - 2003
+    22VA DEPT. OF GAME & INLAND FISHERIES      2003COASTAL PEREGRINE FALCON COOR
+DINATES                                            DIGITAL TABLE
+                                                   UNPUBLISHED
+
+           N/A                 1977 - 2003
+    23GALLEGOS, J. (USFWS, VA BEACH)           2004BACK BAY NATIONAL WILDLIFE RE
+FUGE SPECIES DISTRIBUTION                          EXPERT KNOWLEDGE
+                                                   UNPUBLISHED
+
+           N/A                 2004
+    24USFWS, VIRGINIA BEACH, VA                2003BIRDS: BACK BAY NATIONAL WILD
+LIFE REFUGE                                        HARDCOPY TEXT
+                                                   DEPARTMENT OF THE INTERIOR, U
+.S. FISH AND WILDLIFE SERVICE, BROCHURE
+           N/A                 2003
+    25USFWS, VIRGINIA BEACH, VA                2004BACK BAY NWR OSPREY NEST LOCA
+TIONS                                              HARDCOPY TEXT
+                                                   UNPUBLISHED
+
+           N/A                 2004
+    26FORSELL, D.J.                            2004DRAFT SPECIAL REPORT ON THE D
+IST. & ABUNDANCE OF WINTERING SEADUCKS & WATERBIRDSHARDCOPY MAP
+                                                   U.S. FWS, CHESAPEAKE BAY FIEL
+D OFFICE, ANNAPOLIS, MD. 10 PP.
+           N/A                 2001 - 2003
+    27COSTANZO, G. & BIDROWSKI, T. (DGIF)      2004WATERFOWL DISTRIBUTION AND SE
+ASONALITY                                          EXPERT KNOWLEDGE
+                                                   UNPUBLISHED
+
+           N/A                 2004
+    28USFWS, MIGRATORY BIRD MANAGEMENT         2004MID-WINTER WATERFOWL SURVEY:
+2001-2003                                          DIGITAL VECTOR DATA
+                                                   HTTP://BIRDDATA.FWS.GOV/DATAB
+ASES/MWI/MWIDB.HTML
+           N/A                 2001 - 2003
+    29TRUITT, B., R. BOETTCHER, A. WILKE       20042003 WINTER AMERICAN OYSTERCA
+TCHER ROOST SURVEY: SEASIDE-EASTERN SHORE-NOV.12-18DIGITAL TABLE
+                                                   UNPUBLISHED
+
+           N/A                 2003
+    30DENMON, P. (USFWS, CAPE CHARLES)         2004SPECIES DISTRIBUTION AT FISHE
+RMANS ISLAND NWR                                   EXPERT KNOWLEDGE
+                                                   UNPUBLISHED
+
+           N/A                 2004
+    31USFWS, CAPE CHARLES, VA                  1992BIRDS: EASTERN SHORE OF VIRGI
+NIA AND FISHERMAN ISLAND NATIONAL WILDLIFE REFUGES HARDCOPY TEXT
+                                                   DEPARTMENT OF THE INTERIOR, U
+.S. FISH AND WILDLIFE SERVICE, BROCHURE
+           N/A                 1992
+    32WILKE, A. (WILLIAM & MARY CCB)           2004AMERICAN OYSTERCATCHER SEASON
+ALITY                                              EXPERT KNOWLEDGE
+                                                   UNPUBLISHED
+
+           N/A                 2004
+    33MANOMET CENTER                           2004BARRIER ISLANDS WHSRN SITE DE
+SCRIPTION                                          HARDCOPY TEXT
+                                                   HTTP://WWW.MANOMET.ORG/WHSRN/
+VIEWSITE.PHP?ID=23
+           N/A                 2004
+    34BOETTCHER, R. (VA DGIF, PAINTER)         2004DISTRIBUTION OF WILDLIFE ALON
+G THE EASTERN SHORE                                EXPERT KNOWLEDGE
+                                                   UNPUBLISHED
+
+           N/A                 2004
+    35EASTERN VA RIVERS NWR                    2004WILDLIFE AT PLUM TREE ISLAND
+NWR                                                HARDCOPY TEXT
+                                                   UNPUBLISHED
+
+           N/A                 2004
+    36FIELD, D. (VA DCR, WACHAPREAGUE)         2004NATURAL HERITAGE PROGRAM DATA
+                                                   EXPERT KNOWLEDGE
+                                                   UNPUBLISHED
+
+           N/A                 2004
+    37VA DEPT. OF GAME & INLAND FISHERIES      2003BALD EAGLE NESTS ACTIVE IN 20
+03                                                 HARDCOPY MAP
+                                                   UNPUBLISHED
+
+           1:24,000            2003
+    38USFWS, ANNAPOLIS, MD                     1991CHESAPEAKE BAY BALD EAGLE FAC
+T SHEET                                            HARDCOPY TEXT
+                                                   USFWS, APRIL 1991
+
+           N/A                 1991
+    39VA NATURAL HERITAGE PROGRAM              2004WRECK ISLAND BIRD COLONIES 20
+03                                                 HARDCOPY MAP
+                                                   UNPUBLISHED
+
+           1:41,292            2003
+    40TRUITT, B.                               2004SHOREBIRD SEASONALITY
+                                                   EXPERT KNOWLEDGE
+                                                   UNPUBLISHED
+
+           N/A                 2004
+    41VDGIF-FISH & WILDLIFE INFO SERVICES      2000EAGLE CONCENTRATION ZONES - J
+AMES RIVER, RAPPAHANNOCK RIVER                     HARDCOPY MAP
+                                                   VDGIF - FISH & WILDLIFE INFOR
+MATION SERVICES
+           UNKNOWN             2000
+    42MCCAULEY, J. (USFWS, WARSAW, VA)         2004BIRD AND INVERT SEASONALITY A
+ND DISTRIBUTION IN EASTERN VA RIVERS NWR COMPLEX   EXPERT KNOWLEDGE
+                                                   UNPUBLISHED
+
+           N/A                 2004
+    43T. PENN, USFWS, CHINCOTEAGUE ISLAND      2004DISTRIBUTION OF CHINCOTEAGUE
+NATIONAL WILDLIFE REFUGE SPECIES                   EXPERT KNOWLEDGE
+                                                   UNPUBLISHED
+
+           N/A                 2004
+    44COLLEGE OF W&M CCB, VDGIF, TNC           2003ANNUAL AMERICAN OYSTERCATCHER
+ BREEDING SURVEY                                   DIGITAL TABLE
+                                                   UNPUBLISHED
+
+           N/A                 2003
+    45HARAMIS, G.M (USGS,LAUREL, MD)           2004DIAMONDBACK TERRAPIN DISTRIBU
+TION AND SEASONALITY                               HARDCOPY TEXT
+                                                   UNPUBLISHED
+
+           N/A                 2004
+    46USFWS, CHINCOTEAGUE ISLAND, VA           1999USFWS CHINCOTEAGUE NATIONAL W
+ILDLIFE REFUGE BIRDS                               HARDCOPY TEXT
+                                                   USFWS, CHINCOTEAGUE ISLAND, V
+A, 10 PP.
+           N/A                 1999
+    47WITT, J. (WOODBRIDGE, VA)                2004SPECIES DISTRIBUTION AND SEAS
+ONALITY AT THE POTOMAC RIVER NWR COMPLEX           EXPERT KNOWLEDGE
+                                                   UNPUBLISHED
+
+           N/A                 2004
+    48THE NATURE CONSERVANCY                   19981998 SEASIDE LAGOON SURVEY RE
+SULTS                                              DIGITAL VECTOR DATA
+                                                   THE NATURE CONSERVANCY, CHARL
+OTTESVILLE, VA (CONTACT: JOHN PORTER, BARRY TRUITT)
+           N/A                 1998
+    49BRINDZA, L.J.                            2002MONARCH BUTTERFLY MIGRATION P
+ROJECT: A SUMMARY FROM 1998-2001                   HARDCOPY TEXT
+                                                   IN FIELD RESEARCH REPORT 1995
+-2002: COASTAL VIRGINIA WILDLIFE OBSERVATORY, EASTVILLE VA, PP. 92-96.
+           N/A                 1998 - 2001
+    50TNC, COLLEGE OF W&M CCB, VDGIF           2003AMERICAN OYSTERCATCHER WINTER
+ ROOST SURVEYS                                     DIGITAL TABLE
+                                                   UNPUBLISHED
+
+           N/A                 2003
+    51WILKE, A. (COLLEGE OF W&M CCB)           2003'BREEDING SURVEYS, BANDING, &
+ PRODUCTIVITY OF AMOY''S ON THE BARRIER ISLANDS OF DIGITAL MAP
+                                                   UNPUBLISHED
+
+           N/A                 2003
+    52VA INST. OF MARINE SCI. (VIMS)           2003CHESAPEAKE BAY SUBMERGED AQUA
+TIC VEGETATION (SAV) COVERAGE                      DIGITAL VECTOR DATA
+                                                   VIMS, GLOUCESTER POINT, VA
+
+           1:24,000            2002 - 2003
+    54WATTS, B.D. & B.J. PAXTON                2004DIGITAL ATLAS OF COLONIAL WAT
+ERBIRDS IN COASTAL VIRGINIA: 2003 BREEDING SEASON  DIGITAL VECTOR DATA
+                                                   CCBTR-04-05. CENTER FOR CONSE
+RVATION BIOLOGY, COLLEGE OF WILLIAM AND MARY, WILLIAMSBURG, VA.
+           N/A                 2003
+    71VIMS, DEPT OF FISHERIES SCIENCE          2003ESTIMATION OF RELATIVE ABUNDA
+NCE OF RECREATIONALLY IMPORTANT JUVENILE FINFISH.. HARDCOPY TEXT
+                                                   VA MARINE RESOURCES COMMISSIO
+N, GLOUCESTER POINT, VA
+           N/A                 2002 - 2003
+    72HEWITT, M., (VIMS)                       2004DISTRIBUTION AND ABUNDANCE FO
+R JUVENILE FINFISH                                 HARDCOPY TEXT
+                                                   N/A
+
+           N/A                 2004
+    73OLNEY, J., VA INST. MAR. SCI.(VIMS)      2004DISTRIBUTION AND ABUNDANCE DA
+TA FOR ANADROMOUS SPECIES                          EXPERT KNOWLEDGE
+                                                   N/A
+
+           N/A                 2004
+    74BOETTCHER, R., DGIF                      2004VIRGINIA SEA TURTLE NESTING S
+ITES                                               DIGITAL VECTOR DATA
+                                                   N/A
+
+           N/A                 2002 - 2003
+    75MURDY,E.O.,R.S.BIRDSONG, J.A.MUSICK      1997FISHES OF CHESAPEAKE BAY
+                                                   HARDCOPY TEXT
+                                                   SMITHSONIAN INSTITUTION PRESS
+, WASHINGTON, DC
+           N/A                 1997
+    76MUSICK, J., VIMS                         2004DISTRIBUTION OF FISH AND MARI
+NE MAMMALS OF VIRGINIA                             EXPERT KNOWLEDGE
+                                                   N/A
+
+           N/A                 2004
+    77GRUBBS, D.                               2001NURSERY DELINEAT, HABITAT UTI
+LIZ, MVMTS, AND MIGRAT OF JUV CARCHARHINUS PLUMBEUSHARDCOPY TEXT
+                                                   COLLEGE OF WILLIAM AND MARY,
+GLOUCESTER POINT, VA.
+           N/A                 1995 - 2000
+    78VA INST. OF MARINE SCIENCE (VIMS)        2002AQUASITES032802
+                                                   DIGITAL VECTOR DATA
+                                                   VIMS, GLOUCESTER POINT, VA
+
+                               2002
+    79SWINGLE, W.M. AND S. BARCO               2004VMSM STRANDING PROGRAM 2003 G
+RANT REPORT                                        HARDCOPY TEXT
+                                                   VA MARINE SCIENCE MUSEUM, VIR
+GINIA BEACH, VA
+           N/A                 2003
+    80GEER, P.                                 1999JUVENILE FISH AND BLUE CRAB S
+TOCK ASSESSMENT PROGRAM                            HARDCOPY TEXT
+                                                   COLLEGE OF WILLIAM AND MARY,
+GLOUCESTER POINT, VA
+           N/A                 1998
+    81STONE, S.L. ET AL.                       1994DISTRIBUTION AND ABUNDANCE OF
+ FISHES AND INVERTEBRATES IN MID-ATLANTIC ESTUARIESHARDCOPY TEXT
+                                                   NOAA/NOS STRATEGIC ENVIRONMEN
+TAL ASSESSMENTS DIVISION, SILVER SPRING, MD
+           N/A                 1985 - 1994
+    82BONZEK, C., VIMS                         2004FISH DISTRIBUTIONS FOR CHESAP
+EAKE BAY                                           EXPERT KNOWLEDGE
+                                                   N/A
+
+           N/A                 2004
+    83MANSFIELD, K., VIMS                      2004EXPERT KNOWLEDGE OF SEA TURTL
+ES                                                 EXPERT KNOWLEDGE
+                                                   N/A
+
+           N/A                 2004
+    84OESTERLING, M., VIMS                     2004DISTRIBUTION AND ABUNDANCE OF
+ SHELLFISH IN VIRGINIA                             EXPERT KNOWLEDGE
+                                                   N/A
+
+           N/A                 2004
+    85CHESMMAAP TRAWL PROGRAM GROUP            2004CHESAPEAKE BAY MULTISPECIES M
+ODELLING AND ASSESSMENT PROGRAM, 2002 AND 2003     HARDCOPY TEXT
+                                                   N/A
+
+           N/A                 2002 - 2003
+    86HARAMIS, M., USGS                        2004DISTRIBUTION OF HORSESHOE CRA
+B IN CHESAPEAKE BAY                                EXPERT KNOWLEDGE
+                                                   N/A
+
+           N/A                 2004
+    87AUSTIN, H., VIMS                         2004FISH AND HORSESHOE CRAB DATA
+                                                   EXPERT KNOWLEDGE
+                                                   N/A
+
+           N/A                 2004
+    89HATA D., VA TECH                         2004DISTRIBUTION AND ABUNDANCE OF
+ HORSESHOE CRABS                                   EXPERT KNOWLEDGE
+                                                   N/A
+
+           N/A                 2004
+    90HOUDE, E. UNIVERSITY OF MD               2004DISTRIBUTION OF ANADROMOUS FI
+SHES IN THE POTOMAC RIVER                          EXPERT KNOWLEDGE
+                                                   N/A
+
+           N/A                 2004
+    91VA DEPT GAME AND INLAND FISHERIES        2003WILDLIFE MANAGEMENT AREA BOUN
+DARIES                                             DIGITAL VECTOR DATA
+                                                   UNPUBLISHED
+
+           24,000              2003
+    92LENEE HARNER, VADGIF                     2003DGIF_BOAT_RAMP03_1783
+                                                   DIGITAL VECTOR DATA
+                                                   UNPUBLISHED
+
+           N/A                 2002
+    94VA DEPT CONSERVATION AND RECREATION      2001NATIONAL WILDLIFE REFUGES
+                                                   DIGITAL VECTOR DATA
+                                                   VA DEPT OF CONSERVATION AND R
+ECREATION, RICHMOND, VA
+           N/A                 2001
+    96VA DEPT CONSERVATION AND RECREATION      2001STATE FORESTS
+                                                   DIGITAL VECTOR DATA
+                                                   VA DEPT OF CONSERVATION AND R
+ECREATION, RICHMOND, VA
+           N/A                 2001
+    97VA DEPT CONSERVATION AND RECREATION      2001STATE PARKS AND STATE DEDICAT
+ED NATURAL AREA PRESERVES                          DIGITAL VECTOR DATA
+                                                   VA DEPT OF CONSERVATION AND R
+ECREATION, RICHMOND, VA
+           N/A                 2001
+    98VA DEPT CONSERVATION AND RECREATION      2001NATIONAL PARK BOUNDARIES
+                                                   DIGITAL VECTOR DATA
+                                                   VA DEPT OF CONSERVATION AND R
+ECREATION
+           N/A                 2001
+    99UNIVERSITY OF VIRGINIA LIBRARY           2004THE VIRGINIA GAZETTEER
+                                                   DIGITAL TABLE
+                                                   GEOSPATIAL AND STATISTICAL DA
+TA CENTER
+           N/A                 UNKNOWN
+   100UNIVERSITY OF VIRGINIA LIBRARY           2004THE VIRGINIA GAZETTEER
+                                                   DIGITAL TABLE
+                                                   GEOSPATIAL AND STATISTICAL DA
+TA CENTER
+           N/A                 UNKNOWN
+   101MONTANE, M., VIMS                        2004ABUNDANCE AND DISTRIBUTION OF
+ FINFISH AND BLUE CRAB OF VIRGINIA                 EXPERT KNOWLEDGE
+                                                   UNPUBLISHED
+
+           N/A                 2004
+   102HOFFMAN, J., VIMS                        2004DISTRIBUTION OF ANADROMOUS FI
+SH IN VIRGINIA                                     EXPERT KNOWLEDGE
+                                                   UNPUBLISHED
+
+           N/A                 2004
+   103MORGAN,L.W.,J.A.MUSICK, C.W.POTTER       2002TEMPORAL AND GEOG. OCCUR. OF
+CETACEAN STRANDINGS AND MANATEE SIGHTINGS IN VA,   HARDCOPY TEXT
+                                                   JOURNAL OF NORTH CAROLINA ACA
+DEMY OF SCIENCE, VOL 118 (1)
+           N/A                 1983 - 1989
+   104MUSICK,J., B.NORCROSS, AND D. HATA       1999FISH AND FISHERIES OF THE SEA
+SIDE OF THE EASTERN SHORE OF VIRGINIA              HARDCOPY TEXT
+                                                   VIRGINIA INSTITUTE OF MARINE
+SCIENCE, COLLEGE OF WILLIAM AND MARY, VA MARINE RESOURCE REPORT #99-5
+           N/A                 1999
+   105LIPPSON, A.J., ET AL.                    1979ENVIRONMENTAL ATLAS OF THE PO
+TOMAC ESTUARY                                      HARDCOPY TEXT
+                                                   ENVIRONMENTAL CENTER, MARTIN
+MARIETTA CORPORATION, POWER PLANT SITING PROGRAM, MD DEPT OF NATURAL RESOURCES
+           N/A                 1979
+   106DELORME                                  2000VIRGINIA ATLAS AND GAZETTEER
+                                                   HARDCOPY MAP
+                                                   DELORME, P.O. BOX 298, YARMOU
+TH, MAINE, 80 PP.
+           1:150,000           2000
+EOI
+EOS
