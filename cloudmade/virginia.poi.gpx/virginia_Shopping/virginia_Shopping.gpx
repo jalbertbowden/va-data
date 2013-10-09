@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+ version="1.0"
+creator="GPSBabel - http://www.gpsbabel.org"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://www.topografix.com/GPX/1/0"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2011-12-15T22:24:35Z</time>
+<bounds minlat="38.939049600" minlon="-77.329936400" maxlat="38.939049600" maxlon="-77.329936400"/>
+<wpt lat="38.939049600" lon="-77.329936400">
+  <name>Retail:South Lakes Village Center</name>
+  <cmt>Retail:South Lakes Village Center</cmt>
+  <desc>Retail:South Lakes Village Center</desc>
+</wpt>
+</gpx>

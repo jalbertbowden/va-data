@@ -1,0 +1,2805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+ version="1.0"
+creator="GPSBabel - http://www.gpsbabel.org"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://www.topografix.com/GPX/1/0"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2011-12-15T22:24:34Z</time>
+<bounds minlat="36.488745200" minlon="-83.219619500" maxlat="39.476497300" maxlon="-75.380197600"/>
+<wpt lat="36.527866300" lon="-83.219619500">
+  <name>Hospital:Hancock County Hospital (historical)</name>
+  <cmt>Hospital:Hancock County Hospital (historical)</cmt>
+  <desc>Hospital:Hancock County Hospital (historical)</desc>
+</wpt>
+<wpt lat="36.750402300" lon="-83.047742400">
+  <name>Hospital:Lee Regional Medical Center</name>
+  <cmt>Hospital:Lee Regional Medical Center</cmt>
+  <desc>Hospital:Lee Regional Medical Center</desc>
+</wpt>
+<wpt lat="36.761065700" lon="-83.015276100">
+  <name>Pharmacy:Rite-Aide</name>
+  <cmt>Pharmacy:Rite-Aide</cmt>
+  <desc>Pharmacy:Rite-Aide</desc>
+</wpt>
+<wpt lat="36.964180000" lon="-82.950450000">
+  <name>Hospital:Cumberland Community Comprehensive Center</name>
+  <cmt>Hospital:Cumberland Community Comprehensive Center</cmt>
+  <desc>Hospital:Cumberland Community Comprehensive Center</desc>
+</wpt>
+<wpt lat="36.877043100" lon="-82.754336000">
+  <name>Hospital:Wellmont Lonesome Pine Hospital</name>
+  <cmt>Hospital:Wellmont Lonesome Pine Hospital</cmt>
+  <desc>Hospital:Wellmont Lonesome Pine Hospital</desc>
+</wpt>
+<wpt lat="36.932915100" lon="-82.641920500">
+  <name>Hospital:Norton Community Hospital</name>
+  <cmt>Hospital:Norton Community Hospital</cmt>
+  <desc>Hospital:Norton Community Hospital</desc>
+</wpt>
+<wpt lat="36.972601000" lon="-82.585155600">
+  <name>Hospital:Wise County Memorial Hospital</name>
+  <cmt>Hospital:Wise County Memorial Hospital</cmt>
+  <desc>Hospital:Wise County Memorial Hospital</desc>
+</wpt>
+<wpt lat="36.639369100" lon="-82.579102800">
+  <name>Pharmacy:Broadwater&apos;s Pharmacy</name>
+  <cmt>Pharmacy:Broadwater&apos;s Pharmacy</cmt>
+  <desc>Pharmacy:Broadwater&apos;s Pharmacy</desc>
+</wpt>
+<wpt lat="36.554267500" lon="-82.554874000">
+  <name>Hospital:Holston Valley Community Hospital</name>
+  <cmt>Hospital:Holston Valley Community Hospital</cmt>
+  <desc>Hospital:Holston Valley Community Hospital</desc>
+</wpt>
+<wpt lat="36.535934600" lon="-82.532094700">
+  <name>Hospital:Kingsport Health Center</name>
+  <cmt>Hospital:Kingsport Health Center</cmt>
+  <desc>Hospital:Kingsport Health Center</desc>
+</wpt>
+<wpt lat="36.533712500" lon="-82.530428000">
+  <name>Hospital:Palmer Memorial Center for Crippled Children</name>
+  <cmt>Hospital:Palmer Memorial Center for Crippled Children</cmt>
+  <desc>Hospital:Palmer Memorial Center for Crippled Children</desc>
+</wpt>
+<wpt lat="36.550379300" lon="-82.514038700">
+  <name>Hospital:Indian Path Hospital</name>
+  <cmt>Hospital:Indian Path Hospital</cmt>
+  <desc>Hospital:Indian Path Hospital</desc>
+</wpt>
+<wpt lat="37.158400700" lon="-82.447630300">
+  <name>Hospital:Dickenson Community Hospital</name>
+  <cmt>Hospital:Dickenson Community Hospital</cmt>
+  <desc>Hospital:Dickenson Community Hospital</desc>
+</wpt>
+<wpt lat="36.595660500" lon="-82.216245700">
+  <name>Hospital:Bristol Memorial Hospital</name>
+  <cmt>Hospital:Bristol Memorial Hospital</cmt>
+  <desc>Hospital:Bristol Memorial Hospital</desc>
+</wpt>
+<wpt lat="36.595938200" lon="-82.216245700">
+  <name>Hospital:Bristol Memorial Hospital</name>
+  <cmt>Hospital:Bristol Memorial Hospital</cmt>
+  <desc>Hospital:Bristol Memorial Hospital</desc>
+</wpt>
+<wpt lat="36.598994900" lon="-82.185411000">
+  <name>Hospital:Fort Shelby Hospital (historical)</name>
+  <cmt>Hospital:Fort Shelby Hospital (historical)</cmt>
+  <desc>Hospital:Fort Shelby Hospital (historical)</desc>
+</wpt>
+<wpt lat="36.898852600" lon="-82.078010000">
+  <name>Hospital:Russell County Medical Center</name>
+  <cmt>Hospital:Russell County Medical Center</cmt>
+  <desc>Hospital:Russell County Medical Center</desc>
+</wpt>
+<wpt lat="37.285240700" lon="-82.065507400">
+  <name>Hospital:Buchanan General Hospital</name>
+  <cmt>Hospital:Buchanan General Hospital</cmt>
+  <desc>Hospital:Buchanan General Hospital</desc>
+</wpt>
+<wpt lat="36.714709500" lon="-81.971267900">
+  <name>Hospital:Johnston Memorial Hospital</name>
+  <cmt>Hospital:Johnston Memorial Hospital</cmt>
+  <desc>Hospital:Johnston Memorial Hospital</desc>
+</wpt>
+<wpt lat="36.503729000" lon="-81.822894800">
+  <name>Hospital:Johnson County Memorial Hospital (historical)</name>
+  <cmt>Hospital:Johnson County Memorial Hospital (historical)</cmt>
+  <desc>Hospital:Johnson County Memorial Hospital (historical)</desc>
+</wpt>
+<wpt lat="37.094571200" lon="-81.819808800">
+  <name>Hospital:Clinch Valley Medical Center</name>
+  <cmt>Hospital:Clinch Valley Medical Center</cmt>
+  <desc>Hospital:Clinch Valley Medical Center</desc>
+</wpt>
+<wpt lat="37.095113500" lon="-81.797338400">
+  <name>Hospital:Mattie Williams Hospital</name>
+  <cmt>Hospital:Mattie Williams Hospital</cmt>
+  <desc>Hospital:Mattie Williams Hospital</desc>
+</wpt>
+<wpt lat="37.439145900" lon="-81.588127600">
+  <name>Hospital:Welch Emergency Hospital</name>
+  <cmt>Hospital:Welch Emergency Hospital</cmt>
+  <desc>Hospital:Welch Emergency Hospital</desc>
+</wpt>
+<wpt lat="37.431224600" lon="-81.583440200">
+  <name>Hospital:Grace Hospital (historical)</name>
+  <cmt>Hospital:Grace Hospital (historical)</cmt>
+  <desc>Hospital:Grace Hospital (historical)</desc>
+</wpt>
+<wpt lat="37.431780300" lon="-81.568717500">
+  <name>Hospital:Stevens Clinic Hospital (historical)</name>
+  <cmt>Hospital:Stevens Clinic Hospital (historical)</cmt>
+  <desc>Hospital:Stevens Clinic Hospital (historical)</desc>
+</wpt>
+<wpt lat="36.832060400" lon="-81.522614800">
+  <name>Hospital:Marion General Hospital</name>
+  <cmt>Hospital:Marion General Hospital</cmt>
+  <desc>Hospital:Marion General Hospital</desc>
+</wpt>
+<wpt lat="36.833016500" lon="-81.511233700">
+  <name>Hospital:Southwestern Virginia Mental Health Institute</name>
+  <cmt>Hospital:Southwestern Virginia Mental Health Institute</cmt>
+  <desc>Hospital:Southwestern Virginia Mental Health Institute</desc>
+</wpt>
+<wpt lat="36.851241100" lon="-81.508143700">
+  <name>Hospital:Smyth County Community Hospital</name>
+  <cmt>Hospital:Smyth County Community Hospital</cmt>
+  <desc>Hospital:Smyth County Community Hospital</desc>
+</wpt>
+<wpt lat="37.135459000" lon="-81.491430400">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="37.123916800" lon="-81.489189700">
+  <name>Hospital:Tazewell Community Hospital</name>
+  <cmt>Hospital:Tazewell Community Hospital</cmt>
+  <desc>Hospital:Tazewell Community Hospital</desc>
+</wpt>
+<wpt lat="37.256004700" lon="-81.235467900">
+  <name>Hospital:Bluefield Regional Medical Center</name>
+  <cmt>Hospital:Bluefield Regional Medical Center</cmt>
+  <desc>Hospital:Bluefield Regional Medical Center</desc>
+</wpt>
+<wpt lat="37.244284000" lon="-81.230931000">
+  <name>Hospital:Saint Luke&apos;s Hospital</name>
+  <cmt>Hospital:Saint Luke&apos;s Hospital</cmt>
+  <desc>Hospital:Saint Luke&apos;s Hospital</desc>
+</wpt>
+<wpt lat="37.242514000" lon="-81.230848500">
+  <name>Hospital:Saint Luke&apos;s Hospital</name>
+  <cmt>Hospital:Saint Luke&apos;s Hospital</cmt>
+  <desc>Hospital:Saint Luke&apos;s Hospital</desc>
+</wpt>
+<wpt lat="37.267895100" lon="-81.222319500">
+  <name>Hospital:Bluefield Sanitarium (historical)</name>
+  <cmt>Hospital:Bluefield Sanitarium (historical)</cmt>
+  <desc>Hospital:Bluefield Sanitarium (historical)</desc>
+</wpt>
+<wpt lat="37.261784100" lon="-81.220930500">
+  <name>Hospital:Saint Marys Hospital (historical)</name>
+  <cmt>Hospital:Saint Marys Hospital (historical)</cmt>
+  <desc>Hospital:Saint Marys Hospital (historical)</desc>
+</wpt>
+<wpt lat="37.787206500" lon="-81.202329200">
+  <name>Hospital:Raleigh General Hospital</name>
+  <cmt>Hospital:Raleigh General Hospital</cmt>
+  <desc>Hospital:Raleigh General Hospital</desc>
+</wpt>
+<wpt lat="37.787892100" lon="-81.202045200">
+  <name>Hospital:Raleigh County Health Center (historical)</name>
+  <cmt>Hospital:Raleigh County Health Center (historical)</cmt>
+  <desc>Hospital:Raleigh County Health Center (historical)</desc>
+</wpt>
+<wpt lat="37.766781300" lon="-81.201211500">
+  <name>Hospital:Beckley Hospital (historical)</name>
+  <cmt>Hospital:Beckley Hospital (historical)</cmt>
+  <desc>Hospital:Beckley Hospital (historical)</desc>
+</wpt>
+<wpt lat="37.764881400" lon="-81.193089400">
+  <name>Hospital:Beckley Veterans Affairs Medical Center</name>
+  <cmt>Hospital:Beckley Veterans Affairs Medical Center</cmt>
+  <desc>Hospital:Beckley Veterans Affairs Medical Center</desc>
+</wpt>
+<wpt lat="37.772059100" lon="-81.188433400">
+  <name>Hospital:Kings Daughters General Hospital (historical)</name>
+  <cmt>Hospital:Kings Daughters General Hospital (historical)</cmt>
+  <desc>Hospital:Kings Daughters General Hospital (historical)</desc>
+</wpt>
+<wpt lat="37.798909300" lon="-81.168184500">
+  <name>Hospital:Beckley Appalachian Regional Hospital</name>
+  <cmt>Hospital:Beckley Appalachian Regional Hospital</cmt>
+  <desc>Hospital:Beckley Appalachian Regional Hospital</desc>
+</wpt>
+<wpt lat="37.783725900" lon="-81.165377300">
+  <name>Hospital:Pinecrest Hospital</name>
+  <cmt>Hospital:Pinecrest Hospital</cmt>
+  <desc>Hospital:Pinecrest Hospital</desc>
+</wpt>
+<wpt lat="37.972170900" lon="-81.149505300">
+  <name>Hospital:Plateau Medical Center</name>
+  <cmt>Hospital:Plateau Medical Center</cmt>
+  <desc>Hospital:Plateau Medical Center</desc>
+</wpt>
+<wpt lat="37.750599000" lon="-81.136038500">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="36.509573700" lon="-81.114529700">
+  <name>Hospital:Alleghany County Memorial Hospital</name>
+  <cmt>Hospital:Alleghany County Memorial Hospital</cmt>
+  <desc>Hospital:Alleghany County Memorial Hospital</desc>
+</wpt>
+<wpt lat="37.363263200" lon="-81.113479500">
+  <name>Hospital:Princeton Community Hospital</name>
+  <cmt>Hospital:Princeton Community Hospital</cmt>
+  <desc>Hospital:Princeton Community Hospital</desc>
+</wpt>
+<wpt lat="37.363041300" lon="-81.112230000">
+  <name>Hospital:Healthsouth Southern Hills Rehabilitation Hospital</name>
+  <cmt>Hospital:Healthsouth Southern Hills Rehabilitation Hospital</cmt>
+  <desc>Hospital:Healthsouth Southern Hills Rehabilitation Hospital</desc>
+</wpt>
+<wpt lat="37.365951500" lon="-81.101202900">
+  <name>Hospital:Memorial Hospital (historical)</name>
+  <cmt>Hospital:Memorial Hospital (historical)</cmt>
+  <desc>Hospital:Memorial Hospital (historical)</desc>
+</wpt>
+<wpt lat="37.369840400" lon="-81.097313800">
+  <name>Hospital:Princeton Hospital (historical)</name>
+  <cmt>Hospital:Princeton Hospital (historical)</cmt>
+  <desc>Hospital:Princeton Hospital (historical)</desc>
+</wpt>
+<wpt lat="36.954397600" lon="-81.097105800">
+  <name>Hospital:Wythe County Community Hospital</name>
+  <cmt>Hospital:Wythe County Community Hospital</cmt>
+  <desc>Hospital:Wythe County Community Hospital</desc>
+</wpt>
+<wpt lat="36.944118700" lon="-81.046359000">
+  <name>Hospital:Edgemont Center</name>
+  <cmt>Hospital:Edgemont Center</cmt>
+  <desc>Hospital:Edgemont Center</desc>
+</wpt>
+<wpt lat="36.659450000" lon="-80.928830000">
+  <name>Hospital:Life Center of Galax</name>
+  <cmt>Hospital:Life Center of Galax</cmt>
+  <desc>Hospital:Life Center of Galax</desc>
+</wpt>
+<wpt lat="36.670685100" lon="-80.923890900">
+  <name>Hospital:Twin County Regional Hospital</name>
+  <cmt>Hospital:Twin County Regional Hospital</cmt>
+  <desc>Hospital:Twin County Regional Hospital</desc>
+</wpt>
+<wpt lat="37.650585600" lon="-80.860118100">
+  <name>Hospital:Summers County Appalachian Regional Hospital</name>
+  <cmt>Hospital:Summers County Appalachian Regional Hospital</cmt>
+  <desc>Hospital:Summers County Appalachian Regional Hospital</desc>
+</wpt>
+<wpt lat="37.056231500" lon="-80.784516000">
+  <name>Hospital:Pulaski Hospital (historical)</name>
+  <cmt>Hospital:Pulaski Hospital (historical)</cmt>
+  <desc>Hospital:Pulaski Hospital (historical)</desc>
+</wpt>
+<wpt lat="37.068165200" lon="-80.757303000">
+  <name>Hospital:Pulaski Community Hospital</name>
+  <cmt>Hospital:Pulaski Community Hospital</cmt>
+  <desc>Hospital:Pulaski Community Hospital</desc>
+</wpt>
+<wpt lat="37.322350100" lon="-80.722367300">
+  <name>Hospital:Carilion Giles Memorial Hospital</name>
+  <cmt>Hospital:Carilion Giles Memorial Hospital</cmt>
+  <desc>Hospital:Carilion Giles Memorial Hospital</desc>
+</wpt>
+<wpt lat="36.488745200" lon="-80.612008200">
+  <name>Hospital:Northern Hospital of Surry County</name>
+  <cmt>Hospital:Northern Hospital of Surry County</cmt>
+  <desc>Hospital:Northern Hospital of Surry County</desc>
+</wpt>
+<wpt lat="37.137826300" lon="-80.569545800">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="37.129014800" lon="-80.568947200">
+  <name>Hospital:Radford Community Hospital</name>
+  <cmt>Hospital:Radford Community Hospital</cmt>
+  <desc>Hospital:Radford Community Hospital</desc>
+</wpt>
+<wpt lat="38.220408500" lon="-80.545008900">
+  <name>Hospital:Richwood Area Community Hospital (closing June 2008)</name>
+  <cmt>Hospital:Richwood Area Community Hospital (closing June 2008)</cmt>
+  <desc>Hospital:Richwood Area Community Hospital (closing June 2008)</desc>
+</wpt>
+<wpt lat="37.088498100" lon="-80.505231500">
+  <name>Hospital:Carilion New River Valley Medical Center</name>
+  <cmt>Hospital:Carilion New River Valley Medical Center</cmt>
+  <desc>Hospital:Carilion New River Valley Medical Center</desc>
+</wpt>
+<wpt lat="37.091118600" lon="-80.505001700">
+  <name>Hospital:Carilion Saint Albans Hospital of Christiansburg</name>
+  <cmt>Hospital:Carilion Saint Albans Hospital of Christiansburg</cmt>
+  <desc>Hospital:Carilion Saint Albans Hospital of Christiansburg</desc>
+</wpt>
+<wpt lat="37.772863700" lon="-80.470311700">
+  <name>Hospital:Greenbrier Valley Medical Center</name>
+  <cmt>Hospital:Greenbrier Valley Medical Center</cmt>
+  <desc>Hospital:Greenbrier Valley Medical Center</desc>
+</wpt>
+<wpt lat="37.748732700" lon="-80.468963100">
+  <name>Hospital:Greenbrier Valley Hospital (historical)</name>
+  <cmt>Hospital:Greenbrier Valley Hospital (historical)</cmt>
+  <desc>Hospital:Greenbrier Valley Hospital (historical)</desc>
+</wpt>
+<wpt lat="37.803176800" lon="-80.445630300">
+  <name>Hospital:Lewisburg Maternity Hospital (historical)</name>
+  <cmt>Hospital:Lewisburg Maternity Hospital (historical)</cmt>
+  <desc>Hospital:Lewisburg Maternity Hospital (historical)</desc>
+</wpt>
+<wpt lat="37.234368500" lon="-80.434406500">
+  <name>Pharmacy</name>
+  <cmt>Pharmacy</cmt>
+  <desc>Pharmacy</desc>
+</wpt>
+<wpt lat="37.234741500" lon="-80.433077200">
+  <name>Pharmacy</name>
+  <cmt>Pharmacy</cmt>
+  <desc>Pharmacy</desc>
+</wpt>
+<wpt lat="37.220667000" lon="-80.422187700">
+  <name>Pharmacy</name>
+  <cmt>Pharmacy</cmt>
+  <desc>Pharmacy</desc>
+</wpt>
+<wpt lat="37.126796100" lon="-80.415328100">
+  <name>Hospital:New Altamont Hospital</name>
+  <cmt>Hospital:New Altamont Hospital</cmt>
+  <desc>Hospital:New Altamont Hospital</desc>
+</wpt>
+<wpt lat="36.646321500" lon="-80.254876300">
+  <name>Hospital:R J Reynolds Patrick County Memorial Hospital</name>
+  <cmt>Hospital:R J Reynolds Patrick County Memorial Hospital</cmt>
+  <desc>Hospital:R J Reynolds Patrick County Memorial Hospital</desc>
+</wpt>
+<wpt lat="38.086231000" lon="-80.220904000">
+  <name>Hospital:Denmar State Hospital (historical)</name>
+  <cmt>Hospital:Denmar State Hospital (historical)</cmt>
+  <desc>Hospital:Denmar State Hospital (historical)</desc>
+</wpt>
+<wpt lat="37.391790600" lon="-80.110951900">
+  <name>Hospital:Catawba Hospital</name>
+  <cmt>Hospital:Catawba Hospital</cmt>
+  <desc>Hospital:Catawba Hospital</desc>
+</wpt>
+<wpt lat="38.200778000" lon="-80.108873500">
+  <name>Hospital:Pocahontas Memorial Hospital</name>
+  <cmt>Hospital:Pocahontas Memorial Hospital</cmt>
+  <desc>Hospital:Pocahontas Memorial Hospital</desc>
+</wpt>
+<wpt lat="37.275973700" lon="-80.060164000">
+  <name>Hospital:Mount Regis Center</name>
+  <cmt>Hospital:Mount Regis Center</cmt>
+  <desc>Hospital:Mount Regis Center</desc>
+</wpt>
+<wpt lat="37.263173600" lon="-80.031379800">
+  <name>Hospital:Lewis - Gale Medical Center</name>
+  <cmt>Hospital:Lewis - Gale Medical Center</cmt>
+  <desc>Hospital:Lewis - Gale Medical Center</desc>
+</wpt>
+<wpt lat="37.263469400" lon="-80.028372200">
+  <name>Hospital:Roanoke Valley Psychiatric Center</name>
+  <cmt>Hospital:Roanoke Valley Psychiatric Center</cmt>
+  <desc>Hospital:Roanoke Valley Psychiatric Center</desc>
+</wpt>
+<wpt lat="37.274720700" lon="-80.018961700">
+  <name>Hospital:Salem Veterans Affairs Medical Center</name>
+  <cmt>Hospital:Salem Veterans Affairs Medical Center</cmt>
+  <desc>Hospital:Salem Veterans Affairs Medical Center</desc>
+</wpt>
+<wpt lat="37.794847300" lon="-79.999502100">
+  <name>Hospital:Alleghany Memorial Hospital</name>
+  <cmt>Hospital:Alleghany Memorial Hospital</cmt>
+  <desc>Hospital:Alleghany Memorial Hospital</desc>
+</wpt>
+<wpt lat="37.288469500" lon="-79.978927600">
+  <name>Hospital:Melrose Clinic</name>
+  <cmt>Hospital:Melrose Clinic</cmt>
+  <desc>Hospital:Melrose Clinic</desc>
+</wpt>
+<wpt lat="37.263074500" lon="-79.978298900">
+  <name>Hospital:Raleigh Court Health Care Center</name>
+  <cmt>Hospital:Raleigh Court Health Care Center</cmt>
+  <desc>Hospital:Raleigh Court Health Care Center</desc>
+</wpt>
+<wpt lat="37.270692600" lon="-79.954482300">
+  <name>Hospital:Shenandoah Hospital</name>
+  <cmt>Hospital:Shenandoah Hospital</cmt>
+  <desc>Hospital:Shenandoah Hospital</desc>
+</wpt>
+<wpt lat="37.282636700" lon="-79.949482600">
+  <name>Hospital:Burrell Memorial Hospital</name>
+  <cmt>Hospital:Burrell Memorial Hospital</cmt>
+  <desc>Hospital:Burrell Memorial Hospital</desc>
+</wpt>
+<wpt lat="37.261804000" lon="-79.946982000">
+  <name>Hospital:Jefferson Hospital</name>
+  <cmt>Hospital:Jefferson Hospital</cmt>
+  <desc>Hospital:Jefferson Hospital</desc>
+</wpt>
+<wpt lat="37.262081700" lon="-79.946426500">
+  <name>Hospital:Jefferson Surgical Clinic</name>
+  <cmt>Hospital:Jefferson Surgical Clinic</cmt>
+  <desc>Hospital:Jefferson Surgical Clinic</desc>
+</wpt>
+<wpt lat="37.251312100" lon="-79.942614900">
+  <name>Hospital:Carilion Roanoke Memorial Hospital</name>
+  <cmt>Hospital:Carilion Roanoke Memorial Hospital</cmt>
+  <desc>Hospital:Carilion Roanoke Memorial Hospital</desc>
+</wpt>
+<wpt lat="37.251804400" lon="-79.940870600">
+  <name>Hospital:Memorial Hospital</name>
+  <cmt>Hospital:Memorial Hospital</cmt>
+  <desc>Hospital:Memorial Hospital</desc>
+</wpt>
+<wpt lat="37.267359400" lon="-79.940871000">
+  <name>Hospital:Gill Memorial Hospital</name>
+  <cmt>Hospital:Gill Memorial Hospital</cmt>
+  <desc>Hospital:Gill Memorial Hospital</desc>
+</wpt>
+<wpt lat="37.266109300" lon="-79.939630200">
+  <name>Hospital:Carilion Roanoke Community Hospital</name>
+  <cmt>Hospital:Carilion Roanoke Community Hospital</cmt>
+  <desc>Hospital:Carilion Roanoke Community Hospital</desc>
+</wpt>
+<wpt lat="36.993982100" lon="-79.890357000">
+  <name>Hospital:Carilion Franklin Memorial Hospital</name>
+  <cmt>Hospital:Carilion Franklin Memorial Hospital</cmt>
+  <desc>Hospital:Carilion Franklin Memorial Hospital</desc>
+</wpt>
+<wpt lat="37.271823900" lon="-79.886752800">
+  <name>Pharmacy:Krogers Pharmacy</name>
+  <cmt>Pharmacy:Krogers Pharmacy</cmt>
+  <desc>Pharmacy:Krogers Pharmacy</desc>
+</wpt>
+<wpt lat="37.273787500" lon="-79.882675800">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="37.792204100" lon="-79.880989800">
+  <name>Hospital:Alleghany Regional Hospital</name>
+  <cmt>Hospital:Alleghany Regional Hospital</cmt>
+  <desc>Hospital:Alleghany Regional Hospital</desc>
+</wpt>
+<wpt lat="37.279026700" lon="-79.869481500">
+  <name>Hospital:Vinton Family Medical Center</name>
+  <cmt>Hospital:Vinton Family Medical Center</cmt>
+  <desc>Hospital:Vinton Family Medical Center</desc>
+</wpt>
+<wpt lat="36.698960300" lon="-79.867153400">
+  <name>Hospital:Memorial Hospital of Martinsville and Henry County</name>
+  <cmt>Hospital:Memorial Hospital of Martinsville and Henry County</cmt>
+  <desc>Hospital:Memorial Hospital of Martinsville and Henry County</desc>
+</wpt>
+<wpt lat="36.686804100" lon="-79.864205000">
+  <name>Hospital:Martinsville General Hospital</name>
+  <cmt>Hospital:Martinsville General Hospital</cmt>
+  <desc>Hospital:Martinsville General Hospital</desc>
+</wpt>
+<wpt lat="37.347168700" lon="-79.845813500">
+  <name>Pharmacy:Blue Ridge Pharmacy</name>
+  <cmt>Pharmacy:Blue Ridge Pharmacy</cmt>
+  <desc>Pharmacy:Blue Ridge Pharmacy</desc>
+</wpt>
+<wpt lat="37.810405400" lon="-79.841995400">
+  <name>Hospital:C and O Hospital</name>
+  <cmt>Hospital:C and O Hospital</cmt>
+  <desc>Hospital:C and O Hospital</desc>
+</wpt>
+<wpt lat="37.996515900" lon="-79.830571500">
+  <name>Hospital:Bath County Community Hospital</name>
+  <cmt>Hospital:Bath County Community Hospital</cmt>
+  <desc>Hospital:Bath County Community Hospital</desc>
+</wpt>
+<wpt lat="37.351329600" lon="-79.517484000">
+  <name>Hospital:Carilion Bedford Memorial Hospital</name>
+  <cmt>Hospital:Carilion Bedford Memorial Hospital</cmt>
+  <desc>Hospital:Carilion Bedford Memorial Hospital</desc>
+</wpt>
+<wpt lat="37.326726900" lon="-79.503579500">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="37.325617800" lon="-79.497163600">
+  <name>Pharmacy:Walmart</name>
+  <cmt>Pharmacy:Walmart</cmt>
+  <desc>Pharmacy:Walmart</desc>
+</wpt>
+<wpt lat="37.784854100" lon="-79.441148900">
+  <name>Hospital:Jackson Memorial Hospital (historical)</name>
+  <cmt>Hospital:Jackson Memorial Hospital (historical)</cmt>
+  <desc>Hospital:Jackson Memorial Hospital (historical)</desc>
+</wpt>
+<wpt lat="37.778548100" lon="-79.440976300">
+  <name>Hospital:Stonewall Jackson Hospital</name>
+  <cmt>Hospital:Stonewall Jackson Hospital</cmt>
+  <desc>Hospital:Stonewall Jackson Hospital</desc>
+</wpt>
+<wpt lat="37.790409700" lon="-79.432259800">
+  <name>Hospital:Virginia Military Institute Hospital</name>
+  <cmt>Hospital:Virginia Military Institute Hospital</cmt>
+  <desc>Hospital:Virginia Military Institute Hospital</desc>
+</wpt>
+<wpt lat="36.605138300" lon="-79.410579000">
+  <name>Hospital:Camelot Hall Nursing Home</name>
+  <cmt>Hospital:Camelot Hall Nursing Home</cmt>
+  <desc>Hospital:Camelot Hall Nursing Home</desc>
+</wpt>
+<wpt lat="36.554858200" lon="-79.410156600">
+  <name>Hospital:Southern Virginia Mental Health Institute</name>
+  <cmt>Hospital:Southern Virginia Mental Health Institute</cmt>
+  <desc>Hospital:Southern Virginia Mental Health Institute</desc>
+</wpt>
+<wpt lat="36.577835100" lon="-79.405473400">
+  <name>Hospital:Danville Regional Medical Center</name>
+  <cmt>Hospital:Danville Regional Medical Center</cmt>
+  <desc>Hospital:Danville Regional Medical Center</desc>
+</wpt>
+<wpt lat="36.569027600" lon="-79.399467100">
+  <name>Hospital:Winslow Hospital</name>
+  <cmt>Hospital:Winslow Hospital</cmt>
+  <desc>Hospital:Winslow Hospital</desc>
+</wpt>
+<wpt lat="36.835416700" lon="-79.394191700">
+  <name>Hospital:Pittsylvania County Health Clinic</name>
+  <cmt>Hospital:Pittsylvania County Health Clinic</cmt>
+  <desc>Hospital:Pittsylvania County Health Clinic</desc>
+</wpt>
+<wpt lat="36.620971400" lon="-79.382800700">
+  <name>Hospital:Roman Eagle Nursing Home</name>
+  <cmt>Hospital:Roman Eagle Nursing Home</cmt>
+  <desc>Hospital:Roman Eagle Nursing Home</desc>
+</wpt>
+<wpt lat="37.750732600" lon="-79.351332100">
+  <name>Hospital:Shenandoah Valley Health Care Center</name>
+  <cmt>Hospital:Shenandoah Valley Health Care Center</cmt>
+  <desc>Hospital:Shenandoah Valley Health Care Center</desc>
+</wpt>
+<wpt lat="37.370336900" lon="-79.300630600">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="37.385117500" lon="-79.242137800">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="37.438387100" lon="-79.187724400">
+  <name>Hospital:Virginia Baptist Hospital</name>
+  <cmt>Hospital:Virginia Baptist Hospital</cmt>
+  <desc>Hospital:Virginia Baptist Hospital</desc>
+</wpt>
+<wpt lat="37.375100900" lon="-79.186067700">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="37.375867000" lon="-79.185063500">
+  <name>Pharmacy:Walgreens</name>
+  <cmt>Pharmacy:Walgreens</cmt>
+  <desc>Pharmacy:Walgreens</desc>
+</wpt>
+<wpt lat="37.417364300" lon="-79.172802800">
+  <name>Hospital:Lynchburg City Health Department</name>
+  <cmt>Hospital:Lynchburg City Health Department</cmt>
+  <desc>Hospital:Lynchburg City Health Department</desc>
+</wpt>
+<wpt lat="37.416960500" lon="-79.171615100">
+  <name>Hospital:Lynchburg General Hospital</name>
+  <cmt>Hospital:Lynchburg General Hospital</cmt>
+  <desc>Hospital:Lynchburg General Hospital</desc>
+</wpt>
+<wpt lat="37.391809300" lon="-79.165024300">
+  <name>Veterinary:Lynchburg Animal Shelter</name>
+  <cmt>Veterinary:Lynchburg Animal Shelter</cmt>
+  <desc>Veterinary:Lynchburg Animal Shelter</desc>
+</wpt>
+<wpt lat="37.406531500" lon="-79.143635200">
+  <name>Hospital:Marshall Lodge Memorial Hospital</name>
+  <cmt>Hospital:Marshall Lodge Memorial Hospital</cmt>
+  <desc>Hospital:Marshall Lodge Memorial Hospital</desc>
+</wpt>
+<wpt lat="39.001012100" lon="-79.137374200">
+  <name>Hospital:Grant Memorial Hospital</name>
+  <cmt>Hospital:Grant Memorial Hospital</cmt>
+  <desc>Hospital:Grant Memorial Hospital</desc>
+</wpt>
+<wpt lat="37.412462000" lon="-79.121518000">
+  <name>Hospital:Central Virginia Training Center</name>
+  <cmt>Hospital:Central Virginia Training Center</cmt>
+  <desc>Hospital:Central Virginia Training Center</desc>
+</wpt>
+<wpt lat="37.410420500" lon="-79.116134600">
+  <name>Hospital:Lynchburg Training School and Hospital</name>
+  <cmt>Hospital:Lynchburg Training School and Hospital</cmt>
+  <desc>Hospital:Lynchburg Training School and Hospital</desc>
+</wpt>
+<wpt lat="38.152777800" lon="-79.070833300">
+  <name>Hospital:Blakely House</name>
+  <cmt>Hospital:Blakely House</cmt>
+  <desc>Hospital:Blakely House</desc>
+</wpt>
+<wpt lat="38.162631300" lon="-79.068640400">
+  <name>Hospital:Kings Daughters Hospital</name>
+  <cmt>Hospital:Kings Daughters Hospital</cmt>
+  <desc>Hospital:Kings Daughters Hospital</desc>
+</wpt>
+<wpt lat="38.145131800" lon="-79.066973400">
+  <name>Hospital:Staunton Correctional Facility (historical)</name>
+  <cmt>Hospital:Staunton Correctional Facility (historical)</cmt>
+  <desc>Hospital:Staunton Correctional Facility (historical)</desc>
+</wpt>
+<wpt lat="38.130965900" lon="-79.044750400">
+  <name>Hospital:Commonwealth Center for Children and Adolescents</name>
+  <cmt>Hospital:Commonwealth Center for Children and Adolescents</cmt>
+  <desc>Hospital:Commonwealth Center for Children and Adolescents</desc>
+</wpt>
+<wpt lat="38.137187400" lon="-79.037108100">
+  <name>Hospital:Western State Hospital</name>
+  <cmt>Hospital:Western State Hospital</cmt>
+  <desc>Hospital:Western State Hospital</desc>
+</wpt>
+<wpt lat="38.119930800" lon="-78.989348500">
+  <name>Hospital:Woodrow Wilson Rehabilitation Center</name>
+  <cmt>Hospital:Woodrow Wilson Rehabilitation Center</cmt>
+  <desc>Hospital:Woodrow Wilson Rehabilitation Center</desc>
+</wpt>
+<wpt lat="38.094575400" lon="-78.987023100">
+  <name>Hospital:Augusta Medical Center</name>
+  <cmt>Hospital:Augusta Medical Center</cmt>
+  <desc>Hospital:Augusta Medical Center</desc>
+</wpt>
+<wpt lat="38.082638500" lon="-78.929092600">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="36.734961500" lon="-78.920564900">
+  <name>Hospital:The Woodview</name>
+  <cmt>Hospital:The Woodview</cmt>
+  <desc>Hospital:The Woodview</desc>
+</wpt>
+<wpt lat="36.712007100" lon="-78.914575700">
+  <name>Hospital:Halifax Regional Hospital</name>
+  <cmt>Hospital:Halifax Regional Hospital</cmt>
+  <desc>Hospital:Halifax Regional Hospital</desc>
+</wpt>
+<wpt lat="38.072749800" lon="-78.902783600">
+  <name>Pharmacy:CVS Pharmacy</name>
+  <cmt>Pharmacy:CVS Pharmacy</cmt>
+  <desc>Pharmacy:CVS Pharmacy</desc>
+</wpt>
+<wpt lat="36.704860300" lon="-78.899176400">
+  <name>Hospital:South Boston Hospital</name>
+  <cmt>Hospital:South Boston Hospital</cmt>
+  <desc>Hospital:South Boston Hospital</desc>
+</wpt>
+<wpt lat="38.439291400" lon="-78.871415700">
+  <name>Hospital:Keezel Infirmary</name>
+  <cmt>Hospital:Keezel Infirmary</cmt>
+  <desc>Hospital:Keezel Infirmary</desc>
+</wpt>
+<wpt lat="38.449846600" lon="-78.865859900">
+  <name>Hospital:Rockingham County Health Center</name>
+  <cmt>Hospital:Rockingham County Health Center</cmt>
+  <desc>Hospital:Rockingham County Health Center</desc>
+</wpt>
+<wpt lat="38.404942700" lon="-78.855528000">
+  <name>Hospital:Rockingham Memorial Hospital</name>
+  <cmt>Hospital:Rockingham Memorial Hospital</cmt>
+  <desc>Hospital:Rockingham Memorial Hospital</desc>
+</wpt>
+<wpt lat="39.350929400" lon="-78.757703100">
+  <name>Hospital:Hampshire Memorial Hospital</name>
+  <cmt>Hospital:Hampshire Memorial Hospital</cmt>
+  <desc>Hospital:Hampshire Memorial Hospital</desc>
+</wpt>
+<wpt lat="37.818475700" lon="-78.594179800">
+  <name>Hospital:Southside Community Health Center</name>
+  <cmt>Hospital:Southside Community Health Center</cmt>
+  <desc>Hospital:Southside Community Health Center</desc>
+</wpt>
+<wpt lat="36.622868600" lon="-78.577598700">
+  <name>Hospital:Meadow View Terrace Hospice</name>
+  <cmt>Hospital:Meadow View Terrace Hospice</cmt>
+  <desc>Hospital:Meadow View Terrace Hospice</desc>
+</wpt>
+<wpt lat="38.051248000" lon="-78.548403600">
+  <name>Hospital:University of Virginia Northridge Medical Office Building</name>
+  <cmt>Hospital:University of Virginia Northridge Medical Office Building</cmt>
+  <desc>Hospital:University of Virginia Northridge Medical Office Building</desc>
+</wpt>
+<wpt lat="38.024722200" lon="-78.525277800">
+  <name>Hospital:University of Virginia HealthSouth Rehabilitation Hospital</name>
+  <cmt>Hospital:University of Virginia HealthSouth Rehabilitation Hospital</cmt>
+  <desc>Hospital:University of Virginia HealthSouth Rehabilitation Hospital</desc>
+</wpt>
+<wpt lat="38.049612400" lon="-78.524834000">
+  <name>Hospital:University of Virginia HealthSouth Rehabilitation Hospital</name>
+  <cmt>Hospital:University of Virginia HealthSouth Rehabilitation Hospital</cmt>
+  <desc>Hospital:University of Virginia HealthSouth Rehabilitation Hospital</desc>
+</wpt>
+<wpt lat="38.045128900" lon="-78.520572900">
+  <name>Hospital:University of Virginia Kluge Children&apos;s Rehabilitation Center</name>
+  <cmt>Hospital:University of Virginia Kluge Children&apos;s Rehabilitation Center</cmt>
+  <desc>Hospital:University of Virginia Kluge Children&apos;s Rehabilitation Center</desc>
+</wpt>
+<wpt lat="38.070019100" lon="-78.520129100">
+  <name>Hospital:University of Virginia Kluge Children&apos;s Rehabilitation Center</name>
+  <cmt>Hospital:University of Virginia Kluge Children&apos;s Rehabilitation Center</cmt>
+  <desc>Hospital:University of Virginia Kluge Children&apos;s Rehabilitation Center</desc>
+</wpt>
+<wpt lat="38.867535700" lon="-78.518181600">
+  <name>Pharmacy</name>
+  <cmt>Pharmacy</cmt>
+  <desc>Pharmacy</desc>
+</wpt>
+<wpt lat="38.870287700" lon="-78.512363800">
+  <name>Hospital:Shenandoah Memorial Hospital</name>
+  <cmt>Hospital:Shenandoah Memorial Hospital</cmt>
+  <desc>Hospital:Shenandoah Memorial Hospital</desc>
+</wpt>
+<wpt lat="38.337628600" lon="-78.510844900">
+  <name>Hospital:Cotta Hospital (historical)</name>
+  <cmt>Hospital:Cotta Hospital (historical)</cmt>
+  <desc>Hospital:Cotta Hospital (historical)</desc>
+</wpt>
+<wpt lat="38.049860600" lon="-78.506123500">
+  <name>Hospital:David C Wilson Neuro-Psychiatric Hospital</name>
+  <cmt>Hospital:David C Wilson Neuro-Psychiatric Hospital</cmt>
+  <desc>Hospital:David C Wilson Neuro-Psychiatric Hospital</desc>
+</wpt>
+<wpt lat="38.033725500" lon="-78.501537700">
+  <name>Hospital:University of Virginia Medical Center</name>
+  <cmt>Hospital:University of Virginia Medical Center</cmt>
+  <desc>Hospital:University of Virginia Medical Center</desc>
+</wpt>
+<wpt lat="38.058615700" lon="-78.501093900">
+  <name>Hospital:University of Virginia Medical Center</name>
+  <cmt>Hospital:University of Virginia Medical Center</cmt>
+  <desc>Hospital:University of Virginia Medical Center</desc>
+</wpt>
+<wpt lat="38.040138800" lon="-78.500012200">
+  <name>Hospital:Charlottesville-Albemarle Community Mental Health Hospital</name>
+  <cmt>Hospital:Charlottesville-Albemarle Community Mental Health Hospital</cmt>
+  <desc>Hospital:Charlottesville-Albemarle Community Mental Health Hospital</desc>
+</wpt>
+<wpt lat="38.031649800" lon="-78.499860200">
+  <name>Hospital:University of Virginia Hospital and Primary Care Center</name>
+  <cmt>Hospital:University of Virginia Hospital and Primary Care Center</cmt>
+  <desc>Hospital:University of Virginia Hospital and Primary Care Center</desc>
+</wpt>
+<wpt lat="38.032916900" lon="-78.497789900">
+  <name>Hospital:Towers Hospital</name>
+  <cmt>Hospital:Towers Hospital</cmt>
+  <desc>Hospital:Towers Hospital</desc>
+</wpt>
+<wpt lat="38.042083100" lon="-78.482789500">
+  <name>Hospital:Albemarle County Health Department</name>
+  <cmt>Hospital:Albemarle County Health Department</cmt>
+  <desc>Hospital:Albemarle County Health Department</desc>
+</wpt>
+<wpt lat="38.032916900" lon="-78.479456000">
+  <name>Hospital:Nelson Sanitarium (historical)</name>
+  <cmt>Hospital:Nelson Sanitarium (historical)</cmt>
+  <desc>Hospital:Nelson Sanitarium (historical)</desc>
+</wpt>
+<wpt lat="38.032422500" lon="-78.472035200">
+  <name>Hospital:Martha Jefferson Hospital</name>
+  <cmt>Hospital:Martha Jefferson Hospital</cmt>
+  <desc>Hospital:Martha Jefferson Hospital</desc>
+</wpt>
+<wpt lat="38.009028900" lon="-78.471678000">
+  <name>Hospital:Blue Ridge Sanatorium</name>
+  <cmt>Hospital:Blue Ridge Sanatorium</cmt>
+  <desc>Hospital:Blue Ridge Sanatorium</desc>
+</wpt>
+<wpt lat="38.662112300" lon="-78.468670700">
+  <name>Hospital:Page Memorial Hospital</name>
+  <cmt>Hospital:Page Memorial Hospital</cmt>
+  <desc>Hospital:Page Memorial Hospital</desc>
+</wpt>
+<wpt lat="37.308207400" lon="-78.421662700">
+  <name>Hospital:Holly Manor Nursing Home</name>
+  <cmt>Hospital:Holly Manor Nursing Home</cmt>
+  <desc>Hospital:Holly Manor Nursing Home</desc>
+</wpt>
+<wpt lat="37.302552500" lon="-78.404112100">
+  <name>Hospital:Southside Community Hospital</name>
+  <cmt>Hospital:Southside Community Hospital</cmt>
+  <desc>Hospital:Southside Community Hospital</desc>
+</wpt>
+<wpt lat="37.188293100" lon="-78.220584000">
+  <name>Hospital:Piedmont Geriatric Hospital</name>
+  <cmt>Hospital:Piedmont Geriatric Hospital</cmt>
+  <desc>Hospital:Piedmont Geriatric Hospital</desc>
+</wpt>
+<wpt lat="38.930398300" lon="-78.198237000">
+  <name>Hospital:Warren Memorial Hospital</name>
+  <cmt>Hospital:Warren Memorial Hospital</cmt>
+  <desc>Hospital:Warren Memorial Hospital</desc>
+</wpt>
+<wpt lat="39.194903100" lon="-78.193465300">
+  <name>Hospital:Winchester Medical Center</name>
+  <cmt>Hospital:Winchester Medical Center</cmt>
+  <desc>Hospital:Winchester Medical Center</desc>
+</wpt>
+<wpt lat="38.963648300" lon="-78.192999000">
+  <name>Pharmacy:Target</name>
+  <cmt>Pharmacy:Target</cmt>
+  <desc>Pharmacy:Target</desc>
+</wpt>
+<wpt lat="38.140691100" lon="-78.189447600">
+  <name>Hospital:Orange-Gordonsville Community Hospital</name>
+  <cmt>Hospital:Orange-Gordonsville Community Hospital</cmt>
+  <desc>Hospital:Orange-Gordonsville Community Hospital</desc>
+</wpt>
+<wpt lat="38.911005300" lon="-78.183943800">
+  <name>Pharmacy:Rite Aid</name>
+  <cmt>Pharmacy:Rite Aid</cmt>
+  <desc>Pharmacy:Rite Aid</desc>
+</wpt>
+<wpt lat="39.182941100" lon="-78.171978300">
+  <name>Hospital:Winchester Rehabilitation Center</name>
+  <cmt>Hospital:Winchester Rehabilitation Center</cmt>
+  <desc>Hospital:Winchester Rehabilitation Center</desc>
+</wpt>
+<wpt lat="38.713174300" lon="-78.158888500">
+  <name>Hospital:Rappahannock Medical Clinic</name>
+  <cmt>Hospital:Rappahannock Medical Clinic</cmt>
+  <desc>Hospital:Rappahannock Medical Clinic</desc>
+</wpt>
+<wpt lat="36.733628900" lon="-78.133454300">
+  <name>Hospital:Community Memorial Health Center</name>
+  <cmt>Hospital:Community Memorial Health Center</cmt>
+  <desc>Hospital:Community Memorial Health Center</desc>
+</wpt>
+<wpt lat="38.455400000" lon="-78.013050000">
+  <name>Hospital:Culpeper Regional Hospital</name>
+  <cmt>Hospital:Culpeper Regional Hospital</cmt>
+  <desc>Hospital:Culpeper Regional Hospital</desc>
+</wpt>
+<wpt lat="37.080983500" lon="-77.994725800">
+  <name>Hospital:Blackstone Health Center</name>
+  <cmt>Hospital:Blackstone Health Center</cmt>
+  <desc>Hospital:Blackstone Health Center</desc>
+</wpt>
+<wpt lat="39.476497300" lon="-77.980307300">
+  <name>Hospital:Martinsburg City Hospital</name>
+  <cmt>Hospital:Martinsburg City Hospital</cmt>
+  <desc>Hospital:Martinsburg City Hospital</desc>
+</wpt>
+<wpt lat="39.455654400" lon="-77.963331300">
+  <name>Hospital:Kings Daughters Hospital (historical)</name>
+  <cmt>Hospital:Kings Daughters Hospital (historical)</cmt>
+  <desc>Hospital:Kings Daughters Hospital (historical)</desc>
+</wpt>
+<wpt lat="36.533144800" lon="-77.938060700">
+  <name>Pharmacy:Drugco</name>
+  <cmt>Pharmacy:Drugco</cmt>
+  <desc>Pharmacy:Drugco</desc>
+</wpt>
+<wpt lat="39.417838100" lon="-77.911107200">
+  <name>Hospital:Martinsburg Veterans Affairs Medical Center</name>
+  <cmt>Hospital:Martinsburg Veterans Affairs Medical Center</cmt>
+  <desc>Hospital:Martinsburg Veterans Affairs Medical Center</desc>
+</wpt>
+<wpt lat="39.296033700" lon="-77.858689900">
+  <name>Hospital:Jefferson Memorial Hospital</name>
+  <cmt>Hospital:Jefferson Memorial Hospital</cmt>
+  <desc>Hospital:Jefferson Memorial Hospital</desc>
+</wpt>
+<wpt lat="36.762091400" lon="-77.843326300">
+  <name>Hospital:Letcher Memorial Hospital (historical)</name>
+  <cmt>Hospital:Letcher Memorial Hospital (historical)</cmt>
+  <desc>Hospital:Letcher Memorial Hospital (historical)</desc>
+</wpt>
+<wpt lat="39.434705600" lon="-77.819568500">
+  <name>Pharmacy:Rite Aid</name>
+  <cmt>Pharmacy:Rite Aid</cmt>
+  <desc>Pharmacy:Rite Aid</desc>
+</wpt>
+<wpt lat="38.712340500" lon="-77.808049000">
+  <name>Hospital:Fauquier Hospital</name>
+  <cmt>Hospital:Fauquier Hospital</cmt>
+  <desc>Hospital:Fauquier Hospital</desc>
+</wpt>
+<wpt lat="38.727172700" lon="-77.791457900">
+  <name>Pharmacy:CVS Pharmacy</name>
+  <cmt>Pharmacy:CVS Pharmacy</cmt>
+  <desc>Pharmacy:CVS Pharmacy</desc>
+</wpt>
+<wpt lat="39.136714100" lon="-77.702058000">
+  <name>Pharmacy:Rite Aid Pharmacy</name>
+  <cmt>Pharmacy:Rite Aid Pharmacy</cmt>
+  <desc>Pharmacy:Rite Aid Pharmacy</desc>
+</wpt>
+<wpt lat="37.466513700" lon="-77.658919100">
+  <name>Hospital:Bon Secours St.Francis Medical Center</name>
+  <cmt>Hospital:Bon Secours St.Francis Medical Center</cmt>
+  <desc>Hospital:Bon Secours St.Francis Medical Center</desc>
+</wpt>
+<wpt lat="39.162245000" lon="-77.637604000">
+  <name>Veterinary:Loudoun County Animal Shelter</name>
+  <cmt>Veterinary:Loudoun County Animal Shelter</cmt>
+  <desc>Veterinary:Loudoun County Animal Shelter</desc>
+</wpt>
+<wpt lat="37.637326800" lon="-77.633203800">
+  <name>Pharmacy:CVS Pharmacy</name>
+  <cmt>Pharmacy:CVS Pharmacy</cmt>
+  <desc>Pharmacy:CVS Pharmacy</desc>
+</wpt>
+<wpt lat="39.316490400" lon="-77.611656300">
+  <name>Hospital:Brunswick Medical Center</name>
+  <cmt>Hospital:Brunswick Medical Center</cmt>
+  <desc>Hospital:Brunswick Medical Center</desc>
+</wpt>
+<wpt lat="37.510700000" lon="-77.594990000">
+  <name>Hospital:Johnston-Willis Hospital</name>
+  <cmt>Hospital:Johnston-Willis Hospital</cmt>
+  <desc>Hospital:Johnston-Willis Hospital</desc>
+</wpt>
+<wpt lat="39.117270600" lon="-77.589253000">
+  <name>Hospital:National Childrens Rehabilitation Center</name>
+  <cmt>Hospital:National Childrens Rehabilitation Center</cmt>
+  <desc>Hospital:National Childrens Rehabilitation Center</desc>
+</wpt>
+<wpt lat="37.646228000" lon="-77.583953900">
+  <name>Pharmacy:CVS Pharmacy</name>
+  <cmt>Pharmacy:CVS Pharmacy</cmt>
+  <desc>Pharmacy:CVS Pharmacy</desc>
+</wpt>
+<wpt lat="39.120939100" lon="-77.571379300">
+  <name>Hospital:Heritage Hall Nursing Home</name>
+  <cmt>Hospital:Heritage Hall Nursing Home</cmt>
+  <desc>Hospital:Heritage Hall Nursing Home</desc>
+</wpt>
+<wpt lat="37.628479000" lon="-77.570820700">
+  <name>Hospital:University Park Hospital</name>
+  <cmt>Hospital:University Park Hospital</cmt>
+  <desc>Hospital:University Park Hospital</desc>
+</wpt>
+<wpt lat="39.131071000" lon="-77.568916000">
+  <name>Hospital:Marion DuPont Scott Equine Medical Center</name>
+  <cmt>Hospital:Marion DuPont Scott Equine Medical Center</cmt>
+  <desc>Hospital:Marion DuPont Scott Equine Medical Center</desc>
+</wpt>
+<wpt lat="37.611515000" lon="-77.564452100">
+  <name>Pharmacy:Walgreen&apos;s</name>
+  <cmt>Pharmacy:Walgreen&apos;s</cmt>
+  <desc>Pharmacy:Walgreen&apos;s</desc>
+</wpt>
+<wpt lat="39.122792900" lon="-77.554280400">
+  <name>Hospital:Paxton Child Development Center</name>
+  <cmt>Hospital:Paxton Child Development Center</cmt>
+  <desc>Hospital:Paxton Child Development Center</desc>
+</wpt>
+<wpt lat="39.107669100" lon="-77.549035600">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.938823100" lon="-77.547610100">
+  <name>Pharmacy</name>
+  <cmt>Pharmacy</cmt>
+  <desc>Pharmacy</desc>
+</wpt>
+<wpt lat="39.147049500" lon="-77.544711800">
+  <name>Hospital:Springwood Psychiatric Hospital</name>
+  <cmt>Hospital:Springwood Psychiatric Hospital</cmt>
+  <desc>Hospital:Springwood Psychiatric Hospital</desc>
+</wpt>
+<wpt lat="36.699593900" lon="-77.541092200">
+  <name>Hospital:Meherrin Dialysis Center</name>
+  <cmt>Hospital:Meherrin Dialysis Center</cmt>
+  <desc>Hospital:Meherrin Dialysis Center</desc>
+</wpt>
+<wpt lat="36.686816300" lon="-77.541091900">
+  <name>Hospital:Greensville County Health Center</name>
+  <cmt>Hospital:Greensville County Health Center</cmt>
+  <desc>Hospital:Greensville County Health Center</desc>
+</wpt>
+<wpt lat="36.699593900" lon="-77.540258800">
+  <name>Hospital:Prince Squire Medical Center</name>
+  <cmt>Hospital:Prince Squire Medical Center</cmt>
+  <desc>Hospital:Prince Squire Medical Center</desc>
+</wpt>
+<wpt lat="36.700427200" lon="-77.540258800">
+  <name>Hospital:Greensville Memorial Hospital</name>
+  <cmt>Hospital:Greensville Memorial Hospital</cmt>
+  <desc>Hospital:Greensville Memorial Hospital</desc>
+</wpt>
+<wpt lat="37.604221600" lon="-77.539957800">
+  <name>Hospital:Henrico Doctors Hospital</name>
+  <cmt>Hospital:Henrico Doctors Hospital</cmt>
+  <desc>Hospital:Henrico Doctors Hospital</desc>
+</wpt>
+<wpt lat="36.685705200" lon="-77.537758500">
+  <name>Hospital:A B Adams Convalescent Center</name>
+  <cmt>Hospital:A B Adams Convalescent Center</cmt>
+  <desc>Hospital:A B Adams Convalescent Center</desc>
+</wpt>
+<wpt lat="38.932381900" lon="-77.528211100">
+  <name>Pharmacy:CVS Pharmacy</name>
+  <cmt>Pharmacy:CVS Pharmacy</cmt>
+  <desc>Pharmacy:CVS Pharmacy</desc>
+</wpt>
+<wpt lat="37.514247200" lon="-77.526436900">
+  <name>Hospital:Chippenham Hospital</name>
+  <cmt>Hospital:Chippenham Hospital</cmt>
+  <desc>Hospital:Chippenham Hospital</desc>
+</wpt>
+<wpt lat="37.631811000" lon="-77.525690100">
+  <name>Hospital:Henrico Doctors Hospital</name>
+  <cmt>Hospital:Henrico Doctors Hospital</cmt>
+  <desc>Hospital:Henrico Doctors Hospital</desc>
+</wpt>
+<wpt lat="38.290684400" lon="-77.525541500">
+  <name>Hospital:Fredericksburg Nursing Home</name>
+  <cmt>Hospital:Fredericksburg Nursing Home</cmt>
+  <desc>Hospital:Fredericksburg Nursing Home</desc>
+</wpt>
+<wpt lat="38.246671800" lon="-77.513997200">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="37.583580800" lon="-77.511991700">
+  <name>Hospital:Saint Marys Hospital of Richmond</name>
+  <cmt>Hospital:Saint Marys Hospital of Richmond</cmt>
+  <desc>Hospital:Saint Marys Hospital of Richmond</desc>
+</wpt>
+<wpt lat="38.354028200" lon="-77.504933400">
+  <name>Hospital:England Run Veterinary Clinic</name>
+  <cmt>Hospital:England Run Veterinary Clinic</cmt>
+  <desc>Hospital:England Run Veterinary Clinic</desc>
+</wpt>
+<wpt lat="37.584268000" lon="-77.497360100">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="37.767642800" lon="-77.495539500">
+  <name>Hospital:Ashland Convalescent Center</name>
+  <cmt>Hospital:Ashland Convalescent Center</cmt>
+  <desc>Hospital:Ashland Convalescent Center</desc>
+</wpt>
+<wpt lat="37.758710000" lon="-77.479820000">
+  <name>Hospital:HealthSouth Medical Center</name>
+  <cmt>Hospital:HealthSouth Medical Center</cmt>
+  <desc>Hospital:HealthSouth Medical Center</desc>
+</wpt>
+<wpt lat="39.077054000" lon="-77.475262000">
+  <name>Hospital:Blue Ridge Speech and Hearing Center</name>
+  <cmt>Hospital:Blue Ridge Speech and Hearing Center</cmt>
+  <desc>Hospital:Blue Ridge Speech and Hearing Center</desc>
+</wpt>
+<wpt lat="37.553680000" lon="-77.472420000">
+  <name>Hospital:The Retreat Hospital</name>
+  <cmt>Hospital:The Retreat Hospital</cmt>
+  <desc>Hospital:The Retreat Hospital</desc>
+</wpt>
+<wpt lat="37.771770000" lon="-77.469470000">
+  <name>Hospital:Theresa A Thomas Medical Center</name>
+  <cmt>Hospital:Theresa A Thomas Medical Center</cmt>
+  <desc>Hospital:Theresa A Thomas Medical Center</desc>
+</wpt>
+<wpt lat="37.498013700" lon="-77.467283500">
+  <name>Hospital:US Veterans Medical Center</name>
+  <cmt>Hospital:US Veterans Medical Center</cmt>
+  <desc>Hospital:US Veterans Medical Center</desc>
+</wpt>
+<wpt lat="38.304572500" lon="-77.464428800">
+  <name>Hospital:Pratt Clinic Medical Center</name>
+  <cmt>Hospital:Pratt Clinic Medical Center</cmt>
+  <desc>Hospital:Pratt Clinic Medical Center</desc>
+</wpt>
+<wpt lat="37.590010000" lon="-77.464330000">
+  <name>Hospital:Memorial Medical Center</name>
+  <cmt>Hospital:Memorial Medical Center</cmt>
+  <desc>Hospital:Memorial Medical Center</desc>
+</wpt>
+<wpt lat="37.597367800" lon="-77.462206000">
+  <name>Hospital:Westbrook Psychiatric Hospital</name>
+  <cmt>Hospital:Westbrook Psychiatric Hospital</cmt>
+  <desc>Hospital:Westbrook Psychiatric Hospital</desc>
+</wpt>
+<wpt lat="38.281042500" lon="-77.461039300">
+  <name>Hospital:Fredericksburg Health Department</name>
+  <cmt>Hospital:Fredericksburg Health Department</cmt>
+  <desc>Hospital:Fredericksburg Health Department</desc>
+</wpt>
+<wpt lat="38.306794700" lon="-77.460817700">
+  <name>Hospital:Riverside Convalescent Home</name>
+  <cmt>Hospital:Riverside Convalescent Home</cmt>
+  <desc>Hospital:Riverside Convalescent Home</desc>
+</wpt>
+<wpt lat="38.280503500" lon="-77.459065200">
+  <name>Hospital:Mary Washington Hospital</name>
+  <cmt>Hospital:Mary Washington Hospital</cmt>
+  <desc>Hospital:Mary Washington Hospital</desc>
+</wpt>
+<wpt lat="37.597923400" lon="-77.458594700">
+  <name>Hospital:Westminster Hospital</name>
+  <cmt>Hospital:Westminster Hospital</cmt>
+  <desc>Hospital:Westminster Hospital</desc>
+</wpt>
+<wpt lat="37.578440000" lon="-77.455300000">
+  <name>Hospital:Cumberland Community Based</name>
+  <cmt>Hospital:Cumberland Community Based</cmt>
+  <desc>Hospital:Cumberland Community Based</desc>
+</wpt>
+<wpt lat="37.204872500" lon="-77.454150700">
+  <name>Hospital:Hiram W Davis Medical Center</name>
+  <cmt>Hospital:Hiram W Davis Medical Center</cmt>
+  <desc>Hospital:Hiram W Davis Medical Center</desc>
+</wpt>
+<wpt lat="37.209039200" lon="-77.451372900">
+  <name>Hospital:Central State Hospital</name>
+  <cmt>Hospital:Central State Hospital</cmt>
+  <desc>Hospital:Central State Hospital</desc>
+</wpt>
+<wpt lat="38.301469400" lon="-77.451289900">
+  <name>Hospital:Woodmont Nursing Home</name>
+  <cmt>Hospital:Woodmont Nursing Home</cmt>
+  <desc>Hospital:Woodmont Nursing Home</desc>
+</wpt>
+<wpt lat="37.570763500" lon="-77.450866600">
+  <name>Hospital:Childrens Hospital</name>
+  <cmt>Hospital:Childrens Hospital</cmt>
+  <desc>Hospital:Childrens Hospital</desc>
+</wpt>
+<wpt lat="37.548838400" lon="-77.446771200">
+  <name>Pharmacy:Rite Aid Pharmacy</name>
+  <cmt>Pharmacy:Rite Aid Pharmacy</cmt>
+  <desc>Pharmacy:Rite Aid Pharmacy</desc>
+</wpt>
+<wpt lat="37.600145500" lon="-77.446372100">
+  <name>Hospital:Pine Camp Sanitarium (historical)</name>
+  <cmt>Hospital:Pine Camp Sanitarium (historical)</cmt>
+  <desc>Hospital:Pine Camp Sanitarium (historical)</desc>
+</wpt>
+<wpt lat="37.356725600" lon="-77.446078500">
+  <name>Pharmacy:Walgreens</name>
+  <cmt>Pharmacy:Walgreens</cmt>
+  <desc>Pharmacy:Walgreens</desc>
+</wpt>
+<wpt lat="37.542090900" lon="-77.441649800">
+  <name>Hospital:Robertson Hospital (historical)</name>
+  <cmt>Hospital:Robertson Hospital (historical)</cmt>
+  <desc>Hospital:Robertson Hospital (historical)</desc>
+</wpt>
+<wpt lat="37.536982300" lon="-77.434745300">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="37.540979700" lon="-77.431927200">
+  <name>Hospital:Richmond Eye and Ear Hospital</name>
+  <cmt>Hospital:Richmond Eye and Ear Hospital</cmt>
+  <desc>Hospital:Richmond Eye and Ear Hospital</desc>
+</wpt>
+<wpt lat="37.553712200" lon="-77.431112600">
+  <name>Hospital:General Hospital Number 1 (historical)</name>
+  <cmt>Hospital:General Hospital Number 1 (historical)</cmt>
+  <desc>Hospital:General Hospital Number 1 (historical)</desc>
+</wpt>
+<wpt lat="37.553206400" lon="-77.430822200">
+  <name>Hospital:Richmond City Hospital (historical)</name>
+  <cmt>Hospital:Richmond City Hospital (historical)</cmt>
+  <desc>Hospital:Richmond City Hospital (historical)</desc>
+</wpt>
+<wpt lat="37.540979700" lon="-77.430816100">
+  <name>Hospital:Nelson Clinic</name>
+  <cmt>Hospital:Nelson Clinic</cmt>
+  <desc>Hospital:Nelson Clinic</desc>
+</wpt>
+<wpt lat="37.539314400" lon="-77.430707600">
+  <name>Hospital:West Hospital</name>
+  <cmt>Hospital:West Hospital</cmt>
+  <desc>Hospital:West Hospital</desc>
+</wpt>
+<wpt lat="37.539667400" lon="-77.430348200">
+  <name>Hospital:A D Williams Memorial Clinic</name>
+  <cmt>Hospital:A D Williams Memorial Clinic</cmt>
+  <desc>Hospital:A D Williams Memorial Clinic</desc>
+</wpt>
+<wpt lat="38.894931800" lon="-77.430068300">
+  <name>Pharmacy:CVS Pharmacy</name>
+  <cmt>Pharmacy:CVS Pharmacy</cmt>
+  <desc>Pharmacy:CVS Pharmacy</desc>
+</wpt>
+<wpt lat="37.542646400" lon="-77.429982800">
+  <name>Hospital:Virginia Treatment Center</name>
+  <cmt>Hospital:Virginia Treatment Center</cmt>
+  <desc>Hospital:Virginia Treatment Center</desc>
+</wpt>
+<wpt lat="37.540003500" lon="-77.429758100">
+  <name>Hospital:Medical College of Virginia Hospital</name>
+  <cmt>Hospital:Medical College of Virginia Hospital</cmt>
+  <desc>Hospital:Medical College of Virginia Hospital</desc>
+</wpt>
+<wpt lat="37.539936500" lon="-77.429645500">
+  <name>Hospital:VCU Medical Center</name>
+  <cmt>Hospital:VCU Medical Center</cmt>
+  <desc>Hospital:VCU Medical Center</desc>
+</wpt>
+<wpt lat="37.540408600" lon="-77.429092900">
+  <name>Hospital:Critical Care Hospital</name>
+  <cmt>Hospital:Critical Care Hospital</cmt>
+  <desc>Hospital:Critical Care Hospital</desc>
+</wpt>
+<wpt lat="37.539633400" lon="-77.428883700">
+  <name>Hospital:North Hospital</name>
+  <cmt>Hospital:North Hospital</cmt>
+  <desc>Hospital:North Hospital</desc>
+</wpt>
+<wpt lat="37.539017700" lon="-77.428792500">
+  <name>Hospital:VCU Massey Cancer Center</name>
+  <cmt>Hospital:VCU Massey Cancer Center</cmt>
+  <desc>Hospital:VCU Massey Cancer Center</desc>
+</wpt>
+<wpt lat="37.535424300" lon="-77.426371500">
+  <name>Hospital:General Hospital Number 9 (historical)</name>
+  <cmt>Hospital:General Hospital Number 9 (historical)</cmt>
+  <desc>Hospital:General Hospital Number 9 (historical)</desc>
+</wpt>
+<wpt lat="38.476138300" lon="-77.426012400">
+  <name>Pharmacy</name>
+  <cmt>Pharmacy</cmt>
+  <desc>Pharmacy</desc>
+</wpt>
+<wpt lat="37.533479800" lon="-77.425815900">
+  <name>Hospital:General Hospital Number 12 (historical)</name>
+  <cmt>Hospital:General Hospital Number 12 (historical)</cmt>
+  <desc>Hospital:General Hospital Number 12 (historical)</desc>
+</wpt>
+<wpt lat="37.529868800" lon="-77.420815700">
+  <name>Hospital:Second Alabama Hospital (historical)</name>
+  <cmt>Hospital:Second Alabama Hospital (historical)</cmt>
+  <desc>Hospital:Second Alabama Hospital (historical)</desc>
+</wpt>
+<wpt lat="37.564868200" lon="-77.417204500">
+  <name>Hospital:Salvation Army Hospital</name>
+  <cmt>Hospital:Salvation Army Hospital</cmt>
+  <desc>Hospital:Salvation Army Hospital</desc>
+</wpt>
+<wpt lat="37.525979900" lon="-77.411371000">
+  <name>Hospital:Chimborazo Military Hospital (historical)</name>
+  <cmt>Hospital:Chimborazo Military Hospital (historical)</cmt>
+  <desc>Hospital:Chimborazo Military Hospital (historical)</desc>
+</wpt>
+<wpt lat="37.553757200" lon="-77.409704200">
+  <name>Hospital:Richmond Nursing Home</name>
+  <cmt>Hospital:Richmond Nursing Home</cmt>
+  <desc>Hospital:Richmond Nursing Home</desc>
+</wpt>
+<wpt lat="37.254316800" lon="-77.408316200">
+  <name>Hospital:Colonial Heights Health Department</name>
+  <cmt>Hospital:Colonial Heights Health Department</cmt>
+  <desc>Hospital:Colonial Heights Health Department</desc>
+</wpt>
+<wpt lat="37.540979600" lon="-77.406093000">
+  <name>Hospital:Richmond Community Hospital</name>
+  <cmt>Hospital:Richmond Community Hospital</cmt>
+  <desc>Hospital:Richmond Community Hospital</desc>
+</wpt>
+<wpt lat="38.998406200" lon="-77.405675200">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="37.217370000" lon="-77.397480000">
+  <name>Hospital:Southside Regional Medical Center</name>
+  <cmt>Hospital:Southside Regional Medical Center</cmt>
+  <desc>Hospital:Southside Regional Medical Center</desc>
+</wpt>
+<wpt lat="38.967193400" lon="-77.397410200">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="37.627790000" lon="-77.387350000">
+  <name>Hospital:Sheltering Arms Physical Rehabilitation Hospital</name>
+  <cmt>Hospital:Sheltering Arms Physical Rehabilitation Hospital</cmt>
+  <desc>Hospital:Sheltering Arms Physical Rehabilitation Hospital</desc>
+</wpt>
+<wpt lat="37.629680000" lon="-77.385790000">
+  <name>Hospital:Memorial Regional Medical Center</name>
+  <cmt>Hospital:Memorial Regional Medical Center</cmt>
+  <desc>Hospital:Memorial Regional Medical Center</desc>
+</wpt>
+<wpt lat="38.882612000" lon="-77.383319900">
+  <name>Hospital:Sunrise at Fair Oaks</name>
+  <cmt>Hospital:Sunrise at Fair Oaks</cmt>
+  <desc>Hospital:Sunrise at Fair Oaks</desc>
+</wpt>
+<wpt lat="38.394014300" lon="-77.382760300">
+  <name>Hospital:Brookwood Nursing Home</name>
+  <cmt>Hospital:Brookwood Nursing Home</cmt>
+  <desc>Hospital:Brookwood Nursing Home</desc>
+</wpt>
+<wpt lat="38.883723100" lon="-77.381375400">
+  <name>Hospital:Fair Oaks Medical Plaza</name>
+  <cmt>Hospital:Fair Oaks Medical Plaza</cmt>
+  <desc>Hospital:Fair Oaks Medical Plaza</desc>
+</wpt>
+<wpt lat="38.968818100" lon="-77.381076900">
+  <name>Pharmacy:Walgreen&apos;s</name>
+  <cmt>Pharmacy:Walgreen&apos;s</cmt>
+  <desc>Pharmacy:Walgreen&apos;s</desc>
+</wpt>
+<wpt lat="38.884000900" lon="-77.380542000">
+  <name>Hospital:Fair Oaks Professional Building</name>
+  <cmt>Hospital:Fair Oaks Professional Building</cmt>
+  <desc>Hospital:Fair Oaks Professional Building</desc>
+</wpt>
+<wpt lat="38.884834200" lon="-77.379986400">
+  <name>Hospital:Inova Fair Oaks Hospital</name>
+  <cmt>Hospital:Inova Fair Oaks Hospital</cmt>
+  <desc>Hospital:Inova Fair Oaks Hospital</desc>
+</wpt>
+<wpt lat="38.856223600" lon="-77.372486300">
+  <name>Veterinary:Fairfax County Animal Shelter</name>
+  <cmt>Veterinary:Fairfax County Animal Shelter</cmt>
+  <desc>Veterinary:Fairfax County Animal Shelter</desc>
+</wpt>
+<wpt lat="38.966582200" lon="-77.365477700">
+  <name>Hospital:Adult and Pediatric Allergy Center of Northern Virginia</name>
+  <cmt>Hospital:Adult and Pediatric Allergy Center of Northern Virginia</cmt>
+  <desc>Hospital:Adult and Pediatric Allergy Center of Northern Virginia</desc>
+</wpt>
+<wpt lat="38.961682900" lon="-77.363909300">
+  <name>Hospital:Reston Hospital Center</name>
+  <cmt>Hospital:Reston Hospital Center</cmt>
+  <desc>Hospital:Reston Hospital Center</desc>
+</wpt>
+<wpt lat="37.182572500" lon="-77.359130700">
+  <name>Hospital:Southside Regional Medical Center</name>
+  <cmt>Hospital:Southside Regional Medical Center</cmt>
+  <desc>Hospital:Southside Regional Medical Center</desc>
+</wpt>
+<wpt lat="39.040305000" lon="-77.358225000">
+  <name>Veterinary:Animal Medical Center</name>
+  <cmt>Veterinary:Animal Medical Center</cmt>
+  <desc>Veterinary:Animal Medical Center</desc>
+</wpt>
+<wpt lat="39.039180000" lon="-77.357450000">
+  <name>Pharmacy:Rite-Aid</name>
+  <cmt>Pharmacy:Rite-Aid</cmt>
+  <desc>Pharmacy:Rite-Aid</desc>
+</wpt>
+<wpt lat="38.965449800" lon="-77.356821600">
+  <name>Hospital:Access Emergency Hospital</name>
+  <cmt>Hospital:Access Emergency Hospital</cmt>
+  <desc>Hospital:Access Emergency Hospital</desc>
+</wpt>
+<wpt lat="37.238258100" lon="-77.346992200">
+  <name>Hospital:Kenner Army Hospital</name>
+  <cmt>Hospital:Kenner Army Hospital</cmt>
+  <desc>Hospital:Kenner Army Hospital</desc>
+</wpt>
+<wpt lat="38.968506100" lon="-77.340283500">
+  <name>Pharmacy:Lakeside Pharmacy</name>
+  <cmt>Pharmacy:Lakeside Pharmacy</cmt>
+  <desc>Pharmacy:Lakeside Pharmacy</desc>
+</wpt>
+<wpt lat="37.614960000" lon="-77.338360000">
+  <name>Hospital:Lee Medical Center</name>
+  <cmt>Hospital:Lee Medical Center</cmt>
+  <desc>Hospital:Lee Medical Center</desc>
+</wpt>
+<wpt lat="37.616900500" lon="-77.337435400">
+  <name>Hospital:Hanover Outpatient Center</name>
+  <cmt>Hospital:Hanover Outpatient Center</cmt>
+  <desc>Hospital:Hanover Outpatient Center</desc>
+</wpt>
+<wpt lat="38.938531700" lon="-77.330379900">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="37.264316100" lon="-77.325257400">
+  <name>Hospital:Hopewell Convalescent Center</name>
+  <cmt>Hospital:Hopewell Convalescent Center</cmt>
+  <desc>Hospital:Hopewell Convalescent Center</desc>
+</wpt>
+<wpt lat="38.852012300" lon="-77.324974800">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.849170000" lon="-77.316370000">
+  <name>Hospital:Fairfax Medical Center</name>
+  <cmt>Hospital:Fairfax Medical Center</cmt>
+  <desc>Hospital:Fairfax Medical Center</desc>
+</wpt>
+<wpt lat="38.849709000" lon="-77.315847000">
+  <name>Hospital:Columbia Fairfax Surgical Center</name>
+  <cmt>Hospital:Columbia Fairfax Surgical Center</cmt>
+  <desc>Hospital:Columbia Fairfax Surgical Center</desc>
+</wpt>
+<wpt lat="38.848723600" lon="-77.315817900">
+  <name>Hospital:Fairfax Nursing Home</name>
+  <cmt>Hospital:Fairfax Nursing Home</cmt>
+  <desc>Hospital:Fairfax Nursing Home</desc>
+</wpt>
+<wpt lat="38.837612700" lon="-77.310262400">
+  <name>Hospital:Commonwealth Nursing Care Center</name>
+  <cmt>Hospital:Commonwealth Nursing Care Center</cmt>
+  <desc>Hospital:Commonwealth Nursing Care Center</desc>
+</wpt>
+<wpt lat="38.848688800" lon="-77.303536700">
+  <name>Pharmacy:CVS Pharmacy</name>
+  <cmt>Pharmacy:CVS Pharmacy</cmt>
+  <desc>Pharmacy:CVS Pharmacy</desc>
+</wpt>
+<wpt lat="37.223205100" lon="-77.300533600">
+  <name>Hospital:Whaley Medical Center</name>
+  <cmt>Hospital:Whaley Medical Center</cmt>
+  <desc>Hospital:Whaley Medical Center</desc>
+</wpt>
+<wpt lat="38.850555600" lon="-77.300277800">
+  <name>Hospital:Joseph Willard Health Center</name>
+  <cmt>Hospital:Joseph Willard Health Center</cmt>
+  <desc>Hospital:Joseph Willard Health Center</desc>
+</wpt>
+<wpt lat="38.862806400" lon="-77.293054800">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="37.308010000" lon="-77.291730000">
+  <name>Hospital:John Randolph Medical Center</name>
+  <cmt>Hospital:John Randolph Medical Center</cmt>
+  <desc>Hospital:John Randolph Medical Center</desc>
+</wpt>
+<wpt lat="37.307926500" lon="-77.291089200">
+  <name>Hospital:Randolph Hospital</name>
+  <cmt>Hospital:Randolph Hospital</cmt>
+  <desc>Hospital:Randolph Hospital</desc>
+</wpt>
+<wpt lat="37.307648700" lon="-77.289978000">
+  <name>Hospital:John Randolph Nursing Home</name>
+  <cmt>Hospital:John Randolph Nursing Home</cmt>
+  <desc>Hospital:John Randolph Nursing Home</desc>
+</wpt>
+<wpt lat="38.637617600" lon="-77.286372000">
+  <name>Hospital:Potomac Hospital</name>
+  <cmt>Hospital:Potomac Hospital</cmt>
+  <desc>Hospital:Potomac Hospital</desc>
+</wpt>
+<wpt lat="38.817541900" lon="-77.276115400">
+  <name>Pharmacy:Rite-Aid</name>
+  <cmt>Pharmacy:Rite-Aid</cmt>
+  <desc>Pharmacy:Rite-Aid</desc>
+</wpt>
+<wpt lat="38.899782000" lon="-77.266485900">
+  <name>Pharmacy:Rexall Drug Ceter</name>
+  <cmt>Pharmacy:Rexall Drug Ceter</cmt>
+  <desc>Pharmacy:Rexall Drug Ceter</desc>
+</wpt>
+<wpt lat="38.751793500" lon="-77.263928200">
+  <name>Pharmacy:Giant</name>
+  <cmt>Pharmacy:Giant</cmt>
+  <desc>Pharmacy:Giant</desc>
+</wpt>
+<wpt lat="38.903659400" lon="-77.261179200">
+  <name>Pharmacy:Walgreens</name>
+  <cmt>Pharmacy:Walgreens</cmt>
+  <desc>Pharmacy:Walgreens</desc>
+</wpt>
+<wpt lat="38.870556100" lon="-77.261134900">
+  <name>Pharmacy:CVS Pharmacy</name>
+  <cmt>Pharmacy:CVS Pharmacy</cmt>
+  <desc>Pharmacy:CVS Pharmacy</desc>
+</wpt>
+<wpt lat="38.904965500" lon="-77.258814200">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.887973000" lon="-77.243784000">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.780587000" lon="-77.233050600">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.855112200" lon="-77.227482000">
+  <name>Hospital:Woodburn Center for Mental Health</name>
+  <cmt>Hospital:Woodburn Center for Mental Health</cmt>
+  <desc>Hospital:Woodburn Center for Mental Health</desc>
+</wpt>
+<wpt lat="38.857889900" lon="-77.227482000">
+  <name>Hospital:Inova Fairfax Hospital</name>
+  <cmt>Hospital:Inova Fairfax Hospital</cmt>
+  <desc>Hospital:Inova Fairfax Hospital</desc>
+</wpt>
+<wpt lat="38.857484400" lon="-77.226746700">
+  <name>Hospital:Northern Virginia Mental Health Institute</name>
+  <cmt>Hospital:Northern Virginia Mental Health Institute</cmt>
+  <desc>Hospital:Northern Virginia Mental Health Institute</desc>
+</wpt>
+<wpt lat="38.866829200" lon="-77.226457400">
+  <name>Pharmacy:CVS Pharmacy</name>
+  <cmt>Pharmacy:CVS Pharmacy</cmt>
+  <desc>Pharmacy:CVS Pharmacy</desc>
+</wpt>
+<wpt lat="39.141370000" lon="-77.221956500">
+  <name>Pharmacy:Rite-Aid</name>
+  <cmt>Pharmacy:Rite-Aid</cmt>
+  <desc>Pharmacy:Rite-Aid</desc>
+</wpt>
+<wpt lat="38.710293000" lon="-77.213200000">
+  <name>Pharmacy</name>
+  <cmt>Pharmacy</cmt>
+  <desc>Pharmacy</desc>
+</wpt>
+<wpt lat="39.098371700" lon="-77.200473800">
+  <name>Hospital:Adventist Rehabilitation Hospital</name>
+  <cmt>Hospital:Adventist Rehabilitation Hospital</cmt>
+  <desc>Hospital:Adventist Rehabilitation Hospital</desc>
+</wpt>
+<wpt lat="39.099550000" lon="-77.199150000">
+  <name>Hospital:Potomac Ridge Behavioral Health</name>
+  <cmt>Hospital:Potomac Ridge Behavioral Health</cmt>
+  <desc>Hospital:Potomac Ridge Behavioral Health</desc>
+</wpt>
+<wpt lat="39.098441400" lon="-77.198870000">
+  <name>Hospital:Shady Grove Adventist Hospital</name>
+  <cmt>Hospital:Shady Grove Adventist Hospital</cmt>
+  <desc>Hospital:Shady Grove Adventist Hospital</desc>
+</wpt>
+<wpt lat="39.098614400" lon="-77.198513700">
+  <name>Hospital:Shady Grove Adventist Hospital</name>
+  <cmt>Hospital:Shady Grove Adventist Hospital</cmt>
+  <desc>Hospital:Shady Grove Adventist Hospital</desc>
+</wpt>
+<wpt lat="38.779499500" lon="-77.190899800">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.932894000" lon="-77.180043700">
+  <name>Pharmacy:CVS Pharmacy</name>
+  <cmt>Pharmacy:CVS Pharmacy</cmt>
+  <desc>Pharmacy:CVS Pharmacy</desc>
+</wpt>
+<wpt lat="38.886908900" lon="-77.177267800">
+  <name>Pharmacy:Broad Street Pharmacy</name>
+  <cmt>Pharmacy:Broad Street Pharmacy</cmt>
+  <desc>Pharmacy:Broad Street Pharmacy</desc>
+</wpt>
+<wpt lat="38.883250000" lon="-77.172262000">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.869760000" lon="-77.170260000">
+  <name>Hospital:Hospice of Northern Virginia</name>
+  <cmt>Hospital:Hospice of Northern Virginia</cmt>
+  <desc>Hospital:Hospice of Northern Virginia</desc>
+</wpt>
+<wpt lat="38.906222500" lon="-77.164424400">
+  <name>Hospital:Powhatan Nursing Home</name>
+  <cmt>Hospital:Powhatan Nursing Home</cmt>
+  <desc>Hospital:Powhatan Nursing Home</desc>
+</wpt>
+<wpt lat="38.870112000" lon="-77.158591100">
+  <name>Hospital:Dominion Hospital</name>
+  <cmt>Hospital:Dominion Hospital</cmt>
+  <desc>Hospital:Dominion Hospital</desc>
+</wpt>
+<wpt lat="38.900137200" lon="-77.156151900">
+  <name>Pharmacy:CVS Pharmacy</name>
+  <cmt>Pharmacy:CVS Pharmacy</cmt>
+  <desc>Pharmacy:CVS Pharmacy</desc>
+</wpt>
+<wpt lat="38.868012500" lon="-77.141739600">
+  <name>Pharmacy:Target Pharmacy</name>
+  <cmt>Pharmacy:Target Pharmacy</cmt>
+  <desc>Pharmacy:Target Pharmacy</desc>
+</wpt>
+<wpt lat="38.895875000" lon="-77.138018900">
+  <name>Pharmacy:CVS pharmacy</name>
+  <cmt>Pharmacy:CVS pharmacy</cmt>
+  <desc>Pharmacy:CVS pharmacy</desc>
+</wpt>
+<wpt lat="38.700393400" lon="-77.136646200">
+  <name>Hospital:DeWitt Hospital</name>
+  <cmt>Hospital:DeWitt Hospital</cmt>
+  <desc>Hospital:DeWitt Hospital</desc>
+</wpt>
+<wpt lat="38.896662800" lon="-77.131146300">
+  <name>Pharmacy:Preston&apos;s Pharmacy</name>
+  <cmt>Pharmacy:Preston&apos;s Pharmacy</cmt>
+  <desc>Pharmacy:Preston&apos;s Pharmacy</desc>
+</wpt>
+<wpt lat="38.599285400" lon="-77.130256200">
+  <name>Hospital:Glymont Medical Building</name>
+  <cmt>Hospital:Glymont Medical Building</cmt>
+  <desc>Hospital:Glymont Medical Building</desc>
+</wpt>
+<wpt lat="38.860112300" lon="-77.128868200">
+  <name>Hospital:Manor Care Nursing Home</name>
+  <cmt>Hospital:Manor Care Nursing Home</cmt>
+  <desc>Hospital:Manor Care Nursing Home</desc>
+</wpt>
+<wpt lat="38.888450000" lon="-77.127200000">
+  <name>Hospital:Virginia Hospital Center</name>
+  <cmt>Hospital:Virginia Hospital Center</cmt>
+  <desc>Hospital:Virginia Hospital Center</desc>
+</wpt>
+<wpt lat="38.860110000" lon="-77.126090000">
+  <name>Hospital:Northern Virginia Community Hospital</name>
+  <cmt>Hospital:Northern Virginia Community Hospital</cmt>
+  <desc>Hospital:Northern Virginia Community Hospital</desc>
+</wpt>
+<wpt lat="39.026498300" lon="-77.125256700">
+  <name>Hospital:Wildwood Medical Center</name>
+  <cmt>Hospital:Wildwood Medical Center</cmt>
+  <desc>Hospital:Wildwood Medical Center</desc>
+</wpt>
+<wpt lat="39.023964100" lon="-77.123757600">
+  <name>Pharmacy</name>
+  <cmt>Pharmacy</cmt>
+  <desc>Pharmacy</desc>
+</wpt>
+<wpt lat="38.897514500" lon="-77.122616900">
+  <name>Pharmacy:Rite Aid Pharmacy #3854</name>
+  <cmt>Pharmacy:Rite Aid Pharmacy #3854</cmt>
+  <desc>Pharmacy:Rite Aid Pharmacy #3854</desc>
+</wpt>
+<wpt lat="38.812652300" lon="-77.121125900">
+  <name>Pharmacy</name>
+  <cmt>Pharmacy</cmt>
+  <desc>Pharmacy</desc>
+</wpt>
+<wpt lat="39.075520000" lon="-77.114758000">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.812588100" lon="-77.112670400">
+  <name>Pharmacy</name>
+  <cmt>Pharmacy</cmt>
+  <desc>Pharmacy</desc>
+</wpt>
+<wpt lat="38.997157100" lon="-77.110338900">
+  <name>Hospital:Suburban Hospital</name>
+  <cmt>Hospital:Suburban Hospital</cmt>
+  <desc>Hospital:Suburban Hospital</desc>
+</wpt>
+<wpt lat="38.879580100" lon="-77.110103900">
+  <name>Pharmacy:CVS Pharmacy</name>
+  <cmt>Pharmacy:CVS Pharmacy</cmt>
+  <desc>Pharmacy:CVS Pharmacy</desc>
+</wpt>
+<wpt lat="38.936528200" lon="-77.109296900">
+  <name>Hospital:Sibley Memorial Hospital</name>
+  <cmt>Hospital:Sibley Memorial Hospital</cmt>
+  <desc>Hospital:Sibley Memorial Hospital</desc>
+</wpt>
+<wpt lat="38.840668200" lon="-77.107756600">
+  <name>Hospital:Jefferson Memorial Hospital</name>
+  <cmt>Hospital:Jefferson Memorial Hospital</cmt>
+  <desc>Hospital:Jefferson Memorial Hospital</desc>
+</wpt>
+<wpt lat="38.822335200" lon="-77.106089900">
+  <name>Hospital:Inova Alexandria Hospital</name>
+  <cmt>Hospital:Inova Alexandria Hospital</cmt>
+  <desc>Hospital:Inova Alexandria Hospital</desc>
+</wpt>
+<wpt lat="38.893959800" lon="-77.105851600">
+  <name>Hospital:Cherrydale School</name>
+  <cmt>Hospital:Cherrydale School</cmt>
+  <desc>Hospital:Cherrydale School</desc>
+</wpt>
+<wpt lat="38.978354200" lon="-77.098545200">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.895567100" lon="-77.098119900">
+  <name>Pharmacy:Walgreens</name>
+  <cmt>Pharmacy:Walgreens</cmt>
+  <desc>Pharmacy:Walgreens</desc>
+</wpt>
+<wpt lat="38.896453500" lon="-77.096972400">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.886864000" lon="-77.096116000">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.945929000" lon="-77.095832200">
+  <name>Pharmacy:CVS/Pharmacy</name>
+  <cmt>Pharmacy:CVS/Pharmacy</cmt>
+  <desc>Pharmacy:CVS/Pharmacy</desc>
+</wpt>
+<wpt lat="38.916764900" lon="-77.095543500">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.989049800" lon="-77.094708100">
+  <name>Pharmacy:cvs</name>
+  <cmt>Pharmacy:cvs</cmt>
+  <desc>Pharmacy:cvs</desc>
+</wpt>
+<wpt lat="38.889322000" lon="-77.091920000">
+  <name>Pharmacy:Walgreens</name>
+  <cmt>Pharmacy:Walgreens</cmt>
+  <desc>Pharmacy:Walgreens</desc>
+</wpt>
+<wpt lat="38.862096200" lon="-77.091715200">
+  <name>Hospital:Simplicity Urgent Care</name>
+  <cmt>Hospital:Simplicity Urgent Care</cmt>
+  <desc>Hospital:Simplicity Urgent Care</desc>
+</wpt>
+<wpt lat="38.977388900" lon="-77.091056000">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.861971200" lon="-77.086479200">
+  <name>Pharmacy:Rite Aid</name>
+  <cmt>Pharmacy:Rite Aid</cmt>
+  <desc>Pharmacy:Rite Aid</desc>
+</wpt>
+<wpt lat="38.891051700" lon="-77.085375700">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.960662500" lon="-77.085305200">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.863223400" lon="-77.085256400">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.908167100" lon="-77.084422400">
+  <name>Hospital:Riverside Hospital</name>
+  <cmt>Hospital:Riverside Hospital</cmt>
+  <desc>Hospital:Riverside Hospital</desc>
+</wpt>
+<wpt lat="38.956365500" lon="-77.083862100">
+  <name>Pharmacy:Rodmans Discount Drugs</name>
+  <cmt>Pharmacy:Rodmans Discount Drugs</cmt>
+  <desc>Pharmacy:Rodmans Discount Drugs</desc>
+</wpt>
+<wpt lat="38.949445200" lon="-77.079991600">
+  <name>Pharmacy</name>
+  <cmt>Pharmacy</cmt>
+  <desc>Pharmacy</desc>
+</wpt>
+<wpt lat="39.079036900" lon="-77.079190300">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="39.081822800" lon="-77.077737000">
+  <name>Pharmacy:Rite Aid</name>
+  <cmt>Pharmacy:Rite Aid</cmt>
+  <desc>Pharmacy:Rite Aid</desc>
+</wpt>
+<wpt lat="38.739559000" lon="-77.076644500">
+  <name>Hospital:Inova Mount Vernon Hospital</name>
+  <cmt>Hospital:Inova Mount Vernon Hospital</cmt>
+  <desc>Hospital:Inova Mount Vernon Hospital</desc>
+</wpt>
+<wpt lat="38.964731800" lon="-77.075812000">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.826779600" lon="-77.075533400">
+  <name>Hospital:Circle Terrace Hospital</name>
+  <cmt>Hospital:Circle Terrace Hospital</cmt>
+  <desc>Hospital:Circle Terrace Hospital</desc>
+</wpt>
+<wpt lat="39.033032000" lon="-77.074032000">
+  <name>Pharmacy:Kensington Pharmacy</name>
+  <cmt>Pharmacy:Kensington Pharmacy</cmt>
+  <desc>Pharmacy:Kensington Pharmacy</desc>
+</wpt>
+<wpt lat="38.622895900" lon="-77.073865900">
+  <name>Hospital:Civista Health Center</name>
+  <cmt>Hospital:Civista Health Center</cmt>
+  <desc>Hospital:Civista Health Center</desc>
+</wpt>
+<wpt lat="39.033532000" lon="-77.073454000">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.895613100" lon="-77.071729100">
+  <name>Pharmacy:Rite Aid</name>
+  <cmt>Pharmacy:Rite Aid</cmt>
+  <desc>Pharmacy:Rite Aid</desc>
+</wpt>
+<wpt lat="38.919907500" lon="-77.071537900">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.955310400" lon="-77.069647200">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.908606200" lon="-77.063718900">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.944696000" lon="-77.063407000">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.862197100" lon="-77.063149100">
+  <name>Pharmacy:Rite-Aid</name>
+  <cmt>Pharmacy:Rite-Aid</cmt>
+  <desc>Pharmacy:Rite-Aid</desc>
+</wpt>
+<wpt lat="38.904998000" lon="-77.058756000">
+  <name>Veterinary:Georgetown Veterinary Hospital</name>
+  <cmt>Veterinary:Georgetown Veterinary Hospital</cmt>
+  <desc>Veterinary:Georgetown Veterinary Hospital</desc>
+</wpt>
+<wpt lat="38.905400200" lon="-77.057667800">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="39.020942900" lon="-77.056644200">
+  <name>Hospital:Sylvan Manor Health Care Center</name>
+  <cmt>Hospital:Sylvan Manor Health Care Center</cmt>
+  <desc>Hospital:Sylvan Manor Health Care Center</desc>
+</wpt>
+<wpt lat="38.971500000" lon="-77.055600000">
+  <name>Hospital:Knollwood Hospital For Sick Children Nursing Home</name>
+  <cmt>Hospital:Knollwood Hospital For Sick Children Nursing Home</cmt>
+  <desc>Hospital:Knollwood Hospital For Sick Children Nursing Home</desc>
+</wpt>
+<wpt lat="38.929825700" lon="-77.055516900">
+  <name>Pharmacy:Cathedral Pharmacy</name>
+  <cmt>Pharmacy:Cathedral Pharmacy</cmt>
+  <desc>Pharmacy:Cathedral Pharmacy</desc>
+</wpt>
+<wpt lat="38.796502400" lon="-77.055255000">
+  <name>Veterinary:Alexandria Animal Shelter</name>
+  <cmt>Veterinary:Alexandria Animal Shelter</cmt>
+  <desc>Veterinary:Alexandria Animal Shelter</desc>
+</wpt>
+<wpt lat="38.820611700" lon="-77.054601100">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="39.090941600" lon="-77.053311200">
+  <name>Hospital:Bel-Pre Health Center</name>
+  <cmt>Hospital:Bel-Pre Health Center</cmt>
+  <desc>Hospital:Bel-Pre Health Center</desc>
+</wpt>
+<wpt lat="38.924152300" lon="-77.052225600">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="39.060944100" lon="-77.049831300">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.904798000" lon="-77.049734000">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.905450000" lon="-77.048511300">
+  <name>Pharmacy:Walgreens</name>
+  <cmt>Pharmacy:Walgreens</cmt>
+  <desc>Pharmacy:Walgreens</desc>
+</wpt>
+<wpt lat="38.900187200" lon="-77.046429100">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.909459500" lon="-77.045946900">
+  <name>Veterinary:Dupont Veterinary Clinic</name>
+  <cmt>Veterinary:Dupont Veterinary Clinic</cmt>
+  <desc>Veterinary:Dupont Veterinary Clinic</desc>
+</wpt>
+<wpt lat="38.914903000" lon="-77.045949300">
+  <name>Pharmacy:Rite-Aid</name>
+  <cmt>Pharmacy:Rite-Aid</cmt>
+  <desc>Pharmacy:Rite-Aid</desc>
+</wpt>
+<wpt lat="38.905489100" lon="-77.045132000">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.902215800" lon="-77.044615000">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.909445800" lon="-77.044400000">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.900520600" lon="-77.043751400">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.908313500" lon="-77.043206800">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="39.025110100" lon="-77.042948300">
+  <name>Hospital:Central Health Clinic</name>
+  <cmt>Hospital:Central Health Clinic</cmt>
+  <desc>Hospital:Central Health Clinic</desc>
+</wpt>
+<wpt lat="39.016144600" lon="-77.042399100">
+  <name>Hospital:Forest Glen Medical Center</name>
+  <cmt>Hospital:Forest Glen Medical Center</cmt>
+  <desc>Hospital:Forest Glen Medical Center</desc>
+</wpt>
+<wpt lat="39.010769500" lon="-77.041996400">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.899018000" lon="-77.041083000">
+  <name>Pharmacy:GNC</name>
+  <cmt>Pharmacy:GNC</cmt>
+  <desc>Pharmacy:GNC</desc>
+</wpt>
+<wpt lat="38.898120200" lon="-77.040586000">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.909804100" lon="-77.038287800">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.902161000" lon="-77.034900000">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.928200000" lon="-77.033200000">
+  <name>Hospital:Buckley Upper Cardoza Health Center</name>
+  <cmt>Hospital:Buckley Upper Cardoza Health Center</cmt>
+  <desc>Hospital:Buckley Upper Cardoza Health Center</desc>
+</wpt>
+<wpt lat="38.904461100" lon="-77.032285300">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.992340000" lon="-77.032092700">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.918922800" lon="-77.031717700">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.898915000" lon="-77.031670000">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.925944600" lon="-77.030254600">
+  <name>Hospital:Carver Hospital (historical)</name>
+  <cmt>Hospital:Carver Hospital (historical)</cmt>
+  <desc>Hospital:Carver Hospital (historical)</desc>
+</wpt>
+<wpt lat="38.916853100" lon="-77.029859300">
+  <name>Pharmacy:Rite Aid</name>
+  <cmt>Pharmacy:Rite Aid</cmt>
+  <desc>Pharmacy:Rite Aid</desc>
+</wpt>
+<wpt lat="38.895646500" lon="-77.029304800">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.957635900" lon="-77.028633900">
+  <name>Pharmacy:Rite Aid</name>
+  <cmt>Pharmacy:Rite Aid</cmt>
+  <desc>Pharmacy:Rite Aid</desc>
+</wpt>
+<wpt lat="38.974310000" lon="-77.027740000">
+  <name>Hospital:Walter Reed Army Medical Center</name>
+  <cmt>Hospital:Walter Reed Army Medical Center</cmt>
+  <desc>Hospital:Walter Reed Army Medical Center</desc>
+</wpt>
+<wpt lat="38.969438600" lon="-77.027703100">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.953726100" lon="-77.027368000">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.966900000" lon="-77.027100000">
+  <name>Hospital:Union Multi-Care Medical Center</name>
+  <cmt>Hospital:Union Multi-Care Medical Center</cmt>
+  <desc>Hospital:Union Multi-Care Medical Center</desc>
+</wpt>
+<wpt lat="38.981953300" lon="-77.026260700">
+  <name>Hospital:Hillcrest Northwest Ambulatory Center</name>
+  <cmt>Hospital:Hillcrest Northwest Ambulatory Center</cmt>
+  <desc>Hospital:Hillcrest Northwest Ambulatory Center</desc>
+</wpt>
+<wpt lat="38.916852700" lon="-77.026169800">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.904632000" lon="-77.025716000">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.895944900" lon="-77.022742400">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.915837700" lon="-77.022228800">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.917271200" lon="-77.020073400">
+  <name>Hospital:Howard University Hospital</name>
+  <cmt>Hospital:Howard University Hospital</cmt>
+  <desc>Hospital:Howard University Hospital</desc>
+</wpt>
+<wpt lat="38.930666800" lon="-77.017198700">
+  <name>Hospital:Herewood Hospital (historical)</name>
+  <cmt>Hospital:Herewood Hospital (historical)</cmt>
+  <desc>Hospital:Herewood Hospital (historical)</desc>
+</wpt>
+<wpt lat="38.899969000" lon="-77.016802000">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.871939200" lon="-77.015973900">
+  <name>Pharmacy</name>
+  <cmt>Pharmacy</cmt>
+  <desc>Pharmacy</desc>
+</wpt>
+<wpt lat="38.929380000" lon="-77.015360000">
+  <name>Hospital:Washington Hospital Center</name>
+  <cmt>Hospital:Washington Hospital Center</cmt>
+  <desc>Hospital:Washington Hospital Center</desc>
+</wpt>
+<wpt lat="38.927141100" lon="-77.014962900">
+  <name>Hospital:Children&apos;s National Medical Center</name>
+  <cmt>Hospital:Children&apos;s National Medical Center</cmt>
+  <desc>Hospital:Children&apos;s National Medical Center</desc>
+</wpt>
+<wpt lat="39.021896900" lon="-77.014722100">
+  <name>Veterinary:Four Corners Animal Hospital</name>
+  <cmt>Veterinary:Four Corners Animal Hospital</cmt>
+  <desc>Veterinary:Four Corners Animal Hospital</desc>
+</wpt>
+<wpt lat="38.927300000" lon="-77.014700000">
+  <name>Hospital:Childrens Health Center at Childrens Hospital</name>
+  <cmt>Hospital:Childrens Health Center at Childrens Hospital</cmt>
+  <desc>Hospital:Childrens Health Center at Childrens Hospital</desc>
+</wpt>
+<wpt lat="38.927300000" lon="-77.013900000">
+  <name>Hospital:Childrens National Medical Center - Adolescent Health Center</name>
+  <cmt>Hospital:Childrens National Medical Center - Adolescent Health Center</cmt>
+  <desc>Hospital:Childrens National Medical Center - Adolescent Health Center</desc>
+</wpt>
+<wpt lat="38.930560000" lon="-77.013680000">
+  <name>Hospital:National Rehabilitation Hospital</name>
+  <cmt>Hospital:National Rehabilitation Hospital</cmt>
+  <desc>Hospital:National Rehabilitation Hospital</desc>
+</wpt>
+<wpt lat="38.929260000" lon="-77.010300000">
+  <name>Hospital:Veterans Affairs Medical Center</name>
+  <cmt>Hospital:Veterans Affairs Medical Center</cmt>
+  <desc>Hospital:Veterans Affairs Medical Center</desc>
+</wpt>
+<wpt lat="38.935944400" lon="-77.009976400">
+  <name>Hospital:Armed Forces Retirement Home - Washington</name>
+  <cmt>Hospital:Armed Forces Retirement Home - Washington</cmt>
+  <desc>Hospital:Armed Forces Retirement Home - Washington</desc>
+</wpt>
+<wpt lat="38.903400000" lon="-77.008600000">
+  <name>Hospital:Kaiser Permanente-North Capitol Medical Center</name>
+  <cmt>Hospital:Kaiser Permanente-North Capitol Medical Center</cmt>
+  <desc>Hospital:Kaiser Permanente-North Capitol Medical Center</desc>
+</wpt>
+<wpt lat="38.905774700" lon="-77.006196000">
+  <name>Pharmacy:CVS Phamacy</name>
+  <cmt>Pharmacy:CVS Phamacy</cmt>
+  <desc>Pharmacy:CVS Phamacy</desc>
+</wpt>
+<wpt lat="38.876782700" lon="-77.003801100">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.985516600" lon="-77.001408800">
+  <name>Hospital:Washington Adventist Hospital</name>
+  <cmt>Hospital:Washington Adventist Hospital</cmt>
+  <desc>Hospital:Washington Adventist Hospital</desc>
+</wpt>
+<wpt lat="38.984756000" lon="-77.000562000">
+  <name>Hospital:Adventist Rehabilitation Hospital of Maryland</name>
+  <cmt>Hospital:Adventist Rehabilitation Hospital of Maryland</cmt>
+  <desc>Hospital:Adventist Rehabilitation Hospital of Maryland</desc>
+</wpt>
+<wpt lat="38.900353800" lon="-77.000251600">
+  <name>Pharmacy:Dynamic Health and Wellness</name>
+  <cmt>Pharmacy:Dynamic Health and Wellness</cmt>
+  <desc>Pharmacy:Dynamic Health and Wellness</desc>
+</wpt>
+<wpt lat="38.945200000" lon="-76.995800000">
+  <name>Hospital:Carroll Manor Nursing and Rehabilitation Center</name>
+  <cmt>Hospital:Carroll Manor Nursing and Rehabilitation Center</cmt>
+  <desc>Hospital:Carroll Manor Nursing and Rehabilitation Center</desc>
+</wpt>
+<wpt lat="38.890050000" lon="-76.995177000">
+  <name>Pharmacy</name>
+  <cmt>Pharmacy</cmt>
+  <desc>Pharmacy</desc>
+</wpt>
+<wpt lat="38.899989700" lon="-76.994551200">
+  <name>Pharmacy:Rite-Aid</name>
+  <cmt>Pharmacy:Rite-Aid</cmt>
+  <desc>Pharmacy:Rite-Aid</desc>
+</wpt>
+<wpt lat="38.728600000" lon="-76.993240000">
+  <name>Hospital:Fort Washington Hospital</name>
+  <cmt>Hospital:Fort Washington Hospital</cmt>
+  <desc>Hospital:Fort Washington Hospital</desc>
+</wpt>
+<wpt lat="38.883167700" lon="-76.992753500">
+  <name>Hospital:Old Naval Hospital</name>
+  <cmt>Hospital:Old Naval Hospital</cmt>
+  <desc>Hospital:Old Naval Hospital</desc>
+</wpt>
+<wpt lat="38.899996200" lon="-76.991925300">
+  <name>Pharmacy:Super Pharmacy &amp; Medical Equipment</name>
+  <cmt>Pharmacy:Super Pharmacy &amp; Medical Equipment</cmt>
+  <desc>Pharmacy:Super Pharmacy &amp; Medical Equipment</desc>
+</wpt>
+<wpt lat="38.943669100" lon="-76.991451900">
+  <name>Hospital:Providence Hospital</name>
+  <cmt>Hospital:Providence Hospital</cmt>
+  <desc>Hospital:Providence Hospital</desc>
+</wpt>
+<wpt lat="38.882438000" lon="-76.989905000">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.987850500" lon="-76.988729900">
+  <name>Pharmacy:Community Clinic</name>
+  <cmt>Pharmacy:Community Clinic</cmt>
+  <desc>Pharmacy:Community Clinic</desc>
+</wpt>
+<wpt lat="38.864500000" lon="-76.986600000">
+  <name>Hospital:Anacostia Community Health Center</name>
+  <cmt>Hospital:Anacostia Community Health Center</cmt>
+  <desc>Hospital:Anacostia Community Health Center</desc>
+</wpt>
+<wpt lat="38.836383900" lon="-76.984620300">
+  <name>Hospital:Greater Southeast Community Hospital</name>
+  <cmt>Hospital:Greater Southeast Community Hospital</cmt>
+  <desc>Hospital:Greater Southeast Community Hospital</desc>
+</wpt>
+<wpt lat="38.837200000" lon="-76.983800000">
+  <name>Hospital:Health Care Institute</name>
+  <cmt>Hospital:Health Care Institute</cmt>
+  <desc>Hospital:Health Care Institute</desc>
+</wpt>
+<wpt lat="38.933600000" lon="-76.983700000">
+  <name>Hospital:Washington District of Columbia Free Clinic</name>
+  <cmt>Hospital:Washington District of Columbia Free Clinic</cmt>
+  <desc>Hospital:Washington District of Columbia Free Clinic</desc>
+</wpt>
+<wpt lat="38.901303700" lon="-76.982104400">
+  <name>Pharmacy</name>
+  <cmt>Pharmacy</cmt>
+  <desc>Pharmacy</desc>
+</wpt>
+<wpt lat="38.921500300" lon="-76.981364400">
+  <name>Hospital:Eckington Hospital (historical)</name>
+  <cmt>Hospital:Eckington Hospital (historical)</cmt>
+  <desc>Hospital:Eckington Hospital (historical)</desc>
+</wpt>
+<wpt lat="38.941305000" lon="-76.981321000">
+  <name>Hospital:The HSC Pediatric Center</name>
+  <cmt>Hospital:The HSC Pediatric Center</cmt>
+  <desc>Hospital:The HSC Pediatric Center</desc>
+</wpt>
+<wpt lat="38.866200000" lon="-76.981200000">
+  <name>Hospital:Good Hope Health Center</name>
+  <cmt>Hospital:Good Hope Health Center</cmt>
+  <desc>Hospital:Good Hope Health Center</desc>
+</wpt>
+<wpt lat="38.941375300" lon="-76.981108500">
+  <name>Hospital:The Hospital for Sick Children</name>
+  <cmt>Hospital:The Hospital for Sick Children</cmt>
+  <desc>Hospital:The Hospital for Sick Children</desc>
+</wpt>
+<wpt lat="38.952610900" lon="-76.979420000">
+  <name>Hospital:Carroll Manor Nursing Home</name>
+  <cmt>Hospital:Carroll Manor Nursing Home</cmt>
+  <desc>Hospital:Carroll Manor Nursing Home</desc>
+</wpt>
+<wpt lat="38.885382700" lon="-76.975766800">
+  <name>Hospital:District of Columbia General Hospital</name>
+  <cmt>Hospital:District of Columbia General Hospital</cmt>
+  <desc>Hospital:District of Columbia General Hospital</desc>
+</wpt>
+<wpt lat="39.020985400" lon="-76.975238600">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.885112100" lon="-76.973586300">
+  <name>Hospital:Marine Hospital (historical)</name>
+  <cmt>Hospital:Marine Hospital (historical)</cmt>
+  <desc>Hospital:Marine Hospital (historical)</desc>
+</wpt>
+<wpt lat="39.053442400" lon="-76.973309200">
+  <name>Hospital:Cedarcroft Sanitorium (historical)</name>
+  <cmt>Hospital:Cedarcroft Sanitorium (historical)</cmt>
+  <desc>Hospital:Cedarcroft Sanitorium (historical)</desc>
+</wpt>
+<wpt lat="38.920700000" lon="-76.972300000">
+  <name>Hospital:Woodridge Community Health Center</name>
+  <cmt>Hospital:Woodridge Community Health Center</cmt>
+  <desc>Hospital:Woodridge Community Health Center</desc>
+</wpt>
+<wpt lat="38.529410000" lon="-76.972110000">
+  <name>Hospital:Civista Medical Center</name>
+  <cmt>Hospital:Civista Medical Center</cmt>
+  <desc>Hospital:Civista Medical Center</desc>
+</wpt>
+<wpt lat="38.860700000" lon="-76.969300000">
+  <name>Hospital:Childrens Health Center at Good Hope Road</name>
+  <cmt>Hospital:Childrens Health Center at Good Hope Road</cmt>
+  <desc>Hospital:Childrens Health Center at Good Hope Road</desc>
+</wpt>
+<wpt lat="38.861908700" lon="-76.968317400">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.869561400" lon="-76.959303200">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="38.533732100" lon="-76.958584200">
+  <name>Hospital:Charles County Nursing Home</name>
+  <cmt>Hospital:Charles County Nursing Home</cmt>
+  <desc>Hospital:Charles County Nursing Home</desc>
+</wpt>
+<wpt lat="38.900700000" lon="-76.943300000">
+  <name>Hospital:Hunt Place Community Health Center</name>
+  <cmt>Hospital:Hunt Place Community Health Center</cmt>
+  <desc>Hospital:Hunt Place Community Health Center</desc>
+</wpt>
+<wpt lat="38.963444000" lon="-76.940807800">
+  <name>Hospital:Leland Memorial Hospital</name>
+  <cmt>Hospital:Leland Memorial Hospital</cmt>
+  <desc>Hospital:Leland Memorial Hospital</desc>
+</wpt>
+<wpt lat="38.979899200" lon="-76.938276600">
+  <name>Pharmacy</name>
+  <cmt>Pharmacy</cmt>
+  <desc>Pharmacy</desc>
+</wpt>
+<wpt lat="36.691920000" lon="-76.937120000">
+  <name>Hospital:Southampton Memorial Hospital</name>
+  <cmt>Hospital:Southampton Memorial Hospital</cmt>
+  <desc>Hospital:Southampton Memorial Hospital</desc>
+</wpt>
+<wpt lat="38.927889200" lon="-76.926085100">
+  <name>Hospital:Gladys Spellman Specialty Hospital and Nursing Center</name>
+  <cmt>Hospital:Gladys Spellman Specialty Hospital and Nursing Center</cmt>
+  <desc>Hospital:Gladys Spellman Specialty Hospital and Nursing Center</desc>
+</wpt>
+<wpt lat="36.677928500" lon="-76.923294100">
+  <name>Hospital:Raiford Hospital (historical)</name>
+  <cmt>Hospital:Raiford Hospital (historical)</cmt>
+  <desc>Hospital:Raiford Hospital (historical)</desc>
+</wpt>
+<wpt lat="38.930461500" lon="-76.921723700">
+  <name>Hospital:Prince George&apos;s Hospital Center</name>
+  <cmt>Hospital:Prince George&apos;s Hospital Center</cmt>
+  <desc>Hospital:Prince George&apos;s Hospital Center</desc>
+</wpt>
+<wpt lat="38.618040000" lon="-76.920120000">
+  <name>Hospital:Saint Charles Medical Center</name>
+  <cmt>Hospital:Saint Charles Medical Center</cmt>
+  <desc>Hospital:Saint Charles Medical Center</desc>
+</wpt>
+<wpt lat="38.616785400" lon="-76.916083300">
+  <name>Hospital:Civista Surgery Center</name>
+  <cmt>Hospital:Civista Surgery Center</cmt>
+  <desc>Hospital:Civista Surgery Center</desc>
+</wpt>
+<wpt lat="38.616785400" lon="-76.916083300">
+  <name>Hospital:Civista Women&apos;s Health Center</name>
+  <cmt>Hospital:Civista Women&apos;s Health Center</cmt>
+  <desc>Hospital:Civista Women&apos;s Health Center</desc>
+</wpt>
+<wpt lat="38.807721000" lon="-76.896398500">
+  <name>Hospital:Malcolm Grow Medical Center</name>
+  <cmt>Hospital:Malcolm Grow Medical Center</cmt>
+  <desc>Hospital:Malcolm Grow Medical Center</desc>
+</wpt>
+<wpt lat="37.901010000" lon="-76.875840000">
+  <name>Hospital:Riverside Tappahannock Hospital</name>
+  <cmt>Hospital:Riverside Tappahannock Hospital</cmt>
+  <desc>Hospital:Riverside Tappahannock Hospital</desc>
+</wpt>
+<wpt lat="38.748448300" lon="-76.875805300">
+  <name>Hospital:Southern Maryland Hospital Center</name>
+  <cmt>Hospital:Southern Maryland Hospital Center</cmt>
+  <desc>Hospital:Southern Maryland Hospital Center</desc>
+</wpt>
+<wpt lat="38.983166000" lon="-76.865527900">
+  <name>Hospital:Doctors Community Hospital</name>
+  <cmt>Hospital:Doctors Community Hospital</cmt>
+  <desc>Hospital:Doctors Community Hospital</desc>
+</wpt>
+<wpt lat="38.909834100" lon="-76.855805200">
+  <name>Hospital:Hospice of the Chesapeake</name>
+  <cmt>Hospital:Hospice of the Chesapeake</cmt>
+  <desc>Hospital:Hospice of the Chesapeake</desc>
+</wpt>
+<wpt lat="38.962888700" lon="-76.814137400">
+  <name>Hospital:Glenn Dale Hospital (historical)</name>
+  <cmt>Hospital:Glenn Dale Hospital (historical)</cmt>
+  <desc>Hospital:Glenn Dale Hospital (historical)</desc>
+</wpt>
+<wpt lat="38.949278000" lon="-76.745246500">
+  <name>Hospital:Bowie Health Center</name>
+  <cmt>Hospital:Bowie Health Center</cmt>
+  <desc>Hospital:Bowie Health Center</desc>
+</wpt>
+<wpt lat="37.316902400" lon="-76.737415400">
+  <name>Pharmacy:Rite-Aid</name>
+  <cmt>Pharmacy:Rite-Aid</cmt>
+  <desc>Pharmacy:Rite-Aid</desc>
+</wpt>
+<wpt lat="37.284512700" lon="-76.736146300">
+  <name>Hospital:Eastern State Hospital</name>
+  <cmt>Hospital:Eastern State Hospital</cmt>
+  <desc>Hospital:Eastern State Hospital</desc>
+</wpt>
+<wpt lat="37.281617600" lon="-76.720222400">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="37.274496300" lon="-76.678915900">
+  <name>Pharmacy:Farm Fresh</name>
+  <cmt>Pharmacy:Farm Fresh</cmt>
+  <desc>Pharmacy:Farm Fresh</desc>
+</wpt>
+<wpt lat="37.269713200" lon="-76.675730000">
+  <name>Pharmacy:Rite-Aid</name>
+  <cmt>Pharmacy:Rite-Aid</cmt>
+  <desc>Pharmacy:Rite-Aid</desc>
+</wpt>
+<wpt lat="38.322570000" lon="-76.672970000">
+  <name>Hospital:Shanti Medical Center</name>
+  <cmt>Hospital:Shanti Medical Center</cmt>
+  <desc>Hospital:Shanti Medical Center</desc>
+</wpt>
+<wpt lat="38.302070100" lon="-76.638382900">
+  <name>Hospital:Saint Marys Hospital</name>
+  <cmt>Hospital:Saint Marys Hospital</cmt>
+  <desc>Hospital:Saint Marys Hospital</desc>
+</wpt>
+<wpt lat="38.298592800" lon="-76.637159800">
+  <name>Hospital:Saint Marys Nursing Home</name>
+  <cmt>Hospital:Saint Marys Nursing Home</cmt>
+  <desc>Hospital:Saint Marys Nursing Home</desc>
+</wpt>
+<wpt lat="38.557626900" lon="-76.599126500">
+  <name>Pharmacy:Rite-Aid</name>
+  <cmt>Pharmacy:Rite-Aid</cmt>
+  <desc>Pharmacy:Rite-Aid</desc>
+</wpt>
+<wpt lat="38.558138700" lon="-76.597344400">
+  <name>Hospital:Calvert County Health Services Center</name>
+  <cmt>Hospital:Calvert County Health Services Center</cmt>
+  <desc>Hospital:Calvert County Health Services Center</desc>
+</wpt>
+<wpt lat="38.559757900" lon="-76.597259700">
+  <name>Pharmacy:Walgreens</name>
+  <cmt>Pharmacy:Walgreens</cmt>
+  <desc>Pharmacy:Walgreens</desc>
+</wpt>
+<wpt lat="38.559900500" lon="-76.596368100">
+  <name>Hospital:Calvert Memorial Hospital</name>
+  <cmt>Hospital:Calvert Memorial Hospital</cmt>
+  <desc>Hospital:Calvert Memorial Hospital</desc>
+</wpt>
+<wpt lat="38.558809900" lon="-76.595692200">
+  <name>Hospital:Calvert County Nursing Center</name>
+  <cmt>Hospital:Calvert County Nursing Center</cmt>
+  <desc>Hospital:Calvert County Nursing Center</desc>
+</wpt>
+<wpt lat="36.729038700" lon="-76.595229200">
+  <name>Hospital:Lakeview Medical Clinic</name>
+  <cmt>Hospital:Lakeview Medical Clinic</cmt>
+  <desc>Hospital:Lakeview Medical Clinic</desc>
+</wpt>
+<wpt lat="36.755710000" lon="-76.583010000">
+  <name>Hospital:Louise Obici Memorial Hospital</name>
+  <cmt>Hospital:Louise Obici Memorial Hospital</cmt>
+  <desc>Hospital:Louise Obici Memorial Hospital</desc>
+</wpt>
+<wpt lat="37.203550000" lon="-76.582390000">
+  <name>Hospital:Woodside Hospital</name>
+  <cmt>Hospital:Woodside Hospital</cmt>
+  <desc>Hospital:Woodside Hospital</desc>
+</wpt>
+<wpt lat="36.773179100" lon="-76.580925600">
+  <name>Hospital:Sentara Obici Hospital</name>
+  <cmt>Hospital:Sentara Obici Hospital</cmt>
+  <desc>Hospital:Sentara Obici Hospital</desc>
+</wpt>
+<wpt lat="37.162290000" lon="-76.573610000">
+  <name>Hospital:McDonald Army Community Hospital</name>
+  <cmt>Hospital:McDonald Army Community Hospital</cmt>
+  <desc>Hospital:McDonald Army Community Hospital</desc>
+</wpt>
+<wpt lat="37.966637800" lon="-76.563062500">
+  <name>Pharmacy:CVS</name>
+  <cmt>Pharmacy:CVS</cmt>
+  <desc>Pharmacy:CVS</desc>
+</wpt>
+<wpt lat="37.421807800" lon="-76.543284700">
+  <name>Hospital:Walter Reed Convalescent Center</name>
+  <cmt>Hospital:Walter Reed Convalescent Center</cmt>
+  <desc>Hospital:Walter Reed Convalescent Center</desc>
+</wpt>
+<wpt lat="37.420340000" lon="-76.543020000">
+  <name>Hospital:Riverside Walter Reed Hospital</name>
+  <cmt>Hospital:Riverside Walter Reed Hospital</cmt>
+  <desc>Hospital:Riverside Walter Reed Hospital</desc>
+</wpt>
+<wpt lat="37.104415100" lon="-76.513006500">
+  <name>Pharmacy</name>
+  <cmt>Pharmacy</cmt>
+  <desc>Pharmacy</desc>
+</wpt>
+<wpt lat="37.104569100" lon="-76.511869200">
+  <name>Pharmacy</name>
+  <cmt>Pharmacy</cmt>
+  <desc>Pharmacy</desc>
+</wpt>
+<wpt lat="37.144310000" lon="-76.511340000">
+  <name>Hospital:Mary Immaculate Hospital</name>
+  <cmt>Hospital:Mary Immaculate Hospital</cmt>
+  <desc>Hospital:Mary Immaculate Hospital</desc>
+</wpt>
+<wpt lat="37.147645800" lon="-76.510228800">
+  <name>Hospital:Patrick Henry Hospital</name>
+  <cmt>Hospital:Patrick Henry Hospital</cmt>
+  <desc>Hospital:Patrick Henry Hospital</desc>
+</wpt>
+<wpt lat="37.064166700" lon="-76.488888900">
+  <name>Hospital:Warwick Medical Center Building 6</name>
+  <cmt>Hospital:Warwick Medical Center Building 6</cmt>
+  <desc>Hospital:Warwick Medical Center Building 6</desc>
+</wpt>
+<wpt lat="37.064590000" lon="-76.483010000">
+  <name>Hospital:Riverside Regional Medical Center</name>
+  <cmt>Hospital:Riverside Regional Medical Center</cmt>
+  <desc>Hospital:Riverside Regional Medical Center</desc>
+</wpt>
+<wpt lat="38.271941400" lon="-76.445610200">
+  <name>Hospital:United States Naval Hospital</name>
+  <cmt>Hospital:United States Naval Hospital</cmt>
+  <desc>Hospital:United States Naval Hospital</desc>
+</wpt>
+<wpt lat="38.189166700" lon="-76.428611100">
+  <name>Hospital:Ethel Chance Hall</name>
+  <cmt>Hospital:Ethel Chance Hall</cmt>
+  <desc>Hospital:Ethel Chance Hall</desc>
+</wpt>
+<wpt lat="36.987647600" lon="-76.412446900">
+  <name>Hospital:Whittaker Memorial Hospital</name>
+  <cmt>Hospital:Whittaker Memorial Hospital</cmt>
+  <desc>Hospital:Whittaker Memorial Hospital</desc>
+</wpt>
+<wpt lat="36.986111100" lon="-76.392777800">
+  <name>Hospital:Mary Immaculate Hospital</name>
+  <cmt>Hospital:Mary Immaculate Hospital</cmt>
+  <desc>Hospital:Mary Immaculate Hospital</desc>
+</wpt>
+<wpt lat="37.122909700" lon="-76.392663500">
+  <name>Pharmacy:Rite Aid</name>
+  <cmt>Pharmacy:Rite Aid</cmt>
+  <desc>Pharmacy:Rite Aid</desc>
+</wpt>
+<wpt lat="37.127905400" lon="-76.391247300">
+  <name>Pharmacy</name>
+  <cmt>Pharmacy</cmt>
+  <desc>Pharmacy</desc>
+</wpt>
+<wpt lat="37.702720000" lon="-76.390140000">
+  <name>Hospital:Rappahannock General Hospital</name>
+  <cmt>Hospital:Rappahannock General Hospital</cmt>
+  <desc>Hospital:Rappahannock General Hospital</desc>
+</wpt>
+<wpt lat="37.010980000" lon="-76.368000000">
+  <name>Hospital:Sentar Careplex Hospital</name>
+  <cmt>Hospital:Sentar Careplex Hospital</cmt>
+  <desc>Hospital:Sentar Careplex Hospital</desc>
+</wpt>
+<wpt lat="37.073760000" lon="-76.358550000">
+  <name>Hospital:US Air Force Hospital</name>
+  <cmt>Hospital:US Air Force Hospital</cmt>
+  <desc>Hospital:US Air Force Hospital</desc>
+</wpt>
+<wpt lat="36.837370000" lon="-76.348550000">
+  <name>Hospital:Bon Secours Maryview Medical Center</name>
+  <cmt>Hospital:Bon Secours Maryview Medical Center</cmt>
+  <desc>Hospital:Bon Secours Maryview Medical Center</desc>
+</wpt>
+<wpt lat="37.022924400" lon="-76.338554800">
+  <name>Hospital:Bayberry Hospital</name>
+  <cmt>Hospital:Bayberry Hospital</cmt>
+  <desc>Hospital:Bayberry Hospital</desc>
+</wpt>
+<wpt lat="37.014869000" lon="-76.332443500">
+  <name>Hospital:Hampton Veterans Administration Medical Center</name>
+  <cmt>Hospital:Hampton Veterans Administration Medical Center</cmt>
+  <desc>Hospital:Hampton Veterans Administration Medical Center</desc>
+</wpt>
+<wpt lat="37.014720000" lon="-76.331390000">
+  <name>Hospital:Hampton VA Medical Center</name>
+  <cmt>Hospital:Hampton VA Medical Center</cmt>
+  <desc>Hospital:Hampton VA Medical Center</desc>
+</wpt>
+<wpt lat="36.842370200" lon="-76.308830300">
+  <name>Hospital:Portsmouth General Hospital</name>
+  <cmt>Hospital:Portsmouth General Hospital</cmt>
+  <desc>Hospital:Portsmouth General Hospital</desc>
+</wpt>
+<wpt lat="36.836536900" lon="-76.305219000">
+  <name>Hospital:Portsmouth Health Center</name>
+  <cmt>Hospital:Portsmouth Health Center</cmt>
+  <desc>Hospital:Portsmouth Health Center</desc>
+</wpt>
+<wpt lat="36.844170000" lon="-76.305170000">
+  <name>Hospital:Portsmouth Naval Hospital</name>
+  <cmt>Hospital:Portsmouth Naval Hospital</cmt>
+  <desc>Hospital:Portsmouth Naval Hospital</desc>
+</wpt>
+<wpt lat="36.863190000" lon="-76.303500000">
+  <name>Hospital:Sentara Norfolk General Hospital</name>
+  <cmt>Hospital:Sentara Norfolk General Hospital</cmt>
+  <desc>Hospital:Sentara Norfolk General Hospital</desc>
+</wpt>
+<wpt lat="36.859722200" lon="-76.303055600">
+  <name>Hospital:Norfolk Health Center</name>
+  <cmt>Hospital:Norfolk Health Center</cmt>
+  <desc>Hospital:Norfolk Health Center</desc>
+</wpt>
+<wpt lat="36.901536500" lon="-76.302719300">
+  <name>Hospital:United States Public Health Service Hospital</name>
+  <cmt>Hospital:United States Public Health Service Hospital</cmt>
+  <desc>Hospital:United States Public Health Service Hospital</desc>
+</wpt>
+<wpt lat="36.862920000" lon="-76.302320000">
+  <name>Hospital:Childrens Hospital of The Kings Daughters</name>
+  <cmt>Hospital:Childrens Hospital of The Kings Daughters</cmt>
+  <desc>Hospital:Childrens Hospital of The Kings Daughters</desc>
+</wpt>
+<wpt lat="36.886670400" lon="-76.302274500">
+  <name>Pharmacy:Grey&apos;s Pharmacy</name>
+  <cmt>Pharmacy:Grey&apos;s Pharmacy</cmt>
+  <desc>Pharmacy:Grey&apos;s Pharmacy</desc>
+</wpt>
+<wpt lat="36.871381400" lon="-76.296774400">
+  <name>Pharmacy:Wallgreen&apos;s</name>
+  <cmt>Pharmacy:Wallgreen&apos;s</cmt>
+  <desc>Pharmacy:Wallgreen&apos;s</desc>
+</wpt>
+<wpt lat="36.870880100" lon="-76.295581300">
+  <name>Pharmacy:Rite-Aid</name>
+  <cmt>Pharmacy:Rite-Aid</cmt>
+  <desc>Pharmacy:Rite-Aid</desc>
+</wpt>
+<wpt lat="36.869169600" lon="-76.292979000">
+  <name>Pharmacy:Rite-Aid</name>
+  <cmt>Pharmacy:Rite-Aid</cmt>
+  <desc>Pharmacy:Rite-Aid</desc>
+</wpt>
+<wpt lat="36.899310000" lon="-76.281610000">
+  <name>Hospital:Bon Secours - DePaul Medical Center</name>
+  <cmt>Hospital:Bon Secours - DePaul Medical Center</cmt>
+  <desc>Hospital:Bon Secours - DePaul Medical Center</desc>
+</wpt>
+<wpt lat="36.914422900" lon="-76.273450400">
+  <name>Pharmacy:Walgreens</name>
+  <cmt>Pharmacy:Walgreens</cmt>
+  <desc>Pharmacy:Walgreens</desc>
+</wpt>
+<wpt lat="36.915203500" lon="-76.273450400">
+  <name>Pharmacy:Rite Aid</name>
+  <cmt>Pharmacy:Rite Aid</cmt>
+  <desc>Pharmacy:Rite Aid</desc>
+</wpt>
+<wpt lat="36.849870000" lon="-76.259383900">
+  <name>Hospital:Norfolk Community Hospital (historical)</name>
+  <cmt>Hospital:Norfolk Community Hospital (historical)</cmt>
+  <desc>Hospital:Norfolk Community Hospital (historical)</desc>
+</wpt>
+<wpt lat="36.849722200" lon="-76.259166700">
+  <name>Hospital:Norfolk Community Hospital</name>
+  <cmt>Hospital:Norfolk Community Hospital</cmt>
+  <desc>Hospital:Norfolk Community Hospital</desc>
+</wpt>
+<wpt lat="36.954317300" lon="-76.253319800">
+  <name>Pharmacy:RiteAid Pharmacy</name>
+  <cmt>Pharmacy:RiteAid Pharmacy</cmt>
+  <desc>Pharmacy:RiteAid Pharmacy</desc>
+</wpt>
+<wpt lat="36.745980000" lon="-76.246050000">
+  <name>Hospital:Chesapeake General Hospital</name>
+  <cmt>Hospital:Chesapeake General Hospital</cmt>
+  <desc>Hospital:Chesapeake General Hospital</desc>
+</wpt>
+<wpt lat="36.867370000" lon="-76.206050000">
+  <name>Hospital:Lake Taylor Hospital</name>
+  <cmt>Hospital:Lake Taylor Hospital</cmt>
+  <desc>Hospital:Lake Taylor Hospital</desc>
+</wpt>
+<wpt lat="36.852090000" lon="-76.190770000">
+  <name>Hospital:Norfolk Psychiatric Center</name>
+  <cmt>Hospital:Norfolk Psychiatric Center</cmt>
+  <desc>Hospital:Norfolk Psychiatric Center</desc>
+</wpt>
+<wpt lat="36.850147900" lon="-76.189937000">
+  <name>Hospital:Sentara Leigh Hospital</name>
+  <cmt>Hospital:Sentara Leigh Hospital</cmt>
+  <desc>Hospital:Sentara Leigh Hospital</desc>
+</wpt>
+<wpt lat="36.867650000" lon="-76.131600000">
+  <name>Hospital:Sentara Bayside Hospital</name>
+  <cmt>Hospital:Sentara Bayside Hospital</cmt>
+  <desc>Hospital:Sentara Bayside Hospital</desc>
+</wpt>
+<wpt lat="36.819058900" lon="-76.120734500">
+  <name>Pharmacy:Rite Aid</name>
+  <cmt>Pharmacy:Rite Aid</cmt>
+  <desc>Pharmacy:Rite Aid</desc>
+</wpt>
+<wpt lat="38.571070000" lon="-76.068210000">
+  <name>Hospital:Dorchester General Hospital</name>
+  <cmt>Hospital:Dorchester General Hospital</cmt>
+  <desc>Hospital:Dorchester General Hospital</desc>
+</wpt>
+<wpt lat="38.571507500" lon="-76.067162100">
+  <name>Hospital:Dupont Maternity Hospital (historical)</name>
+  <cmt>Hospital:Dupont Maternity Hospital (historical)</cmt>
+  <desc>Hospital:Dupont Maternity Hospital (historical)</desc>
+</wpt>
+<wpt lat="38.561355800" lon="-76.064818800">
+  <name>Pharmacy:walgreen</name>
+  <cmt>Pharmacy:walgreen</cmt>
+  <desc>Pharmacy:walgreen</desc>
+</wpt>
+<wpt lat="38.544330000" lon="-76.063220000">
+  <name>Hospital:Eastern Shore Hospital Center</name>
+  <cmt>Hospital:Eastern Shore Hospital Center</cmt>
+  <desc>Hospital:Eastern Shore Hospital Center</desc>
+</wpt>
+<wpt lat="38.558870100" lon="-76.060173300">
+  <name>Pharmacy:Rite Aid</name>
+  <cmt>Pharmacy:Rite Aid</cmt>
+  <desc>Pharmacy:Rite Aid</desc>
+</wpt>
+<wpt lat="36.864711000" lon="-76.026559100">
+  <name>Hospital:Sentara Virginia Beach General Hospital</name>
+  <cmt>Hospital:Sentara Virginia Beach General Hospital</cmt>
+  <desc>Hospital:Sentara Virginia Beach General Hospital</desc>
+</wpt>
+<wpt lat="36.853204100" lon="-75.979374000">
+  <name>Hospital:General Hospital of Virginia Beach Annex</name>
+  <cmt>Hospital:General Hospital of Virginia Beach Annex</cmt>
+  <desc>Hospital:General Hospital of Virginia Beach Annex</desc>
+</wpt>
+<wpt lat="37.476800000" lon="-75.861040000">
+  <name>Hospital:Shore Memorial Hospital</name>
+  <cmt>Hospital:Shore Memorial Hospital</cmt>
+  <desc>Hospital:Shore Memorial Hospital</desc>
+</wpt>
+<wpt lat="37.996872900" lon="-75.852565200">
+  <name>Hospital:McCready Memorial Hospital</name>
+  <cmt>Hospital:McCready Memorial Hospital</cmt>
+  <desc>Hospital:McCready Memorial Hospital</desc>
+</wpt>
+<wpt lat="38.039846000" lon="-75.770763900">
+  <name>Hospital:Somerset Hospital (historical)</name>
+  <cmt>Hospital:Somerset Hospital (historical)</cmt>
+  <desc>Hospital:Somerset Hospital (historical)</desc>
+</wpt>
+<wpt lat="37.698058300" lon="-75.716292600">
+  <name>Pharmacy:CVS/Pharmacy</name>
+  <cmt>Pharmacy:CVS/Pharmacy</cmt>
+  <desc>Pharmacy:CVS/Pharmacy</desc>
+</wpt>
+<wpt lat="38.343451800" lon="-75.626870000">
+  <name>Hospital:Pine Bluff Sanitarium</name>
+  <cmt>Hospital:Pine Bluff Sanitarium</cmt>
+  <desc>Hospital:Pine Bluff Sanitarium</desc>
+</wpt>
+<wpt lat="38.067621800" lon="-75.558258200">
+  <name>Hospital:Hartley Hall Nursing Home</name>
+  <cmt>Hospital:Hartley Hall Nursing Home</cmt>
+  <desc>Hospital:Hartley Hall Nursing Home</desc>
+</wpt>
+<wpt lat="38.168730300" lon="-75.400473900">
+  <name>Hospital:Harrison House Nursing Home</name>
+  <cmt>Hospital:Harrison House Nursing Home</cmt>
+  <desc>Hospital:Harrison House Nursing Home</desc>
+</wpt>
+<wpt lat="37.932067900" lon="-75.380197600">
+  <name>Hospital:Island Medical Center</name>
+  <cmt>Hospital:Island Medical Center</cmt>
+  <desc>Hospital:Island Medical Center</desc>
+</wpt>
+</gpx>
