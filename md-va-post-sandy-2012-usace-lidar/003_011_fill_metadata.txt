@@ -1,0 +1,346 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Coastal Services Center (CSC)
+      Publication_Date: 20130307
+      Title: 2012 USACE Post Hurricane Sandy Topographic LiDAR: Virginia and Maryland
+      Geospatial_Data_Presentation_Form: las
+      Publication_Information:
+        Publication_Place: Charleston, SC
+        Publisher: NOAA's Ocean Service, Coastal Services Center (CSC)
+      Other_Citation_Details: 
+        This data set has been extracted from one much larger. See the URL for the location of this larger data set.
+      Online_Linkage: http://www.csc.noaa.gov/dataviewer/index.html?action=advsearch&qType=in&qFld=ID&qVal=1437
+      Online_Linkage: http://www.csc.noaa.gov/lidar
+      Online_Linkage: http://www.csc.noaa.gov
+  Description:
+    Abstract:
+      This data set is a raster file of z values with 3165 columns and 3163 rows. The data set was extracted from a larger classified data set and only includes points classified as Ground, Model Key-point (mass point), and Bathymetric Lidar Points within the requested geographic bounds.
+
+      TASK ORDER NAME: VIRGINIA AND MARYLAND LIDAR ACQUISITION FOR HURRICANE SANDY RESPONSE
+      CONTRACT NUMBER: W912P9-10-D-0533
+      TASK ORDER NUMBER: W81C8X2314841
+      Woolpert Project Number: 72903
+
+      HQUSACE required high-resolution digital elevation data developed from airborne LiDAR technology for the Assateague Island, MD;  Assateague Island, VA; Tangier Island, VA; Cape Henry to Willoughby Point, VA; AOIs for a total of
+      approximately eighty (80) square miles in the North Atlantic Division.
+
+      FINAL DELIVERABLES:
+      The final deliverables are listed below. The final LiDAR data was delivered in a UTM projection tiling format, based on a modular layout. The tiles were clipped to eliminate overlap between adjacent tiles.
+      The 1000 meter x 1000 meter tile file name was derived from the National Grid naming convention.
+    Purpose:
+      The data will be used by the USACE to generate digital elevation models and contours for use in, damage assessment to USACE projects, engineering design and design reviews, conservation planning, research, delivery,
+      floodplain mapping, and hydrologic modeling utilizing LiDAR technology. The task order required that the LiDAR data was to be acquired within six (6) days of receiving Notice to Proceed (NTP). The project data will
+      consist of high accuracy classified bare-earth LiDAR data in LAS format well as raster digital elevation models per task order requirements. The specifications are based upon the U.S. Geological Survey National Geospatial
+      Program Lidar Base Specifications 1.0, which may be viewed at http://pub.usgs.gov/tm/11b4/.
+    Supplemental_Information:
+      A footprint of this data set may be viewed in Google Earth at:
+      ftp://ftp.csc.noaa.gov/pub/crs/beachmap/qa_docs/ny/usace/2012_USACE_PostSandy_MD_VA_footprint.KMZ
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Multiple_Dates/Times:
+        Single_Date/Time:
+          Calendar_Date: 20121109
+        Single_Date/Time:
+          Calendar_Date: 20121110
+        Single_Date/Time:
+          Calendar_Date: 20121111
+    Currentness_Reference: ground condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: As needed
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -76.015464183277
+      East_Bounding_Coordinate: -75.9834596016047
+      North_Bounding_Coordinate: 36.9586853001441
+      South_Bounding_Coordinate: 36.9266805334294
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: elevation
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Bathymetry/Topography
+      Theme_Keyword: LiDAR
+      Theme_Keyword: LAS
+      Theme_Keyword: Elevation
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: United States
+      Place_Keyword: Virginia
+      Place_Keyword: Assateague Island
+      Place_Keyword: Tangier Island
+      Place_Keyword: Cape Henry
+      Place_Keyword: Willoughby Point
+      Place_Keyword: Maryland
+      Place_Keyword: Assateague Island
+  Access_Constraints:
+    This data set was compiled dynamically, and will exist on ftp.csc.noaa.gov/pub/crs/beachmap/data until 
+    10 days after 03/07/2013, as 003_011_fill.zip. After 10 days this file will be deleted from the system.
+  Use_Constraints:
+    Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use
+    this data for critical applications without a full awareness of its limitations. These data depict the heights at the time of the survey and are only accurate for that time.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: US Army Engineer District St. Louis
+      Contact_Address:
+        Address_Type: mailing and physical
+        Address: 1222 Spruce Street
+        City: St. Louis
+        State_or_Province: MO
+        Postal_Code: 63103
+        Country: USA
+      Contact_Voice_Telephone: 314-331-8389
+  Browse_Graphic:
+    Browse_Graphic_File_Name: ftp://ftp.csc.noaa.gov/pub/crs/beachmap/qa_docs/ny/usace/2012_USACE_PostSandy_MD_VA_footprint.KMZ
+    Browse_Graphic_File_Description: This graphic shows the post Hurricane Sandy LiDAR coverage for Maryland and Virginia.
+    Browse_Graphic_File_Type: kmz
+  Native_Data_Set_Environment: Microsoft Windows Vista Version 6.1 (Build 7600) ; TerraSolid LTD: Terrascan Version 11.01
+Data_Quality_Information:
+  Logical_Consistency_Report: The data is visually inspected by Woolpert, Inc.
+  Completeness_Report: Complete
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: Horizontal accuracy is +/- 0.304m at the 95% confidence level.
+      Quantitative_Horizontal_Positional_Accuracy_Assessment:
+        Horizontal_Positional_Accuracy_Value: 0.304
+        Horizontal_Positional_Accuracy_Explanation: Units in meters. LiDAR system calibration is available upon request from Woolpert, Inc.
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report:
+        The LAS data for the LiDAR Acquisition for Hurricane Sandy Response Virginia and Maryland Areas of
+        Interest was compared to survey control points to determine the FVA of the LAS Swath and of the Bare-
+        Earth DEM.
+        LAS Swath Fundamental Vertical Accuracy (FVA) Tested 0.143m (14.3cm) fundamental
+        vertical accuracy at a 95 percent confidence level, derived according to NSSDA, in open
+        terrain using 0.073m (7.3cm) (RMSEz x 1.96000, tested against the TIN).
+        Bare-Earth DEM Fundamental Vertical Accuracy (FVA) Tested 0.143m (14.3cm) fundamental
+        vertical accuracy at a 95 percent confidence level, derived according to NSSDA, in open
+        terrain using 0.073m (7.3cm) (RMSEz x 1.96000, tested against the DEM).
+      Quantitative_Vertical_Positional_Accuracy_Assessment:
+        Vertical_Positional_Accuracy_Value: 0.143
+        Vertical_Positional_Accuracy_Explanation:
+          Units in meters. LAS Swath Fundamental Vertical Accuracy (FVA) Tested 0.143m (14.3cm) fundamental
+          vertical accuracy at a 95 percent confidence level, derived according to NSSDA, in open
+          terrain using 0.073m (7.3cm) (RMSEz x 1.96000, tested against the TIN).
+      Quantitative_Vertical_Positional_Accuracy_Assessment:
+        Vertical_Positional_Accuracy_Value: 0.143
+        Vertical_Positional_Accuracy_Explanation:
+          Units in meters. Bare-Earth DEM Fundamental Vertical Accuracy (FVA) Tested 0.143m (14.3cm) fundamental
+          vertical accuracy at a 95 percent confidence level, derived according to NSSDA, in open
+          terrain using 0.073m (7.3cm) (RMSEz x 1.96000, tested against the DEM).
+  Lineage:
+    Process_Step:
+      Process_Description:
+        Using an Optech Gemini LiDAR Sensor, 32 flight lines of high density data, at a nominal pulse spacing (NPS) of 1 meter, were collected along the Virginia coastal area separated into areas of interest: Assateague Island (Maryland),
+        Assateague Island (Virginia), Tangier Island (Virginia), and Cape Henry to Willoughby Point (Virginia) (approximately  80 square miles). Data Acquisition Height = 5,500 feet AGL - Aircraft Speed = 125 Knots. Multiple returns were
+        recorded for each laser pulse along with an intensity value for each return. A total of three (3) missions were flown during a period from November 9, 2012 through November 11, 2012. Two airborne global positioning system (GPS)
+        base stations were used in support of the LiDAR data acquisition. Sixteen (16) ground control points were surveyed through static methods. The geoid used to reduce satellite derived elevations to orthometric heights was Geoid12A.
+        Data for the task order is referenced to the UTM Zone 18N, North American Datum of 1983 (NAD83), and NAVD88, in Meters. Airborne GPS data was differentially processed and integrated with the post processed IMU data to derive a
+        smoothed best estimate of trajectory (SBET). The SBET was used to reduce the LiDAR slant range measurements to a raw reflective surface for each flight line. The coverage was classified to extract a bare earth digital elevation
+        model (DEM) and separate last returns. In addition to the LAS deliverables, one layer of coverage was delivered in the ArcGrid Format: bare-earth.
+      Process_Date: 20121109
+      Process_Time: 1200
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Woolpert, Inc.
+          Contact_Position: Geospatial Services
+          Contact_Address:
+            Address_Type: mailing and physical
+            Address: 4454 Idea Center Blvd.
+            City: Dayton
+            State_or_Province: OH
+            Postal_Code: 45430
+            Country: USA
+          Contact_Voice_Telephone: (937) 461-5660
+          Contact_Facsimile_Telephone: (937) 461-0743
+          Hours_of_Service: 8:00 a.m. to 5:00 p.m. Eastern Time
+    Process_Step:
+      Process_Description:
+        The LiDAR system calibration and system performance is verified on a periodic basis using Woolpert's calibration range. The calibration range consists of a large building and runway. The edges of the building and control points
+        along the runway have been located using conventional survey methods. Inertial measurement unit (IMU) misalignment angles and horizontal accuracy are calculated by comparing the position of the building edges between opposing
+        flight lines. The scanner scale factor and vertical accuracy is calculated through comparison of LiDAR data against control points along the runway. Field calibration is performed on all flight lines to refine the IMU
+        misalignment angles. IMU misalignment angles are calculated from the relative displacement of features within the overlap region of adjacent (and opposing) flight lines. The raw LiDAR data is reduced using the refined
+        misalignment angles.
+      Process_Date: 2012
+      Process_Time: 1200
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Woolpert, Inc.
+          Contact_Position: Geospatial Services
+          Contact_Address:
+            Address_Type: mailing and physical
+            Address: 4454 Idea Center Blvd.
+            City: Dayton
+            State_or_Province: OH
+            Postal_Code: 45430
+            Country: USA
+          Contact_Voice_Telephone: (937) 461-5660
+          Contact_Facsimile_Telephone: (937) 461-0743
+          Hours_of_Service: 8:00 a.m. to 5:00 p.m. Eastern Time
+    Process_Step:
+      Process_Description:
+        Once the data acquisition and GPS processing phases are complete, the LiDAR data was processed immediately to verify the coverage had no voids. The GPS and IMU data was post processed using differential and Kalman filter
+        algorithms to derive a best estimate of trajectory. The quality of the solution was verified to be consistent with the accuracy requirements of the project.
+      Process_Date: 20121112
+      Process_Time: 1200
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Woolpert, Inc.
+          Contact_Position: Geospatial Services
+          Contact_Address:
+            Address_Type: mailing and physical
+            Address: 4454 Idea Center Blvd.
+            City: Dayton
+            State_or_Province: OH
+            Postal_Code: 45430
+            Country: USA
+          Contact_Voice_Telephone: (937) 461-5660
+          Contact_Facsimile_Telephone: (937) 461-0743
+          Hours_of_Service: 8:00 a.m. to 5:00 p.m. Eastern Time
+    Process_Step:
+      Process_Description:
+        The individual flight lines were inspected to ensure the systematic and residual errors have been identified and removed. Then, the flight lines were compared to adjacent flight lines for any mismatches to obtain a homogenous
+        coverage throughout the project area. The point cloud underwent a classification process to determine bare-earth points and non-ground points utilizing "first and only" as well as "last of many" LiDAR returns. This process
+        determined Default (Class 1), Ground (Class 2),Noise (Class 7), Model Key Points (Class 8), and Overlap (Class 12) classifications. The bare-earth (Class 2 - Ground) LiDAR points underwent a manual QA/QC step to verify that
+        artifacts have been removed from the bare-earth surface. The surveyed ground control points are used to perform the accuracy checks and statistical analysis of the LiDAR dataset.
+      Process_Date: 20121112
+      Process_Time: 1200
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Woolpert, Inc.
+          Contact_Position: Geospatial Services
+          Contact_Address:
+            Address_Type: mailing and physical
+            Address: 4454 Idea Center Blvd.
+            City: Dayton
+            State_or_Province: OH
+            Postal_Code: 45430
+            Country: USA
+          Contact_Voice_Telephone: (937) 461-5660
+          Contact_Facsimile_Telephone: (937) 461-0743
+          Hours_of_Service: 8:00 a.m. to 5:00 p.m. Eastern Time
+    Process_Step:
+      Process_Description:
+        The NOAA Coastal Services Center (CSC) received topographic files in LAS format. The files contained lidar
+        elevation and intensity measurements. The data were received in projected coordinates of NAD83 UTM18N, meters
+        and were vertically referenced to NAVD88 using the Geoid12a model. The vertical units of the data were
+        meters. CSC performed the following processing for data storage and Digital Coast provisioning purposes:
+        1. The topographic las files were converted from orthometric (NAVD88) heights to ellipsoidal heights using Geoid12a.
+        2. The topographic las files were converted from Projected Coordinates (NAD83 UTM18N, meters) to Geographic Coordinates (NAD83, decimal degrees).
+      Process_Date: 201301
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: NOAA Coastal Services Center
+          Contact_Address:
+            Address_Type: mailing and physical
+            Address: 2234 South Hobson Ave.
+            City: Charleston
+            State_or_Province: SC
+            Postal_Code: 29405-2413
+          Contact_Voice_Telephone: 843-740-1202
+          Contact_Electronic_Mail_Address: csc.info@noaa.gov
+    
+    Process_Step:
+      Process_Description:
+        The vertical values in this data set have been converted to reference NAVD88, using the GEOID12A grids provided by the National Geodetic Survey.   
+      Process_Date: 20130307
+    
+    Process_Step:
+      Process_Description:
+        The data values in this data set have been rasterized and stored in a 32-bit Floating point GeoTIFF format.  An ESRI style TIFF world file (.tfw) has been included with the coordinate location information, though it lacks the projection information.  
+      Process_Date: 20130307
+    
+    Process_Step:
+      Process_Description:
+        The cell values in this data set represent the average elevation measurement found within each cell, or if there were no values in the cell, a value may have been interpolated from surrounding cells with data values.  The perimeter cells of a 3x3 box surrounding the empty cell is queried for known values - if less than three values are found, then the perimeter cells of a 5x5 box is searched for known values.  This process is repeated for a 7x7 box if less than 3 values are found.  If less than three accumulated known values were found, then the cell is assigned a no data value (usually -999999). If at least 3 values were found in that search, the value in the empty cell is interpolated from the known values using an Inverse Distance Weighting (IDW) method.
+      Process_Date: 20130307
+    
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: NOAA Coastal Services Center
+          Contact_Address:
+            Address_Type: mailing and physical 
+            Address: 2234 South Hobson Ave.
+            City: Charleston
+            State_or_Province: SC
+            Postal_Code: 29405-2413
+            Country: US
+          Contact_Voice_Telephone: 843-740-1202
+          Contact_Electronic_Mail_Address: csc.info@noaa.gov
+  Cloud_Cover: 0
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: String
+  
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+  
+    Geographic:
+      Latitude_Resolution: 1.0123086771138e-05
+      Longitude_Resolution: 1.0123086771138e-05
+      Geographic_Coordinate_Units: Decimal degrees
+    
+    Geodetic_Model:
+      Horizontal_Datum_Name:
+        North American Datum of 1983
+      Ellipsoid_Name:
+        Geodetic Reference System 80
+      Semi-major_Axis:
+        6378137
+      Denominator_of_Flattening_Ratio:
+        298.257
+  Vertical_Coordinate_System_Definition:
+    Altitude_System_Definition:
+      Altitude_Datum_Name:
+        North American Vertical Datum of 1988
+      Altitude_Resolution: 0.0328
+      Altitude_Distance_Units: feet
+      Altitude_Encoding_Method:
+        Explicit elevation coordinate included with horizontal coordinates
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: NOAA Coastal Services Center
+      Contact_Address:
+        Address_Type: mailing and physical
+        Address: 2234 South Hobson Ave.
+        City: Charleston
+        State_or_Province: SC
+        Postal_Code: 29405-2413
+      Contact_Voice_Telephone: 843-740-1202
+      Contact_Electronic_Mail_Address: csc.info@noaa.gov
+  Resource_Description: Downloadable Data
+  Distribution_Liability:
+    Any conclusions drawn from the analysis of this information are not the responsibility
+    of Woolpert, USACE, USGS, NOAA, the Coastal Services Center or its partners.
+  Custom_Order_Process:
+    This data can be obtained on-line at the following URL:
+    http://www.csc.noaa.gov/dataviewer/index.html?action=advsearch&qType=in&qFld=ID&qVal=1437
+Metadata_Reference_Information:
+  Metadata_Date: 20130114
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: NOAA Coastal Services Center
+      Contact_Address:
+        Address_Type: mailing and physical
+        Address: 2234 South Hobson Ave.
+        City: Charleston
+        State_or_Province: SC
+        Postal_Code: 29405-2413
+      Contact_Voice_Telephone: 843-740-1202
+      Contact_Electronic_Mail_Address: csc.info@noaa.gov
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
