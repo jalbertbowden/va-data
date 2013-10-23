@@ -1,0 +1,109 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: College Park
+      Originator: Mid-Atlantic RESAC
+      Originator: University of Maryland
+      Publication_Date: 20030319
+      Title: RESAC 1990 CBW Impervious Surface Product - Version 1.3
+      Geospatial_Data_Presentation_Form: data set
+  Description:
+    Abstract: First installment (Version 1.3) of the Greater CBW Impervious Surface Product for the year 1990.  Values indicate the fractional amount of impervious material present in a single 30m x 30m pixel and range from 0-100%.
+    Purpose: Aid in the development of impervious and land cover coefficients for watershed modeling efforts and useful for tracking the development occurring the the Greater Chesapeake Bay Watershed.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 19841030
+        Ending_Date: 19931007
+    Currentness_Reference: Ground Condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: Irregular
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -81.400
+      East_Bounding_Coordinate: -74.125
+      North_Bounding_Coordinate: 43.760
+      South_Bounding_Coordinate: 36.214
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: CIMS Subject Keyword List
+      Theme_Keyword: Bay
+      Theme_Keyword: Development
+      Theme_Keyword: Impervious
+      Theme_Keyword: Land
+      Theme_Keyword: Model
+      Theme_Keyword: Monitoring
+      Theme_Keyword: Policy
+      Theme_Keyword: Pollution
+      Theme_Keyword: Population
+      Theme_Keyword: Sediment
+      Theme_Keyword: Sprawl
+      Theme_Keyword: Stressor
+      Theme_Keyword: Surface
+      Theme_Keyword: Surfaces
+      Theme_Keyword: Toxics
+      Theme_Keyword: Tributaries
+      Theme_Keyword: Urban
+      Theme_Keyword: Water
+      Theme_Keyword: Water Quality
+    Place:
+      Place_Keyword_Thesaurus: User Defined Keyword List
+      Place_Keyword: Chesapeake Bay Watershed
+  Access_Constraints: Publically available data set made available by the Mid-Atlantic RESAC to the CBP. Data can be distributed for all in-house CBP operations of the HSPF modeling group and to the public under pre-determined conditions.
+  Use_Constraints: None
+Data_Quality_Information:
+  Attribute_Accuracy: 
+    Attribute_Accuracy_Report: Validation was performed using a mutually exclusive validation data set. The rms error for the impervious surface product version 1.3 is estimated to be 8-12%.
+  Logical_Consistency_Report: N/A Raster Data
+  Completeness_Report: Errors in value assignment for small and linear features are present due to the resolution limitations of the TM sensor.  Other omissions and commission errors may exist based on the radiometric resolution of the TM sensor and the cost-complexity pruning of the decision tree algorithm.
+  Lineage:
+    Process_Step:
+      Process_Description: The Mid-Atlantic RESAC acquired Landsat 5 TM imagery (Level 0) for the entire Chesapeake Bay Watershed and the surrounding Counties.
+      Process_Date: 20010608
+    Process_Step:
+      Process_Description: The TM imagery was then processed to Level 1, orthorectified (rms error < 0.5 pixel) and resampled to 30m
+      Process_Date: 20020118
+    Process_Step:
+      Process_Description: The orthorectified 30m product was processed to exoatmospheric reflectance values using published algorithms
+      Process_Date: 20020226
+    Process_Step:
+      Process_Description: Impervious surface training data was derived from GIS features in Montgomery County Maryland and the surrounding Mid-Atlantic region.  The data was split in to multiple sets of mutually exclusive calibration and validation data.
+      Process_Date: 20020920
+    Process_Step:
+      Process_Description: Variables were then derived from the orthorectified Landsat TM imagery and used to developed a series of decision tree algorithms in the Splus software package.
+      Process_Date: 20030122
+    Process_Step:
+      Process_Description: The algorithms were then applied to the Landsat imagery and tested against validation data sets in an iterative process of algorithm development, testing and refinement.
+      Process_Date: 20030507
+    Process_Step:
+      Process_Description: A final Chesapeake Bay-wide algorithm was then applied to the Landsat TM imagery and quality assurance testing was performed.  Several problematic areas were identified and additional post processing steps were performed to produce the final product.
+      Process_Date: 20030611
+    Process_Step:
+      Process_Description: Product delivery of the Chesapeake Bay-wide 1990 Impervious Surface Product version 1.3
+      Process_Date: 20030813
+Entity_and_Attribute_Information:
+  Overview_Description: 
+    Entity_and_Attribute_Overview: The value assigned to each 30m pixel is as units of percent impervious cover.
+    Entity_and_Attribute_Detail_Citation: Impervious values range from 10 to 100% (10% being the lower limit of identifiable impervious features) and 0 being representative of non-impervious features.
+Metadata_Reference_Information:
+  Metadata_Date: 20040319
+  Metadata_Review_Date: 20040319
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary: 
+        Contact_Organization: University Of Maryland, College Park 
+        Contact_Person: Andrew Smith
+      Contact_Position: Faculty Research Assistant - Geography Department
+      Contact_Address: 
+        Address_Type: mailing and physical
+        Address: 2138 LeFrak Hall
+        Address: University of Maryland
+        City: College Park
+        State_or_Province: Maryland
+        Postal_Code: 20742
+        Country: USA
+      Contact_Voice_Telephone: (301)405-4109
+      Contact_Electronic_Mail_Address: ajsmith_no_spam_@geog.umd.edu [remove _no_spam_ for valid email address]
+  Metadata_Standard_Name: FGDC-STD-001-1998
+  Metadata_Standard_Version: FGDC-STD-001-1998 

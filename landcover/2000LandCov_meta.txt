@@ -1,0 +1,161 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Regional Earth Science Applications Center (RESAC)
+      Originator: University of Maryland
+      Publication_Date: Unpublished material
+      Title: RESAC Chesapeake Bay Watershed Land Cover - 2000 - Version 1.05
+      Geospatial_Data_Presentation_Form: GIS coverage
+      Online_Linkage: http://www.geog.umd.edu/resac/outgoing/
+  Description:
+    Abstract: A land cover map of the Chesapeake Bay Watershed plus the non-watershed components of counties that intersect the Watershed. The map has 17 cover classses modified from the Anderson Level II system. Landsat remotely sensed data and additional thematic data bases were used to create the map. A decision-tree classification was used, together with ad hoc algorithms to improve local accuracies. Landsat 7 ETM+ data were acquired for three seasons. The spatial accuracy is nominally 30m, but accuracy increases rapidly at larger minimum mapping units and, as a general rule, the map should not be used below 1ha (100m x 100m) resolution. The map extends beyond the watershed but has not been validated outside the watershed boundary and the intersecting counties.
+    Purpose: To map land cover of the entire Chesapeake Bay Watershed consistently for large area ecosystem research, land management and land use planning.
+    Supplemental_Information:  This data targets the following audience(s): scientists.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 19990703
+        Ending_Date: 20011113
+    Currentness_Reference: Ground Condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: Irregular
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -81.00
+      East_Bounding_Coordinate: -74.08
+      North_Bounding_Coordinate: +43.60
+      South_Bounding_Coordinate: +36.55
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: CIMS Subject Keyword List
+      Theme_Keyword: Forest
+      Theme_Keyword: Land
+      Theme_Keyword: Land cover map
+      Theme_Keyword: Tributaries
+      Theme_Keyword: Water Quality
+    Place:
+      Place_Keyword_Thesaurus: User Defined Keyword List
+      Place_Keyword: Delaware
+      Place_Keyword: District of Columbia
+      Place_Keyword: Maryland
+      Place_Keyword: New York
+      Place_Keyword: Pennsylvania
+      Place_Keyword: Virginia
+      Place_Keyword: West Virginia
+  Access_Constraints: None
+  Use_Constraints: None
+  Cross_Reference:
+    Citation_Information:
+      Originator: College Park
+      Originator: Geography Department
+      Originator: RESAC
+      Originator: University of Maryland
+      Publication_Date: Unpublished material
+      Title: RESAC 2000 CBW Impervious Surface Product - Version 1.3 --data set
+      Geospatial_Data_Presentation_Form: map
+Data_Quality_Information:
+  Attribute_Accuracy: 
+    Attribute_Accuracy_Report: Validated using comparison of land cover in independent validation sites with mapped land cover classes. 4,629,686 validation points, 775,540 excluding water. 98% accuracy with water sites (kappa = 0.92), 86% without water sites (kappa = 0.83).
+  Logical_Consistency_Report: N/A
+  Completeness_Report: No grid cells missing
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: Better than 0.5 pixel (15m)
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: N/A
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: ~junk~
+          Originator: College Park
+          Originator: University Of Maryland
+          Publication_Date: Unpublished material
+          Title: Residential Environmental Management
+          Geospatial_Data_Presentation_Form: project
+      Type_of_Source_Media: project
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 20020701
+            Ending_Date: 20031231
+        Source_Currentness_Reference: Ground Condition
+      Source_Citation_Abbreviation: Landsat
+      Source_Contribution: Multispectral land surface reflectance data
+    Process_Step:
+      Process_Description: Landsat 7 ETM+ data acquired for 21 scenes for spring, summer and early winter. Data orthorectified, calibrated and converted to top of the atmosphere reflectance, cloud and cloud shadows removed, normalized to correct for topographic effects on incident solar radiation, and radiometrically normalized relative to overlapping data at scene edges. Corrected Landsat data plus selected digital data(e.g., elevation, road density) classified using multiple decision trees - a hierachical, monothetic, divisive statistical method. Final classes adjusted for user needs using postprocessing steps.
+      Process_Date: 20040319
+Spatial_Data_Organization_Information:
+  Indirect_Spatial_Reference: Chesapeake Bay Watershed plus the non-watershed parts of counties that intersect the Watershed boundary.
+  Direct_Spatial_Reference_Method: Raster
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 1.0
+      Longitude_Resolution: 1.3
+      Geographic_Coordinate_Units: decimal seconds
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137
+      Denominator_of_Flattening_Ratio: 298.257
+Entity_and_Attribute_Information:
+  Overview_Description: 
+    Entity_and_Attribute_Overview: Landsat ETM+ satellite data
+                                   GDT Dynamap2000 street network file
+                                   USGS digital elevation
+                                   Land cover data from RESAC field studies, air photo interpretation and collaborator data sets.
+    Entity_and_Attribute_Detail_Citation: Standard Landsat data acquired from USGS EDC
+                                          GDT Inc.
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary: 
+        Contact_Organization: University Of Maryland, College Park 
+        Contact_Person: Stephen Prince
+      Contact_Position: Director
+      Contact_Address: 
+        Address_Type: mailing and physical
+        Address: RESAC  Geography Department
+        Address: University of Maryland
+        City: College Park
+        State_or_Province: Maryland
+        Postal_Code: 20742-8225
+        Country: USA
+      Contact_Voice_Telephone: 301 405 4062
+      Contact_Electronic_Mail_Address: sprince_no_spam_@geog.umd.edu [remove _no_spam_ for valid email address]
+  Distribution_Liability: none provided
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: RESAC_2000_lc
+        Format_Version_Number: 1.05
+        Transfer_Size: 200.0 MB
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address: 
+              Network_Resource_Name: http://www.geog.umd.edu/resac/outgoing/
+    Fees: none
+Metadata_Reference_Information:
+  Metadata_Date: 20040318
+  Metadata_Review_Date: 20040319
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary: 
+        Contact_Organization: University Of Maryland, College Park 
+        Contact_Person: Stephen Prince
+      Contact_Position: Director
+      Contact_Address: 
+        Address_Type: mailing and physical
+        Address: RESAC  Geography Department
+        Address: University of Maryland
+        City: College Park
+        State_or_Province: Maryland
+        Postal_Code: 20742-8225
+        Country: USA
+      Contact_Voice_Telephone: 301 405 4062
+      Contact_Electronic_Mail_Address: sprince_no_spam_@geog.umd.edu [remove _no_spam_ for valid email address]
+  Metadata_Standard_Name: FGDC-STD-001-1998
+  Metadata_Standard_Version: FGDC-STD-001-1998 
