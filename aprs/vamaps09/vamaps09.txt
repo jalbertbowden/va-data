@@ -1,0 +1,28 @@
+ftp://ftp.tapr.org/aprssig/maps/PCMaps/vamaps09.txt
+
+vamaps09.txt
+
+This file contains a MAPLIST.VA and lots of Virginia maps.  A previous
+version of VAMAPSxx.ZIP renamed some of Bob's standard distribution
+files and you may have been using them...even though Bob had issued
+updates of the maps by the original filename.  This version uses
+the original filenames in the MAPLIST.  
+
+Included are at least two new maps:  VASTIDE.MAP and VAVABCH.MAP for 
+the South Tidewater and Virginia Beach areas respectively.
+
+Send updates to Dan N4WZR at djv@gte.net.
+
+Instructions:
+
+1.  Download the ZIP file and put it in your APRS directory.
+2.  At the DOS prompt, in the APRS directory, type the command:
+
+	PKUNZIP -d VAMAPS09.ZIP
+
+3.  MAPLIST.VA will go to the APRS\MAPLISTS directory and the
+Virginia maps will go to the APRS\MAPS directory.
+4.  In APRS, select (M)ap (C)hange_maplist amd enter "VA" to use
+these maps.
+
+73 de Dan

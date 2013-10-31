@@ -1,0 +1,115 @@
+ftp://ftp.tapr.org/aprssig/maps/PCMaps/
+All About Making Maps
+
+NOTE: There are several other READMEMAP files:
+
+MAPS.HTM	 gives an overview and info on where to find maps
+MAPSCD.HTM	 tells how to make maps from the USGS CD ROMS
+MAPSHST.HTM	 tells you how to make maps simply by driving around and saving a track history!
+Anyone that is going to distribute maps should read the info in MAPS.HTM.
+
+OVERVIEW: My general philosophy is to keep maps simple so that APRS will run quickly on any PC machine, including 8088 laptops, and so that maps can be made by anyone and distributed within the amateur community without any license or royalty concerns. You can even look at them with a DOS text editor! TO minimize disk space and to speed up map drawing, APRS limits the number of points to 2999 and the number of labels to 199; any more detail on one map just clutters the screen. This does NOT limit overall map resolution, however, since APRS can overlay maps of increasing resolution as you zoom in. To see the street level ability of APRS, Zoom in to the 1 mile range in the center of Idaho Falls.
+
+METHODS FOR MAKING APRS MAPS
+
+There are several methods for making maps depending on the resources available to the user.
+
+MANUAL
+Ruler and Pencil method. Just use a pencil and home-made template to determine X,Y offsets from the origin in the upper left corner of the map. Then use a DOS editor to enter the X,Y values into a map file. Or use the cursor in MAPFIX to free-hand a map. This is quite tedious to make the cursor on the screen match real world coordinates. This method is best for sketching in local roads on existing maps.
+GPS REPLAY
+This is the easiest way to add detail in your area. Just drive around with your GPS, saving APRS track history files. Whenever you want to save a particular point or intersection, press F8. Then use MAPFIX to overlay these histories onto the screen for easy cursor drawing. Or use the GPStoHST.bas file to convert an existing NMEA data file to APRS track history format.
+CD ROM
+Use MAKEMAP1.EXE to build a 32 mile map (or up to 50 mile in rural areas) directly from the single 2,000,000:1 USGS CD that covers the whole US. See MAPSCD.HTM
+Use MK100K3.EXE to build 2 and 4 mile maps directly from the $32 USGS 100k CD rom for your area. See MK100K3.HTM. ******** THIS WILL GIVE YOU EVERY STREET DETAIL! ********
+
+OBSOLETE
+MAPFIX can inport data points from the 2M CD at the state road level, and 2 to 4 hours of manual filtering is required to eliminate redundant point data. W7KKE wrote a program that converts the 100K CD data to the 2,000,000 format for MAPFIX. But it also takes hours to process the data into a usable and meaningful APRS map, since USGS data is VERY fragmented.
+AUTOCAD
+KG8GE has developed programs for building APRS maps to and from AUTOCAD. See the section at the end of this file.
+DIGITIZER
+MAPFIX can accept input from a digitizer tablet. This makes all points very accurate and is the FASTEST way to build a map!
+MOUSE
+MAPFIX can be initialized to use a serial-MICROSOFT-mouse as a poor mans mouse digitizer. See MOUSE.HTM
+IMPORTING
+This feature in MAPFIX lets you import into your current map, all or a selected category of features from other maps. Re-computing of the Origin and scale is AUTOMATIC. This makes it easy to combine maps. Take parts from adjacent maps to build a map centered on your location.
+Look for the sections below that describe each of these methods. The manual method is described first, since it gives you the basic structure of the APRS maps format. Remember that all APRS maps are in DOS TEXT format.
+GENERAL CAUTION: APRS maps are NOT intended, nor expected to fulfill all map requirements but to simply help locate radio equipped mobiles within their 20 or so mile radio range. In most applications too much map detail just slows everything down and requires megabytes of disk space. Similarly, too many map labels makes it hard to see callsigns. Also, while driving along at 55 MPH and 30 second GPS updates, zooming in below about 8 miles makes the map move so rapidly so that fine detail is not needed. Often, a straight line between intersections is just as effective as a very detailed curvy map but only takes 2 points vice 20! So concentrate on plotting the intersections accurately; if you want to come back later and add more detail curves for artistic sake, that is easy to do with the MAPFIX.bas program.
+
+HOW TO MAKE APRS MAP FILES: To see what maps are available to the system, use the MAPS-BORDERS command discribed above. If your local APRS net does not have at least a 64 mile map, please contact me. It is also easy to shift the center and detail of maps to highlight your area. See the section at the end of this file for info on how to center, convert and spawn new maps.
+
+OVERALL APRS MAP FILE FORMAT: In any map file, the first 8 lines define the origin and scale. Comment text is permitted on these first 8 lines after the initial data value and a comma. See the example map below for Colorado. The remainder of the file just lists X,Y points that form the map features such as roads and rivers. To end each such feature and begin another, APRS uses a 0,0 entry. The next feature begins with the value of the line color, followed by the feature name. At the end of this file, is a 0,-1 which marks the end of points data, and the beginning of the list of map labels. Then there is a 0,comment line that starts the LABELS section. Use a DOS EDITOR to look at ANY APRS map file.
+
+MANUAL DOS TEXT EDITOR METHOD: Simply use a DOS editor to make a list of points for APRS to use in drawing line segments. Note that the coordinates are listed as X,Y where X is horizontal and Y is vertical. This is backwards from the usual order that we list LAT (vert) and LONG (Horizontal), so be sure to put the horizontal (X) value first. You can use any editor to prepare a map file. Simply use a chart that has lat/long references and select an origin beyond the upper left hand corner of the area you want to cover. That point is 0,0 and all points are measured from there. (negative numbers are OK if you later add points behind the origin, but the - is an extra character that slows down file loading); similarly, an X value of 0 is not permitted since it is used to indicate separations between the end of one feature and start of another.
+
+MAP SCALE: Next choose an appropriate scale in pixels-per-degree of longitude and latitude for the area you want. Using a 350/640 pixel display, I have found that 120 pixels per degree (2 pixels per minute) is excellent for large state maps. I used 12 pixels per degree for the USA. By keeping the scale number an integer multiple of 60, you avoid any future roundoff and truncation errors due to ZOOM functions and when converting points from one map scale to another. I have used 6, 12, 24, 30, 60, 120, 300, 600, 1200, etc. It takes 1200 pix or more in order to resolve city streets. If you use too fine of a scale then you are limited as to how far the map can extend. Points should be limited to 0 to 1024 in Y and 2048 in X if you want to later use the MAPFIX compression algorithm to speed map loading and minimize file size.
+
+MAP RANGE: Since APRS handles range scales as integer powers of 2, I suggest making most maps about 10% larger than any given power of 2. This is so that you can place the cursor near the center of the map, and pretty much see all of it at once. To make it easy to find map centers, APRS shows them with a small Plus mark (+).
+
+MAPLIST.xxx: This file contains the list of all map files available to APRS and decides which map is loaded based on the location of the cursor. The first 3 lines of the file also contain the default LAT/LONG and Range for the first map loaded. The program uses this default to center the first map each time the program starts up (center of USA). These values are ignored when a backup file is loaded using the FILES-LOAD command, or when a registered user has saved his default location in his CONFIG file. The MAPLIST.xxx default location is also stored in the #1 MAP HOT KEY so that you can instantly zoom out to the default map for that list with a single key stroke.
+
+ADDING MAPS: To add a map to your system, look at the MAPLIST.xxx file. It contains a list of all maps useable by the system. There can be multiple MAPLIST.xxx files. The MAPLIST.USA file comes with the APRS distribution and contains all regional, and state maps, plus some representative local maps. You can either add your map to this file, or add it to any local state lists that might be available. Currently there are complete MAPLIST.xxx map files for many states such as Calif, Missouri, and Ohio. The MAPLIST.OH file lists over 90 local Ohio maps!
+
+To add a map, simply add a line that contains the MAPname, LAT, LONG, MAPrange, and comments. The LAT/LONG are in decimal degrees and describe the center of your map. The MAPrange tells the system to load this map if the cursor falls within this range of the center. Actually it is a little more complicated. The given map will not be used until the cursor location plus the current range scale in all directions fully falls within the boundaries.
+
+Currently APRS can only use 170 maps in MAPLIST.xxx. To make room for new maps, but keep old ones handy for later use, You can place a (*) at the beginning of a line to tell APRS to skip that map. Also you can add some comment lines at the designated space in the file (beginning with *) and for each map so that you can keep track of your maps. If you have no comments for a map, you MUST place a comma at the end of the line.
+
+MAP HIERARCHY: It is important to place maps in decending order. The last map in the list that contains the given cursor position will be used. If a larger map covering the same area as a smaller map follows it later in the list, then the larger map will always be found last and will be used, instead of the desired smaller map. You can see the this effect, by using the MAPS-HIERARCHY command. If maps overlap in your area, use the MAP-ALT command to temporarily see the map beneath the present map. You can also use the MAPS-OVERLAY command to overlay the larger map onto the present map. Using this feature, you could make two maps of the same area and scale. On one you could put rivers and roads, on the other you could put counties, property lines, and grids. Then by listing the gridded map first in the MAPLIST.xxx file, it would always be superceeded by the road map, but could be summoned up by hitting the MAPS-ALT or MAPS-OVERLAY command!
+
+MAP FEATURES: APRS displays all map features by drawing lines from point-to-point. Each feature begins with 0,0 followed by the line color and a name for the feature, followed by pairs of x,y points using the scale you chose. The feature name is not used, but is useful for identification during editing. In APRS, there is no limit on the number of features, But the total number of points must remain below 2999. The MAPFIX.BAS program does, however, have a finite limit during map editing (currently about 150). The POINT values are positive to the right and down. The end of a feature is simply the 0,0 which starts a new one. After the last feature, there is a special 0,-1 which indicates the end of all feature information and the beginning of the labels list.
+
+MAP COLORS: APRS recognizes certain map colors for turning on and off map features. It typically uses most of the brighter colors. You can change the background color with the Tint command or dim all colors using the MAPS-FEATURES-DIM command. Map colors are automatically dimmed when you ask for a MAPS-BORDERS display so that map edges show up brightly. Here are my standard colors. The * indicates that the color is uniquely recognized by the APRS FEATURES command:
+
+ 0 - Black (normal background)    * 8 - dark gray (Railroads)
+ 1 - dim blue (ferrys, etc)         9 - Bright Blue
+ 2 - dim grn (Admin areas, Parks) *10 - Bright Green (Interstates)
+*3 - dim cyan (Rivers)            *11 - Bright Cyan (Big rivers, Coasts)
+ 4 - deep red (state roads)       *12 - Bright Red   (major roads)
+ 5 - dim violet (custom features)  13 - Bright Violet(special events)
+*6 - dim orange (state/cnty lines) 14 - Bright Yellow (Cities,airports)
+*7 - gray     (back roads)         15 - Bright White  (Labels and CALLS)
+
+
+NOTE: In Europe, the convention is to make Autobauns color 13 (purple).
+MAP LABELS: Labels are drawn on maps at given lat/long coordinates. The labels are listed at the end of each map (up to 199). Each label has a range scale associated with it, so that more labels can appear at smaller ranges. The first line in the labels list has a leading 0 and then any any comments. From then on to the end of the file, each line consists of 4 fields separated by commas. First is the label text (up to 12 characters long) followed by the LAT, LONG and RANGE. LAT and LONG must be given in decimal degrees. The MAPFIX.bas program displays the location of the cursor in decimal degrees for this purpose. Labels are right justified so that they do not overprint station callsigns which are all left justified. Since absolute LAT/LONG reference is used, labels can be transferred without any change to any scale map.
+
+Please note, however, that labels are printed on the normal EGA screen 24 line raster, so they can be off their exact location by almost a full text line vertically, and one full character horizontally at higher scales. Take this into account when placing labels.
+
+You can also build APRS symbols directly into MAPS! Instead of a text label, simply make the first three characters of the label be a $ followed by the symbol character, followed by a hexidecimal number from 1 to F that indicates the desired color for the symbol. The remaining 8 characters can be used for a conventional label at the same location. For example, look at the VORTAC's (aircraft nav aids) that I added to the ALASKA maps. They are listed in the map file as $VEANC,lat,long,rng. The V is the VORTAC symbol, the E is hexidecimal for 14 or the color yellow, and ANC is the label for the ANChorage VORTAC as it will appear on the map.
+
+MANUAL TECHNIQUE: Once you have chosen an origin in the upper left hand corner of your map, all map values will be measured from that point. Most maps have LAT/LONG lines around the borders. If you are using 240 pixels per degree for a state size map, then each LAT/LONG line corresponds to a multiple of 240. Simply mark on the borders of your original map these values 240, 480, 720, etc. Then make a smaller template which matches the size of one square of LAT/LONG lines. Draw a finer grid of lines every 10 pixels on the template. Then to locate the coordinates of any point on the map, simply orient the template with a major LAT/LONG square, and interpolate the point within the grid on the template which represents a 10x10 pixel area. Use a text editor to add these numeric values into the map file. Every point on the map can be identified by a pair of X,Y numbers. Remember that these offsets are from the origin for THIS map and scale. For transfering features from one map scale or origin to another, use the MAPFIX.bas IMPORT command. Map labels, however use complete LAT/LONG values, so they can be freely moved among maps.
+
+CAUTION: since many highway maps are Lambert Conformal instead of Mercator projections, use the center square in your map for making the template to minimize errors. Further, be careful of highway maps that only have tick marks along the borders for LAT/LONG. If the map is not a Mercator projection, then you cannot just draw a straight line from left to right connecting latitude marks. Longitude lines are straight on a Lambert Conformal, but not latitude lines!
+
+CUSTOMIZING TO YOUR AREA: One way to begin customizing maps to your area is to take one of the existing maps and add roads and features in your area. Since all APRS maps are limited to 2999 data points, however, many are already just about full. The following sections describe how to spawn maps and convert points from one map to another so you will have room to add your own detail using the very powerful MAPFIX23.EXE program.
+
+MAP EDITING USING MAPFIX23.BAS/exe: Using this program, you can do just about anything to a map, adding, deleting, moving points. Importing points from one map to another, etc.
+
+  0------------------    0---------------------    0------------ 
+  |         |       |    |         ---------- |    |           |  0-----
+  |         |   *   |    |         | MAP C  | |    |           |  |
+  |         |       |    | -----------      | |    |        -----------
+  |         --------|    | | MAP B | |      | |    |     *  | MAP D   |
+  |        *        |    | |       |*|      | |    |        |  |  |   |
+  |                 |    | |       --|------- |    |        |  | *|   |
+  |                 |    | |         |        |    |--------|--|  |   |
+  | MAP A           |    | -----------        |             |---------|
+  |                 |    |                    |                   |
+  -------------------    ----------------------                   ------
+                                            
+  NEW CENTER & RANGE     MAP SPAWNING/CONVERSION      MAP IMPORTING
+
+
+MAP SPAWNING: In the figure above, map A is the original map with the origin at 0. Using 120 pixels-per-degree resolution, all points within a square area 8 degrees on a side (about 400 miles) can be resolved with pairs of 3 digit numbers. As the number of points in such a regional area map fills up towards the 2999 limit, it is necessary to start new smaller area maps such as B, C, and D above to make more room. Spawning a new map using MAPFIX.bas is easy. Simply use the CHANGE-CENTER and CHANGE-RANGE commands to re-draw the white map border to the location you want, then use the TASK-TRIM command to remove all points outside of that area. Next use the CHANGE-ORIGIN command to change the origin closer to the new upper left corner and give a new scale to permit higher resolution. Finally, begin adding more finer detail using what ever technique you intend to use. Then save the new map and add its name to the MAPLIST.xxx file.
+IMPORTING AND COMBINING MAPS: The TASK-IMPORT command will import all points of a selected category of features from other maps into the current map. This can be used to build large maps from small ones, or to build new maps from pieces of other ones. See MAP D above. In this process, all points from the selected map that fit within the WHITE border of the current map, are imported. For each pass, you specify the source map, and what category of features to import. Select the category by the color number; 6 for boundary lines, 10 for interstates, 11 for coastline, etc. Conversion of the data to the new ORIGIN and scale are automatic.
+
+PIXELS-PER-DEGREE: Although my early regional maps used 120 pixels per degree, most of the newer maps generated from my CD rom use at least 450 to 600 pixels-per degree. This gives finer detail resolution on the smaller 64 mile maps. You can use 1200 ppd to resolve down to large city blocks, but to get them accurately, you should consider 3000 ppd which can resolve down to about 100 feet. Notice that as you increase the number of pixels-per-degree, you also reduce the maximum size that a map can cover. This keeps the numbers from getting too large and causing an overflow condition. A 1200 ppd map should be used for map areas less than 50 miles and so forth. To get city streets at 3000 ppd the map can only have an 8 mile radius.
+
+For more information see MAPFIX.HTM
+
+AUTOCAD MAPS! Jim Krist KG8GE has done a marvelous job of writing programs to use AUTOCAD to make APRS maps. He has done every street in the town of MARION Ohio. HIs program is named PLT2MAP and permits you to use a CAD plotter to make AUTOCAD maps and then convert them to APRS. Registered copies of his software can be obtained for $25 from him at 315 Hane Ave, Marion, Ohi0, 43302.
+
+Return to Table Of Contents
+
+Mail comments/corrections on content to Bob Bruninga and on HTML formatting to Steve Dimse
+
+http://www.aprs.net/vm/DOS/MAPS.HTM
