@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Jennifer L. Krstolic</origin>
+				<pubdate>2005</pubdate>
+				<title>SIR2005-5073_CBRWM_LandSegments</title>
+				<geoform>vector digital data</geoform>
+				<serinfo>
+					<sername>SIR</sername>
+					<issue>2005-5073</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Baltimore, MD</pubplace>
+					<publish>US Geological Survey</publish>
+				</pubinfo>
+				<onlink>http://water.usgs.gov/lookup/getspatial?SIR2005_5073_CBLand</onlink>
+				<othercit>Spatial data associated with the Scientific Investigations Report, 'Development of Land Segmentation, Stream-Reach Network, and Watersheds in Support of Hydrological Simulation Program-Fortran (HSPF) Modeling, Chesapeake Bay Watershed, and Adjacent Parts of Maryland, Delaware, and Virginia'
+
+By Sarah K. Martucci, Jennifer L. Krstolic, and Jeff P. Raffensperger (U.S. Geological Survey), and Katharine J. Hopkins (University of Maryland Center for Environmental Science)</othercit><origin>Sarah K. Martucci</origin><origin>Katharine J. Hopkins</origin><origin>Jeff P. Raffensperger</origin></citeinfo>
+		</citation>
+		<descript>
+			<abstract>This data set is an ArcGIS shapefile depicting land segments in the Chesapeake Bay Watershed and adjacent states of New York, Pennsylvania, Maryland, West Virginia, Delaware, Virginia, North Carolina, and Tennessee.  Land segmentation was based on county boundaries represented by a 1:100,000-scale digital dataset. Fifty of the 254 counties and incorporated cities in the model region were divided on the basis of physiography and topography, producing a total of 310 land segments. The data are projected to the UTM grid coordinate system - Zone 18 NAD27.   </abstract>
+			<purpose>The U.S. Geological Survey, Chesapeake Bay Program, Interstate Commission on the Potomac River Basin, Maryland Department of the Environment, Virginia Department of Conservation and Recreation, and the University of Maryland are collaborating on the Chesapeake Bay Regional Watershed Model, using Hydrological Simulation Program - FORTRAN to simulate streamflow and concentrations and loads of nutrients and sediment. In order to establish a framework for model simulation, digital spatial datasets were created defining the discretization of the model region (including the Chesapeake Bay Watershed, as well as the adjacent parts of Maryland, Delaware, Virginia, Tennessee, and North Carolina outside the watershed) into land segments, a stream-reach network, and associated watersheds.
+
+The purpose of the Chesapeake Bay land coverage is to represent the county political boundaries and areas of differing physiography and topography in the study area.  These land segments are based on an existing 1:100,000-scale digital dataset for all states in the study area.  Land segments and watersheds were intersected to create land-watershed segments for the model.  The land segments are to be used with the Chesapeake Bay Regional Watershed Model.  Other uses are not suggested.</purpose>
+			<langdata>en</langdata><supplinf>Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Geological Survey. 
+
+Although this Federal Geographic Data Committee-compliant metadata file is intended to document the data set in nonproprietary form, as well as in ARC/INFO format, this metadata file may include some ARC/INFO-specific terminology.
+
+Related websites:
+Chesapeake Bay Program Home: 
+http://www.chesapeakebay.net/index.cfm
+
+Chesapeake Bay Program Modeling efforts:
+http://www.chesapeakebay.net/model.htm
+
+Chesapeake Bay Program work related to this GIS dataset:
+http://www.chesapeakebay.net/phase5.htm
+
+SPARROW Modeling and stream-reach network development
+http://md.water.usgs.gov/publications/wrir-99-4054/
+
+Maryland Department of the Environment (MDE)
+http://www.mde.state.md.us/
+
+Interstate Commission on the Potomac River Basin (ICPRB)
+http://www.potomacriver.org/
+
+Virginia Department of Conservation and Recreation (DCR)
+http://www.dcr.state.va.us/
+
+University of Maryland
+http://www.umd.edu/</supplinf></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2005</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current></timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-84.636451</westbc>
+				<eastbc>
+-74.145544</eastbc>
+				<northbc>
+44.097085</northbc>
+				<southbc>
+35.612716</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>ISO19119 Topic Category</themekt>
+				<themekey>inlandWaters</themekey>
+				<themekey>environment</themekey><themekey>farming</themekey><themekey>biota</themekey></theme>
+			<theme>
+				<themekt>none</themekt><themekey>County</themekey><themekey>Physiography</themekey><themekey>Elevation</themekey><themekey>Topography</themekey><themekey>HSPF model</themekey><themekey>Segmentation</themekey><themekey>Political Boundaries</themekey></theme>
+			<place>
+				<placekey>Chesapeake Bay Watershed</placekey>
+				<placekey>DE</placekey>
+				<placekey>MD</placekey>
+				<placekey>NC</placekey>
+				<placekey>NY</placekey>
+				<placekey>PA</placekey>
+				<placekey>TN</placekey>
+				<placekey>VA</placekey>
+				<placekey>WV</placekey>
+				<placekt>none</placekt></place>
+			<temporal>
+				<tempkey>2000-2005</tempkey>
+			</temporal>
+		</keywords>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Geological Survey</cntorg>
+				</cntorgp>
+				<cntpos>Ask USGS ? Water Webserver Team</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>507 National Center</address>
+					<city>Reston</city>
+					<state>Virginia</state>
+					<postal>20192</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>1-888-275-8747 (1-888-ASK-USGS)</cntvoice>
+				<cntemail>http://answers.usgs.gov/cgi-bin/gsanswers?pemail=h2oteam&amp;amp;subject=GIS+Dataset+SIR2005_5073_cbland</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<browse>
+			<browsen>http://water.usgs.gov/GIS/browse/SIR2005-5073_Cbland.jpg</browsen>
+			<browsed>Land segments of the Chesapeake Bay Regional Watershed Model</browsed>
+			<browset>JPEG</browset>
+		</browse>
+		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.0.0.535</native>
+		<accconst>none</accconst><useconst>These data are to be used with the Chesapeake Bay Regional Watershed Model or projects related to this work.  </useconst><crossref><citeinfo/></crossref></idinfo>
+	<dataqual>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Department of Commerce Bureau of Census</origin>
+						<pubdate>1993</pubdate>
+						<pubtime>not specified</pubtime>
+						<title>1:100,000-scale counties of the United States</title>
+						<edition>Edition 1.1</edition>
+						<geoform>vector digital data</geoform>
+						<othercit>U.S. Geological Survey, accessed November 16, 2004</othercit>
+						<onlink>http://water.usgs.gov/lookup/getspatial?county100.</onlink>
+					</citeinfo>
+				</srccite>
+				<srccontr>The Counties of the United States served as the base for the land segments.  </srccontr><srctime><timeinfo><sngdate><caldate>1993</caldate></sngdate></timeinfo><srccurr>publication date</srccurr></srctime><srccitea>US Counties</srccitea></srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey,</origin>
+						<pubdate>1980</pubdate>
+						<title>Physiographic Provinces of Virginia: prov2m_ugs, 1:2,000,000 scale</title>
+						<geoform>vector digital data</geoform>
+						<othercit>Available through the Virginia Water USGS office</othercit>
+					</citeinfo>
+				</srccite>
+				<srccontr>The Physiographic Province boundaries in Virginia were used as a guide for changes in topography.  Counties with large differences in topography or geology were split so that county-scale rainfall data and other data could be distributed based on these differences.</srccontr><srccitea>Physiographic Provinces, VA</srccitea><srctime><timeinfo><sngdate><caldate>1980</caldate></sngdate></timeinfo><srccurr>ground condition</srccurr></srctime></srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>2000</pubdate>
+						<title>Hydrogeomorphic Regions in the Chesapeake Bay Watershed</title>
+						<edition>1</edition>
+						<serinfo>
+							<sername>Open-File Report</sername>
+							<issue>00-424</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Maryland</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+						<othercit>Brakebill, J.W., and Kelley, S.K., 2000, Version 1: U.S. Geological Survey Open-File Report 00-424, accessed November 16, 2004 at</othercit>
+						<onlink>http://water.usgs.gov/lookup/getspatial?hgmr.</onlink>
+					</citeinfo>
+				</srccite>
+				<srccontr>Hydrogeomorphic Regions were used to differentiate between areas of great relief and differences in geology.  Counties with large differences in topography or geology were split so that county-scale rainfall data and other data could be distributed based on these differences. </srccontr><srccitea>HGMR</srccitea><srctime><timeinfo><sngdate><caldate>2000</caldate></sngdate></timeinfo><srccurr>publication date</srccurr></srctime></srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Census Bureau Geography Division</origin>
+						<pubdate>2004</pubdate>
+						<pubtime>not specified</pubtime>
+						<title>Significant changes to counties and county equivalent entities: 1970-present</title>
+						<edition>not specified</edition>
+						<geoform>vector digital data</geoform>
+						<onlink>http://www.census.gov/geo/www/tiger/ctychng.html</onlink>
+					</citeinfo>
+				</srccite>
+				<srccitea>Census county and city changes</srccitea><srccontr>Used to update boundaries of incorporated cities to reflect land acquisition since the publication date of the county dataset. </srccontr><srctime><timeinfo><sngdate><caldate>2004</caldate></sngdate></timeinfo><srccurr>publication date</srccurr></srctime></srcinfo>
+			<procstep>
+				<procdesc>1:100,000-scale counties of the United States projected to UTM zone 18, NAD83, and reselected for study area. Only counties within the Chesapeake Bay or adjacent land in NY, PA, MD, DE, WV, VA, NC, and TN were included. </procdesc>
+				<procdate>2003</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Polygons divided into 2-3 parts through on-screen editing, if determined necessary.  Large differences in physography or topography were used to determine whether a polygon should be divided.  Various sources used in each state.  See source information for details.</procdesc>
+				<procdate>2003</procdate>
+				<srcused>Physiographic Provinces, VA</srcused><srcused>HGMR</srcused><srcused>NED</srcused></procstep>
+			<procstep>
+				<procdesc>Incorporated cities and counties were updated with Census 2000 boundaries.</procdesc>
+				<procdate>2003</procdate>
+				<srcused>Census County and City Changes</srcused></procstep>
+			<srcinfo><srccite><citeinfo><onlink>http://ned.usgs.gov/ned/ned.html</onlink><onlink>http://ned.usgs.gov</onlink><onlink>http://gisdata.usgs.net/ned/</onlink><origin>US Geological Survey, EROS Data Center</origin><pubdate>1999</pubdate><title>National Elevation Dataset</title><edition>1</edition><geoform>raster digital data</geoform><pubinfo><pubplace>Sioux Falls, SD</pubplace><publish>U.S. Geological Survey </publish></pubinfo></citeinfo></srccite><srccitea>NED</srccitea><srccontr>National Elevation Dataset (NED) was contoured and used to define areas of great relief.  Counties with large differences in topography or geology were split so that county-scale rainfall data and other data could be distributed based on these differences.</srccontr><srctime><timeinfo><sngdate><caldate>1999</caldate></sngdate></timeinfo><srccurr>publication date</srccurr></srctime></srcinfo><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">W:\va_model\working\Final_docs\UTM\cb_land_meta</srcused><date Sync="TRUE">20050808</date><time Sync="TRUE">17063500</time></procstep><procstep><procdesc Sync="TRUE">Dataset moved.</procdesc><srcused Sync="TRUE">\\Arcdata\GIS\projects\Phase5_CBAY_VaModel\metadataReviewComments\cb_land_meta</srcused><date Sync="TRUE">20060314</date><time Sync="TRUE">10010000</time></procstep></lineage>
+		<attracc><attraccr>No tests for attribute accuracy were conducted</attraccr></attracc><logic>Original data was in ArcInfo coverage format. Topology was built using either the Build command (01/26/2005).  The data layer is "topologically clean" as tested with the ArcInfo Build command.  Tolerances: Fuzzy = 0.974, Dangle = 0.00.  
+
+Shapefiles have been compared to the original dataset. Data was converted to shapefile format 07/08/2005.
+</logic><complete>US Counties were re-selected to represent only those completely within, or touching the boundary of the study area.  All counties within the states of Virgina, Maryland, Delaware, and Pennsylvania were included. Only a selected set of counties from New York, West Virginia, Tennessee, and North Carolina were included.  The rest of the counties within US Counties dataset were omited.  </complete></dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>Complete chain</sdtstype>
+				<ptvctcnt>969</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Label point</sdtstype>
+				<ptvctcnt>310</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>GT-polygon composed of chains</sdtstype>
+				<ptvctcnt>310</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Point</sdtstype>
+				<ptvctcnt>4</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<gridsys>
+					<gridsysn>Universal Transverse Mercator</gridsysn>
+					<utm>
+						<utmzone>18</utmzone>
+						<transmer>
+							<sfctrmer>0.999600</sfctrmer>
+							<longcm>-75.000000</longcm>
+							<latprjo>0.000000</latprjo>
+							<feast>500000.000000</feast>
+							<fnorth>0.000000</fnorth>
+						</transmer>
+					</utm>
+				</gridsys>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.000434</absres>
+						<ordres>0.000434</ordres>
+					</coordrep>
+					<plandu>meters</plandu>
+				</planci>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>
+CB_land.pat</enttypl>
+				<enttypd>Polygon Attribute Table</enttypd><enttypds>ESRI</enttypds></enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom></attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>AREA</attrlabl>
+				<attrdef>polygon area</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<rdom><rdommin>0</rdommin><rdommax>undetermined maximum</rdommax><attrunit>square meters</attrunit></rdom></attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>PERIMETER</attrlabl>
+				<attrdef>length of outer boundary</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<rdom><rdommin>0</rdommin><rdommax>undetermined maximum</rdommax><attrunit>meters</attrunit></rdom></attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>CB_LAND#</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>CB_LAND-ID</attrlabl>
+				<attrdef>User-defined feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>STATECTY</attrlabl>
+				<attrdef>Federal Information Processing Standard codes representing State and County, numerical code</attrdef>
+				<attrdefs>U.S. Census Bureau Geography Division</attrdefs><attrdomv><codesetd><codesetn>FIPS CODES</codesetn><codesets>U.S. Census Bureau Geography Division</codesets></codesetd></attrdomv></attr>
+			<attr>
+				<attrlabl>ST</attrlabl>
+				<attrdef>State abreviation</attrdef>
+				<attrdefs>U.S. Census Bureau Geography Division</attrdefs><attrdomv><codesetd><codesetn>State abreviations</codesetn><codesets>U.S. Census Bureau Geography Division</codesets></codesetd></attrdomv></attr>
+			<attr>
+				<attrlabl>CNTYNAME</attrlabl>
+				<attrdef>County name</attrdef>
+				<attrdefs>U.S. Census Bureau Geography Division</attrdefs><attrdomv><codesetd><codesetn>County names</codesetn><codesets>U.S. Census Bureau Geography Division</codesets></codesetd></attrdomv></attr>
+			<attr>
+				<attrlabl>FIPS2</attrlabl>
+				<attrdef>FIPS code with a '1' or '2' prior to the number to show that a county has been divided.  1= county has been divided, and is equivalent to a 'B' in the FIPSAB attribute.  2 = a county has been divided twice, and is equivalent to a 'C' in the FIPSAB attribute. Counties that have a part represnted by '2FIPS' also have '1FIPS' and 'FIPS' parts.</attrdef>
+				<attrdefs>Data set developer</attrdefs><attrdomv><udom>Adaptation on FIPS codes with 1 or 2 in front</udom></attrdomv></attr>
+			<attr>
+				<attrlabl>PROV</attrlabl>
+				<attrdef>Physiographic province code</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs><attrdomv><edom><edomv>CP</edomv><edomvd>coastal Plain</edomvd><edomvds>U.S. Geological Survey</edomvds></edom><edom><edomv>VR</edomv><edomvd>Valley and Ridge</edomvd><edomvds>U.S. Geological Survey</edomvds></edom><edom><edomv>PD</edomv><edomvd>Piedmont</edomvd><edomvds>U.S. Geological Survey</edomvds></edom><edom><edomv>AP</edomv><edomvd>Appalachian Plateau</edomvd><edomvds>U.S. Geological Survey</edomvds></edom><edom><edomv>BR</edomv><edomvd>Blue Ridge</edomvd><edomvds>U.S. Geological Survey</edomvds></edom></attrdomv></attr>
+			<attr>
+				<attrlabl>FIPSAB</attrlabl>
+				<attrdef>FIPS code with and 'A', 'B', or 'C' in front.  A= All counties are represented with and 'A'.  A indicates a whole county, or portion of a divided county, B= portion of a divided county, C= portion of a county that has been divided twice. If there is a 'C' there always is a 'B' and an 'A'. </attrdef>
+				<attrdefs>data set developer</attrdefs><attrdomv><udom>Adaptation on FIPS codes with A, B, or C in front</udom></attrdomv></attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>Although this data set has been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of this data, software, or related materials. Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ARCE</formname>
+					<filedec>zipped</filedec>
+					<transize>1276 KB</transize>
+					<formvern>E00 </formvern><formspec>zipped, Arc Interchange file named cb_land_e00.zip</formspec><formcont>Polygon coverage</formcont><dssize>2981 KB</dssize></digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>htttp://water.usgs.gov/GIS/dsdl/SIR2005_5073_cbland/cb_land_e00.zip</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>none. This dataset is provided by USGS as a public service</fees>
+			<digform><digtinfo><formname>Shapefile</formname><formspec>zipped Shapefile named cb_land_shape.zip</formspec><formcont>multiple parts with the same base name, and different extensions.</formcont><filedec>zipped</filedec><transize>1760 KB</transize><dssize>4.44 MB</dssize></digtinfo><digtopt><onlinopt><computer><networka><networkr>htttp://water.usgs.gov/GIS/dsdl/SIR2005_5073_cbland/cb_land_shape.zip</networkr></networka></computer></onlinopt></digtopt></digform><digform><digtinfo><formname>SDTS</formname><formspec>Zipped SDTS format named cb_land_SDTS.zip</formspec><filedec>zipped</filedec><transize>1100 KB</transize><dssize>1.52 MB</dssize></digtinfo><digtopt><onlinopt><computer><networka><networkr>htttp://water.usgs.gov/GIS/dsdl/SIR2005_5073_cbland/cb_land_SDTS.zip</networkr></networka></computer></onlinopt></digtopt></digform></stdorder>
+		<distrib><cntinfo><cntorgp><cntorg>U.S. Geological Survey</cntorg></cntorgp><cntemail>http://answers.usgs.gov/cgi-bin/gsanswers?pemail=h2oteam&amp;amp;subject=GIS+Dataset+SIR2005_5073_cbland</cntemail><cntvoice>1-888-275-8747 (1-888-ASK-USGS)</cntvoice><cntpos>Ask USGS --  Water Webserver Team</cntpos><cntaddr><addrtype>mailing and physical address</addrtype><address>507 National Center</address><city>Reston</city><state>VA</state><postal>20192</postal><country>USA</country></cntaddr><cntemail>http://water.usgs.gov/user_feedback_form.html </cntemail></cntinfo></distrib></distinfo>
+	<metainfo>
+		<metd>20050415</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Geological Survey</cntorg>
+				</cntorgp>
+				<cntpos>Ask USGS -- Water Webserver Team</cntpos>
+				<cntaddr>
+					<addrtype>507 National Center</addrtype>
+					<city>Reston</city>
+					<state>VA</state>
+					<postal>20192</postal>
+					<country>USA</country></cntaddr>
+				<cntvoice>1-888-275-8747 (1-888-ASK-USGS)</cntvoice>
+				<cntemail>http://water.usgs.gov/user_feedback_form.html</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+	</metainfo>
+	<Esri><ModDate>20050708</ModDate><ModTime>15255200</ModTime><MetaID>{48B01227-0750-4E1C-B7C0-E0A5C9FE5DCE}</MetaID><CreaDate>20050808</CreaDate><CreaTime>17063500</CreaTime><SyncOnce>TRUE</SyncOnce></Esri><mdDateSt Sync="TRUE">20050708</mdDateSt><distInfo><distributor><distorTran><onLineSrc><linkage Sync="TRUE">file://\\Arcdata\GIS\projects\Phase5_CBAY_VaModel\cb_land_meta</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc></distorTran></distributor></distInfo></metadata>
