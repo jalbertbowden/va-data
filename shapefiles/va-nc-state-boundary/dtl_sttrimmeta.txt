@@ -1,0 +1,227 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: VeeAnn A. Cross
+      Publication_Date: 2005
+      Title: Portion of US state bounds along North Carolina
+      Geospatial_Data_Presentation_Form: vector digital data
+      Online_Linkage: http://pubs.usgs.gov/of/2005/1306/data/basemap/dtl_sttrim.zip
+      Larger_Work_Citation:
+        Citation_Information:
+          Originator: VeeAnn A. Cross
+          Originator: John F. Bratton
+          Originator: Emile Bergeron
+          Originator: Jeff K. Meunier
+          Originator: John Crusius
+          Originator: Dirk Koopmans
+          Publication_Date: 2005
+          Title: Continuous Resistivity Profiling Data from the Upper Neuse River Estuary, North Carolina, 2004-2005
+          Series_Information:
+            Series_Name: Open-File Report
+            Issue_Identification: 2005-1306
+          Publication_Information:
+            Publication_Place: Woods Hole Science Center, Woods Hole, MA
+            Publisher: U.S. Geological Survey, Coastal and Marine Geology Program
+          Online_Linkage: http://pubs.usgs.gov/of/2005/1306
+  Description:
+    Abstract: This ArcView shapefile represents a portion of state boundaries of the United States.
+    Purpose: This dataset was created for use as base map information to help orient the user to the location of the Neuse River study area.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 2002
+    Currentness_Reference: publication date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -88.378995
+      East_Bounding_Coordinate: -80.031363
+      North_Bounding_Coordinate: 31.736854
+      South_Bounding_Coordinate: 24.544089
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: General
+      Theme_Keyword: bounds
+      Theme_Keyword: Coastal and Marine Geology Program
+      Theme_Keyword: Open-File Report
+      Theme_Keyword: polygon
+      Theme_Keyword: shapefile
+      Theme_Keyword: shoreline
+      Theme_Keyword: U.S. Geological Survey
+      Theme_Keyword: USGS
+      Theme_Keyword: Woods Hole Science Center
+      Theme_Keyword: OF 2005-1306
+      Theme_Keyword: CMGP
+    Place:
+      Place_Keyword_Thesaurus: General
+      Place_Keyword: North America
+      Place_Keyword: United States
+      Place_Keyword: North Carolina
+      Place_Keyword: South Carolina
+      Place_Keyword: Georgia
+      Place_Keyword: Virginia
+      Place_Keyword: West Virginia
+      Place_Keyword: Kentucky
+      Place_Keyword: Tennessee
+      Place_Keyword: Ohio
+      Place_Keyword: Maryland
+      Place_Keyword: Delaware
+  Access_Constraints: None.
+  Use_Constraints: None.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: VeeAnn A. Cross
+        Contact_Organization: U.S. Geological Survey
+      Contact_Position: Marine Geologist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Rd.
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+      Contact_Voice_Telephone: (508) 548-8700 x2251
+      Contact_Facsimile_Telephone: (508) 457-2310
+      Contact_Electronic_Mail_Address: vatnipp@usgs.gov
+  Native_Data_Set_Environment: Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 8.2.0.700
+Data_Quality_Information:
+  Lineage:
+    Source_Information:
+      Source_Contribution: The original shapefile came from the ESRI data 2002 distributed with ArcGIS 8.2.
+    Process_Step:
+      Process_Description: The dtl_st.shp file was intersected with a polygon of the region of interest.  The resulting file containing a portion of the US state boundaries was saved as dtl_sttrim.shp (this shapefile).
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: VeeAnn A. Cross
+            Contact_Organization: U.S. Geological Survey
+          Contact_Position: Marine Geologist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 384 Woods Hole Rd.
+            City: Woods Hole
+            State_or_Province: MA
+            Postal_Code: 02543-1598
+          Contact_Voice_Telephone: (508) 548-8700 x2251
+          Contact_Facsimile_Telephone: (508) 457-2310
+          Contact_Electronic_Mail_Address: vatnipp@usgs.gov
+    Process_Step:
+      Process_Description: Most of the attributes (dealing with population etc.) were deleted.
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: VeeAnn A. Cross
+            Contact_Organization: U.S. Geological Survey
+          Contact_Position: Marine Geologist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 384 Woods Hole Rd.
+            City: Woods Hole
+            State_or_Province: MA
+            Postal_Code: 02543-1598
+          Contact_Voice_Telephone: (508) 548-8700 x2251
+          Contact_Facsimile_Telephone: (508) 457-2310
+          Contact_Electronic_Mail_Address: vatnipp@usgs.gov
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: G-polygon
+      Point_and_Vector_Object_Count: 3
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.000000
+      Longitude_Resolution: 0.000000
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: dtl_sttrim
+    Attribute:
+      Attribute_Label: STATE_FIPS
+      Attribute_Definition: The FIPS code (two-digit number) for the state.
+      Attribute_Definition_Source: Department of Comerce, National Institute of Standards and Technology
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: Federal Information Processing Standards
+          Codeset_Source: National Institute of Standards and Technology
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: STATE_ABBR
+      Attribute_Definition: The two-letter abbreviation for the state.
+      Attribute_Definition_Source: Department of Commerce, National Institute of Standards and Technology
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: Federal Information Processing Standards
+          Codeset_Source: National Institute of Standards and Technology
+    Attribute:
+      Attribute_Label: STATE_NAME
+      Attribute_Definition: The state name.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: Federal Information Processing Standards
+          Codeset_Source: National Institute of Standards and Technology
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: VeeAnn A. Cross
+        Contact_Organization: U.S. Geological Survey
+      Contact_Position: Marine Geologist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Rd.
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+      Contact_Voice_Telephone: (508) 548-8700 x2251
+      Contact_Facsimile_Telephone: (508) 457-2310
+      Contact_Electronic_Mail_Address: vatnipp@usgs.gov
+  Resource_Description: Downloadable Data
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Transfer_Size: 4.070
+Metadata_Reference_Information:
+  Metadata_Date: 20040512
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: VeeAnn A. Cross
+        Contact_Organization: U.S. Geological Survey
+      Contact_Position: Marine Geologist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Rd.
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+      Contact_Voice_Telephone: (508) 548-8700 x2251
+      Contact_Facsimile_Telephone: (508) 457-2310
+      Contact_Electronic_Mail_Address: vatnipp@usgs.gov
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile
