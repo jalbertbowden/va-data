@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>U.S. Geological Survey, Water Resources Science Center, Richmond, Virginia</origin>
+				<pubdate>11-01-2006</pubdate>
+				<title>Drainage basin delineations for selected USGS streamflow-gaging stations in Virginia (Drainage_Basin)</title>
+				<geoform>vector digital data</geoform>
+				<othercit>polygon feature class</othercit>
+				<onlink>http://water.usgs.gov/lookup/getspatial?OFR2006-1308_Drainage_Basin</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>Donald C. Hayes</origin>
+						<origin>Ute Wiegand</origin>
+						<pubdate>11-01-2006</pubdate>
+						<title>Drainage Areas of Selected Streams in Virginia</title>
+						<serinfo>
+							<sername>Open-File Report</sername>
+							<issue>OFR 2006-1308</issue>
+						</serinfo>
+						<pubinfo>
+							<publish>US Geological Survey</publish>
+						</pubinfo>
+					</citeinfo>
+				</lworkcit>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>The Drainage_Basin polygon feature class was created as a digital representation of drainage basins for  more than 1,650 continuous-record streamflow-gaging stations, partial record streamflow-gaging stations of the U.S. Geological Survey (USGS), and other watercourse locations of interest.  The Drainage_Basin polygon feature class replaces the drainage basins previously derived through planimetric methods on paper maps, and provides a digital representation that previously was unavailable.  The dataset will be used for the update and publication of drainage areas to all USGS stations in Virginia.  This dataset represents historical flow patterns and avoids anthropogenic changes to flow when possible.
+
+The Drainage_Basin polygon feature class has a unique format with cascading, or stacked, polygons.  In a coverage format, to calculate the drainage area of a large basin containing multiple sub-basins, the area from multiple polygons would be summed.  However, within the Drainage_Basin polygon feature class, one polygon is used to store the entire drainage area to each USGS station.  Because geodatabases and shapefiles are able to store multiple copies of the same geometry, the Drainage_Basin polygon feature class can hold polygons that are stacked.  During the digitizing and editing phases topology rules were utilized to ensure that stacked linework was identical.
+
+Each polygon in Drainage_Basin has a value within the Station_number field.  Most values represent USGS station number found in the National Water Information System (NWIS) database http://waterdata.usgs.gov/nwis.  The station locations stored within NWIS represent the locations of monitoring equipment maintained by the USGS.  During the delineation process, these locations were used as reference points to the downstream end of a drainage basin, but usually were not the outlet point.  For this reason, the point locations are not contained in this dataset.  Most are available through NWIS by searching for the station number.</abstract>
+			<purpose>Digital dataset to represent official drainage basins for continuous-record streamflow-gaging stations, partial record streamflow-gaging stations of the U.S. Geological Survey (USGS), and other watercourse locations of interest.  The dataset will be used for the update and publication of drainage areas to all USGS stations in Virginia.</purpose>
+			<supplinf>Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Geological Survey. 
+
+Although this Federal Geographic Data Committee-compliant metadata file is intended to document the data set in nonproprietary form, as well as in ARC/INFO format, this metadata file may include some ARC/INFO-specific terminology.</supplinf>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>11-01-2006</caldate>
+					<time>unknown</time></sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-83.550878</westbc>
+				<eastbc>
+-75.383351</eastbc>
+				<northbc>
+39.561497</northbc>
+				<southbc>
+36.057696</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>ISO19119 Topic Category</themekt>
+				<themekey>inlandWaters</themekey>
+				<themekey>drainage divide</themekey>
+				<themekey>watershed</themekey>
+				<themekey>drainage area</themekey>
+				<themekey>drainage basin</themekey>
+				<themekey>gaging station</themekey>
+			</theme>
+			<place>
+				<placekt>none</placekt>
+				<placekey>Virginia</placekey>
+				<placekey>North Carolina</placekey>
+				<placekey>Maryland</placekey>
+				<placekey>West Virginia</placekey>
+				<placekey>Tennessee</placekey>
+			</place>
+		</keywords>
+		<accconst>none</accconst>
+		<useconst>This dataset represents drainage divides and drainage basins above specified locations for continuous-record streamflow-gaging stations, partial record streamflow-gaging stations of the U.S. Geological Survey, and other watercourse locations of interest.  The dataset is not intended to serve as a comprehensive watershed dataset for Virginia, and only represents USGS areas of study and data collection in Virginia and surrounding areas.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Jennifer L. Krstolic, Donald C. Hayes</cntper>
+					<cntorg>U.S. Geological Survey</cntorg>
+				</cntperp>
+				<cntpos>Water Science Center GIS Specialist, Surface Water Specialist</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1730 E Parham Road</address>
+					<city>Richmond</city>
+					<state>Virginia</state>
+					<postal>23228</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>1-800-648-1592</cntvoice>
+				<cntvoice>804-261-2600</cntvoice>
+				<cntfax>804-261-2659</cntfax>
+				<cntemail>jkrstoli@usgs.gov</cntemail>
+				<cntemail>dchayes@usgs.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<browse>
+			<browsen>VA_Drainage_Basins.bmp</browsen>
+			<browsed>Each drainage basin colored with a unique value renderer.  State borders on top.</browsed>
+			<browset>BMP</browset>
+		</browse>
+		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.0.0.535</native>
+	</idinfo>
+	<dataqual>
+		<logic>The source of these data was a coverage (WBD) that was built and cleaned.  The cluster tolerance used was 1.2 meters and the snapping tolerance was 6 meters.  As the Drainage_Basin dataset was constructed, tolopogy rules were used in a personal geodatabase to maintain topological integrity.  Feature classes involved in the topology included: Temporary line feature class, DrainageDivide line feature class, and Drainage_Basin polygon feature class.  Topology rules used are listed below:
+
+&gt;Temporary lines   Must not Have Dangles
+&gt;Temporary lines   Must Not Intersect or Touch Interior
+&gt;DrainageDivide   Must not Have Dangles
+&gt;DrainageDivide   Must Not Intersect or Touch Interior
+&gt;DrainageDivide   Must be Covered by the Boundary of Drainage_Basin
+&gt;Drainage_Basin    Must be Covered by the Boundary of DrainageDivide
+&gt;Temporary lines   Must be Covered by the Feature Class of DrainageDivide
+&gt;DrainageDivide   Must not have Pseudos
+&gt;DrainageDivide   Must be Single Part</logic>
+		<complete>At the time of publication all active and discontinued continuous-record streamflow-gaging station drainage basins and many partial record streamflow-gaging station drainage basins were included in this dataset.  Additional drainage basins are included for watercourse locations of interest.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>WBD lines were originally digitized using contours on USGS 1:24,0000 quadrangles as a base. The resulting accuracy of the linework should be consistent with hand-drawn basins on paper maps that were subsequently digitized on-screen. Typically accuracy is set at 1/2 the contour interval.  In Virginia the largest contour interval is 40 feet.  Half of this interval is 20 feet, or 6 meters.</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Virginia Dept of Conservation and Recreation - DSWC</origin>
+						<pubdate>03-16-2005</pubdate>
+						<title>Virginia's 12-digit hydrologic unit boundaries</title>
+						<edition>Edition:  3</edition>
+						<geoform>vector digital data</geoform>
+						<serinfo>
+							<sername>hydrologic units</sername>
+							<issue>version 3 of sixth order units for Virginia</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Richmond, Virginia</pubplace>
+							<publish>Virginia DCR-DSWC</publish>
+						</pubinfo>
+						<othercit>These are the new national fifth and sixth order hydrologic units for Virginia.  They have been created in compliance with the new Federal
+Standards for Delineation of Hydrologic Unit Boundaries (1 October 2004) and therefore differ from the existing sixth order (14 digit) hydrologic units of Virginia as developed by DCR and the USDA in 1995 from the previous
+standards. This dataset covers the whole state and is seamless with surrounding state's NWBD product.  Revised first through fifth order units are obtainable from codes in this layer.
+
+The Virginia WBD was developed as part of a seamless hydrologic unit product for the nation, to be used for more detailed watershed planning work in the state than can be performed using lower order units.
+This becomes the official statewide sixth order hydrologic unit delineation for Virginia.
+
+Contact: Karl Huber
+Virginia Dept. of Conservation &amp; Recreation - DSWC
+
+Address: 203 Governor Street, Suite 206
+Richmond, Virginia 23219-2094  USA
+
+Contact_Voice_Telephone: 804 371 7484
+Contact_Facsimile_Telephone: 804 371 2630
+Contact_Electronic_Mail_Address: karl.huber@dcr.virginia.gov</othercit>
+						<onlink>http://www.ncgc.nrcs.usda.gov/products/datasets/watershed/</onlink>
+						<lworkcit>
+							<citeinfo>
+								<origin>Natural Resources Conservation Service (NRCS)</origin>
+								<pubdate>various</pubdate>
+								<title>Watershed Boundary Dataset</title>
+								<geoform>vector digital data</geoform>
+								<othercit>The Watershed Boundary Dataset is being developed under the leadership of the Subcommittee on Spatial Water Data, which is part of the Advisory Committee on Water Information (ACWI) and the Federal Geographic Data Committee (FGDC). The USDA Natural Resources Conservation Service (NRCS), along with many other federal agencies and national associations, have representatives on the Subcommittee on Spatial Water Data.
+
+As watershed boundary geographic information systems (GIS) coverages are completed, statewide and national data layers will be made available via the Geospatial Data Gateway to everyone, including federal, state, local government agencies, researchers, private companies, utilities, environmental groups, and concerned citizens. The database will assist in planning and describing water use and related land use activities.</othercit>
+							</citeinfo>
+						</lworkcit>
+					</citeinfo>
+				</srccite>
+				<typesrc>electronic mail system</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>03-16-2005</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>WBD</srccitea>
+				<srccontr>Watershed boundary in Virginia
+Used as a primary source for lines</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>01-01-1999</pubdate>
+						<title>National Elevation Dataset</title>
+						<edition>1</edition>
+						<geoform>raster digital data</geoform>
+						<pubinfo>
+							<pubplace>Sioux Falls, SD</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+						<othercit>accessed November 16, 2004 at http://ned.usgs.gov/
+
+Geospatial elevation data are utilized by the scientific and resource management communities for global change research, hydrologic modeling, resource monitoring, mapping, and visualization applications.</othercit>
+						<onlink>http://ned.usgs.gov/</onlink>
+						<onlink>http://ned.usgs.gov/ned/ned.html</onlink>
+						<onlink>http://gisdata.usgs.net/ned/</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>digital vector data</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2005</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>NED</srccitea>
+				<srccontr>Data were used for delineation of watersheds as a guide to on-screen digitizing of drainage areas and for checking boundaries previously digitized.  No DEM-delineated lines were used as boundaries.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>EPA</origin>
+						<pubdate>05-01-2004</pubdate>
+						<title>Environmental Protection Agency's (EPA) Reach File (Version 3.0), known as RF3</title>
+						<edition>3</edition>
+						<othercit>Stream dataset shows the entire drainage network from small streams to large rivers.</othercit>
+						<onlink>http://www.epa.gov/waters/doc/rfnsdr.html</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>digital vector data</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>05-01-2004</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>EPA RF3</srccitea>
+				<srccontr>The Environmental Protection Agency's (EPA) Reach File (Version 3.0), RF3, is a stream network that was used as a guide for on-screen digitizing and selection of WBD lines for inclusion in the Drainage_Basin dataset.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>USGS</origin>
+						<pubdate>various dates</pubdate>
+						<title>7.5 minute quadrangles</title>
+						<geoform>digital image files</geoform>
+						<othercit>The images are in the NAD27 datum and UTM 17 or 18 projection.  They have collars, but various colors were turned off (not displayed) to make overlap area visible.  Typically white and green were turned off to assist the display of  brown contours during digitizing.</othercit>
+					</citeinfo>
+				</srccite>
+				<typesrc>digital image files</typesrc>
+				<srctime>
+					<srccurr>varied</srccurr>
+				</srctime>
+				<srccitea>DRG</srccitea>
+				<srccontr>The digital raster graphics served as a guilde for on-screen digitizing.  The countours were used as a guide for drainage basin delineation.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>USGS</origin>
+						<pubdate>01-01-2004</pubdate>
+						<title>NWIS Site Information for Stream-flow gaging stations</title>
+						<geoform>online-database</geoform>
+						<othercit>Station location information is availabe through the online linkage.  The locations of discontinued stations or partial-record stations are availabe through the USGS Virginia Water Science Center.</othercit>
+						<onlink>http://waterdata.usgs.gov/nwis/si</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>digital database</typesrc>
+				<srctime>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>NWIS gages</srccitea>
+				<srccontr>Coordinates for each continuous-record streamflow-gaging stations, partial record streamflow-gaging stations of the U.S. Geological Survey are available on-line in the NWIS database. These coordinates were used to plot points for outlet points for each drainage basin.</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>Basemap datasets were derived from the Virginia Watershed Boundary Dataset (WBD), USGS digital quadrangles (DRG), the National Water Information System (NWIS) site information, the National Elevation Dataset (NED), and the Environmental Protection Agency's (EPA) Reach File version 3.0 (RF3).  The Virginia WBD (updated in 2005) served as the primary source of linework for this dataset.  The contours within the USGS digital quadrangles were relied upon for basin delineation and checking the WBD linework.  NED was used to delineate basins above selected point locations from NWIS. The NED-delineated basins and RF3 streams were used as additional guides for on-screen digitizing and selection of WBD lines for inclusion in the Drainage_Divide line feature class and Drainage_Basin polygon feature class.</procdesc>
+				<srcused>NED</srcused>
+				<srcused>EPA RF3</srcused>
+				<srcused>DRG</srcused>
+				<srcused>NWIS gages</srcused>
+				<procdate>03-01-2004</procdate>
+				<srcprod>DEM-basins</srcprod>
+				<srcprod>Drainage_Divide</srcprod>
+				<srcprod>Drainage_Basin</srcprod>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>U.S. Geological Survey WSC, Richmond Virginia</cntorg>
+						</cntorgp>
+						<cntvoice>804-260-2600</cntvoice>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>To construct one stacked polygon the following procedure was completed.  Lines were selected from the WBD and Drainage_Divide line feature class then copied into a temporary line feature class.  The lines from the WBD were checked for accuracy against the contours in the DRG's and modified when necessary.  The WBD was modified to include tributaries or areas that had inadverdantly been excluded, or when the DRG contour lines indicated a peak or ridge line that had not been followed.  When one entire drainage basin was represented in the temporary feature class topology was validated, errors corrected, and validated again.  These lines were copied into a permanent line feature class, Drainage_Divide.  Drainage_Divide is not stacked and stores the outlines of all basins one time only.</procdesc>
+				<srcused>WBD</srcused>
+				<procdate>05-28-2004</procdate>
+				<srcprod>Drainage_Basin</srcprod>
+			</procstep>
+			<procstep>
+				<procdesc>Lines stored in Drainage_Divide match all existing linework in the Drainage_Basin except for new linework for a polygon.  Topology rules indicate a difference in linework when the only error that remains is 'Drainage_Divide  Must be Covered by the Boundary of Drainage_Basin'.  Polygons are constructed by selecting lines from the temporary feature class and choosing the 'construct features' option from the topology toolbar.  This process creates one new polygon in the Drainage_Basin polygon feature class.
+
+This process was repeated for each basin, with lines copied from Drainage_Divide, the WBD, and with on-screen digitizing.  For every polygon that was created, the boundary was constructed in the temporary line feature class, new lines copied into Drainage_Divide, topology rules run, errors corrected, and new polygon constructed.</procdesc>
+				<srcused>WBD</srcused>
+				<procdate>05-30-2005</procdate>
+				<srcprod>Drainage_Basin</srcprod>
+			</procstep>
+			<procstep>
+				<procdesc>Drainage area in square miles was compared between the NWIS published drainages areas for streamflow-gaging stations and the calculated areas from the digitized Drainage_Basin dataset.</procdesc>
+				<procdate>04-01-2006</procdate>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>1601</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<mapproj>
+					<mapprojn>Albers Conical Equal Area</mapprojn>
+					<albers>
+						<stdparll>36.666667</stdparll>
+						<stdparll>39.333306</stdparll>
+						<longcm>-79.500000</longcm>
+						<latprjo>38.000000</latprjo>
+						<feast>0.000000</feast>
+						<fnorth>0.000000</fnorth>
+					</albers>
+				</mapproj>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.000512</absres>
+						<ordres>0.000512</ordres>
+					</coordrep>
+					<plandu>meters</plandu>
+				</planci>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+		</horizsys>
+		<vertdef>
+			<altsys>
+				<altdatum>North American Vertical Datum of 1988</altdatum>
+				<altres>0.000010</altres>
+				<altunits>meters</altunits>
+				<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>
+boundary_poly</enttypl>
+				<enttypd>Polygon attribute file</enttypd>
+				<enttypds>Dataset designer</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>OBJECTID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SHAPE</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SHAPE_Length</attrlabl>
+				<attrdef>Length of feature in meters</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>undefined</rdommax>
+						<attrunit>meters</attrunit>
+						<attrmres>2 meters</attrmres>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SHAPE_Area</attrlabl>
+				<attrdef>Area of feature in square meters</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>undefined</rdommax>
+						<attrunit>square meters</attrunit>
+						<attrmres>2 square meters</attrmres>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>plot_seq</attrlabl>
+				<attrdef>number indicating drawing sequence of polygons so that the largest polygons are drawn on the bottom.</attrdef>
+				<attrdefs>Dataset designer</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers generated by the dataset designer to rank polygons in order of size</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>station_number</attrlabl>
+				<attrdef>US Geological Survey station id number or confluence</attrdef>
+				<attrdefs>US Geological Survey</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Streamflow-gaging station identification numbers</codesetn>
+						<codesets>US Geological Survey</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>HUC_8_digit</attrlabl>
+				<attrdef>8-digit hydrologic unit codes</attrdef>
+				<attrdefs>US Geological Survey</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Hydrologic Unit Code</codesetn>
+						<codesets>US Geological Survey</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>DS_basin</attrlabl>
+				<attrdef>Code for the downstream basin</attrdef>
+				<attrdefs>Dataset designer</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers generated by the dataset designer to rank polygons in downstream order</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Drainage_Area_miles</attrlabl>
+				<attrdef>Area of the drainage basin in square miles</attrdef>
+				<attrdefs>Dataset designer</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>undefined</rdommax>
+						<attrunit>square miles</attrunit>
+					</rdom>
+				</attrdomv>
+				<attrvai>
+					<attrva>0.01 square miles</attrva>
+					<attrvae>Drainage area values less than 100 mi2 are rounded to three significant figures except for areas between 0.10 mi2 and 0.99 mi2 which are rounded to two significant figures.  Drainage areas 100 mi2 and greater are rounded to the closest 1 mi2.</attrvae>
+				</attrvai>
+			</attr>
+			<attr>
+				<attrlabl>HUC_6_digit</attrlabl>
+				<attrdef>6-digit Hydrologic Unit Code identifier</attrdef>
+				<attrdefs>&lt;http://nationalatlas.gov/atlasftp.html&gt;</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Hydrologic Unit Code</codesetn>
+						<codesets>US Geological Survey</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>RegionalBasin</attrlabl>
+				<attrdef>Drainage basin covering many major rivers</attrdef>
+				<attrdefs>USGS</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Ohio River Basin</edomv>
+						<edomvd>Rivers and land areas the drain into the Ohio River</edomvd>
+						<edomvds>US Geological Survey</edomvds>
+					</edom>
+					<edom>
+						<edomv>North Atlantic Slope Basins</edomv>
+						<edomvd>Rivers and land areas the drain into the Atlantic Ocean North of the James River Basin</edomvd>
+						<edomvds>US Geological Survey</edomvds>
+					</edom>
+					<edom>
+						<edomv>South Atlantic Slope Basins</edomv>
+						<edomvd>Rivers and land areas the drain into the Atlantic Ocean from the James River Basin southward</edomvd>
+						<edomvds>US Geological Survey</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>River_Basin</attrlabl>
+				<attrdef>Large river basin in Virginia</attrdef>
+				<attrdefs>USGS</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Atlantic Ocean</edomv>
+						<edomvd>Rivers that drain directly into the Atlantic</edomvd>
+						<edomvds>Dataset designer</edomvds>
+					</edom>
+					<edom>
+						<edomv>Big Sandy River Basin</edomv>
+						<edomvds>USGS</edomvds>
+					</edom>
+					<edom>
+						<edomv>Chesapeake Bay</edomv>
+						<edomvd>Rivers that drain directly into the Chesapeake Bay</edomvd>
+						<edomvds>Dataset designer</edomvds>
+					</edom>
+					<edom>
+						<edomv>Chincoteague Bay</edomv>
+						<edomvd>Rivers that drain directly into the Chincoteague Bay</edomvd>
+						<edomvds>Dataset designer</edomvds>
+					</edom>
+					<edom>
+						<edomv>Chowan River Basin</edomv>
+						<edomvds>USGS</edomvds>
+					</edom>
+					<edom>
+						<edomv>Great Wicomico River Basin</edomv>
+						<edomvds>USGS</edomvds>
+					</edom>
+					<edom>
+						<edomv>James River Basin</edomv>
+						<edomvds>USGS</edomvds>
+					</edom>
+					<edom>
+						<edomv>Kanawha River Basin</edomv>
+						<edomvds>USGS</edomvds>
+					</edom>
+					<edom>
+						<edomv>Mobjack River Bay</edomv>
+						<edomvd>Rivers that drain directly into the Mobjack River Bay</edomvd>
+						<edomvds>Dataset designer</edomvds>
+					</edom>
+					<edom>
+						<edomv>Piankatank River Basin</edomv>
+						<edomvds>USGS</edomvds>
+					</edom>
+					<edom>
+						<edomv>Poquoson River Basin</edomv>
+						<edomvd>Rivers that drain directly into the Poquoson River</edomvd>
+						<edomvds>Dataset designer</edomvds>
+					</edom>
+					<edom>
+						<edomv>Potomac River Basin</edomv>
+						<edomvds>USGS</edomvds>
+					</edom>
+					<edom>
+						<edomv>Rappahannock River Basin</edomv>
+						<edomvds>USGS</edomvds>
+					</edom>
+					<edom>
+						<edomv>Roanoke River Basin</edomv>
+						<edomvds>USGS</edomvds>
+					</edom>
+					<edom>
+						<edomv>Tennessee River Basin</edomv>
+						<edomvds>USGS</edomvds>
+					</edom>
+					<edom>
+						<edomv>Yadkin River Basin</edomv>
+						<edomvds>USGS</edomvds>
+					</edom>
+					<edom>
+						<edomv>York River Basin</edomv>
+						<edomvds>USGS</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+		</detailed>
+		<overview>
+			<eaover>The attributes incuded in this dataset help to group the drainage basins into larger watersheds and regional drainage patterns.  The station identification field links each drainage basin to one USGS stream-flow gaging station, partial-record site, or watercourse location of interest.  The drainage area in square miles should serve as the official drainage area for the given USGS station.</eaover>
+			<eadetcit>Most of the information herein is derived from USGS datasets and digital databases.</eadetcit>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Geological Survey</cntorg>
+				</cntorgp>
+				<cntpos>Ask USGS -- Water Webserver Team</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>507 National Center</address>
+					<city>Reston</city>
+					<state>VA</state>
+					<postal>20192</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>1-888-275-8747 (1-888-ASK-USGS)</cntvoice>
+				<cntemail>http://answers.usgs.gov/cgi-bin/gsanswers?pemail=h2oteam&amp;amp;subject=GIS+Dataset+Drainage_Basin</cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>Although this data set has been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of this data, software, or related materials. Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>Shape</formname>
+					<formverd>11-01-2006</formverd>
+					<formspec>zipped Shapefile named Drainage_BasinVA_shp.zip</formspec>
+					<formcont>Multiple parts with the same base name and different extensions</formcont>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://water.usgs.gov/GIS/dsdl/OFR2006-1308_Drainage_Basin_shape.zip</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<digform>
+				<digtinfo>
+					<formname>geodatabase</formname>
+					<formverd>11-01-2006</formverd>
+					<formspec>zipped geodatabase named Drainage_Basin_GDB.zip</formspec>
+					<formcont>access database with spatial properties</formcont>
+					<filedec>zipped file</filedec>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://water.usgs.gov/GIS/dsdl/OFR2006-1308_Drainage_Basin_GDB.zip</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>none. This dataset is provided by USGS as a public service</fees>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20060330</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Geological Survey</cntorg>
+					<cntper>Ask USGS -- Water Webserver Team</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>507 National Center</address>
+					<city>Reston</city>
+					<state>VA</state>
+					<postal>20192</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>1-888-275-8747 (1-888-ASK-USGS)</cntvoice>
+				<cntemail>http://water.usgs.gov/user_feedback_form.html</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+	</metainfo>
+	<Esri><ModDate>20070202</ModDate><ModTime>15402100</ModTime></Esri><mdDateSt Sync="TRUE">20070202</mdDateSt></metadata>
