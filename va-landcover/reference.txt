@@ -1,0 +1,17 @@
+ftp://edcftp.cr.usgs.gov/data/landcover/states/
+http://landcover.usgs.gov/show_data.php?code=VA&state=Virginia">NLCD 1992 Products &#45; Virginia
+
+http://landcover.usgs.gov/ftpdownload.php
+Right click on the file you want and then save 'target' or 'link' as..... (Be sure the .gz extension is part of downloaded file name (*.bin.gz)).
+
+Lastly, there are two text files which show the red/green/blue values to use to replicate the new USGS landcover colors. They are 'nlcd_colors_1.txt' and 'nlcd_colors_255.txt.' The '255' refers to RGB values in the range of 0-255 and the '1' refers to values in the range of 0-1.
+
+To get a free viewer (DLGV32) to display the Geo-TIFF go to:
+
+http://mcmcweb.er.usgs.gov/drc/dlgv32pro/"><abbr>usgs</abbr> Digital Data Viewer: dlgv32 Pro
+
+
+
+http://www.mrlc.gov/nlcd92_data.php">National Land Cover Dataset (<abbr>nlcd</abbr>) 1992</a>
+http://landcover.usgs.gov/us_map.php">By State Download 1992 NLCD Products
+http://landcover.usgs.gov/show_data.php?code=VA&state=Virginia"><abbr>nlcd</abbr> 1992 Products &#45; Virginia
