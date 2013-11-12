@@ -1,0 +1,161 @@
+n_lon,n_lat,hosp_name,reg_name,dist_name,n_street,n_city,n_state,n_zip,n_county,n_tract,n_block,latitude,longitude
+-78.985995,38.094499,Augusta Medical Center,Northwest,Central Shenandoah Health District,78 Medical Center Drive,Fishersville,VA,22939,AUGUSTA COUNTY,510150706.0,510150706.0,38.094499,-78.985995
+-79.831991,37.992874,Bath County Community Hospital,Northwest,Central Shenandoah Health District,106 Park Lane,Hot Springs,VA,24445,BATH COUNTY,510179801.0,510179801.0,37.992874,-79.831991
+-79.441024,37.778589,Carilion Stonewall Jackson Hospital,Northwest,Central Shenandoah Health District,1 Health Circle,Lexington,VA,24450,LEXINGTON CITY,516789905.0,516789905.0,37.778589,-79.441024
+-78.870668,38.440225,Rockingham Memorial Hospital,Northwest,Central Shenandoah Health District,235 Cantrell Avenue,Harrisonburg,VA,22801,HARRISONBURG CITY,516600002.0,516600002.0,38.440225,-78.870668
+-78.468579,38.662336,Page Memorial Hospital,Northwest,Lord Fairfax Health District,200 Memorial Drive,Luray,VA,22835,PAGE COUNTY,511390302.0,511390302.0,38.662336,-78.468579
+-78.512425,38.8703,Shenandoah Memorial Hospital,Northwest,Lord Fairfax Health District,759 South Main Street,Woodstock,VA,22664,SHENANDOAH COUNTY,511710405.0,511710405.0,38.8703,-78.512425
+-78.193747,39.193347,Surgi-Center of Winchester Inc.,Northwest,Lord Fairfax Health District,1860 Amherst Street,Winchester,VA,22601,WINCHESTER CITY,518400002.0,518400002.0,39.193347,-78.193747
+-78.198271,38.930883,Warren Memorial Hospital,Northwest,Lord Fairfax Health District,1000 Shenandoah Avenue,Front Royal,VA,22630,WARREN COUNTY,511870204.0,511870204.0,38.930883,-78.198271
+-78.193201,39.194421,Winchester Medical Center,Northwest,Lord Fairfax Health District,1840 Amherst Street,Winchester,VA,22601,WINCHESTER CITY,518400002.0,518400002.0,39.194421,-78.193201
+-77.484698,38.3096,Fredericksburg Ambulatory Surgery Center L.L.C.,Northwest,Rappahannock Health District,1201 Sam Perry Boulevard,Fredericksburg,VA,22401,FREDERICKSBURG CITY,516300002.0,516300002.0,38.3096,-77.484698
+-77.486097,38.313678,Healthsouth Rehabilitation Hospital of Fredericksburg,Northwest,Rappahannock Health District,300 Park Hill Drive,Fredericksburg,VA,22401,FREDERICKSBURG CITY,516300002.0,516300002.0,38.313678,-77.486097
+-77.483793,38.311057,Mary Washington Hospital,Northwest,Rappahannock Health District,1001 Sam Perry Boulevard,Fredericksburg,VA,22401,FREDERICKSBURG CITY,516300002.0,516300002.0,38.311057,-77.483793
+-77.496714,38.239624,Spotsylvania Regional Medical Center,Northwest,Rappahannock Health District,4600 Spotsylvania Parkway,Fredericksburg,VA,22408,SPOTSYLVANIA COUNTY,511770202.0,511770202.0,38.239624,-77.496714
+-77.400118,38.449338,Stafford Hospital,Northwest,Rappahannock Health District,101 Hospital Center Boulevard,Stafford,VA,22554,STAFFORD COUNTY,511790101.0,511790101.0,38.449338,-77.400118
+-77.451754,38.306063,Surgi-Center of Central Virginia Inc.,Northwest,Rappahannock Health District,12 Chatham Heights Road,Fredericksburg,VA,22405,STAFFORD COUNTY,511790104.1,511790104.1,38.306063,-77.451754
+-78.012944,38.455168,Culpeper Regional Hospital,Northwest,Rappahannock-Rapidian Health District,501 Sunset Lane,Culpeper,VA,22701,CULPEPER COUNTY,510479905.0,510479905.0,38.455168,-78.012944
+-78.01237,38.455652,Culpeper Surgery Center,Northwest,Rappahannock-Rapidian Health District,541 Sunset Lane,Culpeper,VA,22701,CULPEPER COUNTY,510479905.0,510479905.0,38.455652,-78.01237
+-77.808915,38.71231,Fauquier Hospital,Northwest,Rappahannock-Rapidian Health District,500 Hospital Drive,Warrenton,VA,20186,FAUQUIER COUNTY,510619903.0,510619903.0,38.71231,-77.808915
+-78.471875,38.032344,Martha Jefferson Hospital,Northwest,Thomas Jefferson Health District,459 Locust Avenue,Charlottesville,VA,22902,CHARLOTTESVILLE CITY,515400003.0,515400003.0,38.032344,-78.471875
+-78.437559,38.023687,Martha Jefferson Outpatient Surgery Center L.L.C.,Northwest,Thomas Jefferson Health District,595 Peter Jefferson Parkway,Charlottesville,VA,22911,ALBEMARLE COUNTY,510030105.0,510030105.0,38.023687,-78.437559
+-78.446142,38.029463,Osteopathic Surgical Centers,Northwest,Thomas Jefferson Health District,2050 Abbey Road,Charlottesville,VA,22911,ALBEMARLE COUNTY,510030105.0,510030105.0,38.029463,-78.446142
+-78.498579,38.031063,University of Virginia Medical Center,Northwest,Thomas Jefferson Health District,1215 Lee Street,Charlottesville,VA,22906,CHARLOTTESVILLE CITY,515400006.0,515400006.0,38.031063,-78.498579
+-78.526184,38.024556,UVA HealthSouth Rehabilitation Hospital,Northwest,Thomas Jefferson Health District,515 Ray C. Hunt Drive,Charlottesville,VA,22903,ALBEMARLE COUNTY,510030112.0,510030112.0,38.024556,-78.526184
+-78.52062,38.045246,UVA Kluge Childrens Rehabilitation Center,Northwest,Thomas Jefferson Health District,2270 Ivy Road,Charlottesville,VA,22901,ALBEMARLE COUNTY,510030109.0,510030109.0,38.045246,-78.52062
+-77.10529,38.82228,Inova Alexandria Hospital,Northern,Alexandria Health District,4320 Seminary Road,Alexandria,VA,22304,ALEXANDRIA CITY,515102002.0,515102002.0,38.82228,-77.10529
+-77.127083,38.88904,Virginia Hospital Center,Northern,Arlington Health District,1701 North George Mason Drive,Arlington,VA,22205,ARLINGTON COUNTY,510131009.0,510131009.0,38.88904,-77.127083
+-77.136602,38.700152,DeWitt Army Community Hospital,Northern,Fairfax Health District,9501 Farrell Road,Fort Belvoir,VA,22060,FAIRFAX COUNTY,510594162.0,510594162.0,38.700152,-77.136602
+-77.315377,38.849676,Fairfax Surgical Center,Northern,Fairfax Health District,10730 Main Street,Fairfax,VA,22030,FAIRFAX CITY,516003001.0,516003001.0,38.849676,-77.315377
+-77.157913,38.768147,Franconia-Springfield Surgery Center,Northern,Fairfax Health District,6355 Walker Lane,Alexandria,VA,22310,FAIRFAX COUNTY,510594210.0,510594210.0,38.768147,-77.157913
+-77.380012,38.884669,Inova Fair Oaks Hospital,Northern,Fairfax Health District,3600 Joseph Siewick Drive,Fairfax,VA,22033,FAIRFAX COUNTY,510594826.0,510594826.0,38.884669,-77.380012
+-77.229001,38.857777,Inova Fairfax Hospital,Northern,Fairfax Health District,3300 Gallows Road,Falls Church,VA,22042,FAIRFAX COUNTY,510594402.0,510594402.0,38.857777,-77.229001
+-77.0771,38.739657,Inova Mount Vernon Hospital,Northern,Fairfax Health District,2501 Parkers Lane,Alexandria,VA,22306,FAIRFAX COUNTY,510594155.0,510594155.0,38.739657,-77.0771
+-77.223228,38.854137,Inova Surgery Center,Northern,Fairfax Health District,3289 Woodburn Road,Annandale,VA,22003,FAIRFAX COUNTY,510594403.0,510594403.0,38.854137,-77.223228
+-77.169661,38.883722,Kaiser Permanente Falls Church Ambulatory Surgery Center,Northern,Fairfax Health District,201 N. Washington Street,Falls Church,VA,22046,FALLS CHURCH CITY,516105001.0,516105001.0,38.883722,-77.169661
+-77.237355,38.864762,Potomac Ambulatory Surgery Center L.L.C.,Northern,Fairfax Health District,8503 Arlington Boulevard,Fairfax,VA,22031,FAIRFAX COUNTY,510594402.0,510594402.0,38.864762,-77.237355
+-77.364176,38.962018,Reston Hospital Center,Northern,Fairfax Health District,1850 Town Center Parkway,Reston,VA,20190,FAIRFAX COUNTY,510594822.0,510594822.0,38.962018,-77.364176
+-77.36653,38.961682,Reston Surgery Center,Northern,Fairfax Health District,1860 Town Center Drive,Reston,VA,20190,FAIRFAX COUNTY,510594822.0,510594822.0,38.961682,-77.36653
+-77.231938,38.913521,Skin Cancer Outpatient Surgical Hospital,Northern,Fairfax Health District,8301 Old Courthouse Road,Vienna,VA,22182,FAIRFAX COUNTY,510594605.0,510594605.0,38.913521,-77.231938
+-77.412789,39.037358,Countryside Ambulatory Surgery Center,Northern,Loudon Health District,4 Pidgeon Hill Drive,Sterling,VA,20165,LOUDOUN COUNTY,511076111.0,511076111.0,39.037358,-77.412789
+-77.477782,39.074042,Inova Loudoun Hospital,Northern,Loudon Health District,44045 Riverside Parkway,Leesburg,VA,20176,LOUDOUN COUNTY,511076110.0,511076110.0,39.074042,-77.477782
+-77.489274,38.767878,Prince William Ambulatory Surgery Center L.L.C.,Northern,Prince William Health District,8644 Sudley Road,Manassas,VA,20110,MANASSAS CITY,516839101.0,516839101.0,38.767878,-77.489274
+-77.487153,38.767228,Prince William Hospital,Northern,Prince William Health District,8700 Sudley Road,Manassas,VA,20110,MANASSAS CITY,516839101.0,516839101.0,38.767228,-77.487153
+-77.286296,38.637235,Sentara Potomac Hospital,Northern,Prince William Health District,2300 Opitz Boulevard,Woodbridge,VA,22191,PRINCE WILLIAM COUNTY,511539005.0,511539005.0,38.637235,-77.286296
+-79.88096,37.791858,Alleghany Regional Hospital,Southwest,Alleghany Health District,1 ARH Lane,Low Moor,VA,24457,ALLEGHANY COUNTY,510050802.0,510050802.0,37.791858,-79.88096
+-80.031433,37.263129,Blue Ridge Surgery Center,Southwest,Alleghany Health District,1802 Braeburn Drive,Salem,VA,24153,SALEM CITY,517750105.0,517750105.0,37.263129,-80.031433
+-80.00532,37.235815,Carilion Brambleton Ambulatory Surgical Center,Southwest,Alleghany Health District,3707 Brambleton Avenue SW,Roanoke,VA,24018,ROANOKE COUNTY,511610307.0,511610307.0,37.235815,-80.00532
+-80.10995,37.391382,Catawba Hospital,Southwest,Alleghany Health District,5525 Catawba Hospital Drive,Catawba,VA,24070,ROANOKE COUNTY,511610301.0,511610301.0,37.391382,-80.10995
+-80.031427,37.263127,Lewis Gale Medical Center,Southwest,Alleghany Health District,1900 Electric Road,Salem,VA,24153,SALEM CITY,517750105.0,517750105.0,37.263127,-80.031427
+-80.066285,37.290722,Roanoke Valley Center For Sight L.L.C.,Southwest,Alleghany Health District,438 W. Main Street,Salem,VA,24153,SALEM CITY,517750103.0,517750103.0,37.290722,-80.066285
+-80.027338,37.275296,Veterans Affairs Medical Center Salem,Southwest,Alleghany Health District,1970 Roanoke Boulevard,Salem,VA,24153,SALEM CITY,517750104.0,517750104.0,37.275296,-80.027338
+-79.517582,37.351381,Bedford Memorial Hospital,Southwest,Central Virginia Health District,1613 Oakwood Street,Bedford,VA,24523,BEDFORD CITY,515150501.0,515150501.0,37.351381,-79.517582
+-79.187645,37.438286,Center For Restorative Care and Rehabilitation,Southwest,Central Virginia Health District,3300 Rivermont Avenue,Lynchburg,VA,24503,LYNCHBURG CITY,516800001.0,516800001.0,37.438286,-79.187645
+-79.171578,37.417008,Lynchburg General Hospital,Southwest,Central Virginia Health District,1901 Tate Springs Road,Lynchburg,VA,24501,LYNCHBURG CITY,516800003.0,516800003.0,37.417008,-79.171578
+-79.244334,37.377201,Eye Surgery Center of Central Virginia,Southwest,Central Virginia Health District,1834 Graves Mill Road,Forest,VA,24551,BEDFORD COUNTY,510190301.0,510190301.0,37.377201,-79.244334
+-79.177899,37.408574,Surgery Center of Lynchburg,Southwest,Central Virginia Health District,2401 Atherholt Road,Lynchburg,VA,24501,LYNCHBURG CITY,516800003.0,516800003.0,37.408574,-79.177899
+-79.187645,37.438286,Virginia Baptist Hospital,Southwest,Central Virginia Health District,3300 Rivermont Avenue,Lynchburg,VA,24503,LYNCHBURG CITY,516800001.0,516800001.0,37.438286,-79.187645
+-82.065559,37.285395,Buchanan General Hospital,Southwest,Cumberland Plateau Health District,1535 Slate Creek Road,Grundy,VA,24614,BUCHANAN COUNTY,510279904.0,510279904.0,37.285395,-82.065559
+-81.489043,37.123911,Carilion Tazewell Community Hospital,Southwest,Cumberland Plateau Health District,141 Ben Bolt Avenue,Tazewell,VA,24651,TAZEWELL COUNTY,511859907.0,511859907.0,37.123911,-81.489043
+-81.820152,37.094612,Clinch Valley Medical Center,Southwest,Cumberland Plateau Health District,2949 West Front Street,Richlands,VA,24641,TAZEWELL COUNTY,511859910.0,511859910.0,37.094612,-81.820152
+-82.449028,37.160674,Dickenson Community Hospital,Southwest,Cumberland Plateau Health District,312 Hospital Drive,Clintwood,VA,24228,DICKENSON COUNTY,510519903.0,510519903.0,37.160674,-82.449028
+-81.288443,37.239865,Regional Surgical Services L.L.C.,Southwest,Cumberland Plateau Health District,120 Hockman Pike,Bluefield,VA,24605,TAZEWELL COUNTY,511859902.0,511859902.0,37.239865,-81.288443
+-82.078402,36.898796,Russell County Medical Center,Southwest,Cumberland Plateau Health District,58 Carroll Street,Lebanon,VA,24266,RUSSELL COUNTY,511679904.0,511679904.0,36.898796,-82.078402
+-83.050085,36.750497,Lee Regional Medical Center,Southwest,Lenowisco Health District,1800 Combs Road,Pennington Gap,VA,24277,LEE COUNTY,511059903.0,511059903.0,36.750497,-83.050085
+-82.620329,36.934346,Mountain View Regional Medical Center,Southwest,Lenowisco Health District,310 3rd Street NE,Norton,VA,24273,NORTON CITY,517209901.0,517209901.0,36.934346,-82.620329
+-82.641878,36.932998,Norton Community Hospital,Southwest,Lenowisco Health District,100 15th Street Northwest,Norton,VA,24273,NORTON CITY,517209901.0,517209901.0,36.932998,-82.641878
+-82.754424,36.877071,Wellmont Lonesome Pine Hospital,Southwest,Lenowisco Health District,1990 Holton Avenue East,Big Stone Gap,VA,24219,WISE COUNTY,511959912.0,511959912.0,36.877071,-82.754424
+-81.971484,36.71412,Johnston Memorial Hospital,Southwest,Mount Rogers Health District,351 Court Street NE,Abington,VA,24210,WASHINGTON COUNTY,511910105.0,511910105.0,36.71412,-81.971484
+-81.507908,36.851368,Smyth County Community Hospital,Southwest,Mount Rogers Health District,565 Radio Hill Road,Marion,VA,24354,SMYTH COUNTY,511739903.0,511739903.0,36.851368,-81.507908
+-80.92391,36.670685,Twin County Regional Hospital,Southwest,Mount Rogers Health District,200 Hospital Drive,Galax,VA,24333,GALAX CITY,516409901.0,516409901.0,36.670685,-80.92391
+-81.097004,36.954617,Wythe County Community Hospital,Southwest,Mount Rogers Health District,600 West Ridge Road,Wytheville,VA,24382,WYTHE COUNTY,511979902.0,511979902.0,36.954617,-81.097004
+-80.722239,37.322384,Carilion Giles Memorial Hospital,Southwest,New River Health District,1 Taylor Avenue,Pearisburg,VA,24134,GILES COUNTY,510719904.0,510719904.0,37.322384,-80.722239
+-80.505176,37.088873,Carilion New River Valley Medical Center,Southwest,New River Health District,2900 Lamb Circle,Christiansburg,VA,24073,MONTGOMERY COUNTY,511210215.0,511210215.0,37.088873,-80.505176
+-80.411173,37.187192,Montgomery Regional Hospital,Southwest,New River Health District,3700 South Main Street,Blacksburg,VA,24062,MONTGOMERY COUNTY,511210202.0,511210202.0,37.187192,-80.411173
+-80.505011,37.091181,New River Valley Surgery Center,Southwest,New River Health District,2901 Lamb Circle,Christiansburg,VA,24073,MONTGOMERY COUNTY,511210215.0,511210215.0,37.091181,-80.505011
+-80.757193,37.068176,Pulaski Community Hospital,Southwest,New River Health District,2400 Lee Highway,Pulaski,VA,24301,PULASKI COUNTY,511552102.0,511552102.0,37.068176,-80.757193
+-79.40496,36.578079,Danville Regional Medical Center,Southwest,Pittsylvania-Danville Health District,142 South Main Street,Danville,VA,24541,DANVILLE CITY,515900007.0,515900007.0,36.578079,-79.40496
+-79.402505,36.580597,Piedmont Day Surgery Center,Southwest,Pittsylvania-Danville Health District,1040 Main Street,Danville,VA,24543,DANVILLE CITY,515900006.0,515900006.0,36.580597,-79.402505
+-79.942155,37.251256,Carilion Medical Center,Southwest,Roanoke City Health District,1906 Bellview Ave,Roanoke,VA,24014,ROANOKE CITY,517700016.0,517700016.0,37.251256,-79.942155
+-79.939645,37.266215,Carilion Roanoke Community Hospital,Southwest,Roanoke City Health District,101 Elm Avenue SE,Roanoke,VA,24013,ROANOKE CITY,517700011.0,517700011.0,37.266215,-79.939645
+-79.942155,37.251256,Carilion Roanoke Memorial Hospital,Southwest,Roanoke City Health District,1906 Bellview Ave,Roanoke,VA,24033,ROANOKE CITY,517700016.0,517700016.0,37.251256,-79.942155
+-79.941123,37.2627,Roanoke Ambulatory Surgery Center,Southwest,Roanoke City Health District,1102 Jefferson Street SE,Roanoke,VA,24016,ROANOKE CITY,517700012.0,517700012.0,37.2627,-79.941123
+-79.89034,36.994112,Carilion Franklin Memorial Hospital,Southwest,West Piedmont Health District,180 Floyd Avenue,Rocky Mount,VA,24151,FRANKLIN COUNTY,510670208.0,510670208.0,36.994112,-79.89034
+-79.867267,36.699289,Memorial Hospital of Martinsville and Henry County,Southwest,West Piedmont Health District,320 Hospital Drive,Martinsville,VA,24115,MARTINSVILLE CITY,516900001.0,516900001.0,36.699289,-79.867267
+-80.254575,36.645977,Pioneer Community Hospital,Southwest,West Piedmont Health District,18688 JEB Stuart Highway,Stuart,VA,24171,PATRICK COUNTY,511410302.0,511410302.0,36.645977,-80.254575
+-77.659311,37.466809,Bon Secours St. Francis Medical Center,Central,Chesterfield Health District,13710 St. Francis Boulevard,Midlothian,VA,23114,CHESTERFIELD COUNTY,510411009.3,510411009.3,37.466809,-77.659311
+-77.594923,37.510448,CJW Medical Center Johnston Willis Campus,Central,Chesterfield Health District,1401 Johnston-Willis Drive,Richmond,VA,23235,CHESTERFIELD COUNTY,510411009.2,510411009.2,37.510448,-77.594923
+-77.658707,37.46687,Sheltering Arms Hospital South,Central,Chesterfield Health District,13700 St. Francis Boulevard,Midlothian,VA,23114,CHESTERFIELD COUNTY,510411009.3,510411009.3,37.46687,-77.658707
+-77.658707,37.46687,St. Francis Surgery Center- Midlothian,Central,Chesterfield Health District,13700 St. Francis Boulevard,Midlothian,VA,23114,CHESTERFIELD COUNTY,510411009.3,510411009.3,37.46687,-77.658707
+-77.3863,37.628633,Bon Secours Memorial Regional Medical Center,Central,Chicahominy/Hanover Health District,8260 Atlee Road,Mechanicsville,VA,23116,HANOVER COUNTY,510853209.0,510853209.0,37.628633,-77.3863
+-76.978629,37.546341,Cumberland Hospital for Children and Adolescents,Central,Chicahominy/Hanover Health District,9407 Cumberland Road,New Kent,VA,23124,NEW KENT COUNTY,511277003.0,511277003.0,37.546341,-76.978629
+-77.33744,37.616869,Hanover Outpatient Surgery Center L.P.,Central,Chicahominy/Hanover Health District,7016 Lee Park Road,Mechanicsville,VA,23111,HANOVER COUNTY,510853210.0,510853210.0,37.616869,-77.33744
+-77.386288,37.62863,Memorial Ambulatory Surgery Center L.L.C.,Central,Chicahominy/Hanover Health District,8262 Atlee Road,Mechanicsville,VA,23116,HANOVER COUNTY,510853209.0,510853209.0,37.62863,-77.386288
+-77.387254,37.629318,Sheltering Arms Rehabilitation Hospital Mechanicsville,Central,Chicahominy/Hanover Health District,8254 Atlee Road,Mechanicsville,VA,23116,HANOVER COUNTY,510853209.0,510853209.0,37.629318,-77.387254
+-77.387747,37.627491,Urosurgical Center Of Richmond - North,Central,Chicahominy/Hanover Health District,8228 Meadowbridge Road,Mechanicsville,VA,23111,HANOVER COUNTY,510853209.0,510853209.0,37.627491,-77.387747
+-77.359727,37.182157,Healthsouth Rehabilitation Hospital of Petersburg,Central,Crater Health District,95 Pine Hill Boulevard,Petersburg,VA,23805,PETERSBURG CITY,517308112.0,517308112.0,37.182157,-77.359727
+-77.291166,37.307798,John Randolph Medical Center,Central,Crater Health District,411 West Randolph Road,Hopewell,VA,23860,HOPEWELL CITY,516708203.0,516708203.0,37.307798,-77.291166
+-77.5378,36.701566,Southern Virginia Regional Medical Center,Central,Crater Health District,727 North Main Street,Emporia,VA,23847,EMPORIA CITY,515958902.0,515958902.0,36.701566,-77.5378
+-77.364317,37.183246,Southside Regional Medical Center,Central,Crater Health District,200 Medical Park Boulevard,Petersburg,VA,23805,PETERSBURG CITY,517308112.0,517308112.0,37.183246,-77.364317
+-77.51172,37.583489,Bon Secours St. Marys Hospital,Central,Henrico Health District,5801 Bremo Road,Richmond,VA,23226,HENRICO COUNTY,510872003.0,510872003.0,37.583489,-77.51172
+-77.507391,37.590419,Cataract and Refractive Surgery Center,Central,Henrico Health District,2010 Bremo Road,Richmond,VA,23226,HENRICO COUNTY,510872003.0,510872003.0,37.590419,-77.507391
+-77.506735,37.585941,Healthsouth Rehabilitation Hospital of Virginia,Central,Henrico Health District,5700 Fitzhugh Avenue,Richmond,VA,23226,HENRICO COUNTY,510872003.0,510872003.0,37.585941,-77.506735
+-77.538808,37.602545,Henrico Doctors Hospital Main Campus (Forest),Central,Henrico Health District,1602 Skipwith Road,Richmond,VA,23229,HENRICO COUNTY,510872001.0,510872001.0,37.602545,-77.538808
+-77.490472,37.589622,Kindred Hospital Richmond,Central,Henrico Health District,2220 Edward Holland Drive,Richmond,VA,23230,HENRICO COUNTY,510872005.0,510872005.0,37.589622,-77.490472
+-77.52602,37.631682,Parham Doctors Hospital,Central,Henrico Health District,7700 East Parham Road,Richmond,VA,23294,HENRICO COUNTY,510872004.1,510872004.1,37.631682,-77.52602
+-77.51373,37.585242,St. Mary∆s Ambulatory Surgery Center,Central,Henrico Health District,1501 Maple Avenue,Richmond,VA,23226,HENRICO COUNTY,510872003.0,510872003.0,37.585242,-77.51373
+-77.560677,37.603711,Tuckahoe Surgery Center,Central,Henrico Health District,8919 Three Chopt Road,Richmond,VA,23229,HENRICO COUNTY,510872001.1,510872001.1,37.603711,-77.560677
+-77.504133,37.580684,Urosurgical Center Of Richmond - Monument,Central,Henrico Health District,5224 Monument Avenue,Richmond,VA,23226,HENRICO COUNTY,510872003.0,510872003.0,37.580684,-77.504133
+-78.404115,37.302672,Centra Southside Community Hospital,Central,Piedmont Health District,800 Oak Street,Farmville,VA,23901,PRINCE EDWARD COUNTY,511479902.0,511479902.0,37.302672,-78.404115
+-77.407007,37.540276,Bon Secours Richmond Community Hospital,Central,Richmond City Health District,1500 North 28th Street,Richmond,VA,23223,RICHMOND CITY,517600203.0,517600203.0,37.540276,-77.407007
+-77.450962,37.571026,Children's Hospital,Central,Richmond City Health District,2924 Brook Road,Richmond,VA,23220,RICHMOND CITY,517600106.0,517600106.0,37.571026,-77.450962
+-77.52654,37.513804,CJW Medical Center Chippenham Campus,Central,Richmond City Health District,7101 Jahnke Road,Richmond,VA,23225,RICHMOND CITY,517600710.0,517600710.0,37.513804,-77.52654
+-77.472624,37.553883,Retreat Doctors Hospital,Central,Richmond City Health District,2621 Grove Avenue,Richmond,VA,23220,RICHMOND CITY,517600410.0,517600410.0,37.553883,-77.472624
+-77.562701,37.552318,Stony Point Surgery Center,Central,Richmond City Health District,8700 Stony Point Parkway,Richmond,VA,23235,RICHMOND CITY,517600701.0,517600701.0,37.552318,-77.562701
+-77.565055,37.548109,Urosurgical Center Of Richmond - South,Central,Richmond City Health District,9105 Stoney Point Drive,Richmond,VA,23235,RICHMOND CITY,517600701.0,517600701.0,37.548109,-77.565055
+-77.429898,37.540009,VCU Health System,Central,Richmond City Health District,1250 East Marshall Street,Richmond,VA,23219,RICHMOND CITY,517600302.0,517600302.0,37.540009,-77.429898
+-77.466935,37.497945,Veterans Affairs Medical Center Richmond,Central,Richmond City Health District,1201 Broad Rock Boulevard,Richmond,VA,23249,RICHMOND CITY,517600706.0,517600706.0,37.497945,-77.466935
+-77.537241,37.576194,Virginia Eye Institute Surgery Pavilion Inc.,Central,Richmond City Health District,402 Westhampton Station,Richmond,VA,23226,RICHMOND CITY,517600505.0,517600505.0,37.576194,-77.537241
+-78.133318,36.733585,Community Memorial HealthCenter,Central,Southside Health District,125 Buena Vista Circle,South Hill,VA,23970,MECKLENBURG COUNTY,511179902.0,511179902.0,36.733585,-78.133318
+-78.914612,36.71235,Halifax Regional Health System,Central,Southside Health District,2204 Wilborn Avenue,South Boston,VA,24592,HALIFAX COUNTY,510839906.0,510839906.0,36.71235,-78.914612
+-76.246617,36.74603,Chesapeake Regional Medical Center,Eastern,Chesapeake Health District,736 Battlefield Boulevard North,Chesapeake,VA,23327,CHESAPEAKE CITY,515500209.0,515500209.0,36.74603,-76.246617
+-76.247197,36.750016,Surgery Center of Chesapeake L.L.C.,Eastern,Chesapeake Health District,844 Battlefield Boulevard North,Chesapeake,VA,23327,CHESAPEAKE CITY,515500209.0,515500209.0,36.750016,-76.247197
+-75.864207,37.475153,Riverside Shore Memorial Hospital,Eastern,Eastern Shore Health District,9507 Hospital Avenue,Nassawadox,VA,23413,NORTHAMPTON COUNTY,511319902.0,511319902.0,37.475153,-75.864207
+-76.357758,37.073592,Langley Air Force Base Hospital,Eastern,Hampton Health District,77 Nealy Avenue,Langley Air Force Base,VA,23665,HAMPTON CITY,516500102.0,516500102.0,37.073592,-76.357758
+-76.392881,37.044274,Sentara CarePlex Hospital,Eastern,Hampton Health District,3000 Coliseum Drive,Hampton,VA,23666,HAMPTON CITY,516500103.1,516500103.1,37.044274,-76.392881
+-76.392881,37.044274,Sentara CarePlex Hospital A.S.C.,Eastern,Hampton Health District,3000 Coliseum Drive,Hampton,VA,23666,HAMPTON CITY,516500103.1,516500103.1,37.044274,-76.392881
+-76.331826,37.021564,Veterans Affairs Medical Center Hampton,Eastern,Hampton Health District,100 Emancipation Drive,Hampton,VA,23667,HAMPTON CITY,516500114.0,516500114.0,37.021564,-76.331826
+-76.281626,36.898894,Bon Secours DePaul Medical Center,Eastern,Norfolk City Health District,150 Kingsley Lane,Norfolk,VA,23505,NORFOLK CITY,517100017.0,517100017.0,36.898894,-76.281626
+-76.300834,36.861357,Children's Hospital of the Kings Daughters,Eastern,Norfolk City Health District,601 Childrens Lane,Norfolk,VA,23507,NORFOLK CITY,517100039.0,517100039.0,36.861357,-76.300834
+-76.304171,36.862778,Hospital for Extended Recovery,Eastern,Norfolk City Health District,600 Gresham Drive,Norfolk,VA,23507,NORFOLK CITY,517100039.0,517100039.0,36.862778,-76.304171
+-76.206802,36.867049,Lake Taylor Transitional Care Hospital,Eastern,Norfolk City Health District,1309 Kempsville Road,Norfolk,VA,23502,NORFOLK CITY,517100062.0,517100062.0,36.867049,-76.206802
+-76.188645,36.850732,Sentara Leigh Ambulatory Surgery Center,Eastern,Norfolk City Health District,838 Kempsville Road,Norfolk,VA,23502,NORFOLK CITY,517100069.0,517100069.0,36.850732,-76.188645
+-76.189778,36.850959,Sentara Leigh Hospital,Eastern,Norfolk City Health District,830 Kempsville Road,Norfolk,VA,23502,NORFOLK CITY,517100069.0,517100069.0,36.850959,-76.189778
+-76.304171,36.862778,Sentara Norfolk General Hospital,Eastern,Norfolk City Health District,600 Gresham Drive,Norfolk,VA,23507,NORFOLK CITY,517100039.0,517100039.0,36.862778,-76.304171
+-76.214138,36.837555,Virginia Surgery Center L.L.C.,Eastern,Norfolk City Health District,241 Corporate Boulevard,Norfolk,VA,23502,NORFOLK CITY,517100070.0,517100070.0,36.837555,-76.214138
+-76.511424,37.144302,Bon Secours Mary Immaculate Hospital,Eastern,Peninsula Health District,2 Bernardine Drive,Newport News,VA,23602,NEWPORT NEWS CITY,517000321.1,517000321.1,37.144302,-76.511424
+-76.465303,37.087461,Childrens Hospital of The Kings Daughters Health and Surgery Center,Eastern,Peninsula Health District,11783 Rock Landing Drive,Newport News,VA,23608,NEWPORT NEWS CITY,517000321.2,517000321.2,37.087461,-76.465303
+-76.740333,37.255756,Doctors Surgery Center- Williamsburg L.L.C.,Eastern,Peninsula Health District,120 Kings Way,Williamsburg,VA,23185,JAMES CITY COUNTY,510950802.0,510950802.0,37.255756,-76.740333
+-76.392823,36.986233,Hampton Roads Specialty Hospital,Eastern,Peninsula Health District,245 Chesapeake Avenue,Newport News,VA,23607,NEWPORT NEWS CITY,517000303.0,517000303.0,36.986233,-76.392823
+-76.512018,37.143898,Mary Immaculate Ambulatory Surgery Center,Eastern,Peninsula Health District,12720 McManus Boulevard,Newport News,VA,23602,NEWPORT NEWS CITY,517000321.1,517000321.1,37.143898,-76.512018
+-76.573466,37.161712,McDonald Army Community Hospital,Eastern,Peninsula Health District,576 Jefferson Avenue,Fort Eustis,VA,23604,NEWPORT NEWS CITY,517000323.0,517000323.0,37.161712,-76.573466
+-76.484652,37.061241,Peninsula Surgery Center,Eastern,Peninsula Health District,12000 Warwick Boulevard,Newport News,VA,23601,NEWPORT NEWS CITY,517000315.0,517000315.0,37.061241,-76.484652
+-76.482592,37.064227,Riverside Regional Medical Center,Eastern,Peninsula Health District,500 J. Clyde Morris Blvd,Newport News,VA,23601,NEWPORT NEWS CITY,517000315.0,517000315.0,37.064227,-76.482592
+-76.392823,36.986233,Riverside Rehabilitation Institute,Eastern,Peninsula Health District,245 Chesapeake Avenue,Newport News,VA,23607,NEWPORT NEWS CITY,517000303.0,517000303.0,36.986233,-76.392823
+-76.482802,37.060402,Riverside Surgery Center- Warwick,Eastern,Peninsula Health District,12000 Warwick Boulevard,Newport News,VA,23606,NEWPORT NEWS CITY,517000317.0,517000317.0,37.060402,-76.482802
+-76.741128,37.336395,Sentara Williamsburg Regional Medical Center,Eastern,Peninsula Health District,100 Sentara Circle,Williamsburg,VA,23188,YORK COUNTY,511990508.0,511990508.0,37.336395,-76.741128
+-76.737503,37.334412,Vernon M. Geddy Jr. Outpatient Center,Eastern,Peninsula Health District,6601 Mooretown Road,Williamsburg,VA,23188,YORK COUNTY,511990508.0,511990508.0,37.334412,-76.737503
+-76.347906,36.836744,Bon Secours Maryview Medical Center,Eastern,Portsmouth Health District,3636 High Street,Portsmouth,VA,23707,PORTSMOUTH CITY,517402104.0,517402104.0,36.836744,-76.347906
+-76.305724,36.845446,Naval Medical Center,Eastern,Portsmouth Health District,620 John Paul Jones Circle,Portsmouth,VA,23708,PORTSMOUTH CITY,517402108.0,517402108.0,36.845446,-76.305724
+-76.387301,37.70117,Rappahannock General Hospital,Eastern,Three Rivers Health District,101 Harris Drive,Kilmarnock,VA,22482,LANCASTER COUNTY,511039902.0,511039902.0,37.70117,-76.387301
+-76.878827,37.901259,Riverside Tappahannock Hospital,Eastern,Three Rivers Health District,618 Hospital Road,Tappahannock,VA,22560,ESSEX COUNTY,510579507.0,510579507.0,37.901259,-76.878827
+-76.541676,37.41982,Riverside Walter Reed Hospital,Eastern,Three Rivers Health District,7519 Hospital Drive,Gloucester,VA,23061,GLOUCESTER COUNTY,510731002.0,510731002.0,37.41982,-76.541676
+-76.032603,36.868997,Beach Surgicenter for Eyes,Eastern,Virginia Beach Health District,1201 First Colonial Road,Virginia Beach,VA,23454,VIRGINIA BEACH CITY,518100444.0,518100444.0,36.868997,-76.032603
+-76.13119,36.86798,Sentara Bayside Hospital,Eastern,Virginia Beach Health District,800 Independence Boulevard,Virginia Beach,VA,23455,VIRGINIA BEACH CITY,518100416.0,518100416.0,36.86798,-76.13119
+-76.026516,36.864763,Sentara Virginia Beach General Hospital,Eastern,Virginia Beach Health District,1060 First Colonial Road,Virginia Beach,VA,23454,VIRGINIA BEACH CITY,518100446.0,518100446.0,36.864763,-76.026516
+-76.025209,36.864292,Virginia Beach Ambulatory Surgery Center,Eastern,Virginia Beach Health District,1700 Will-O-Wisp Drive,Virginia Beach,VA,23454,VIRGINIA BEACH CITY,518100446.0,518100446.0,36.864292,-76.025209
+-76.048856,36.846972,Virginia Beach Eye Center P.C.,Eastern,Virginia Beach Health District,465 North Great Neck Road,Virginia Beach,VA,23454,VIRGINIA BEACH CITY,518100448.1,518100448.1,36.846972,-76.048856
+-76.441688,36.868465,Bon Secours Health Center at Harbour View,Eastern,Western Tidewater Health District,5818 Harbour View Boulevard,Suffolk,VA,23435,SUFFOLK CITY,518000751.0,518000751.0,36.868465,-76.441688
+-76.595165,36.760502,Lakeview Medical Center,Eastern,Western Tidewater Health District,2000 Meade Parkway,Suffolk,VA,23434,SUFFOLK CITY,518000754.0,518000754.0,36.760502,-76.595165
+-76.580993,36.773378,Sentara Obici Hospital,Eastern,Western Tidewater Health District,2800 Godwin Boulevard,Suffolk,VA,23434,SUFFOLK CITY,518000754.0,518000754.0,36.773378,-76.580993
+-76.937479,36.691532,Southampton Memorial Hospital,Eastern,Western Tidewater Health District,100 Fairview Drive,Franklin,VA,23851,FRANKLIN CITY,516200901.0,516200901.0,36.691532,-76.937479
