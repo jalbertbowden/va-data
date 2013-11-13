@@ -1,0 +1,27 @@
+http://spatialreference.org/ref/epsg/3687/">NAD83(NSRS2007)&#47;Virginia South: EPSG Projection &#45;&#45; Spatial Reference</a>
+EPSG:3687
+
+NAD83(NSRS2007) / Virginia South (Google it)
+
+    WGS84 Bounds: -83.6800, 36.5300, -75.1700, 38.2700
+    Projected Bounds: 3036306.1186, 1027084.7300, 3798176.7140, 1227370.5128
+    Scope: Large and medium scale topographic mapping and engineering survey.
+    Last Revised: March 13, 2007
+    Area: USA - Virginia - SPCS - S
+
+Formats:
+    Well Known Text as HTML
+    Human-Readable OGC WKT
+    Proj4
+    OGC WKT
+    JSON
+    GML
+    ESRI WKT
+    .PRJ File
+    USGS
+    MapServer Mapfile | Python
+    Mapnik XML | Python
+    GeoServer
+    PostGIS spatial_ref_sys INSERT statement
+    Proj4js format
+
