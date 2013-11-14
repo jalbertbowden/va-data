@@ -1,0 +1,529 @@
+<?xml version="1.0"?>
+<metadata xml:lang="en">
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<onlink>http://pubs.usgs.gov/of/2009/1151/data/navigation/seismics/shot500sort_geog.zip</onlink>
+				<origin>John F. Bratton</origin>
+				<pubdate>2010</pubdate>
+				<title>SHOT500SORT_GEOG.SHP: Point Shapefile of 500 Shot Interval Point Navigation For Seismic Data Collected in the Potomac River/Chesapeake Bay from Sept. 6, 2006 to Sept. 8, 2006 on USGS Cruise 06018</title>
+				<ftname Sync="TRUE">shot500sort_geog</ftname>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<origin>David S. Foster</origin>
+				<origin>VeeAnn A. Cross</origin>
+				<lworkcit>
+					<citeinfo>
+						<title>Continuous Resistivity Profiling and Seismic-Reflection Data Collected in 2006 from the Potomac River Estuary, Virginia and Maryland</title>
+						<origin>VeeAnn A. Cross</origin>
+						<origin>David S. Foster</origin>
+						<origin>John F. Bratton</origin>
+						<pubdate>2010</pubdate>
+						<serinfo>
+							<sername>Open-File Report</sername>
+							<issue>2009-1151</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Woods Hole Coastal and Marine Science Center, Woods Hole, MA</pubplace>
+							<publish>U.S. Geological Survey, Coastal and Marine Geology Program</publish>
+						</pubinfo>
+						<onlink>http://pubs.usgs.gov/of/2009/1151/</onlink>
+					</citeinfo>
+				</lworkcit>
+				<serinfo>
+					<sername>Open-File Report </sername>
+					<issue>2009-1151 </issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Woods Hole Coastal and Marine Science Center, Woods Hole, MA </pubplace>
+					<publish>U.S. Geological Survey, Coastal and Marine Geology Program </publish>
+				</pubinfo>
+				<onlink>http://pubs.usgs.gov/of/2009/1151/html/catalog.html</onlink>
+			</citeinfo>
+		</citation>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.2.6.1500</native>
+		<descript>
+			<langdata Sync="TRUE">en</langdata>
+			<abstract>In order to test hypotheses about groundwater flow under and into Chesapeake Bay, geophysical surveys were conducted by U.S. Geological Survey (USGS) scientists on Chesapeake Bay and the Potomac River Estuary in September 2006. Chesapeake Bay resource managers are concerned about nutrients that are entering the estuary via submarine groundwater discharge, which are contributing to eutrophication. The USGS has performed many related studies in recent years to provide managers with information necessary to make informed decisions about this issue. The research carried out as part of the study described here was designed to help refine nutrient budgets for Chesapeake Bay by characterizing submarine groundwater flow and discharge of groundwater beneath part of the mainstem and a major tributary, the Potomac River Estuary.</abstract>
+			<purpose>The purpose of this layer is to provide all of the 500 shot point navigation associated with the seismic-reflection profiles collected on USGS cruise 06018. This information can help spatially correlate the seismic-reflection profiles with other features and data in the GIS.</purpose>
+		</descript>
+		<timeperd>
+			<current>ground condition</current>
+			<timeinfo>
+				<rngdates>
+					<begdate>20060906</begdate>
+					<enddate>20060908</enddate>
+				</rngdates>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-76.856460</westbc>
+				<eastbc Sync="TRUE">-76.310250</eastbc>
+				<northbc Sync="TRUE">38.295665</northbc>
+				<southbc Sync="TRUE">37.946077</southbc>
+			</bounding>
+			<lboundng>
+				<leftbc Sync="TRUE">-76.856460</leftbc>
+				<rightbc Sync="TRUE">-76.310250</rightbc>
+				<bottombc Sync="TRUE">37.946077</bottombc>
+				<topbc Sync="TRUE">38.295665</topbc>
+			</lboundng>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>General</themekt>
+				<themekey>U.S. Geological Survey</themekey>
+				<themekey>USGS</themekey>
+				<themekey>Coastal and Marine Geology Program </themekey>
+				<themekey>CMGP</themekey>
+				<themekey>Woods Hole Coastal and Marine Science Center </themekey>
+				<themekey>WHCMSC</themekey>
+				<themekey>Field Activity Serial Number 06018 </themekey>
+				<themekey>Info Bank ID K-1-06-CH </themekey>
+				<themekey>R/V Kerhin </themekey>
+				<themekey>seismic-reflection navigation </themekey>
+				<themekey>shot point navigation </themekey>
+				<themekey>point shapefile </themekey>
+			</theme>
+			<theme>
+				<themekey>inlandWaters</themekey>
+				<themekey>location</themekey>
+				<themekey>oceans</themekey>
+				<themekey>oceans and estuaries </themekey>
+				<themekt>ISO 19115 Topic Category </themekt>
+				<themekey>oceans and coastal </themekey>
+			</theme>
+			<place>
+				<placekey>North America </placekey>
+				<placekey>North Atlantic </placekey>
+				<placekey>United States </placekey>
+				<placekey>Virginia </placekey>
+				<placekey>Potomac River Estuary </placekey>
+				<placekey>Chesapeake Bay </placekey>
+				<placekey>Dennis Point Marina </placekey>
+				<placekey>Solomons, Maryland </placekey>
+				<placekey>Maryland </placekey>
+				<placekt>General </placekt>
+				<placekey>Patuxent River </placekey>
+			</place>
+		</keywords>
+		<accconst>None.</accconst>
+		<useconst>The public domain data from the U.S. Government are freely redistributable with proper metadata and source attribution. Please recognize the U.S. Geological Survey as the originator of the dataset.</useconst>
+		<natvform Sync="TRUE">Shapefile</natvform>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>John F. Bratton</cntper>
+					<cntorg>U.S. Geological Survey</cntorg>
+				</cntperp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Woods Hole Coastal and Marine Science Center</address>
+					<address>384 Woods Hole Rd.</address>
+					<city>Woods Hole</city>
+					<state>MA</state>
+					<postal>02543-1598</postal>
+				</cntaddr>
+				<cntvoice>(508) 548-8700  x2254</cntvoice>
+				<cntfax>(508) 457-2310</cntfax>
+				<cntemail>jbratton@usgs.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<browse>
+			<browsen>http://pubs.usgs.gov/of/2009/1151/data/navigation/seismics/shot500sort_geog.gif</browsen>
+			<browsed>Thumbnail image showing the location of the 500 shot interval seismic navigation collected from Sept. 6-8, 2006. The coastline is included for spatial reference.</browsed>
+			<browset>GIF</browset>
+		</browse>
+	</idinfo>
+	<distInfo>
+		<distributor>
+			<distorTran>
+				<onLineSrc>
+					<linkage Sync="TRUE">file://\\IGSAGIEGWSVCRX0\forpublication\data\navigation\seismics\shot500sort_geog.shp</linkage>
+					<protocol Sync="TRUE">Local Area Network</protocol>
+					<orDesc Sync="TRUE">002</orDesc>
+				</onLineSrc>
+				<transSize Sync="TRUE">0.029</transSize>
+			</distorTran>
+			<distorFormat>
+				<formatName Sync="TRUE">Shapefile</formatName>
+			</distorFormat>
+		</distributor>
+	</distInfo>
+	<dataqual>
+		<lineage>
+			<procstep>
+				<procdesc>An ArcView 3.3 avenue script written in Woods Hole (point2line.ave) was used to connect the individual shot points using the attribute "linename" as the unique line identifier. That attribute is also brought over to the resulting polyline shapefile. This process step, as well as all subsequent process steps, were performed by the same person - VeeAnn A. Cross.</procdesc>
+				<srcused>allshots.shp </srcused>
+				<procdate>2006</procdate>
+				<srcprod>allshots_lns.shp </srcprod>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>VeeAnn A. Cross</cntper>
+							<cntorg>U.S. Geological Survey</cntorg>
+						</cntperp>
+						<cntpos>Marine Geologist</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Woods Hole Coastal and Marine Science Center</address>
+							<address>384 Woods Hole Rd.</address>
+							<city>Woods Hole</city>
+							<state>MA</state>
+							<postal>02543-1598</postal>
+						</cntaddr>
+						<cntvoice>(508) 548-8700  x2251</cntvoice>
+						<cntfax>(508) 457-2310</cntfax>
+						<cntemail>vatnipp@usgs.gov</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Using ArcMap 9.0 - ArcToolbox - Data Management Tools - Define Projection the polyline shapefile projection was defined as UTM, zone 18, NAD83. </procdesc>
+				<srcused>allshots_lns.shp </srcused>
+				<srcprod>allshots_lns.shp </srcprod>
+				<procdate>2006</procdate></procstep>
+			<procstep>
+				<procdesc>The polyline shapefile was converted to a route using ArcMap 9.0 - ArcToolbox - Linear Referencing Tools - Create Routes. The following tool parameters were used: Input line feature - allshots.shp; route identifier field - linename; output route feature class - allshots_route.shp. The rest of the parameters were left to the default values. This process step, as well as all subsequent process steps, were performed by the same person - VeeAnn A. Cross. </procdesc>
+				<srcused>allshots_lns.shp</srcused>
+				<srcprod>allshots_route.shp </srcprod>
+				<procdate>2006</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>This polyline route was then calibrated using ArcMap 9.0 - ArcToolbox - Linear Referencing Tools - Calibrate Routes. The following parameters were used: input route features - allshots_route.shp; route identifier field - linename; input point features - allshots.shp; point identifier field - linename; measure field - shot; output route feature class - allshots_route_Calibrate.shp; measure calculation method - distance; search radius 0. The rest of the parameters left at the default. </procdesc>
+				<srcused>allshots_route.shp </srcused>
+				<srcused>allshots.shp </srcused>
+				<srcprod>allshots_route_Calibrate.shp </srcprod>
+				<procdate>2006</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Added hatches to the calibrated route using ArcMap 9.0 by opening the layer properties and selecting the Hatches tab. Create a hatch interval of 500 for the Hatch Class, then for Hatch Def(1) place a marker hatch every 1 hatch interval. From the Hatch Class Add a Hatch Definition - Add End Hatch Definition and set these to a marker Hatch. By displaying the labels for both Hatch Definitions, a quick comparison between the hatches and shot navigation makes sure things are behaving as intended. Then turn the labels off.</procdesc>
+				<srcused>allshots_route_Calibrate.shp </srcused>
+				<srcprod>allshots_route_Calibrate.shp </srcprod>
+				<procdate>2006</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Within ArcMap 9.0 - by going to Tools - Customize - Commands and scrolling down to the Category "Linear Referencing", the icon for the command "Convert Hatches to Graphics can be added to a toolbar. Once this is done, that tool can be used to convert the hatches to graphics. </procdesc>
+				<procdate>2006</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Convert these graphics to a shapefile using XTools Pro version 5.0. </procdesc>
+				<srcused>displayed graphic points </srcused>
+				<srcprod>shot500graphics.shp </srcprod>
+				<procdate>2006</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Use ArcMap 9.0 - ArcToolbox - Linear Referencing Tools - Locate Features Along Route. The following parameters were used: Input Features:shot500graphics.shp; Input Route Features - allshots_route_Calibrate.shp; route identifier field - linename; Search Radius - 5 meters; output event table - shot500graphics_LocateFeatur.dbf; output route identifier field - linename; measure field - shot. All the rest of the parameters left to the default.</procdesc>
+				<srcused>shot500graphics.shp</srcused>
+				<srcused>allshots_route_Calibrate.shp </srcused>
+				<srcprod>shot500graphics_LocateFeatur.dbf </srcprod>
+				<procdate>2006</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Convert the event layer to a shapefile by exporting the data (right mouse click on event layer, Data, Export Data). </procdesc>
+				<srcused>shot500graphics_LocateFeatur Events </srcused>
+				<srcprod>shot500tmp.shp </srcprod>
+				<procdate>2006</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Using VACExtras version 1.95 (an ArcMap extension written in Woods Hole) in ArcMap 9.0 the attribute table of the shot navigation was sorted primarily by the attribute linename with a secondary sort field by the attribute shot. </procdesc>
+				<srcused>shot500tmp.shp</srcused>
+				<srcprod>shot500sort.shp </srcprod>
+				<procdate>2006</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>There are lines that show no break between files because the Knudsen was set to record data and automatically switch files every 20,000 shots. This made the last shot of one file the same as the first shot of the subsequent file. This leads to duplicate shot #1 at these bounds during linear referencing. The first shot #1 should really be shot 19999 of the previous file. To account for this, the attributes of the shapefile were edit to reflect this (effectively removing the duplicate shots). So for instance, two records have the linename 0001_2006_249_1447_002 and shot 1. The first record was changed to linename 001_2006_249_1340_001 with shot number 19999. This way, every shot has a unique line number - shot combination.</procdesc>
+				<srcused>shot500sort.shp</srcused>
+				<srcprod>shot500sort.shp</srcprod>
+				<procdate>2006</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>The shot point shapefile was reprojected to Geographic, NAD83 using ArcMap 9.2, ArcToolbox - Data management Tools - Projections and Transformations - Feature - Project. Because the input file and output file have the same datum, no datum transformation was required. 
+</procdesc>
+				<srcused>shot500sort.shp</srcused>
+				<srcprod>shot500sort_geog.shp</srcprod>
+				<procdate>2009</procdate>
+			</procstep>
+			<srcinfo>
+				<srccontr>The seismic acquisition system used on this cruise was a Knudsen Engineering Limited (KEL)1600 USB system. The system has up to 1.2 kW power and is tuned to work with two Massa 3.5 kHz transducers. The transducers were mounted on an over-the-side mount on the port side of the ship. The transducer draft was 0.7 m below the water surface. This draft offset was not included in the data acquisition. The seismic data acquisition software was SounderSuite-USB Beta. This system failed to acquire navigation data from the DGPS NEMA string on the first two days (Julian day 149 and 150). The software was also not able to record data in SEG-Y standard format. KEL KEB format files were logged to disk. In addition, KEA ASCII files with shot (ping) numbers and times were saved to disk. Shot point navigation was also absent in the KEA files on Julian days 149 and 150. On Julian day 151 a patched version of SounderSuite was received and installed. This version recorded navigation in the KEB and KEA files. SEG-Y recording was still not an option. A time server was used to synchronize the DGPS time on the KEL and HYPACK navigation systems. This was important as KEL SounderSuite records system time. Data were acquired at a 20 micro-second sample interval, 2048 samples for a 40 ms record length. Fire-rate was 0.20 seconds (or 5 shots per second). The KEL SounderSuite software was set up to automatically switch files at shot 20,000. Line 5 switched from file 0005_2006_249_2014_002.keb after shot 13509 to a new file (0005_2006_249_2014_003.keb) while changing display parameters, due to a bug in the acquisition software.</srccontr>
+			</srcinfo>
+		</lineage>
+		<posacc>
+			<horizpa>
+				<horizpar>A differential global positioning system (DGPS) was used for the seismic-reflection data. This system was an Ashtech DGPS2 with the navigation being recorded by HYPACK navigation software. The offset from the seismic transducer to the DGPS antenna was 2 meters. This offset was not entered into the software.</horizpar>
+			</horizpa>
+			<vertacc>
+				<vertaccr>Although bathymetry was not recorded directly, bathymetry can be derived by tracing the seafloor reflector in the seismic-reflection profiles. The seismic transducers were mounted on an over the side mount on the port side of the ship. The transducer draft was 0.7 m below the water surface. The draft offset was not included in the data acquisition.</vertaccr>
+			</vertacc>
+		</posacc>
+		<logic>These points were visually checked to make sure they were viable fixes.</logic>
+		<complete>This shapefile represents the 500 shot interval navigation for all the seismic lines collected on this cruise.</complete>
+	</dataqual>
+	<dataIdInfo>
+		<envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.2.6.1500</envirDesc>
+		<dataLang>
+			<languageCode Sync="TRUE" value="en"></languageCode>
+		</dataLang>
+		<idCitation>
+			<resTitle Sync="TRUE">shot500sort_geog</resTitle>
+			<presForm>
+				<PresFormCd Sync="TRUE" value="005"></PresFormCd>
+			</presForm>
+		</idCitation>
+		<spatRpType>
+			<SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd>
+		</spatRpType>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox esriExtentType="native">
+					<westBL Sync="TRUE">-76.85646</westBL>
+					<eastBL Sync="TRUE">-76.31025</eastBL>
+					<northBL Sync="TRUE">38.295665</northBL>
+					<southBL Sync="TRUE">37.946077</southBL>
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+				</GeoBndBox>
+			</geoEle>
+		</dataExt>
+		<geoBox esriExtentType="decdegrees">
+			<westBL Sync="TRUE">-76.85646</westBL>
+			<eastBL Sync="TRUE">-76.31025</eastBL>
+			<northBL Sync="TRUE">38.295665</northBL>
+			<southBL Sync="TRUE">37.946077</southBL>
+			<exTypeCode Sync="TRUE">1</exTypeCode>
+		</geoBox>
+	</dataIdInfo>
+	<metainfo>
+		<langmeta Sync="TRUE">en</langmeta>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>VeeAnn A. Cross</cntper>
+					<cntorg>U.S. Geological Survey</cntorg>
+				</cntperp>
+				<cntpos>Marine Geologist</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Woods Hole Coastal and Marine Science Center</address>
+					<address>384 Woods Hole Rd.</address>
+					<city>Woods Hole</city>
+					<state>MA</state>
+					<postal>02543-1598</postal>
+				</cntaddr>
+				<cntvoice>(508) 548-8700  x2251</cntvoice>
+				<cntfax>(508) 457-2310</cntfax>
+				<cntemail>vatnipp@usgs.gov</cntemail>
+			</cntinfo>
+		</metc>
+		<metd Sync="TRUE">20100325</metd>
+		<metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<mdLang>
+		<languageCode Sync="TRUE" value="en"></languageCode>
+	</mdLang>
+	<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+	<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+	<mdChar>
+		<CharSetCd Sync="TRUE" value="004"></CharSetCd>
+	</mdChar>
+	<mdHrLv>
+		<ScopeCd Sync="TRUE" value="005"></ScopeCd>
+	</mdHrLv>
+	<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+	<distinfo>
+		<resdesc Sync="TRUE">Downloadable Data</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>0.058 MB</transize>
+					<dssize>0.336 MB</dssize>
+					<formname>WinZip</formname>
+					<formvern>9.0</formvern>
+					<formcont>This WinZip file contains the point shapefile as well as the associated metadata files.</formcont>
+				</digtinfo>
+				<digtopt>
+					<offoptn>
+						<offmedia>DVD-ROM</offmedia>
+						<reccap>
+							<recden>4.75</recden>
+							<recdenu>GBytes</recdenu>
+						</reccap>
+						<recfmt>UDF</recfmt>
+					</offoptn>
+					<onlinopt><computer><networka><networkr>http://pubs.usgs.gov/of/2009/1151/data/navigation/seismics/shot500sort_geog.zip</networkr><networkr>http://pubs.usgs.gov/of/2009/1151/html/catalog.html</networkr></networka></computer></onlinopt></digtopt>
+			</digform>
+			<fees>None.</fees>
+		</stdorder>
+		<distliab>Neither the U.S. government, the Department of the Interior, nor the USGS, nor any of their employees, contractors, or subcontractors, make any warranty, express or implied, nor assume any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, nor represent that its use would not infringe on privately owned rights. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the USGS in the use of these data or related materials. Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government. </distliab>
+		<distrib>
+			<cntinfo>
+				<cntperp>
+					<cntper>John F. Bratton</cntper>
+					<cntorg>U.S. Geological Survey</cntorg>
+				</cntperp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Woods Hole Coastal and Marine Science Center</address>
+					<address>384 Woods Hole Rd.</address>
+					<city>Woods Hole</city>
+					<state>MA</state>
+					<postal>02543-1598</postal>
+				</cntaddr>
+				<cntvoice>(508) 548-8700  x2254</cntvoice>
+				<cntfax>(508) 457-2310</cntfax>
+				<cntemail>jbratton@usgs.gov</cntemail>
+			</cntinfo>
+		</distrib>
+		<techpreq>This WinZip file contains data available in ESRI point shapefile format. The user must have software capable of uncompressing the WinZip file and reading/displaying the shapefile.</techpreq>
+	</distinfo>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<esriterm Name="shot500sort_geog">
+				<efeatyp Sync="TRUE">Simple</efeatyp>
+				<efeageom Sync="TRUE">Point</efeageom>
+				<esritopo Sync="TRUE">FALSE</esritopo>
+				<efeacnt Sync="TRUE">842</efeacnt>
+				<spindex Sync="TRUE">TRUE</spindex>
+				<linrefer Sync="TRUE">TRUE</linrefer>
+			</esriterm>
+			<sdtsterm Name="shot500sort_geog">
+				<sdtstype Sync="TRUE">Entity point</sdtstype>
+				<ptvctcnt Sync="TRUE">842</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<cordsysn>
+				<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+			</cordsysn>
+			<geograph>
+				<geogunit Sync="TRUE">Decimal degrees</geogunit>
+				<latres>0.000001</latres>
+				<longres>0.000001</longres>
+			</geograph>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<refSysInfo>
+		<RefSystem>
+			<refSysID>
+				<identCode Sync="TRUE">GCS_North_American_1983</identCode>
+			</refSysID>
+		</RefSystem>
+	</refSysInfo>
+	<spatRepInfo>
+		<VectSpatRep>
+			<topLvl>
+				<TopoLevCd Sync="TRUE" value="001"></TopoLevCd>
+			</topLvl>
+			<geometObjs Name="shot500sort_geog"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="004"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">842</geoObjCnt></geometObjs></VectSpatRep>
+	</spatRepInfo>
+	<eainfo>
+		<detailed Name="shot500sort_geog">
+			<enttyp>
+				<enttypl Sync="TRUE">shot500sort_geog</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+				<enttypc Sync="TRUE">842</enttypc>
+				<enttypd>Shapefile attribute table.</enttypd>
+				<enttypds>ESRI</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attalias Sync="TRUE">FID</attalias>
+				<attrtype Sync="TRUE">OID</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attalias Sync="TRUE">Shape</attalias>
+				<attrtype Sync="TRUE">Geometry</attrtype>
+				<attwidth Sync="TRUE">0</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">linename</attrlabl>
+				<attalias Sync="TRUE">linename</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<attrdef> The unique identifier for each line of data acquisition. </attrdef>
+				<attrdefs>Software generated. </attrdefs>
+				<attrdomv>
+					<udom>Text field identifying the line. </udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">shot</attrlabl>
+				<attalias Sync="TRUE">shot</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atnumdec Sync="TRUE">11</atnumdec>
+				<attrdef>The seismic shot number associated with the navigation fix. </attrdef>
+				<attrdefs>Software generated. </attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>19,999</rdommax>
+						<attrunit>shot number</attrunit>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Distance</attrlabl>
+				<attalias Sync="TRUE">Distance</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atnumdec Sync="TRUE">11</atnumdec>
+				<attrdef>The distance (in meters) that the point falls off the calibrated route polyline. </attrdef>
+				<attrdefs>ESRI Linear Referencing - Locate Feature Along Routes tool </attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>0</rdommax>
+						<attrunit>meters</attrunit>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Id</attrlabl>
+				<attalias Sync="TRUE">Id</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">6</attwidth>
+				<attrdef>An attribute carried over when the graphics hatches were converted to a shapefile.</attrdef>
+				<attrdefs>Software generated (XTools Pro) </attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>An element ID field generated when graphics are converted to a shapefile. The default value of 0 is supplied to all features upon creation. </edomvd>
+						<edomvds>XTools Pro</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+		</detailed>
+	</eainfo>
+	<mdDateSt Sync="TRUE">20100325</mdDateSt>
+	<Esri><SyncDate>20100325</SyncDate><SyncTime>12512900</SyncTime><ModDate>20100325</ModDate><ModTime>12512900</ModTime></Esri></metadata>

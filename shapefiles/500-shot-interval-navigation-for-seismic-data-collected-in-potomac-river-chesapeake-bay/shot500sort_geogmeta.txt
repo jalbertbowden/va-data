@@ -1,0 +1,323 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: John F. Bratton
+      Originator: David S. Foster
+      Originator: VeeAnn A. Cross
+      Publication_Date: 2010
+      Title: SHOT500SORT_GEOG.SHP: Point Shapefile of 500 Shot Interval Point Navigation For Seismic Data Collected in the Potomac River/Chesapeake Bay from Sept. 6, 2006 to Sept. 8, 2006 on USGS Cruise 06018
+      Geospatial_Data_Presentation_Form: vector digital data
+      Series_Information:
+        Series_Name: Open-File Report
+        Issue_Identification: 2009-1151
+      Publication_Information:
+        Publication_Place: Woods Hole Coastal and Marine Science Center, Woods Hole, MA
+        Publisher: U.S. Geological Survey, Coastal and Marine Geology Program
+      Online_Linkage: http://pubs.usgs.gov/of/2009/1151/data/navigation/seismics/shot500sort_geog.zip
+      Online_Linkage: http://pubs.usgs.gov/of/2009/1151/html/catalog.html
+      Larger_Work_Citation:
+        Citation_Information:
+          Originator: VeeAnn A. Cross
+          Originator: David S. Foster
+          Originator: John F. Bratton
+          Publication_Date: 2010
+          Title: Continuous Resistivity Profiling and Seismic-Reflection Data Collected in 2006 from the Potomac River Estuary, Virginia and Maryland
+          Series_Information:
+            Series_Name: Open-File Report
+            Issue_Identification: 2009-1151
+          Publication_Information:
+            Publication_Place: Woods Hole Coastal and Marine Science Center, Woods Hole, MA
+            Publisher: U.S. Geological Survey, Coastal and Marine Geology Program
+          Online_Linkage: http://pubs.usgs.gov/of/2009/1151/
+  Description:
+    Abstract: In order to test hypotheses about groundwater flow under and into Chesapeake Bay, geophysical surveys were conducted by U.S. Geological Survey (USGS) scientists on Chesapeake Bay and the Potomac River Estuary in September 2006. Chesapeake Bay resource managers are concerned about nutrients that are entering the estuary via submarine groundwater discharge, which are contributing to eutrophication. The USGS has performed many related studies in recent years to provide managers with information necessary to make informed decisions about this issue. The research carried out as part of the study described here was designed to help refine nutrient budgets for Chesapeake Bay by characterizing submarine groundwater flow and discharge of groundwater beneath part of the mainstem and a major tributary, the Potomac River Estuary.
+    Purpose: The purpose of this layer is to provide all of the 500 shot point navigation associated with the seismic-reflection profiles collected on USGS cruise 06018. This information can help spatially correlate the seismic-reflection profiles with other features and data in the GIS.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 20060906
+        Ending_Date: 20060908
+    Currentness_Reference: ground condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -76.856460
+      East_Bounding_Coordinate: -76.310250
+      North_Bounding_Coordinate: 38.295665
+      South_Bounding_Coordinate: 37.946077
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: General
+      Theme_Keyword: U.S. Geological Survey
+      Theme_Keyword: USGS
+      Theme_Keyword: Coastal and Marine Geology Program
+      Theme_Keyword: CMGP
+      Theme_Keyword: Woods Hole Coastal and Marine Science Center
+      Theme_Keyword: WHCMSC
+      Theme_Keyword: Field Activity Serial Number 06018
+      Theme_Keyword: Info Bank ID K-1-06-CH
+      Theme_Keyword: R/V Kerhin
+      Theme_Keyword: seismic-reflection navigation
+      Theme_Keyword: shot point navigation
+      Theme_Keyword: point shapefile
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: inlandWaters
+      Theme_Keyword: location
+      Theme_Keyword: oceans
+      Theme_Keyword: oceans and estuaries
+      Theme_Keyword: oceans and coastal
+    Place:
+      Place_Keyword_Thesaurus: General
+      Place_Keyword: North America
+      Place_Keyword: North Atlantic
+      Place_Keyword: United States
+      Place_Keyword: Virginia
+      Place_Keyword: Potomac River Estuary
+      Place_Keyword: Chesapeake Bay
+      Place_Keyword: Dennis Point Marina
+      Place_Keyword: Solomons, Maryland
+      Place_Keyword: Maryland
+      Place_Keyword: Patuxent River
+  Access_Constraints: None.
+  Use_Constraints: The public domain data from the U.S. Government are freely redistributable with proper metadata and source attribution. Please recognize the U.S. Geological Survey as the originator of the dataset.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: John F. Bratton
+        Contact_Organization: U.S. Geological Survey
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: Woods Hole Coastal and Marine Science Center
+        Address: 384 Woods Hole Rd.
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+      Contact_Voice_Telephone: (508) 548-8700  x2254
+      Contact_Facsimile_Telephone: (508) 457-2310
+      Contact_Electronic_Mail_Address: jbratton@usgs.gov
+  Browse_Graphic:
+    Browse_Graphic_File_Name: http://pubs.usgs.gov/of/2009/1151/data/navigation/seismics/shot500sort_geog.gif
+    Browse_Graphic_File_Description: Thumbnail image showing the location of the 500 shot interval seismic navigation collected from Sept. 6-8, 2006. The coastline is included for spatial reference.
+    Browse_Graphic_File_Type: GIF
+  Native_Data_Set_Environment: Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.2.6.1500
+Data_Quality_Information:
+  Logical_Consistency_Report: These points were visually checked to make sure they were viable fixes.
+  Completeness_Report: This shapefile represents the 500 shot interval navigation for all the seismic lines collected on this cruise.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: A differential global positioning system (DGPS) was used for the seismic-reflection data. This system was an Ashtech DGPS2 with the navigation being recorded by HYPACK navigation software. The offset from the seismic transducer to the DGPS antenna was 2 meters. This offset was not entered into the software.
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: Although bathymetry was not recorded directly, bathymetry can be derived by tracing the seafloor reflector in the seismic-reflection profiles. The seismic transducers were mounted on an over the side mount on the port side of the ship. The transducer draft was 0.7 m below the water surface. The draft offset was not included in the data acquisition.
+  Lineage:
+    Source_Information:
+      Source_Contribution: The seismic acquisition system used on this cruise was a Knudsen Engineering Limited (KEL)1600 USB system. The system has up to 1.2 kW power and is tuned to work with two Massa 3.5 kHz transducers. The transducers were mounted on an over-the-side mount on the port side of the ship. The transducer draft was 0.7 m below the water surface. This draft offset was not included in the data acquisition. The seismic data acquisition software was SounderSuite-USB Beta. This system failed to acquire navigation data from the DGPS NEMA string on the first two days (Julian day 149 and 150). The software was also not able to record data in SEG-Y standard format. KEL KEB format files were logged to disk. In addition, KEA ASCII files with shot (ping) numbers and times were saved to disk. Shot point navigation was also absent in the KEA files on Julian days 149 and 150. On Julian day 151 a patched version of SounderSuite was received and installed. This version recorded navigation in the KEB and KEA files. SEG-Y recording was still not an option. A time server was used to synchronize the DGPS time on the KEL and HYPACK navigation systems. This was important as KEL SounderSuite records system time. Data were acquired at a 20 micro-second sample interval, 2048 samples for a 40 ms record length. Fire-rate was 0.20 seconds (or 5 shots per second). The KEL SounderSuite software was set up to automatically switch files at shot 20,000. Line 5 switched from file 0005_2006_249_2014_002.keb after shot 13509 to a new file (0005_2006_249_2014_003.keb) while changing display parameters, due to a bug in the acquisition software.
+    Process_Step:
+      Process_Description: An ArcView 3.3 avenue script written in Woods Hole (point2line.ave) was used to connect the individual shot points using the attribute "linename" as the unique line identifier. That attribute is also brought over to the resulting polyline shapefile. This process step, as well as all subsequent process steps, were performed by the same person - VeeAnn A. Cross.
+      Source_Used_Citation_Abbreviation: allshots.shp
+      Process_Date: 2006
+      Source_Produced_Citation_Abbreviation: allshots_lns.shp
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: VeeAnn A. Cross
+            Contact_Organization: U.S. Geological Survey
+          Contact_Position: Marine Geologist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: Woods Hole Coastal and Marine Science Center
+            Address: 384 Woods Hole Rd.
+            City: Woods Hole
+            State_or_Province: MA
+            Postal_Code: 02543-1598
+          Contact_Voice_Telephone: (508) 548-8700  x2251
+          Contact_Facsimile_Telephone: (508) 457-2310
+          Contact_Electronic_Mail_Address: vatnipp@usgs.gov
+    Process_Step:
+      Process_Description: Using ArcMap 9.0 - ArcToolbox - Data Management Tools - Define Projection the polyline shapefile projection was defined as UTM, zone 18, NAD83.
+      Source_Used_Citation_Abbreviation: allshots_lns.shp
+      Process_Date: 2006
+      Source_Produced_Citation_Abbreviation: allshots_lns.shp
+    Process_Step:
+      Process_Description: The polyline shapefile was converted to a route using ArcMap 9.0 - ArcToolbox - Linear Referencing Tools - Create Routes. The following tool parameters were used: Input line feature - allshots.shp; route identifier field - linename; output route feature class - allshots_route.shp. The rest of the parameters were left to the default values. This process step, as well as all subsequent process steps, were performed by the same person - VeeAnn A. Cross.
+      Source_Used_Citation_Abbreviation: allshots_lns.shp
+      Process_Date: 2006
+      Source_Produced_Citation_Abbreviation: allshots_route.shp
+    Process_Step:
+      Process_Description: This polyline route was then calibrated using ArcMap 9.0 - ArcToolbox - Linear Referencing Tools - Calibrate Routes. The following parameters were used: input route features - allshots_route.shp; route identifier field - linename; input point features - allshots.shp; point identifier field - linename; measure field - shot; output route feature class - allshots_route_Calibrate.shp; measure calculation method - distance; search radius 0. The rest of the parameters left at the default.
+      Source_Used_Citation_Abbreviation: allshots_route.shp
+      Source_Used_Citation_Abbreviation: allshots.shp
+      Process_Date: 2006
+      Source_Produced_Citation_Abbreviation: allshots_route_Calibrate.shp
+    Process_Step:
+      Process_Description: Added hatches to the calibrated route using ArcMap 9.0 by opening the layer properties and selecting the Hatches tab. Create a hatch interval of 500 for the Hatch Class, then for Hatch Def(1) place a marker hatch every 1 hatch interval. From the Hatch Class Add a Hatch Definition - Add End Hatch Definition and set these to a marker Hatch. By displaying the labels for both Hatch Definitions, a quick comparison between the hatches and shot navigation makes sure things are behaving as intended. Then turn the labels off.
+      Source_Used_Citation_Abbreviation: allshots_route_Calibrate.shp
+      Process_Date: 2006
+      Source_Produced_Citation_Abbreviation: allshots_route_Calibrate.shp
+    Process_Step:
+      Process_Description: Within ArcMap 9.0 - by going to Tools - Customize - Commands and scrolling down to the Category "Linear Referencing", the icon for the command "Convert Hatches to Graphics can be added to a toolbar. Once this is done, that tool can be used to convert the hatches to graphics.
+      Process_Date: 2006
+    Process_Step:
+      Process_Description: Convert these graphics to a shapefile using XTools Pro version 5.0.
+      Source_Used_Citation_Abbreviation: displayed graphic points
+      Process_Date: 2006
+      Source_Produced_Citation_Abbreviation: shot500graphics.shp
+    Process_Step:
+      Process_Description: Use ArcMap 9.0 - ArcToolbox - Linear Referencing Tools - Locate Features Along Route. The following parameters were used: Input Features:shot500graphics.shp; Input Route Features - allshots_route_Calibrate.shp; route identifier field - linename; Search Radius - 5 meters; output event table - shot500graphics_LocateFeatur.dbf; output route identifier field - linename; measure field - shot. All the rest of the parameters left to the default.
+      Source_Used_Citation_Abbreviation: shot500graphics.shp
+      Source_Used_Citation_Abbreviation: allshots_route_Calibrate.shp
+      Process_Date: 2006
+      Source_Produced_Citation_Abbreviation: shot500graphics_LocateFeatur.dbf
+    Process_Step:
+      Process_Description: Convert the event layer to a shapefile by exporting the data (right mouse click on event layer, Data, Export Data).
+      Source_Used_Citation_Abbreviation: shot500graphics_LocateFeatur Events
+      Process_Date: 2006
+      Source_Produced_Citation_Abbreviation: shot500tmp.shp
+    Process_Step:
+      Process_Description: Using VACExtras version 1.95 (an ArcMap extension written in Woods Hole) in ArcMap 9.0 the attribute table of the shot navigation was sorted primarily by the attribute linename with a secondary sort field by the attribute shot.
+      Source_Used_Citation_Abbreviation: shot500tmp.shp
+      Process_Date: 2006
+      Source_Produced_Citation_Abbreviation: shot500sort.shp
+    Process_Step:
+      Process_Description: There are lines that show no break between files because the Knudsen was set to record data and automatically switch files every 20,000 shots. This made the last shot of one file the same as the first shot of the subsequent file. This leads to duplicate shot #1 at these bounds during linear referencing. The first shot #1 should really be shot 19999 of the previous file. To account for this, the attributes of the shapefile were edit to reflect this (effectively removing the duplicate shots). So for instance, two records have the linename 0001_2006_249_1447_002 and shot 1. The first record was changed to linename 001_2006_249_1340_001 with shot number 19999. This way, every shot has a unique line number - shot combination.
+      Source_Used_Citation_Abbreviation: shot500sort.shp
+      Process_Date: 2006
+      Source_Produced_Citation_Abbreviation: shot500sort.shp
+    Process_Step:
+      Process_Description: The shot point shapefile was reprojected to Geographic, NAD83 using ArcMap 9.2, ArcToolbox - Data management Tools - Projections and Transformations - Feature - Project. Because the input file and output file have the same datum, no datum transformation was required.
+      Source_Used_Citation_Abbreviation: shot500sort.shp
+      Process_Date: 2009
+      Source_Produced_Citation_Abbreviation: shot500sort_geog.shp
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Entity point
+      Point_and_Vector_Object_Count: 842
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.000001
+      Longitude_Resolution: 0.000001
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: shot500sort_geog
+      Entity_Type_Definition: Shapefile attribute table.
+      Entity_Type_Definition_Source: ESRI
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: linename
+      Attribute_Definition: The unique identifier for each line of data acquisition.
+      Attribute_Definition_Source: Software generated.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Text field identifying the line.
+    Attribute:
+      Attribute_Label: shot
+      Attribute_Definition: The seismic shot number associated with the navigation fix.
+      Attribute_Definition_Source: Software generated.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 19,999
+          Attribute_Units_of_Measure: shot number
+    Attribute:
+      Attribute_Label: Distance
+      Attribute_Definition: The distance (in meters) that the point falls off the calibrated route polyline.
+      Attribute_Definition_Source: ESRI Linear Referencing - Locate Feature Along Routes tool
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 0
+          Attribute_Units_of_Measure: meters
+    Attribute:
+      Attribute_Label: Id
+      Attribute_Definition: An attribute carried over when the graphics hatches were converted to a shapefile.
+      Attribute_Definition_Source: Software generated (XTools Pro)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: An element ID field generated when graphics are converted to a shapefile. The default value of 0 is supplied to all features upon creation.
+          Enumerated_Domain_Value_Definition_Source: XTools Pro
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: John F. Bratton
+        Contact_Organization: U.S. Geological Survey
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: Woods Hole Coastal and Marine Science Center
+        Address: 384 Woods Hole Rd.
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+      Contact_Voice_Telephone: (508) 548-8700  x2254
+      Contact_Facsimile_Telephone: (508) 457-2310
+      Contact_Electronic_Mail_Address: jbratton@usgs.gov
+  Resource_Description: Downloadable Data
+  Distribution_Liability: Neither the U.S. government, the Department of the Interior, nor the USGS, nor any of their employees, contractors, or subcontractors, make any warranty, express or implied, nor assume any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, nor represent that its use would not infringe on privately owned rights. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the USGS in the use of these data or related materials. Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: WinZip
+        Format_Version_Number: 9.0
+        Format_Information_Content: This WinZip file contains the point shapefile as well as the associated metadata files.
+        Transfer_Size: 0.058 MB
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://pubs.usgs.gov/of/2009/1151/data/navigation/seismics/shot500sort_geog.zip
+              Network_Resource_Name: http://pubs.usgs.gov/of/2009/1151/html/catalog.html
+        Offline_Option:
+          Offline_Media: DVD-ROM
+          Recording_Capacity:
+            Recording_Density: 4.75
+            Recording_Density_Units: GBytes
+          Recording_Format: UDF
+    Fees: None.
+  Technical_Prerequisites: This WinZip file contains data available in ESRI point shapefile format. The user must have software capable of uncompressing the WinZip file and reading/displaying the shapefile.
+Metadata_Reference_Information:
+  Metadata_Date: 20100325
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: VeeAnn A. Cross
+        Contact_Organization: U.S. Geological Survey
+      Contact_Position: Marine Geologist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: Woods Hole Coastal and Marine Science Center
+        Address: 384 Woods Hole Rd.
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+      Contact_Voice_Telephone: (508) 548-8700  x2251
+      Contact_Facsimile_Telephone: (508) 457-2310
+      Contact_Electronic_Mail_Address: vatnipp@usgs.gov
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile
