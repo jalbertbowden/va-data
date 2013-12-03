@@ -1,0 +1,3100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<candidates type="array">
+  <candidate>
+    <address-line-1 type="">PO Box 669</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Gate City</city>
+    <committee type="">Kilgore for Delegate</committee>
+    <committee-id type="">1854</committee-id>
+    <committee-url type="">www.terrykilgore.net</committee-url>
+    <district type="">1</district>
+    <first-name>Terry</first-name>
+    <id type="integer">270</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Kilgore</last-name>
+    <middle-name>G</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">24251-0669</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 1570</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Stafford</city>
+    <committee type="">Dudenhefer for Delegate - Mark</committee>
+    <committee-id type="">3303</committee-id>
+    <committee-url type="">dudenhefer.com/</committee-url>
+    <district type="">2</district>
+    <first-name>L</first-name>
+    <id type="integer">104159</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Dudenhefer</last-name>
+    <middle-name>Mark</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22555</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">15837 John Diskin Cir</address-line-1>
+    <address-line-2 type=""></address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Woodbridge</city>
+    <committee type="">Futrell for Delegate - Michael</committee>
+    <committee-id type="">3932</committee-id>
+    <committee-url type="">www.michaelfutrell.org</committee-url>
+    <district type="">2</district>
+    <first-name>Michael</first-name>
+    <id type="integer">219692</id>
+    <incumbent type=""></incumbent>
+    <last-name>Futrell</last-name>
+    <middle-name></middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">22191</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 828</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">North Tazewell</city>
+    <committee type="">Morefield for Delegate</committee>
+    <committee-id type="">2747</committee-id>
+    <committee-url type="">www.willmorefield.com</committee-url>
+    <district type="">3</district>
+    <first-name>James</first-name>
+    <id type="integer">167033</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Morefield</last-name>
+    <middle-name>Will</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">24630-0828</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 926</address-line-1>
+    <address-line-2 type=""></address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Vansant</city>
+    <committee type="">O'Quinn for Delegate - James</committee>
+    <committee-id type="">4040</committee-id>
+    <committee-url type=""></committee-url>
+    <district type="">3</district>
+    <first-name>James</first-name>
+    <id type="integer">226592</id>
+    <incumbent type=""></incumbent>
+    <last-name>O'Quinn</last-name>
+    <middle-name>M</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">24656</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 1210</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Lebanon</city>
+    <committee type="">Chafin for Delegate - Ben</committee>
+    <committee-id type="">3962</committee-id>
+    <committee-url type=""></committee-url>
+    <district type="">4</district>
+    <first-name>Ben</first-name>
+    <id type="integer">60134</id>
+    <incumbent type=""></incumbent>
+    <last-name>Chafin</last-name>
+    <middle-name nil="true"></middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">24266</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 555</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Harrisonburg</city>
+    <committee type="">O'Quinn for Delegate - Israel</committee>
+    <committee-id type="">3358</committee-id>
+    <committee-url type="">www.israeloquinn.com</committee-url>
+    <district type="">5</district>
+    <first-name>Israel</first-name>
+    <id type="integer">37531</id>
+    <incumbent type="">*</incumbent>
+    <last-name>O'Quinn</last-name>
+    <middle-name>D</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22803</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 986</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Marion</city>
+    <committee type="">Campbell for Delegate - Jeff</committee>
+    <committee-id type="">3963</committee-id>
+    <committee-url type="">www.votejeffcampbell.com</committee-url>
+    <district type="">6</district>
+    <first-name>Jeffrey</first-name>
+    <id type="integer">72457</id>
+    <incumbent type=""></incumbent>
+    <last-name>Campbell</last-name>
+    <middle-name>L</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">24354</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type=""></address-line-1>
+    <address-line-2 type=""></address-line-2>
+    <chamber type="">House</chamber>
+    <city type=""> </city>
+    <committee type="">Hall for Delegate - Barbara</committee>
+    <committee-id type="">4019</committee-id>
+    <committee-url type=""></committee-url>
+    <district type="">6</district>
+    <first-name>Barbara</first-name>
+    <id type="integer">226323</id>
+    <incumbent type=""></incumbent>
+    <last-name>Hall</last-name>
+    <middle-name>T</middle-name>
+    <party type="">Independent</party>
+    <state type=""></state>
+    <suffix></suffix>
+    <zip type=""> </zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">127 Mill St</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Hillsville</city>
+    <committee type="">McGrady for Delegate - Jonathan</committee>
+    <committee-id type="">3992</committee-id>
+    <committee-url type="">www.jmcgradyfordelegate.com</committee-url>
+    <district type="">6</district>
+    <first-name>Jonathan</first-name>
+    <id type="integer">49852</id>
+    <incumbent type=""></incumbent>
+    <last-name>McGrady</last-name>
+    <middle-name nil="true"></middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">24343</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 1591</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Christiansburg</city>
+    <committee type="">Rush for Delegate - Nick</committee>
+    <committee-id type="">3373</committee-id>
+    <committee-url type="">www.electnickrush.com/</committee-url>
+    <district type="">7</district>
+    <first-name>Nick</first-name>
+    <id type="integer">198534</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Rush</last-name>
+    <middle-name></middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">24068-1591</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type=""></address-line-1>
+    <address-line-2 type=""></address-line-2>
+    <chamber type="">House</chamber>
+    <city type=""> </city>
+    <committee type="">Abraham for Delegate - Mike</committee>
+    <committee-id type="">4053</committee-id>
+    <committee-url type="">abrahamfordelegate.com</committee-url>
+    <district type="">7</district>
+    <first-name>Michael</first-name>
+    <id type="integer">229182</id>
+    <incumbent type=""></incumbent>
+    <last-name>Abraham</last-name>
+    <middle-name></middle-name>
+    <party type="">Democratic</party>
+    <state type=""></state>
+    <suffix></suffix>
+    <zip type=""> </zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 882</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Salem</city>
+    <committee type="">Habeeb For Delegate - Greg</committee>
+    <committee-id type="">3143</committee-id>
+    <committee-url type="">www.greghabeeb.com</committee-url>
+    <district type="">8</district>
+    <first-name>Gregory</first-name>
+    <id type="integer">160808</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Habeeb</last-name>
+    <middle-name>D</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">24153-0882</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 117</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Glade Hill</city>
+    <committee type="">Friends of Charles Poindexter</committee>
+    <committee-id type="">1794</committee-id>
+    <committee-url type="">www.votepoindexter.com</committee-url>
+    <district type="">9</district>
+    <first-name>Charles</first-name>
+    <id type="integer">98360</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Poindexter</last-name>
+    <middle-name>D</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">24092-0117</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 385</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Leesburg</city>
+    <committee type="">Minchew for Delegate - Randy</committee>
+    <committee-id type="">3318</committee-id>
+    <committee-url type="">www.delegaterandyminchew.com</committee-url>
+    <district type="">10</district>
+    <first-name>J</first-name>
+    <id type="integer">318</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Minchew</last-name>
+    <middle-name>Randall</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">20178-0385</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">525-K East Market St </address-line-1>
+    <address-line-2 type="">Suite 112</address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Leesburg</city>
+    <committee type="">Johnson for Delegate - Monte</committee>
+    <committee-id type="">3924</committee-id>
+    <committee-url type=""></committee-url>
+    <district type="">10</district>
+    <first-name>Monte</first-name>
+    <id type="integer">219738</id>
+    <incumbent type=""></incumbent>
+    <last-name>Johnson</last-name>
+    <middle-name></middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">20176</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">325 N Jefferson St</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Roanoke</city>
+    <committee type="">Ware for House of Delegates</committee>
+    <committee-id type="">1777</committee-id>
+    <committee-url type="">delegateonzleeware.com</committee-url>
+    <district type="">11</district>
+    <first-name>Onzlee</first-name>
+    <id type="integer">3420</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Ware</last-name>
+    <middle-name nil="true"></middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">24016-1909</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 621</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Blacksburg</city>
+    <committee type="">Yost for Delegate - Joseph</committee>
+    <committee-id type="">3295</committee-id>
+    <committee-url type="">www.yostfordelegate.com</committee-url>
+    <district type="">12</district>
+    <first-name>Joseph</first-name>
+    <id type="integer">198250</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Yost</last-name>
+    <middle-name>Ryan</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">24063-0621</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 494</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Blacksburg</city>
+    <committee type="">Harder for Delegate - James</committee>
+    <committee-id type="">4024</committee-id>
+    <committee-url type="">harderforthehouse.com</committee-url>
+    <district type="">12</district>
+    <first-name>James</first-name>
+    <id type="integer">226403</id>
+    <incumbent type=""></incumbent>
+    <last-name>Harder</last-name>
+    <middle-name></middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">24063-0494</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 421</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Manassas</city>
+    <committee type="">Friends of Delegate Bob Marshall</committee>
+    <committee-id type="">2377</committee-id>
+    <committee-url type="">delegatebob.com</committee-url>
+    <district type="">13</district>
+    <first-name>Robert</first-name>
+    <id type="integer">5663</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Marshall</last-name>
+    <middle-name>G</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">20108-0421</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">7698 Well St</address-line-1>
+    <address-line-2 type=""></address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Manassas</city>
+    <committee type="">Qarni for Delegate - Atif</committee>
+    <committee-id type="">4029</committee-id>
+    <committee-url type="">www.qarnifordelegate.com</committee-url>
+    <district type="">13</district>
+    <first-name>Atif</first-name>
+    <id type="integer">226410</id>
+    <incumbent type=""></incumbent>
+    <last-name>Qarni</last-name>
+    <middle-name>M</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">20111</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 439</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Danville</city>
+    <committee type="">Danny Marshall Election Committee</committee>
+    <committee-id type="">2333</committee-id>
+    <committee-url type="">www.dannymarshall.com</committee-url>
+    <district type="">14</district>
+    <first-name>Danny</first-name>
+    <id type="integer">15110</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Marshall</last-name>
+    <middle-name>W</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix>III</suffix>
+    <zip type="">24543-0439</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type=""></address-line-1>
+    <address-line-2 type="">1276 Cameron Road</address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Martinsville</city>
+    <committee type="">Martin for Delegate - Mary Scott</committee>
+    <committee-id type="">4061</committee-id>
+    <committee-url type=""></committee-url>
+    <district type="">14</district>
+    <first-name>Mary</first-name>
+    <id type="integer">229231</id>
+    <incumbent type=""></incumbent>
+    <last-name>Martin</last-name>
+    <middle-name>Scott</middle-name>
+    <party type="">Independent</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">24112</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 11115</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Danville</city>
+    <committee type="">Miller for Delegate - Gary</committee>
+    <committee-id type="">3945</committee-id>
+    <committee-url type="">millerfordelegate.com</committee-url>
+    <district type="">14</district>
+    <first-name>Gary</first-name>
+    <id type="integer">15663</id>
+    <incumbent type=""></incumbent>
+    <last-name>Miller</last-name>
+    <middle-name>P</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">24543-5019</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 309</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Woodstock</city>
+    <committee type="">Gilbert for Delegate</committee>
+    <committee-id type="">1318</committee-id>
+    <committee-url type="">www.delegatetoddgilbert.com</committee-url>
+    <district type="">15</district>
+    <first-name>C</first-name>
+    <id type="integer">185609</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Gilbert</last-name>
+    <middle-name>Todd</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22664-0309</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 459</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Chatham</city>
+    <committee type="">Adams for Delegate - Les</committee>
+    <committee-id type="">3966</committee-id>
+    <committee-url type=""></committee-url>
+    <district type="">16</district>
+    <first-name>Les</first-name>
+    <id type="integer">223098</id>
+    <incumbent type=""></incumbent>
+    <last-name>Adams</last-name>
+    <middle-name></middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">24531</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 1177</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Chatham</city>
+    <committee type="">Jones for Delegate - Elizabeth</committee>
+    <committee-id type="">4057</committee-id>
+    <committee-url type="">www.jonesfordelegate.com</committee-url>
+    <district type="">16</district>
+    <first-name>Elizabeth</first-name>
+    <id type="integer">229224</id>
+    <incumbent type=""></incumbent>
+    <last-name>Jones</last-name>
+    <middle-name></middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">24531</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 19130</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Roanoke</city>
+    <committee type="">Elect Chris Head</committee>
+    <committee-id type="">2706</committee-id>
+    <committee-url type="">www.electchrishead.com</committee-url>
+    <district type="">17</district>
+    <first-name>Christopher</first-name>
+    <id type="integer">162092</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Head</last-name>
+    <middle-name nil="true"></middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">24019-1013</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">1917 Franklin Rd SW</address-line-1>
+    <address-line-2 type=""># 106-A</address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Roanoke</city>
+    <committee type="">Cathcart for Delegate - Freeda</committee>
+    <committee-id type="">3480</committee-id>
+    <committee-url type="">www.cathcartfordelegate.com</committee-url>
+    <district type="">17</district>
+    <first-name>Freeda</first-name>
+    <id type="integer">32229</id>
+    <incumbent type=""></incumbent>
+    <last-name>Cathcart</last-name>
+    <middle-name>Lynne</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">24014</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 631</address-line-1>
+    <address-line-2 type=""></address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Marshall</city>
+    <committee type="">Webert for Delegate - Michael</committee>
+    <committee-id type="">3384</committee-id>
+    <committee-url type="">www.Michael-Webert.com/</committee-url>
+    <district type="">18</district>
+    <first-name>Michael</first-name>
+    <id type="integer">198549</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Webert</last-name>
+    <middle-name></middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">20116-0631</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 170</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">The Plains</city>
+    <committee type="">Harris for Delegate - Colin</committee>
+    <committee-id type="">3933</committee-id>
+    <committee-url type=""></committee-url>
+    <district type="">18</district>
+    <first-name>Colin</first-name>
+    <id type="integer">163442</id>
+    <incumbent type=""></incumbent>
+    <last-name>Harris</last-name>
+    <middle-name>Sellers</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">20198</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 398</address-line-1>
+    <address-line-2 type=""></address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Buchanan</city>
+    <committee type="">Austin for Delegate - Terry</committee>
+    <committee-id type="">3980</committee-id>
+    <committee-url type="">www.austinfordelegate.com</committee-url>
+    <district type="">19</district>
+    <first-name>Terry</first-name>
+    <id type="integer">66559</id>
+    <incumbent type=""></incumbent>
+    <last-name>Austin</last-name>
+    <middle-name>L</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">24066-0398</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 5</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Montvale</city>
+    <committee type="">The Citizens Committee to Elect Lewis Medlin</committee>
+    <committee-id type="">1353</committee-id>
+    <committee-url type="">www.lewismedlin.com</committee-url>
+    <district type="">19</district>
+    <first-name>Lewis</first-name>
+    <id type="integer">94892</id>
+    <incumbent type=""></incumbent>
+    <last-name>Medlin</last-name>
+    <middle-name>Bain</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix>Jr</suffix>
+    <zip type="">24122-0005</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 239</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Staunton</city>
+    <committee type="">Bell for Delegate - Dickie</committee>
+    <committee-id type="">2825</committee-id>
+    <committee-url type="">bellfordelegate.com</committee-url>
+    <district type="">20</district>
+    <first-name>Richard</first-name>
+    <id type="integer">151907</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Bell</last-name>
+    <middle-name>P</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">24402-0239</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 61005</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Virginia Beach</city>
+    <committee type="">Friends of Ron Villanueva</committee>
+    <committee-id type="">2731</committee-id>
+    <committee-url type="">www.delegatevillanueva.com</committee-url>
+    <district type="">21</district>
+    <first-name>Ronald</first-name>
+    <id type="integer">33696</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Villanueva</last-name>
+    <middle-name>A</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23466-1005</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 64581</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Virginia Beach</city>
+    <committee type="">Hippen for Delegate - Susan</committee>
+    <committee-id type="">4003</committee-id>
+    <committee-url type="">www.hippenfordelegate.com</committee-url>
+    <district type="">21</district>
+    <first-name>Susan</first-name>
+    <id type="integer">200214</id>
+    <incumbent type=""></incumbent>
+    <last-name>Hippen</last-name>
+    <middle-name nil="true"></middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23467</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">523 Leesville Rd</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Lynchburg</city>
+    <committee type="">Friends of Kathy Byron</committee>
+    <committee-id type="">1752</committee-id>
+    <committee-url type="">www.kathybyron.com</committee-url>
+    <district type="">22</district>
+    <first-name>Kathy</first-name>
+    <id type="integer">18300</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Byron</last-name>
+    <middle-name nil="true"></middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">24502-2328</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 11184</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Lynchburg</city>
+    <committee type="">Cyphert for Delegate - Katie</committee>
+    <committee-id type="">4030</committee-id>
+    <committee-url type="">www.katiewebbcyphert.com</committee-url>
+    <district type="">22</district>
+    <first-name>Katie</first-name>
+    <id type="integer">229065</id>
+    <incumbent type=""></incumbent>
+    <last-name>Cyphert</last-name>
+    <middle-name></middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">24506</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">2255 Langhorne Rd</address-line-1>
+    <address-line-2 type="">STE 4</address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Lynchburg</city>
+    <committee type="">Friends of Scott Garrett</committee>
+    <committee-id type="">2659</committee-id>
+    <committee-url type="">www.tscottgarrett.com</committee-url>
+    <district type="">23</district>
+    <first-name>T</first-name>
+    <id type="integer">70360</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Garrett</last-name>
+    <middle-name>Scott</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">24501-1117</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 1101</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Forest</city>
+    <committee type="">Parrish for Delegate - Jonathan</committee>
+    <committee-id type="">4073</committee-id>
+    <committee-url type=""></committee-url>
+    <district type="">23</district>
+    <first-name>Jonathan</first-name>
+    <id type="integer">229320</id>
+    <incumbent type=""></incumbent>
+    <last-name>Parrish</last-name>
+    <middle-name></middle-name>
+    <party type="">Libertarian</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">24551</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 1405</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Amherst</city>
+    <committee type="">Ben Cline for Virginia House of Delegates</committee>
+    <committee-id type="">1677</committee-id>
+    <committee-url type="">www.bencline.com</committee-url>
+    <district type="">24</district>
+    <first-name>Ben</first-name>
+    <id type="integer">53003</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Cline</last-name>
+    <middle-name nil="true"></middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">24521-1405</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 12</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Verona</city>
+    <committee type="">Steve Landes for Delegate Committee</committee>
+    <committee-id type="">1867</committee-id>
+    <committee-url type="">www.stevelandes.com</committee-url>
+    <district type="">25</district>
+    <first-name>R</first-name>
+    <id type="integer">4666</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Landes</last-name>
+    <middle-name>Steven</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">24482-0012</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 1425</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Harrisonburg</city>
+    <committee type="">Wilt For Delegate - Tony</committee>
+    <committee-id type="">3048</committee-id>
+    <committee-url type="">www.delegatewilt.com</committee-url>
+    <district type="">26</district>
+    <first-name>Tony</first-name>
+    <id type="integer">77401</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Wilt</last-name>
+    <middle-name>O</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22803-1425</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">9409 Hull Street Rd</address-line-1>
+    <address-line-2 type="">STE F1</address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Richmond</city>
+    <committee type="">Robinson for Delegate - Roxann</committee>
+    <committee-id type="">3056</committee-id>
+    <committee-url type="">www.roxannrobinson.com</committee-url>
+    <district type="">27</district>
+    <first-name>Roxann</first-name>
+    <id type="integer">76728</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Robinson</last-name>
+    <middle-name nil="true"></middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23236-1200</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 8296</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Fredericksburg</city>
+    <committee type="">Howell for Delegate</committee>
+    <committee-id type="">1869</committee-id>
+    <committee-url type="">www.williamjhowell.org/</committee-url>
+    <district type="">28</district>
+    <first-name>William</first-name>
+    <id type="integer">29</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Howell</last-name>
+    <middle-name>J</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22404-8296</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">317 Greenfield Ave</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Winchester</city>
+    <committee type="">Berg for Delegate - Mark</committee>
+    <committee-id type="">3972</committee-id>
+    <committee-url type="">www.markbergmd.com</committee-url>
+    <district type="">29</district>
+    <first-name>Mark</first-name>
+    <id type="integer">214507</id>
+    <incumbent type=""></incumbent>
+    <last-name>Berg</last-name>
+    <middle-name>J</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22602</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">678 Berryville Ave</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Winchester</city>
+    <committee type="">Yates for Delegate - Larry</committee>
+    <committee-id type="">4064</committee-id>
+    <committee-url type="">www.larrylamaryates.com</committee-url>
+    <district type="">29</district>
+    <first-name>Larry</first-name>
+    <id type="integer">93923</id>
+    <incumbent type=""></incumbent>
+    <last-name>Yates</last-name>
+    <middle-name nil="true"></middle-name>
+    <party type="">Independent</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22601-5665</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">206 S Main St</address-line-1>
+    <address-line-2 type="">STE 203</address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Culpeper</city>
+    <committee type="">Friends of Ed Scott</committee>
+    <committee-id type="">1434</committee-id>
+    <committee-url type="">www.delegateedscott.com</committee-url>
+    <district type="">30</district>
+    <first-name>Edward</first-name>
+    <id type="integer">50021</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Scott</last-name>
+    <middle-name>T</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22701-3138</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">1621 Addie Ln</address-line-1>
+    <address-line-2 type=""></address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Culpeper</city>
+    <committee type="">Dippert for Delegate - Traci</committee>
+    <committee-id type="">3930</committee-id>
+    <committee-url type="">dippertfordelegate.com</committee-url>
+    <district type="">30</district>
+    <first-name>Traci</first-name>
+    <id type="integer">219458</id>
+    <incumbent type=""></incumbent>
+    <last-name>Dippert</last-name>
+    <middle-name></middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">22701</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">5420 Lomax Way</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Woodbridge</city>
+    <committee type="">Friends of Scott Lingamfelter</committee>
+    <committee-id type="">1096</committee-id>
+    <committee-url type="">www.va31st.com</committee-url>
+    <district type="">31</district>
+    <first-name>L</first-name>
+    <id type="integer">25058</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Lingamfelter</last-name>
+    <middle-name>Scott</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22193-3558</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">4491 Cheshire Station Plz</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Woodbridge</city>
+    <committee type="">McPike for Delegate - Jeremy</committee>
+    <committee-id type="">3942</committee-id>
+    <committee-url type="">www.voteforjeremy.com</committee-url>
+    <district type="">31</district>
+    <first-name>Jeremy</first-name>
+    <id type="integer">49859</id>
+    <incumbent type=""></incumbent>
+    <last-name>McPike</last-name>
+    <middle-name nil="true"></middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22193</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 427</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Leesburg</city>
+    <committee type="">Friends of Tag Greason</committee>
+    <committee-id type="">2649</committee-id>
+    <committee-url type="">www.vote4tag.com</committee-url>
+    <district type="">32</district>
+    <first-name>Thomas</first-name>
+    <id type="integer">161780</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Greason</last-name>
+    <middle-name>A</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">20178</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">21646 Stillbrook Farm Dr</address-line-1>
+    <address-line-2 type=""></address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Ashburn</city>
+    <committee type="">Miller for Delegate - Elizabeth</committee>
+    <committee-id type="">4032</committee-id>
+    <committee-url type=""></committee-url>
+    <district type="">32</district>
+    <first-name>Elizabeth</first-name>
+    <id type="integer">209766</id>
+    <incumbent type=""></incumbent>
+    <last-name>Miller</last-name>
+    <middle-name nil="true"></middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">20148</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 798</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Berryville</city>
+    <committee type="">Daniel for Delegate - Mary</committee>
+    <committee-id type="">4072</committee-id>
+    <committee-url type=""></committee-url>
+    <district type="">33</district>
+    <first-name>Mary</first-name>
+    <id type="integer">104140</id>
+    <incumbent type=""></incumbent>
+    <last-name>Daniel</last-name>
+    <middle-name>Costello</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22611</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type=""></address-line-1>
+    <address-line-2 type=""></address-line-2>
+    <chamber type="">House</chamber>
+    <city type=""> </city>
+    <committee type="">Hagerty for Delegate - Patrick</committee>
+    <committee-id type="">4046</committee-id>
+    <committee-url type=""></committee-url>
+    <district type="">33</district>
+    <first-name>Patrick</first-name>
+    <id type="integer">229084</id>
+    <incumbent type=""></incumbent>
+    <last-name>Hagerty</last-name>
+    <middle-name></middle-name>
+    <party type="">Libertarian</party>
+    <state type=""></state>
+    <suffix></suffix>
+    <zip type=""> </zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 6</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Hamilton</city>
+    <committee type="">LaRock for Delegate - Dave</committee>
+    <committee-id type="">3946</committee-id>
+    <committee-url type="">votelarock.us</committee-url>
+    <district type="">33</district>
+    <first-name>David</first-name>
+    <id type="integer">43383</id>
+    <incumbent type=""></incumbent>
+    <last-name>LaRock</last-name>
+    <middle-name nil="true"></middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">20159</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 6156</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Mc Lean</city>
+    <committee type="">Friends of Barbara Comstock</committee>
+    <committee-id type="">2632</committee-id>
+    <committee-url type="">comstockfordelegate.com</committee-url>
+    <district type="">34</district>
+    <first-name>Barbara</first-name>
+    <id type="integer">67243</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Comstock</last-name>
+    <middle-name>J</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22106-6156</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 146</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Mc Lean</city>
+    <committee type="">Murphy for Delegate - Kathleen</committee>
+    <committee-id type="">3927</committee-id>
+    <committee-url type=""></committee-url>
+    <district type="">34</district>
+    <first-name>Kathleen</first-name>
+    <id type="integer">23836</id>
+    <incumbent type=""></incumbent>
+    <last-name>Murphy</last-name>
+    <middle-name>Johnson</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22101-0146</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 1134</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Vienna</city>
+    <committee type="">Keam for Delegate</committee>
+    <committee-id type="">2616</committee-id>
+    <committee-url type="">delegatekeam.org</committee-url>
+    <district type="">35</district>
+    <first-name>Mark</first-name>
+    <id type="integer">159357</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Keam</last-name>
+    <middle-name nil="true"></middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22183-1134</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 226</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Dunn Loring</city>
+    <committee type="">Luse for Delegate - Leiann</committee>
+    <committee-id type="">4076</committee-id>
+    <committee-url type="">www.lusefordelegate.com</committee-url>
+    <district type="">35</district>
+    <first-name>Leiann</first-name>
+    <id type="integer">229338</id>
+    <incumbent type=""></incumbent>
+    <last-name>Luse</last-name>
+    <middle-name>L</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">22027-0226</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">2073 Cobblestone Ln</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Reston</city>
+    <committee type="">Friends of Delegate Ken Plum</committee>
+    <committee-id type="">997</committee-id>
+    <committee-url type="">www.kenplum.com</committee-url>
+    <district type="">36</district>
+    <first-name>Kenneth</first-name>
+    <id type="integer">37</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Plum</last-name>
+    <middle-name>R</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">20191-4039</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 106</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Fairfax Station</city>
+    <committee type="">Friends of David Bulova</committee>
+    <committee-id type="">1673</committee-id>
+    <committee-url type="">www.davidbulova.com</committee-url>
+    <district type="">37</district>
+    <first-name>David</first-name>
+    <id type="integer">24155</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Bulova</last-name>
+    <middle-name>L</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22039-0106</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 3277</address-line-1>
+    <address-line-2 type=""></address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Fairfax</city>
+    <committee type="">Winter for Delegate - Patrice</committee>
+    <committee-id type="">3991</committee-id>
+    <committee-url type="">www.electpatricewinter.com</committee-url>
+    <district type="">37</district>
+    <first-name>Patrice</first-name>
+    <id type="integer">109638</id>
+    <incumbent type=""></incumbent>
+    <last-name>Winter</last-name>
+    <middle-name>M</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22038</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">6505 Waterway Dr</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Falls Church</city>
+    <committee type="">Kory for Delegate</committee>
+    <committee-id type="">2725</committee-id>
+    <committee-url type="">www.kayekory.com</committee-url>
+    <district type="">38</district>
+    <first-name>L</first-name>
+    <id type="integer">19917</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Kory</last-name>
+    <middle-name>Kaye</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22044-1328</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">4399 Medford Dr</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Annandale</city>
+    <committee type="">Leslie for Delegate - James</committee>
+    <committee-id type="">2779</committee-id>
+    <committee-url type=""></committee-url>
+    <district type="">38</district>
+    <first-name>James</first-name>
+    <id type="integer">169353</id>
+    <incumbent type=""></incumbent>
+    <last-name>Leslie</last-name>
+    <middle-name>L</middle-name>
+    <party type="">Independent Green</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22003-5611</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">8717 Mary Lee Ln</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Annandale</city>
+    <committee type="">Watts for Delegate</committee>
+    <committee-id type="">1884</committee-id>
+    <committee-url type="">www.vivianwatts.com</committee-url>
+    <district type="">39</district>
+    <first-name>Vivian</first-name>
+    <id type="integer">462</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Watts</last-name>
+    <middle-name>E</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22003-3659</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 893</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Centreville</city>
+    <committee type="">Friends of Tim Hugo</committee>
+    <committee-id type="">2346</committee-id>
+    <committee-url type="">www.timhugo.com</committee-url>
+    <district type="">40</district>
+    <first-name>Timothy</first-name>
+    <id type="integer">4365</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Hugo</last-name>
+    <middle-name>D</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">20122-0893</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 231211</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Centreville</city>
+    <committee type="">Foltz for Delegate - Jerrold</committee>
+    <committee-id type="">3947</committee-id>
+    <committee-url type=""></committee-url>
+    <district type="">40</district>
+    <first-name>Jerrold</first-name>
+    <id type="integer">77279</id>
+    <incumbent type=""></incumbent>
+    <last-name>Foltz</last-name>
+    <middle-name>Lee</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">20120-7211</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 523082</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Springfield</city>
+    <committee type="">Filler-Corn for Delegate - Eileen</committee>
+    <committee-id type="">2374</committee-id>
+    <committee-url type="">www.EileenFillerCorn.com</committee-url>
+    <district type="">41</district>
+    <first-name>Eileen</first-name>
+    <id type="integer">28044</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Filler-Corn</last-name>
+    <middle-name>R</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22152-5082</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">6132 Covered Bridge Rd</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Burke</city>
+    <committee type="">Burgos for Delegate - Fredy (Rep)</committee>
+    <committee-id type="">4023</committee-id>
+    <committee-url type="">goburgosgo.com</committee-url>
+    <district type="">41</district>
+    <first-name>Fredy</first-name>
+    <id type="integer">203303</id>
+    <incumbent type=""></incumbent>
+    <last-name>Burgos</last-name>
+    <middle-name></middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">22015</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">8706 Duvall St</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Fairfax</city>
+    <committee type="">DeCarlo for Delegate - Christopher F</committee>
+    <committee-id type="">2816</committee-id>
+    <committee-url type="">www.honestyandethics.com</committee-url>
+    <district type="">41</district>
+    <first-name>Christopher</first-name>
+    <id type="integer">95595</id>
+    <incumbent type=""></incumbent>
+    <last-name>DeCarlo</last-name>
+    <middle-name>F</middle-name>
+    <party type="">Independent</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">22031-2711</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">6367 Rolling Mill Pl</address-line-1>
+    <address-line-2 type="">STE 102</address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Springfield</city>
+    <committee type="">Dave Albo for Delegate</committee>
+    <committee-id type="">2370</committee-id>
+    <committee-url type="">www.davealbo.com</committee-url>
+    <district type="">42</district>
+    <first-name>David</first-name>
+    <id type="integer">5317</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Albo</last-name>
+    <middle-name>B</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22152-2360</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">8820 Sweet Gum Pl</address-line-1>
+    <address-line-2 type=""></address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Springfield</city>
+    <committee type="">Deitsch for House of Delegates - Ed</committee>
+    <committee-id type="">3741</committee-id>
+    <committee-url type=""></committee-url>
+    <district type="">42</district>
+    <first-name>Ed</first-name>
+    <id type="integer">215750</id>
+    <incumbent type=""></incumbent>
+    <last-name>Deitsch</last-name>
+    <middle-name></middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">22153</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 10628</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Alexandria</city>
+    <committee type="">Sickles for Delegate</committee>
+    <committee-id type="">2366</committee-id>
+    <committee-url type="">www.marksickles.com</committee-url>
+    <district type="">43</district>
+    <first-name>Mark</first-name>
+    <id type="integer">399</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Sickles</last-name>
+    <middle-name>D</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22310-0628</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">5904 Mount Eagle Dr</address-line-1>
+    <address-line-2 type="">APT 506</address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Alexandria</city>
+    <committee type="">Glenda Gail Parker</committee>
+    <committee-id type="">1190</committee-id>
+    <committee-url type="">www.gailparker.us/</committee-url>
+    <district type="">43</district>
+    <first-name>Glenda</first-name>
+    <id type="integer">69272</id>
+    <incumbent type=""></incumbent>
+    <last-name>Parker</last-name>
+    <middle-name>Gail</middle-name>
+    <party type="">Independent Green</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22303-2537</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 289</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Mount Vernon</city>
+    <committee type="">Surovell for Delegate - Scott A</committee>
+    <committee-id type="">2817</committee-id>
+    <committee-url type="">scottsurovell.org</committee-url>
+    <district type="">44</district>
+    <first-name>Scott</first-name>
+    <id type="integer">39301</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Surovell</last-name>
+    <middle-name>A</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22121-0289</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">8610 Washington Ave</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Alexandria</city>
+    <committee type="">Glean for Delegate - Joseph</committee>
+    <committee-id type="">4075</committee-id>
+    <committee-url type="">www.rise-to-the-rescue.com</committee-url>
+    <district type="">44</district>
+    <first-name>Joseph</first-name>
+    <id type="integer">203317</id>
+    <incumbent type=""></incumbent>
+    <last-name>Glean</last-name>
+    <middle-name></middle-name>
+    <party type="">Independent</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">22309</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 25455</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Alexandria</city>
+    <committee type="">Krupicka for Delegate - Rob</committee>
+    <committee-id type="">3697</committee-id>
+    <committee-url type="">krupicka.com</committee-url>
+    <district type="">45</district>
+    <first-name>K</first-name>
+    <id type="integer">56991</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Krupicka</last-name>
+    <middle-name>Rob</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">22313</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 2861</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Alexandria</city>
+    <committee type="">Engle for Delegate - Jeff</committee>
+    <committee-id type="">3957</committee-id>
+    <committee-url type="">www.englefordelegate.org</committee-url>
+    <district type="">45</district>
+    <first-name>Jeff</first-name>
+    <id type="integer">223078</id>
+    <incumbent type=""></incumbent>
+    <last-name>Engle</last-name>
+    <middle-name></middle-name>
+    <party type="">Independent</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">22301</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 11779</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Alexandria</city>
+    <committee type="">Friends of Charniele Herring</committee>
+    <committee-id type="">2561</committee-id>
+    <committee-url type="">www.charnieleherring.com</committee-url>
+    <district type="">46</district>
+    <first-name>Charniele</first-name>
+    <id type="integer">65422</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Herring</last-name>
+    <middle-name>L</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22312-0779</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 3148</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Arlington</city>
+    <committee type="">Friends of Patrick Hope</committee>
+    <committee-id type="">2646</committee-id>
+    <committee-url type="">www.HOPEforVirginia.org</committee-url>
+    <district type="">47</district>
+    <first-name>Patrick</first-name>
+    <id type="integer">158293</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Hope</last-name>
+    <middle-name>A</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22203-8148</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">1735 Fairfax Dr</address-line-1>
+    <address-line-2 type=""></address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Arlington</city>
+    <committee type="">Delhomme for Delegate - Laura</committee>
+    <committee-id type="">3960</committee-id>
+    <committee-url type="">www.lauradelhomme.com</committee-url>
+    <district type="">47</district>
+    <first-name>Laura</first-name>
+    <id type="integer">204847</id>
+    <incumbent type=""></incumbent>
+    <last-name>Delhomme</last-name>
+    <middle-name nil="true"></middle-name>
+    <party type="">Libertarian</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22209</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 7668</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Arlington</city>
+    <committee type="">Re-Elect Delegate Bob Brink</committee>
+    <committee-id type="">1702</committee-id>
+    <committee-url type="">www.bobbrink.org</committee-url>
+    <district type="">48</district>
+    <first-name>Robert</first-name>
+    <id type="integer">1210</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Brink</last-name>
+    <middle-name>H</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22207-0668</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 40366</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Arlington</city>
+    <committee type="">Lopez for Delegate - Alfonso</committee>
+    <committee-id type="">3304</committee-id>
+    <committee-url type="">www.alfonsofordelegate.com</committee-url>
+    <district type="">49</district>
+    <first-name>Alfonso</first-name>
+    <id type="integer">59777</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Lopez</last-name>
+    <middle-name>H</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22204-7366</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">6001 Arlington Blvd</address-line-1>
+    <address-line-2 type="">Apt 602</address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Falls Church</city>
+    <committee type="">Modglin for Delegate - Terry</committee>
+    <committee-id type="">3964</committee-id>
+    <committee-url type="">www.terrymodglinfordelegate.com</committee-url>
+    <district type="">49</district>
+    <first-name>Terrence</first-name>
+    <id type="integer">223095</id>
+    <incumbent type=""></incumbent>
+    <last-name>Modglin</last-name>
+    <middle-name>Wayne</middle-name>
+    <party type="">Independent Green</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">22044</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 10072</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Manassas</city>
+    <committee type="">Miller for Delegate</committee>
+    <committee-id type="">1350</committee-id>
+    <committee-url type="">www.jacksonmillerva.com</committee-url>
+    <district type="">50</district>
+    <first-name>Jackson</first-name>
+    <id type="integer">60848</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Miller</last-name>
+    <middle-name>H</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">20108-0632</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 10089</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Manassas</city>
+    <committee type="">Cabellos for Delegate - Richard</committee>
+    <committee-id type="">4009</committee-id>
+    <committee-url type="">www.cabellosfordelegate.com</committee-url>
+    <district type="">50</district>
+    <first-name>Richard</first-name>
+    <id type="integer">226254</id>
+    <incumbent type=""></incumbent>
+    <last-name>Cabellos</last-name>
+    <middle-name></middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">20108-0649</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 7926</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Woodbridge</city>
+    <committee type="">Friends of Rich Anderson</committee>
+    <committee-id type="">2727</committee-id>
+    <committee-url type="">rich4delegate.com</committee-url>
+    <district type="">51</district>
+    <first-name>Richard</first-name>
+    <id type="integer">87230</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Anderson</last-name>
+    <middle-name>L</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22195-7926</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">4329 Wensley Ct</address-line-1>
+    <address-line-2 type=""></address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Woodbridge</city>
+    <committee type="">Heddleston for Delegate - Reed</committee>
+    <committee-id type="">3940</committee-id>
+    <committee-url type="">heddlestonforthehouse.com</committee-url>
+    <district type="">51</district>
+    <first-name>Roy</first-name>
+    <id type="integer">223035</id>
+    <incumbent type=""></incumbent>
+    <last-name>Heddleston</last-name>
+    <middle-name>Reed</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">22192-5546</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">4222 Fortuna Center Plz</address-line-1>
+    <address-line-2 type="">Ste 659</address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Dumfries</city>
+    <committee type="">Friends of Luke Torian</committee>
+    <committee-id type="">2640</committee-id>
+    <committee-url type="">www.delegatetorian.com</committee-url>
+    <district type="">52</district>
+    <first-name>Luke</first-name>
+    <id type="integer">161769</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Torian</last-name>
+    <middle-name nil="true"></middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22025-1515</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 958</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Falls Church</city>
+    <committee type="">Simon for Delegate - Marcus</committee>
+    <committee-id type="">3953</committee-id>
+    <committee-url type="">marcussimon.com</committee-url>
+    <district type="">53</district>
+    <first-name>Marcus</first-name>
+    <id type="integer">67685</id>
+    <incumbent type=""></incumbent>
+    <last-name>Simon</last-name>
+    <middle-name>B</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22040</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 6202</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Falls Church</city>
+    <committee type="">Tellez for Delegate - Anthony</committee>
+    <committee-id type="">4007</committee-id>
+    <committee-url type=""></committee-url>
+    <district type="">53</district>
+    <first-name>Anthony</first-name>
+    <id type="integer">226250</id>
+    <incumbent type=""></incumbent>
+    <last-name>Tellez</last-name>
+    <middle-name>Gabriel</middle-name>
+    <party type="">Libertarian</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">22040</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">500 Roosevelt Blvd</address-line-1>
+    <address-line-2 type="">Apt 521</address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Falls Church</city>
+    <committee type="">Tidwell for Delegate - Brad</committee>
+    <committee-id type="">4056</committee-id>
+    <committee-url type="">www.votetidwell.com</committee-url>
+    <district type="">53</district>
+    <first-name>Brad</first-name>
+    <id type="integer">229222</id>
+    <incumbent type=""></incumbent>
+    <last-name>Tidwell</last-name>
+    <middle-name></middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">22044</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 458</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Thornburg</city>
+    <committee type="">Orrock for House</committee>
+    <committee-id type="">1957</committee-id>
+    <committee-url type="">www.bobbyorrock.net/</committee-url>
+    <district type="">54</district>
+    <first-name>Robert</first-name>
+    <id type="integer">5461</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Orrock</last-name>
+    <middle-name>D</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix>Sr</suffix>
+    <zip type="">22565-0458</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">9073 Auburn Grove Ct</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Mechanicsville</city>
+    <committee type="">Fowler for Delegate - Buddy</committee>
+    <committee-id type="">3958</committee-id>
+    <committee-url type="">www.buddyfowler.com</committee-url>
+    <district type="">55</district>
+    <first-name>Hyland</first-name>
+    <id type="integer">14681</id>
+    <incumbent type=""></incumbent>
+    <last-name>Fowler</last-name>
+    <middle-name>F</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix>Jr</suffix>
+    <zip type="">23116</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">125 Thompson Street </address-line-1>
+    <address-line-2 type="">Suite B</address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Ashland</city>
+    <committee type="">Radler for Delegate - Toni</committee>
+    <committee-id type="">4031</committee-id>
+    <committee-url type="">toniradler.com</committee-url>
+    <district type="">55</district>
+    <first-name>Toni</first-name>
+    <id type="integer">226470</id>
+    <incumbent type=""></incumbent>
+    <last-name>Radler</last-name>
+    <middle-name></middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">23005</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">15396 Beaver Den Ln</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Beaverdam</city>
+    <committee type="">Sullivan for Delegate - Chris</committee>
+    <committee-id type="">3969</committee-id>
+    <committee-url type="">www.sullivanfordelegate.com</committee-url>
+    <district type="">55</district>
+    <first-name>Christopher</first-name>
+    <id type="integer">223131</id>
+    <incumbent type=""></incumbent>
+    <last-name>Sullivan</last-name>
+    <middle-name>Gregory</middle-name>
+    <party type="">Libertarian</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">23015</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 87</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Richmond</city>
+    <committee type="">Farrell for Delegate - Peter</committee>
+    <committee-id type="">3462</committee-id>
+    <committee-url type=""></committee-url>
+    <district type="">56</district>
+    <first-name>Peter</first-name>
+    <id type="integer">205491</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Farrell</last-name>
+    <middle-name></middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">23218-0087</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">211 E High St</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Charlottesville</city>
+    <committee type="">Toscano 2005</committee>
+    <committee-id type="">1873</committee-id>
+    <committee-url type="">www.davidtoscano.com</committee-url>
+    <district type="">57</district>
+    <first-name>David</first-name>
+    <id type="integer">6713</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Toscano</last-name>
+    <middle-name>J</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22902-5515</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">2309 Finch Ct</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Charlottesville</city>
+    <committee type="">Friends of Rob Bell for Delegate</committee>
+    <committee-id type="">1570</committee-id>
+    <committee-url type="">www.delegaterobbell.com</committee-url>
+    <district type="">58</district>
+    <first-name>Robert</first-name>
+    <id type="integer">33167</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Bell</last-name>
+    <middle-name>B</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22911-8391</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">243-C Livestock Rd</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Rustburg</city>
+    <committee type="">Fariss for Delegate - Matt</committee>
+    <committee-id type="">3342</committee-id>
+    <committee-url type="">www.mattfariss.com</committee-url>
+    <district type="">59</district>
+    <first-name>Matt</first-name>
+    <id type="integer">198425</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Fariss</last-name>
+    <middle-name></middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">24588</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 1115</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Halifax</city>
+    <committee type="">Friends of James Edmunds</committee>
+    <committee-id type="">2730</committee-id>
+    <committee-url type="">www.friendsofjamesedmunds.com</committee-url>
+    <district type="">60</district>
+    <first-name>James</first-name>
+    <id type="integer">83615</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Edmunds</last-name>
+    <middle-name>E</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix>II</suffix>
+    <zip type="">24558-1115</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 764</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Farmville</city>
+    <committee type="">Hendricks for Delegate - Jasper</committee>
+    <committee-id type="">3352</committee-id>
+    <committee-url type="">www.jasperhendricks.com</committee-url>
+    <district type="">60</district>
+    <first-name>Jasper</first-name>
+    <id type="integer">43354</id>
+    <incumbent type=""></incumbent>
+    <last-name>Hendricks</last-name>
+    <middle-name>L</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix>III</suffix>
+    <zip type="">23901</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 1323</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Victoria</city>
+    <committee type="">Wright for Delegate</committee>
+    <committee-id type="">1847</committee-id>
+    <committee-url type="" nil="true"></committee-url>
+    <district type="">61</district>
+    <first-name>Thomas</first-name>
+    <id type="integer">1805</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Wright</last-name>
+    <middle-name>C</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix>Jr</suffix>
+    <zip type="">23974-1323</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">3302 Oaklawn Blvd</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Hopewell</city>
+    <committee type="">Ingram for Delegate</committee>
+    <committee-id type="">1896</committee-id>
+    <committee-url type="" nil="true"></committee-url>
+    <district type="">62</district>
+    <first-name>Riley</first-name>
+    <id type="integer">30</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Ingram</last-name>
+    <middle-name>E</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23860-4704</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 2584</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Petersburg</city>
+    <committee type="">Dance for Delegate</committee>
+    <committee-id type="">1608</committee-id>
+    <committee-url type="">www.delegatedance.com</committee-url>
+    <district type="">63</district>
+    <first-name>Rosalyn</first-name>
+    <id type="integer">16220</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Dance</last-name>
+    <middle-name>R</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23804-2584</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 128</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Carrollton</city>
+    <committee type="">Morris for Delegate - Rick</committee>
+    <committee-id type="">3368</committee-id>
+    <committee-url type="">www.delrickmorris.com</committee-url>
+    <district type="">64</district>
+    <first-name>Richard</first-name>
+    <id type="integer">167866</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Morris</last-name>
+    <middle-name nil="true"></middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23314-0128</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 689</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Powhatan</city>
+    <committee type="">Friends of Lee Ware</committee>
+    <committee-id type="">1055</committee-id>
+    <committee-url type="">www.powhatanva.com/ware/</committee-url>
+    <district type="">65</district>
+    <first-name>R</first-name>
+    <id type="integer">25934</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Ware</last-name>
+    <middle-name>Lee</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23139-0689</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 98</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Goochland</city>
+    <committee type="">Quarles for Delegate - William E</committee>
+    <committee-id type="">3928</committee-id>
+    <committee-url type="">www.quarlesfordelegate.com</committee-url>
+    <district type="">65</district>
+    <first-name>William</first-name>
+    <id type="integer">106564</id>
+    <incumbent type=""></incumbent>
+    <last-name>Quarles</last-name>
+    <middle-name>E</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix>Jr</suffix>
+    <zip type="">23063-0098</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 1205</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Colonial Heights</city>
+    <committee type="">Friends of Kirk Cox</committee>
+    <committee-id type="">1899</committee-id>
+    <committee-url type="">www.kirkcox.com</committee-url>
+    <district type="">66</district>
+    <first-name>M</first-name>
+    <id type="integer">5631</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Cox</last-name>
+    <middle-name>Kirkland</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23834-9205</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 220962</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Chantilly</city>
+    <committee type="">LeMunyon for Delegate</committee>
+    <committee-id type="">2522</committee-id>
+    <committee-url type="">www.lemunyon.com</committee-url>
+    <district type="">67</district>
+    <first-name>James</first-name>
+    <id type="integer">86003</id>
+    <incumbent type="">*</incumbent>
+    <last-name>LeMunyon</last-name>
+    <middle-name>M</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">20153-0962</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 283</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Burke</city>
+    <committee type="">Nguyen for Delegate - Hung</committee>
+    <committee-id type="">4060</committee-id>
+    <committee-url type="">www.nguyen4delegate.com</committee-url>
+    <district type="">67</district>
+    <first-name>Hung</first-name>
+    <id type="integer">219359</id>
+    <incumbent type=""></incumbent>
+    <last-name>Nguyen</last-name>
+    <middle-name></middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">22009-0283</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">6002 W Broad St</address-line-1>
+    <address-line-2 type="">Ste A200</address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Richmond</city>
+    <committee type="">Friends of Manoli Loupassi</committee>
+    <committee-id type="">1639</committee-id>
+    <committee-url type="">www.delegatemanoliloupassi.com</committee-url>
+    <district type="">68</district>
+    <first-name>Manoli</first-name>
+    <id type="integer">75476</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Loupassi</last-name>
+    <middle-name nil="true"></middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23230-2213</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">206 E Cary St</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Richmond</city>
+    <committee type="">Grogan for Delegate - William</committee>
+    <committee-id type="">1242</committee-id>
+    <committee-url type="">www.billgrogan.com</committee-url>
+    <district type="">68</district>
+    <first-name>William</first-name>
+    <id type="integer">4846</id>
+    <incumbent type=""></incumbent>
+    <last-name>Grogan</last-name>
+    <middle-name>K</middle-name>
+    <party type="">Independent</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23219-3737</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 406</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Richmond</city>
+    <committee type="">Betsy Carr for Virginia</committee>
+    <committee-id type="">2708</committee-id>
+    <committee-url type="">www.betsycarr.org</committee-url>
+    <district type="">69</district>
+    <first-name>Betsy</first-name>
+    <id type="integer">53134</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Carr</last-name>
+    <middle-name>Brooks</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23218-0406</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">3600 Anne St</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Richmond</city>
+    <committee type="">Barnett for Delegate - Bob</committee>
+    <committee-id type="">4074</committee-id>
+    <committee-url type="">timism.com</committee-url>
+    <district type="">69</district>
+    <first-name>Bob</first-name>
+    <id type="integer">229322</id>
+    <incumbent type=""></incumbent>
+    <last-name>Barnett</last-name>
+    <middle-name></middle-name>
+    <party type="">Independent</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">23225</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 406</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Richmond</city>
+    <committee type="">McQuinn for the 70th District House of Delegates</committee>
+    <committee-id type="">2589</committee-id>
+    <committee-url type="">www.delegatemcquinn.org</committee-url>
+    <district type="">70</district>
+    <first-name>Delores</first-name>
+    <id type="integer">33585</id>
+    <incumbent type="">*</incumbent>
+    <last-name>McQuinn</last-name>
+    <middle-name>L</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23218-0406</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 47</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Richmond</city>
+    <committee type="">Friends of Jennifer McClellan</committee>
+    <committee-id type="">1672</committee-id>
+    <committee-url type="">www.jennifermcclellan.com</committee-url>
+    <district type="">71</district>
+    <first-name>Jennifer</first-name>
+    <id type="integer">35804</id>
+    <incumbent type="">*</incumbent>
+    <last-name>McClellan</last-name>
+    <middle-name>L</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23218-0047</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type=""></address-line-1>
+    <address-line-2 type=""></address-line-2>
+    <chamber type="">House</chamber>
+    <city type=""> </city>
+    <committee type="">Fitch for Delegate - Matt</committee>
+    <committee-id type="">4038</committee-id>
+    <committee-url type="">www.fitchfordelegate.com</committee-url>
+    <district type="">71</district>
+    <first-name>Matt</first-name>
+    <id type="integer">226589</id>
+    <incumbent type=""></incumbent>
+    <last-name>Fitch</last-name>
+    <middle-name></middle-name>
+    <party type="">Republican</party>
+    <state type=""></state>
+    <suffix></suffix>
+    <zip type=""> </zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 29598</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Henrico</city>
+    <committee type="">Massie for Delegate</committee>
+    <committee-id type="">1380</committee-id>
+    <committee-url type="">www.jimmiemassie.com/</committee-url>
+    <district type="">72</district>
+    <first-name>James</first-name>
+    <id type="integer">6600</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Massie</last-name>
+    <middle-name>P</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix>III</suffix>
+    <zip type="">23242-0598</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 70365</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Henrico</city>
+    <committee type="">Obannon for House 2003</committee>
+    <committee-id type="">1842</committee-id>
+    <committee-url type="">www.johnobannon.com</committee-url>
+    <district type="">73</district>
+    <first-name>John</first-name>
+    <id type="integer">338</id>
+    <incumbent type="">*</incumbent>
+    <last-name>O'Bannon</last-name>
+    <middle-name>M</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix>III</suffix>
+    <zip type="">23255-0365</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 406</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Richmond</city>
+    <committee type="">Morrissey for Delegate</committee>
+    <committee-id type="">1801</committee-id>
+    <committee-url type="">joemorrisseyfordelegate.com</committee-url>
+    <district type="">74</district>
+    <first-name>Joseph</first-name>
+    <id type="integer">5431</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Morrissey</last-name>
+    <middle-name>D</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23218-0406</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">25359 Blue Star Hwy</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Jarratt</city>
+    <committee type="">Tylers Campaign Committee</committee>
+    <committee-id type="">2299</committee-id>
+    <committee-url type="">roslyntyler.com/drt1/</committee-url>
+    <district type="">75</district>
+    <first-name>Roslyn</first-name>
+    <id type="integer">79002</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Tyler</last-name>
+    <middle-name nil="true"></middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23867-8118</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">37219 Old Wakefield Rd</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Wakefield</city>
+    <committee type="">Peschke for Delegate - Al</committee>
+    <committee-id type="">3312</committee-id>
+    <committee-url type="">voteforalp.com</committee-url>
+    <district type="">75</district>
+    <first-name>Al</first-name>
+    <id type="integer">198289</id>
+    <incumbent type=""></incumbent>
+    <last-name>Peschke</last-name>
+    <middle-name></middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23888</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 5059</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Suffolk</city>
+    <committee type="">Friends of Chris Jones</committee>
+    <committee-id type="">1044</committee-id>
+    <committee-url type="">www.schrisjones.com/</committee-url>
+    <district type="">76</district>
+    <first-name>S</first-name>
+    <id type="integer">26133</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Jones</last-name>
+    <middle-name>Chris</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23435-0059</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 5403</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Chesapeake</city>
+    <committee type="">Spruill for House</committee>
+    <committee-id type="">1007</committee-id>
+    <committee-url type=""></committee-url>
+    <district type="">77</district>
+    <first-name>Lionell</first-name>
+    <id type="integer">3759</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Spruill</last-name>
+    <middle-name nil="true"></middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix>Sr</suffix>
+    <zip type="">23324-0403</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 2121</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Chesapeake</city>
+    <committee type="">Bryant for Delegate - Linda</committee>
+    <committee-id type="">4022</committee-id>
+    <committee-url type="">www.bryantfordelegate.com</committee-url>
+    <district type="">78</district>
+    <first-name>Linda</first-name>
+    <id type="integer">226379</id>
+    <incumbent type=""></incumbent>
+    <last-name>Bryant</last-name>
+    <middle-name>L</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">23327</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">1143 Long Ridge Rd</address-line-1>
+    <address-line-2 type=""></address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Chesapeake</city>
+    <committee type="">Foster for Delegate - Daniel</committee>
+    <committee-id type="">4020</committee-id>
+    <committee-url type="">www.votedanfoster.com</committee-url>
+    <district type="">78</district>
+    <first-name>Daniel</first-name>
+    <id type="integer">226360</id>
+    <incumbent type=""></incumbent>
+    <last-name>Foster</last-name>
+    <middle-name>J</middle-name>
+    <party type="">Libertarian</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">23322-1472</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">308 Cedar Lakes Drive</address-line-1>
+    <address-line-2 type=""></address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Chesapeake</city>
+    <committee type="">Leftwich for Delegate - Jay</committee>
+    <committee-id type="">4039</committee-id>
+    <committee-url type=""></committee-url>
+    <district type="">78</district>
+    <first-name>James</first-name>
+    <id type="integer">25120</id>
+    <incumbent type=""></incumbent>
+    <last-name>Leftwich</last-name>
+    <middle-name>A</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix>Jr</suffix>
+    <zip type="">23322</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">833 Redleafe Cir</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Chesapeake</city>
+    <committee type="">VanNorman for Delegate - Brent</committee>
+    <committee-id type="">4034</committee-id>
+    <committee-url type="">www.brentvannorman.com</committee-url>
+    <district type="">78</district>
+    <first-name>Brent</first-name>
+    <id type="integer">43497</id>
+    <incumbent type=""></incumbent>
+    <last-name>VanNorman</last-name>
+    <middle-name>L</middle-name>
+    <party type="">Independent</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23320</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">709 Court St</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Portsmouth</city>
+    <committee type="">Joannou Campaign</committee>
+    <committee-id type="">1037</committee-id>
+    <committee-url type="" nil="true"></committee-url>
+    <district type="">79</district>
+    <first-name>Johnny</first-name>
+    <id type="integer">4734</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Joannou</last-name>
+    <middle-name>S</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23704-3625</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">25 Early Dr</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Portsmouth</city>
+    <committee type="">Matthew James for House of Delegates</committee>
+    <committee-id type="">2729</committee-id>
+    <committee-url type="">mjames4delegate.com</committee-url>
+    <district type="">80</district>
+    <first-name>Matthew</first-name>
+    <id type="integer">162405</id>
+    <incumbent type="">*</incumbent>
+    <last-name>James</last-name>
+    <middle-name nil="true"></middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23701</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">1852 Mill Landing Rd</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Virginia Beach</city>
+    <committee type="">Knight for Delegate - Barry D</committee>
+    <committee-id type="">2560</committee-id>
+    <committee-url type="">barrydknight.com/</committee-url>
+    <district type="">81</district>
+    <first-name>Barry</first-name>
+    <id type="integer">87338</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Knight</last-name>
+    <middle-name>D</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23457-1414</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">588 Central Dr</address-line-1>
+    <address-line-2 type=""></address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Virginia Beach</city>
+    <committee type="">DeSteph for Delegate - Bill</committee>
+    <committee-id type="">3976</committee-id>
+    <committee-url type="">billdesteph.org</committee-url>
+    <district type="">82</district>
+    <first-name>William</first-name>
+    <id type="integer">50639</id>
+    <incumbent type=""></incumbent>
+    <last-name>DeSteph</last-name>
+    <middle-name>Robert</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix>Jr</suffix>
+    <zip type="">23454</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 4201</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Virginia Beach</city>
+    <committee type="">Fleming for Delegate - Bill</committee>
+    <committee-id type="">3931</committee-id>
+    <committee-url type="">billfeming.strongvirginia.us</committee-url>
+    <district type="">82</district>
+    <first-name>William</first-name>
+    <id type="integer">152714</id>
+    <incumbent type=""></incumbent>
+    <last-name>Fleming</last-name>
+    <middle-name>Weathers</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23454-0201</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 5429</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Virginia Beach</city>
+    <committee type="">Friends of Chris Stolle</committee>
+    <committee-id type="">2375</committee-id>
+    <committee-url type="">DelegateChrisStolle.com</committee-url>
+    <district type="">83</district>
+    <first-name>Christopher</first-name>
+    <id type="integer">93007</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Stolle</last-name>
+    <middle-name>P</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23471-0429</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">1081 19th St</address-line-1>
+    <address-line-2 type="">Ste 201</address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Virginia Beach</city>
+    <committee type="">Davis for Delegate - Glenn</committee>
+    <committee-id type="">3952</committee-id>
+    <committee-url type="">www.glennrdavis.com</committee-url>
+    <district type="">84</district>
+    <first-name>Glenn</first-name>
+    <id type="integer">84659</id>
+    <incumbent type=""></incumbent>
+    <last-name>Davis</last-name>
+    <middle-name>R</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix>Jr</suffix>
+    <zip type="">23451</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 10456</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Virginia Beach</city>
+    <committee type="">McKenzie for Delegate - Brent</committee>
+    <committee-id type="">4006</committee-id>
+    <committee-url type=""></committee-url>
+    <district type="">84</district>
+    <first-name>Brent</first-name>
+    <id type="integer">76393</id>
+    <incumbent type=""></incumbent>
+    <last-name>McKenzie</last-name>
+    <middle-name>N</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23450</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">733 Pinebrook Dr</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Virginia Beach</city>
+    <committee type="">Dale for Delegate - Bill</committee>
+    <committee-id type="">3956</committee-id>
+    <committee-url type="">www.billdalefordelegate.com</committee-url>
+    <district type="">85</district>
+    <first-name>William</first-name>
+    <id type="integer">215377</id>
+    <incumbent type=""></incumbent>
+    <last-name>Dale</last-name>
+    <middle-name>J</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">23462</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">468 Euclid Rd</address-line-1>
+    <address-line-2 type="">Suite 105</address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Virginia Beach</city>
+    <committee type="">Taylor for Delegate - Scott</committee>
+    <committee-id type="">3920</committee-id>
+    <committee-url type="">www.scotttaylorva.com</committee-url>
+    <district type="">85</district>
+    <first-name>Scott</first-name>
+    <id type="integer">151897</id>
+    <incumbent type=""></incumbent>
+    <last-name>Taylor</last-name>
+    <middle-name>W</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23462</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">730 Elden St</address-line-1>
+    <address-line-2 type=""></address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Herndon</city>
+    <committee type="">Friends of Tom Rust</committee>
+    <committee-id type="">1573</committee-id>
+    <committee-url type="">www.tomrust.org</committee-url>
+    <district type="">86</district>
+    <first-name>Thomas</first-name>
+    <id type="integer">15849</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Rust</last-name>
+    <middle-name>D</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">20170-4676</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 247</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Herndon</city>
+    <committee type="">Boysko for Delegate - Jennifer</committee>
+    <committee-id type="">3870</committee-id>
+    <committee-url type="">www.jenniferboysko.com</committee-url>
+    <district type="">86</district>
+    <first-name>Jennifer</first-name>
+    <id type="integer">82434</id>
+    <incumbent type=""></incumbent>
+    <last-name>Boysko</last-name>
+    <middle-name>Barton</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">20172</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">23465 Rock Haven Way</address-line-1>
+    <address-line-2 type=""># 105A</address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Sterling</city>
+    <committee type="">Ramadan for Delegate - David</committee>
+    <committee-id type="">3298</committee-id>
+    <committee-url type="">www.DavidRamadan.com</committee-url>
+    <district type="">87</district>
+    <first-name>David</first-name>
+    <id type="integer">155416</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Ramadan</last-name>
+    <middle-name nil="true"></middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">20166</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">43145 Valiant Dr</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Chantilly</city>
+    <committee type="">John Bell for the 13th District House of Delegates</committee>
+    <committee-id type="">2639</committee-id>
+    <committee-url type="">www.bellforvirginia.com</committee-url>
+    <district type="">87</district>
+    <first-name>John</first-name>
+    <id type="integer">161767</id>
+    <incumbent type=""></incumbent>
+    <last-name>Bell</last-name>
+    <middle-name>J</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">20152</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 6046</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Fredericksburg</city>
+    <committee type="">Mark Cole for Delegate</committee>
+    <committee-id type="">1098</committee-id>
+    <committee-url type="">marklcole.com</committee-url>
+    <district type="">88</district>
+    <first-name>Mark</first-name>
+    <id type="integer">35256</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Cole</last-name>
+    <middle-name>L</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22403</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 1231</address-line-1>
+    <address-line-2 type=""></address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Spotsylvania</city>
+    <committee type="">O'Halloran for Delegate</committee>
+    <committee-id type="">4033</committee-id>
+    <committee-url type=""></committee-url>
+    <district type="">88</district>
+    <first-name>Kathleen</first-name>
+    <id type="integer">226481</id>
+    <incumbent type=""></incumbent>
+    <last-name>O'Halloran</last-name>
+    <middle-name>T</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">22553</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">1751 Church St</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Norfolk</city>
+    <committee type="">Hester for Delegate - Daun</committee>
+    <committee-id type="">3871</committee-id>
+    <committee-url type="">www.daunhester.com</committee-url>
+    <district type="">89</district>
+    <first-name>Daun</first-name>
+    <id type="integer">80720</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Hester</last-name>
+    <middle-name>Sessoms</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23504-2313</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 12865</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Norfolk</city>
+    <committee type="">Algie Howell  Jr. for House of Delegates</committee>
+    <committee-id type="">1126</committee-id>
+    <committee-url type=""></committee-url>
+    <district type="">90</district>
+    <first-name>Algie</first-name>
+    <id type="integer">56472</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Howell</last-name>
+    <middle-name>T</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix>Jr</suffix>
+    <zip type="">23541-0865</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">2 Victory Blvd</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Poquoson</city>
+    <committee type="">Helsel for Delegate - Gordon (Rep)</committee>
+    <committee-id type="">3178</committee-id>
+    <committee-url type="">www.gordonhelsel.com</committee-url>
+    <district type="">91</district>
+    <first-name>Gordon</first-name>
+    <id type="integer">74818</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Helsel</last-name>
+    <middle-name>C</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix>Jr</suffix>
+    <zip type="">23662</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 7310</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Hampton</city>
+    <committee type="">J. Ward for Delegate</committee>
+    <committee-id type="">1773</committee-id>
+    <committee-url type="">jeionward.com</committee-url>
+    <district type="">92</district>
+    <first-name>Jeion</first-name>
+    <id type="integer">67410</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Ward</last-name>
+    <middle-name nil="true"></middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23666-0310</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 6628</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Williamsburg</city>
+    <committee type="">Watson for Delegate - Mike</committee>
+    <committee-id type="">3388</committee-id>
+    <committee-url type="">www.DelegateWatson.com</committee-url>
+    <district type="">93</district>
+    <first-name>Michael</first-name>
+    <id type="integer">167560</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Watson</last-name>
+    <middle-name>B</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">23188-5227</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 232</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Williamsburg</city>
+    <committee type="">Mason for Delegate - Monty</committee>
+    <committee-id type="">3919</committee-id>
+    <committee-url type="">masonforvirginia.com</committee-url>
+    <district type="">93</district>
+    <first-name>Taylor</first-name>
+    <id type="integer">83157</id>
+    <incumbent type=""></incumbent>
+    <last-name>Mason</last-name>
+    <middle-name>Montgomery</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23187-0232</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 1163</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Newport News</city>
+    <committee type="">Yancey for Delegate - David</committee>
+    <committee-id type="">3448</committee-id>
+    <committee-url type="">davidyanceyfordelegate.com</committee-url>
+    <district type="">94</district>
+    <first-name>David</first-name>
+    <id type="integer">165088</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Yancey</last-name>
+    <middle-name>E</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">23601-0163</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 120423</address-line-1>
+    <address-line-2 type=""></address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Newport News</city>
+    <committee type="">Farinholt for Delegate - Robert</committee>
+    <committee-id type="">3941</committee-id>
+    <committee-url type=""></committee-url>
+    <district type="">94</district>
+    <first-name>Robert</first-name>
+    <id type="integer">223037</id>
+    <incumbent type=""></incumbent>
+    <last-name>Farinholt</last-name>
+    <middle-name>Craig</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix></suffix>
+    <zip type="">23612-0423</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 5154</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Newport News</city>
+    <committee type="">Bacote for Delegate</committee>
+    <committee-id type="">1436</committee-id>
+    <committee-url type="" nil="true"></committee-url>
+    <district type="">95</district>
+    <first-name>Mamye</first-name>
+    <id type="integer">52027</id>
+    <incumbent type="">*</incumbent>
+    <last-name>BaCote</last-name>
+    <middle-name nil="true"></middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23605-0154</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">14214 Penrith Ln</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Newport News</city>
+    <committee type="">Bloom for Delegate - John</committee>
+    <committee-id type="">4059</committee-id>
+    <committee-url type=""></committee-url>
+    <district type="">95</district>
+    <first-name>John</first-name>
+    <id type="integer">223060</id>
+    <incumbent type=""></incumbent>
+    <last-name>Bloom</last-name>
+    <middle-name>Bernard</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23602</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 1386</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Yorktown</city>
+    <committee type="">Brenda Pogge for Delegate</committee>
+    <committee-id type="">1422</committee-id>
+    <committee-url type="">www.brendapogge.com/</committee-url>
+    <district type="">96</district>
+    <first-name>Brenda</first-name>
+    <id type="integer">79793</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Pogge</last-name>
+    <middle-name>F</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23692-1386</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 819</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Mechanicsville</city>
+    <committee type="">Friends of Chris Peace</committee>
+    <committee-id type="">1347</committee-id>
+    <committee-url type="">www.chrispeace.com</committee-url>
+    <district type="">97</district>
+    <first-name>Christopher</first-name>
+    <id type="integer">26832</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Peace</last-name>
+    <middle-name>K</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23111-0819</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 928</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Urbanna</city>
+    <committee type="">Hodges for Delegate - Keith</committee>
+    <committee-id type="">3338</committee-id>
+    <committee-url type="">www.votekeithhodges.com</committee-url>
+    <district type="">98</district>
+    <first-name>M</first-name>
+    <id type="integer">54884</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Hodges</last-name>
+    <middle-name>Keith</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">23175</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type=""></address-line-1>
+    <address-line-2 type=""></address-line-2>
+    <chamber type="">House</chamber>
+    <city type=""> </city>
+    <committee type="">Putt for Delegate - Geneva</committee>
+    <committee-id type="">4041</committee-id>
+    <committee-url type=""></committee-url>
+    <district type="">98</district>
+    <first-name>Geneva</first-name>
+    <id type="integer">226594</id>
+    <incumbent type=""></incumbent>
+    <last-name>Putt</last-name>
+    <middle-name>Love</middle-name>
+    <party type="">Independent</party>
+    <state type=""></state>
+    <suffix></suffix>
+    <zip type=""> </zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 358</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Kinsale</city>
+    <committee type="">Ransone for Delegate - Margaret </committee>
+    <committee-id type="">3154</committee-id>
+    <committee-url type="">www.margaretransone.com</committee-url>
+    <district type="">99</district>
+    <first-name>Margaret</first-name>
+    <id type="integer">85821</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Ransone</last-name>
+    <middle-name>Bevans</middle-name>
+    <party type="">Republican</party>
+    <state type="">VA</state>
+    <suffix nil="true"></suffix>
+    <zip type="">22488-0358</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 760</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Accomac</city>
+    <committee type="">Lewis for House of Delegates</committee>
+    <committee-id type="">1135</committee-id>
+    <committee-url type="">www.lynwoodlewis.com</committee-url>
+    <district type="">100</district>
+    <first-name>Lynwood</first-name>
+    <id type="integer">28848</id>
+    <incumbent type="">*</incumbent>
+    <last-name>Lewis</last-name>
+    <middle-name>W</middle-name>
+    <party type="">Democratic</party>
+    <state type="">VA</state>
+    <suffix>Jr</suffix>
+    <zip type="">23301-0760</zip>
+  </candidate>
+  <candidate>
+    <address-line-1 type="">PO Box 8</address-line-1>
+    <address-line-2 type=""> </address-line-2>
+    <chamber type="">House</chamber>
+    <city type="">Hallwood</city>
+    <committee type="">Friends of John W. Smith Jr.</committee>
+    <committee-id type="">2796</committee-id>
+    <committee-url type=""></committee-url>
+    <district type="">100</district>
+    <first-name>John</first-name>
+    <id type="integer">170658</id>
+    <incumbent type=""></incumbent>
+    <last-name>Smith</last-name>
+    <middle-name>W</middle-name>
+    <party type="">Independent</party>
+    <state type="">VA</state>
+    <suffix>Jr</suffix>
+    <zip type="">23359-0008</zip>
+  </candidate>
+</candidates>

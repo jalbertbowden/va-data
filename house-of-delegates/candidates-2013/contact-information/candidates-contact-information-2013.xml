@@ -1,0 +1,2544 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>albert</Author>
+  <LastAuthor>albert</LastAuthor>
+  <LastPrinted>2013-12-03T04:46:34Z</LastPrinted>
+  <Created>2013-12-03T04:46:18Z</Created>
+  <LastSaved>2013-12-03T04:56:04Z</LastSaved>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10035</WindowHeight>
+  <WindowWidth>20115</WindowWidth>
+  <WindowTopX>360</WindowTopX>
+  <WindowTopY>45</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="candidates_contact_information">
+  <Table ss:ExpandedColumnCount="15" ss:ExpandedRowCount="164" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row>
+    <Cell><Data ss:Type="String">id</Data></Cell>
+    <Cell><Data ss:Type="String">chamber</Data></Cell>
+    <Cell><Data ss:Type="String">district</Data></Cell>
+    <Cell><Data ss:Type="String">party</Data></Cell>
+    <Cell><Data ss:Type="String">incumbent</Data></Cell>
+    <Cell><Data ss:Type="String">last_name</Data></Cell>
+    <Cell><Data ss:Type="String">first_name</Data></Cell>
+    <Cell><Data ss:Type="String">middle_name</Data></Cell>
+    <Cell><Data ss:Type="String">suffix</Data></Cell>
+    <Cell><Data ss:Type="String">committee</Data></Cell>
+    <Cell><Data ss:Type="String">address_line_1</Data></Cell>
+    <Cell><Data ss:Type="String">address_line_2</Data></Cell>
+    <Cell><Data ss:Type="String">city</Data></Cell>
+    <Cell><Data ss:Type="String">state</Data></Cell>
+    <Cell><Data ss:Type="String">zip</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">270</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Kilgore</Data></Cell>
+    <Cell><Data ss:Type="String">Terry</Data></Cell>
+    <Cell><Data ss:Type="String">G</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Kilgore for Delegate</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 669</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Gate City</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">24251-0669</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">104159</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Dudenhefer</Data></Cell>
+    <Cell><Data ss:Type="String">L</Data></Cell>
+    <Cell><Data ss:Type="String">Mark</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Dudenhefer for Delegate - Mark</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 1570</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Stafford</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">22555</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">219692</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Futrell</Data></Cell>
+    <Cell><Data ss:Type="String">Michael</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Futrell for Delegate - Michael</Data></Cell>
+    <Cell><Data ss:Type="String">15837 John Diskin Cir</Data></Cell>
+    <Cell ss:Index="13"><Data ss:Type="String">Woodbridge</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">22191</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">167033</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Morefield</Data></Cell>
+    <Cell><Data ss:Type="String">James</Data></Cell>
+    <Cell><Data ss:Type="String">Will</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Morefield for Delegate</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 828</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">North Tazewell</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">24630-0828</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">226592</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">O'Quinn</Data></Cell>
+    <Cell><Data ss:Type="String">James</Data></Cell>
+    <Cell><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">O'Quinn for Delegate - James</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 926</Data></Cell>
+    <Cell ss:Index="13"><Data ss:Type="String">Vansant</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">24656</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">60134</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Chafin</Data></Cell>
+    <Cell><Data ss:Type="String">Ben</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Chafin for Delegate - Ben</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 1210</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Lebanon</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">24266</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">37531</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">O'Quinn</Data></Cell>
+    <Cell><Data ss:Type="String">Israel</Data></Cell>
+    <Cell><Data ss:Type="String">D</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">O'Quinn for Delegate - Israel</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 555</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Harrisonburg</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">22803</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">72457</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Campbell</Data></Cell>
+    <Cell><Data ss:Type="String">Jeffrey</Data></Cell>
+    <Cell><Data ss:Type="String">L</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Campbell for Delegate - Jeff</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 986</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Marion</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">24354</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">226323</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Independent</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Hall</Data></Cell>
+    <Cell><Data ss:Type="String">Barbara</Data></Cell>
+    <Cell><Data ss:Type="String">T</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Hall for Delegate - Barbara</Data></Cell>
+    <Cell ss:Index="13"><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String"> </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">49852</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">McGrady</Data></Cell>
+    <Cell><Data ss:Type="String">Jonathan</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">McGrady for Delegate - Jonathan</Data></Cell>
+    <Cell><Data ss:Type="String">127 Mill St</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Hillsville</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">24343</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">198534</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Rush</Data></Cell>
+    <Cell><Data ss:Type="String">Nick</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Rush for Delegate - Nick</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 1591</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Christiansburg</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">24068-1591</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">229182</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Abraham</Data></Cell>
+    <Cell><Data ss:Type="String">Michael</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Abraham for Delegate - Mike</Data></Cell>
+    <Cell ss:Index="13"><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String"> </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">160808</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Habeeb</Data></Cell>
+    <Cell><Data ss:Type="String">Gregory</Data></Cell>
+    <Cell><Data ss:Type="String">D</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Habeeb For Delegate - Greg</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 882</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Salem</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">24153-0882</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">98360</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Poindexter</Data></Cell>
+    <Cell><Data ss:Type="String">Charles</Data></Cell>
+    <Cell><Data ss:Type="String">D</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Friends of Charles Poindexter</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 117</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Glade Hill</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">24092-0117</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">318</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Minchew</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell><Data ss:Type="String">Randall</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Minchew for Delegate - Randy</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 385</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Leesburg</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">20178-0385</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">219738</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Johnson</Data></Cell>
+    <Cell><Data ss:Type="String">Monte</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Johnson for Delegate - Monte</Data></Cell>
+    <Cell><Data ss:Type="String">525-K East Market St </Data></Cell>
+    <Cell><Data ss:Type="String">Suite 112</Data></Cell>
+    <Cell><Data ss:Type="String">Leesburg</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">20176</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3420</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Ware</Data></Cell>
+    <Cell><Data ss:Type="String">Onzlee</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Ware for House of Delegates</Data></Cell>
+    <Cell><Data ss:Type="String">325 N Jefferson St</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Roanoke</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">24016-1909</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">198250</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Yost</Data></Cell>
+    <Cell><Data ss:Type="String">Joseph</Data></Cell>
+    <Cell><Data ss:Type="String">Ryan</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Yost for Delegate - Joseph</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 621</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Blacksburg</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">24063-0621</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">226403</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Harder</Data></Cell>
+    <Cell><Data ss:Type="String">James</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Harder for Delegate - James</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 494</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Blacksburg</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">24063-0494</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5663</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Marshall</Data></Cell>
+    <Cell><Data ss:Type="String">Robert</Data></Cell>
+    <Cell><Data ss:Type="String">G</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Friends of Delegate Bob Marshall</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 421</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Manassas</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">20108-0421</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">226410</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Qarni</Data></Cell>
+    <Cell><Data ss:Type="String">Atif</Data></Cell>
+    <Cell><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Qarni for Delegate - Atif</Data></Cell>
+    <Cell><Data ss:Type="String">7698 Well St</Data></Cell>
+    <Cell ss:Index="13"><Data ss:Type="String">Manassas</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">20111</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">15110</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Marshall</Data></Cell>
+    <Cell><Data ss:Type="String">Danny</Data></Cell>
+    <Cell><Data ss:Type="String">W</Data></Cell>
+    <Cell><Data ss:Type="String">III</Data></Cell>
+    <Cell><Data ss:Type="String">Danny Marshall Election Committee</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 439</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Danville</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">24543-0439</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">229231</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="String">Independent</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Martin</Data></Cell>
+    <Cell><Data ss:Type="String">Mary</Data></Cell>
+    <Cell><Data ss:Type="String">Scott</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Martin for Delegate - Mary Scott</Data></Cell>
+    <Cell ss:Index="12"><Data ss:Type="String">1276 Cameron Road</Data></Cell>
+    <Cell><Data ss:Type="String">Martinsville</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">24112</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">15663</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Miller</Data></Cell>
+    <Cell><Data ss:Type="String">Gary</Data></Cell>
+    <Cell><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Miller for Delegate - Gary</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 11115</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Danville</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">24543-5019</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">185609</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Gilbert</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Todd</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Gilbert for Delegate</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 309</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Woodstock</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22664-0309</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">223098</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Adams</Data></Cell>
+    <Cell><Data ss:Type="String">Les</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Adams for Delegate - Les</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 459</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Chatham</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">24531</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">229224</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Jones</Data></Cell>
+    <Cell><Data ss:Type="String">Elizabeth</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Jones for Delegate - Elizabeth</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 1177</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Chatham</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">24531</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">162092</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">17</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Head</Data></Cell>
+    <Cell><Data ss:Type="String">Christopher</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Elect Chris Head</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 19130</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Roanoke</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">24019-1013</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">32229</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">17</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Cathcart</Data></Cell>
+    <Cell><Data ss:Type="String">Freeda</Data></Cell>
+    <Cell><Data ss:Type="String">Lynne</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Cathcart for Delegate - Freeda</Data></Cell>
+    <Cell><Data ss:Type="String">1917 Franklin Rd SW</Data></Cell>
+    <Cell><Data ss:Type="String"># 106-A</Data></Cell>
+    <Cell><Data ss:Type="String">Roanoke</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">24014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">198549</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Webert</Data></Cell>
+    <Cell><Data ss:Type="String">Michael</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Webert for Delegate - Michael</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 631</Data></Cell>
+    <Cell ss:Index="13"><Data ss:Type="String">Marshall</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">20116-0631</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">163442</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Harris</Data></Cell>
+    <Cell><Data ss:Type="String">Colin</Data></Cell>
+    <Cell><Data ss:Type="String">Sellers</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Harris for Delegate - Colin</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 170</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">The Plains</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">20198</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">66559</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Austin</Data></Cell>
+    <Cell><Data ss:Type="String">Terry</Data></Cell>
+    <Cell><Data ss:Type="String">L</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Austin for Delegate - Terry</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 398</Data></Cell>
+    <Cell ss:Index="13"><Data ss:Type="String">Buchanan</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">24066-0398</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">94892</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Medlin</Data></Cell>
+    <Cell><Data ss:Type="String">Lewis</Data></Cell>
+    <Cell><Data ss:Type="String">Bain</Data></Cell>
+    <Cell><Data ss:Type="String">Jr</Data></Cell>
+    <Cell><Data ss:Type="String">The Citizens Committee to Elect Lewis Medlin</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 5</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Montvale</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">24122-0005</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">151907</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Bell</Data></Cell>
+    <Cell><Data ss:Type="String">Richard</Data></Cell>
+    <Cell><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Bell for Delegate - Dickie</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 239</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Staunton</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">24402-0239</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">33696</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Villanueva</Data></Cell>
+    <Cell><Data ss:Type="String">Ronald</Data></Cell>
+    <Cell><Data ss:Type="String">A</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Friends of Ron Villanueva</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 61005</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Virginia Beach</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23466-1005</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">200214</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Hippen</Data></Cell>
+    <Cell><Data ss:Type="String">Susan</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Hippen for Delegate - Susan</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 64581</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Virginia Beach</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">23467</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">18300</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">22</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Byron</Data></Cell>
+    <Cell><Data ss:Type="String">Kathy</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Friends of Kathy Byron</Data></Cell>
+    <Cell><Data ss:Type="String">523 Leesville Rd</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Lynchburg</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">24502-2328</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">229065</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">22</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Cyphert</Data></Cell>
+    <Cell><Data ss:Type="String">Katie</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Cyphert for Delegate - Katie</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 11184</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Lynchburg</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">24506</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">70360</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">23</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Garrett</Data></Cell>
+    <Cell><Data ss:Type="String">T</Data></Cell>
+    <Cell><Data ss:Type="String">Scott</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Friends of Scott Garrett</Data></Cell>
+    <Cell><Data ss:Type="String">2255 Langhorne Rd</Data></Cell>
+    <Cell><Data ss:Type="String">STE 4</Data></Cell>
+    <Cell><Data ss:Type="String">Lynchburg</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">24501-1117</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">229320</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">23</Data></Cell>
+    <Cell><Data ss:Type="String">Libertarian</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Parrish</Data></Cell>
+    <Cell><Data ss:Type="String">Jonathan</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Parrish for Delegate - Jonathan</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 1101</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Forest</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">24551</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">53003</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">24</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Cline</Data></Cell>
+    <Cell><Data ss:Type="String">Ben</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Ben Cline for Virginia House of Delegates</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 1405</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Amherst</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">24521-1405</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4666</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Landes</Data></Cell>
+    <Cell><Data ss:Type="String">R</Data></Cell>
+    <Cell><Data ss:Type="String">Steven</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Steve Landes for Delegate Committee</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 12</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Verona</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">24482-0012</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">77401</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Wilt</Data></Cell>
+    <Cell><Data ss:Type="String">Tony</Data></Cell>
+    <Cell><Data ss:Type="String">O</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Wilt For Delegate - Tony</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 1425</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Harrisonburg</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22803-1425</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">76728</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Robinson</Data></Cell>
+    <Cell><Data ss:Type="String">Roxann</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Robinson for Delegate - Roxann</Data></Cell>
+    <Cell><Data ss:Type="String">9409 Hull Street Rd</Data></Cell>
+    <Cell><Data ss:Type="String">STE F1</Data></Cell>
+    <Cell><Data ss:Type="String">Richmond</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23236-1200</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">29</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Howell</Data></Cell>
+    <Cell><Data ss:Type="String">William</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Howell for Delegate</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 8296</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Fredericksburg</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22404-8296</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">214507</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">29</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Berg</Data></Cell>
+    <Cell><Data ss:Type="String">Mark</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Berg for Delegate - Mark</Data></Cell>
+    <Cell><Data ss:Type="String">317 Greenfield Ave</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Winchester</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">22602</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">93923</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">29</Data></Cell>
+    <Cell><Data ss:Type="String">Independent</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Yates</Data></Cell>
+    <Cell><Data ss:Type="String">Larry</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Yates for Delegate - Larry</Data></Cell>
+    <Cell><Data ss:Type="String">678 Berryville Ave</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Winchester</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22601-5665</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">50021</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Scott</Data></Cell>
+    <Cell><Data ss:Type="String">Edward</Data></Cell>
+    <Cell><Data ss:Type="String">T</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Friends of Ed Scott</Data></Cell>
+    <Cell><Data ss:Type="String">206 S Main St</Data></Cell>
+    <Cell><Data ss:Type="String">STE 203</Data></Cell>
+    <Cell><Data ss:Type="String">Culpeper</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22701-3138</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">219458</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Dippert</Data></Cell>
+    <Cell><Data ss:Type="String">Traci</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Dippert for Delegate - Traci</Data></Cell>
+    <Cell><Data ss:Type="String">1621 Addie Ln</Data></Cell>
+    <Cell ss:Index="13"><Data ss:Type="String">Culpeper</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">22701</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">25058</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">31</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Lingamfelter</Data></Cell>
+    <Cell><Data ss:Type="String">L</Data></Cell>
+    <Cell><Data ss:Type="String">Scott</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Friends of Scott Lingamfelter</Data></Cell>
+    <Cell><Data ss:Type="String">5420 Lomax Way</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Woodbridge</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22193-3558</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">49859</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">31</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">McPike</Data></Cell>
+    <Cell><Data ss:Type="String">Jeremy</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">McPike for Delegate - Jeremy</Data></Cell>
+    <Cell><Data ss:Type="String">4491 Cheshire Station Plz</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Woodbridge</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">22193</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">161780</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">32</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Greason</Data></Cell>
+    <Cell><Data ss:Type="String">Thomas</Data></Cell>
+    <Cell><Data ss:Type="String">A</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Friends of Tag Greason</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 427</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Leesburg</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">20178</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">209766</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">32</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Miller</Data></Cell>
+    <Cell><Data ss:Type="String">Elizabeth</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Miller for Delegate - Elizabeth</Data></Cell>
+    <Cell><Data ss:Type="String">21646 Stillbrook Farm Dr</Data></Cell>
+    <Cell ss:Index="13"><Data ss:Type="String">Ashburn</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">20148</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">104140</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Daniel</Data></Cell>
+    <Cell><Data ss:Type="String">Mary</Data></Cell>
+    <Cell><Data ss:Type="String">Costello</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Daniel for Delegate - Mary</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 798</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Berryville</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">22611</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">229084</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+    <Cell><Data ss:Type="String">Libertarian</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Hagerty</Data></Cell>
+    <Cell><Data ss:Type="String">Patrick</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Hagerty for Delegate - Patrick</Data></Cell>
+    <Cell ss:Index="13"><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String"> </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">43383</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">LaRock</Data></Cell>
+    <Cell><Data ss:Type="String">David</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">LaRock for Delegate - Dave</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 6</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Hamilton</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">20159</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">67243</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">34</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Comstock</Data></Cell>
+    <Cell><Data ss:Type="String">Barbara</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Friends of Barbara Comstock</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 6156</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Mc Lean</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22106-6156</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">23836</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">34</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Murphy</Data></Cell>
+    <Cell><Data ss:Type="String">Kathleen</Data></Cell>
+    <Cell><Data ss:Type="String">Johnson</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Murphy for Delegate - Kathleen</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 146</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Mc Lean</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22101-0146</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">159357</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Keam</Data></Cell>
+    <Cell><Data ss:Type="String">Mark</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Keam for Delegate</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 1134</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Vienna</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22183-1134</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">229338</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Luse</Data></Cell>
+    <Cell><Data ss:Type="String">Leiann</Data></Cell>
+    <Cell><Data ss:Type="String">L</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Luse for Delegate - Leiann</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 226</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Dunn Loring</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22027-0226</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">37</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">36</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Plum</Data></Cell>
+    <Cell><Data ss:Type="String">Kenneth</Data></Cell>
+    <Cell><Data ss:Type="String">R</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Friends of Delegate Ken Plum</Data></Cell>
+    <Cell><Data ss:Type="String">2073 Cobblestone Ln</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Reston</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">20191-4039</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">24155</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">37</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Bulova</Data></Cell>
+    <Cell><Data ss:Type="String">David</Data></Cell>
+    <Cell><Data ss:Type="String">L</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Friends of David Bulova</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 106</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Fairfax Station</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22039-0106</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">109638</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">37</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Winter</Data></Cell>
+    <Cell><Data ss:Type="String">Patrice</Data></Cell>
+    <Cell><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Winter for Delegate - Patrice</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 3277</Data></Cell>
+    <Cell ss:Index="13"><Data ss:Type="String">Fairfax</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">22038</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">19917</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">38</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Kory</Data></Cell>
+    <Cell><Data ss:Type="String">L</Data></Cell>
+    <Cell><Data ss:Type="String">Kaye</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Kory for Delegate</Data></Cell>
+    <Cell><Data ss:Type="String">6505 Waterway Dr</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Falls Church</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22044-1328</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">169353</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">38</Data></Cell>
+    <Cell><Data ss:Type="String">Independent Green</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Leslie</Data></Cell>
+    <Cell><Data ss:Type="String">James</Data></Cell>
+    <Cell><Data ss:Type="String">L</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Leslie for Delegate - James</Data></Cell>
+    <Cell><Data ss:Type="String">4399 Medford Dr</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Annandale</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22003-5611</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">462</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">39</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Watts</Data></Cell>
+    <Cell><Data ss:Type="String">Vivian</Data></Cell>
+    <Cell><Data ss:Type="String">E</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Watts for Delegate</Data></Cell>
+    <Cell><Data ss:Type="String">8717 Mary Lee Ln</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Annandale</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22003-3659</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4365</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Hugo</Data></Cell>
+    <Cell><Data ss:Type="String">Timothy</Data></Cell>
+    <Cell><Data ss:Type="String">D</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Friends of Tim Hugo</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 893</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Centreville</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">20122-0893</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">77279</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Foltz</Data></Cell>
+    <Cell><Data ss:Type="String">Jerrold</Data></Cell>
+    <Cell><Data ss:Type="String">Lee</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Foltz for Delegate - Jerrold</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 231211</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Centreville</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">20120-7211</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">28044</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">41</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Filler-Corn</Data></Cell>
+    <Cell><Data ss:Type="String">Eileen</Data></Cell>
+    <Cell><Data ss:Type="String">R</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Filler-Corn for Delegate - Eileen</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 523082</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Springfield</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22152-5082</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">203303</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">41</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Burgos</Data></Cell>
+    <Cell><Data ss:Type="String">Fredy</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Burgos for Delegate - Fredy (Rep)</Data></Cell>
+    <Cell><Data ss:Type="String">6132 Covered Bridge Rd</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Burke</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">22015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">95595</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">41</Data></Cell>
+    <Cell><Data ss:Type="String">Independent</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">DeCarlo</Data></Cell>
+    <Cell><Data ss:Type="String">Christopher</Data></Cell>
+    <Cell><Data ss:Type="String">F</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">DeCarlo for Delegate - Christopher F</Data></Cell>
+    <Cell><Data ss:Type="String">8706 Duvall St</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Fairfax</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22031-2711</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5317</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">42</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Albo</Data></Cell>
+    <Cell><Data ss:Type="String">David</Data></Cell>
+    <Cell><Data ss:Type="String">B</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Dave Albo for Delegate</Data></Cell>
+    <Cell><Data ss:Type="String">6367 Rolling Mill Pl</Data></Cell>
+    <Cell><Data ss:Type="String">STE 102</Data></Cell>
+    <Cell><Data ss:Type="String">Springfield</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22152-2360</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">215750</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">42</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Deitsch</Data></Cell>
+    <Cell><Data ss:Type="String">Ed</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Deitsch for House of Delegates - Ed</Data></Cell>
+    <Cell><Data ss:Type="String">8820 Sweet Gum Pl</Data></Cell>
+    <Cell ss:Index="13"><Data ss:Type="String">Springfield</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">22153</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">399</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">43</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Sickles</Data></Cell>
+    <Cell><Data ss:Type="String">Mark</Data></Cell>
+    <Cell><Data ss:Type="String">D</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Sickles for Delegate</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 10628</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Alexandria</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22310-0628</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">69272</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">43</Data></Cell>
+    <Cell><Data ss:Type="String">Independent Green</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Parker</Data></Cell>
+    <Cell><Data ss:Type="String">Glenda</Data></Cell>
+    <Cell><Data ss:Type="String">Gail</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Glenda Gail Parker</Data></Cell>
+    <Cell><Data ss:Type="String">5904 Mount Eagle Dr</Data></Cell>
+    <Cell><Data ss:Type="String">APT 506</Data></Cell>
+    <Cell><Data ss:Type="String">Alexandria</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22303-2537</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">39301</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">44</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Surovell</Data></Cell>
+    <Cell><Data ss:Type="String">Scott</Data></Cell>
+    <Cell><Data ss:Type="String">A</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Surovell for Delegate - Scott A</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 289</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Mount Vernon</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22121-0289</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">203317</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">44</Data></Cell>
+    <Cell><Data ss:Type="String">Independent</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Glean</Data></Cell>
+    <Cell><Data ss:Type="String">Joseph</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Glean for Delegate - Joseph</Data></Cell>
+    <Cell><Data ss:Type="String">8610 Washington Ave</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Alexandria</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">22309</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">56991</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Krupicka</Data></Cell>
+    <Cell><Data ss:Type="String">K</Data></Cell>
+    <Cell><Data ss:Type="String">Rob</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Krupicka for Delegate - Rob</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 25455</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Alexandria</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">22313</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">223078</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="String">Independent</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Engle</Data></Cell>
+    <Cell><Data ss:Type="String">Jeff</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Engle for Delegate - Jeff</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 2861</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Alexandria</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">22301</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">65422</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">46</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Herring</Data></Cell>
+    <Cell><Data ss:Type="String">Charniele</Data></Cell>
+    <Cell><Data ss:Type="String">L</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Friends of Charniele Herring</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 11779</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Alexandria</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22312-0779</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">158293</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Hope</Data></Cell>
+    <Cell><Data ss:Type="String">Patrick</Data></Cell>
+    <Cell><Data ss:Type="String">A</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Friends of Patrick Hope</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 3148</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Arlington</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22203-8148</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">204847</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+    <Cell><Data ss:Type="String">Libertarian</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Delhomme</Data></Cell>
+    <Cell><Data ss:Type="String">Laura</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Delhomme for Delegate - Laura</Data></Cell>
+    <Cell><Data ss:Type="String">1735 Fairfax Dr</Data></Cell>
+    <Cell ss:Index="13"><Data ss:Type="String">Arlington</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">22209</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1210</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">48</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Brink</Data></Cell>
+    <Cell><Data ss:Type="String">Robert</Data></Cell>
+    <Cell><Data ss:Type="String">H</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Re-Elect Delegate Bob Brink</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 7668</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Arlington</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22207-0668</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">59777</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">49</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Lopez</Data></Cell>
+    <Cell><Data ss:Type="String">Alfonso</Data></Cell>
+    <Cell><Data ss:Type="String">H</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Lopez for Delegate - Alfonso</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 40366</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Arlington</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22204-7366</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">223095</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">49</Data></Cell>
+    <Cell><Data ss:Type="String">Independent Green</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Modglin</Data></Cell>
+    <Cell><Data ss:Type="String">Terrence</Data></Cell>
+    <Cell><Data ss:Type="String">Wayne</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Modglin for Delegate - Terry</Data></Cell>
+    <Cell><Data ss:Type="String">6001 Arlington Blvd</Data></Cell>
+    <Cell><Data ss:Type="String">Apt 602</Data></Cell>
+    <Cell><Data ss:Type="String">Falls Church</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">22044</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">60848</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Miller</Data></Cell>
+    <Cell><Data ss:Type="String">Jackson</Data></Cell>
+    <Cell><Data ss:Type="String">H</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Miller for Delegate</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 10072</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Manassas</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">20108-0632</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">226254</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Cabellos</Data></Cell>
+    <Cell><Data ss:Type="String">Richard</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Cabellos for Delegate - Richard</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 10089</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Manassas</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">20108-0649</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">87230</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">51</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Anderson</Data></Cell>
+    <Cell><Data ss:Type="String">Richard</Data></Cell>
+    <Cell><Data ss:Type="String">L</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Friends of Rich Anderson</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 7926</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Woodbridge</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22195-7926</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">223035</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">51</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Heddleston</Data></Cell>
+    <Cell><Data ss:Type="String">Roy</Data></Cell>
+    <Cell><Data ss:Type="String">Reed</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Heddleston for Delegate - Reed</Data></Cell>
+    <Cell><Data ss:Type="String">4329 Wensley Ct</Data></Cell>
+    <Cell ss:Index="13"><Data ss:Type="String">Woodbridge</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22192-5546</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">161769</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Torian</Data></Cell>
+    <Cell><Data ss:Type="String">Luke</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Friends of Luke Torian</Data></Cell>
+    <Cell><Data ss:Type="String">4222 Fortuna Center Plz</Data></Cell>
+    <Cell><Data ss:Type="String">Ste 659</Data></Cell>
+    <Cell><Data ss:Type="String">Dumfries</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22025-1515</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">67685</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Simon</Data></Cell>
+    <Cell><Data ss:Type="String">Marcus</Data></Cell>
+    <Cell><Data ss:Type="String">B</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Simon for Delegate - Marcus</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 958</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Falls Church</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">22040</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">226250</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="String">Libertarian</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Tellez</Data></Cell>
+    <Cell><Data ss:Type="String">Anthony</Data></Cell>
+    <Cell><Data ss:Type="String">Gabriel</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Tellez for Delegate - Anthony</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 6202</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Falls Church</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">22040</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">229222</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Tidwell</Data></Cell>
+    <Cell><Data ss:Type="String">Brad</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Tidwell for Delegate - Brad</Data></Cell>
+    <Cell><Data ss:Type="String">500 Roosevelt Blvd</Data></Cell>
+    <Cell><Data ss:Type="String">Apt 521</Data></Cell>
+    <Cell><Data ss:Type="String">Falls Church</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">22044</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5461</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Orrock</Data></Cell>
+    <Cell><Data ss:Type="String">Robert</Data></Cell>
+    <Cell><Data ss:Type="String">D</Data></Cell>
+    <Cell><Data ss:Type="String">Sr</Data></Cell>
+    <Cell><Data ss:Type="String">Orrock for House</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 458</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Thornburg</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22565-0458</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">14681</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Fowler</Data></Cell>
+    <Cell><Data ss:Type="String">Hyland</Data></Cell>
+    <Cell><Data ss:Type="String">F</Data></Cell>
+    <Cell><Data ss:Type="String">Jr</Data></Cell>
+    <Cell><Data ss:Type="String">Fowler for Delegate - Buddy</Data></Cell>
+    <Cell><Data ss:Type="String">9073 Auburn Grove Ct</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Mechanicsville</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">23116</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">226470</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Radler</Data></Cell>
+    <Cell><Data ss:Type="String">Toni</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Radler for Delegate - Toni</Data></Cell>
+    <Cell><Data ss:Type="String">125 Thompson Street </Data></Cell>
+    <Cell><Data ss:Type="String">Suite B</Data></Cell>
+    <Cell><Data ss:Type="String">Ashland</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">23005</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">223131</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String">Libertarian</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Sullivan</Data></Cell>
+    <Cell><Data ss:Type="String">Christopher</Data></Cell>
+    <Cell><Data ss:Type="String">Gregory</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Sullivan for Delegate - Chris</Data></Cell>
+    <Cell><Data ss:Type="String">15396 Beaver Den Ln</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Beaverdam</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">23015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">205491</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">56</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Farrell</Data></Cell>
+    <Cell><Data ss:Type="String">Peter</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Farrell for Delegate - Peter</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 87</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Richmond</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23218-0087</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6713</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">57</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Toscano</Data></Cell>
+    <Cell><Data ss:Type="String">David</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Toscano 2005</Data></Cell>
+    <Cell><Data ss:Type="String">211 E High St</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Charlottesville</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22902-5515</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">33167</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">58</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Bell</Data></Cell>
+    <Cell><Data ss:Type="String">Robert</Data></Cell>
+    <Cell><Data ss:Type="String">B</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Friends of Rob Bell for Delegate</Data></Cell>
+    <Cell><Data ss:Type="String">2309 Finch Ct</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Charlottesville</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22911-8391</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">198425</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">59</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Fariss</Data></Cell>
+    <Cell><Data ss:Type="String">Matt</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Fariss for Delegate - Matt</Data></Cell>
+    <Cell><Data ss:Type="String">243-C Livestock Rd</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Rustburg</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">24588</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">83615</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Edmunds</Data></Cell>
+    <Cell><Data ss:Type="String">James</Data></Cell>
+    <Cell><Data ss:Type="String">E</Data></Cell>
+    <Cell><Data ss:Type="String">II</Data></Cell>
+    <Cell><Data ss:Type="String">Friends of James Edmunds</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 1115</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Halifax</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">24558-1115</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">43354</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Hendricks</Data></Cell>
+    <Cell><Data ss:Type="String">Jasper</Data></Cell>
+    <Cell><Data ss:Type="String">L</Data></Cell>
+    <Cell><Data ss:Type="String">III</Data></Cell>
+    <Cell><Data ss:Type="String">Hendricks for Delegate - Jasper</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 764</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Farmville</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">23901</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1805</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">61</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Wright</Data></Cell>
+    <Cell><Data ss:Type="String">Thomas</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Jr</Data></Cell>
+    <Cell><Data ss:Type="String">Wright for Delegate</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 1323</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Victoria</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23974-1323</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">62</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Ingram</Data></Cell>
+    <Cell><Data ss:Type="String">Riley</Data></Cell>
+    <Cell><Data ss:Type="String">E</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Ingram for Delegate</Data></Cell>
+    <Cell><Data ss:Type="String">3302 Oaklawn Blvd</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Hopewell</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23860-4704</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">16220</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">63</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Dance</Data></Cell>
+    <Cell><Data ss:Type="String">Rosalyn</Data></Cell>
+    <Cell><Data ss:Type="String">R</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Dance for Delegate</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 2584</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Petersburg</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23804-2584</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">167866</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">64</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Morris</Data></Cell>
+    <Cell><Data ss:Type="String">Richard</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Morris for Delegate - Rick</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 128</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Carrollton</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23314-0128</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">25934</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">65</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Ware</Data></Cell>
+    <Cell><Data ss:Type="String">R</Data></Cell>
+    <Cell><Data ss:Type="String">Lee</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Friends of Lee Ware</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 689</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Powhatan</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23139-0689</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">106564</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">65</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Quarles</Data></Cell>
+    <Cell><Data ss:Type="String">William</Data></Cell>
+    <Cell><Data ss:Type="String">E</Data></Cell>
+    <Cell><Data ss:Type="String">Jr</Data></Cell>
+    <Cell><Data ss:Type="String">Quarles for Delegate - William E</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 98</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Goochland</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23063-0098</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5631</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">66</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Cox</Data></Cell>
+    <Cell><Data ss:Type="String">M</Data></Cell>
+    <Cell><Data ss:Type="String">Kirkland</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Friends of Kirk Cox</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 1205</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Colonial Heights</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23834-9205</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">86003</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">67</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">LeMunyon</Data></Cell>
+    <Cell><Data ss:Type="String">James</Data></Cell>
+    <Cell><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">LeMunyon for Delegate</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 220962</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Chantilly</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">20153-0962</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">219359</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">67</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Nguyen</Data></Cell>
+    <Cell><Data ss:Type="String">Hung</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Nguyen for Delegate - Hung</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 283</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Burke</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22009-0283</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">75476</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">68</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Loupassi</Data></Cell>
+    <Cell><Data ss:Type="String">Manoli</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Friends of Manoli Loupassi</Data></Cell>
+    <Cell><Data ss:Type="String">6002 W Broad St</Data></Cell>
+    <Cell><Data ss:Type="String">Ste A200</Data></Cell>
+    <Cell><Data ss:Type="String">Richmond</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23230-2213</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4846</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">68</Data></Cell>
+    <Cell><Data ss:Type="String">Independent</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Grogan</Data></Cell>
+    <Cell><Data ss:Type="String">William</Data></Cell>
+    <Cell><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Grogan for Delegate - William</Data></Cell>
+    <Cell><Data ss:Type="String">206 E Cary St</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Richmond</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23219-3737</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">53134</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">69</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Carr</Data></Cell>
+    <Cell><Data ss:Type="String">Betsy</Data></Cell>
+    <Cell><Data ss:Type="String">Brooks</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Betsy Carr for Virginia</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 406</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Richmond</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23218-0406</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">229322</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">69</Data></Cell>
+    <Cell><Data ss:Type="String">Independent</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Barnett</Data></Cell>
+    <Cell><Data ss:Type="String">Bob</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Barnett for Delegate - Bob</Data></Cell>
+    <Cell><Data ss:Type="String">3600 Anne St</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Richmond</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">23225</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">33585</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">70</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">McQuinn</Data></Cell>
+    <Cell><Data ss:Type="String">Delores</Data></Cell>
+    <Cell><Data ss:Type="String">L</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">McQuinn for the 70th District House of Delegates</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 406</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Richmond</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23218-0406</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">35804</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">71</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">McClellan</Data></Cell>
+    <Cell><Data ss:Type="String">Jennifer</Data></Cell>
+    <Cell><Data ss:Type="String">L</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Friends of Jennifer McClellan</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 47</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Richmond</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23218-0047</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">226589</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">71</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Fitch</Data></Cell>
+    <Cell><Data ss:Type="String">Matt</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Fitch for Delegate - Matt</Data></Cell>
+    <Cell ss:Index="13"><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String"> </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6600</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">72</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Massie</Data></Cell>
+    <Cell><Data ss:Type="String">James</Data></Cell>
+    <Cell><Data ss:Type="String">P</Data></Cell>
+    <Cell><Data ss:Type="String">III</Data></Cell>
+    <Cell><Data ss:Type="String">Massie for Delegate</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 29598</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Henrico</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23242-0598</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">338</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">73</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">O'Bannon</Data></Cell>
+    <Cell><Data ss:Type="String">John</Data></Cell>
+    <Cell><Data ss:Type="String">M</Data></Cell>
+    <Cell><Data ss:Type="String">III</Data></Cell>
+    <Cell><Data ss:Type="String">Obannon for House 2003</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 70365</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Henrico</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23255-0365</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5431</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">74</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Morrissey</Data></Cell>
+    <Cell><Data ss:Type="String">Joseph</Data></Cell>
+    <Cell><Data ss:Type="String">D</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Morrissey for Delegate</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 406</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Richmond</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23218-0406</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">79002</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">75</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Tyler</Data></Cell>
+    <Cell><Data ss:Type="String">Roslyn</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Tylers Campaign Committee</Data></Cell>
+    <Cell><Data ss:Type="String">25359 Blue Star Hwy</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Jarratt</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23867-8118</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">198289</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">75</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Peschke</Data></Cell>
+    <Cell><Data ss:Type="String">Al</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Peschke for Delegate - Al</Data></Cell>
+    <Cell><Data ss:Type="String">37219 Old Wakefield Rd</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Wakefield</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">23888</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">26133</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">76</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Jones</Data></Cell>
+    <Cell><Data ss:Type="String">S</Data></Cell>
+    <Cell><Data ss:Type="String">Chris</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Friends of Chris Jones</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 5059</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Suffolk</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23435-0059</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3759</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">77</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Spruill</Data></Cell>
+    <Cell><Data ss:Type="String">Lionell</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Sr</Data></Cell>
+    <Cell><Data ss:Type="String">Spruill for House</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 5403</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Chesapeake</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23324-0403</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">226379</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">78</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Bryant</Data></Cell>
+    <Cell><Data ss:Type="String">Linda</Data></Cell>
+    <Cell><Data ss:Type="String">L</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Bryant for Delegate - Linda</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 2121</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Chesapeake</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">23327</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">226360</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">78</Data></Cell>
+    <Cell><Data ss:Type="String">Libertarian</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Foster</Data></Cell>
+    <Cell><Data ss:Type="String">Daniel</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Foster for Delegate - Daniel</Data></Cell>
+    <Cell><Data ss:Type="String">1143 Long Ridge Rd</Data></Cell>
+    <Cell ss:Index="13"><Data ss:Type="String">Chesapeake</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23322-1472</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">25120</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">78</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Leftwich</Data></Cell>
+    <Cell><Data ss:Type="String">James</Data></Cell>
+    <Cell><Data ss:Type="String">A</Data></Cell>
+    <Cell><Data ss:Type="String">Jr</Data></Cell>
+    <Cell><Data ss:Type="String">Leftwich for Delegate - Jay</Data></Cell>
+    <Cell><Data ss:Type="String">308 Cedar Lakes Drive</Data></Cell>
+    <Cell ss:Index="13"><Data ss:Type="String">Chesapeake</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">23322</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">43497</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">78</Data></Cell>
+    <Cell><Data ss:Type="String">Independent</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">VanNorman</Data></Cell>
+    <Cell><Data ss:Type="String">Brent</Data></Cell>
+    <Cell><Data ss:Type="String">L</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">VanNorman for Delegate - Brent</Data></Cell>
+    <Cell><Data ss:Type="String">833 Redleafe Cir</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Chesapeake</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">23320</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4734</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">79</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Joannou</Data></Cell>
+    <Cell><Data ss:Type="String">Johnny</Data></Cell>
+    <Cell><Data ss:Type="String">S</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Joannou Campaign</Data></Cell>
+    <Cell><Data ss:Type="String">709 Court St</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Portsmouth</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23704-3625</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">162405</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">80</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">James</Data></Cell>
+    <Cell><Data ss:Type="String">Matthew</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Matthew James for House of Delegates</Data></Cell>
+    <Cell><Data ss:Type="String">25 Early Dr</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Portsmouth</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">23701</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">87338</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">81</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Knight</Data></Cell>
+    <Cell><Data ss:Type="String">Barry</Data></Cell>
+    <Cell><Data ss:Type="String">D</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Knight for Delegate - Barry D</Data></Cell>
+    <Cell><Data ss:Type="String">1852 Mill Landing Rd</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Virginia Beach</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23457-1414</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">50639</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">82</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">DeSteph</Data></Cell>
+    <Cell><Data ss:Type="String">William</Data></Cell>
+    <Cell><Data ss:Type="String">Robert</Data></Cell>
+    <Cell><Data ss:Type="String">Jr</Data></Cell>
+    <Cell><Data ss:Type="String">DeSteph for Delegate - Bill</Data></Cell>
+    <Cell><Data ss:Type="String">588 Central Dr</Data></Cell>
+    <Cell ss:Index="13"><Data ss:Type="String">Virginia Beach</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">23454</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">152714</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">82</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Fleming</Data></Cell>
+    <Cell><Data ss:Type="String">William</Data></Cell>
+    <Cell><Data ss:Type="String">Weathers</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Fleming for Delegate - Bill</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 4201</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Virginia Beach</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23454-0201</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">93007</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">83</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Stolle</Data></Cell>
+    <Cell><Data ss:Type="String">Christopher</Data></Cell>
+    <Cell><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Friends of Chris Stolle</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 5429</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Virginia Beach</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23471-0429</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">84659</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">84</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Davis</Data></Cell>
+    <Cell><Data ss:Type="String">Glenn</Data></Cell>
+    <Cell><Data ss:Type="String">R</Data></Cell>
+    <Cell><Data ss:Type="String">Jr</Data></Cell>
+    <Cell><Data ss:Type="String">Davis for Delegate - Glenn</Data></Cell>
+    <Cell><Data ss:Type="String">1081 19th St</Data></Cell>
+    <Cell><Data ss:Type="String">Ste 201</Data></Cell>
+    <Cell><Data ss:Type="String">Virginia Beach</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">23451</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">76393</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">84</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">McKenzie</Data></Cell>
+    <Cell><Data ss:Type="String">Brent</Data></Cell>
+    <Cell><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">McKenzie for Delegate - Brent</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 10456</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Virginia Beach</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">23450</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">215377</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">85</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Dale</Data></Cell>
+    <Cell><Data ss:Type="String">William</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Dale for Delegate - Bill</Data></Cell>
+    <Cell><Data ss:Type="String">733 Pinebrook Dr</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Virginia Beach</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">23462</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">151897</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">85</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Taylor</Data></Cell>
+    <Cell><Data ss:Type="String">Scott</Data></Cell>
+    <Cell><Data ss:Type="String">W</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Taylor for Delegate - Scott</Data></Cell>
+    <Cell><Data ss:Type="String">468 Euclid Rd</Data></Cell>
+    <Cell><Data ss:Type="String">Suite 105</Data></Cell>
+    <Cell><Data ss:Type="String">Virginia Beach</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">23462</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">15849</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">86</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Rust</Data></Cell>
+    <Cell><Data ss:Type="String">Thomas</Data></Cell>
+    <Cell><Data ss:Type="String">D</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Friends of Tom Rust</Data></Cell>
+    <Cell><Data ss:Type="String">730 Elden St</Data></Cell>
+    <Cell ss:Index="13"><Data ss:Type="String">Herndon</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">20170-4676</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">82434</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">86</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Boysko</Data></Cell>
+    <Cell><Data ss:Type="String">Jennifer</Data></Cell>
+    <Cell><Data ss:Type="String">Barton</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Boysko for Delegate - Jennifer</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 247</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Herndon</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">20172</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">155416</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">87</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Ramadan</Data></Cell>
+    <Cell><Data ss:Type="String">David</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Ramadan for Delegate - David</Data></Cell>
+    <Cell><Data ss:Type="String">23465 Rock Haven Way</Data></Cell>
+    <Cell><Data ss:Type="String"># 105A</Data></Cell>
+    <Cell><Data ss:Type="String">Sterling</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">20166</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">161767</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">87</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Bell</Data></Cell>
+    <Cell><Data ss:Type="String">John</Data></Cell>
+    <Cell><Data ss:Type="String">J</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">John Bell for the 13th District House of Delegates</Data></Cell>
+    <Cell><Data ss:Type="String">43145 Valiant Dr</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Chantilly</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">20152</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">35256</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">88</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Cole</Data></Cell>
+    <Cell><Data ss:Type="String">Mark</Data></Cell>
+    <Cell><Data ss:Type="String">L</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mark Cole for Delegate</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 6046</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Fredericksburg</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">22403</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">226481</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">88</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">O'Halloran</Data></Cell>
+    <Cell><Data ss:Type="String">Kathleen</Data></Cell>
+    <Cell><Data ss:Type="String">T</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">O'Halloran for Delegate</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 1231</Data></Cell>
+    <Cell ss:Index="13"><Data ss:Type="String">Spotsylvania</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">22553</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">80720</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">89</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Hester</Data></Cell>
+    <Cell><Data ss:Type="String">Daun</Data></Cell>
+    <Cell><Data ss:Type="String">Sessoms</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Hester for Delegate - Daun</Data></Cell>
+    <Cell><Data ss:Type="String">1751 Church St</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Norfolk</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23504-2313</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">56472</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">90</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Howell</Data></Cell>
+    <Cell><Data ss:Type="String">Algie</Data></Cell>
+    <Cell><Data ss:Type="String">T</Data></Cell>
+    <Cell><Data ss:Type="String">Jr</Data></Cell>
+    <Cell><Data ss:Type="String">Algie Howell  Jr. for House of Delegates</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 12865</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Norfolk</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23541-0865</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">74818</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">91</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Helsel</Data></Cell>
+    <Cell><Data ss:Type="String">Gordon</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Jr</Data></Cell>
+    <Cell><Data ss:Type="String">Helsel for Delegate - Gordon (Rep)</Data></Cell>
+    <Cell><Data ss:Type="String">2 Victory Blvd</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Poquoson</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">23662</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">67410</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">92</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Ward</Data></Cell>
+    <Cell><Data ss:Type="String">Jeion</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">J. Ward for Delegate</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 7310</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Hampton</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23666-0310</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">167560</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">93</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Watson</Data></Cell>
+    <Cell><Data ss:Type="String">Michael</Data></Cell>
+    <Cell><Data ss:Type="String">B</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Watson for Delegate - Mike</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 6628</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Williamsburg</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23188-5227</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">83157</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">93</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Mason</Data></Cell>
+    <Cell><Data ss:Type="String">Taylor</Data></Cell>
+    <Cell><Data ss:Type="String">Montgomery</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Mason for Delegate - Monty</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 232</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Williamsburg</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23187-0232</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">165088</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">94</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Yancey</Data></Cell>
+    <Cell><Data ss:Type="String">David</Data></Cell>
+    <Cell><Data ss:Type="String">E</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Yancey for Delegate - David</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 1163</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Newport News</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23601-0163</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">223037</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">94</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Farinholt</Data></Cell>
+    <Cell><Data ss:Type="String">Robert</Data></Cell>
+    <Cell><Data ss:Type="String">Craig</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Farinholt for Delegate - Robert</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 120423</Data></Cell>
+    <Cell ss:Index="13"><Data ss:Type="String">Newport News</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23612-0423</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">52027</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">BaCote</Data></Cell>
+    <Cell><Data ss:Type="String">Mamye</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Bacote for Delegate</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 5154</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Newport News</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23605-0154</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">223060</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Bloom</Data></Cell>
+    <Cell><Data ss:Type="String">John</Data></Cell>
+    <Cell><Data ss:Type="String">Bernard</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Bloom for Delegate - John</Data></Cell>
+    <Cell><Data ss:Type="String">14214 Penrith Ln</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Newport News</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">23602</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">79793</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">96</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Pogge</Data></Cell>
+    <Cell><Data ss:Type="String">Brenda</Data></Cell>
+    <Cell><Data ss:Type="String">F</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Brenda Pogge for Delegate</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 1386</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Yorktown</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23692-1386</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">26832</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">97</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Peace</Data></Cell>
+    <Cell><Data ss:Type="String">Christopher</Data></Cell>
+    <Cell><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Friends of Chris Peace</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 819</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Mechanicsville</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23111-0819</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">54884</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">98</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Hodges</Data></Cell>
+    <Cell><Data ss:Type="String">M</Data></Cell>
+    <Cell><Data ss:Type="String">Keith</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Hodges for Delegate - Keith</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 928</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Urbanna</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="Number">23175</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">226594</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">98</Data></Cell>
+    <Cell><Data ss:Type="String">Independent</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Putt</Data></Cell>
+    <Cell><Data ss:Type="String">Geneva</Data></Cell>
+    <Cell><Data ss:Type="String">Love</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Putt for Delegate - Geneva</Data></Cell>
+    <Cell ss:Index="13"><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String"> </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">85821</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">99</Data></Cell>
+    <Cell><Data ss:Type="String">Republican</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Ransone</Data></Cell>
+    <Cell><Data ss:Type="String">Margaret</Data></Cell>
+    <Cell><Data ss:Type="String">Bevans</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Ransone for Delegate - Margaret </Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 358</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Kinsale</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">22488-0358</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">28848</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">Democratic</Data></Cell>
+    <Cell><Data ss:Type="String">*</Data></Cell>
+    <Cell><Data ss:Type="String">Lewis</Data></Cell>
+    <Cell><Data ss:Type="String">Lynwood</Data></Cell>
+    <Cell><Data ss:Type="String">W</Data></Cell>
+    <Cell><Data ss:Type="String">Jr</Data></Cell>
+    <Cell><Data ss:Type="String">Lewis for House of Delegates</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 760</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Accomac</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23301-0760</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">170658</Data></Cell>
+    <Cell><Data ss:Type="String">House</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">Independent</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Smith</Data></Cell>
+    <Cell><Data ss:Type="String">John</Data></Cell>
+    <Cell><Data ss:Type="String">W</Data></Cell>
+    <Cell><Data ss:Type="String">Jr</Data></Cell>
+    <Cell><Data ss:Type="String">Friends of John W. Smith Jr.</Data></Cell>
+    <Cell><Data ss:Type="String">PO Box 8</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Hallwood</Data></Cell>
+    <Cell><Data ss:Type="String">VA</Data></Cell>
+    <Cell><Data ss:Type="String">23359-0008</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
