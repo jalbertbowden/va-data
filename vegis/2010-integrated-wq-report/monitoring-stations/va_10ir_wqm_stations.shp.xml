@@ -1,0 +1,1511 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Virginia Department of Environmental Quality</origin>
+				<pubdate>December 2010</pubdate>
+				<title Sync="TRUE">va_10ir_wqm_stations</title>
+				<edition>final</edition>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink>http://www.deq.virginia.gov/wqa/gisdata/ir2010gis.zip</onlink>
+				<ftname Sync="TRUE">va_10ir_wqm_stations</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>Virginia's 2010 Water Quality Monitoring Stations</abstract>
+			<purpose>Show all monitoring stations used in the 2010 Virginia 305(b)/303(d) Water Quality Assessment Integrated Report.</purpose>
+			<langdata>English</langdata><supplinf>This dataset is supplemental GIS data to the 2010 Virginia 305(b)/303(d) Water Quality Assessment Integrated Report, the 2010 Assessment Unit hydrology geodatabse (va_10ir_aus_all.mdb) and the regionally significant VPDES facilities shapefile (va_10ir_vpdes_facilities.shp).</supplinf></descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>January 1, 2003</begdate>
+					<enddate>December 31, 2008</enddate>
+				</rngdates>
+			</timeinfo>
+			<current>November 2010</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-83.732792</westbc>
+				<eastbc Sync="TRUE">-75.223792</eastbc>
+				<northbc Sync="TRUE">39.441260</northbc>
+				<southbc Sync="TRUE">36.462338</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">-364629.568395</leftbc><rightbc Sync="TRUE">368374.847456</rightbc><bottombc Sync="TRUE">59503.926279</bottombc><topbc Sync="TRUE">381932.540187</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>none</themekt>
+				<themekey>monitoring stations</themekey>
+				<themekey>water quality monitoring</themekey>
+				<themekey>assessment monitoring</themekey>
+				<themekey>303d</themekey>
+				<themekey>305b</themekey>
+				<themekey>ambient monitoring</themekey>
+				<themekey>fish tissue monitoring</themekey>
+				<themekey>citizen monitoring</themekey>
+				<themekey>benthic monitoring</themekey>
+				<themekey>bacteria sampling</themekey>
+				<themekey>bay monitoring</themekey>
+				<themekey>lake monitoring</themekey>
+			</theme>
+		</keywords>
+		<accconst>none</accconst>
+		<useconst>Point locations and attributes should not be altered except by the developer (VA DEQ).  This dataset constitutes the EPA approved digital version of the suite of all monitoring sites used in the current water quality assessment for Virginia. Crediting the Virginia Department of Environmental Quality as data source is requested.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Cleo L. Stevens</cntper>
+					<cntorg>Virginia Department of Environmental Quality</cntorg>
+				</cntperp>
+				<cntpos>Environmental/GIS Data Specialist Senior</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>P.O. Box 1105</address>
+					<city>Richmond</city>
+					<state>Virginia</state>
+					<postal>23218-1105</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>804-698-4191</cntvoice>
+				<cntfax>804-698-4032</cntfax>
+				<cntemail>Cleo.Stevens@deq.virginia.gov</cntemail>
+				<hours>0700-1800 M-Th (EDT)</hours>
+			</cntinfo>
+		</ptcontac>
+		<datacred>Virginia Department of Environmental Quality</datacred>
+		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcGIS 9.2.6.1500</native>
+		<natvform Sync="TRUE">Shapefile</natvform></idinfo>
+	<dataqual>
+		<lineage>
+			<procstep>
+				<procdesc>Compiled regional Microsoft Access 2003 databases (ir_mon_stations_2010_&lt;Regional Office&gt;.mdb into one statewide database.</procdesc>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Cleo L. Stevens</cntper>
+						</cntperp>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Established multiple SQL queries to check for general errors in data entry.</procdesc>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Cleo L. Stevens</cntper>
+						</cntperp>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Per the results of SQL QA and regional input, values were updated where necessary. Records were deleted or appended if necessary.</procdesc>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Cleo L. Stevens</cntper>
+						</cntperp>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Exported select fields from tbl_ir_mon_stations to XY point layer.</procdesc>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Cleo L. Stevens</cntper>
+						</cntperp>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Executed Identity command to populate the VAHU61 and MAP from vanwbd_v3_1247.shp to verify geocoding accuracy of WATERSHED and VAHU6 values entered by regional staff.</procdesc>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Cleo L. Stevens</cntper>
+						</cntperp>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Compared the output of station location to assessment unit layers and DRGs to verify accuracy of the lat/long coordinates entered by regional staff.</procdesc>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Cleo L. Stevens</cntper>
+						</cntperp>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Updated Access table with any revisions needed from/requested by regional staff.</procdesc>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Cleo L. Stevens</cntper>
+						</cntperp>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Created a copy of the master database to edit for shapefile creation.</procdesc>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Cleo L. Stevens</cntper>
+						</cntperp>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Created make table query in Access database to export a table with modified field headings to conform to dBase IV field name, type and size restrictions.</procdesc>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Cleo L. Stevens</cntper>
+						</cntperp>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Imported final revisions from Access table to ArcMap.</procdesc>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Cleo L. Stevens</cntper>
+						</cntperp>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Created XY shapefile from Access table of DEC_LAT and DEC_LONG values.</procdesc>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Cleo L. Stevens</cntper>
+						</cntperp>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Added ASSESSED to populate whether at least one sample parameter had a pass or fail assessment status.  Added DEQ_STA field to populate whether DEQ was the data owner/provider. Added MAPSTATYPE to categorize values in STATYPE1, STATYPE2 and STATYPE3 as one mapping code. Populated MAP and BASIN_NAME values from deq_basins.shp based on the station's spatial location.</procdesc>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Cleo L. Stevens</cntper>
+						</cntperp>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Dataset copied to 2010 assessment folder for use in statistical calculations and mapping for the current assessment cycle.</procdesc>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Cleo L. Stevens</cntper>
+						</cntperp>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata txt file revised and imported using Metadata Import utility in ArcCatalog.</procdesc>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Cleo L. Stevens</cntper>
+						</cntperp>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="va_10ir_wqm_stations">
+				<sdtstype Sync="TRUE">Entity point</sdtstype>
+				<ptvctcnt Sync="TRUE">7666</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="va_10ir_wqm_stations"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Point</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">7666</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000000</absres>
+						<ordres Sync="TRUE">0.000000</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">meters</plandu>
+				</planci>
+				<mapproj><mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn><lambertc><stdparll Sync="TRUE">37.000000</stdparll><stdparll Sync="TRUE">39.500000</stdparll><longcm Sync="TRUE">-79.500000</longcm><latprjo Sync="TRUE">36.000000</latprjo><feast Sync="TRUE">0.000000</feast><fnorth Sync="TRUE">0.000000</fnorth></lambertc></mapproj></planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><projcsn Sync="TRUE">NAD_1983_Lambert_Conformal_Conic</projcsn></cordsysn></horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="va_10ir_wqm_stations">
+			<enttyp>
+				<enttypl Sync="TRUE">va_10ir_wqm_stations</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">7666</enttypc></enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>7665</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Point</edomv>
+						<edomvd>a feature with one coordinate pair and no length or area at any given scale</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>STATION_ID</attrlabl>
+				<attrdef>Monitoring Station ID</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<udom>Alpha-numeric monitoring station identification code</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">30</attwidth></attr>
+			<attr>
+				<attrlabl>ID305B_1</attrlabl>
+				<attrdef>Virginia Assessment Unit code</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<udom>Alpha-numeric assessment unit designation of the water feature monitored by this record's station ID</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">30</attwidth></attr>
+			<attr>
+				<attrlabl>ID305B_2</attrlabl>
+				<attrdef>Virginia Assessment Unit code (if applicable)</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<udom>Alpha-numeric assessment unit designation of the water feature monitored by this record's station ID</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">30</attwidth></attr>
+			<attr>
+				<attrlabl>ID305B_3</attrlabl>
+				<attrdef>Virginia Assessment Unit code (if applicable)</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<udom>Alpha-numeric assessment unit designation of the water feature monitored by this record's station ID</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">30</attwidth></attr>
+			<attr>
+				<attrlabl>REGION</attrlabl>
+				<attrdef>VA DEQ Regional Office</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>CO</edomv>
+						<edomvd>Central Office</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NRO</edomv>
+						<edomvd>Northern Regional Office</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>PRO</edomv>
+						<edomvd>Piedmont Regional Office</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SCRO</edomv>
+						<edomvd>VA DEQ's Blue Ridge (Lynchburg) Regional Office (formerly South Central Office)</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SWRO</edomv>
+						<edomvd>Southwest Regional Office</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>TRO</edomv>
+						<edomvd>Tidewater Regional Office</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>VRO</edomv>
+						<edomvd>Valley Regional Office</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>WCRO</edomv>
+						<edomvd>VA DEQ's Blue Ridge (Roanoke) Regional Office (formerly West Central Office)</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">4</attwidth></attr>
+			<attr>
+				<attrlabl>DEPTH</attrlabl>
+				<attrdef>Sample Depth</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<udom>Alpha or numeric depth of sample if known or applicable</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">20</attwidth></attr>
+			<attr>
+				<attrlabl>STATYPE1</attrlabl>
+				<attrdef>Primary Monitoring Station Type</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>A</edomv>
+						<edomvd>DEQ Ambient Monitoring Station</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>B</edomv>
+						<edomvd>DEQ Biological Monitoring Station</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>C</edomv>
+						<edomvd>DEQ Fish Tissue Monitoring Station</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>C2</edomv>
+						<edomvd>Coastal 2000 (NCA) Probabilistic Monitoring Station</edomvd>
+						<edomvds>VA DEQ, NCA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CB</edomv>
+						<edomvd>Chesapeake Bay Program Monitoring Station</edomvd>
+						<edomvds>VA DEQ, CBP</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CB-B</edomv>
+						<edomvd>Chesapeake Bay Estuarine Benthic Probabilistic Monitoring Station</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CMON</edomv>
+						<edomvd>Citizen Monitoring Station</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CR</edomv>
+						<edomvd>Citizen Requested (follow-up) Station</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>EPA</edomv>
+						<edomvd>Environmental Protection Agency Monitoring Station</edomvd>
+						<edomvds>VA DEQ, EPA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>FOSR</edomv>
+						<edomvd>Friends of the Shenandoah River Monitoring Station</edomvd>
+						<edomvds>VA DEQ, FOSR</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>FPM</edomv>
+						<edomvd>Freshwater Probabilistic Monitoring Station</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>L</edomv>
+						<edomvd>DEQ Lake Monitoring Station</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MU</edomv>
+						<edomvd>Municipal Monitoring Station</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NONA</edomv>
+						<edomvd>Non-Agency (i.e. non-DEQ) Monitoring Station</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>OWML</edomv>
+						<edomvd>Occoquan Watershed Monitoring Lab Station</edomvd>
+						<edomvds>VA DEQ, OWML</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>PFWQ</edomv>
+						<edomvd>DEQ Pfiesteria Monitoring Station</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SNP</edomv>
+						<edomvd>Shenandoah National Park Monitoring Station</edomvd>
+						<edomvds>VA DEQ, US DOI-NPS-SNP</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SS</edomv>
+						<edomvd>DEQ Special Studies Monitoring Station</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>TM</edomv>
+						<edomvd>DEQ TMDL Monitoring Station (special study)</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>TOX</edomv>
+						<edomvd>Chesapeake Bay Special Toxics Monitoring Station</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>TR</edomv>
+						<edomvd>Trend Station</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>USFS</edomv>
+						<edomvd>United States Forest Service Monitoring Station</edomvd>
+						<edomvds>VA DEQ, USFS</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>USFW</edomv>
+						<edomvd>United States Fish and Wildlife Service Monitoring Station</edomvd>
+						<edomvds>VA DEQ, USFW</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>USGS</edomv>
+						<edomvd>United States Geological Survey Monitoring Station</edomvd>
+						<edomvds>VA DEQ, USGS</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>UVA</edomv>
+						<edomvd>University of Virginia Monitoring Station</edomvd>
+						<edomvds>VA DEQ, UVA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>VDHB</edomv>
+						<edomvd>Virginia Department of Health BEACH Monitoring Station</edomvd>
+						<edomvds>VA DEQ, VDH</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">4</attwidth></attr>
+			<attr>
+				<attrlabl>STATYPE2</attrlabl>
+				<attrdef>Second Monitoring Station Type</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>blank</edomv>
+						<edomvd>Only the value in STATYPE1 applies as the monitoring type conducted at this station</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>not blank; see STATYPE1 for possible singular values</edomv>
+						<edomvd>See STATYPE1 for associated definitions</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">4</attwidth></attr>
+			<attr>
+				<attrlabl>STATYPE3</attrlabl>
+				<attrdef>Third Monitoring Station Type</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>blank</edomv>
+						<edomvd>Only the values in STATYPE1 and STATYPE2 apply as the monitoring type conducted at this station</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>not blank; see STATYPE1 for possible values.  In order to capture all applicable monitoring activities at this station this field can contain multiple station types separated by a comma.</edomv>
+						<edomvd>See STATYPE1 for associated definitions</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">10</attwidth></attr>
+			<attr>
+				<attrlabl>DEC_LAT</attrlabl>
+				<attrdef>Station Latitude in Decimal Degrees</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>36.52722</rdommin>
+						<rdommax>39.43528</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr>
+			<attr>
+				<attrlabl>DEC_LONG</attrlabl>
+				<attrdef>Station Longitude in Decimal Degrees</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>-83.57611</rdommin>
+						<rdommax>-75.303361</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr>
+			<attr>
+				<attrlabl>WATERSHED</attrlabl>
+				<attrdef>DEQ Watershed ID derived from the last 3 characters of DCR's 14-digit hydrologic unit code including waterbody type (R, L or E)</attrdef>
+				<attrdefs>VA DEQ, VA DCR</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>A01R</rdommin>
+						<rdommax>R01E</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">4</attwidth></attr>
+			<attr>
+				<attrlabl>VAHU6</attrlabl>
+				<attrdef>Virginia's 6th order code of the National Watershed Boundary Dataset</attrdef>
+				<attrdefs>VA DCR</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>AO01</rdommin>
+						<rdommax>YO69</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">4</attwidth></attr>
+			<attr>
+				<attrlabl>TEMP_VIO</attrlabl>
+				<attrdef>Number of Temperature Water Quality Standard Exceedences</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>227</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth></attr>
+			<attr>
+				<attrlabl>TEMP_SAMP</attrlabl>
+				<attrdef>Number of Temperature Samples taken</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>7766</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth></attr>
+			<attr>
+				<attrlabl>TEMP_STAT</attrlabl>
+				<attrdef>Temperature Assessment Status</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>blank</edomv>
+						<edomvd>None; this parameter was not sampled at this station</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>IM</edomv>
+						<edomvd>Impaired</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>IN</edomv>
+						<edomvd>Insufficient Data</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>IN/O</edomv>
+						<edomvd>Insufficient Data with Observed Effects</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NA</edomv>
+						<edomvd>Not Applicable</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>O</edomv>
+						<edomvd>Observed Effects</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>S</edomv>
+						<edomvd>Supporting</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>W</edomv>
+						<edomvd>Not Assessed</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">4</attwidth></attr>
+			<attr>
+				<attrlabl>DO_VIO</attrlabl>
+				<attrdef>Number of Dissolved Oxygen Water Quality Standard Exceedences</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>643</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth></attr>
+			<attr>
+				<attrlabl>DO_SAMP</attrlabl>
+				<attrdef>Number of Dissolved Oxygen Samples taken</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>1423</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth></attr>
+			<attr>
+				<attrlabl>DO_STAT</attrlabl>
+				<attrdef>Dissolved Oxygen Assessment Status</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>See TEMP_STAT for list of possible values</edomv>
+						<edomvd>See TEMP_STAT for list of definitions</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">4</attwidth></attr>
+			<attr>
+				<attrlabl>PH_VIO</attrlabl>
+				<attrdef>Number of pH Water Quality Standard Exceedences</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>89</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth></attr>
+			<attr>
+				<attrlabl>PH_SAMP</attrlabl>
+				<attrdef>Number of pH Samples taken</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>7763</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth></attr>
+			<attr>
+				<attrlabl>PH_STAT</attrlabl>
+				<attrdef>pH Assessment Status</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>See TEMP_STAT for list of possible values</edomv>
+						<edomvd>See TEMP_STAT for list of definitions</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">4</attwidth></attr>
+			<attr>
+				<attrlabl>ECOLI_VIO</attrlabl>
+				<attrdef>Number of Escherichia coli (E.coli) Water Quality Standard Exceedences</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>65</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth></attr>
+			<attr>
+				<attrlabl>ECOLI_SAMP</attrlabl>
+				<attrdef>Number of E.coli Samples taken</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>90</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth></attr>
+			<attr>
+				<attrlabl>ECOLI_STAT</attrlabl>
+				<attrdef>E.coli Assessment Status</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>See TEMP_STAT for list of possible values</edomv>
+						<edomvd>See TEMP_STAT for list of definitions</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">4</attwidth></attr>
+			<attr>
+				<attrlabl>ENTER_VIO</attrlabl>
+				<attrdef>Number of Enterococci Water Quality Standard Exceedences</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>61</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth></attr>
+			<attr>
+				<attrlabl>ENTER_SAMP</attrlabl>
+				<attrdef>Number of Enterococci Samples taken</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>118</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth></attr>
+			<attr>
+				<attrlabl>ENTER_STAT</attrlabl>
+				<attrdef>Enterococci Assessment Status</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>See TEMP_STAT for list of possible values</edomv>
+						<edomvd>See TEMP_STAT for list of definitions</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">4</attwidth></attr>
+			<attr>
+				<attrlabl>WMET_VIO</attrlabl>
+				<attrdef>Number of Water Column Metals Water Quality Standard Exceedences</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>39</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth></attr>
+			<attr>
+				<attrlabl>WMET_STAT</attrlabl>
+				<attrdef>Water Column Metals Assessment Status</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>See TEMP_STAT for list of possible values</edomv>
+						<edomvd>See TEMP_STAT for list of definitions</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">4</attwidth></attr>
+			<attr>
+				<attrlabl>WTOX_VIO</attrlabl>
+				<attrdef>Number of Water Column Toxics Water Quality Standard Exceedences</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>3</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth></attr>
+			<attr>
+				<attrlabl>WTOX_STAT</attrlabl>
+				<attrdef>Water Column Toxics Assessment Status</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>See TEMP_STAT for list of possible values</edomv>
+						<edomvd>See TEMP_STAT for list of definitions</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">4</attwidth></attr>
+			<attr>
+				<attrlabl>SMET_VIO</attrlabl>
+				<attrdef>Number of Sediment Metals Water Quality Standard Exceedences</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>4</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth></attr>
+			<attr>
+				<attrlabl>SMET_STAT</attrlabl>
+				<attrdef>Sediment Metals Assessment Status</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>See TEMP_STAT for list of possible values</edomv>
+						<edomvd>See TEMP_STAT for list of definitions</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">4</attwidth></attr>
+			<attr>
+				<attrlabl>STOX_VIO</attrlabl>
+				<attrdef>Number of Sediment Toxics Water Quality Standard Exceedences</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>12</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth></attr>
+			<attr><attrlabl Sync="TRUE">STOX_STAT</attrlabl><attalias Sync="TRUE">STOX_STAT</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">4</attwidth></attr><attr>
+				<attrlabl>FMET_VIO</attrlabl>
+				<attrdef>Number of Fish Tissue Metals Water Quality Standard Exceedences</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>38</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth></attr>
+			<attr>
+				<attrlabl>FMET_STAT</attrlabl>
+				<attrdef>Fish Tissue Metals Assessment Status</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>See TEMP_STAT for list of possible values</edomv>
+						<edomvd>See TEMP_STAT for list of definitions</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">4</attwidth></attr>
+			<attr>
+				<attrlabl>FTOX_VIO</attrlabl>
+				<attrdef>Number of Fish Tissue Toxics Water Quality Standard Exceedences</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>24</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth></attr>
+			<attr>
+				<attrlabl>FTOX_STAT</attrlabl>
+				<attrdef>Fish Tissue Toxics Assessment Status</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>See TEMP_STAT for list of possible values</edomv>
+						<edomvd>See TEMP_STAT for list of definitions</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">4</attwidth></attr>
+			<attr>
+				<attrlabl>BENTHIC_ST</attrlabl>
+				<attrdef>Benthic Macroinvertebrate Assessment Status</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>blank</edomv>
+						<edomvd>None; not a biological conditions sample station</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>FS</edomv>
+						<edomvd>Fully Supporting VSCI (Virginia Stream Condition Index) or CPMI (Coastal Plain Macroinvertebrate Index)</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>HP</edomv>
+						<edomvd>Citizen Monitoring - High Probability for Adverse Conditions (Insufficient Information but having Observed Effects)</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>IM</edomv>
+						<edomvd>Impaired for VSCI or CPMI</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>IN</edomv>
+						<edomvd>Insufficient Data</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>J</edomv>
+						<edomvd>Reserve Judgment/BPJ (Best Professional Judgment)</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>LP</edomv>
+						<edomvd>Citizen Monitoring - Low Probability for Adverse Conditions (Insufficient Information but indicating Fully Supporting)</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MP</edomv>
+						<edomvd>Citizen Monitoring - Medium Probability for Adverse Conditions (Insufficient Information but having Observed Effects)</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>UI</edomv>
+						<edomvd>USFS MAIS - Impaired</edomvd>
+						<edomvds>VA DEQ, USFS</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>UN</edomv>
+						<edomvd>USFS MAIS - Not Impaired</edomvd>
+						<edomvds>VA DEQ, USFS</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>UO</edomv>
+						<edomvd>USFS MAIS - Slight Impairment (Observed Effects)</edomvd>
+						<edomvds>VA DEQ, USFS</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>W</edomv>
+						<edomvd>Not Assessed</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">4</attwidth></attr>
+			<attr>
+				<attrlabl>TP_VIO</attrlabl>
+				<attrdef>Number of Total Phosphorus Screening Value Exceedences (in Lake samples this number refers to the number of times the nutrient criteria are exceeded per monitoring year)</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>29</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth></attr>
+			<attr>
+				<attrlabl>TP_SAMP</attrlabl>
+				<attrdef>Number of Total Phosphorus Samples taken (in Lake samples this number refers to the number of monitoring years)</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>45</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth></attr>
+			<attr>
+				<attrlabl>TP_STAT</attrlabl>
+				<attrdef>Total Phosphorus Assessment Status</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>See TEMP_STAT for list of possible values</edomv>
+						<edomvd>See TEMP_STAT for list of definitions</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">4</attwidth></attr>
+			<attr>
+				<attrlabl>CHLA_VIO</attrlabl>
+				<attrdef>Number of Chlorophyll A Screening Value Exceedences (in Lake samples this number refers to the number of times the nutrient criteria are exceeded per monitoring year)</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>2</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth></attr>
+			<attr>
+				<attrlabl>CHLA_SAMP</attrlabl>
+				<attrdef>Number of Chlorophyll A Samples taken (in Lake samples this number refers to the number of monitoring years)</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>20</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth></attr>
+			<attr>
+				<attrlabl>CHLA_STAT</attrlabl>
+				<attrdef>Chlorophyll A Assessment Status</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>See TEMP_STAT for list of possible values</edomv>
+						<edomvd>See TEMP_STAT for list of definitions</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">4</attwidth></attr>
+			<attr>
+				<attrlabl>COMMENTS</attrlabl>
+				<attrdef>Comments</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<udom>Assessment comments for the monitoring station</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth></attr>
+			<attr>
+				<attrlabl>ASSESSED</attrlabl>
+				<attrdef>Whether or not the station had data used for Assessment Category 1*, 2*, 4* or 5* determinations within the current 6 year data window.</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>n</edomv>
+						<edomvd>No (Not used in the assessment)</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>y</edomv>
+						<edomvd>Yes (Used in the assessment)</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">1</attwidth></attr>
+			<attr>
+				<attrlabl>DEQ_STA</attrlabl>
+				<attrdef>Whether or not the station was monitored by DEQ</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>n</edomv>
+						<edomvd>No (Not monitored by DEQ)</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>y</edomv>
+						<edomvd>Yes (Monitored by DEQ)</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">1</attwidth></attr>
+			<attr>
+				<attrlabl>MAPSTATYPE</attrlabl>
+				<attrdef>Station Type (for descriptive and mapping purposes)</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>A</edomv>
+						<edomvd>Ambient (water column) monitoring only</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>AB</edomv>
+						<edomvd>Ambient and Biological monitoring</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>ABT</edomv>
+						<edomvd>Ambient and Biological and Fish Tissue monitoring</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>AT</edomv>
+						<edomvd>Ambient and Fish Tissue monitoring</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>B</edomv>
+						<edomvd>Biological monitoring only</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BT</edomv>
+						<edomvd>Biological and Fish Tissue monitoring</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>C</edomv>
+						<edomvd>Citizen Monitoring</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>F</edomv>
+						<edomvd>Federal monitoring</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>T</edomv>
+						<edomvd>Fish Tissue monitoring only</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>TR</edomv>
+						<edomvd>Trend Station (monitoring data included in DEQ's Trends Analysis)</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V</edomv>
+						<edomvd>Virginia Beaches Environmental &amp; Coastal Health (BEACH) Program monitoring</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">10</attwidth></attr>
+			<attr>
+				<attrlabl>MAP</attrlabl>
+				<attrdef>Mapping code for the major river basins</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>cbaosc</edomv>
+						<edomvd>Chesapeake Bay/Atlantic Ocean and Small Coastal</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>chowds</edomv>
+						<edomvd>Chowan River and Dismal Swamp</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>jamesl</edomv>
+						<edomvd>Lower James River</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>jamesm</edomv>
+						<edomvd>Middle James River</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>jamesu</edomv>
+						<edomvd>Upper James River</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>new</edomv>
+						<edomvd>New River</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>potlow</edomv>
+						<edomvd>Potomac River (lower Potomac only)</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>rapp</edomv>
+						<edomvd>Rappahannock River</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>roanok</edomv>
+						<edomvd>Roanoke River (including the Yadkin River)</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>shen</edomv>
+						<edomvd>Shenandoah River (including the upper Potomac)</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>tennbs</edomv>
+						<edomvd>Tennessee and Big Sandy Rivers</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>york</edomv>
+						<edomvd>York River</edomvd>
+						<edomvds>VA DEQ</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">6</attwidth></attr>
+			<attr>
+				<attrlabl>BASIN_NM</attrlabl>
+				<attrdef>Major River Basin Name</attrdef>
+				<attrdefs>VA DEQ</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Chesapeake Bay/Atlantic Ocean and Small Coastal</codesetn>
+						<codesets>VA DEQ, VA DCR</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Chowan River and Dismal Swamp</codesetn>
+						<codesets>VA DEQ, VA DCR</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrdomv>
+					<codesetd>
+						<codesetn>James River - Lower</codesetn>
+						<codesets>VA DEQ, VA DCR</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrdomv>
+					<codesetd>
+						<codesetn>James River - Middle</codesetn>
+						<codesets>VA DEQ, VA DCR</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrdomv>
+					<codesetd>
+						<codesetn>James River - Upper</codesetn>
+						<codesets>VA DEQ, VA DCR</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrdomv>
+					<codesetd>
+						<codesetn>New River</codesetn>
+						<codesets>VA DEQ, VA DCR</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Potomac River</codesetn>
+						<codesets>VA DEQ, VA DCR</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Rappahannock River</codesetn>
+						<codesets>VA DEQ, VA DCR</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Roanoke and Yadkin Rivers</codesetn>
+						<codesets>VA DEQ, VA DCR</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Shenandoah River</codesetn>
+						<codesets>VA DEQ, VA DCR</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Tennessee and Big Sandy Rivers</codesetn>
+						<codesets>VA DEQ, VA DCR</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrdomv>
+					<codesetd>
+						<codesetn>York River</codesetn>
+						<codesets>VA DEQ, VA DCR</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">60</attwidth></attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntperp>
+					<cntper>Darryl M. Glover</cntper>
+					<cntorg>Virginia Department of Environmental Quality</cntorg>
+				</cntperp>
+				<cntpos>Water Monitoring and Assessment Director</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>P.O. Box 1105</address>
+					<city>Richmond</city>
+					<state>Virginia</state>
+					<postal>23218-1105</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>804-698-4321</cntvoice>
+				<cntfax>804-698-4032</cntfax>
+				<cntemail>Darryl.Glover@deq.virginia.gov</cntemail>
+				<hours>0800-1700</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Downloadable Data</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>33 MB</transize>
+					<dssize>7.4 MB</dssize><formname>SHP</formname><formvern>Arc 9.2.6</formvern><formspec>ESRI Shapefile</formspec><filedec>Windows Compression</filedec></digtinfo>
+			</digform>
+			<fees>none</fees><ordering>Requests should be directed to the Data Distributor or Data Point of Contact.</ordering><turnarnd>1-3 days</turnarnd></stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20101210</metd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>Cleo L. Stevens</cntper>
+					<cntorg>Virginia Department of Environmental Quality</cntorg>
+				</cntperp>
+				<cntpos>Environmental/GIS Data Specialist Senior</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>P.O. Box 1105</address>
+					<city>Richmond</city>
+					<state>Virginia</state>
+					<postal>23218-1105</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>804-698-4191</cntvoice>
+				<cntfax>804-698-4032</cntfax>
+				<cntemail>Cleo.Stevens@deq.virginia.gov</cntemail>
+				<hours>0700-1800 M-Th (EDT)</hours>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metac>none</metac>
+		<metuc>none</metuc>
+		<langmeta>English</langmeta><metrd>20101208</metrd><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><MetaID>{AFF66983-C907-4709-A791-E03BCE0CCF02}</MetaID><CreaDate>20101208</CreaDate><CreaTime>14491800</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20101210</SyncDate><SyncTime>06343900</SyncTime><ModDate>20101210</ModDate><ModTime>06343900</ModTime></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.2.6.1500</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">va_10ir_wqm_stations</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">-364629.568395</westBL><eastBL Sync="TRUE">368374.847456</eastBL><northBL Sync="TRUE">381932.540187</northBL><southBL Sync="TRUE">59503.926279</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-83.732792</westBL><eastBL Sync="TRUE">-75.223792</eastBL><northBL Sync="TRUE">39.44126</northBL><southBL Sync="TRUE">36.462338</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\NG00097938\D$\data\2010_assessment\IR_Final\IR_FINAL_CD_EPA\GIS Data\va_10ir_wqm_stations.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">0.205</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">NAD_1983_Lambert_Conformal_Conic</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="va_10ir_wqm_stations"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="004"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">7666</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20101210</mdDateSt></metadata>

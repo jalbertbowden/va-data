@@ -1,0 +1,1104 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Virginia Department of Environmental Quality
+      Publication_Date: December 2010
+      Title: va_10ir_wqm_stations
+      Edition: final
+      Geospatial_Data_Presentation_Form: vector digital data
+      Online_Linkage: http://www.deq.virginia.gov/wqa/gisdata/ir2010gis.zip
+  Description:
+    Abstract: Virginia's 2010 Water Quality Monitoring Stations
+    Purpose: Show all monitoring stations used in the 2010 Virginia 305(b)/303(d) Water Quality Assessment Integrated Report.
+    Supplemental_Information: This dataset is supplemental GIS data to the 2010 Virginia 305(b)/303(d) Water Quality Assessment Integrated Report, the 2010 Assessment Unit hydrology geodatabse (va_10ir_aus_all.mdb) and the regionally significant VPDES facilities shapefile (va_10ir_vpdes_facilities.shp).
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: January 1, 2003
+        Ending_Date: December 31, 2008
+    Currentness_Reference: November 2010
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -83.732792
+      East_Bounding_Coordinate: -75.223792
+      North_Bounding_Coordinate: 39.441260
+      South_Bounding_Coordinate: 36.462338
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: none
+      Theme_Keyword: monitoring stations
+      Theme_Keyword: water quality monitoring
+      Theme_Keyword: assessment monitoring
+      Theme_Keyword: 303d
+      Theme_Keyword: 305b
+      Theme_Keyword: ambient monitoring
+      Theme_Keyword: fish tissue monitoring
+      Theme_Keyword: citizen monitoring
+      Theme_Keyword: benthic monitoring
+      Theme_Keyword: bacteria sampling
+      Theme_Keyword: bay monitoring
+      Theme_Keyword: lake monitoring
+  Access_Constraints: none
+  Use_Constraints: Point locations and attributes should not be altered except by the developer (VA DEQ).  This dataset constitutes the EPA approved digital version of the suite of all monitoring sites used in the current water quality assessment for Virginia. Crediting the Virginia Department of Environmental Quality as data source is requested.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Cleo L. Stevens
+        Contact_Organization: Virginia Department of Environmental Quality
+      Contact_Position: Environmental/GIS Data Specialist Senior
+      Contact_Address:
+        Address_Type: mailing address
+        Address: P.O. Box 1105
+        City: Richmond
+        State_or_Province: Virginia
+        Postal_Code: 23218-1105
+        Country: USA
+      Contact_Voice_Telephone: 804-698-4191
+      Contact_Facsimile_Telephone: 804-698-4032
+      Contact_Electronic_Mail_Address: Cleo.Stevens@deq.virginia.gov
+      Hours_of_Service: 0700-1800 M-Th (EDT)
+  Data_Set_Credit: Virginia Department of Environmental Quality
+  Native_Data_Set_Environment: Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcGIS 9.2.6.1500
+Data_Quality_Information:
+  Lineage:
+    Process_Step:
+      Process_Description: Compiled regional Microsoft Access 2003 databases (ir_mon_stations_2010_<Regional Office>.mdb into one statewide database.
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Cleo L. Stevens
+    Process_Step:
+      Process_Description: Established multiple SQL queries to check for general errors in data entry.
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Cleo L. Stevens
+    Process_Step:
+      Process_Description: Per the results of SQL QA and regional input, values were updated where necessary. Records were deleted or appended if necessary.
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Cleo L. Stevens
+    Process_Step:
+      Process_Description: Exported select fields from tbl_ir_mon_stations to XY point layer.
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Cleo L. Stevens
+    Process_Step:
+      Process_Description: Executed Identity command to populate the VAHU61 and MAP from vanwbd_v3_1247.shp to verify geocoding accuracy of WATERSHED and VAHU6 values entered by regional staff.
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Cleo L. Stevens
+    Process_Step:
+      Process_Description: Compared the output of station location to assessment unit layers and DRGs to verify accuracy of the lat/long coordinates entered by regional staff.
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Cleo L. Stevens
+    Process_Step:
+      Process_Description: Updated Access table with any revisions needed from/requested by regional staff.
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Cleo L. Stevens
+    Process_Step:
+      Process_Description: Created a copy of the master database to edit for shapefile creation.
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Cleo L. Stevens
+    Process_Step:
+      Process_Description: Created make table query in Access database to export a table with modified field headings to conform to dBase IV field name, type and size restrictions.
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Cleo L. Stevens
+    Process_Step:
+      Process_Description: Imported final revisions from Access table to ArcMap.
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Cleo L. Stevens
+    Process_Step:
+      Process_Description: Created XY shapefile from Access table of DEC_LAT and DEC_LONG values.
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Cleo L. Stevens
+    Process_Step:
+      Process_Description: Added ASSESSED to populate whether at least one sample parameter had a pass or fail assessment status.  Added DEQ_STA field to populate whether DEQ was the data owner/provider. Added MAPSTATYPE to categorize values in STATYPE1, STATYPE2 and STATYPE3 as one mapping code. Populated MAP and BASIN_NAME values from deq_basins.shp based on the station's spatial location.
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Cleo L. Stevens
+    Process_Step:
+      Process_Description: Dataset copied to 2010 assessment folder for use in statistical calculations and mapping for the current assessment cycle.
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Cleo L. Stevens
+    Process_Step:
+      Process_Description: Metadata txt file revised and imported using Metadata Import utility in ArcCatalog.
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Cleo L. Stevens
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Entity point
+      Point_and_Vector_Object_Count: 7666
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Map_Projection:
+        Map_Projection_Name: Lambert Conformal Conic
+        Lambert_Conformal_Conic:
+          Standard_Parallel: 37.000000
+          Standard_Parallel: 39.500000
+          Longitude_of_Central_Meridian: -79.500000
+          Latitude_of_Projection_Origin: 36.000000
+          False_Easting: 0.000000
+          False_Northing: 0.000000
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: coordinate pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 0.000000
+          Ordinate_Resolution: 0.000000
+        Planar_Distance_Units: meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: va_10ir_wqm_stations
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 7665
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Point
+          Enumerated_Domain_Value_Definition: a feature with one coordinate pair and no length or area at any given scale
+          Enumerated_Domain_Value_Definition_Source: ESRI
+    Attribute:
+      Attribute_Label: STATION_ID
+      Attribute_Definition: Monitoring Station ID
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Alpha-numeric monitoring station identification code
+    Attribute:
+      Attribute_Label: ID305B_1
+      Attribute_Definition: Virginia Assessment Unit code
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Alpha-numeric assessment unit designation of the water feature monitored by this record's station ID
+    Attribute:
+      Attribute_Label: ID305B_2
+      Attribute_Definition: Virginia Assessment Unit code (if applicable)
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Alpha-numeric assessment unit designation of the water feature monitored by this record's station ID
+    Attribute:
+      Attribute_Label: ID305B_3
+      Attribute_Definition: Virginia Assessment Unit code (if applicable)
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Alpha-numeric assessment unit designation of the water feature monitored by this record's station ID
+    Attribute:
+      Attribute_Label: REGION
+      Attribute_Definition: VA DEQ Regional Office
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CO
+          Enumerated_Domain_Value_Definition: Central Office
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: NRO
+          Enumerated_Domain_Value_Definition: Northern Regional Office
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: PRO
+          Enumerated_Domain_Value_Definition: Piedmont Regional Office
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SCRO
+          Enumerated_Domain_Value_Definition: VA DEQ's Blue Ridge (Lynchburg) Regional Office (formerly South Central Office)
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SWRO
+          Enumerated_Domain_Value_Definition: Southwest Regional Office
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: TRO
+          Enumerated_Domain_Value_Definition: Tidewater Regional Office
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: VRO
+          Enumerated_Domain_Value_Definition: Valley Regional Office
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: WCRO
+          Enumerated_Domain_Value_Definition: VA DEQ's Blue Ridge (Roanoke) Regional Office (formerly West Central Office)
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+    Attribute:
+      Attribute_Label: DEPTH
+      Attribute_Definition: Sample Depth
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Alpha or numeric depth of sample if known or applicable
+    Attribute:
+      Attribute_Label: STATYPE1
+      Attribute_Definition: Primary Monitoring Station Type
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: A
+          Enumerated_Domain_Value_Definition: DEQ Ambient Monitoring Station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: B
+          Enumerated_Domain_Value_Definition: DEQ Biological Monitoring Station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: C
+          Enumerated_Domain_Value_Definition: DEQ Fish Tissue Monitoring Station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: C2
+          Enumerated_Domain_Value_Definition: Coastal 2000 (NCA) Probabilistic Monitoring Station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ, NCA
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CB
+          Enumerated_Domain_Value_Definition: Chesapeake Bay Program Monitoring Station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ, CBP
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CB-B
+          Enumerated_Domain_Value_Definition: Chesapeake Bay Estuarine Benthic Probabilistic Monitoring Station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CMON
+          Enumerated_Domain_Value_Definition: Citizen Monitoring Station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CR
+          Enumerated_Domain_Value_Definition: Citizen Requested (follow-up) Station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: EPA
+          Enumerated_Domain_Value_Definition: Environmental Protection Agency Monitoring Station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ, EPA
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: FOSR
+          Enumerated_Domain_Value_Definition: Friends of the Shenandoah River Monitoring Station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ, FOSR
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: FPM
+          Enumerated_Domain_Value_Definition: Freshwater Probabilistic Monitoring Station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: L
+          Enumerated_Domain_Value_Definition: DEQ Lake Monitoring Station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MU
+          Enumerated_Domain_Value_Definition: Municipal Monitoring Station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: NONA
+          Enumerated_Domain_Value_Definition: Non-Agency (i.e. non-DEQ) Monitoring Station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: OWML
+          Enumerated_Domain_Value_Definition: Occoquan Watershed Monitoring Lab Station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ, OWML
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: PFWQ
+          Enumerated_Domain_Value_Definition: DEQ Pfiesteria Monitoring Station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SNP
+          Enumerated_Domain_Value_Definition: Shenandoah National Park Monitoring Station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ, US DOI-NPS-SNP
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SS
+          Enumerated_Domain_Value_Definition: DEQ Special Studies Monitoring Station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: TM
+          Enumerated_Domain_Value_Definition: DEQ TMDL Monitoring Station (special study)
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: TOX
+          Enumerated_Domain_Value_Definition: Chesapeake Bay Special Toxics Monitoring Station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: TR
+          Enumerated_Domain_Value_Definition: Trend Station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: USFS
+          Enumerated_Domain_Value_Definition: United States Forest Service Monitoring Station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ, USFS
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: USFW
+          Enumerated_Domain_Value_Definition: United States Fish and Wildlife Service Monitoring Station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ, USFW
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: USGS
+          Enumerated_Domain_Value_Definition: United States Geological Survey Monitoring Station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ, USGS
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: UVA
+          Enumerated_Domain_Value_Definition: University of Virginia Monitoring Station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ, UVA
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: VDHB
+          Enumerated_Domain_Value_Definition: Virginia Department of Health BEACH Monitoring Station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ, VDH
+    Attribute:
+      Attribute_Label: STATYPE2
+      Attribute_Definition: Second Monitoring Station Type
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: blank
+          Enumerated_Domain_Value_Definition: Only the value in STATYPE1 applies as the monitoring type conducted at this station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: not blank; see STATYPE1 for possible singular values
+          Enumerated_Domain_Value_Definition: See STATYPE1 for associated definitions
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+    Attribute:
+      Attribute_Label: STATYPE3
+      Attribute_Definition: Third Monitoring Station Type
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: blank
+          Enumerated_Domain_Value_Definition: Only the values in STATYPE1 and STATYPE2 apply as the monitoring type conducted at this station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: not blank; see STATYPE1 for possible values.  In order to capture all applicable monitoring activities at this station this field can contain multiple station types separated by a comma.
+          Enumerated_Domain_Value_Definition: See STATYPE1 for associated definitions
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+    Attribute:
+      Attribute_Label: DEC_LAT
+      Attribute_Definition: Station Latitude in Decimal Degrees
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 36.52722
+          Range_Domain_Maximum: 39.43528
+    Attribute:
+      Attribute_Label: DEC_LONG
+      Attribute_Definition: Station Longitude in Decimal Degrees
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -83.57611
+          Range_Domain_Maximum: -75.303361
+    Attribute:
+      Attribute_Label: WATERSHED
+      Attribute_Definition: DEQ Watershed ID derived from the last 3 characters of DCR's 14-digit hydrologic unit code including waterbody type (R, L or E)
+      Attribute_Definition_Source: VA DEQ, VA DCR
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: A01R
+          Range_Domain_Maximum: R01E
+    Attribute:
+      Attribute_Label: VAHU6
+      Attribute_Definition: Virginia's 6th order code of the National Watershed Boundary Dataset
+      Attribute_Definition_Source: VA DCR
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: AO01
+          Range_Domain_Maximum: YO69
+    Attribute:
+      Attribute_Label: TEMP_VIO
+      Attribute_Definition: Number of Temperature Water Quality Standard Exceedences
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 227
+    Attribute:
+      Attribute_Label: TEMP_SAMP
+      Attribute_Definition: Number of Temperature Samples taken
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 7766
+    Attribute:
+      Attribute_Label: TEMP_STAT
+      Attribute_Definition: Temperature Assessment Status
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: blank
+          Enumerated_Domain_Value_Definition: None; this parameter was not sampled at this station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: IM
+          Enumerated_Domain_Value_Definition: Impaired
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: IN
+          Enumerated_Domain_Value_Definition: Insufficient Data
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: IN/O
+          Enumerated_Domain_Value_Definition: Insufficient Data with Observed Effects
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: NA
+          Enumerated_Domain_Value_Definition: Not Applicable
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: O
+          Enumerated_Domain_Value_Definition: Observed Effects
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: S
+          Enumerated_Domain_Value_Definition: Supporting
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: W
+          Enumerated_Domain_Value_Definition: Not Assessed
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+    Attribute:
+      Attribute_Label: DO_VIO
+      Attribute_Definition: Number of Dissolved Oxygen Water Quality Standard Exceedences
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 643
+    Attribute:
+      Attribute_Label: DO_SAMP
+      Attribute_Definition: Number of Dissolved Oxygen Samples taken
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 1423
+    Attribute:
+      Attribute_Label: DO_STAT
+      Attribute_Definition: Dissolved Oxygen Assessment Status
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: See TEMP_STAT for list of possible values
+          Enumerated_Domain_Value_Definition: See TEMP_STAT for list of definitions
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+    Attribute:
+      Attribute_Label: PH_VIO
+      Attribute_Definition: Number of pH Water Quality Standard Exceedences
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 89
+    Attribute:
+      Attribute_Label: PH_SAMP
+      Attribute_Definition: Number of pH Samples taken
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 7763
+    Attribute:
+      Attribute_Label: PH_STAT
+      Attribute_Definition: pH Assessment Status
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: See TEMP_STAT for list of possible values
+          Enumerated_Domain_Value_Definition: See TEMP_STAT for list of definitions
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+    Attribute:
+      Attribute_Label: ECOLI_VIO
+      Attribute_Definition: Number of Escherichia coli (E.coli) Water Quality Standard Exceedences
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 65
+    Attribute:
+      Attribute_Label: ECOLI_SAMP
+      Attribute_Definition: Number of E.coli Samples taken
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 90
+    Attribute:
+      Attribute_Label: ECOLI_STAT
+      Attribute_Definition: E.coli Assessment Status
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: See TEMP_STAT for list of possible values
+          Enumerated_Domain_Value_Definition: See TEMP_STAT for list of definitions
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+    Attribute:
+      Attribute_Label: ENTER_VIO
+      Attribute_Definition: Number of Enterococci Water Quality Standard Exceedences
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 61
+    Attribute:
+      Attribute_Label: ENTER_SAMP
+      Attribute_Definition: Number of Enterococci Samples taken
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 118
+    Attribute:
+      Attribute_Label: ENTER_STAT
+      Attribute_Definition: Enterococci Assessment Status
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: See TEMP_STAT for list of possible values
+          Enumerated_Domain_Value_Definition: See TEMP_STAT for list of definitions
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+    Attribute:
+      Attribute_Label: WMET_VIO
+      Attribute_Definition: Number of Water Column Metals Water Quality Standard Exceedences
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 39
+    Attribute:
+      Attribute_Label: WMET_STAT
+      Attribute_Definition: Water Column Metals Assessment Status
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: See TEMP_STAT for list of possible values
+          Enumerated_Domain_Value_Definition: See TEMP_STAT for list of definitions
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+    Attribute:
+      Attribute_Label: WTOX_VIO
+      Attribute_Definition: Number of Water Column Toxics Water Quality Standard Exceedences
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 3
+    Attribute:
+      Attribute_Label: WTOX_STAT
+      Attribute_Definition: Water Column Toxics Assessment Status
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: See TEMP_STAT for list of possible values
+          Enumerated_Domain_Value_Definition: See TEMP_STAT for list of definitions
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+    Attribute:
+      Attribute_Label: SMET_VIO
+      Attribute_Definition: Number of Sediment Metals Water Quality Standard Exceedences
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 4
+    Attribute:
+      Attribute_Label: SMET_STAT
+      Attribute_Definition: Sediment Metals Assessment Status
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: See TEMP_STAT for list of possible values
+          Enumerated_Domain_Value_Definition: See TEMP_STAT for list of definitions
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+    Attribute:
+      Attribute_Label: STOX_VIO
+      Attribute_Definition: Number of Sediment Toxics Water Quality Standard Exceedences
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 12
+    Attribute:
+      Attribute_Label: STOX_STAT
+    Attribute:
+      Attribute_Label: FMET_VIO
+      Attribute_Definition: Number of Fish Tissue Metals Water Quality Standard Exceedences
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 38
+    Attribute:
+      Attribute_Label: FMET_STAT
+      Attribute_Definition: Fish Tissue Metals Assessment Status
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: See TEMP_STAT for list of possible values
+          Enumerated_Domain_Value_Definition: See TEMP_STAT for list of definitions
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+    Attribute:
+      Attribute_Label: FTOX_VIO
+      Attribute_Definition: Number of Fish Tissue Toxics Water Quality Standard Exceedences
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 24
+    Attribute:
+      Attribute_Label: FTOX_STAT
+      Attribute_Definition: Fish Tissue Toxics Assessment Status
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: See TEMP_STAT for list of possible values
+          Enumerated_Domain_Value_Definition: See TEMP_STAT for list of definitions
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+    Attribute:
+      Attribute_Label: BENTHIC_ST
+      Attribute_Definition: Benthic Macroinvertebrate Assessment Status
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: blank
+          Enumerated_Domain_Value_Definition: None; not a biological conditions sample station
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: FS
+          Enumerated_Domain_Value_Definition: Fully Supporting VSCI (Virginia Stream Condition Index) or CPMI (Coastal Plain Macroinvertebrate Index)
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: HP
+          Enumerated_Domain_Value_Definition: Citizen Monitoring - High Probability for Adverse Conditions (Insufficient Information but having Observed Effects)
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: IM
+          Enumerated_Domain_Value_Definition: Impaired for VSCI or CPMI
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: IN
+          Enumerated_Domain_Value_Definition: Insufficient Data
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: J
+          Enumerated_Domain_Value_Definition: Reserve Judgment/BPJ (Best Professional Judgment)
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: LP
+          Enumerated_Domain_Value_Definition: Citizen Monitoring - Low Probability for Adverse Conditions (Insufficient Information but indicating Fully Supporting)
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MP
+          Enumerated_Domain_Value_Definition: Citizen Monitoring - Medium Probability for Adverse Conditions (Insufficient Information but having Observed Effects)
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: UI
+          Enumerated_Domain_Value_Definition: USFS MAIS - Impaired
+          Enumerated_Domain_Value_Definition_Source: VA DEQ, USFS
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: UN
+          Enumerated_Domain_Value_Definition: USFS MAIS - Not Impaired
+          Enumerated_Domain_Value_Definition_Source: VA DEQ, USFS
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: UO
+          Enumerated_Domain_Value_Definition: USFS MAIS - Slight Impairment (Observed Effects)
+          Enumerated_Domain_Value_Definition_Source: VA DEQ, USFS
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: W
+          Enumerated_Domain_Value_Definition: Not Assessed
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+    Attribute:
+      Attribute_Label: TP_VIO
+      Attribute_Definition: Number of Total Phosphorus Screening Value Exceedences (in Lake samples this number refers to the number of times the nutrient criteria are exceeded per monitoring year)
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 29
+    Attribute:
+      Attribute_Label: TP_SAMP
+      Attribute_Definition: Number of Total Phosphorus Samples taken (in Lake samples this number refers to the number of monitoring years)
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 45
+    Attribute:
+      Attribute_Label: TP_STAT
+      Attribute_Definition: Total Phosphorus Assessment Status
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: See TEMP_STAT for list of possible values
+          Enumerated_Domain_Value_Definition: See TEMP_STAT for list of definitions
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+    Attribute:
+      Attribute_Label: CHLA_VIO
+      Attribute_Definition: Number of Chlorophyll A Screening Value Exceedences (in Lake samples this number refers to the number of times the nutrient criteria are exceeded per monitoring year)
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 2
+    Attribute:
+      Attribute_Label: CHLA_SAMP
+      Attribute_Definition: Number of Chlorophyll A Samples taken (in Lake samples this number refers to the number of monitoring years)
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 20
+    Attribute:
+      Attribute_Label: CHLA_STAT
+      Attribute_Definition: Chlorophyll A Assessment Status
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: See TEMP_STAT for list of possible values
+          Enumerated_Domain_Value_Definition: See TEMP_STAT for list of definitions
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+    Attribute:
+      Attribute_Label: COMMENTS
+      Attribute_Definition: Comments
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Assessment comments for the monitoring station
+    Attribute:
+      Attribute_Label: ASSESSED
+      Attribute_Definition: Whether or not the station had data used for Assessment Category 1*, 2*, 4* or 5* determinations within the current 6 year data window.
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: n
+          Enumerated_Domain_Value_Definition: No (Not used in the assessment)
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: y
+          Enumerated_Domain_Value_Definition: Yes (Used in the assessment)
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+    Attribute:
+      Attribute_Label: DEQ_STA
+      Attribute_Definition: Whether or not the station was monitored by DEQ
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: n
+          Enumerated_Domain_Value_Definition: No (Not monitored by DEQ)
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: y
+          Enumerated_Domain_Value_Definition: Yes (Monitored by DEQ)
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+    Attribute:
+      Attribute_Label: MAPSTATYPE
+      Attribute_Definition: Station Type (for descriptive and mapping purposes)
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: A
+          Enumerated_Domain_Value_Definition: Ambient (water column) monitoring only
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: AB
+          Enumerated_Domain_Value_Definition: Ambient and Biological monitoring
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: ABT
+          Enumerated_Domain_Value_Definition: Ambient and Biological and Fish Tissue monitoring
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: AT
+          Enumerated_Domain_Value_Definition: Ambient and Fish Tissue monitoring
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: B
+          Enumerated_Domain_Value_Definition: Biological monitoring only
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: BT
+          Enumerated_Domain_Value_Definition: Biological and Fish Tissue monitoring
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: C
+          Enumerated_Domain_Value_Definition: Citizen Monitoring
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: F
+          Enumerated_Domain_Value_Definition: Federal monitoring
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: T
+          Enumerated_Domain_Value_Definition: Fish Tissue monitoring only
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: TR
+          Enumerated_Domain_Value_Definition: Trend Station (monitoring data included in DEQ's Trends Analysis)
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: V
+          Enumerated_Domain_Value_Definition: Virginia Beaches Environmental & Coastal Health (BEACH) Program monitoring
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+    Attribute:
+      Attribute_Label: MAP
+      Attribute_Definition: Mapping code for the major river basins
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: cbaosc
+          Enumerated_Domain_Value_Definition: Chesapeake Bay/Atlantic Ocean and Small Coastal
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: chowds
+          Enumerated_Domain_Value_Definition: Chowan River and Dismal Swamp
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: jamesl
+          Enumerated_Domain_Value_Definition: Lower James River
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: jamesm
+          Enumerated_Domain_Value_Definition: Middle James River
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: jamesu
+          Enumerated_Domain_Value_Definition: Upper James River
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: new
+          Enumerated_Domain_Value_Definition: New River
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: potlow
+          Enumerated_Domain_Value_Definition: Potomac River (lower Potomac only)
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: rapp
+          Enumerated_Domain_Value_Definition: Rappahannock River
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: roanok
+          Enumerated_Domain_Value_Definition: Roanoke River (including the Yadkin River)
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: shen
+          Enumerated_Domain_Value_Definition: Shenandoah River (including the upper Potomac)
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: tennbs
+          Enumerated_Domain_Value_Definition: Tennessee and Big Sandy Rivers
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: york
+          Enumerated_Domain_Value_Definition: York River
+          Enumerated_Domain_Value_Definition_Source: VA DEQ
+    Attribute:
+      Attribute_Label: BASIN_NM
+      Attribute_Definition: Major River Basin Name
+      Attribute_Definition_Source: VA DEQ
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: Chesapeake Bay/Atlantic Ocean and Small Coastal
+          Codeset_Source: VA DEQ, VA DCR
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: Chowan River and Dismal Swamp
+          Codeset_Source: VA DEQ, VA DCR
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: James River - Lower
+          Codeset_Source: VA DEQ, VA DCR
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: James River - Middle
+          Codeset_Source: VA DEQ, VA DCR
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: James River - Upper
+          Codeset_Source: VA DEQ, VA DCR
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: New River
+          Codeset_Source: VA DEQ, VA DCR
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: Potomac River
+          Codeset_Source: VA DEQ, VA DCR
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: Rappahannock River
+          Codeset_Source: VA DEQ, VA DCR
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: Roanoke and Yadkin Rivers
+          Codeset_Source: VA DEQ, VA DCR
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: Shenandoah River
+          Codeset_Source: VA DEQ, VA DCR
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: Tennessee and Big Sandy Rivers
+          Codeset_Source: VA DEQ, VA DCR
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: York River
+          Codeset_Source: VA DEQ, VA DCR
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Darryl M. Glover
+        Contact_Organization: Virginia Department of Environmental Quality
+      Contact_Position: Water Monitoring and Assessment Director
+      Contact_Address:
+        Address_Type: mailing address
+        Address: P.O. Box 1105
+        City: Richmond
+        State_or_Province: Virginia
+        Postal_Code: 23218-1105
+        Country: USA
+      Contact_Voice_Telephone: 804-698-4321
+      Contact_Facsimile_Telephone: 804-698-4032
+      Contact_Electronic_Mail_Address: Darryl.Glover@deq.virginia.gov
+      Hours_of_Service: 0800-1700
+  Resource_Description: Downloadable Data
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: SHP
+        Format_Version_Number: Arc 9.2.6
+        Format_Specification: ESRI Shapefile
+        File_Decompression_Technique: Windows Compression
+        Transfer_Size: 33 MB
+    Fees: none
+    Ordering_Instructions: Requests should be directed to the Data Distributor or Data Point of Contact.
+    Turnaround: 1-3 days
+Metadata_Reference_Information:
+  Metadata_Date: 20101210
+  Metadata_Review_Date: 20101208
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Cleo L. Stevens
+        Contact_Organization: Virginia Department of Environmental Quality
+      Contact_Position: Environmental/GIS Data Specialist Senior
+      Contact_Address:
+        Address_Type: mailing address
+        Address: P.O. Box 1105
+        City: Richmond
+        State_or_Province: Virginia
+        Postal_Code: 23218-1105
+        Country: USA
+      Contact_Voice_Telephone: 804-698-4191
+      Contact_Facsimile_Telephone: 804-698-4032
+      Contact_Electronic_Mail_Address: Cleo.Stevens@deq.virginia.gov
+      Hours_of_Service: 0700-1800 M-Th (EDT)
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Access_Constraints: none
+  Metadata_Use_Constraints: none
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile
