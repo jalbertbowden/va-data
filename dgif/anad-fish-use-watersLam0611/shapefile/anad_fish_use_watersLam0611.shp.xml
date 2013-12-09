@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Virginia Department of Game and Inland Fisheries</origin>
+				<pubdate>July 2010</pubdate>
+				<title>Anadromous Fish Use Waters</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink>http://www.dgif.virginia.gov/gis/gis_data.html</onlink>
+				<ftname Sync="TRUE">anad_fish_use_watersLam0611</ftname><pubinfo><pubplace>Richmond Va</pubplace><publish>VDGIF</publish></pubinfo></citeinfo>
+		</citation>
+		<descript>
+			<abstract>This dataset identifies reaches that are confirmed or potential migration pathways, spawning grounds, or nursery areas for anadromous fish.  The species included in this assessment are alewife (Alosa pseudoharengus), blueback herring (A. aestivalis), American shad (A. sapidissima), hickory shad (A. mediocris), striped bass (Morone americana), and some populations of yellow perch (Perca flavescens).  Certain time-of-year restrictions apply to areas used by anadromous fish.  Data associated with each reach include stream name, reach length, status (confirmed or potential), species confirmed in the reach (if confirmed), watershed, and upstream boundary.  Upstream boundaries were established at impediments or where habitat became unsuitable.</abstract>
+			<purpose>Stocks of anadromous fish have declined dramatically in recent decades.  Many efforts are underway to conserve and to restore these species.  This dataset is intended as a tool to assist in those efforts and in land use planning.</purpose>
+			<supplinf>Other datasets are available from the VDGIF that complement these data.  They are point locations for fish collections and "impediments".</supplinf>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>1/1/1970</begdate>
+					<enddate>7/2010</enddate>
+				</rngdates>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-79.163977</westbc>
+				<eastbc Sync="TRUE">-76.187058</eastbc>
+				<northbc Sync="TRUE">39.004271</northbc>
+				<southbc Sync="TRUE">36.499467</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">30093.791310</leftbc><rightbc Sync="TRUE">287048.181796</rightbc><bottombc Sync="TRUE">60412.712594</bottombc><topbc Sync="TRUE">333479.088072</topbc></lboundng><minalti Sync="TRUE">0.000000</minalti><maxalti Sync="TRUE">0.000000</maxalti></spdom>
+		<keywords>
+			<theme>
+				<themekt>ESRI ArcIMS Topic Categories</themekt>
+				<themekey>biota</themekey>
+				<themekey>fish</themekey>
+				<themekey>clupeids</themekey>
+				<themekey>anadromous</themekey>
+			</theme>
+			<place>
+				<placekey>Virginia</placekey>
+			</place>
+		</keywords>
+		<accconst>These data are available to public or private entities with permission of the Virginia Department of Game and Inland Fisheries (VDGIF).</accconst>
+		<useconst>
+Neither the VDGIF nor the contributors of data to VDGIF shall be held liable for any improper or incorrect use or application of the data provided, and assume no responsibility for the use or application of the data or information derived from interpretation of the data. In no event shall the VDGIF or its collaborators be liable for any direct, indirect, or incidental damages arising from the use or application of these data. This disclaimer of liability applies to any damages or injury, including but not limited to those caused by any failure of performance, error, omission, defect, delay in operation or transmission, computer virus, alteration, use, application, analysis, or interpretation of data.
+
+Use of data in publications, either digital or hardcopy, must be cited as follows: Anadromous Fish Use Waters.   2006.   Virginia Department of Game and Inland Fisheries.
+</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Kendell Ryan</cntper>
+					<cntorg>VA Department of Game and Inland Fisheries</cntorg>
+				</cntperp>
+				<cntpos>Acting GIS Coordinator</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>4010 W. Broad Street</address>
+					<city>Richmond</city>
+					<state>VA</state>
+					<postal>23230</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>804-367-0068</cntvoice>
+				<cntfax>804-367-2427</cntfax>
+				<cntemail>kendell.ryan@dgif.virginia.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<datacred>The base layer hydrography for this dataset is the USGS National Hydrography Dataset, High and Medium resolution.</datacred>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform></idinfo>
+	<dataqual>
+		<complete>No warranty, expressed or implied, is made regarding the accuracy, adequacy, completeness, reliability, or usefulness of any data provided. These data are provided on an "as is" basis. All warranties of any kind, express or implied, including but not limited to fitness for a particular use, freedom from computer viruses, and non-infringement of proprietary rights, are disclaimed. Data are added and changed periodically, and data may become out-of-date quickly. It is recommended that the user not let a significant period of time elapse between obtaining and using the data.</complete>
+		<lineage>
+			<srcinfo>
+				<srcscale>100,000 and 1:24,000</srcscale>
+				<typesrc>Downloaded Geodatabases</typesrc>
+				<srccitea>USGS NHD High, USGS NHD Medium Resolution</srccitea>
+			</srcinfo>
+			<procstep>
+				<procdesc>Point collections for anadromous fish from VDGIF Collections and Fisheries Division databases were originally displayed with the USEPA Reach Files (v. 3).  Collections that met certain criteria were used to identify and to select confirmed reaches.  These reaches were then attributed with information about collected fish species.  Potential reaches were added from the USEPA reach files.  Stream names were checked using USGS 1:24K DRG topographic maps.  VDGIF collections and Fisheries Division datasets were spatially attributed using a range of methods, however, most were assigned coordinates based on 1:24K USGS topographic maps.  Upstream boundaries of reaches were determined using the VDGIF impediments dataset and USGS 1:24K DRG topographic maps. During this version, the delineation of anadromous reaches from the original USEPA Reach Files (v.3) was transferred to the updated High and Medium resolution USGS NHD polygons. The high resolution data was used where available at time of update. Three units in the Chowan were not complete at this scale and medium resolution data were used.</procdesc>
+				<proccont>
+					<cntinfo>
+						<cntperp></cntperp>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="anad_fish_use_watersLam0611">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">271</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="anad_fish_use_watersLam0611"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polygon</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">271</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">TRUE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000000</absres>
+						<ordres Sync="TRUE">0.000000</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">meters</plandu>
+				</planci>
+				<mapproj><mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn><lambertc><stdparll Sync="TRUE">37.000000</stdparll><stdparll Sync="TRUE">39.500000</stdparll><longcm Sync="TRUE">-79.500000</longcm><latprjo Sync="TRUE">36.000000</latprjo><feast Sync="TRUE">0.000000</feast><fnorth Sync="TRUE">0.000000</fnorth></lambertc></mapproj></planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><projcsn Sync="TRUE">North_America_Lambert_Conformal_Conic</projcsn></cordsysn></horizsys>
+		<vertdef>
+			<altsys>
+				<altres Sync="TRUE">0.000100</altres>
+				<altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed Name="anad_fish_use_watersLam0611">
+			<enttyp>
+				<enttypl Sync="TRUE">anad_fish_use_watersLam0611</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">271</enttypc></enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>UPST_BOUND</attrlabl>
+				<attrdef>A textual description of the upstream boundary of the anadromous fish use area.</attrdef>
+				<attrdefs>DGIF</attrdefs>
+				<attalias Sync="TRUE">UPST_BOUND</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth></attr>
+			<attr>
+				<attrlabl>UniqueID</attrlabl>
+				<attrdef>Unique identifier assigned to each polygon</attrdef>
+				<attalias Sync="TRUE">UniqueID</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">10</attwidth></attr>
+			<attr>
+				<attrlabl>streamname</attrlabl>
+				<attrdef>The name of the stream identified as an anadromous fish use area.  Names are from the USGS 7.5' topographic maps.</attrdef>
+				<attrdefs>USGS</attrdefs>
+				<attalias Sync="TRUE">streamname</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth></attr>
+			<attr>
+				<attrlabl>conf_spp</attrlabl>
+				<attrdef>The 3-letter code of the species confirmed in the reach</attrdef>
+				<attrdefs>DGIF</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>BLH</edomv>
+						<edomvd>Blueback herring</edomvd>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>YEP</edomv>
+						<edomvd>Yellow perch</edomvd>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>ALE</edomv>
+						<edomvd>Alewife</edomvd>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>AMS</edomv>
+						<edomvd>American shad</edomvd>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>HIS</edomv>
+						<edomvd>Hickory Shad</edomvd>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>STB</edomv>
+						<edomvd>Striped bass</edomvd>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">conf_spp</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth></attr>
+			<attr>
+				<attrlabl>MJR_DRAIN</attrlabl>
+				<attrdef>The drainage in which the reach is located (Potomac, Rappahannock, James, Chowan, York, or direct Chesapeake Bay).</attrdef>
+				<attrdefs>USGS</attrdefs>
+				<attalias Sync="TRUE">MJR_DRAIN</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">30</attwidth></attr>
+			<attr>
+				<attrlabl>STATUS</attrlabl>
+				<attrdef>Indicates whether or not anadromous fish species have been documented within the reach.  If species have not been documented but the reach is connected to a confirmed reach, the status is considered "potential".</attrdef>
+				<attrdefs>DGIF</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Confirmed</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Potential</edomv>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">STATUS</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">20</attwidth></attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>VA Dept. of Game &amp; Inland Fisheries</cntorg>
+					<cntper>Kendell Ryan</cntper>
+				</cntorgp>
+				<cntpos>Acting GIS Coordinator</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>4010 W. Broad St.</address>
+					<city>Richmond</city>
+					<state>VA</state>
+					<postal>23230</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>804-367-0068</cntvoice>
+				<cntfax>804-367-2427</cntfax>
+				<cntemail>kendell.ryan@dgif.virginia.gov</cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>he VDGIF provides these data on an as is basis. All warranties of any kind, express or implied, including but not limited to fitness for a particular use, freedom from computer viruses, and non-infringement of proprietary rights are disclaimed. Neither the VDGIF nor the contributors to the VDGIF Fish and Wildlife Information Service (FWIS) shall be held liable for any improper or incorrect use of the information contained herein and assume no responsibility for the use of the information. In no event shall the VDGIF or the contributors to the FWIS be liable for any direct, indirect, or incidental damages arising in any way out of the use of this service. This disclaimer of liability applies to any damages or injury, including but not limited to those caused by any failure of performance, error, omission, defect, delay in operation or transmission, computer virus, alteration or use of record.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>14.649</transize>
+					<dssize Sync="TRUE">14.660</dssize></digtinfo>
+			</digform>
+			<fees>n/a</fees>
+			<ordering>http://www.dgif.virginia.gov/gis/gis-data.asp</ordering>
+			<turnarnd>n/a</turnarnd>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20110616</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>VA Dept. of Game and Inland Fisheries</cntorg>
+					<cntper>Justin Ray</cntper>
+				</cntorgp>
+				<cntpos>GIS Database and Applications Specialist</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>4010 W. Broad St.</address>
+					<city>Richmond</city>
+					<state>VA</state>
+					<postal>23230</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>804-367-4370</cntvoice>
+				<cntfax>804-367-2427</cntfax>
+				<cntemail>justin.ray@dgif.virginia.gov</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><CreaDate>20110616</CreaDate><CreaTime>15125800</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20110616</SyncDate><SyncTime>15222700</SyncTime><ModDate>20110616</ModDate><ModTime>15231700</ModTime><PublishStatus>Published</PublishStatus><MetaID>{6585E974-9642-410D-BA57-B6C5A269CF1B}</MetaID><DataProperties><lineage><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Append" Date="20110616" Time="151317">Append '3 new creeks' anad_fish_use_watersLam0611 NO_TEST "UniqueID 'UniqueID' true false false 10 Text 0 0 ,First,#;FID_1 'FID_1' true false false 9 Long 0 9 ,First,#;UPST_BOUND 'UPST_BOUND' true false false 50 Text 0 0 ,First,#;UniqueID_1 'UniqueID_1' true false false 10 Text 0 0 ,First,#;STATUS 'STATUS' true false false 20 Text 0 0 ,First,#;streamname 'streamname' true false false 50 Text 0 0 ,First,#,K:\GISData\FaunalFeatures\Anad_Fish\update_temp\3 new creeks.shp,streamname,-1,-1;conf_spp 'conf_spp' true false false 50 Text 0 0 ,First,#;MJR_DRAIN 'MJR_DRAIN' true false false 30 Text 0 0 ,First,#;ORIG_FID 'ORIG_FID' true false false 9 Long 0 9 ,First,#" # anad_fish_use_watersLam0611</Process><Process ToolSource="D:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\DefineProjection" Date="20110616" Time="184159">DefineProjection anad_fish_use_watersLam0611 PROJCS['North_America_Lambert_Conformal_Conic',GEOGCS['GCS_North_American_1983',DATUM['D_North_American_1983',SPHEROID['GRS_1980',6378137.0,298.257222101]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Lambert_Conformal_Conic'],PARAMETER['False_Easting',0.0],PARAMETER['False_Northing',0.0],PARAMETER['Central_Meridian',-79.5],PARAMETER['Standard_Parallel_1',37.0],PARAMETER['Standard_Parallel_2',39.5],PARAMETER['Latitude_Of_Origin',36.0],UNIT['Meter',1.0]] anad_fish_use_watersLam0611</Process><Process ToolSource="D:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\DefineProjection" Date="20110616" Time="184258">DefineProjection anad_fish_use_watersLam0611 PROJCS['NAD_1983_UTM_Zone_17N',GEOGCS['GCS_North_American_1983',DATUM['D_North_American_1983',SPHEROID['GRS_1980',6378137.0,298.257222101]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Transverse_Mercator'],PARAMETER['False_Easting',500000.0],PARAMETER['False_Northing',0.0],PARAMETER['Central_Meridian',-81.0],PARAMETER['Scale_Factor',0.9996],PARAMETER['Latitude_Of_Origin',0.0],UNIT['Meter',1.0]] anad_fish_use_watersLam0611</Process></lineage></DataProperties></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.4000</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">anad_fish_use_watersLam0611</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">30093.79131</westBL><eastBL Sync="TRUE">287048.181796</eastBL><northBL Sync="TRUE">333479.088072</northBL><southBL Sync="TRUE">60412.712594</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-79.163977</westBL><eastBL Sync="TRUE">-76.187058</eastBL><northBL Sync="TRUE">39.004271</northBL><southBL Sync="TRUE">36.499467</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\Gis\Share\Data\GISData\FaunalFeatures\Anad_Fish\anad_fish_use_watersLam0611.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">14.660</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">North_America_Lambert_Conformal_Conic</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="anad_fish_use_watersLam0611"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">271</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20110616</mdDateSt><mdFileID Sync="TRUE">{11A7D7E0-D076-4D4C-9819-91748486BCB4}</mdFileID></metadata>

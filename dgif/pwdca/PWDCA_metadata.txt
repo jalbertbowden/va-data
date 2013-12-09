@@ -1,0 +1,288 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: DGIF
+      Publication_Date: July 2009
+      Title: Priority Wildlife Diversity Conservation Areas
+      Geospatial_Data_Presentation_Form: raster digital data
+      Other_Citation_Details: This dataset was funded funded, in part, by the Virginia Coastal Zone Management Program at the Department of Environmental Quality through Grant #FY08 NAO8NOS4190466, Task 11.02 of the U.S. Department of Commerce, National Oceanic and Atmospheric Administration, under the Coastal Zone Management Act of 1972, as amended.
+      Online_Linkage: n/a
+  Description:
+    Abstract: The Priority Wildlife Diversity Conservation Areas (PWDCA) dataset was created by the Virginia Department of Game and Inland Fisheries (DGIF) to identify areas important to conservation of nongame wildlife, based on recommendations from DGIF biologists, Virginia's Wildlife Action Plan, and other sources.  This is part of a larger effort to map Priority Conservation Areas in the coastal zone of Virginia through a partnership between DGIF, Department of Conservation and Recreation - Natural Heritage, and Virginia Commonwealth University's Center for Environmental Studies.  The PWDCA highlights areas due to the presence of unfragmented habitat, wetlands, identified habitat for rare species, and/or special wildlife features such as waterbird colonies, designated important bird areas, or anadromous fish use areas.  Areas are also included in the PWDCA if they border these features, providing a minimum protective buffer.  The PWDCA has values from 1-5, with 5 being the highest priority.  The 1-5 values are subjective rankings based on expert opinions.
+    Purpose: The PWDCA is a generalized subjective map intended to guide initial conservation planning or green infrastructure efforts.  It does not replace the need for on-the-ground surveys or consultations with biologists, land managers, and planners.  This map does not constitute official legal or technical advice.  It is recommended that conservation priority be given to sites with the highest PWDCA value in consultation with a wildlife biologist using contact information below.  Please also consider protection and management of entire watersheds, as impacts to headwaters areas have cumulative affects on downstream priority features such as rivers and wetlands.
+    Supplemental_Information: Information on specific weights included in the model, and the process for determining weights will be included in the final report.  Contact DGIF for further information.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 2005
+        Ending_Date: 2009
+    Currentness_Reference: 2009
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: Irregular
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -77.984936
+      East_Bounding_Coordinate: -75.183566
+      North_Bounding_Coordinate: 39.066903
+      South_Bounding_Coordinate: 36.505357
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ESRI ArcIMS Topic Categories
+      Theme_Keyword: biota
+      Theme_Keyword: Wildlife
+      Theme_Keyword: Conservation
+      Theme_Keyword: Wildlife Action Plan
+      Theme_Keyword: Habitat
+      Theme_Keyword: Aquatic
+      Theme_Keyword: Terrestrial
+      Theme_Keyword: Anadromous
+      Theme_Keyword: Wetland
+  Access_Constraints: These data are available to public or private entities with permission of the Virginia Department of Game and Inland Fisheries (VDGIF).
+  Use_Constraints: Neither the VDGIF nor the contributors of data to VDGIF shall be held liable for any improper or incorrect use or application of the data provided, and assume no responsibility for the use or application of the data or information derived from interpretation of the data. In no event shall the VDGIF or its collaborators be liable for any direct, indirect, or incidental damages arising from the use or application of these data. This disclaimer of liability applies to any damages or injury, including but not limited to those caused by any failure of performance, error, omission, defect, delay in operation or transmission, computer virus, alteration, use, application, analysis, or interpretation of data.  Because these source datasets, as well as our knowledge about wildlife resources are dynamic, we strongly recommend you contact DGIF for specific recommendations on your area of interest.  It is also recommended that you request updates of the PWDCA dataset at least once every 6 months.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Dave Morton
+        Contact_Organization: Dept. of Game and Inland Fisheries
+      Contact_Position: GIS Manager
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 4010 West Broad St
+        City: Richmond
+        State_or_Province: VA
+        Postal_Code: 23230
+        Country: USA
+      Contact_Voice_Telephone: 804-367-6772
+      Contact_Facsimile_Telephone: 804-367-2427
+      Contact_Electronic_Mail_Address: dave.morton@dgif.virginia.gov
+  Data_Set_Credit: Use of data in publications, either digital or hardcopy, must be cited as follows: Priority Wildlife Diversity Conservation Areas.  2009.  Virginia Department of Game and Inland Fisheries.
+  Native_Data_Set_Environment: Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.6.1500
+Data_Quality_Information:
+  Completeness_Report: These data are complete to the best of our knowledge.  No warranty, expressed or implied, is made regarding the accuracy, adequacy, completeness, reliabiligy, or usefulness of any data provided.  The PWDCA is a compilation of existing datasets ranked by agency biologists.  Because these source datasets, as well as our knowledge about wildlife resources are dynamic, we strongly recommend you contact DGIF for specific recommendations on your area of interest.  It is also recommended that you request updates of the PWDCA dataset at least once every 6 months.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: DGIF
+          Publication_Date: 2006
+          Title: Anadromous Fish Use Waters
+          Geospatial_Data_Presentation_Form: vector digital data
+          Online_Linkage: http://www.dgif.virginia.gov/gis/gis_data.html
+      Source_Scale_Denominator: 1:24,000 and 1:100,000
+      Source_Citation_Abbreviation: Anadromous Fish 2006
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Center for Conservation Biology, College of William and Mary
+          Publication_Date: 2003
+          Title: Colonial Waterbird Data
+          Geospatial_Data_Presentation_Form: vector digital data
+          Online_Linkage: http://ccb.wm.edu/
+      Source_Citation_Abbreviation: CWB 2003
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: DGIF
+          Publication_Date: 2005
+          Title: Tier I and II Essential Habitat
+          Geospatial_Data_Presentation_Form: raster digital data
+          Online_Linkage: http://bewildvirginia.org/
+      Source_Citation_Abbreviation: Essential Habitat 2005
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Virginia Audubon Society
+          Publication_Date: 2007
+          Title: Virginia Important Bird Areas
+          Geospatial_Data_Presentation_Form: vector digital data
+          Online_Linkage: http://www.audubon.org/bird/iba/virginia/
+      Source_Citation_Abbreviation: IBA
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Fish & Wildlife Service
+          Publication_Date: 2005
+          Title: National Wetlands Inventory
+          Geospatial_Data_Presentation_Form: video
+          Online_Linkage: http://www.nwi.fws.gov
+      Source_Scale_Denominator: 1:24,000
+      Source_Citation_Abbreviation: NWI
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey and the Environmental Protection Agency
+          Publication_Date: 1999
+          Title: National Hydrography dataset
+          Geospatial_Data_Presentation_Form: vector digital data
+          Online_Linkage: http://nhd.usgs.gov
+      Source_Scale_Denominator: 1:100,000
+      Source_Citation_Abbreviation: NHD
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: DGIF
+          Publication_Date: Unpublished Material
+          Title: Aquatic Habitat Classification
+          Geospatial_Data_Presentation_Form: vector digital data
+          Online_Linkage: http://bewildvirginia.org
+      Source_Scale_Denominator: 1:100,000
+      Source_Citation_Abbreviation: DGIF's Aquatic Habitat Classification
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: DGIF
+          Publication_Date: Unpublished Material
+          Title: Species Observations Database
+          Geospatial_Data_Presentation_Form: vector digital data
+          Online_Linkage: ttp://www.vafwis.org/fwis/
+      Source_Scale_Denominator: Various
+      Source_Citation_Abbreviation: DGIF's Spp Obs
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: DGIF
+          Publication_Date: 2005
+          Title: Wildlife Action Plan
+          Online_Linkage: http://bewildvirginia.org
+      Source_Scale_Denominator: n/a
+      Type_of_Source_Media: online
+      Source_Citation_Abbreviation: WAP
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Dept. of Conservation and Recreation, Division of Natural Heritage
+          Publication_Date: March 2009
+          Title: Virginia Natural Heritage Program's Biotics Data System
+          Other_Citation_Details: Data provided through cooperative agreement with DCR. For more information about these data please contact the DCR data manager
+          Online_Linkage: http://www.dcr.virginia.gov/dnh
+      Source_Citation_Abbreviation: DCR-NH, 2009
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Dept. of Conservation and Recreation, Division of Natural Heritage
+          Publication_Date: June 2008
+          Title: Conservation Lands
+          Online_Linkage: http://www.dcr.virginia.gov/natural_heritage/cldownload.shtml
+      Source_Scale_Denominator: 1:24,000
+      Source_Citation_Abbreviation: DCR-NH, 2008
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Va. Dept. of Conservation and Recreation, Division of Natural Heritage
+          Publication_Date: April 2006
+          Title: National Landscape Assessment (NLA)
+          Online_Linkage: http://www.dcr.virginia.gov/natural_heritage/vclnavnla.shtml
+      Source_Citation_Abbreviation: DCR-NH, 2006
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Publication_Date: May 2007
+          Title: Virginia National Waterbody Boundary Dataset
+          Online_Linkage: http://www.dcr.virginia.gov/soil_and_water/hu.shtml
+      Source_Citation_Abbreviation: NWBD
+    Process_Step:
+      Process_Description: Compiled riparian areas - Removed sea/ocean and pipelines from waterbody types in NHD.  Unioned reaches represented by waterbodies with line features.  Buffered all features by 100m. Assigned appropriate weights.
+      Source_Used_Citation_Abbreviation: NHD
+      Source_Used_Citation_Abbreviation: NWBD
+      Process_Date: May, 2009
+    Process_Step:
+      Process_Description: Wetland areas: For Wooded wetlands selected EFO, PFO from NWI.  Buffered wooded wetlands by 200m.  For Non-wooded selected E2EM, E2SS, PSS, PEM and PUB (no extracted areas). Buffered non-wooded wetlands by 150m. Assigned appropriate weights.  Unioned layers and dissolved on max value to remove duplication and overlap.
+      Source_Used_Citation_Abbreviation: NWI
+      Process_Date: May 2009
+    Process_Step:
+      Process_Description: IBA's: selected IBA's in Coastal zone and assigned appropriate weights.
+      Source_Used_Citation_Abbreviation: IBA
+      Process_Date: May 2009
+    Process_Step:
+      Process_Description: Anadromous fish use areas: Buffered all (confirmed and potential) anadromous fish use reaches by 100m.  Assigned appropriate weights.  Used union and dissolve function to remove areas of overlap.
+      Source_Used_Citation_Abbreviation: Anadromous Fish 2006
+      Process_Date: May 2009
+    Process_Step:
+      Process_Description: For DCR-NH's Cores layer, assigned appropriate weights.
+      Source_Used_Citation_Abbreviation: DCR-NH, 2006
+      Process_Date: May 2009
+    Process_Step:
+      Process_Description: Unique terrestrial areas: Selected unique terrestrial areas as identified by DGIF biologists and weighted accordingly.  For boundaries of areas, used DCR-NH Conservation Sites boundaries, DCR Conservation lands boundaries and county boundaries for bay islands.  For canebreak peninusula area, used area drawn by biologist.
+      Source_Used_Citation_Abbreviation: DCR-NH, 2008
+      Source_Used_Citation_Abbreviation: DCR-NH, 2009
+      Process_Date: May 2009
+    Process_Step:
+      Process_Description: Unique aquatic areas: For unique aquatic areas identified by biologists, selected reachesf from NHD and weighted accordingly.
+      Source_Used_Citation_Abbreviation: NHD
+      Process_Date: May 2009
+    Process_Step:
+      Process_Description: Terrestrial tiered data: For confirmed habitat, excluded birds, buffered locations by 200m.  Assigned weights according to tier.  Confirmed habitat included DCR Conservation Sites and DGIF Species Observations.  Buffered potential habitat created during the Wildlife Action Plan and weighted appropriately.  Worked in MS Access and to remove duplicate species and calculate final weights
+      Source_Used_Citation_Abbreviation: DGIF's Spp Obs
+      Source_Used_Citation_Abbreviation: WAP
+      Source_Used_Citation_Abbreviation: DCR-NH, 2009
+      Process_Date: July 2009
+    Process_Step:
+      Process_Description: Aquatic tiered data: Used potential and confirmed reaches created during the Wildlife Action Plan and (based on DGIF Aquatic Habitat Classification), and waterbody areas from NHD.  Assigned appropriate weights according to tier and confirmed or potential values.  Used National Waterbody Boundary Dataset to intersect waterbodies before relating centerlines back to waterbodies.  Worked on Access to remove duplicate species information and calculate final weights for each reach.  Confirmed reaches were buffered by 300m, potential reaches by 150m.
+      Source_Used_Citation_Abbreviation: NHD
+      Source_Used_Citation_Abbreviation: DGIF's Aquatic Habitat Classification
+      Source_Used_Citation_Abbreviation: WAP
+      Process_Date: June 2009
+    Process_Step:
+      Process_Description: Dataset copied.
+      Source_Used_Citation_Abbreviation: K:\projects\PWCA\GIS\Compile\Final_indiv_rasters_czone\metadata
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Raster
+  Raster_Object_Information:
+    Raster_Object_Type: Grid Cell
+    Row_Count: 2770
+    Column_Count: 2381
+    Vertical_Count: 1
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Map_Projection:
+        Map_Projection_Name: Lambert Conformal Conic
+        Lambert_Conformal_Conic:
+          Standard_Parallel: 37.000000
+          Standard_Parallel: 39.500000
+          Longitude_of_Central_Meridian: -79.500000
+          Latitude_of_Projection_Origin: 36.000000
+          False_Easting: 0.000000
+          False_Northing: 0.000000
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: row and column
+        Coordinate_Representation:
+          Abscissa_Resolution: 100.000000
+          Ordinate_Resolution: 100.000000
+        Planar_Distance_Units: meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+Distribution_Information:
+  Resource_Description: Data provided as requested
+  Distribution_Liability: The VDGIF provides these data on an as is basis. All warranties of any kind, express or implied, including but not limited to fitness for a particular use, freedom from computer viruses, and non-infringement of proprietary rights are disclaimed. Neither the VDGIF nor the contributors to this dataset shall be held liable for any improper or incorrect use of the information contained herein and assume no responsibility for the use of the information. In no event shall the VDGIF or the contributors to this dataset be liable for any direct, indirect, or incidental damages arising in any way out of the use of this service. This disclaimer of liability applies to any damages or injury, including but not limited to those caused by any failure of performance, error, omission, defect, delay in operation or transmission, computer virus, alteration or use of record.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Transfer_Size: 27.130
+Metadata_Reference_Information:
+  Metadata_Date: 20090908
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Va. Dept. of Game & Inland Fisheries
+        Contact_Person: Kendell Ryan
+      Contact_Position: GIS Specialist
+      Contact_Address:
+        Address_Type: 4010 W. Broad St.
+        City: Richmond
+        State_or_Province: VA
+        Postal_Code: 23230
+        Country: USA
+      Contact_Voice_Telephone: 804-367-0068
+      Contact_Facsimile_Telephone: 804-367-2427
+      Contact_Electronic_Mail_Address: kendell.ryan@dgif.virginia.gov
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile
