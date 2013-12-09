@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ID": 1, "NAME": "Vic Thomas", "X_COORD": 683128.092340, "Y_COORD": 4100829.994550 }, "geometry": { "type": "Point", "coordinates": [ 49756.806700, 115340.830500 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 2, "NAME": "Buller", "X_COORD": 451787.875010, "Y_COORD": 4068081.465920 }, "geometry": { "type": "Point", "coordinates": [ -182156.212200, 86279.108200 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 3, "NAME": "Marion", "X_COORD": 457017.676620, "Y_COORD": 4075371.107840 }, "geometry": { "type": "Point", "coordinates": [ -176345.973800, 93349.956100 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 4, "NAME": "Coursey Springs", "X_COORD": 624165.847350, "Y_COORD": 4226341.256420 }, "geometry": { "type": "Point", "coordinates": [ -7197.641000, 241769.599800 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 5, "NAME": "Front Royal", "X_COORD": 734540.823580, "Y_COORD": 4314511.591880 }, "geometry": { "type": "Point", "coordinates": [ 104582.957100, 328100.393500 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 6, "NAME": "King and Queen", "X_COORD": 858408.470780, "Y_COORD": 4184630.072560 }, "geometry": { "type": "Point", "coordinates": [ 226208.929800, 196341.435200 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 7, "NAME": "Montebello", "X_COORD": 664618.297820, "Y_COORD": 4190020.908890 }, "geometry": { "type": "Point", "coordinates": [ 32514.468800, 204681.595700 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 8, "NAME": "Paint Bank", "X_COORD": 565893.735190, "Y_COORD": 4155722.444820 }, "geometry": { "type": "Point", "coordinates": [ -65773.264200, 172692.664000 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 9, "NAME": "Wytheville", "X_COORD": 508882.426450, "Y_COORD": 4087294.671820 }, "geometry": { "type": "Point", "coordinates": [ -124584.997200, 104540.019500 ] } }
+
+]
+}

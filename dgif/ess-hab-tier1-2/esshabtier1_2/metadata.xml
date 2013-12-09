@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<title>Tier 1 and 2 Essential Habitat</title>
+				<edition>n/a</edition>
+				<geoform Sync="TRUE">raster digital data</geoform>
+				<pubinfo><publish>VA Dept. of Game and Inland Fisheries</publish></pubinfo>
+				<lworkcit>
+					<citeinfo>
+						<origin>VDGIF</origin>
+						<pubdate>September 2005</pubdate>
+						<title>Virginia's Wildlife Action Plan</title>
+						<othercit>Report submitted to U.S. Fish and Wildlife Service.</othercit>
+						<onlink>http://bewildvirginia.org/</onlink>
+					</citeinfo>
+				</lworkcit>
+				<origin>VA Dept. of Game &amp; Inland Fisheries</origin><pubdate>September 2008</pubdate><ftname Sync="TRUE">esshabtier1_2</ftname><onlink>n/a</onlink></citeinfo>
+		</citation>
+		<descript>
+			<abstract>The EssHabTier1_2 raster shows the number of Tier 1, 2 or listed species with mapped potential or confirmed essential habitat across Virginia.  These data were created as part of the Virginia Wildlife Action Plan (WAP).  This is a combination of mapped habitat from 149 terrestrial species and 98 aquatic species.  Of the 358 species in these Tiers, habitat was mapped for 247 species.  These habitats were summarized to show areas of conservation opportunity.</abstract>
+			<purpose>This dataset is intended to highlight wildlife habitat conservation opportunities in Virginia.  All areas with the potential to support a tiered species species are important, however areas that may support multiple species represent areas of greater conservation impact.</purpose>
+			<supplinf>For more information on the Wildlife Action Plan and how species' habitats were determined, visit http://bewildvirginia.org.</supplinf>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>20080914</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-83.841967</westbc>
+				<eastbc Sync="TRUE">-75.129964</eastbc>
+				<northbc Sync="TRUE">39.509864</northbc>
+				<southbc Sync="TRUE">36.409218</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">-373690.330551</leftbc><rightbc Sync="TRUE">376109.669449</rightbc><bottombc Sync="TRUE">53949.166600</bottombc><topbc Sync="TRUE">389549.166600</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>Biota</themekey>
+				<themekey>Wildlife Action Plan</themekey>
+				<themekey>Wildlife</themekey><themekey>Habitats</themekey><themekey>Imperiled</themekey><themekey>Conservation</themekey><themekey>WAP</themekey><themekey>CWCS</themekey><themekey>Virginia</themekey></theme>
+		</keywords>
+		<accconst>These data are available to public or private entites with permission of the Virginia Department of Game and Inland Fisheries (VDGIF), Wildlife Diversity Division.</accconst>
+		<useconst>This dataset is not intended for use as a sole source of information about the locations of Virginia's wildlife species.  Neither the VDGIF nor the contributors to the Wildlife Action Plan hall be held liable for any improper or incorrect use of the information contained herein and assume no responsibility for the use of the information.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Virginia Department of Game and Inland Fisheries, Wildlife Diversity Division, Fish and Wildlife Information Services.</cntorg>
+					<cntper>Kendell Ryan</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>4010 West Broad Street</address>
+					<city>Richmond</city>
+					<state>VA</state>
+					<postal>23130</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>804-367-0068</cntvoice>
+				<cntemail>kendell.ryan@dgif.virginia.gov</cntemail>
+				<cntfax>804-367-2427</cntfax></cntinfo>
+		</ptcontac>
+		<datacred>There were several contributors including Department of Conservation and Recreation-Division of Natural Heritage.  Species' habitat maps were reviewed by VDGIF's Taxanomic Advisory Committees.</datacred>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.2.1350</native>
+		<natvform Sync="TRUE">Raster Dataset</natvform></idinfo>
+	<dataqual>
+		<lineage>
+			<procstep>
+				<procdesc>Confirmed terrestrial locations, which included mostly DGIF Collections (DGIF 2006) were buffered by 100 meters for all Tier II and T&amp;E species.</procdesc>
+				<srcused>DGIF Spp Obs</srcused>
+				<procdate>2007</procdate></procstep>
+			<procstep>
+				<procdesc>Dissolved features on Biota of Virginia (BOVA) species number within confirmed habitat shapefile, potential habitat shapefile, and Department of Conservation and Recreation-Division of Natural Heritige Conservation Sites.</procdesc>
+				<srcused>DCR-NH 2007</srcused>
+				<procdate>7/2008</procdate></procstep>
+			<procstep>
+				<procdesc>For each terrestrial species, all three habitat types (confirmed, potential and DCR-NH) were merged and dissolved on species.</procdesc>
+				<procdate>8/2008</procdate><srcused>DGIF Spp Obs</srcused><srcused>DCR-NH 2007</srcused></procstep>
+			<procstep>
+				<procdesc>All terrestrial species essential habitat layers were unioned together, and species were summed to produce a count in each area.</procdesc>
+				<procdate>9/2008</procdate></procstep>
+			<procstep>
+				<procdesc>Based on count of terrestrial species' habitats, a raster layer with 100 meter cell size was created.</procdesc>
+				<procdate>9/2008</procdate></procstep>
+			<procstep>
+				<procdesc>All confirmed and potential reaches were buffered by 100m and converted to a 100m cell raster layer with the number of species per layer used as value</procdesc>
+				<procdate>9/2008</procdate></procstep>
+			<procstep>
+				<procdesc>The terrestrial and aquatic rasters were added together using largest extent.</procdesc>
+				<procdate>9/2008</procdate></procstep>
+			<procstep><procdesc>Resulting raster from Tier II and T&amp;E was added to Tier I Essential Habitat raster to result in the EssHabTier1_2 raster</procdesc><srcused>DGIF Tier I Ess Hab</srcused><procdate>9/2008</procdate></procstep><srcinfo><srccite><citeinfo><origin>USGS</origin><pubdate>2003</pubdate><title>National Elevation Dataset</title><onlink>http://usgs.seamless.gov</onlink></citeinfo></srccite><srcscale>30m</srcscale><typesrc>raster</typesrc><srccitea>NED</srccitea></srcinfo><srcinfo><srccite><citeinfo><origin>USGS</origin><pubdate>2001</pubdate><title>National Landcover Dataset</title><onlink>http://usgs.seamless.gov</onlink></citeinfo></srccite><srcscale>30m</srcscale><typesrc>raster</typesrc><srccitea>NLCD 2001</srccitea></srcinfo><srcinfo><srccite><citeinfo><origin>DGIF</origin><pubdate>Unpublished Material</pubdate><title>DGIF Species Observations Database</title><onlink>http://www.vafwis.org/fwis/</onlink></citeinfo></srccite><typesrc>digital</typesrc><srccitea>DGIF Spp Obs</srccitea></srcinfo><srcinfo><srccite><citeinfo><origin>Mid-Atlantic RESAC, University of Maryland, College Park</origin><pubdate>2000</pubdate><title>RESAC 2000 Land Use / Land Cover Map v. 1.1</title><onlink>n/a</onlink></citeinfo></srccite><srcscale>30m</srcscale><typesrc>digital</typesrc><srccitea>RESAC 2000</srccitea></srcinfo><srcinfo><srccite><citeinfo><origin>U.S. Fish and Wildlife Service</origin><pubdate>1995</pubdate><title>National Wetlands Inventory</title><onlink>http://www.nwi.fws.gov</onlink></citeinfo></srccite><srcscale>1:24,000</srcscale><typesrc>Digital</typesrc><srccitea>NWI</srccitea></srcinfo><srcinfo><srccite><citeinfo><origin>Center for Coastal Resource Management, Virginia Institute of Marine Science</origin><pubdate>1992</pubdate><title>Tidal Marsh Inventory</title></citeinfo></srccite><srcscale>1:24,000</srcscale><typesrc>digital</typesrc><srccitea>VIMS-TMI</srccitea></srcinfo><srcinfo><srccite><citeinfo><origin>Southeast Gap Analysis Program</origin><pubdate>2007</pubdate><title>Southeast GAP Landcover</title><othercit>Biological Resources Division of the United States Geological Survey (USGS-BRD</othercit><onlink>http://www.basic.ncsu.edu/segap/index.html</onlink></citeinfo></srccite><srcscale>30M</srcscale><typesrc>digital</typesrc><srccitea>SE GAP</srccitea></srcinfo><srcinfo><srccite><citeinfo><origin>DGIF</origin><pubdate>Unpublished Material</pubdate><title>Aquatic Habitat Classification</title><onlink>http://bewildvirginia.org</onlink></citeinfo></srccite><srcscale>1:100,000</srcscale><typesrc>digital</typesrc><srccitea>DGIF's Aquatic Habitat Classification</srccitea></srcinfo><srcinfo><srccite><citeinfo><origin>DCR-NH</origin><pubdate>2007</pubdate><title>Virginia Natural Heritage Program's Biotics Data System</title><othercit>Data provided through cooperative agreement with DCR. For more information about these data please contact the DCR data manager.</othercit><onlink>http://www.dcr.virginia.gov/dnh</onlink></citeinfo></srccite><srccitea>DCR-NH 2007</srccitea><typesrc>digital</typesrc></srcinfo><srcinfo><srccite><citeinfo><origin>DGIF</origin><pubdate>2005</pubdate><title>Tier I Essential Habitat</title><othercit>Created during the Wildlife Action Plan</othercit><onlink>http://bewild.virgina.org</onlink></citeinfo></srccite><srcscale>100m</srcscale><typesrc>digital</typesrc><srccitea>DGIF Tier I Ess Hab</srccitea></srcinfo></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Raster</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>Point</sdtstype>
+				<ptvctcnt>3732</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>String</sdtstype>
+				<ptvctcnt>8064</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>GT-polygon composed of chains</sdtstype>
+				<ptvctcnt>3733</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+		<rastinfo><rasttype Sync="TRUE">Grid Cell</rasttype><rowcount Sync="TRUE">3356</rowcount><colcount Sync="TRUE">7498</colcount><rastxsz Sync="TRUE">100.000000</rastxsz><rastysz Sync="TRUE">100.000000</rastysz><rastbpp Sync="TRUE">8</rastbpp><vrtcount Sync="TRUE">1</vrtcount><rastorig Sync="TRUE">Upper Left</rastorig><rastcmap Sync="TRUE">FALSE</rastcmap><rastcomp Sync="TRUE">Default</rastcomp><rastband Sync="TRUE">1</rastband><rastdtyp Sync="TRUE">matrix values</rastdtyp><rastplyr Sync="TRUE">FALSE</rastplyr><rastifor Sync="TRUE"></rastifor></rastinfo></spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">row and column</plance>
+					<coordrep>
+						<absres Sync="TRUE">100.000000</absres>
+						<ordres Sync="TRUE">100.000000</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">meters</plandu>
+				</planci>
+				<mapproj><mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn><lambertc><stdparll Sync="TRUE">37.000000</stdparll><stdparll Sync="TRUE">39.500000</stdparll><longcm Sync="TRUE">-79.500000</longcm><latprjo Sync="TRUE">36.000000</latprjo><feast Sync="TRUE">0.000000</feast><fnorth Sync="TRUE">0.000000</fnorth></lambertc></mapproj></planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><projcsn Sync="TRUE">NAD_1983_Lambert_Conformal_Conic</projcsn></cordsysn></horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="esshabtier1_2.vat">
+			<attr><attrlabl Sync="TRUE">Rowid</attrlabl><attalias Sync="TRUE">Rowid</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">VALUE</attrlabl><attalias Sync="TRUE">VALUE</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>Number of species with essential habitat within that cell</attrdef><attrdefs>DGIF</attrdefs></attr><enttyp>
+				<enttypl Sync="TRUE">esshabtier1_2.vat</enttypl>
+				<enttypt Sync="TRUE">Table</enttypt><enttypc Sync="TRUE">42</enttypc></enttyp>
+			<attr><attrlabl Sync="TRUE">COUNT</attrlabl><attalias Sync="TRUE">COUNT</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>Number of cells with that value</attrdef><attrdefs>DGIF</attrdefs></attr></detailed>
+	</eainfo>
+	<distinfo>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize Sync="TRUE">2.865</transize>
+					<dssize Sync="TRUE">2.865</dssize></digtinfo>
+			</digform>
+			<fees>n/a</fees></stdorder>
+		<distrib><cntinfo><cntperp><cntper>Dave Morton</cntper><cntorg>VA Dept. of Game &amp; Inland Fisheries</cntorg></cntperp><cntaddr><addrtype>physical address</addrtype><address>4010 W. Broad St</address><city>Richmond</city><state>VA</state><postal>23230</postal><country>USA</country></cntaddr><cntvoice>804-367-6772</cntvoice><cntfax>804-367-2427</cntfax><cntemail>dave.morton@dgif.virginia.gov</cntemail><cntpos>GIS Coordinator</cntpos></cntinfo></distrib><distliab>The VDGIF provides these data on an as is basis. All warranties of any kind, express or implied, including but not limited to fitness for a particular use, freedom from computer viruses, and non-infringement of proprietary rights are disclaimed. Neither the VDGIF nor the contributors to this dataset shall be held liable for any improper or incorrect use of the information contained herein and assume no responsibility for the use of the information. In no event shall the VDGIF or the contributors to this dataset be liable for any direct, indirect, or incidental damages arising in any way out of the use of this service. This disclaimer of liability applies to any damages or injury, including but not limited to those caused by any failure of performance, error, omission, defect, delay in operation or transmission, computer virus, alteration or use of record.</distliab><resdesc Sync="TRUE">Downloadable Data</resdesc></distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20080917</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Virginia Department of Game and Inland Fisheries, Widlife Diversity Division, Fish and Wildlife Information Services</cntorg>
+					<cntper>Kendell Ryan</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>4010 West Broad Street</address>
+					<city>Richmond</city>
+					<state>VA</state>
+					<postal>23230</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>804-367-0068</cntvoice>
+				<cntemail>kendell.ryan@dgif.virginia.gov</cntemail>
+				<cntinst>Please contact via email.</cntinst>
+				<cntfax>804-367-2427</cntfax></cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><CreaDate>20080912</CreaDate><CreaTime>15141600</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20080917</SyncDate><SyncTime>14210700</SyncTime><ModDate>20080917</ModDate><ModTime>14210700</ModTime><MetaID>{4AC12293-EA1E-4D45-BD64-C0510A06A509}</MetaID></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.2.1350</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">esshabtier1_2</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="002"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">-373690.330551</westBL><eastBL Sync="TRUE">376109.669449</eastBL><northBL Sync="TRUE">389549.1666</northBL><southBL Sync="TRUE">53949.1666</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-83.841967</westBL><eastBL Sync="TRUE">-75.129964</eastBL><northBL Sync="TRUE">39.509864</northBL><southBL Sync="TRUE">36.409218</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><linkage Sync="TRUE">file://\\Gis\Share\Data\CWCS\TierI_TierIIPlus_Combine\for_distribution\esshabtier1_2</linkage><protocol Sync="TRUE">Local Area Network</protocol><orDesc Sync="TRUE">002</orDesc></onLineSrc><transSize Sync="TRUE">2.865</transSize></distorTran><distorFormat><formatName Sync="TRUE">Raster Dataset</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">NAD_1983_Lambert_Conformal_Conic</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><GridSpatRep><numDims Sync="TRUE">2</numDims><cellGeo><CellGeoCd Sync="TRUE" value="002"></CellGeoCd></cellGeo><tranParaAv Sync="TRUE">1</tranParaAv><axDimProps><Dimen><dimName><DimNameTypCd Sync="TRUE" value="002"></DimNameTypCd></dimName><dimSize Sync="TRUE">7498</dimSize><dimResol><value Sync="TRUE">100</value><uom><UomLength><uomName Sync="TRUE">Meter</uomName><conversionToISOstandardUnit Sync="TRUE">1 Meter = 1 Meter(s)</conversionToISOstandardUnit></UomLength></uom></dimResol></Dimen><Dimen><dimName><DimNameTypCd Sync="TRUE" value="001"></DimNameTypCd></dimName><dimSize Sync="TRUE">3356</dimSize><dimResol><value Sync="TRUE">100</value><uom><UomLength><uomName Sync="TRUE">Meter</uomName><conversionToISOstandardUnit Sync="TRUE">1 Meter = 1 Meter(s)</conversionToISOstandardUnit></UomLength></uom></dimResol></Dimen></axDimProps></GridSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20080917</mdDateSt></metadata>
