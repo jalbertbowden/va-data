@@ -1,0 +1,812 @@
+[
+  {
+    "2010 Counties and Cities
+Population Totals":"FIPS",
+    "FIELD2":"County Name",
+    "FIELD3":"Total\nPopulation"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"001",
+    "FIELD2":"Accomack",
+    "FIELD3":"33164"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"003",
+    "FIELD2":"Albemarle",
+    "FIELD3":"98970"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"005",
+    "FIELD2":"Alleghany",
+    "FIELD3":"16250"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"007",
+    "FIELD2":"Amelia",
+    "FIELD3":"12690"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"009",
+    "FIELD2":"Amherst",
+    "FIELD3":"32353"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"011",
+    "FIELD2":"Appomattox",
+    "FIELD3":"14973"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"013",
+    "FIELD2":"Arlington",
+    "FIELD3":"207627"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"015",
+    "FIELD2":"Augusta",
+    "FIELD3":"73750"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"017",
+    "FIELD2":"Bath",
+    "FIELD3":"4731"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"019",
+    "FIELD2":"Bedford",
+    "FIELD3":"68676"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"021",
+    "FIELD2":"Bland",
+    "FIELD3":"6824"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"023",
+    "FIELD2":"Botetourt",
+    "FIELD3":"33148"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"025",
+    "FIELD2":"Brunswick",
+    "FIELD3":"17434"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"027",
+    "FIELD2":"Buchanan",
+    "FIELD3":"24098"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"029",
+    "FIELD2":"Buckingham",
+    "FIELD3":"17146"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"031",
+    "FIELD2":"Campbell",
+    "FIELD3":"54842"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"033",
+    "FIELD2":"Caroline",
+    "FIELD3":"28545"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"035",
+    "FIELD2":"Carroll",
+    "FIELD3":"30042"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"036",
+    "FIELD2":"Charles City",
+    "FIELD3":"7256"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"037",
+    "FIELD2":"Charlotte",
+    "FIELD3":"12586"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"041",
+    "FIELD2":"Chesterfield",
+    "FIELD3":"316236"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"043",
+    "FIELD2":"Clarke",
+    "FIELD3":"14034"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"045",
+    "FIELD2":"Craig",
+    "FIELD3":"5190"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"047",
+    "FIELD2":"Culpeper",
+    "FIELD3":"46689"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"049",
+    "FIELD2":"Cumberland",
+    "FIELD3":"10052"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"051",
+    "FIELD2":"Dickenson",
+    "FIELD3":"15903"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"053",
+    "FIELD2":"Dinwiddie",
+    "FIELD3":"28001"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"057",
+    "FIELD2":"Essex",
+    "FIELD3":"11151"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"059",
+    "FIELD2":"Fairfax",
+    "FIELD3":"1081726"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"061",
+    "FIELD2":"Fauquier",
+    "FIELD3":"65203"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"063",
+    "FIELD2":"Floyd",
+    "FIELD3":"15279"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"065",
+    "FIELD2":"Fluvanna",
+    "FIELD3":"25691"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"067",
+    "FIELD2":"Franklin",
+    "FIELD3":"56159"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"069",
+    "FIELD2":"Frederick",
+    "FIELD3":"78305"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"071",
+    "FIELD2":"Giles",
+    "FIELD3":"17286"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"073",
+    "FIELD2":"Gloucester",
+    "FIELD3":"36858"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"075",
+    "FIELD2":"Goochland",
+    "FIELD3":"21717"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"077",
+    "FIELD2":"Grayson",
+    "FIELD3":"15533"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"079",
+    "FIELD2":"Greene",
+    "FIELD3":"18403"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"081",
+    "FIELD2":"Greensville",
+    "FIELD3":"12243"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"083",
+    "FIELD2":"Halifax",
+    "FIELD3":"36241"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"085",
+    "FIELD2":"Hanover",
+    "FIELD3":"99863"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"087",
+    "FIELD2":"Henrico",
+    "FIELD3":"306935"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"089",
+    "FIELD2":"Henry",
+    "FIELD3":"54151"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"091",
+    "FIELD2":"Highland",
+    "FIELD3":"2321"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"093",
+    "FIELD2":"Isle of Wight",
+    "FIELD3":"35270"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"095",
+    "FIELD2":"James City",
+    "FIELD3":"67009"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"097",
+    "FIELD2":"King and Queen",
+    "FIELD3":"6945"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"099",
+    "FIELD2":"King George",
+    "FIELD3":"23584"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"101",
+    "FIELD2":"King William",
+    "FIELD3":"15935"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"103",
+    "FIELD2":"Lancaster",
+    "FIELD3":"11391"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"105",
+    "FIELD2":"Lee",
+    "FIELD3":"25587"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"107",
+    "FIELD2":"Loudoun",
+    "FIELD3":"312311"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"109",
+    "FIELD2":"Louisa",
+    "FIELD3":"33153"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"111",
+    "FIELD2":"Lunenburg",
+    "FIELD3":"12914"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"113",
+    "FIELD2":"Madison",
+    "FIELD3":"13308"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"115",
+    "FIELD2":"Mathews",
+    "FIELD3":"8978"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"117",
+    "FIELD2":"Mecklenburg",
+    "FIELD3":"32727"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"119",
+    "FIELD2":"Middlesex",
+    "FIELD3":"10959"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"121",
+    "FIELD2":"Montgomery",
+    "FIELD3":"94392"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"125",
+    "FIELD2":"Nelson",
+    "FIELD3":"15020"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"127",
+    "FIELD2":"New Kent",
+    "FIELD3":"18429"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"131",
+    "FIELD2":"Northampton",
+    "FIELD3":"12389"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"133",
+    "FIELD2":"Northumberland",
+    "FIELD3":"12330"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"135",
+    "FIELD2":"Nottoway",
+    "FIELD3":"15853"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"137",
+    "FIELD2":"Orange",
+    "FIELD3":"33481"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"139",
+    "FIELD2":"Page",
+    "FIELD3":"24042"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"141",
+    "FIELD2":"Patrick",
+    "FIELD3":"18490"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"143",
+    "FIELD2":"Pittsylvania",
+    "FIELD3":"63506"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"145",
+    "FIELD2":"Powhatan",
+    "FIELD3":"28046"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"147",
+    "FIELD2":"Prince Edward",
+    "FIELD3":"23368"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"149",
+    "FIELD2":"Prince George",
+    "FIELD3":"35725"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"153",
+    "FIELD2":"Prince William",
+    "FIELD3":"402002"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"155",
+    "FIELD2":"Pulaski",
+    "FIELD3":"34872"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"157",
+    "FIELD2":"Rappahannock",
+    "FIELD3":"7373"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"159",
+    "FIELD2":"Richmond",
+    "FIELD3":"9254"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"161",
+    "FIELD2":"Roanoke",
+    "FIELD3":"92376"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"163",
+    "FIELD2":"Rockbridge",
+    "FIELD3":"22307"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"165",
+    "FIELD2":"Rockingham",
+    "FIELD3":"76314"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"167",
+    "FIELD2":"Russell",
+    "FIELD3":"28897"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"169",
+    "FIELD2":"Scott",
+    "FIELD3":"23177"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"171",
+    "FIELD2":"Shenandoah",
+    "FIELD3":"41993"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"173",
+    "FIELD2":"Smyth",
+    "FIELD3":"32208"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"175",
+    "FIELD2":"Southampton",
+    "FIELD3":"18570"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"177",
+    "FIELD2":"Spotsylvania",
+    "FIELD3":"122397"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"179",
+    "FIELD2":"Stafford",
+    "FIELD3":"128961"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"181",
+    "FIELD2":"Surry",
+    "FIELD3":"7058"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"183",
+    "FIELD2":"Sussex",
+    "FIELD3":"12087"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"185",
+    "FIELD2":"Tazewell",
+    "FIELD3":"45078"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"187",
+    "FIELD2":"Warren",
+    "FIELD3":"37575"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"191",
+    "FIELD2":"Washington",
+    "FIELD3":"54876"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"193",
+    "FIELD2":"Westmoreland",
+    "FIELD3":"17454"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"195",
+    "FIELD2":"Wise",
+    "FIELD3":"41452"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"197",
+    "FIELD2":"Wythe",
+    "FIELD3":"29235"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"199",
+    "FIELD2":"York",
+    "FIELD3":"65464"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"510",
+    "FIELD2":"Alexandria",
+    "FIELD3":"139966"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"515",
+    "FIELD2":"Bedford city",
+    "FIELD3":"6222"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"520",
+    "FIELD2":"Bristol",
+    "FIELD3":"17835"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"530",
+    "FIELD2":"Buena Vista",
+    "FIELD3":"6650"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"540",
+    "FIELD2":"Charlottesville",
+    "FIELD3":"43475"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"550",
+    "FIELD2":"Chesapeake",
+    "FIELD3":"222209"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"570",
+    "FIELD2":"Colonial Heights",
+    "FIELD3":"17411"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"580",
+    "FIELD2":"Covington",
+    "FIELD3":"5961"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"590",
+    "FIELD2":"Danville",
+    "FIELD3":"43055"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"595",
+    "FIELD2":"Emporia",
+    "FIELD3":"5927"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"600",
+    "FIELD2":"Fairfax city",
+    "FIELD3":"22565"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"610",
+    "FIELD2":"Falls Church",
+    "FIELD3":"12332"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"620",
+    "FIELD2":"Franklin city",
+    "FIELD3":"8582"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"630",
+    "FIELD2":"Fredericksburg",
+    "FIELD3":"24286"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"640",
+    "FIELD2":"Galax",
+    "FIELD3":"7042"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"650",
+    "FIELD2":"Hampton",
+    "FIELD3":"137436"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"660",
+    "FIELD2":"Harrisonburg",
+    "FIELD3":"48914"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"670",
+    "FIELD2":"Hopewell",
+    "FIELD3":"22591"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"678",
+    "FIELD2":"Lexington",
+    "FIELD3":"7042"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"680",
+    "FIELD2":"Lynchburg",
+    "FIELD3":"75568"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"683",
+    "FIELD2":"Manassas",
+    "FIELD3":"37821"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"685",
+    "FIELD2":"Manassas Park",
+    "FIELD3":"14273"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"690",
+    "FIELD2":"Martinsville",
+    "FIELD3":"13821"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"700",
+    "FIELD2":"Newport News",
+    "FIELD3":"180719"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"710",
+    "FIELD2":"Norfolk",
+    "FIELD3":"242803"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"720",
+    "FIELD2":"Norton",
+    "FIELD3":"3958"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"730",
+    "FIELD2":"Petersburg",
+    "FIELD3":"32420"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"735",
+    "FIELD2":"Poquoson",
+    "FIELD3":"12150"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"740",
+    "FIELD2":"Portsmouth",
+    "FIELD3":"95535"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"750",
+    "FIELD2":"Radford",
+    "FIELD3":"16408"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"760",
+    "FIELD2":"Richmond city",
+    "FIELD3":"204214"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"770",
+    "FIELD2":"Roanoke",
+    "FIELD3":"97032"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"775",
+    "FIELD2":"Salem",
+    "FIELD3":"24802"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"790",
+    "FIELD2":"Staunton",
+    "FIELD3":"23746"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"800",
+    "FIELD2":"Suffolk",
+    "FIELD3":"84585"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"810",
+    "FIELD2":"Virginia Beach",
+    "FIELD3":"437994"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"820",
+    "FIELD2":"Waynesboro",
+    "FIELD3":"21006"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"830",
+    "FIELD2":"Williamsburg",
+    "FIELD3":"14068"
+  },
+  {
+    "2010 Counties and Cities
+Population Totals":"840",
+    "FIELD2":"Winchester",
+    "FIELD3":"26203"
+  }
+]
