@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "STATEFP": "51", "COUNTYFP": "610", "ANSICODE": "", "HYDROID": "110430151737", "FULLNAME": "", "MTFCC": "H2030", "ALAND": 0.000000, "AWATER": 6.000000, "INTPTLAT": "+38.8793653", "INTPTLON": "-77.1783447" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.178385, 38.879368 ], [ -77.178335, 38.879375 ], [ -77.178314, 38.879353 ], [ -77.178385, 38.879368 ] ] ] } }
+
+]
+}
