@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+<name>Run on February 27, 2006</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>Category</name>
+<description>English Proficient 2003</description>
+<Point><coordinates>English Proficient 2004,English Passed 2003,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>All Students</name>
+<description>52</description>
+<Point><coordinates>49,67,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Am Indian/Alaskan Native</name>
+<description>49</description>
+<Point><coordinates>47,60,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Asian/Pacific Islander</name>
+<description>55</description>
+<Point><coordinates>52,74,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Black</name>
+<description>44</description>
+<Point><coordinates>46,49,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hispanic</name>
+<description>43</description>
+<Point><coordinates>50,50,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>White</name>
+<description>56</description>
+<Point><coordinates>51,76,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Native Hawaiian</name>
+<description>.</description>
+<Point><coordinates>45,.,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Ethnicity Unknown</name>
+<description>45</description>
+<Point><coordinates>44,60,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Female</name>
+<description>53</description>
+<Point><coordinates>51,70,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Male</name>
+<description>50</description>
+<Point><coordinates>48,65,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Gender Unknown</name>
+<description>22</description>
+<Point><coordinates>29,26,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Students with Disabilities</name>
+<description>25</description>
+<Point><coordinates>27,27,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Limited English Proficient</name>
+<description>31</description>
+<Point><coordinates>46,35,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

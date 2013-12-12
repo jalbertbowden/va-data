@@ -1,0 +1,215 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Category",
+                "description": "English Proficient 2003"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49,
+                    67,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "All Students",
+                "description": "52"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47,
+                    60,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Am Indian/Alaskan Native",
+                "description": "49"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52,
+                    74,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Asian/Pacific Islander",
+                "description": "55"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46,
+                    49,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Black",
+                "description": "44"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50,
+                    50,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hispanic",
+                "description": "43"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51,
+                    76,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "White",
+                "description": "56"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45,
+                    null,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Native Hawaiian",
+                "description": "."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44,
+                    60,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ethnicity Unknown",
+                "description": "45"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51,
+                    70,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Female",
+                "description": "53"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48,
+                    65,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Male",
+                "description": "50"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29,
+                    26,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gender Unknown",
+                "description": "22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27,
+                    27,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Students with Disabilities",
+                "description": "25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46,
+                    35,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Limited English Proficient",
+                "description": "31"
+            }
+        }
+    ]
+}
