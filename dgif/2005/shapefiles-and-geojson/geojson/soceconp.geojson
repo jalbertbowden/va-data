@@ -1,0 +1,851 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 2.000000, "TYPE": "CG", "ID": 551000001, "HUNUM": 55000064 }, "geometry": { "type": "Point", "coordinates": [ -75.881111, 36.601940 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 1.000000, "TYPE": "BR", "ID": 551000002, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.888477, 36.595118 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 2.000000, "TYPE": "BR", "ID": 551000003, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.888212, 36.593899 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 151.000000, "TYPE": "BR", "ID": 551000004, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.993772, 36.590430 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 4.000000, "TYPE": "BR", "ID": 551000005, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.992883, 36.589692 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 3.000000, "TYPE": "BR", "ID": 551000006, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.994216, 36.568684 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 307.000000, "TYPE": "CG", "ID": 551000007, "HUNUM": 55000065 }, "geometry": { "type": "Point", "coordinates": [ -75.924171, 36.693061 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 311.000000, "TYPE": "BR", "ID": 551000008, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.981613, 36.656621 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 312.000000, "TYPE": "WI", "ID": 551000009, "HUNUM": 55000145 }, "geometry": { "type": "Point", "coordinates": [ -75.913343, 36.647215 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 310.000000, "TYPE": "BR", "ID": 551000010, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.992867, 36.634236 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 456.000000, "TYPE": "BR", "ID": 551000011, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.991440, 36.633089 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 814.000000, "TYPE": "HP", "ID": 551000012, "HUNUM": 55000087 }, "geometry": { "type": "Point", "coordinates": [ -75.987503, 36.846668 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 915.000000, "TYPE": "BR", "ID": 551000013, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.981966, 36.822802 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 916.000000, "TYPE": "B", "ID": 551000014, "HUNUM": 55000162 }, "geometry": { "type": "Point", "coordinates": [ -75.948338, 36.756760 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 917.000000, "TYPE": "B", "ID": 551000015, "HUNUM": 55000162 }, "geometry": { "type": "Point", "coordinates": [ -75.974525, 36.852135 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 1387.000000, "TYPE": "LD", "ID": 551000016, "HUNUM": 55000097 }, "geometry": { "type": "Point", "coordinates": [ -76.055118, 36.872471 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 1388.000000, "TYPE": "M", "ID": 551000017, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.006056, 36.868600 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 1389.000000, "TYPE": "BR", "ID": 551000018, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.006077, 36.868535 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 1194.000000, "TYPE": "HP", "ID": 551000019, "HUNUM": 55000095 }, "geometry": { "type": "Point", "coordinates": [ -76.026108, 36.866112 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 1192.000000, "TYPE": "HP", "ID": 551000020, "HUNUM": 55000078 }, "geometry": { "type": "Point", "coordinates": [ -76.034722, 36.865280 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 1193.000000, "TYPE": "A", "ID": 551000021, "HUNUM": 55000036 }, "geometry": { "type": "Point", "coordinates": [ -76.033890, 36.820560 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 1195.000000, "TYPE": "HP", "ID": 551000022, "HUNUM": 55000096 }, "geometry": { "type": "Point", "coordinates": [ -76.058609, 36.750832 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 1876.000000, "TYPE": "LD", "ID": 551000023, "HUNUM": 55000097 }, "geometry": { "type": "Point", "coordinates": [ -76.127920, 36.855150 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 1579.000000, "TYPE": "HP", "ID": 551000024, "HUNUM": 55000072 }, "geometry": { "type": "Point", "coordinates": [ -76.238327, 36.795830 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 1578.000000, "TYPE": "HP", "ID": 551000025, "HUNUM": 55000068 }, "geometry": { "type": "Point", "coordinates": [ -76.226669, 36.788608 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 2128.000000, "TYPE": "HP", "ID": 551000026, "HUNUM": 55000094 }, "geometry": { "type": "Point", "coordinates": [ -76.303887, 36.861111 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 2127.000000, "TYPE": "A", "ID": 551000027, "HUNUM": 55000034 }, "geometry": { "type": "Point", "coordinates": [ -76.303887, 36.861111 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 2505.000000, "TYPE": "BR", "ID": 551000028, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.274340, 36.840872 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 2126.000000, "TYPE": "A", "ID": 551000029, "HUNUM": 55000033 }, "geometry": { "type": "Point", "coordinates": [ -76.284172, 36.836392 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 2380.000000, "TYPE": "BR", "ID": 551000030, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.371591, 36.834552 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 2512.000000, "TYPE": "BR", "ID": 551000031, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.369701, 36.834278 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 2125.000000, "TYPE": "A", "ID": 551000032, "HUNUM": 55000009 }, "geometry": { "type": "Point", "coordinates": [ -76.279167, 36.781110 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 2129.000000, "TYPE": "A", "ID": 551000033, "HUNUM": 55000049 }, "geometry": { "type": "Point", "coordinates": [ -76.260559, 36.762779 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 3299.000000, "TYPE": "BR", "ID": 551000034, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.484634, 36.851248 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 2551.000000, "TYPE": "A", "ID": 551000035, "HUNUM": 55000018 }, "geometry": { "type": "Point", "coordinates": [ -76.449173, 36.779998 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 2550.000000, "TYPE": "A", "ID": 551000036, "HUNUM": 55000010 }, "geometry": { "type": "Point", "coordinates": [ -76.445831, 36.779171 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 4236.000000, "TYPE": "BR", "ID": 551000037, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.619747, 36.808675 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 4105.000000, "TYPE": "M", "ID": 551000038, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.574841, 36.790970 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 3379.000000, "TYPE": "HP", "ID": 551000039, "HUNUM": 55000077 }, "geometry": { "type": "Point", "coordinates": [ -76.586113, 36.752781 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 4301.000000, "TYPE": "HP", "ID": 551000040, "HUNUM": 55000074 }, "geometry": { "type": "Point", "coordinates": [ -76.000000, 36.916671 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 4302.000000, "TYPE": "B", "ID": 551000041, "HUNUM": 55000162 }, "geometry": { "type": "Point", "coordinates": [ -75.982649, 36.880349 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 5260.000000, "TYPE": "AQ", "ID": 551000042, "HUNUM": 55000056 }, "geometry": { "type": "Point", "coordinates": [ -76.073099, 36.887625 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 5522.000000, "TYPE": "AQ", "ID": 551000043, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.090069, 36.882594 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 5726.000000, "TYPE": "A", "ID": 551000044, "HUNUM": 55000035 }, "geometry": { "type": "Point", "coordinates": [ -76.200829, 36.895279 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 5974.000000, "TYPE": "HP", "ID": 551000045, "HUNUM": 55000071 }, "geometry": { "type": "Point", "coordinates": [ -76.304718, 36.924998 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 7349.000000, "TYPE": "BR", "ID": 551000046, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.398152, 36.981547 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 8748.000000, "TYPE": "M", "ID": 551000047, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.567198, 36.998058 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 8747.000000, "TYPE": "M", "ID": 551000048, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.624189, 36.982477 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 8749.000000, "TYPE": "BR", "ID": 551000049, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.563533, 36.974799 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 8784.000000, "TYPE": "BR", "ID": 551000050, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.576856, 36.957932 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 8947.000000, "TYPE": "BR", "ID": 551000051, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.578019, 36.879528 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 8948.000000, "TYPE": "BR", "ID": 551000052, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.572103, 36.877989 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 10695.000000, "TYPE": "BR", "ID": 551000053, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.319019, 37.107751 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 10574.000000, "TYPE": "BR", "ID": 551000054, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.338235, 37.104927 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 10692.000000, "TYPE": "BR", "ID": 551000055, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.295042, 37.096192 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 9105.000000, "TYPE": "HP", "ID": 551000056, "HUNUM": 55000093 }, "geometry": { "type": "Point", "coordinates": [ -76.368889, 37.010831 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 10938.000000, "TYPE": "HP", "ID": 551000057, "HUNUM": 55000091 }, "geometry": { "type": "Point", "coordinates": [ -76.484169, 37.065280 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 12589.000000, "TYPE": "BR", "ID": 551000058, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.456581, 37.017047 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 14629.000000, "TYPE": "BR", "ID": 551000059, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.568852, 37.124249 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 14513.000000, "TYPE": "M", "ID": 551000060, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.518794, 37.085694 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 12824.000000, "TYPE": "A", "ID": 551000061, "HUNUM": 55000001 }, "geometry": { "type": "Point", "coordinates": [ -76.588890, 37.023610 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 16730.000000, "TYPE": "BR", "ID": 551000062, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.666473, 37.082744 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 16701.000000, "TYPE": "M", "ID": 551000063, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.668972, 37.056054 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 19206.000000, "TYPE": "AQ", "ID": 551000064, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.825010, 37.239829 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 19207.000000, "TYPE": "AQ", "ID": 551000065, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.843984, 37.219808 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 19208.000000, "TYPE": "AQ", "ID": 551000066, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.854713, 37.207065 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 19209.000000, "TYPE": "AQ", "ID": 551000067, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.848229, 37.206811 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 21993.000000, "TYPE": "AQ", "ID": 551000068, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.993040, 37.248099 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 21992.000000, "TYPE": "AQ", "ID": 551000069, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.998375, 37.241451 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 21991.000000, "TYPE": "AQ", "ID": 551000070, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.995678, 37.239743 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 21990.000000, "TYPE": "AQ", "ID": 551000071, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.994163, 37.237980 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 21989.000000, "TYPE": "AQ", "ID": 551000072, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.993840, 37.235851 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 21988.000000, "TYPE": "AQ", "ID": 551000073, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.995635, 37.232327 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 19560.000000, "TYPE": "A", "ID": 551000074, "HUNUM": 55000046 }, "geometry": { "type": "Point", "coordinates": [ -75.977219, 37.226939 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 22067.000000, "TYPE": "AQ", "ID": 551000075, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.905263, 37.205244 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 21727.000000, "TYPE": "BR", "ID": 551000076, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.940857, 37.182540 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 21987.000000, "TYPE": "AQ", "ID": 551000077, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.909431, 37.182468 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 21726.000000, "TYPE": "BR", "ID": 551000078, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.941321, 37.178378 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 21986.000000, "TYPE": "AQ", "ID": 551000079, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.910777, 37.177453 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 21725.000000, "TYPE": "BR", "ID": 551000080, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.941907, 37.176027 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 21985.000000, "TYPE": "AQ", "ID": 551000081, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.910681, 37.171698 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 19559.000000, "TYPE": "A", "ID": 551000082, "HUNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.957222, 37.154441 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 21984.000000, "TYPE": "AQ", "ID": 551000083, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.899833, 37.145994 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 21980.000000, "TYPE": "AQ", "ID": 551000084, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.938199, 37.142960 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 21983.000000, "TYPE": "AQ", "ID": 551000085, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.903273, 37.139732 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 21981.000000, "TYPE": "AQ", "ID": 551000086, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.927765, 37.135103 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 21722.000000, "TYPE": "BR", "ID": 551000087, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.948487, 37.129177 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 21982.000000, "TYPE": "AQ", "ID": 551000088, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.930209, 37.127882 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 21976.000000, "TYPE": "AQ", "ID": 551000089, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.909870, 37.126469 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 25215.000000, "TYPE": "AQ", "ID": 551000090, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -76.005396, 37.235695 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 25214.000000, "TYPE": "AQ", "ID": 551000091, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -76.012578, 37.234764 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 25216.000000, "TYPE": "AQ", "ID": 551000092, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -76.000356, 37.233302 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 28771.000000, "TYPE": "AQ", "ID": 551000093, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.499860, 37.249640 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 28720.000000, "TYPE": "AQ", "ID": 551000094, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -76.441173, 37.223063 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 28406.000000, "TYPE": "BR", "ID": 551000095, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.471216, 37.205763 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 28407.000000, "TYPE": "BR", "ID": 551000096, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.437798, 37.205673 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 28409.000000, "TYPE": "M", "ID": 551000097, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.422610, 37.183409 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 28627.000000, "TYPE": "AQ", "ID": 551000098, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.397679, 37.183212 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 28777.000000, "TYPE": "AQ", "ID": 551000099, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.399774, 37.182746 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 28543.000000, "TYPE": "BR", "ID": 551000100, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.430875, 37.134382 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 28408.000000, "TYPE": "BR", "ID": 551000101, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.431355, 37.134225 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 25484.000000, "TYPE": "A", "ID": 551000102, "HUNUM": 55000032 }, "geometry": { "type": "Point", "coordinates": [ -76.493057, 37.131671 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 32380.000000, "TYPE": "BR", "ID": 551000103, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.505132, 37.245640 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 32384.000000, "TYPE": "BR", "ID": 551000104, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.503984, 37.245311 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 32385.000000, "TYPE": "BR", "ID": 551000105, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.604441, 37.169767 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 29171.000000, "TYPE": "HP", "ID": 551000106, "HUNUM": 55000079 }, "geometry": { "type": "Point", "coordinates": [ -76.512497, 37.143059 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 29170.000000, "TYPE": "A", "ID": 551000107, "HUNUM": 55000015 }, "geometry": { "type": "Point", "coordinates": [ -76.609169, 37.132500 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 32553.000000, "TYPE": "A", "ID": 551000108, "HUNUM": 55000055 }, "geometry": { "type": "Point", "coordinates": [ -76.716393, 37.238891 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 36120.000000, "TYPE": "BR", "ID": 551000109, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.676171, 37.139099 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 36462.000000, "TYPE": "A", "ID": 551000110, "HUNUM": 55000031 }, "geometry": { "type": "Point", "coordinates": [ -76.790283, 37.145828 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 40564.000000, "TYPE": "AQ", "ID": 551000111, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.736625, 37.350646 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 45034.000000, "TYPE": "AQ", "ID": 551000112, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.776414, 37.365988 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 45035.000000, "TYPE": "AQ", "ID": 551000113, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.772260, 37.363832 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 45036.000000, "TYPE": "AQ", "ID": 551000114, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.764578, 37.330388 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 45038.000000, "TYPE": "AQ", "ID": 551000115, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.835869, 37.309515 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 45037.000000, "TYPE": "AQ", "ID": 551000116, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.788668, 37.308498 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 45039.000000, "TYPE": "AQ", "ID": 551000117, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.846603, 37.283532 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 45040.000000, "TYPE": "AQ", "ID": 551000118, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.842575, 37.275825 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 49569.000000, "TYPE": "LD", "ID": 551000119, "HUNUM": 55000097 }, "geometry": { "type": "Point", "coordinates": [ -75.981309, 37.327604 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 49834.000000, "TYPE": "AQ", "ID": 551000120, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.988822, 37.322426 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 49833.000000, "TYPE": "AQ", "ID": 551000121, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.985822, 37.318677 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 49832.000000, "TYPE": "AQ", "ID": 551000122, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.987580, 37.314914 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 49831.000000, "TYPE": "AQ", "ID": 551000123, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.996970, 37.310178 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 45113.000000, "TYPE": "A", "ID": 551000124, "HUNUM": 55000013 }, "geometry": { "type": "Point", "coordinates": [ -75.935280, 37.303058 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 49565.000000, "TYPE": "BR", "ID": 551000125, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.923810, 37.288568 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 49598.000000, "TYPE": "BR", "ID": 551000126, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.923671, 37.288507 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 49566.000000, "TYPE": "M", "ID": 551000127, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -75.923584, 37.287361 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 49571.000000, "TYPE": "LD", "ID": 551000128, "HUNUM": 55000097 }, "geometry": { "type": "Point", "coordinates": [ -75.986715, 37.260537 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 54942.000000, "TYPE": "AQ", "ID": 551000129, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -76.001889, 37.318165 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 54941.000000, "TYPE": "AQ", "ID": 551000130, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -76.002520, 37.309840 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 49898.000000, "TYPE": "HP", "ID": 551000131, "HUNUM": 55000089 }, "geometry": { "type": "Point", "coordinates": [ -76.016113, 37.309720 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 54939.000000, "TYPE": "AQ", "ID": 551000132, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -76.014443, 37.307879 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 54940.000000, "TYPE": "AQ", "ID": 551000133, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -76.003548, 37.304531 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 54938.000000, "TYPE": "AQ", "ID": 551000134, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -76.019721, 37.302829 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 54937.000000, "TYPE": "AQ", "ID": 551000135, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -76.008634, 37.301009 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 54936.000000, "TYPE": "AQ", "ID": 551000136, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -76.011552, 37.300786 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 49897.000000, "TYPE": "A", "ID": 551000137, "HUNUM": 55000008 }, "geometry": { "type": "Point", "coordinates": [ -76.000000, 37.288059 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 54935.000000, "TYPE": "AQ", "ID": 551000138, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -76.014984, 37.284977 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 54884.000000, "TYPE": "AQ", "ID": 551000139, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -76.010449, 37.284295 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 54934.000000, "TYPE": "AQ", "ID": 551000140, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -76.015499, 37.280110 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 54707.000000, "TYPE": "BR", "ID": 551000141, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.017178, 37.264672 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 54685.000000, "TYPE": "M", "ID": 551000142, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.016165, 37.264477 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 60314.000000, "TYPE": "AQ", "ID": 551000143, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.271622, 37.366716 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 65745.000000, "TYPE": "BR", "ID": 551000144, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.471809, 37.320038 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 65746.000000, "TYPE": "BR", "ID": 551000145, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.445053, 37.312599 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 60318.000000, "TYPE": "A", "ID": 551000146, "HUNUM": 55000021 }, "geometry": { "type": "Point", "coordinates": [ -76.393059, 37.270279 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 65747.000000, "TYPE": "BR", "ID": 551000147, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.421933, 37.267371 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 65750.000000, "TYPE": "M", "ID": 551000148, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.422033, 37.266977 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 65749.000000, "TYPE": "BR", "ID": 551000149, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.431193, 37.266053 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 65748.000000, "TYPE": "BR", "ID": 551000150, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.422746, 37.264543 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 66086.000000, "TYPE": "AQ", "ID": 551000151, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.481602, 37.252500 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 72112.000000, "TYPE": "AQ", "ID": 551000152, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.591911, 37.345603 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 72117.000000, "TYPE": "AQ", "ID": 551000153, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.575854, 37.327007 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 72118.000000, "TYPE": "AQ", "ID": 551000154, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.571792, 37.322929 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 72119.000000, "TYPE": "AQ", "ID": 551000155, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.576296, 37.316886 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 66172.000000, "TYPE": "HP", "ID": 551000156, "HUNUM": 55000086 }, "geometry": { "type": "Point", "coordinates": [ -76.573608, 37.267780 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 78221.000000, "TYPE": "BR", "ID": 551000157, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.655645, 37.348816 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 72493.000000, "TYPE": "A", "ID": 551000158, "HUNUM": 55000006 }, "geometry": { "type": "Point", "coordinates": [ -76.637497, 37.305562 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 78219.000000, "TYPE": "BR", "ID": 551000159, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.643804, 37.299749 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 78223.000000, "TYPE": "LD", "ID": 551000160, "HUNUM": 55000097 }, "geometry": { "type": "Point", "coordinates": [ -76.651535, 37.297185 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 78218.000000, "TYPE": "BR", "ID": 551000161, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.651330, 37.296718 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 84401.000000, "TYPE": "M", "ID": 551000162, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.888661, 37.367443 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 84347.000000, "TYPE": "BR", "ID": 551000163, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.899911, 37.300607 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 90655.000000, "TYPE": "BR", "ID": 551000164, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.007602, 37.307332 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 96987.000000, "TYPE": "BR", "ID": 551000165, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.222904, 37.312579 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 103378.000000, "TYPE": "BR", "ID": 551000166, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -77.305855, 37.407218 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 97160.000000, "TYPE": "HP", "ID": 551000167, "HUNUM": 55000069 }, "geometry": { "type": "Point", "coordinates": [ -77.271393, 37.295560 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 97159.000000, "TYPE": "HP", "ID": 551000168, "HUNUM": 55000067 }, "geometry": { "type": "Point", "coordinates": [ -77.275559, 37.287499 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 97162.000000, "TYPE": "HP", "ID": 551000169, "HUNUM": 55000076 }, "geometry": { "type": "Point", "coordinates": [ -77.271393, 37.287219 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 103399.000000, "TYPE": "BR", "ID": 551000170, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.365691, 37.279570 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 103500.000000, "TYPE": "HP", "ID": 551000171, "HUNUM": 55000080 }, "geometry": { "type": "Point", "coordinates": [ -77.462502, 37.495831 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 103499.000000, "TYPE": "A", "ID": 551000172, "HUNUM": 55000016 }, "geometry": { "type": "Point", "coordinates": [ -77.394722, 37.429722 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 109869.000000, "TYPE": "BR", "ID": 551000173, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -77.385431, 37.400709 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 109832.000000, "TYPE": "BR", "ID": 551000174, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -77.377311, 37.381727 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 103474.000000, "TYPE": "HP", "ID": 551000175, "HUNUM": 55000073 }, "geometry": { "type": "Point", "coordinates": [ -77.415833, 37.354721 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 110170.000000, "TYPE": "HP", "ID": 551000176, "HUNUM": 55000081 }, "geometry": { "type": "Point", "coordinates": [ -77.430557, 37.550000 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 110171.000000, "TYPE": "HP", "ID": 551000177, "HUNUM": 55000082 }, "geometry": { "type": "Point", "coordinates": [ -77.428329, 37.541672 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 110169.000000, "TYPE": "HP", "ID": 551000178, "HUNUM": 55000070 }, "geometry": { "type": "Point", "coordinates": [ -77.443893, 37.534168 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 116521.000000, "TYPE": "BR", "ID": 551000179, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -77.418331, 37.516973 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 123560.000000, "TYPE": "AQ", "ID": 551000180, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.696594, 37.494188 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 123561.000000, "TYPE": "AQ", "ID": 551000181, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.701101, 37.455844 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 123562.000000, "TYPE": "AQ", "ID": 551000182, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.708106, 37.444876 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 123563.000000, "TYPE": "AQ", "ID": 551000183, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.718002, 37.441952 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 123564.000000, "TYPE": "AQ", "ID": 551000184, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.733403, 37.422320 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 123565.000000, "TYPE": "AQ", "ID": 551000185, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.716879, 37.390496 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 130694.000000, "TYPE": "BR", "ID": 551000186, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.798791, 37.480624 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 123801.000000, "TYPE": "HP", "ID": 551000187, "HUNUM": 55000085 }, "geometry": { "type": "Point", "coordinates": [ -75.864441, 37.474998 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 130690.000000, "TYPE": "BR", "ID": 551000188, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.840443, 37.445615 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 130693.000000, "TYPE": "BR", "ID": 551000189, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.840692, 37.445557 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 130692.000000, "TYPE": "BR", "ID": 551000190, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.862821, 37.399442 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 131003.000000, "TYPE": "AQ", "ID": 551000191, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.790787, 37.381866 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 131002.000000, "TYPE": "AQ", "ID": 551000192, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.779462, 37.380988 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 131004.000000, "TYPE": "AQ", "ID": 551000193, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.795658, 37.379196 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 138778.000000, "TYPE": "AQ", "ID": 551000194, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.932738, 37.483021 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 138530.000000, "TYPE": "BR", "ID": 551000195, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.935417, 37.476453 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 138777.000000, "TYPE": "AQ", "ID": 551000196, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.938058, 37.475281 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 138776.000000, "TYPE": "AQ", "ID": 551000197, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.952261, 37.473403 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 138848.000000, "TYPE": "AQ", "ID": 551000198, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -75.951184, 37.472148 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 138775.000000, "TYPE": "AQ", "ID": 551000199, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.956281, 37.471100 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 131133.000000, "TYPE": "A", "ID": 551000200, "HUNUM": 55000028 }, "geometry": { "type": "Point", "coordinates": [ -75.879173, 37.458329 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 138774.000000, "TYPE": "AQ", "ID": 551000201, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.988282, 37.415982 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 138773.000000, "TYPE": "AQ", "ID": 551000202, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.983246, 37.415532 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 138772.000000, "TYPE": "AQ", "ID": 551000203, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.969349, 37.413734 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 138771.000000, "TYPE": "AQ", "ID": 551000204, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.975220, 37.407167 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 138770.000000, "TYPE": "AQ", "ID": 551000205, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.975707, 37.402872 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 138769.000000, "TYPE": "AQ", "ID": 551000206, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.969147, 37.401914 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 138768.000000, "TYPE": "AQ", "ID": 551000207, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.968461, 37.396845 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 138766.000000, "TYPE": "AQ", "ID": 551000208, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.976438, 37.393805 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 138531.000000, "TYPE": "LD", "ID": 551000209, "HUNUM": 55000097 }, "geometry": { "type": "Point", "coordinates": [ -75.941778, 37.393730 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 138767.000000, "TYPE": "AQ", "ID": 551000210, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.972797, 37.392634 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 138763.000000, "TYPE": "AQ", "ID": 551000211, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.984268, 37.387482 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 138765.000000, "TYPE": "AQ", "ID": 551000212, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.974700, 37.386937 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 138764.000000, "TYPE": "AQ", "ID": 551000213, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.979096, 37.386006 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 138762.000000, "TYPE": "AQ", "ID": 551000214, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.986393, 37.380220 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 146761.000000, "TYPE": "BR", "ID": 551000215, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.310569, 37.492304 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 146784.000000, "TYPE": "BR", "ID": 551000216, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.310851, 37.492095 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 146785.000000, "TYPE": "AQ", "ID": 551000217, "HUNUM": 55000059 }, "geometry": { "type": "Point", "coordinates": [ -76.298820, 37.486871 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 146762.000000, "TYPE": "BR", "ID": 551000218, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.336954, 37.415653 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 146783.000000, "TYPE": "BR", "ID": 551000219, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.337666, 37.415323 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 146782.000000, "TYPE": "BR", "ID": 551000220, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.352255, 37.407165 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 147091.000000, "TYPE": "AQ", "ID": 551000221, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.274247, 37.379487 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 146957.000000, "TYPE": "AQ", "ID": 551000222, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.266864, 37.377128 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 147452.000000, "TYPE": "A", "ID": 551000223, "HUNUM": 55000023 }, "geometry": { "type": "Point", "coordinates": [ -76.413887, 37.496670 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 147450.000000, "TYPE": "A", "ID": 551000224, "HUNUM": 55000019 }, "geometry": { "type": "Point", "coordinates": [ -76.454170, 37.447219 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 147451.000000, "TYPE": "A", "ID": 551000225, "HUNUM": 55000022 }, "geometry": { "type": "Point", "coordinates": [ -76.388611, 37.405280 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 155375.000000, "TYPE": "BR", "ID": 551000226, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.490028, 37.403126 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 155584.000000, "TYPE": "AQ", "ID": 551000227, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.456897, 37.392002 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 164174.000000, "TYPE": "BR", "ID": 551000228, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.667074, 37.454774 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 164246.000000, "TYPE": "BR", "ID": 551000229, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.667940, 37.454560 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 164176.000000, "TYPE": "BR", "ID": 551000230, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.725553, 37.427194 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 174311.000000, "TYPE": "BR", "ID": 551000231, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.799811, 37.592139 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 174312.000000, "TYPE": "BR", "ID": 551000232, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.789743, 37.540799 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 174371.000000, "TYPE": "BR", "ID": 551000233, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.790556, 37.540343 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 174372.000000, "TYPE": "BR", "ID": 551000234, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.785579, 37.537134 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 164616.000000, "TYPE": "A", "ID": 551000235, "HUNUM": 55000054 }, "geometry": { "type": "Point", "coordinates": [ -76.764999, 37.520828 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 184564.000000, "TYPE": "BR", "ID": 551000236, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.984844, 37.585983 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 193332.000000, "TYPE": "BR", "ID": 551000237, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.685362, 37.608155 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 193331.000000, "TYPE": "BR", "ID": 551000238, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.686571, 37.608031 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 193330.000000, "TYPE": "BR", "ID": 551000239, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.687432, 37.606460 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 193329.000000, "TYPE": "BR", "ID": 551000240, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.687691, 37.603734 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 193607.000000, "TYPE": "AQ", "ID": 551000241, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.621412, 37.604054 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 193608.000000, "TYPE": "AQ", "ID": 551000242, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.623024, 37.599358 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 193609.000000, "TYPE": "AQ", "ID": 551000243, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.620513, 37.595876 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 193328.000000, "TYPE": "BR", "ID": 551000244, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.731427, 37.549296 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 193386.000000, "TYPE": "BR", "ID": 551000245, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.732798, 37.549186 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 193610.000000, "TYPE": "AQ", "ID": 551000246, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.670971, 37.531766 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 193611.000000, "TYPE": "AQ", "ID": 551000247, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.690864, 37.504707 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 193612.000000, "TYPE": "AQ", "ID": 551000248, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.706096, 37.502041 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 202917.000000, "TYPE": "AQ", "ID": 551000249, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.806084, 37.513782 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 202768.000000, "TYPE": "BR", "ID": 551000250, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.807397, 37.509993 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 202740.000000, "TYPE": "BR", "ID": 551000251, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.806794, 37.508860 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 202770.000000, "TYPE": "BR", "ID": 551000252, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.805222, 37.508414 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 203102.000000, "TYPE": "A", "ID": 551000253, "HUNUM": 55000007 }, "geometry": { "type": "Point", "coordinates": [ -75.926666, 37.564441 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 212558.000000, "TYPE": "AQ", "ID": 551000254, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.929949, 37.558953 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 212335.000000, "TYPE": "M", "ID": 551000255, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -75.877231, 37.553332 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 212336.000000, "TYPE": "BR", "ID": 551000256, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.876744, 37.549658 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 222315.000000, "TYPE": "M", "ID": 551000257, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.289942, 37.616421 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 222316.000000, "TYPE": "M", "ID": 551000258, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.306477, 37.560575 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 222317.000000, "TYPE": "M", "ID": 551000259, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.317858, 37.555854 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 222692.000000, "TYPE": "A", "ID": 551000260, "HUNUM": 55000024 }, "geometry": { "type": "Point", "coordinates": [ -76.449997, 37.599999 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 232151.000000, "TYPE": "BR", "ID": 551000261, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.424796, 37.583748 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 232196.000000, "TYPE": "BR", "ID": 551000262, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.450385, 37.523046 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 232510.000000, "TYPE": "A", "ID": 551000263, "HUNUM": 55000005 }, "geometry": { "type": "Point", "coordinates": [ -76.601387, 37.623611 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 242149.000000, "TYPE": "BR", "ID": 551000264, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.582025, 37.622465 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 242197.000000, "TYPE": "BR", "ID": 551000265, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.506570, 37.609639 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 242115.000000, "TYPE": "BR", "ID": 551000266, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.500618, 37.534647 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 252785.000000, "TYPE": "AQ", "ID": 551000267, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.576410, 37.737727 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 252793.000000, "TYPE": "AQ", "ID": 551000268, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -75.600842, 37.711718 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 252786.000000, "TYPE": "AQ", "ID": 551000269, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.600528, 37.705586 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 252787.000000, "TYPE": "AQ", "ID": 551000270, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.611224, 37.696509 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 252795.000000, "TYPE": "A", "ID": 551000271, "HUNUM": 55000027 }, "geometry": { "type": "Point", "coordinates": [ -75.726936, 37.704719 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 252796.000000, "TYPE": "A", "ID": 551000272, "HUNUM": 55000037 }, "geometry": { "type": "Point", "coordinates": [ -75.710281, 37.675000 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 263769.000000, "TYPE": "AQ", "ID": 551000273, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.646552, 37.626031 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 264049.000000, "TYPE": "A", "ID": 551000274, "HUNUM": 55000038 }, "geometry": { "type": "Point", "coordinates": [ -75.786110, 37.722222 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 274875.000000, "TYPE": "M", "ID": 551000275, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -75.814285, 37.718812 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 274874.000000, "TYPE": "BR", "ID": 551000276, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.757122, 37.705260 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 274960.000000, "TYPE": "BR", "ID": 551000277, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.830879, 37.666136 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 274876.000000, "TYPE": "BR", "ID": 551000278, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.829595, 37.663604 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 275000.000000, "TYPE": "AQ", "ID": 551000279, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -75.867272, 37.656018 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 264048.000000, "TYPE": "A", "ID": 551000280, "HUNUM": 55000002 }, "geometry": { "type": "Point", "coordinates": [ -75.761391, 37.646672 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 275122.000000, "TYPE": "A", "ID": 551000281, "HUNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -76.359169, 37.716942 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 275121.000000, "TYPE": "A", "ID": 551000282, "HUNUM": 55000029 }, "geometry": { "type": "Point", "coordinates": [ -76.318611, 37.692500 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 275305.000000, "TYPE": "HP", "ID": 551000283, "HUNUM": 55000090 }, "geometry": { "type": "Point", "coordinates": [ -76.384171, 37.704720 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 286379.000000, "TYPE": "AQ", "ID": 551000284, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.492129, 37.687849 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 275306.000000, "TYPE": "A", "ID": 551000285, "HUNUM": 55000053 }, "geometry": { "type": "Point", "coordinates": [ -76.458061, 37.672501 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 286395.000000, "TYPE": "AQ", "ID": 551000286, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.425795, 37.671807 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 275304.000000, "TYPE": "A", "ID": 551000287, "HUNUM": 55000025 }, "geometry": { "type": "Point", "coordinates": [ -76.437500, 37.657501 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 297741.000000, "TYPE": "BR", "ID": 551000288, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.618626, 37.726353 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 297869.000000, "TYPE": "BR", "ID": 551000289, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.545639, 37.715909 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 297801.000000, "TYPE": "BR", "ID": 551000290, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.545564, 37.715250 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 297802.000000, "TYPE": "M", "ID": 551000291, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.569966, 37.634271 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 286749.000000, "TYPE": "A", "ID": 551000292, "HUNUM": 55000044 }, "geometry": { "type": "Point", "coordinates": [ -76.565277, 37.630562 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 309480.000000, "TYPE": "BR", "ID": 551000293, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.525503, 37.847306 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 309479.000000, "TYPE": "BR", "ID": 551000294, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.525845, 37.842851 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 309481.000000, "TYPE": "BR", "ID": 551000295, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.564084, 37.786645 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 309709.000000, "TYPE": "AQ", "ID": 551000296, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -75.537965, 37.777937 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 309482.000000, "TYPE": "BR", "ID": 551000297, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.561952, 37.776668 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 309752.000000, "TYPE": "AQ", "ID": 551000298, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -75.539780, 37.776117 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 321776.000000, "TYPE": "BR", "ID": 551000299, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.673908, 37.835851 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 321777.000000, "TYPE": "BR", "ID": 551000300, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.702207, 37.783216 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 333946.000000, "TYPE": "BR", "ID": 551000301, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.750256, 37.768305 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 333949.000000, "TYPE": "M", "ID": 551000302, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -75.770604, 37.762925 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 333948.000000, "TYPE": "BR", "ID": 551000303, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.770070, 37.762226 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 346270.000000, "TYPE": "BR", "ID": 551000304, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.997793, 37.831413 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 346271.000000, "TYPE": "M", "ID": 551000305, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -75.994260, 37.830089 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 334294.000000, "TYPE": "A", "ID": 551000306, "HUNUM": 55000050 }, "geometry": { "type": "Point", "coordinates": [ -75.998062, 37.824719 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 358750.000000, "TYPE": "BR", "ID": 551000307, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.359420, 37.856777 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 359029.000000, "TYPE": "AQ", "ID": 551000308, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.344017, 37.854158 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 358748.000000, "TYPE": "BR", "ID": 551000309, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.348771, 37.850644 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 358746.000000, "TYPE": "BR", "ID": 551000310, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.254849, 37.851177 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 358749.000000, "TYPE": "BR", "ID": 551000311, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.359287, 37.841505 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 358751.000000, "TYPE": "M", "ID": 551000312, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.282787, 37.832162 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 346564.000000, "TYPE": "A", "ID": 551000313, "HUNUM": 55000041 }, "geometry": { "type": "Point", "coordinates": [ -76.273613, 37.828060 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 358677.000000, "TYPE": "BR", "ID": 551000314, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.271687, 37.824340 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 358747.000000, "TYPE": "BR", "ID": 551000315, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.271934, 37.823970 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 346565.000000, "TYPE": "A", "ID": 551000316, "HUNUM": 55000042 }, "geometry": { "type": "Point", "coordinates": [ -76.318062, 37.818612 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 346563.000000, "TYPE": "A", "ID": 551000317, "HUNUM": 55000003 }, "geometry": { "type": "Point", "coordinates": [ -76.346672, 37.762501 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 371947.000000, "TYPE": "BR", "ID": 551000318, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.420085, 37.871388 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 371870.000000, "TYPE": "BR", "ID": 551000319, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.419829, 37.871217 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 384995.000000, "TYPE": "AQ", "ID": 551000320, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.617353, 37.789667 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 385225.000000, "TYPE": "A", "ID": 551000321, "HUNUM": 55000047 }, "geometry": { "type": "Point", "coordinates": [ -76.736107, 37.857498 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 398176.000000, "TYPE": "BR", "ID": 551000322, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.634645, 37.804219 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 411704.000000, "TYPE": "AQ", "ID": 551000323, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.342134, 37.963898 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 411705.000000, "TYPE": "AQ", "ID": 551000324, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.336433, 37.931124 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 411522.000000, "TYPE": "BR", "ID": 551000325, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.364406, 37.921586 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 411521.000000, "TYPE": "BR", "ID": 551000326, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.370839, 37.918322 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 411520.000000, "TYPE": "BR", "ID": 551000327, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.359151, 37.913266 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 411707.000000, "TYPE": "AQ", "ID": 551000328, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.365936, 37.893803 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 411706.000000, "TYPE": "AQ", "ID": 551000329, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.355504, 37.891338 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 411709.000000, "TYPE": "AQ", "ID": 551000330, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.350475, 37.886324 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 411359.000000, "TYPE": "CG", "ID": 551000331, "HUNUM": 55000063 }, "geometry": { "type": "Point", "coordinates": [ -75.367783, 37.863609 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 411710.000000, "TYPE": "B", "ID": 551000332, "HUNUM": 55000060 }, "geometry": { "type": "Point", "coordinates": [ -75.336940, 37.896446 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 411789.000000, "TYPE": "A", "ID": 551000333, "HUNUM": 55000052 }, "geometry": { "type": "Point", "coordinates": [ -75.462501, 37.941670 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 425586.000000, "TYPE": "AQ", "ID": 551000334, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.377475, 37.940112 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 425511.000000, "TYPE": "AQ", "ID": 551000335, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -75.384854, 37.938853 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 425589.000000, "TYPE": "AQ", "ID": 551000336, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -75.456206, 37.936286 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 425402.000000, "TYPE": "BR", "ID": 551000337, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.420064, 37.934679 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 425410.000000, "TYPE": "BR", "ID": 551000338, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.419158, 37.934292 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 425653.000000, "TYPE": "AQ", "ID": 551000339, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -75.461444, 37.919997 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 425650.000000, "TYPE": "AQ", "ID": 551000340, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -75.449082, 37.918396 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 425588.000000, "TYPE": "AQ", "ID": 551000341, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -75.444332, 37.917972 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 425654.000000, "TYPE": "AQ", "ID": 551000342, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -75.384138, 37.915196 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 425414.000000, "TYPE": "BR", "ID": 551000343, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.476431, 37.907957 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 425585.000000, "TYPE": "AQ", "ID": 551000344, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.378179, 37.907635 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 425587.000000, "TYPE": "AQ", "ID": 551000345, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -75.440088, 37.907348 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 425412.000000, "TYPE": "BR", "ID": 551000346, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.408448, 37.902862 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 425411.000000, "TYPE": "BR", "ID": 551000347, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.405457, 37.902485 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 425583.000000, "TYPE": "AQ", "ID": 551000348, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.396535, 37.900445 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 425594.000000, "TYPE": "AQ", "ID": 551000349, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.378075, 37.894030 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 425584.000000, "TYPE": "AQ", "ID": 551000350, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.382462, 37.893613 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 425582.000000, "TYPE": "AQ", "ID": 551000351, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.445710, 37.892234 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 425413.000000, "TYPE": "BR", "ID": 551000352, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.493207, 37.882472 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 425580.000000, "TYPE": "AQ", "ID": 551000353, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.492656, 37.879638 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 425596.000000, "TYPE": "AQ", "ID": 551000354, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.387671, 37.879271 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 425597.000000, "TYPE": "AQ", "ID": 551000355, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.383787, 37.878532 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 425581.000000, "TYPE": "AQ", "ID": 551000356, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.475597, 37.876621 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 439772.000000, "TYPE": "BR", "ID": 551000357, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.631631, 37.974568 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 440001.000000, "TYPE": "AQ", "ID": 551000358, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -75.744909, 37.932722 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 439774.000000, "TYPE": "M", "ID": 551000359, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -75.727201, 37.918859 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 440000.000000, "TYPE": "AQ", "ID": 551000360, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -75.736745, 37.915824 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 439600.000000, "TYPE": "BR", "ID": 551000361, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.683512, 37.903640 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 440061.000000, "TYPE": "A", "ID": 551000362, "HUNUM": 55000014 }, "geometry": { "type": "Point", "coordinates": [ -76.290833, 37.905832 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 440062.000000, "TYPE": "A", "ID": 551000363, "HUNUM": 55000026 }, "geometry": { "type": "Point", "coordinates": [ -76.355560, 37.895826 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 454526.000000, "TYPE": "BR", "ID": 551000364, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.294394, 37.891984 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 454690.000000, "TYPE": "A", "ID": 551000365, "HUNUM": 55000020 }, "geometry": { "type": "Point", "coordinates": [ -76.457496, 37.945001 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 469320.000000, "TYPE": "BR", "ID": 551000366, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.721255, 37.923663 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 469666.000000, "TYPE": "A", "ID": 551000367, "HUNUM": 55000051 }, "geometry": { "type": "Point", "coordinates": [ -76.871941, 37.925000 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 484117.000000, "TYPE": "BR", "ID": 551000368, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.857458, 37.920304 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 484312.000000, "TYPE": "A", "ID": 551000369, "HUNUM": 55000045 }, "geometry": { "type": "Point", "coordinates": [ -76.613892, 38.118891 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 499108.000000, "TYPE": "BR", "ID": 551000370, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.587669, 38.089850 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 484313.000000, "TYPE": "A", "ID": 551000371, "HUNUM": 55000048 }, "geometry": { "type": "Point", "coordinates": [ -76.563331, 38.008887 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 499116.000000, "TYPE": "BR", "ID": 551000372, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.603745, 38.002151 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 499090.000000, "TYPE": "BR", "ID": 551000373, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.541211, 37.993186 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 514219.000000, "TYPE": "BR", "ID": 551000374, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.924113, 38.071632 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 529504.000000, "TYPE": "M", "ID": 551000375, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.634418, 38.142262 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 529739.000000, "TYPE": "AQ", "ID": 551000376, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.654958, 38.133820 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 529505.000000, "TYPE": "BR", "ID": 551000377, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.653838, 38.130919 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 545451.000000, "TYPE": "BR", "ID": 551000378, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.975347, 38.249016 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 545446.000000, "TYPE": "M", "ID": 551000379, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.966473, 38.242671 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 545450.000000, "TYPE": "BR", "ID": 551000380, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.970952, 38.241179 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 545446.000000, "TYPE": "M", "ID": 551000381, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.963983, 38.240704 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 545445.000000, "TYPE": "M", "ID": 551000382, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.963183, 38.234777 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 545454.000000, "TYPE": "BR", "ID": 551000383, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.961561, 38.232296 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 545444.000000, "TYPE": "M", "ID": 551000384, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.963676, 38.230771 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 545449.000000, "TYPE": "BR", "ID": 551000385, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.963581, 38.230571 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 545447.000000, "TYPE": "M", "ID": 551000386, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.980914, 38.204392 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 545448.000000, "TYPE": "BR", "ID": 551000387, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.980889, 38.204378 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 561363.000000, "TYPE": "BR", "ID": 551000388, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.086037, 38.161913 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 561364.000000, "TYPE": "BR", "ID": 551000389, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.071572, 38.153457 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 561633.000000, "TYPE": "A", "ID": 551000390, "HUNUM": 55000039 }, "geometry": { "type": "Point", "coordinates": [ -77.219437, 38.248330 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 577471.000000, "TYPE": "BR", "ID": 551000391, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.190429, 38.173419 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 577472.000000, "TYPE": "BR", "ID": 551000392, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.159785, 38.164862 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 577758.000000, "TYPE": "HP", "ID": 551000393, "HUNUM": 55000075 }, "geometry": { "type": "Point", "coordinates": [ -77.366669, 38.150003 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 594066.000000, "TYPE": "BR", "ID": 551000394, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.050173, 38.322341 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 594067.000000, "TYPE": "BR", "ID": 551000395, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.007053, 38.270291 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 610580.000000, "TYPE": "BR", "ID": 551000396, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.235037, 38.331311 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 610579.000000, "TYPE": "M", "ID": 551000397, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -77.235250, 38.331034 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 627299.000000, "TYPE": "M", "ID": 551000398, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -77.305413, 38.342183 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 627300.000000, "TYPE": "BR", "ID": 551000399, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.305710, 38.341756 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 627672.000000, "TYPE": "A", "ID": 551000400, "HUNUM": 55000011 }, "geometry": { "type": "Point", "coordinates": [ -77.316109, 38.403332 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 644603.000000, "TYPE": "M", "ID": 551000401, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -77.260807, 38.600779 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 644604.000000, "TYPE": "BR", "ID": 551000402, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.261528, 38.600223 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 644602.000000, "TYPE": "BR", "ID": 551000403, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.288039, 38.520110 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 644601.000000, "TYPE": "M", "ID": 551000404, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -77.287089, 38.519688 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 627954.000000, "TYPE": "A", "ID": 551000405, "HUNUM": 55000040 }, "geometry": { "type": "Point", "coordinates": [ -77.305832, 38.501670 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 644837.000000, "TYPE": "HP", "ID": 551000406, "HUNUM": 55000083 }, "geometry": { "type": "Point", "coordinates": [ -77.077499, 38.740280 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 644963.000000, "TYPE": "A", "ID": 551000407, "HUNUM": 55000012 }, "geometry": { "type": "Point", "coordinates": [ -77.181938, 38.715278 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 661986.000000, "TYPE": "BR", "ID": 551000408, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.167317, 38.675520 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 661990.000000, "TYPE": "M", "ID": 551000409, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -77.244257, 38.670017 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 661984.000000, "TYPE": "BR", "ID": 551000410, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.244487, 38.669778 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 661985.000000, "TYPE": "BR", "ID": 551000411, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.237907, 38.666208 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 661988.000000, "TYPE": "M", "ID": 551000412, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -77.238354, 38.666082 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 661989.000000, "TYPE": "M", "ID": 551000413, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -77.236293, 38.664733 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 661983.000000, "TYPE": "BR", "ID": 551000414, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.247365, 38.635703 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 661987.000000, "TYPE": "M", "ID": 551000415, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -77.247021, 38.635454 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 661999.000000, "TYPE": "HP", "ID": 551000416, "HUNUM": 55000088 }, "geometry": { "type": "Point", "coordinates": [ -77.059154, 38.871141 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 679157.000000, "TYPE": "BR", "ID": 551000417, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -77.041508, 38.863697 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 662000.000000, "TYPE": "A", "ID": 551000418, "HUNUM": 55000043 }, "geometry": { "type": "Point", "coordinates": [ -77.037499, 38.852221 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 661998.000000, "TYPE": "HP", "ID": 551000419, "HUNUM": 55000084 }, "geometry": { "type": "Point", "coordinates": [ -77.077499, 38.847776 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 679370.000000, "TYPE": "M", "ID": 551000420, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -77.043159, 38.832082 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 661997.000000, "TYPE": "HP", "ID": 551000421, "HUNUM": 55000066 }, "geometry": { "type": "Point", "coordinates": [ -77.104439, 38.822497 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 679368.000000, "TYPE": "BR", "ID": 551000422, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.049173, 38.777506 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECONPGE": 679369.000000, "TYPE": "M", "ID": 551000423, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -77.048704, 38.777375 ] } }
+
+]
+}

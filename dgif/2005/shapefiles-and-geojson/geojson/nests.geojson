@@ -1,0 +1,1269 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 1.000000, "NESTSGEN_I": 2.000000, "ID": 550500001, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.925952, 36.619137 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 2.000000, "NESTSGEN_I": 3.000000, "ID": 550500002, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.912728, 36.618309 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 3.000000, "NESTSGEN_I": 4.000000, "ID": 550500003, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.906249, 36.615606 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 4.000000, "NESTSGEN_I": 1.000000, "ID": 550500004, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.929789, 36.610720 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 5.000000, "NESTSGEN_I": 731.000000, "ID": 550500005, "RARNUM": 55000321 }, "geometry": { "type": "Point", "coordinates": [ -75.922669, 36.600587 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 6.000000, "NESTSGEN_I": 1440.000000, "ID": 550500006, "RARNUM": 55000268 }, "geometry": { "type": "Point", "coordinates": [ -75.957310, 36.734216 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 7.000000, "NESTSGEN_I": 756.000000, "ID": 550500007, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.944830, 36.690202 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 8.000000, "NESTSGEN_I": 755.000000, "ID": 550500008, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.931414, 36.688822 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 9.000000, "NESTSGEN_I": 758.000000, "ID": 550500009, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.947511, 36.686336 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 10.000000, "NESTSGEN_I": 754.000000, "ID": 550500010, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.926794, 36.685740 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 11.000000, "NESTSGEN_I": 757.000000, "ID": 550500011, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.941026, 36.685457 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 12.000000, "NESTSGEN_I": 753.000000, "ID": 550500012, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.928208, 36.681540 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 13.000000, "NESTSGEN_I": 751.000000, "ID": 550500013, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.921654, 36.679868 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 14.000000, "NESTSGEN_I": 752.000000, "ID": 550500014, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.935854, 36.675740 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 15.000000, "NESTSGEN_I": 759.000000, "ID": 550500015, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.959684, 36.674925 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 16.000000, "NESTSGEN_I": 749.000000, "ID": 550500016, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.920065, 36.672106 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 17.000000, "NESTSGEN_I": 750.000000, "ID": 550500017, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.927655, 36.670508 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 18.000000, "NESTSGEN_I": 767.000000, "ID": 550500018, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.913871, 36.668694 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 19.000000, "NESTSGEN_I": 760.000000, "ID": 550500019, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.958158, 36.663088 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 20.000000, "NESTSGEN_I": 748.000000, "ID": 550500020, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.917642, 36.663011 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 21.000000, "NESTSGEN_I": 1441.000000, "ID": 550500021, "RARNUM": 55000289 }, "geometry": { "type": "Point", "coordinates": [ -75.932747, 36.659363 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 22.000000, "NESTSGEN_I": 747.000000, "ID": 550500022, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.916138, 36.654801 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 23.000000, "NESTSGEN_I": 744.000000, "ID": 550500023, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.936930, 36.650738 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 24.000000, "NESTSGEN_I": 743.000000, "ID": 550500024, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.948254, 36.649740 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 25.000000, "NESTSGEN_I": 746.000000, "ID": 550500025, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.918320, 36.648260 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 26.000000, "NESTSGEN_I": 745.000000, "ID": 550500026, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.916319, 36.641737 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 27.000000, "NESTSGEN_I": 1519.000000, "ID": 550500027, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.976733, 36.849081 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 28.000000, "NESTSGEN_I": 2151.000000, "ID": 550500028, "RARNUM": 55000290 }, "geometry": { "type": "Point", "coordinates": [ -76.058330, 36.873447 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 29.000000, "NESTSGEN_I": 2150.000000, "ID": 550500029, "RARNUM": 55000310 }, "geometry": { "type": "Point", "coordinates": [ -76.092978, 36.872996 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 30.000000, "NESTSGEN_I": 2152.000000, "ID": 550500030, "RARNUM": 55000273 }, "geometry": { "type": "Point", "coordinates": [ -76.064418, 36.858427 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 31.000000, "NESTSGEN_I": 2153.000000, "ID": 550500031, "RARNUM": 55000290 }, "geometry": { "type": "Point", "coordinates": [ -76.059505, 36.857922 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 32.000000, "NESTSGEN_I": 2149.000000, "ID": 550500032, "RARNUM": 55000290 }, "geometry": { "type": "Point", "coordinates": [ -76.065421, 36.848148 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 33.000000, "NESTSGEN_I": 2456.000000, "ID": 550500033, "RARNUM": 55000316 }, "geometry": { "type": "Point", "coordinates": [ -76.236983, 36.846545 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 34.000000, "NESTSGEN_I": 2753.000000, "ID": 550500034, "RARNUM": 55000302 }, "geometry": { "type": "Point", "coordinates": [ -76.231401, 36.834478 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 35.000000, "NESTSGEN_I": 2754.000000, "ID": 550500035, "RARNUM": 55000290 }, "geometry": { "type": "Point", "coordinates": [ -76.192177, 36.817867 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 36.000000, "NESTSGEN_I": 3381.000000, "ID": 550500036, "RARNUM": 55000273 }, "geometry": { "type": "Point", "coordinates": [ -76.305096, 36.870814 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 37.000000, "NESTSGEN_I": 3377.000000, "ID": 550500037, "RARNUM": 55000273 }, "geometry": { "type": "Point", "coordinates": [ -76.349834, 36.864972 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 38.000000, "NESTSGEN_I": 2859.000000, "ID": 550500038, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.346362, 36.856094 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 39.000000, "NESTSGEN_I": 3378.000000, "ID": 550500039, "RARNUM": 55000290 }, "geometry": { "type": "Point", "coordinates": [ -76.344488, 36.847925 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 40.000000, "NESTSGEN_I": 3379.000000, "ID": 550500040, "RARNUM": 55000273 }, "geometry": { "type": "Point", "coordinates": [ -76.374396, 36.844907 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 41.000000, "NESTSGEN_I": 2890.000000, "ID": 550500041, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.286449, 36.843313 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 42.000000, "NESTSGEN_I": 2881.000000, "ID": 550500042, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.361664, 36.842371 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 43.000000, "NESTSGEN_I": 3380.000000, "ID": 550500043, "RARNUM": 55000290 }, "geometry": { "type": "Point", "coordinates": [ -76.324718, 36.841512 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 44.000000, "NESTSGEN_I": 2856.000000, "ID": 550500044, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.286709, 36.841618 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 45.000000, "NESTSGEN_I": 2884.000000, "ID": 550500045, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.265548, 36.840276 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 46.000000, "NESTSGEN_I": 2854.000000, "ID": 550500046, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.275168, 36.839383 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 47.000000, "NESTSGEN_I": 3382.000000, "ID": 550500047, "RARNUM": 55000313 }, "geometry": { "type": "Point", "coordinates": [ -76.257737, 36.835619 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 48.000000, "NESTSGEN_I": 3383.000000, "ID": 550500048, "RARNUM": 55000273 }, "geometry": { "type": "Point", "coordinates": [ -76.259636, 36.831368 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 49.000000, "NESTSGEN_I": 2883.000000, "ID": 550500049, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.288816, 36.808517 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 50.000000, "NESTSGEN_I": 2886.000000, "ID": 550500050, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.293221, 36.796848 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 51.000000, "NESTSGEN_I": 2877.000000, "ID": 550500051, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.299013, 36.772405 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 52.000000, "NESTSGEN_I": 2885.000000, "ID": 550500052, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.297356, 36.757849 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 53.000000, "NESTSGEN_I": 3974.000000, "ID": 550500053, "RARNUM": 55000273 }, "geometry": { "type": "Point", "coordinates": [ -76.402046, 36.841416 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 54.000000, "NESTSGEN_I": 4553.000000, "ID": 550500054, "RARNUM": 55000272 }, "geometry": { "type": "Point", "coordinates": [ -76.574889, 36.866685 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 55.000000, "NESTSGEN_I": 5261.000000, "ID": 550500055, "RARNUM": 55000322 }, "geometry": { "type": "Point", "coordinates": [ -76.022275, 36.900481 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 56.000000, "NESTSGEN_I": 5569.000000, "ID": 550500056, "RARNUM": 55000273 }, "geometry": { "type": "Point", "coordinates": [ -76.237207, 36.939828 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 57.000000, "NESTSGEN_I": 5565.000000, "ID": 550500057, "RARNUM": 55000318 }, "geometry": { "type": "Point", "coordinates": [ -76.215391, 36.934061 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 58.000000, "NESTSGEN_I": 5864.000000, "ID": 550500058, "RARNUM": 55000319 }, "geometry": { "type": "Point", "coordinates": [ -76.212160, 36.932205 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 59.000000, "NESTSGEN_I": 5566.000000, "ID": 550500059, "RARNUM": 55000317 }, "geometry": { "type": "Point", "coordinates": [ -76.222540, 36.932021 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 60.000000, "NESTSGEN_I": 5865.000000, "ID": 550500060, "RARNUM": 55000320 }, "geometry": { "type": "Point", "coordinates": [ -76.210500, 36.931853 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 61.000000, "NESTSGEN_I": 5863.000000, "ID": 550500061, "RARNUM": 55000302 }, "geometry": { "type": "Point", "coordinates": [ -76.198237, 36.929293 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 62.000000, "NESTSGEN_I": 6007.000000, "ID": 550500062, "RARNUM": 55000309 }, "geometry": { "type": "Point", "coordinates": [ -76.303085, 36.983067 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 63.000000, "NESTSGEN_I": 6172.000000, "ID": 550500063, "RARNUM": 55000302 }, "geometry": { "type": "Point", "coordinates": [ -76.251015, 36.948015 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 64.000000, "NESTSGEN_I": 6050.000000, "ID": 550500064, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.326389, 36.932150 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 65.000000, "NESTSGEN_I": 6477.000000, "ID": 550500065, "RARNUM": 55000306 }, "geometry": { "type": "Point", "coordinates": [ -76.311471, 36.914101 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 66.000000, "NESTSGEN_I": 6478.000000, "ID": 550500066, "RARNUM": 55000310 }, "geometry": { "type": "Point", "coordinates": [ -76.293254, 36.909305 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 67.000000, "NESTSGEN_I": 6051.000000, "ID": 550500067, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.305225, 36.905444 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 68.000000, "NESTSGEN_I": 6483.000000, "ID": 550500068, "RARNUM": 55000273 }, "geometry": { "type": "Point", "coordinates": [ -76.261923, 36.904668 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 69.000000, "NESTSGEN_I": 6093.000000, "ID": 550500069, "RARNUM": 55000305 }, "geometry": { "type": "Point", "coordinates": [ -76.312338, 36.901615 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 70.000000, "NESTSGEN_I": 6092.000000, "ID": 550500070, "RARNUM": 55000305 }, "geometry": { "type": "Point", "coordinates": [ -76.313426, 36.898679 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 71.000000, "NESTSGEN_I": 6482.000000, "ID": 550500071, "RARNUM": 55000308 }, "geometry": { "type": "Point", "coordinates": [ -76.288015, 36.896544 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 72.000000, "NESTSGEN_I": 6484.000000, "ID": 550500072, "RARNUM": 55000273 }, "geometry": { "type": "Point", "coordinates": [ -76.268880, 36.893893 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 73.000000, "NESTSGEN_I": 6481.000000, "ID": 550500073, "RARNUM": 55000290 }, "geometry": { "type": "Point", "coordinates": [ -76.283149, 36.893623 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 74.000000, "NESTSGEN_I": 6171.000000, "ID": 550500074, "RARNUM": 55000302 }, "geometry": { "type": "Point", "coordinates": [ -76.310944, 36.893266 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 75.000000, "NESTSGEN_I": 6485.000000, "ID": 550500075, "RARNUM": 55000312 }, "geometry": { "type": "Point", "coordinates": [ -76.268517, 36.892528 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 76.000000, "NESTSGEN_I": 6475.000000, "ID": 550500076, "RARNUM": 55000273 }, "geometry": { "type": "Point", "coordinates": [ -76.314766, 36.887543 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 77.000000, "NESTSGEN_I": 7092.000000, "ID": 550500077, "RARNUM": 55000273 }, "geometry": { "type": "Point", "coordinates": [ -76.379445, 36.998778 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 78.000000, "NESTSGEN_I": 7073.000000, "ID": 550500078, "RARNUM": 55000284 }, "geometry": { "type": "Point", "coordinates": [ -76.480919, 36.994802 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 79.000000, "NESTSGEN_I": 7093.000000, "ID": 550500079, "RARNUM": 55000290 }, "geometry": { "type": "Point", "coordinates": [ -76.400399, 36.986769 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 80.000000, "NESTSGEN_I": 6715.000000, "ID": 550500080, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.429161, 36.978375 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 81.000000, "NESTSGEN_I": 7075.000000, "ID": 550500081, "RARNUM": 55000257 }, "geometry": { "type": "Point", "coordinates": [ -76.488247, 36.939711 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 82.000000, "NESTSGEN_I": 7094.000000, "ID": 550500082, "RARNUM": 55000293 }, "geometry": { "type": "Point", "coordinates": [ -76.379426, 36.908777 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 83.000000, "NESTSGEN_I": 6697.000000, "ID": 550500083, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.492880, 36.885951 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 84.000000, "NESTSGEN_I": 7646.000000, "ID": 550500084, "RARNUM": 55000279 }, "geometry": { "type": "Point", "coordinates": [ -76.524870, 36.974057 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 85.000000, "NESTSGEN_I": 7904.000000, "ID": 550500085, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.920534, 37.111009 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 86.000000, "NESTSGEN_I": 7885.000000, "ID": 550500086, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.956904, 37.107980 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 87.000000, "NESTSGEN_I": 7902.000000, "ID": 550500087, "RARNUM": 55000043 }, "geometry": { "type": "Point", "coordinates": [ -75.977344, 37.098271 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 88.000000, "NESTSGEN_I": 7903.000000, "ID": 550500088, "RARNUM": 55000043 }, "geometry": { "type": "Point", "coordinates": [ -75.974532, 37.096384 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 89.000000, "NESTSGEN_I": 8248.000000, "ID": 550500089, "RARNUM": 55000162 }, "geometry": { "type": "Point", "coordinates": [ -75.957930, 37.094649 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 90.000000, "NESTSGEN_I": 8249.000000, "ID": 550500090, "RARNUM": 55000161 }, "geometry": { "type": "Point", "coordinates": [ -75.948198, 37.092573 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 91.000000, "NESTSGEN_I": 7878.000000, "ID": 550500091, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.962103, 37.088312 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 92.000000, "NESTSGEN_I": 8885.000000, "ID": 550500092, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.307588, 37.111977 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 93.000000, "NESTSGEN_I": 8847.000000, "ID": 550500093, "RARNUM": 55000311 }, "geometry": { "type": "Point", "coordinates": [ -76.290891, 37.108118 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 94.000000, "NESTSGEN_I": 8999.000000, "ID": 550500094, "RARNUM": 55000272 }, "geometry": { "type": "Point", "coordinates": [ -76.288476, 37.094834 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 95.000000, "NESTSGEN_I": 8846.000000, "ID": 550500095, "RARNUM": 55000300 }, "geometry": { "type": "Point", "coordinates": [ -76.342557, 37.056243 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 96.000000, "NESTSGEN_I": 8845.000000, "ID": 550500096, "RARNUM": 55000304 }, "geometry": { "type": "Point", "coordinates": [ -76.321245, 37.047142 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 97.000000, "NESTSGEN_I": 8841.000000, "ID": 550500097, "RARNUM": 55000302 }, "geometry": { "type": "Point", "coordinates": [ -76.337926, 37.041483 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 98.000000, "NESTSGEN_I": 8551.000000, "ID": 550500098, "RARNUM": 55000298 }, "geometry": { "type": "Point", "coordinates": [ -76.348552, 37.014446 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 99.000000, "NESTSGEN_I": 8844.000000, "ID": 550500099, "RARNUM": 55000308 }, "geometry": { "type": "Point", "coordinates": [ -76.311834, 37.007221 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 100.000000, "NESTSGEN_I": 8842.000000, "ID": 550500100, "RARNUM": 55000295 }, "geometry": { "type": "Point", "coordinates": [ -76.362711, 37.006602 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 101.000000, "NESTSGEN_I": 9300.000000, "ID": 550500101, "RARNUM": 55000286 }, "geometry": { "type": "Point", "coordinates": [ -76.446105, 37.096237 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 102.000000, "NESTSGEN_I": 9574.000000, "ID": 550500102, "RARNUM": 55000271 }, "geometry": { "type": "Point", "coordinates": [ -76.490465, 37.042892 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 103.000000, "NESTSGEN_I": 9658.000000, "ID": 550500103, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.469127, 37.003050 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 104.000000, "NESTSGEN_I": 10229.000000, "ID": 550500104, "RARNUM": 55000258 }, "geometry": { "type": "Point", "coordinates": [ -76.578828, 37.103067 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 105.000000, "NESTSGEN_I": 10230.000000, "ID": 550500105, "RARNUM": 55000256 }, "geometry": { "type": "Point", "coordinates": [ -76.576912, 37.092833 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 106.000000, "NESTSGEN_I": 10231.000000, "ID": 550500106, "RARNUM": 55000275 }, "geometry": { "type": "Point", "coordinates": [ -76.566419, 37.082607 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 107.000000, "NESTSGEN_I": 10232.000000, "ID": 550500107, "RARNUM": 55000277 }, "geometry": { "type": "Point", "coordinates": [ -76.557505, 37.081985 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 108.000000, "NESTSGEN_I": 10212.000000, "ID": 550500108, "RARNUM": 55000258 }, "geometry": { "type": "Point", "coordinates": [ -76.594037, 37.011537 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 109.000000, "NESTSGEN_I": 10812.000000, "ID": 550500109, "RARNUM": 55000269 }, "geometry": { "type": "Point", "coordinates": [ -76.686481, 37.098773 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 110.000000, "NESTSGEN_I": 11817.000000, "ID": 550500110, "RARNUM": 55000216 }, "geometry": { "type": "Point", "coordinates": [ -75.807627, 37.245310 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 111.000000, "NESTSGEN_I": 11489.000000, "ID": 550500111, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.818022, 37.241156 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 112.000000, "NESTSGEN_I": 11500.000000, "ID": 550500112, "RARNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.810977, 37.240986 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 113.000000, "NESTSGEN_I": 11501.000000, "ID": 550500113, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.810800, 37.240601 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 114.000000, "NESTSGEN_I": 11493.000000, "ID": 550500114, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.818366, 37.237512 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 115.000000, "NESTSGEN_I": 11818.000000, "ID": 550500115, "RARNUM": 55000210 }, "geometry": { "type": "Point", "coordinates": [ -75.819062, 37.236695 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 116.000000, "NESTSGEN_I": 11820.000000, "ID": 550500116, "RARNUM": 55000209 }, "geometry": { "type": "Point", "coordinates": [ -75.817367, 37.235490 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 117.000000, "NESTSGEN_I": 11821.000000, "ID": 550500117, "RARNUM": 55000212 }, "geometry": { "type": "Point", "coordinates": [ -75.799786, 37.230283 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 118.000000, "NESTSGEN_I": 11822.000000, "ID": 550500118, "RARNUM": 55000211 }, "geometry": { "type": "Point", "coordinates": [ -75.799488, 37.227031 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 119.000000, "NESTSGEN_I": 11823.000000, "ID": 550500119, "RARNUM": 55000173 }, "geometry": { "type": "Point", "coordinates": [ -75.839010, 37.220276 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 120.000000, "NESTSGEN_I": 11824.000000, "ID": 550500120, "RARNUM": 55000172 }, "geometry": { "type": "Point", "coordinates": [ -75.841758, 37.219121 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 121.000000, "NESTSGEN_I": 11825.000000, "ID": 550500121, "RARNUM": 55000183 }, "geometry": { "type": "Point", "coordinates": [ -75.853272, 37.203681 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 122.000000, "NESTSGEN_I": 11826.000000, "ID": 550500122, "RARNUM": 55000175 }, "geometry": { "type": "Point", "coordinates": [ -75.851023, 37.202066 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 123.000000, "NESTSGEN_I": 11827.000000, "ID": 550500123, "RARNUM": 55000174 }, "geometry": { "type": "Point", "coordinates": [ -75.854356, 37.199815 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 124.000000, "NESTSGEN_I": 11828.000000, "ID": 550500124, "RARNUM": 55000140 }, "geometry": { "type": "Point", "coordinates": [ -75.850562, 37.199383 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 125.000000, "NESTSGEN_I": 11829.000000, "ID": 550500125, "RARNUM": 55000192 }, "geometry": { "type": "Point", "coordinates": [ -75.837092, 37.196250 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 126.000000, "NESTSGEN_I": 11830.000000, "ID": 550500126, "RARNUM": 55000191 }, "geometry": { "type": "Point", "coordinates": [ -75.842461, 37.195220 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 127.000000, "NESTSGEN_I": 11832.000000, "ID": 550500127, "RARNUM": 55000137 }, "geometry": { "type": "Point", "coordinates": [ -75.849939, 37.194042 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 128.000000, "NESTSGEN_I": 11833.000000, "ID": 550500128, "RARNUM": 55000202 }, "geometry": { "type": "Point", "coordinates": [ -75.811040, 37.192014 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 129.000000, "NESTSGEN_I": 11836.000000, "ID": 550500129, "RARNUM": 55000214 }, "geometry": { "type": "Point", "coordinates": [ -75.837187, 37.177040 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 130.000000, "NESTSGEN_I": 11837.000000, "ID": 550500130, "RARNUM": 55000210 }, "geometry": { "type": "Point", "coordinates": [ -75.845433, 37.172736 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 131.000000, "NESTSGEN_I": 11838.000000, "ID": 550500131, "RARNUM": 55000193 }, "geometry": { "type": "Point", "coordinates": [ -75.851920, 37.172592 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 132.000000, "NESTSGEN_I": 11839.000000, "ID": 550500132, "RARNUM": 55000213 }, "geometry": { "type": "Point", "coordinates": [ -75.848651, 37.170865 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 133.000000, "NESTSGEN_I": 12265.000000, "ID": 550500133, "RARNUM": 55000336 }, "geometry": { "type": "Point", "coordinates": [ -75.994069, 37.239167 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 134.000000, "NESTSGEN_I": 12266.000000, "ID": 550500134, "RARNUM": 55000335 }, "geometry": { "type": "Point", "coordinates": [ -75.994217, 37.166478 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 135.000000, "NESTSGEN_I": 12883.000000, "ID": 550500135, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.899588, 37.167057 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 136.000000, "NESTSGEN_I": 12906.000000, "ID": 550500136, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.991413, 37.163451 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 137.000000, "NESTSGEN_I": 12897.000000, "ID": 550500137, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.976982, 37.161374 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 138.000000, "NESTSGEN_I": 13235.000000, "ID": 550500138, "RARNUM": 55000208 }, "geometry": { "type": "Point", "coordinates": [ -75.881510, 37.160928 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 139.000000, "NESTSGEN_I": 12890.000000, "ID": 550500139, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.942715, 37.125410 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 140.000000, "NESTSGEN_I": 13621.000000, "ID": 550500140, "RARNUM": 55000333 }, "geometry": { "type": "Point", "coordinates": [ -76.006665, 37.236490 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 141.000000, "NESTSGEN_I": 15049.000000, "ID": 550500141, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.359273, 37.168340 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 142.000000, "NESTSGEN_I": 14407.000000, "ID": 550500142, "RARNUM": 55000287 }, "geometry": { "type": "Point", "coordinates": [ -76.365482, 37.148158 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 143.000000, "NESTSGEN_I": 14408.000000, "ID": 550500143, "RARNUM": 55000294 }, "geometry": { "type": "Point", "coordinates": [ -76.371140, 37.147347 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 144.000000, "NESTSGEN_I": 15837.000000, "ID": 550500144, "RARNUM": 55000289 }, "geometry": { "type": "Point", "coordinates": [ -76.407295, 37.217575 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 145.000000, "NESTSGEN_I": 16527.000000, "ID": 550500145, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.453887, 37.216575 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 146.000000, "NESTSGEN_I": 18026.000000, "ID": 550500146, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.506098, 37.243867 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 147.000000, "NESTSGEN_I": 16778.000000, "ID": 550500147, "RARNUM": 55000280 }, "geometry": { "type": "Point", "coordinates": [ -76.522701, 37.194138 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 148.000000, "NESTSGEN_I": 17103.000000, "ID": 550500148, "RARNUM": 55000264 }, "geometry": { "type": "Point", "coordinates": [ -76.606918, 37.125297 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 149.000000, "NESTSGEN_I": 18590.000000, "ID": 550500149, "RARNUM": 55000263 }, "geometry": { "type": "Point", "coordinates": [ -76.707410, 37.218057 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 150.000000, "NESTSGEN_I": 18608.000000, "ID": 550500150, "RARNUM": 55000256 }, "geometry": { "type": "Point", "coordinates": [ -76.692045, 37.189629 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 151.000000, "NESTSGEN_I": 18607.000000, "ID": 550500151, "RARNUM": 55000272 }, "geometry": { "type": "Point", "coordinates": [ -76.671784, 37.182648 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 152.000000, "NESTSGEN_I": 18609.000000, "ID": 550500152, "RARNUM": 55000263 }, "geometry": { "type": "Point", "coordinates": [ -76.748977, 37.135817 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 153.000000, "NESTSGEN_I": 19545.000000, "ID": 550500153, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.643554, 37.131827 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 154.000000, "NESTSGEN_I": 20129.000000, "ID": 550500154, "RARNUM": 55000366 }, "geometry": { "type": "Point", "coordinates": [ -76.804992, 37.203312 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 155.000000, "NESTSGEN_I": 19841.000000, "ID": 550500155, "RARNUM": 55000258 }, "geometry": { "type": "Point", "coordinates": [ -76.758702, 37.198059 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 156.000000, "NESTSGEN_I": 19842.000000, "ID": 550500156, "RARNUM": 55000259 }, "geometry": { "type": "Point", "coordinates": [ -76.758568, 37.196396 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 157.000000, "NESTSGEN_I": 19843.000000, "ID": 550500157, "RARNUM": 55000257 }, "geometry": { "type": "Point", "coordinates": [ -76.758969, 37.194792 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 158.000000, "NESTSGEN_I": 19844.000000, "ID": 550500158, "RARNUM": 55000261 }, "geometry": { "type": "Point", "coordinates": [ -76.751366, 37.190962 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 159.000000, "NESTSGEN_I": 21880.000000, "ID": 550500159, "RARNUM": 55000138 }, "geometry": { "type": "Point", "coordinates": [ -75.723037, 37.357495 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 160.000000, "NESTSGEN_I": 21918.000000, "ID": 550500160, "RARNUM": 55000139 }, "geometry": { "type": "Point", "coordinates": [ -75.740395, 37.332807 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 161.000000, "NESTSGEN_I": 23755.000000, "ID": 550500161, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.855261, 37.371150 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 162.000000, "NESTSGEN_I": 23727.000000, "ID": 550500162, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.853654, 37.368787 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 163.000000, "NESTSGEN_I": 23928.000000, "ID": 550500163, "RARNUM": 55000153 }, "geometry": { "type": "Point", "coordinates": [ -75.858945, 37.365395 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 164.000000, "NESTSGEN_I": 23930.000000, "ID": 550500164, "RARNUM": 55000152 }, "geometry": { "type": "Point", "coordinates": [ -75.855876, 37.365192 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 165.000000, "NESTSGEN_I": 23931.000000, "ID": 550500165, "RARNUM": 55000151 }, "geometry": { "type": "Point", "coordinates": [ -75.854183, 37.364258 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 166.000000, "NESTSGEN_I": 23933.000000, "ID": 550500166, "RARNUM": 55000206 }, "geometry": { "type": "Point", "coordinates": [ -75.769997, 37.363247 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 167.000000, "NESTSGEN_I": 23935.000000, "ID": 550500167, "RARNUM": 55000155 }, "geometry": { "type": "Point", "coordinates": [ -75.856775, 37.361841 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 168.000000, "NESTSGEN_I": 23936.000000, "ID": 550500168, "RARNUM": 55000207 }, "geometry": { "type": "Point", "coordinates": [ -75.770590, 37.359394 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 169.000000, "NESTSGEN_I": 23937.000000, "ID": 550500169, "RARNUM": 55000169 }, "geometry": { "type": "Point", "coordinates": [ -75.785936, 37.357887 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 170.000000, "NESTSGEN_I": 23940.000000, "ID": 550500170, "RARNUM": 55000150 }, "geometry": { "type": "Point", "coordinates": [ -75.854293, 37.356469 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 171.000000, "NESTSGEN_I": 23941.000000, "ID": 550500171, "RARNUM": 55000168 }, "geometry": { "type": "Point", "coordinates": [ -75.786601, 37.355566 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 172.000000, "NESTSGEN_I": 23725.000000, "ID": 550500172, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.862335, 37.353407 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 173.000000, "NESTSGEN_I": 23942.000000, "ID": 550500173, "RARNUM": 55000149 }, "geometry": { "type": "Point", "coordinates": [ -75.856646, 37.352071 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 174.000000, "NESTSGEN_I": 23944.000000, "ID": 550500174, "RARNUM": 55000167 }, "geometry": { "type": "Point", "coordinates": [ -75.790262, 37.352360 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 175.000000, "NESTSGEN_I": 23945.000000, "ID": 550500175, "RARNUM": 55000148 }, "geometry": { "type": "Point", "coordinates": [ -75.864049, 37.348800 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 176.000000, "NESTSGEN_I": 24053.000000, "ID": 550500176, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.871190, 37.347856 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 177.000000, "NESTSGEN_I": 23946.000000, "ID": 550500177, "RARNUM": 55000166 }, "geometry": { "type": "Point", "coordinates": [ -75.791341, 37.348378 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 178.000000, "NESTSGEN_I": 23947.000000, "ID": 550500178, "RARNUM": 55000147 }, "geometry": { "type": "Point", "coordinates": [ -75.865584, 37.343596 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 179.000000, "NESTSGEN_I": 23949.000000, "ID": 550500179, "RARNUM": 55000146 }, "geometry": { "type": "Point", "coordinates": [ -75.868504, 37.339969 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 180.000000, "NESTSGEN_I": 23953.000000, "ID": 550500180, "RARNUM": 55000178 }, "geometry": { "type": "Point", "coordinates": [ -75.763661, 37.338933 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 181.000000, "NESTSGEN_I": 23956.000000, "ID": 550500181, "RARNUM": 55000154 }, "geometry": { "type": "Point", "coordinates": [ -75.871523, 37.337973 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 182.000000, "NESTSGEN_I": 23959.000000, "ID": 550500182, "RARNUM": 55000132 }, "geometry": { "type": "Point", "coordinates": [ -75.777919, 37.337956 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 183.000000, "NESTSGEN_I": 23960.000000, "ID": 550500183, "RARNUM": 55000179 }, "geometry": { "type": "Point", "coordinates": [ -75.760046, 37.337559 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 184.000000, "NESTSGEN_I": 23962.000000, "ID": 550500184, "RARNUM": 55000143 }, "geometry": { "type": "Point", "coordinates": [ -75.836746, 37.336888 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 185.000000, "NESTSGEN_I": 23963.000000, "ID": 550500185, "RARNUM": 55000165 }, "geometry": { "type": "Point", "coordinates": [ -75.795592, 37.336550 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 186.000000, "NESTSGEN_I": 23965.000000, "ID": 550500186, "RARNUM": 55000133 }, "geometry": { "type": "Point", "coordinates": [ -75.774811, 37.336111 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 187.000000, "NESTSGEN_I": 23968.000000, "ID": 550500187, "RARNUM": 55000164 }, "geometry": { "type": "Point", "coordinates": [ -75.799474, 37.335704 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 188.000000, "NESTSGEN_I": 23970.000000, "ID": 550500188, "RARNUM": 55000163 }, "geometry": { "type": "Point", "coordinates": [ -75.807982, 37.333996 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 189.000000, "NESTSGEN_I": 23972.000000, "ID": 550500189, "RARNUM": 55000144 }, "geometry": { "type": "Point", "coordinates": [ -75.864877, 37.332650 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 190.000000, "NESTSGEN_I": 23980.000000, "ID": 550500190, "RARNUM": 55000145 }, "geometry": { "type": "Point", "coordinates": [ -75.868205, 37.331607 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 191.000000, "NESTSGEN_I": 23981.000000, "ID": 550500191, "RARNUM": 55000134 }, "geometry": { "type": "Point", "coordinates": [ -75.773977, 37.331510 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 192.000000, "NESTSGEN_I": 23983.000000, "ID": 550500192, "RARNUM": 55000180 }, "geometry": { "type": "Point", "coordinates": [ -75.758901, 37.330553 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 193.000000, "NESTSGEN_I": 23984.000000, "ID": 550500193, "RARNUM": 55000136 }, "geometry": { "type": "Point", "coordinates": [ -75.787511, 37.330033 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 194.000000, "NESTSGEN_I": 23987.000000, "ID": 550500194, "RARNUM": 55000181 }, "geometry": { "type": "Point", "coordinates": [ -75.764787, 37.330020 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 195.000000, "NESTSGEN_I": 23989.000000, "ID": 550500195, "RARNUM": 55000135 }, "geometry": { "type": "Point", "coordinates": [ -75.777059, 37.326929 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 196.000000, "NESTSGEN_I": 23990.000000, "ID": 550500196, "RARNUM": 55000141 }, "geometry": { "type": "Point", "coordinates": [ -75.843392, 37.325765 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 197.000000, "NESTSGEN_I": 23992.000000, "ID": 550500197, "RARNUM": 55000142 }, "geometry": { "type": "Point", "coordinates": [ -75.841341, 37.325500 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 198.000000, "NESTSGEN_I": 23994.000000, "ID": 550500198, "RARNUM": 55000159 }, "geometry": { "type": "Point", "coordinates": [ -75.854848, 37.324619 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 199.000000, "NESTSGEN_I": 23996.000000, "ID": 550500199, "RARNUM": 55000140 }, "geometry": { "type": "Point", "coordinates": [ -75.845963, 37.323331 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 200.000000, "NESTSGEN_I": 23997.000000, "ID": 550500200, "RARNUM": 55000158 }, "geometry": { "type": "Point", "coordinates": [ -75.860108, 37.323184 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 201.000000, "NESTSGEN_I": 23720.000000, "ID": 550500201, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.782958, 37.304274 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 202.000000, "NESTSGEN_I": 23710.000000, "ID": 550500202, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.775321, 37.303905 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 203.000000, "NESTSGEN_I": 23998.000000, "ID": 550500203, "RARNUM": 55000177 }, "geometry": { "type": "Point", "coordinates": [ -75.781711, 37.300271 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 204.000000, "NESTSGEN_I": 24002.000000, "ID": 550500204, "RARNUM": 55000176 }, "geometry": { "type": "Point", "coordinates": [ -75.788318, 37.299362 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 205.000000, "NESTSGEN_I": 24003.000000, "ID": 550500205, "RARNUM": 55000157 }, "geometry": { "type": "Point", "coordinates": [ -75.870800, 37.298507 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 206.000000, "NESTSGEN_I": 24005.000000, "ID": 550500206, "RARNUM": 55000205 }, "geometry": { "type": "Point", "coordinates": [ -75.858259, 37.288665 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 207.000000, "NESTSGEN_I": 24006.000000, "ID": 550500207, "RARNUM": 55000205 }, "geometry": { "type": "Point", "coordinates": [ -75.866837, 37.288296 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 208.000000, "NESTSGEN_I": 24007.000000, "ID": 550500208, "RARNUM": 55000204 }, "geometry": { "type": "Point", "coordinates": [ -75.871525, 37.287748 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 209.000000, "NESTSGEN_I": 24010.000000, "ID": 550500209, "RARNUM": 55000182 }, "geometry": { "type": "Point", "coordinates": [ -75.836504, 37.286223 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 210.000000, "NESTSGEN_I": 24014.000000, "ID": 550500210, "RARNUM": 55000220 }, "geometry": { "type": "Point", "coordinates": [ -75.796671, 37.285966 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 211.000000, "NESTSGEN_I": 24018.000000, "ID": 550500211, "RARNUM": 55000190 }, "geometry": { "type": "Point", "coordinates": [ -75.840190, 37.284856 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 212.000000, "NESTSGEN_I": 24020.000000, "ID": 550500212, "RARNUM": 55000207 }, "geometry": { "type": "Point", "coordinates": [ -75.814722, 37.284139 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 213.000000, "NESTSGEN_I": 23741.000000, "ID": 550500213, "RARNUM": 55000076 }, "geometry": { "type": "Point", "coordinates": [ -75.801022, 37.282716 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 214.000000, "NESTSGEN_I": 24021.000000, "ID": 550500214, "RARNUM": 55000145 }, "geometry": { "type": "Point", "coordinates": [ -75.832093, 37.282315 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 215.000000, "NESTSGEN_I": 24023.000000, "ID": 550500215, "RARNUM": 55000219 }, "geometry": { "type": "Point", "coordinates": [ -75.795809, 37.279725 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 216.000000, "NESTSGEN_I": 24024.000000, "ID": 550500216, "RARNUM": 55000188 }, "geometry": { "type": "Point", "coordinates": [ -75.841622, 37.278833 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 217.000000, "NESTSGEN_I": 24025.000000, "ID": 550500217, "RARNUM": 55000218 }, "geometry": { "type": "Point", "coordinates": [ -75.803938, 37.277939 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 218.000000, "NESTSGEN_I": 24026.000000, "ID": 550500218, "RARNUM": 55000183 }, "geometry": { "type": "Point", "coordinates": [ -75.827624, 37.277740 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 219.000000, "NESTSGEN_I": 24027.000000, "ID": 550500219, "RARNUM": 55000183 }, "geometry": { "type": "Point", "coordinates": [ -75.845749, 37.276749 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 220.000000, "NESTSGEN_I": 24032.000000, "ID": 550500220, "RARNUM": 55000185 }, "geometry": { "type": "Point", "coordinates": [ -75.836989, 37.274393 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 221.000000, "NESTSGEN_I": 23742.000000, "ID": 550500221, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.868615, 37.273831 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 222.000000, "NESTSGEN_I": 24033.000000, "ID": 550500222, "RARNUM": 55000184 }, "geometry": { "type": "Point", "coordinates": [ -75.827686, 37.273980 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 223.000000, "NESTSGEN_I": 24034.000000, "ID": 550500223, "RARNUM": 55000186 }, "geometry": { "type": "Point", "coordinates": [ -75.844051, 37.273750 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 224.000000, "NESTSGEN_I": 24035.000000, "ID": 550500224, "RARNUM": 55000187 }, "geometry": { "type": "Point", "coordinates": [ -75.846316, 37.271643 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 225.000000, "NESTSGEN_I": 24039.000000, "ID": 550500225, "RARNUM": 55000189 }, "geometry": { "type": "Point", "coordinates": [ -75.830406, 37.268968 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 226.000000, "NESTSGEN_I": 23740.000000, "ID": 550500226, "RARNUM": 55000076 }, "geometry": { "type": "Point", "coordinates": [ -75.797506, 37.268868 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 227.000000, "NESTSGEN_I": 24049.000000, "ID": 550500227, "RARNUM": 55000217 }, "geometry": { "type": "Point", "coordinates": [ -75.802587, 37.262319 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 228.000000, "NESTSGEN_I": 24042.000000, "ID": 550500228, "RARNUM": 55000184 }, "geometry": { "type": "Point", "coordinates": [ -75.855053, 37.258636 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 229.000000, "NESTSGEN_I": 24052.000000, "ID": 550500229, "RARNUM": 55000203 }, "geometry": { "type": "Point", "coordinates": [ -75.865925, 37.256934 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 230.000000, "NESTSGEN_I": 26228.000000, "ID": 550500230, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.893956, 37.367682 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 231.000000, "NESTSGEN_I": 24436.000000, "ID": 550500231, "RARNUM": 55000275 }, "geometry": { "type": "Point", "coordinates": [ -75.971556, 37.365492 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 232.000000, "NESTSGEN_I": 26227.000000, "ID": 550500232, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.956224, 37.363368 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 233.000000, "NESTSGEN_I": 26226.000000, "ID": 550500233, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.962270, 37.316963 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 234.000000, "NESTSGEN_I": 26225.000000, "ID": 550500234, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.919185, 37.304551 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 235.000000, "NESTSGEN_I": 26205.000000, "ID": 550500235, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.884342, 37.299734 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 236.000000, "NESTSGEN_I": 26485.000000, "ID": 550500236, "RARNUM": 55000156 }, "geometry": { "type": "Point", "coordinates": [ -75.876720, 37.297454 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 237.000000, "NESTSGEN_I": 26209.000000, "ID": 550500237, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.901049, 37.290069 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 238.000000, "NESTSGEN_I": 26489.000000, "ID": 550500238, "RARNUM": 55000215 }, "geometry": { "type": "Point", "coordinates": [ -75.901054, 37.287337 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 239.000000, "NESTSGEN_I": 26494.000000, "ID": 550500239, "RARNUM": 55000200 }, "geometry": { "type": "Point", "coordinates": [ -75.883928, 37.285474 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 240.000000, "NESTSGEN_I": 26503.000000, "ID": 550500240, "RARNUM": 55000199 }, "geometry": { "type": "Point", "coordinates": [ -75.891881, 37.279988 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 241.000000, "NESTSGEN_I": 26510.000000, "ID": 550500241, "RARNUM": 55000198 }, "geometry": { "type": "Point", "coordinates": [ -75.894249, 37.275256 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 242.000000, "NESTSGEN_I": 26512.000000, "ID": 550500242, "RARNUM": 55000197 }, "geometry": { "type": "Point", "coordinates": [ -75.889264, 37.274528 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 243.000000, "NESTSGEN_I": 26517.000000, "ID": 550500243, "RARNUM": 55000201 }, "geometry": { "type": "Point", "coordinates": [ -75.883092, 37.270896 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 244.000000, "NESTSGEN_I": 26518.000000, "ID": 550500244, "RARNUM": 55000196 }, "geometry": { "type": "Point", "coordinates": [ -75.892447, 37.270493 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 245.000000, "NESTSGEN_I": 26521.000000, "ID": 550500245, "RARNUM": 55000195 }, "geometry": { "type": "Point", "coordinates": [ -75.895278, 37.267542 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 246.000000, "NESTSGEN_I": 26522.000000, "ID": 550500246, "RARNUM": 55000194 }, "geometry": { "type": "Point", "coordinates": [ -75.891133, 37.261507 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 247.000000, "NESTSGEN_I": 26224.000000, "ID": 550500247, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.933348, 37.250910 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 248.000000, "NESTSGEN_I": 27298.000000, "ID": 550500248, "RARNUM": 55000287 }, "geometry": { "type": "Point", "coordinates": [ -76.292116, 37.359619 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 249.000000, "NESTSGEN_I": 27321.000000, "ID": 550500249, "RARNUM": 55000256 }, "geometry": { "type": "Point", "coordinates": [ -76.321242, 37.349933 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 250.000000, "NESTSGEN_I": 27295.000000, "ID": 550500250, "RARNUM": 55000296 }, "geometry": { "type": "Point", "coordinates": [ -76.313078, 37.338835 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 251.000000, "NESTSGEN_I": 27297.000000, "ID": 550500251, "RARNUM": 55000283 }, "geometry": { "type": "Point", "coordinates": [ -76.276109, 37.336297 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 252.000000, "NESTSGEN_I": 27296.000000, "ID": 550500252, "RARNUM": 55000264 }, "geometry": { "type": "Point", "coordinates": [ -76.294795, 37.326041 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 253.000000, "NESTSGEN_I": 26755.000000, "ID": 550500253, "RARNUM": 55000299 }, "geometry": { "type": "Point", "coordinates": [ -76.352913, 37.277270 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 254.000000, "NESTSGEN_I": 27271.000000, "ID": 550500254, "RARNUM": 55000297 }, "geometry": { "type": "Point", "coordinates": [ -76.362645, 37.266835 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 255.000000, "NESTSGEN_I": 28065.000000, "ID": 550500255, "RARNUM": 55000258 }, "geometry": { "type": "Point", "coordinates": [ -76.415575, 37.335740 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 256.000000, "NESTSGEN_I": 28063.000000, "ID": 550500256, "RARNUM": 55000271 }, "geometry": { "type": "Point", "coordinates": [ -76.457487, 37.325317 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 257.000000, "NESTSGEN_I": 28064.000000, "ID": 550500257, "RARNUM": 55000271 }, "geometry": { "type": "Point", "coordinates": [ -76.431159, 37.325070 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 258.000000, "NESTSGEN_I": 28062.000000, "ID": 550500258, "RARNUM": 55000257 }, "geometry": { "type": "Point", "coordinates": [ -76.446833, 37.307431 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 259.000000, "NESTSGEN_I": 27653.000000, "ID": 550500259, "RARNUM": 55000292 }, "geometry": { "type": "Point", "coordinates": [ -76.394321, 37.294339 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 260.000000, "NESTSGEN_I": 28061.000000, "ID": 550500260, "RARNUM": 55000271 }, "geometry": { "type": "Point", "coordinates": [ -76.396194, 37.268678 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 261.000000, "NESTSGEN_I": 28798.000000, "ID": 550500261, "RARNUM": 55000256 }, "geometry": { "type": "Point", "coordinates": [ -76.588272, 37.343257 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 262.000000, "NESTSGEN_I": 28858.000000, "ID": 550500262, "RARNUM": 55000270 }, "geometry": { "type": "Point", "coordinates": [ -76.623289, 37.304905 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 263.000000, "NESTSGEN_I": 28857.000000, "ID": 550500263, "RARNUM": 55000258 }, "geometry": { "type": "Point", "coordinates": [ -76.615868, 37.297979 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 264.000000, "NESTSGEN_I": 28396.000000, "ID": 550500264, "RARNUM": 55000278 }, "geometry": { "type": "Point", "coordinates": [ -76.544178, 37.292357 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 265.000000, "NESTSGEN_I": 28856.000000, "ID": 550500265, "RARNUM": 55000260 }, "geometry": { "type": "Point", "coordinates": [ -76.592064, 37.276026 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 266.000000, "NESTSGEN_I": 28862.000000, "ID": 550500266, "RARNUM": 55000281 }, "geometry": { "type": "Point", "coordinates": [ -76.517493, 37.270873 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 267.000000, "NESTSGEN_I": 28264.000000, "ID": 550500267, "RARNUM": 55000282 }, "geometry": { "type": "Point", "coordinates": [ -76.515755, 37.270084 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 268.000000, "NESTSGEN_I": 28855.000000, "ID": 550500268, "RARNUM": 55000272 }, "geometry": { "type": "Point", "coordinates": [ -76.586361, 37.265323 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 269.000000, "NESTSGEN_I": 29656.000000, "ID": 550500269, "RARNUM": 55000265 }, "geometry": { "type": "Point", "coordinates": [ -76.666922, 37.367320 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 270.000000, "NESTSGEN_I": 29657.000000, "ID": 550500270, "RARNUM": 55000267 }, "geometry": { "type": "Point", "coordinates": [ -76.660198, 37.346131 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 271.000000, "NESTSGEN_I": 29658.000000, "ID": 550500271, "RARNUM": 55000258 }, "geometry": { "type": "Point", "coordinates": [ -76.658638, 37.345839 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 272.000000, "NESTSGEN_I": 29323.000000, "ID": 550500272, "RARNUM": 55000273 }, "geometry": { "type": "Point", "coordinates": [ -76.656145, 37.288249 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 273.000000, "NESTSGEN_I": 29448.000000, "ID": 550500273, "RARNUM": 55000267 }, "geometry": { "type": "Point", "coordinates": [ -76.725717, 37.266268 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 274.000000, "NESTSGEN_I": 30213.000000, "ID": 550500274, "RARNUM": 55000274 }, "geometry": { "type": "Point", "coordinates": [ -76.864488, 37.361026 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 275.000000, "NESTSGEN_I": 30214.000000, "ID": 550500275, "RARNUM": 55000271 }, "geometry": { "type": "Point", "coordinates": [ -76.814740, 37.311480 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 276.000000, "NESTSGEN_I": 30217.000000, "ID": 550500276, "RARNUM": 55000264 }, "geometry": { "type": "Point", "coordinates": [ -76.750678, 37.291510 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 277.000000, "NESTSGEN_I": 30216.000000, "ID": 550500277, "RARNUM": 55000303 }, "geometry": { "type": "Point", "coordinates": [ -76.787571, 37.286556 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 278.000000, "NESTSGEN_I": 30215.000000, "ID": 550500278, "RARNUM": 55000368 }, "geometry": { "type": "Point", "coordinates": [ -76.775521, 37.251585 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 279.000000, "NESTSGEN_I": 30752.000000, "ID": 550500279, "RARNUM": 55000333 }, "geometry": { "type": "Point", "coordinates": [ -76.924515, 37.372989 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 280.000000, "NESTSGEN_I": 30751.000000, "ID": 550500280, "RARNUM": 55000264 }, "geometry": { "type": "Point", "coordinates": [ -76.986162, 37.305269 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 281.000000, "NESTSGEN_I": 31329.000000, "ID": 550500281, "RARNUM": 55000272 }, "geometry": { "type": "Point", "coordinates": [ -77.014377, 37.297910 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 282.000000, "NESTSGEN_I": 31285.000000, "ID": 550500282, "RARNUM": 55000361 }, "geometry": { "type": "Point", "coordinates": [ -77.067042, 37.279659 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 283.000000, "NESTSGEN_I": 31289.000000, "ID": 550500283, "RARNUM": 55000363 }, "geometry": { "type": "Point", "coordinates": [ -77.062170, 37.279014 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 284.000000, "NESTSGEN_I": 31288.000000, "ID": 550500284, "RARNUM": 55000362 }, "geometry": { "type": "Point", "coordinates": [ -77.064216, 37.277200 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 285.000000, "NESTSGEN_I": 31337.000000, "ID": 550500285, "RARNUM": 55000271 }, "geometry": { "type": "Point", "coordinates": [ -77.044609, 37.192038 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 286.000000, "NESTSGEN_I": 33831.000000, "ID": 550500286, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -77.224212, 37.319152 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 287.000000, "NESTSGEN_I": 31875.000000, "ID": 550500287, "RARNUM": 55000312 }, "geometry": { "type": "Point", "coordinates": [ -77.239838, 37.313055 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 288.000000, "NESTSGEN_I": 36380.000000, "ID": 550500288, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -77.346411, 37.379204 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 289.000000, "NESTSGEN_I": 34370.000000, "ID": 550500289, "RARNUM": 55000255 }, "geometry": { "type": "Point", "coordinates": [ -77.370014, 37.375047 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 290.000000, "NESTSGEN_I": 34378.000000, "ID": 550500290, "RARNUM": 55000307 }, "geometry": { "type": "Point", "coordinates": [ -77.281917, 37.363247 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 291.000000, "NESTSGEN_I": 34379.000000, "ID": 550500291, "RARNUM": 55000258 }, "geometry": { "type": "Point", "coordinates": [ -77.284014, 37.362551 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 292.000000, "NESTSGEN_I": 34125.000000, "ID": 550500292, "RARNUM": 55000288 }, "geometry": { "type": "Point", "coordinates": [ -77.299912, 37.360489 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 293.000000, "NESTSGEN_I": 34126.000000, "ID": 550500293, "RARNUM": 55000291 }, "geometry": { "type": "Point", "coordinates": [ -77.298079, 37.359434 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 294.000000, "NESTSGEN_I": 36385.000000, "ID": 550500294, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -77.280075, 37.338656 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 295.000000, "NESTSGEN_I": 34409.000000, "ID": 550500295, "RARNUM": 55000315 }, "geometry": { "type": "Point", "coordinates": [ -77.257161, 37.309703 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 296.000000, "NESTSGEN_I": 36928.000000, "ID": 550500296, "RARNUM": 55000322 }, "geometry": { "type": "Point", "coordinates": [ -77.407599, 37.427169 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 297.000000, "NESTSGEN_I": 38980.000000, "ID": 550500297, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -77.386089, 37.383965 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 298.000000, "NESTSGEN_I": 39522.000000, "ID": 550500298, "RARNUM": 55000303 }, "geometry": { "type": "Point", "coordinates": [ -77.403163, 37.621626 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 299.000000, "NESTSGEN_I": 39524.000000, "ID": 550500299, "RARNUM": 55000260 }, "geometry": { "type": "Point", "coordinates": [ -77.389050, 37.596414 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 300.000000, "NESTSGEN_I": 39525.000000, "ID": 550500300, "RARNUM": 55000260 }, "geometry": { "type": "Point", "coordinates": [ -77.385549, 37.595748 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 301.000000, "NESTSGEN_I": 41631.000000, "ID": 550500301, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -77.439214, 37.538197 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 302.000000, "NESTSGEN_I": 41632.000000, "ID": 550500302, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -77.440062, 37.537208 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 303.000000, "NESTSGEN_I": 44424.000000, "ID": 550500303, "RARNUM": 55000412 }, "geometry": { "type": "Point", "coordinates": [ -75.723289, 37.495828 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 304.000000, "NESTSGEN_I": 44425.000000, "ID": 550500304, "RARNUM": 55000413 }, "geometry": { "type": "Point", "coordinates": [ -75.701791, 37.494128 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 305.000000, "NESTSGEN_I": 44427.000000, "ID": 550500305, "RARNUM": 55000226 }, "geometry": { "type": "Point", "coordinates": [ -75.713836, 37.493660 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 306.000000, "NESTSGEN_I": 44289.000000, "ID": 550500306, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.658945, 37.492996 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 307.000000, "NESTSGEN_I": 44311.000000, "ID": 550500307, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.683821, 37.484102 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 308.000000, "NESTSGEN_I": 44298.000000, "ID": 550500308, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.737934, 37.483173 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 309.000000, "NESTSGEN_I": 44428.000000, "ID": 550500309, "RARNUM": 55000415 }, "geometry": { "type": "Point", "coordinates": [ -75.682630, 37.480450 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 310.000000, "NESTSGEN_I": 44429.000000, "ID": 550500310, "RARNUM": 55000414 }, "geometry": { "type": "Point", "coordinates": [ -75.683171, 37.477247 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 311.000000, "NESTSGEN_I": 44432.000000, "ID": 550500311, "RARNUM": 55000227 }, "geometry": { "type": "Point", "coordinates": [ -75.720951, 37.476689 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 312.000000, "NESTSGEN_I": 44434.000000, "ID": 550500312, "RARNUM": 55000239 }, "geometry": { "type": "Point", "coordinates": [ -75.740762, 37.475737 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 313.000000, "NESTSGEN_I": 44435.000000, "ID": 550500313, "RARNUM": 55000238 }, "geometry": { "type": "Point", "coordinates": [ -75.742345, 37.473537 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 314.000000, "NESTSGEN_I": 44436.000000, "ID": 550500314, "RARNUM": 55000251 }, "geometry": { "type": "Point", "coordinates": [ -75.724084, 37.469404 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 315.000000, "NESTSGEN_I": 44443.000000, "ID": 550500315, "RARNUM": 55000253 }, "geometry": { "type": "Point", "coordinates": [ -75.687209, 37.468146 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 316.000000, "NESTSGEN_I": 44444.000000, "ID": 550500316, "RARNUM": 55000192 }, "geometry": { "type": "Point", "coordinates": [ -75.692402, 37.467575 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 317.000000, "NESTSGEN_I": 44445.000000, "ID": 550500317, "RARNUM": 55000162 }, "geometry": { "type": "Point", "coordinates": [ -75.701003, 37.463811 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 318.000000, "NESTSGEN_I": 44287.000000, "ID": 550500318, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.685918, 37.463440 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 319.000000, "NESTSGEN_I": 44446.000000, "ID": 550500319, "RARNUM": 55000254 }, "geometry": { "type": "Point", "coordinates": [ -75.684616, 37.462825 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 320.000000, "NESTSGEN_I": 44447.000000, "ID": 550500320, "RARNUM": 55000219 }, "geometry": { "type": "Point", "coordinates": [ -75.700745, 37.461983 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 321.000000, "NESTSGEN_I": 44448.000000, "ID": 550500321, "RARNUM": 55000250 }, "geometry": { "type": "Point", "coordinates": [ -75.706572, 37.460524 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 322.000000, "NESTSGEN_I": 44291.000000, "ID": 550500322, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.721231, 37.450466 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 323.000000, "NESTSGEN_I": 44449.000000, "ID": 550500323, "RARNUM": 55000203 }, "geometry": { "type": "Point", "coordinates": [ -75.720339, 37.448011 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 324.000000, "NESTSGEN_I": 44452.000000, "ID": 550500324, "RARNUM": 55000386 }, "geometry": { "type": "Point", "coordinates": [ -75.661568, 37.448084 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 325.000000, "NESTSGEN_I": 44454.000000, "ID": 550500325, "RARNUM": 55000384 }, "geometry": { "type": "Point", "coordinates": [ -75.698237, 37.445529 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 326.000000, "NESTSGEN_I": 44456.000000, "ID": 550500326, "RARNUM": 55000383 }, "geometry": { "type": "Point", "coordinates": [ -75.702179, 37.445091 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 327.000000, "NESTSGEN_I": 44457.000000, "ID": 550500327, "RARNUM": 55000382 }, "geometry": { "type": "Point", "coordinates": [ -75.703947, 37.444360 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 328.000000, "NESTSGEN_I": 44458.000000, "ID": 550500328, "RARNUM": 55000252 }, "geometry": { "type": "Point", "coordinates": [ -75.699824, 37.443816 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 329.000000, "NESTSGEN_I": 44459.000000, "ID": 550500329, "RARNUM": 55000381 }, "geometry": { "type": "Point", "coordinates": [ -75.705736, 37.442970 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 330.000000, "NESTSGEN_I": 44461.000000, "ID": 550500330, "RARNUM": 55000385 }, "geometry": { "type": "Point", "coordinates": [ -75.703416, 37.442578 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 331.000000, "NESTSGEN_I": 44464.000000, "ID": 550500331, "RARNUM": 55000235 }, "geometry": { "type": "Point", "coordinates": [ -75.729014, 37.441927 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 332.000000, "NESTSGEN_I": 44465.000000, "ID": 550500332, "RARNUM": 55000241 }, "geometry": { "type": "Point", "coordinates": [ -75.707030, 37.439879 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 333.000000, "NESTSGEN_I": 44466.000000, "ID": 550500333, "RARNUM": 55000387 }, "geometry": { "type": "Point", "coordinates": [ -75.732173, 37.431866 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 334.000000, "NESTSGEN_I": 44467.000000, "ID": 550500334, "RARNUM": 55000193 }, "geometry": { "type": "Point", "coordinates": [ -75.728325, 37.431115 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 335.000000, "NESTSGEN_I": 44468.000000, "ID": 550500335, "RARNUM": 55000388 }, "geometry": { "type": "Point", "coordinates": [ -75.727693, 37.428983 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 336.000000, "NESTSGEN_I": 44470.000000, "ID": 550500336, "RARNUM": 55000389 }, "geometry": { "type": "Point", "coordinates": [ -75.729446, 37.427791 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 337.000000, "NESTSGEN_I": 44471.000000, "ID": 550500337, "RARNUM": 55000192 }, "geometry": { "type": "Point", "coordinates": [ -75.729498, 37.426159 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 338.000000, "NESTSGEN_I": 44473.000000, "ID": 550500338, "RARNUM": 55000390 }, "geometry": { "type": "Point", "coordinates": [ -75.728084, 37.426087 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 339.000000, "NESTSGEN_I": 44474.000000, "ID": 550500339, "RARNUM": 55000154 }, "geometry": { "type": "Point", "coordinates": [ -75.728868, 37.423937 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 340.000000, "NESTSGEN_I": 44475.000000, "ID": 550500340, "RARNUM": 55000392 }, "geometry": { "type": "Point", "coordinates": [ -75.735473, 37.421273 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 341.000000, "NESTSGEN_I": 44476.000000, "ID": 550500341, "RARNUM": 55000391 }, "geometry": { "type": "Point", "coordinates": [ -75.731681, 37.420728 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 342.000000, "NESTSGEN_I": 44288.000000, "ID": 550500342, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.708752, 37.394268 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 343.000000, "NESTSGEN_I": 44309.000000, "ID": 550500343, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.727009, 37.377833 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 344.000000, "NESTSGEN_I": 47362.000000, "ID": 550500344, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.787300, 37.495928 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 345.000000, "NESTSGEN_I": 47335.000000, "ID": 550500345, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.809441, 37.468733 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 346.000000, "NESTSGEN_I": 47328.000000, "ID": 550500346, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.784559, 37.458571 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 347.000000, "NESTSGEN_I": 47513.000000, "ID": 550500347, "RARNUM": 55000395 }, "geometry": { "type": "Point", "coordinates": [ -75.802689, 37.408243 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 348.000000, "NESTSGEN_I": 47515.000000, "ID": 550500348, "RARNUM": 55000394 }, "geometry": { "type": "Point", "coordinates": [ -75.797687, 37.405645 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 349.000000, "NESTSGEN_I": 47518.000000, "ID": 550500349, "RARNUM": 55000393 }, "geometry": { "type": "Point", "coordinates": [ -75.792215, 37.402076 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 350.000000, "NESTSGEN_I": 47519.000000, "ID": 550500350, "RARNUM": 55000418 }, "geometry": { "type": "Point", "coordinates": [ -75.794899, 37.398399 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 351.000000, "NESTSGEN_I": 47520.000000, "ID": 550500351, "RARNUM": 55000417 }, "geometry": { "type": "Point", "coordinates": [ -75.805072, 37.396969 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 352.000000, "NESTSGEN_I": 47521.000000, "ID": 550500352, "RARNUM": 55000160 }, "geometry": { "type": "Point", "coordinates": [ -75.815386, 37.393482 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 353.000000, "NESTSGEN_I": 47331.000000, "ID": 550500353, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.781919, 37.387209 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 354.000000, "NESTSGEN_I": 47522.000000, "ID": 550500354, "RARNUM": 55000377 }, "geometry": { "type": "Point", "coordinates": [ -75.784326, 37.384958 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 355.000000, "NESTSGEN_I": 47527.000000, "ID": 550500355, "RARNUM": 55000230 }, "geometry": { "type": "Point", "coordinates": [ -75.778581, 37.384166 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 356.000000, "NESTSGEN_I": 47532.000000, "ID": 550500356, "RARNUM": 55000376 }, "geometry": { "type": "Point", "coordinates": [ -75.798110, 37.383162 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 357.000000, "NESTSGEN_I": 47533.000000, "ID": 550500357, "RARNUM": 55000375 }, "geometry": { "type": "Point", "coordinates": [ -75.797430, 37.380525 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 358.000000, "NESTSGEN_I": 47534.000000, "ID": 550500358, "RARNUM": 55000171 }, "geometry": { "type": "Point", "coordinates": [ -75.788190, 37.379596 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 359.000000, "NESTSGEN_I": 47537.000000, "ID": 550500359, "RARNUM": 55000170 }, "geometry": { "type": "Point", "coordinates": [ -75.782187, 37.375011 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 360.000000, "NESTSGEN_I": 47936.000000, "ID": 550500360, "RARNUM": 55000340 }, "geometry": { "type": "Point", "coordinates": [ -75.927352, 37.496180 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 361.000000, "NESTSGEN_I": 50636.000000, "ID": 550500361, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.978552, 37.456455 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 362.000000, "NESTSGEN_I": 47938.000000, "ID": 550500362, "RARNUM": 55000294 }, "geometry": { "type": "Point", "coordinates": [ -75.963766, 37.411351 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 363.000000, "NESTSGEN_I": 47937.000000, "ID": 550500363, "RARNUM": 55000339 }, "geometry": { "type": "Point", "coordinates": [ -75.964899, 37.389909 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 364.000000, "NESTSGEN_I": 51414.000000, "ID": 550500364, "RARNUM": 55000257 }, "geometry": { "type": "Point", "coordinates": [ -76.372621, 37.490439 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 365.000000, "NESTSGEN_I": 51406.000000, "ID": 550500365, "RARNUM": 55000272 }, "geometry": { "type": "Point", "coordinates": [ -76.360075, 37.431572 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 366.000000, "NESTSGEN_I": 51408.000000, "ID": 550500366, "RARNUM": 55000271 }, "geometry": { "type": "Point", "coordinates": [ -76.330587, 37.421480 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 367.000000, "NESTSGEN_I": 51407.000000, "ID": 550500367, "RARNUM": 55000303 }, "geometry": { "type": "Point", "coordinates": [ -76.344203, 37.417411 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 368.000000, "NESTSGEN_I": 51413.000000, "ID": 550500368, "RARNUM": 55000314 }, "geometry": { "type": "Point", "coordinates": [ -76.260251, 37.399943 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 369.000000, "NESTSGEN_I": 51405.000000, "ID": 550500369, "RARNUM": 55000301 }, "geometry": { "type": "Point", "coordinates": [ -76.345157, 37.382549 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 370.000000, "NESTSGEN_I": 52162.000000, "ID": 550500370, "RARNUM": 55000255 }, "geometry": { "type": "Point", "coordinates": [ -76.482564, 37.477274 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 371.000000, "NESTSGEN_I": 52922.000000, "ID": 550500371, "RARNUM": 55000266 }, "geometry": { "type": "Point", "coordinates": [ -76.744600, 37.498280 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 372.000000, "NESTSGEN_I": 52923.000000, "ID": 550500372, "RARNUM": 55000268 }, "geometry": { "type": "Point", "coordinates": [ -76.717301, 37.456609 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 373.000000, "NESTSGEN_I": 52897.000000, "ID": 550500373, "RARNUM": 55000257 }, "geometry": { "type": "Point", "coordinates": [ -76.635430, 37.450918 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 374.000000, "NESTSGEN_I": 52914.000000, "ID": 550500374, "RARNUM": 55000265 }, "geometry": { "type": "Point", "coordinates": [ -76.747555, 37.439451 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 375.000000, "NESTSGEN_I": 52898.000000, "ID": 550500375, "RARNUM": 55000271 }, "geometry": { "type": "Point", "coordinates": [ -76.683712, 37.419467 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 376.000000, "NESTSGEN_I": 53703.000000, "ID": 550500376, "RARNUM": 55000367 }, "geometry": { "type": "Point", "coordinates": [ -76.787946, 37.482528 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 377.000000, "NESTSGEN_I": 53702.000000, "ID": 550500377, "RARNUM": 55000256 }, "geometry": { "type": "Point", "coordinates": [ -76.765791, 37.457197 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 378.000000, "NESTSGEN_I": 53676.000000, "ID": 550500378, "RARNUM": 55000271 }, "geometry": { "type": "Point", "coordinates": [ -76.789783, 37.414205 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 379.000000, "NESTSGEN_I": 54461.000000, "ID": 550500379, "RARNUM": 55000262 }, "geometry": { "type": "Point", "coordinates": [ -76.760858, 37.604692 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 380.000000, "NESTSGEN_I": 54471.000000, "ID": 550500380, "RARNUM": 55000272 }, "geometry": { "type": "Point", "coordinates": [ -76.835005, 37.567526 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 381.000000, "NESTSGEN_I": 55238.000000, "ID": 550500381, "RARNUM": 55000296 }, "geometry": { "type": "Point", "coordinates": [ -76.881964, 37.609905 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 382.000000, "NESTSGEN_I": 55233.000000, "ID": 550500382, "RARNUM": 55000289 }, "geometry": { "type": "Point", "coordinates": [ -76.941048, 37.595505 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 383.000000, "NESTSGEN_I": 55253.000000, "ID": 550500383, "RARNUM": 55000257 }, "geometry": { "type": "Point", "coordinates": [ -76.992117, 37.531240 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 384.000000, "NESTSGEN_I": 58371.000000, "ID": 550500384, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.655115, 37.620100 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 385.000000, "NESTSGEN_I": 58449.000000, "ID": 550500385, "RARNUM": 55000378 }, "geometry": { "type": "Point", "coordinates": [ -75.648119, 37.618562 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 386.000000, "NESTSGEN_I": 58450.000000, "ID": 550500386, "RARNUM": 55000375 }, "geometry": { "type": "Point", "coordinates": [ -75.652469, 37.614139 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 387.000000, "NESTSGEN_I": 58452.000000, "ID": 550500387, "RARNUM": 55000380 }, "geometry": { "type": "Point", "coordinates": [ -75.648511, 37.613990 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 388.000000, "NESTSGEN_I": 58454.000000, "ID": 550500388, "RARNUM": 55000379 }, "geometry": { "type": "Point", "coordinates": [ -75.649273, 37.605062 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 389.000000, "NESTSGEN_I": 58456.000000, "ID": 550500389, "RARNUM": 55000431 }, "geometry": { "type": "Point", "coordinates": [ -75.640510, 37.597313 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 390.000000, "NESTSGEN_I": 58457.000000, "ID": 550500390, "RARNUM": 55000237 }, "geometry": { "type": "Point", "coordinates": [ -75.642189, 37.596331 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 391.000000, "NESTSGEN_I": 58458.000000, "ID": 550500391, "RARNUM": 55000189 }, "geometry": { "type": "Point", "coordinates": [ -75.638639, 37.595061 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 392.000000, "NESTSGEN_I": 58460.000000, "ID": 550500392, "RARNUM": 55000430 }, "geometry": { "type": "Point", "coordinates": [ -75.629948, 37.593188 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 393.000000, "NESTSGEN_I": 58461.000000, "ID": 550500393, "RARNUM": 55000237 }, "geometry": { "type": "Point", "coordinates": [ -75.650547, 37.589191 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 394.000000, "NESTSGEN_I": 58462.000000, "ID": 550500394, "RARNUM": 55000236 }, "geometry": { "type": "Point", "coordinates": [ -75.644480, 37.588035 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 395.000000, "NESTSGEN_I": 58358.000000, "ID": 550500395, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.629030, 37.586469 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 396.000000, "NESTSGEN_I": 58467.000000, "ID": 550500396, "RARNUM": 55000246 }, "geometry": { "type": "Point", "coordinates": [ -75.629815, 37.586014 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 397.000000, "NESTSGEN_I": 58469.000000, "ID": 550500397, "RARNUM": 55000242 }, "geometry": { "type": "Point", "coordinates": [ -75.615022, 37.584929 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 398.000000, "NESTSGEN_I": 58470.000000, "ID": 550500398, "RARNUM": 55000226 }, "geometry": { "type": "Point", "coordinates": [ -75.644322, 37.584619 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 399.000000, "NESTSGEN_I": 58471.000000, "ID": 550500399, "RARNUM": 55000229 }, "geometry": { "type": "Point", "coordinates": [ -75.642106, 37.583883 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 400.000000, "NESTSGEN_I": 58474.000000, "ID": 550500400, "RARNUM": 55000369 }, "geometry": { "type": "Point", "coordinates": [ -75.596127, 37.582763 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 401.000000, "NESTSGEN_I": 58381.000000, "ID": 550500401, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.613343, 37.582297 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 402.000000, "NESTSGEN_I": 58475.000000, "ID": 550500402, "RARNUM": 55000231 }, "geometry": { "type": "Point", "coordinates": [ -75.667633, 37.580875 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 403.000000, "NESTSGEN_I": 58476.000000, "ID": 550500403, "RARNUM": 55000247 }, "geometry": { "type": "Point", "coordinates": [ -75.628236, 37.578487 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 404.000000, "NESTSGEN_I": 58477.000000, "ID": 550500404, "RARNUM": 55000228 }, "geometry": { "type": "Point", "coordinates": [ -75.655171, 37.577926 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 405.000000, "NESTSGEN_I": 58478.000000, "ID": 550500405, "RARNUM": 55000226 }, "geometry": { "type": "Point", "coordinates": [ -75.659749, 37.572168 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 406.000000, "NESTSGEN_I": 58479.000000, "ID": 550500406, "RARNUM": 55000158 }, "geometry": { "type": "Point", "coordinates": [ -75.657971, 37.570726 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 407.000000, "NESTSGEN_I": 58480.000000, "ID": 550500407, "RARNUM": 55000374 }, "geometry": { "type": "Point", "coordinates": [ -75.654991, 37.548425 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 408.000000, "NESTSGEN_I": 58389.000000, "ID": 550500408, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.691016, 37.537753 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 409.000000, "NESTSGEN_I": 58481.000000, "ID": 550500409, "RARNUM": 55000409 }, "geometry": { "type": "Point", "coordinates": [ -75.714267, 37.536787 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 410.000000, "NESTSGEN_I": 58482.000000, "ID": 550500410, "RARNUM": 55000158 }, "geometry": { "type": "Point", "coordinates": [ -75.680491, 37.534742 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 411.000000, "NESTSGEN_I": 58483.000000, "ID": 550500411, "RARNUM": 55000415 }, "geometry": { "type": "Point", "coordinates": [ -75.672697, 37.534030 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 412.000000, "NESTSGEN_I": 58484.000000, "ID": 550500412, "RARNUM": 55000396 }, "geometry": { "type": "Point", "coordinates": [ -75.714560, 37.523653 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 413.000000, "NESTSGEN_I": 58362.000000, "ID": 550500413, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.727539, 37.511180 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 414.000000, "NESTSGEN_I": 58485.000000, "ID": 550500414, "RARNUM": 55000372 }, "geometry": { "type": "Point", "coordinates": [ -75.730257, 37.509640 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 415.000000, "NESTSGEN_I": 58487.000000, "ID": 550500415, "RARNUM": 55000373 }, "geometry": { "type": "Point", "coordinates": [ -75.721538, 37.508593 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 416.000000, "NESTSGEN_I": 58490.000000, "ID": 550500416, "RARNUM": 55000410 }, "geometry": { "type": "Point", "coordinates": [ -75.707023, 37.506518 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 417.000000, "NESTSGEN_I": 58491.000000, "ID": 550500417, "RARNUM": 55000416 }, "geometry": { "type": "Point", "coordinates": [ -75.715161, 37.502593 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 418.000000, "NESTSGEN_I": 58889.000000, "ID": 550500418, "RARNUM": 55000333 }, "geometry": { "type": "Point", "coordinates": [ -75.865473, 37.553787 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 419.000000, "NESTSGEN_I": 62140.000000, "ID": 550500419, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.913214, 37.598511 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 420.000000, "NESTSGEN_I": 59296.000000, "ID": 550500420, "RARNUM": 55000289 }, "geometry": { "type": "Point", "coordinates": [ -75.910098, 37.590960 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 421.000000, "NESTSGEN_I": 59295.000000, "ID": 550500421, "RARNUM": 55000271 }, "geometry": { "type": "Point", "coordinates": [ -75.926802, 37.578515 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 422.000000, "NESTSGEN_I": 59294.000000, "ID": 550500422, "RARNUM": 55000272 }, "geometry": { "type": "Point", "coordinates": [ -75.924063, 37.574776 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 423.000000, "NESTSGEN_I": 59293.000000, "ID": 550500423, "RARNUM": 55000274 }, "geometry": { "type": "Point", "coordinates": [ -75.931400, 37.559637 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 424.000000, "NESTSGEN_I": 59292.000000, "ID": 550500424, "RARNUM": 55000341 }, "geometry": { "type": "Point", "coordinates": [ -75.896425, 37.508347 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 425.000000, "NESTSGEN_I": 62493.000000, "ID": 550500425, "RARNUM": 55000271 }, "geometry": { "type": "Point", "coordinates": [ -76.363526, 37.535775 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 426.000000, "NESTSGEN_I": 65772.000000, "ID": 550500426, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.424838, 37.622613 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 427.000000, "NESTSGEN_I": 62849.000000, "ID": 550500427, "RARNUM": 55000268 }, "geometry": { "type": "Point", "coordinates": [ -76.433300, 37.599679 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 428.000000, "NESTSGEN_I": 62850.000000, "ID": 550500428, "RARNUM": 55000268 }, "geometry": { "type": "Point", "coordinates": [ -76.432700, 37.598291 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 429.000000, "NESTSGEN_I": 62848.000000, "ID": 550500429, "RARNUM": 55000268 }, "geometry": { "type": "Point", "coordinates": [ -76.425586, 37.591208 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 430.000000, "NESTSGEN_I": 62847.000000, "ID": 550500430, "RARNUM": 55000289 }, "geometry": { "type": "Point", "coordinates": [ -76.447078, 37.579605 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 431.000000, "NESTSGEN_I": 62845.000000, "ID": 550500431, "RARNUM": 55000257 }, "geometry": { "type": "Point", "coordinates": [ -76.385671, 37.548593 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 432.000000, "NESTSGEN_I": 62838.000000, "ID": 550500432, "RARNUM": 55000287 }, "geometry": { "type": "Point", "coordinates": [ -76.451549, 37.501516 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 433.000000, "NESTSGEN_I": 66123.000000, "ID": 550500433, "RARNUM": 55000255 }, "geometry": { "type": "Point", "coordinates": [ -76.597828, 37.588992 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 434.000000, "NESTSGEN_I": 66118.000000, "ID": 550500434, "RARNUM": 55000268 }, "geometry": { "type": "Point", "coordinates": [ -76.616088, 37.584440 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 435.000000, "NESTSGEN_I": 66154.000000, "ID": 550500435, "RARNUM": 55000258 }, "geometry": { "type": "Point", "coordinates": [ -76.519333, 37.528270 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 436.000000, "NESTSGEN_I": 69439.000000, "ID": 550500436, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.553141, 37.748943 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 437.000000, "NESTSGEN_I": 69512.000000, "ID": 550500437, "RARNUM": 55000214 }, "geometry": { "type": "Point", "coordinates": [ -75.561920, 37.741355 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 438.000000, "NESTSGEN_I": 69514.000000, "ID": 550500438, "RARNUM": 55000401 }, "geometry": { "type": "Point", "coordinates": [ -75.552442, 37.740823 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 439.000000, "NESTSGEN_I": 69517.000000, "ID": 550500439, "RARNUM": 55000400 }, "geometry": { "type": "Point", "coordinates": [ -75.561383, 37.739384 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 440.000000, "NESTSGEN_I": 69518.000000, "ID": 550500440, "RARNUM": 55000399 }, "geometry": { "type": "Point", "coordinates": [ -75.564839, 37.736598 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 441.000000, "NESTSGEN_I": 69519.000000, "ID": 550500441, "RARNUM": 55000398 }, "geometry": { "type": "Point", "coordinates": [ -75.571333, 37.717791 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 442.000000, "NESTSGEN_I": 69520.000000, "ID": 550500442, "RARNUM": 55000397 }, "geometry": { "type": "Point", "coordinates": [ -75.580246, 37.703543 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 443.000000, "NESTSGEN_I": 69449.000000, "ID": 550500443, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.597051, 37.692336 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 444.000000, "NESTSGEN_I": 69521.000000, "ID": 550500444, "RARNUM": 55000404 }, "geometry": { "type": "Point", "coordinates": [ -75.598001, 37.691719 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 445.000000, "NESTSGEN_I": 69523.000000, "ID": 550500445, "RARNUM": 55000244 }, "geometry": { "type": "Point", "coordinates": [ -75.584560, 37.688784 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 446.000000, "NESTSGEN_I": 69452.000000, "ID": 550500446, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.589754, 37.687515 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 447.000000, "NESTSGEN_I": 69527.000000, "ID": 550500447, "RARNUM": 55000243 }, "geometry": { "type": "Point", "coordinates": [ -75.585690, 37.677782 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 448.000000, "NESTSGEN_I": 69528.000000, "ID": 550500448, "RARNUM": 55000243 }, "geometry": { "type": "Point", "coordinates": [ -75.587138, 37.670619 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 449.000000, "NESTSGEN_I": 72948.000000, "ID": 550500449, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.652051, 37.701153 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 450.000000, "NESTSGEN_I": 72947.000000, "ID": 550500450, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.648267, 37.660051 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 451.000000, "NESTSGEN_I": 72946.000000, "ID": 550500451, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.695930, 37.639145 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 452.000000, "NESTSGEN_I": 72998.000000, "ID": 550500452, "RARNUM": 55000195 }, "geometry": { "type": "Point", "coordinates": [ -75.638416, 37.637065 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 453.000000, "NESTSGEN_I": 76484.000000, "ID": 550500453, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.820154, 37.730071 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 454.000000, "NESTSGEN_I": 76516.000000, "ID": 550500454, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.800663, 37.693043 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 455.000000, "NESTSGEN_I": 76479.000000, "ID": 550500455, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.861071, 37.688442 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 456.000000, "NESTSGEN_I": 73414.000000, "ID": 550500456, "RARNUM": 55000346 }, "geometry": { "type": "Point", "coordinates": [ -75.866764, 37.681237 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 457.000000, "NESTSGEN_I": 73415.000000, "ID": 550500457, "RARNUM": 55000336 }, "geometry": { "type": "Point", "coordinates": [ -75.798458, 37.660616 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 458.000000, "NESTSGEN_I": 76924.000000, "ID": 550500458, "RARNUM": 55000271 }, "geometry": { "type": "Point", "coordinates": [ -75.883421, 37.628636 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 459.000000, "NESTSGEN_I": 77274.000000, "ID": 550500459, "RARNUM": 55000289 }, "geometry": { "type": "Point", "coordinates": [ -76.434265, 37.737952 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 460.000000, "NESTSGEN_I": 77635.000000, "ID": 550500460, "RARNUM": 55000271 }, "geometry": { "type": "Point", "coordinates": [ -76.595252, 37.696539 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 461.000000, "NESTSGEN_I": 77623.000000, "ID": 550500461, "RARNUM": 55000265 }, "geometry": { "type": "Point", "coordinates": [ -76.514887, 37.646529 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 462.000000, "NESTSGEN_I": 77633.000000, "ID": 550500462, "RARNUM": 55000257 }, "geometry": { "type": "Point", "coordinates": [ -76.599612, 37.634690 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 463.000000, "NESTSGEN_I": 77632.000000, "ID": 550500463, "RARNUM": 55000268 }, "geometry": { "type": "Point", "coordinates": [ -76.598446, 37.632635 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 464.000000, "NESTSGEN_I": 81222.000000, "ID": 550500464, "RARNUM": 55000408 }, "geometry": { "type": "Point", "coordinates": [ -75.426680, 37.873066 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 465.000000, "NESTSGEN_I": 81223.000000, "ID": 550500465, "RARNUM": 55000223 }, "geometry": { "type": "Point", "coordinates": [ -75.382153, 37.873093 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 466.000000, "NESTSGEN_I": 81227.000000, "ID": 550500466, "RARNUM": 55000222 }, "geometry": { "type": "Point", "coordinates": [ -75.377159, 37.870035 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 467.000000, "NESTSGEN_I": 84898.000000, "ID": 550500467, "RARNUM": 55000118 }, "geometry": { "type": "Point", "coordinates": [ -75.508231, 37.817504 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 468.000000, "NESTSGEN_I": 84845.000000, "ID": 550500469, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.533093, 37.781337 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 469.000000, "NESTSGEN_I": 84895.000000, "ID": 550500470, "RARNUM": 55000402 }, "geometry": { "type": "Point", "coordinates": [ -75.533126, 37.773261 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 470.000000, "NESTSGEN_I": 84896.000000, "ID": 550500471, "RARNUM": 55000193 }, "geometry": { "type": "Point", "coordinates": [ -75.535318, 37.766148 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 471.000000, "NESTSGEN_I": 84897.000000, "ID": 550500472, "RARNUM": 55000403 }, "geometry": { "type": "Point", "coordinates": [ -75.546746, 37.760454 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 472.000000, "NESTSGEN_I": 88910.000000, "ID": 550500473, "RARNUM": 55000119 }, "geometry": { "type": "Point", "coordinates": [ -75.719496, 37.870670 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 473.000000, "NESTSGEN_I": 85162.000000, "ID": 550500474, "RARNUM": 55000354 }, "geometry": { "type": "Point", "coordinates": [ -75.720170, 37.869902 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 474.000000, "NESTSGEN_I": 84984.000000, "ID": 550500475, "RARNUM": 55000353 }, "geometry": { "type": "Point", "coordinates": [ -75.728434, 37.862553 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 475.000000, "NESTSGEN_I": 85161.000000, "ID": 550500476, "RARNUM": 55000352 }, "geometry": { "type": "Point", "coordinates": [ -75.730210, 37.860497 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 476.000000, "NESTSGEN_I": 88908.000000, "ID": 550500477, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.683337, 37.859325 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 477.000000, "NESTSGEN_I": 85313.000000, "ID": 550500478, "RARNUM": 55000357 }, "geometry": { "type": "Point", "coordinates": [ -75.692544, 37.825340 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 478.000000, "NESTSGEN_I": 85160.000000, "ID": 550500479, "RARNUM": 55000349 }, "geometry": { "type": "Point", "coordinates": [ -75.742924, 37.820855 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 479.000000, "NESTSGEN_I": 88911.000000, "ID": 550500480, "RARNUM": 55000119 }, "geometry": { "type": "Point", "coordinates": [ -75.743762, 37.819895 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 480.000000, "NESTSGEN_I": 85159.000000, "ID": 550500481, "RARNUM": 55000350 }, "geometry": { "type": "Point", "coordinates": [ -75.741030, 37.809359 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 481.000000, "NESTSGEN_I": 88912.000000, "ID": 550500482, "RARNUM": 55000119 }, "geometry": { "type": "Point", "coordinates": [ -75.741681, 37.809037 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 482.000000, "NESTSGEN_I": 88913.000000, "ID": 550500483, "RARNUM": 55000120 }, "geometry": { "type": "Point", "coordinates": [ -75.740609, 37.801975 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 483.000000, "NESTSGEN_I": 85158.000000, "ID": 550500484, "RARNUM": 55000351 }, "geometry": { "type": "Point", "coordinates": [ -75.740597, 37.801918 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 484.000000, "NESTSGEN_I": 88909.000000, "ID": 550500485, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.721193, 37.775702 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 485.000000, "NESTSGEN_I": 89166.000000, "ID": 550500486, "RARNUM": 55000348 }, "geometry": { "type": "Point", "coordinates": [ -75.755682, 37.806737 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 486.000000, "NESTSGEN_I": 93255.000000, "ID": 550500487, "RARNUM": 55000120 }, "geometry": { "type": "Point", "coordinates": [ -75.755762, 37.806619 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 487.000000, "NESTSGEN_I": 92987.000000, "ID": 550500488, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.771167, 37.802077 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 488.000000, "NESTSGEN_I": 93257.000000, "ID": 550500489, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.777550, 37.783908 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 489.000000, "NESTSGEN_I": 89297.000000, "ID": 550500490, "RARNUM": 55000347 }, "geometry": { "type": "Point", "coordinates": [ -75.801444, 37.778313 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 490.000000, "NESTSGEN_I": 93256.000000, "ID": 550500491, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.796252, 37.777549 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 491.000000, "NESTSGEN_I": 97637.000000, "ID": 550500492, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.996840, 37.846142 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 492.000000, "NESTSGEN_I": 93416.000000, "ID": 550500493, "RARNUM": 55000337 }, "geometry": { "type": "Point", "coordinates": [ -75.993915, 37.831314 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 493.000000, "NESTSGEN_I": 93287.000000, "ID": 550500494, "RARNUM": 55000338 }, "geometry": { "type": "Point", "coordinates": [ -75.980737, 37.831361 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 494.000000, "NESTSGEN_I": 97613.000000, "ID": 550500495, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.994230, 37.827744 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 495.000000, "NESTSGEN_I": 93525.000000, "ID": 550500496, "RARNUM": 55000344 }, "geometry": { "type": "Point", "coordinates": [ -75.895086, 37.806890 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 496.000000, "NESTSGEN_I": 97611.000000, "ID": 550500497, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.897310, 37.802432 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 497.000000, "NESTSGEN_I": 93524.000000, "ID": 550500498, "RARNUM": 55000343 }, "geometry": { "type": "Point", "coordinates": [ -75.895515, 37.799779 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 498.000000, "NESTSGEN_I": 93288.000000, "ID": 550500499, "RARNUM": 55000345 }, "geometry": { "type": "Point", "coordinates": [ -75.893720, 37.798765 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 499.000000, "NESTSGEN_I": 97903.000000, "ID": 550500500, "RARNUM": 55000327 }, "geometry": { "type": "Point", "coordinates": [ -76.000227, 37.860595 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 500.000000, "NESTSGEN_I": 98280.000000, "ID": 550500501, "RARNUM": 55000289 }, "geometry": { "type": "Point", "coordinates": [ -76.246451, 37.867304 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 501.000000, "NESTSGEN_I": 98656.000000, "ID": 550500502, "RARNUM": 55000285 }, "geometry": { "type": "Point", "coordinates": [ -76.480409, 37.872099 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 502.000000, "NESTSGEN_I": 99025.000000, "ID": 550500503, "RARNUM": 55000260 }, "geometry": { "type": "Point", "coordinates": [ -76.561238, 37.836830 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 503.000000, "NESTSGEN_I": 99393.000000, "ID": 550500504, "RARNUM": 55000257 }, "geometry": { "type": "Point", "coordinates": [ -76.652088, 37.844723 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 504.000000, "NESTSGEN_I": 99388.000000, "ID": 550500505, "RARNUM": 55000272 }, "geometry": { "type": "Point", "coordinates": [ -76.669120, 37.750503 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 505.000000, "NESTSGEN_I": 99732.000000, "ID": 550500506, "RARNUM": 55000272 }, "geometry": { "type": "Point", "coordinates": [ -76.869641, 37.846502 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 506.000000, "NESTSGEN_I": 99730.000000, "ID": 550500507, "RARNUM": 55000260 }, "geometry": { "type": "Point", "coordinates": [ -76.770686, 37.833823 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 507.000000, "NESTSGEN_I": 104114.000000, "ID": 550500508, "RARNUM": 55000249 }, "geometry": { "type": "Point", "coordinates": [ -75.324950, 37.993680 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 508.000000, "NESTSGEN_I": 104118.000000, "ID": 550500509, "RARNUM": 55000248 }, "geometry": { "type": "Point", "coordinates": [ -75.321156, 37.993168 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 509.000000, "NESTSGEN_I": 104120.000000, "ID": 550500510, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.288807, 37.977114 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 510.000000, "NESTSGEN_I": 104442.000000, "ID": 550500511, "RARNUM": 55000125 }, "geometry": { "type": "Point", "coordinates": [ -75.323719, 37.973301 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 511.000000, "NESTSGEN_I": 104119.000000, "ID": 550500512, "RARNUM": 55000224 }, "geometry": { "type": "Point", "coordinates": [ -75.295224, 37.966936 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 512.000000, "NESTSGEN_I": 104441.000000, "ID": 550500513, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.335593, 37.963305 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 513.000000, "NESTSGEN_I": 104120.000000, "ID": 550500514, "RARNUM": 55000420 }, "geometry": { "type": "Point", "coordinates": [ -75.318163, 37.960441 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 514.000000, "NESTSGEN_I": 104443.000000, "ID": 550500515, "RARNUM": 55000126 }, "geometry": { "type": "Point", "coordinates": [ -75.336670, 37.950127 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 515.000000, "NESTSGEN_I": 104125.000000, "ID": 550500516, "RARNUM": 55000241 }, "geometry": { "type": "Point", "coordinates": [ -75.363942, 37.949015 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 516.000000, "NESTSGEN_I": 104152.000000, "ID": 550500517, "RARNUM": 55000245 }, "geometry": { "type": "Point", "coordinates": [ -75.357996, 37.931151 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 517.000000, "NESTSGEN_I": 104445.000000, "ID": 550500518, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.361284, 37.905689 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 518.000000, "NESTSGEN_I": 104444.000000, "ID": 550500519, "RARNUM": 55000125 }, "geometry": { "type": "Point", "coordinates": [ -75.363374, 37.904708 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 519.000000, "NESTSGEN_I": 104183.000000, "ID": 550500520, "RARNUM": 55000221 }, "geometry": { "type": "Point", "coordinates": [ -75.351588, 37.872530 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 520.000000, "NESTSGEN_I": 109212.000000, "ID": 550500521, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.445148, 37.986573 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 521.000000, "NESTSGEN_I": 109167.000000, "ID": 550500522, "RARNUM": 55000370 }, "geometry": { "type": "Point", "coordinates": [ -75.424231, 37.955320 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 522.000000, "NESTSGEN_I": 109170.000000, "ID": 550500523, "RARNUM": 55000371 }, "geometry": { "type": "Point", "coordinates": [ -75.426111, 37.952898 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 523.000000, "NESTSGEN_I": 109163.000000, "ID": 550500524, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.375513, 37.947482 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 524.000000, "NESTSGEN_I": 109172.000000, "ID": 550500525, "RARNUM": 55000429 }, "geometry": { "type": "Point", "coordinates": [ -75.388628, 37.944627 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 525.000000, "NESTSGEN_I": 109179.000000, "ID": 550500526, "RARNUM": 55000405 }, "geometry": { "type": "Point", "coordinates": [ -75.398631, 37.942332 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 526.000000, "NESTSGEN_I": 109183.000000, "ID": 550500527, "RARNUM": 55000234 }, "geometry": { "type": "Point", "coordinates": [ -75.386811, 37.941866 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 527.000000, "NESTSGEN_I": 109187.000000, "ID": 550500528, "RARNUM": 55000428 }, "geometry": { "type": "Point", "coordinates": [ -75.384929, 37.940620 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 528.000000, "NESTSGEN_I": 109188.000000, "ID": 550500529, "RARNUM": 55000233 }, "geometry": { "type": "Point", "coordinates": [ -75.389664, 37.939468 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 529.000000, "NESTSGEN_I": 109190.000000, "ID": 550500530, "RARNUM": 55000205 }, "geometry": { "type": "Point", "coordinates": [ -75.404895, 37.939354 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 530.000000, "NESTSGEN_I": 109191.000000, "ID": 550500531, "RARNUM": 55000232 }, "geometry": { "type": "Point", "coordinates": [ -75.388074, 37.935823 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 531.000000, "NESTSGEN_I": 109192.000000, "ID": 550500532, "RARNUM": 55000426 }, "geometry": { "type": "Point", "coordinates": [ -75.402958, 37.935124 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 532.000000, "NESTSGEN_I": 109194.000000, "ID": 550500533, "RARNUM": 55000219 }, "geometry": { "type": "Point", "coordinates": [ -75.424196, 37.934392 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 533.000000, "NESTSGEN_I": 109196.000000, "ID": 550500534, "RARNUM": 55000427 }, "geometry": { "type": "Point", "coordinates": [ -75.409163, 37.933481 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 534.000000, "NESTSGEN_I": 109197.000000, "ID": 550500535, "RARNUM": 55000171 }, "geometry": { "type": "Point", "coordinates": [ -75.397644, 37.933376 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 535.000000, "NESTSGEN_I": 109181.000000, "ID": 550500536, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.420682, 37.933052 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 536.000000, "NESTSGEN_I": 109213.000000, "ID": 550500537, "RARNUM": 55000126 }, "geometry": { "type": "Point", "coordinates": [ -75.408918, 37.932710 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 537.000000, "NESTSGEN_I": 109215.000000, "ID": 550500538, "RARNUM": 55000432 }, "geometry": { "type": "Point", "coordinates": [ -75.388757, 37.928338 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 538.000000, "NESTSGEN_I": 109206.000000, "ID": 550500539, "RARNUM": 55000411 }, "geometry": { "type": "Point", "coordinates": [ -75.442088, 37.927746 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 539.000000, "NESTSGEN_I": 109207.000000, "ID": 550500540, "RARNUM": 55000424 }, "geometry": { "type": "Point", "coordinates": [ -75.426159, 37.925516 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 540.000000, "NESTSGEN_I": 109208.000000, "ID": 550500541, "RARNUM": 55000375 }, "geometry": { "type": "Point", "coordinates": [ -75.421935, 37.921935 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 541.000000, "NESTSGEN_I": 109209.000000, "ID": 550500542, "RARNUM": 55000426 }, "geometry": { "type": "Point", "coordinates": [ -75.403385, 37.921098 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 542.000000, "NESTSGEN_I": 109211.000000, "ID": 550500543, "RARNUM": 55000149 }, "geometry": { "type": "Point", "coordinates": [ -75.429128, 37.920485 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 543.000000, "NESTSGEN_I": 109212.000000, "ID": 550500544, "RARNUM": 55000423 }, "geometry": { "type": "Point", "coordinates": [ -75.414622, 37.918004 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 544.000000, "NESTSGEN_I": 109213.000000, "ID": 550500545, "RARNUM": 55000425 }, "geometry": { "type": "Point", "coordinates": [ -75.422603, 37.916957 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 545.000000, "NESTSGEN_I": 109215.000000, "ID": 550500546, "RARNUM": 55000422 }, "geometry": { "type": "Point", "coordinates": [ -75.429890, 37.912424 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 546.000000, "NESTSGEN_I": 109216.000000, "ID": 550500547, "RARNUM": 55000145 }, "geometry": { "type": "Point", "coordinates": [ -75.441436, 37.912066 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 547.000000, "NESTSGEN_I": 109217.000000, "ID": 550500548, "RARNUM": 55000419 }, "geometry": { "type": "Point", "coordinates": [ -75.381276, 37.911672 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 548.000000, "NESTSGEN_I": 109222.000000, "ID": 550500549, "RARNUM": 55000421 }, "geometry": { "type": "Point", "coordinates": [ -75.441483, 37.907703 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 549.000000, "NESTSGEN_I": 109160.000000, "ID": 550500550, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.378367, 37.907076 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 550.000000, "NESTSGEN_I": 109224.000000, "ID": 550500551, "RARNUM": 55000240 }, "geometry": { "type": "Point", "coordinates": [ -75.424259, 37.906505 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 551.000000, "NESTSGEN_I": 109225.000000, "ID": 550500552, "RARNUM": 55000252 }, "geometry": { "type": "Point", "coordinates": [ -75.413606, 37.902802 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 552.000000, "NESTSGEN_I": 109189.000000, "ID": 550500553, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.417819, 37.901778 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 553.000000, "NESTSGEN_I": 109162.000000, "ID": 550500554, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.400555, 37.897890 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 554.000000, "NESTSGEN_I": 109214.000000, "ID": 550500555, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.492005, 37.888730 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 555.000000, "NESTSGEN_I": 109170.000000, "ID": 550500556, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.413903, 37.886911 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 556.000000, "NESTSGEN_I": 109165.000000, "ID": 550500557, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.446828, 37.882000 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 557.000000, "NESTSGEN_I": 109226.000000, "ID": 550500558, "RARNUM": 55000406 }, "geometry": { "type": "Point", "coordinates": [ -75.422372, 37.876389 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 558.000000, "NESTSGEN_I": 114021.000000, "ID": 550500559, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.690856, 37.932119 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 559.000000, "NESTSGEN_I": 114041.000000, "ID": 550500560, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.724678, 37.912803 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 560.000000, "NESTSGEN_I": 114068.000000, "ID": 550500561, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.691748, 37.910228 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 561.000000, "NESTSGEN_I": 114022.000000, "ID": 550500562, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.684638, 37.893219 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 562.000000, "NESTSGEN_I": 109417.000000, "ID": 550500563, "RARNUM": 55000355 }, "geometry": { "type": "Point", "coordinates": [ -75.703488, 37.891182 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 563.000000, "NESTSGEN_I": 109491.000000, "ID": 550500564, "RARNUM": 55000356 }, "geometry": { "type": "Point", "coordinates": [ -75.701388, 37.891060 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 564.000000, "NESTSGEN_I": 118919.000000, "ID": 550500565, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.905011, 37.897183 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 565.000000, "NESTSGEN_I": 114153.000000, "ID": 550500566, "RARNUM": 55000342 }, "geometry": { "type": "Point", "coordinates": [ -75.900796, 37.889106 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 566.000000, "NESTSGEN_I": 119175.000000, "ID": 550500567, "RARNUM": 55000330 }, "geometry": { "type": "Point", "coordinates": [ -76.023248, 37.942030 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 567.000000, "NESTSGEN_I": 119070.000000, "ID": 550500568, "RARNUM": 55000332 }, "geometry": { "type": "Point", "coordinates": [ -76.020949, 37.938439 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 568.000000, "NESTSGEN_I": 119174.000000, "ID": 550500569, "RARNUM": 55000331 }, "geometry": { "type": "Point", "coordinates": [ -76.022570, 37.937004 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 569.000000, "NESTSGEN_I": 118979.000000, "ID": 550500570, "RARNUM": 55000326 }, "geometry": { "type": "Point", "coordinates": [ -76.030788, 37.932347 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 570.000000, "NESTSGEN_I": 119307.000000, "ID": 550500571, "RARNUM": 55000329 }, "geometry": { "type": "Point", "coordinates": [ -76.027814, 37.929448 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 571.000000, "NESTSGEN_I": 119178.000000, "ID": 550500572, "RARNUM": 55000323 }, "geometry": { "type": "Point", "coordinates": [ -76.034255, 37.929319 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 572.000000, "NESTSGEN_I": 118970.000000, "ID": 550500573, "RARNUM": 55000328 }, "geometry": { "type": "Point", "coordinates": [ -76.029030, 37.925092 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 573.000000, "NESTSGEN_I": 119137.000000, "ID": 550500574, "RARNUM": 55000324 }, "geometry": { "type": "Point", "coordinates": [ -76.033401, 37.916039 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 574.000000, "NESTSGEN_I": 119177.000000, "ID": 550500575, "RARNUM": 55000325 }, "geometry": { "type": "Point", "coordinates": [ -76.032216, 37.912751 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 575.000000, "NESTSGEN_I": 119176.000000, "ID": 550500576, "RARNUM": 55000327 }, "geometry": { "type": "Point", "coordinates": [ -76.030363, 37.907339 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 576.000000, "NESTSGEN_I": 119173.000000, "ID": 550500577, "RARNUM": 55000334 }, "geometry": { "type": "Point", "coordinates": [ -76.012536, 37.880749 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 577.000000, "NESTSGEN_I": 119682.000000, "ID": 550500578, "RARNUM": 55000256 }, "geometry": { "type": "Point", "coordinates": [ -76.251917, 37.897350 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 578.000000, "NESTSGEN_I": 120048.000000, "ID": 550500579, "RARNUM": 55000263 }, "geometry": { "type": "Point", "coordinates": [ -76.743117, 37.886512 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 579.000000, "NESTSGEN_I": 120386.000000, "ID": 550500580, "RARNUM": 55000263 }, "geometry": { "type": "Point", "coordinates": [ -76.797607, 37.887446 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 580.000000, "NESTSGEN_I": 120727.000000, "ID": 550500581, "RARNUM": 55000258 }, "geometry": { "type": "Point", "coordinates": [ -76.972028, 37.964307 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 581.000000, "NESTSGEN_I": 120726.000000, "ID": 550500582, "RARNUM": 55000264 }, "geometry": { "type": "Point", "coordinates": [ -76.897815, 37.876737 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 582.000000, "NESTSGEN_I": 121097.000000, "ID": 550500583, "RARNUM": 55000357 }, "geometry": { "type": "Point", "coordinates": [ -76.934232, 38.086565 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 583.000000, "NESTSGEN_I": 121091.000000, "ID": 550500584, "RARNUM": 55000365 }, "geometry": { "type": "Point", "coordinates": [ -76.902943, 38.026185 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 584.000000, "NESTSGEN_I": 121092.000000, "ID": 550500585, "RARNUM": 55000321 }, "geometry": { "type": "Point", "coordinates": [ -76.890818, 38.018991 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 585.000000, "NESTSGEN_I": 121441.000000, "ID": 550500586, "RARNUM": 55000360 }, "geometry": { "type": "Point", "coordinates": [ -77.115633, 38.121830 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 586.000000, "NESTSGEN_I": 121440.000000, "ID": 550500587, "RARNUM": 55000258 }, "geometry": { "type": "Point", "coordinates": [ -77.060187, 38.095556 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 587.000000, "NESTSGEN_I": 121439.000000, "ID": 550500588, "RARNUM": 55000296 }, "geometry": { "type": "Point", "coordinates": [ -77.008680, 38.083107 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 588.000000, "NESTSGEN_I": 121821.000000, "ID": 550500589, "RARNUM": 55000263 }, "geometry": { "type": "Point", "coordinates": [ -76.948706, 38.194386 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 589.000000, "NESTSGEN_I": 122156.000000, "ID": 550500590, "RARNUM": 55000339 }, "geometry": { "type": "Point", "coordinates": [ -77.198599, 38.178264 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 590.000000, "NESTSGEN_I": 122155.000000, "ID": 550500591, "RARNUM": 55000272 }, "geometry": { "type": "Point", "coordinates": [ -77.240829, 38.137004 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 591.000000, "NESTSGEN_I": 122492.000000, "ID": 550500592, "RARNUM": 55000283 }, "geometry": { "type": "Point", "coordinates": [ -77.339270, 38.248677 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 592.000000, "NESTSGEN_I": 122504.000000, "ID": 550500593, "RARNUM": 55000260 }, "geometry": { "type": "Point", "coordinates": [ -77.283240, 38.234692 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 593.000000, "NESTSGEN_I": 122885.000000, "ID": 550500594, "RARNUM": 55000296 }, "geometry": { "type": "Point", "coordinates": [ -76.993167, 38.271360 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 594.000000, "NESTSGEN_I": 123258.000000, "ID": 550500595, "RARNUM": 55000364 }, "geometry": { "type": "Point", "coordinates": [ -77.088286, 38.313418 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 595.000000, "NESTSGEN_I": 123259.000000, "ID": 550500596, "RARNUM": 55000296 }, "geometry": { "type": "Point", "coordinates": [ -77.007251, 38.285049 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 596.000000, "NESTSGEN_I": 128174.000000, "ID": 550500597, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.313617, 38.394538 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 597.000000, "NESTSGEN_I": 128173.000000, "ID": 550500598, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.319848, 38.392332 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 598.000000, "NESTSGEN_I": 128175.000000, "ID": 550500599, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.312497, 38.390085 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 599.000000, "NESTSGEN_I": 133161.000000, "ID": 550500600, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.205364, 38.624835 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 600.000000, "NESTSGEN_I": 128547.000000, "ID": 550500601, "RARNUM": 55000359 }, "geometry": { "type": "Point", "coordinates": [ -77.197781, 38.624288 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 601.000000, "NESTSGEN_I": 133162.000000, "ID": 550500602, "RARNUM": 55000032 }, "geometry": { "type": "Point", "coordinates": [ -77.199279, 38.624181 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 602.000000, "NESTSGEN_I": 133158.000000, "ID": 550500603, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.212389, 38.623574 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 603.000000, "NESTSGEN_I": 128546.000000, "ID": 550500604, "RARNUM": 55000358 }, "geometry": { "type": "Point", "coordinates": [ -77.203255, 38.620693 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 604.000000, "NESTSGEN_I": 133163.000000, "ID": 550500605, "RARNUM": 55000032 }, "geometry": { "type": "Point", "coordinates": [ -77.202898, 38.620279 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 605.000000, "NESTSGEN_I": 133159.000000, "ID": 550500606, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.209649, 38.617987 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 606.000000, "NESTSGEN_I": 133160.000000, "ID": 550500607, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.247192, 38.614149 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 607.000000, "NESTSGEN_I": 138230.000000, "ID": 550500608, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.250782, 38.607950 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 608.000000, "NESTSGEN_I": 138235.000000, "ID": 550500609, "RARNUM": 55000032 }, "geometry": { "type": "Point", "coordinates": [ -77.253884, 38.604529 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 609.000000, "NESTSGEN_I": 138229.000000, "ID": 550500610, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.257191, 38.585026 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 610.000000, "NESTSGEN_I": 138234.000000, "ID": 550500611, "RARNUM": 55000032 }, "geometry": { "type": "Point", "coordinates": [ -77.276360, 38.583583 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 611.000000, "NESTSGEN_I": 138228.000000, "ID": 550500612, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.299609, 38.548970 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 612.000000, "NESTSGEN_I": 138194.000000, "ID": 550500613, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -77.277446, 38.541373 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 613.000000, "NESTSGEN_I": 138236.000000, "ID": 550500614, "RARNUM": 55000032 }, "geometry": { "type": "Point", "coordinates": [ -77.303312, 38.540012 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 614.000000, "NESTSGEN_I": 138227.000000, "ID": 550500615, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.280257, 38.533413 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 615.000000, "NESTSGEN_I": 133541.000000, "ID": 550500616, "RARNUM": 55000276 }, "geometry": { "type": "Point", "coordinates": [ -77.351859, 38.515028 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 616.000000, "NESTSGEN_I": 138225.000000, "ID": 550500617, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.299324, 38.509719 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 617.000000, "NESTSGEN_I": 138226.000000, "ID": 550500618, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.299254, 38.504161 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 618.000000, "NESTSGEN_I": 143396.000000, "ID": 550500619, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.114098, 38.695285 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 619.000000, "NESTSGEN_I": 148645.000000, "ID": 550500620, "RARNUM": 55000032 }, "geometry": { "type": "Point", "coordinates": [ -77.174289, 38.692783 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 620.000000, "NESTSGEN_I": 148648.000000, "ID": 550500621, "RARNUM": 55000032 }, "geometry": { "type": "Point", "coordinates": [ -77.156337, 38.662865 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 621.000000, "NESTSGEN_I": 148649.000000, "ID": 550500622, "RARNUM": 55000032 }, "geometry": { "type": "Point", "coordinates": [ -77.192119, 38.661989 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 622.000000, "NESTSGEN_I": 148651.000000, "ID": 550500623, "RARNUM": 55000032 }, "geometry": { "type": "Point", "coordinates": [ -77.213927, 38.661052 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 623.000000, "NESTSGEN_I": 148646.000000, "ID": 550500624, "RARNUM": 55000032 }, "geometry": { "type": "Point", "coordinates": [ -77.166869, 38.658216 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 624.000000, "NESTSGEN_I": 148654.000000, "ID": 550500625, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.194128, 38.650996 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 625.000000, "NESTSGEN_I": 148664.000000, "ID": 550500626, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.232981, 38.649139 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 626.000000, "NESTSGEN_I": 148650.000000, "ID": 550500627, "RARNUM": 55000032 }, "geometry": { "type": "Point", "coordinates": [ -77.191212, 38.646928 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 627.000000, "NESTSGEN_I": 148663.000000, "ID": 550500628, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.237128, 38.646031 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 628.000000, "NESTSGEN_I": 148647.000000, "ID": 550500629, "RARNUM": 55000032 }, "geometry": { "type": "Point", "coordinates": [ -77.139367, 38.646779 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 629.000000, "NESTSGEN_I": 148661.000000, "ID": 550500630, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.226807, 38.641826 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 630.000000, "NESTSGEN_I": 148662.000000, "ID": 550500631, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.237666, 38.638083 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 631.000000, "NESTSGEN_I": 148652.000000, "ID": 550500632, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.162935, 38.629914 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "NESTSGEN_": 632.000000, "NESTSGEN_I": 148653.000000, "ID": 550500633, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.167348, 38.627122 ] } }
+
+]
+}

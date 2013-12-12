@@ -1,0 +1,29 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "REPTPT_": 1.000000, "REPTPT_ID": 8.000000, "ID": 553600001, "RARNUM": 55000835, "MPTID": 8350553600001.000000 }, "geometry": { "type": "Point", "coordinates": [ -75.875000, 36.584000 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "REPTPT_": 2.000000, "REPTPT_ID": 23.000000, "ID": 553600002, "RARNUM": 55000835, "MPTID": 8350553600002.000000 }, "geometry": { "type": "Point", "coordinates": [ -75.885350, 36.617059 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "REPTPT_": 3.000000, "REPTPT_ID": 51.000000, "ID": 553600003, "RARNUM": 55000835, "MPTID": 8350553600003.000000 }, "geometry": { "type": "Point", "coordinates": [ -75.900000, 36.649000 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "REPTPT_": 4.000000, "REPTPT_ID": 49.000000, "ID": 553600004, "RARNUM": 55000836, "MPTID": 8360553600004.000000 }, "geometry": { "type": "Point", "coordinates": [ -75.896467, 36.642072 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "REPTPT_": 5.000000, "REPTPT_ID": 58.000000, "ID": 553600005, "RARNUM": 55000835, "MPTID": 8350553600005.000000 }, "geometry": { "type": "Point", "coordinates": [ -75.958000, 36.785000 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "REPTPT_": 6.000000, "REPTPT_ID": 57.000000, "ID": 553600006, "RARNUM": 55000835, "MPTID": 8350553600006.000000 }, "geometry": { "type": "Point", "coordinates": [ -75.952000, 36.768000 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "REPTPT_": 7.000000, "REPTPT_ID": 56.000000, "ID": 553600007, "RARNUM": 55000835, "MPTID": 8350553600007.000000 }, "geometry": { "type": "Point", "coordinates": [ -75.954047, 36.772984 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "REPTPT_": 8.000000, "REPTPT_ID": 60.000000, "ID": 553600008, "RARNUM": 55000835, "MPTID": 8350553600008.000000 }, "geometry": { "type": "Point", "coordinates": [ -75.453000, 37.864000 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "REPTPT_": 9.000000, "REPTPT_ID": 78.000000, "ID": 553600009, "RARNUM": 55000835, "MPTID": 8350553600009.000000 }, "geometry": { "type": "Point", "coordinates": [ -75.391000, 37.863000 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "REPTPT_": 10.000000, "REPTPT_ID": 96.000000, "ID": 553600010, "RARNUM": 55000835, "MPTID": 8350553600010.000000 }, "geometry": { "type": "Point", "coordinates": [ -75.311000, 37.938000 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "REPTPT_": 11.000000, "REPTPT_ID": 95.000000, "ID": 553600011, "RARNUM": 55000836, "MPTID": 8360553600011.000000 }, "geometry": { "type": "Point", "coordinates": [ -75.371373, 37.857529 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.000000, "PERIMETER": 0.000000, "REPTPT_": 12.000000, "REPTPT_ID": 119.000000, "ID": 553600012, "RARNUM": 55000835, "MPTID": 8350553600012.000000 }, "geometry": { "type": "Point", "coordinates": [ -75.260000, 38.006000 ] } }
+
+]
+}

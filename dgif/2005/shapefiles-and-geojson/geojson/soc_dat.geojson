@@ -1,0 +1,337 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "HUNUM": 55000001, "TYPE": "AIRPORT", "NAME": "ABERDEEN FIELD", "CONTACT": "SMITHFIELD'S FOOD, INC.", "PHONE": "804\/357-4321", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000002, "TYPE": "AIRPORT", "NAME": "ACCOMACK COUNTY AIRPORT", "CONTACT": "ACCOMACK COUNTY -CITY ADMINISTRATION", "PHONE": "757\/787-5700", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000003, "TYPE": "AIRPORT", "NAME": "APPLE GROVE AIRPORT", "CONTACT": "JAMES T. & ROBIN C. CLARKE", "PHONE": "730\/439-1031", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000004, "TYPE": "AIRPORT", "NAME": "BULL FARM AIRPORT", "CONTACT": "J. D. BULL", "PHONE": "804\/331-3894", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000005, "TYPE": "AIRPORT", "NAME": "CAMP NIMCOCK AIRPORT", "CONTACT": "", "PHONE": "", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000006, "TYPE": "AIRPORT", "NAME": "CAMP PEARY LANDING STRIP", "CONTACT": "U S ARMY ATCA-ASO", "PHONE": "", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000007, "TYPE": "AIRPORT", "NAME": "CHANCE AIRPORT", "CONTACT": "HENRY M. CHANCE, III", "PHONE": "", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000008, "TYPE": "AIRPORT", "NAME": "CHERRYSTONE AIRPORT", "CONTACT": "GRANVILLE F. HOGG", "PHONE": "807\/331-2405", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000009, "TYPE": "AIRPORT", "NAME": "CHESAPEAKE AIRPORT", "CONTACT": "CHESAPEAKE AIRPORT AUTHORITY", "PHONE": "757\/523-1100", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000010, "TYPE": "AIRPORT", "NAME": "CHESAPEAKE-PORTSMOUTH AIRPORT", "CONTACT": "", "PHONE": "", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000011, "TYPE": "AIRPORT", "NAME": "CHIMNEY VIEW AIRPORT", "CONTACT": "WILLIAM J. WATSON", "PHONE": "703\/849-1589", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000012, "TYPE": "AIRPORT", "NAME": "DAVISON ARMY AIR FORCE AIRPORT", "CONTACT": "U S ARMY ATCA-ASO", "PHONE": "", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000013, "TYPE": "AIRPORT", "NAME": "EAGLES NEST AIRPORT", "CONTACT": "THOMAS J. MARONEY, JR.", "PHONE": "804\/678-5328", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000014, "TYPE": "AIRPORT", "NAME": "FEDERHART-OPHELIA STOLPORT", "CONTACT": "JOHN A FEDERHART", "PHONE": "804\/453-3064", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000015, "TYPE": "AIRPORT", "NAME": "FELKER ARMY AIR FORCE AIRPORT", "CONTACT": "U S ARMY ATCA-ASO", "PHONE": "", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000016, "TYPE": "AIRPORT", "NAME": "FLYING W AIRPORT", "CONTACT": "GERALD WEAVER", "PHONE": "804\/795-1725", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000018, "TYPE": "AIRPORT", "NAME": "HAMPTON ROADS AIRPORT", "CONTACT": "HAMPTON ROADS AIRPORT ADMINITRATION OFFICE", "PHONE": "757\/465-0260", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000019, "TYPE": "AIRPORT", "NAME": "HANDY STRIP", "CONTACT": "GILBERT HANDY", "PHONE": "804\/693-2946", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000020, "TYPE": "AIRPORT", "NAME": "HEATHSVILLE AIRPORT", "CONTACT": "", "PHONE": "", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000021, "TYPE": "AIRPORT", "NAME": "HOFFMANS FARM AIRPORT", "CONTACT": "FRED HOFFMAN", "PHONE": "804\/898-7332", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000022, "TYPE": "AIRPORT", "NAME": "HOLLY POINT AIRPORT", "CONTACT": "R. W. BREEDEN", "PHONE": "804\/481-0000", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000023, "TYPE": "AIRPORT", "NAME": "HUDGINS FARM ULTRALIGHT AIRPORT", "CONTACT": "FAY HUDGINS", "PHONE": "804\/725-3587", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000024, "TYPE": "AIRPORT", "NAME": "HUMMEL FIELD", "CONTACT": "MIDDLESEX COUNTY BOARD OF SUPERVISORS", "PHONE": "804\/758-4330", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000025, "TYPE": "AIRPORT", "NAME": "IRVINGTON MARINA SEAPLANE BASE", "CONTACT": "A. W. WYLIE", "PHONE": "804\/438-5113", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000026, "TYPE": "AIRPORT", "NAME": "JETT AIRPARK", "CONTACT": "J. ROBERT JETT, JR", "PHONE": "804\/453-3225", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000027, "TYPE": "AIRPORT", "NAME": "JOHNSON FIELD", "CONTACT": "M. E. JOHNSON", "PHONE": "804\/787-2320", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000028, "TYPE": "AIRPORT", "NAME": "KELLAM FIELD", "CONTACT": "CAMPBELL FIELD, INC.", "PHONE": "914\/772-6242", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000029, "TYPE": "AIRPORT", "NAME": "KILMARNOCK-TOLBERT FIELD", "CONTACT": "JOHN T. TOLBERT", "PHONE": "804\/435-1274", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000030, "TYPE": "AIRPORT", "NAME": "LONGBRANCH AIRPORT", "CONTACT": "JANET M. SUTTON", "PHONE": "804\/435-6253", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000031, "TYPE": "AIRPORT", "NAME": "MELVILLE AIRSTRIP", "CONTACT": "WILLAM E SAVEDGE", "PHONE": "804\/294-3803", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000032, "TYPE": "AIRPORT", "NAME": "NEWPORT NEWS-WILLIAMSBURG INTER. AIRPORT", "CONTACT": "PENNISULA AIRPORT COMMISSION", "PHONE": "757\/877-0021", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000033, "TYPE": "AIRPORT", "NAME": "NORFOLK AIRPORT", "CONTACT": "", "PHONE": "", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000034, "TYPE": "AIRPORT", "NAME": "NORFOLK GENERAL HOSPITAL AIRPORT", "CONTACT": "", "PHONE": "", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000035, "TYPE": "AIRPORT", "NAME": "NORFOLK INTERNATIONAL AIRPORT", "CONTACT": "NORFOLK AIRPORT AUTHORITY", "PHONE": "757\/857-3351", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000036, "TYPE": "AIRPORT", "NAME": "OCEANA NAVAL AIR STATION", "CONTACT": "U S NAVY", "PHONE": "", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000037, "TYPE": "AIRPORT", "NAME": "ONLEY AIRPORT", "CONTACT": "A. JOSEPH MCMATH", "PHONE": "804\/787-4842", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000038, "TYPE": "AIRPORT", "NAME": "PEACE AND PLENTY FARM AIRPORT", "CONTACT": "I. S. PRESTON", "PHONE": "804\/787-4424", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000039, "TYPE": "AIRPORT", "NAME": "POWHATAN AIRPORT", "CONTACT": "RAYMOND R. GUEST", "PHONE": "703\/775-4434", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000040, "TYPE": "AIRPORT", "NAME": "QUANTICO MARINE CORPS - TURNER FIELD", "CONTACT": "U S NAVY", "PHONE": "", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000041, "TYPE": "AIRPORT", "NAME": "REEDVILLE AIRPORT", "CONTACT": "ZAPATA PROTEIN", "PHONE": "", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000042, "TYPE": "AIRPORT", "NAME": "REMO PRIVATE AIRPORT", "CONTACT": "STANLEY OGINZ", "PHONE": "804\/457-2244", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000043, "TYPE": "AIRPORT", "NAME": "RONALD REAGAN WASHINGTON NAT. AIRPORT", "CONTACT": "METROPOLITAN WASHINGTON AIRPORTS AUTHORITY", "PHONE": "703\/417-8600", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000044, "TYPE": "AIRPORT", "NAME": "ROSEGILL FARM AIRSTRIP", "CONTACT": "ALFRED P. SCOTT", "PHONE": "804\/535-1713", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000045, "TYPE": "AIRPORT", "NAME": "SANFORD FIELD", "CONTACT": "GEORGE W. SANFORD, JR.", "PHONE": "804\/493-8717", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000046, "TYPE": "AIRPORT", "NAME": "SCOTT FARM STRIP", "CONTACT": "PAGE NOTTINGHAM SCOTT", "PHONE": "757\/331-3615", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000047, "TYPE": "AIRPORT", "NAME": "SHANDY HALL FARM AIRPORT", "CONTACT": "F.D. DURHAM", "PHONE": "804\/394-2077", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000048, "TYPE": "AIRPORT", "NAME": "SHIVOK AIRPORT", "CONTACT": "RONALD J. SHIVOK", "PHONE": "804\/529-4667", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000049, "TYPE": "AIRPORT", "NAME": "SOUTH NORFOLK AIRPORT", "CONTACT": "", "PHONE": "", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000050, "TYPE": "AIRPORT", "NAME": "TANGIER ISLAND AIRPORT", "CONTACT": "TOWN OF TANGIER", "PHONE": "757\/891-2496", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000051, "TYPE": "AIRPORT", "NAME": "TAPPAHANNOCK MUNICIPAL AIRPORT", "CONTACT": "TOWN OF TAPPAHANNOCK", "PHONE": "804\/443-3336", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000052, "TYPE": "AIRPORT", "NAME": "WALLOPS FLIGHT FACILITY AIRPORT", "CONTACT": "NASA", "PHONE": "804\/824-1000", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000053, "TYPE": "AIRPORT", "NAME": "WEEMS LANDING STRIP", "CONTACT": "", "PHONE": "", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000054, "TYPE": "AIRPORT", "NAME": "WEST POINT MUNICIPAL AIRPORT", "CONTACT": "", "PHONE": "", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000055, "TYPE": "AIRPORT", "NAME": "WILLIAMSBURG-JAMESTOWN AIRPORT", "CONTACT": "", "PHONE": "757\/229-9256", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000056, "TYPE": "AQUACULTURE", "NAME": "AQUACULTURE: HARD CLAMS", "CONTACT": "", "PHONE": "", "G_SOURCE": 84, "A_SOURCE": 84 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000057, "TYPE": "AQUACULTURE", "NAME": "AQUACULTURE: HARD CLAMS", "CONTACT": "", "PHONE": "", "G_SOURCE": 78, "A_SOURCE": 84 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000058, "TYPE": "AQUACULTURE", "NAME": "AQUACULTURE: OYSTERS", "CONTACT": "", "PHONE": "", "G_SOURCE": 78, "A_SOURCE": 84 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000059, "TYPE": "AQUACULTURE", "NAME": "SEA FARMS, INC.: HARD CLAM RELAY", "CONTACT": "RON SOPKO", "PHONE": "804\/725-9113", "G_SOURCE": 84, "A_SOURCE": 84 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000060, "TYPE": "BEACH", "NAME": "RECREATIONAL BEACH", "CONTACT": "", "PHONE": "", "G_SOURCE": 43, "A_SOURCE": 43 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000061, "TYPE": "BOAT RAMP", "NAME": "BOAT RAMP", "CONTACT": "", "PHONE": "", "G_SOURCE": 92, "A_SOURCE": 92 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000062, "TYPE": "BOAT RAMP", "NAME": "BOAT RAMP", "CONTACT": "", "PHONE": "", "G_SOURCE": 2, "A_SOURCE": 2 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000063, "TYPE": "COAST GUARD", "NAME": "ASSATEAGUE BEACH USCG STATION", "CONTACT": "", "PHONE": "", "G_SOURCE": 100, "A_SOURCE": 100 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000064, "TYPE": "COAST GUARD", "NAME": "FALSE CAPE USCG STATION (HISTORICAL)", "CONTACT": "", "PHONE": "", "G_SOURCE": 100, "A_SOURCE": 100 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000065, "TYPE": "COAST GUARD", "NAME": "LITTLE ISLAND USCG STATION", "CONTACT": "", "PHONE": "", "G_SOURCE": 100, "A_SOURCE": 100 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000066, "TYPE": "HELIPORT", "NAME": "ALEXANDRIA HOSPITAL HELISTOP", "CONTACT": "ALEXANDRIA HOSPITAL", "PHONE": "703\/504-3000", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000067, "TYPE": "HELIPORT", "NAME": "AQUALON HELIPORT", "CONTACT": "", "PHONE": "", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000068, "TYPE": "HELIPORT", "NAME": "ARMADA-HOFFLER BUSINESS CENTER HELIPORT", "CONTACT": "ARMADA\/HOFFLER ENTERPRISES", "PHONE": "804\/424-5722", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000069, "TYPE": "HELIPORT", "NAME": "BERMUDA HUNDRED HELIPORT", "CONTACT": "ALLIED CORP", "PHONE": "201\/455-6012", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000070, "TYPE": "HELIPORT", "NAME": "BROWNS ISLAND HELIPORT", "CONTACT": "CSX CORPORATION", "PHONE": "804\/782-1512", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000071, "TYPE": "HELIPORT", "NAME": "CINCLANTFLT HELIPORT", "CONTACT": "", "PHONE": "", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000072, "TYPE": "HELIPORT", "NAME": "DIVISION FIVE HELIPORT", "CONTACT": "DEPARTMENT OF STATE POLICE", "PHONE": "804\/674-2096", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000073, "TYPE": "HELIPORT", "NAME": "FIRE STATION NUMBER 14 HELIPORT", "CONTACT": "COUNTY OF CHESTERFIELD", "PHONE": "804\/748-1360", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000074, "TYPE": "HELIPORT", "NAME": "FORT STORY SPIER HELIPORT", "CONTACT": "U S ARMY ATCA-ASO", "PHONE": "", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000075, "TYPE": "HELIPORT", "NAME": "HETH ARMY HELIPORT", "CONTACT": "U S ARMY ATCA-ASO", "PHONE": "", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000076, "TYPE": "HELIPORT", "NAME": "HOPEWELL HELIPORT", "CONTACT": "ALLIED CORP", "PHONE": "201\/455-6633", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000077, "TYPE": "HELIPORT", "NAME": "LOUISE OBICI MEMORIAL HOSPITAL HELIPORT", "CONTACT": "LOUISE OBICI MEMORIAL HOSPITAL", "PHONE": "804\/934-4000", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000078, "TYPE": "HELIPORT", "NAME": "LYNNHAVEN HELIPORT", "CONTACT": "CITY OF VIRGINIA BEACH POLICE DEPARTMENT", "PHONE": "804\/427-4831", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000079, "TYPE": "HELIPORT", "NAME": "MARY IMMACULATE HOSPITAL HELIPORT", "CONTACT": "BERNADINE SISTER OSF", "PHONE": "804\/886-6593", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000080, "TYPE": "HELIPORT", "NAME": "MCGUIRE VIRGINIA MEDICAL CENTER HELIPORT", "CONTACT": "MCGUIRE VIRGINIA MEDICAL CENTER", "PHONE": "804\/233-0095", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000081, "TYPE": "HELIPORT", "NAME": "MCV HELIPORT", "CONTACT": "MEDICAL COLLEGE OF VIRGINIA", "PHONE": "804\/257-0769", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000082, "TYPE": "HELIPORT", "NAME": "MEDICAL COLLEGE OF VIRGINIA HELIPORT", "CONTACT": "VIRGINIA COMMONWEALTH UNIVERSITY", "PHONE": "", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000083, "TYPE": "HELIPORT", "NAME": "MOUNT VERNON HOSPITAL HELIPORT", "CONTACT": "MOUNT VERNON HOSPITAL", "PHONE": "703\/664-7213", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000084, "TYPE": "HELIPORT", "NAME": "NATIONAL REHABILITATION HOSP. HELIPORT", "CONTACT": "NATIONAL HOSPITAL FOR ORTHOP\/REHAB", "PHONE": "703\/920-6700", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000085, "TYPE": "HELIPORT", "NAME": "NORTHAMPTON ACCOMACK MEM. HOSP. HELIPORT", "CONTACT": "NORTHAMPTON ACCOMACK MEMORIAL HOSPITAL", "PHONE": "804\/442-8000", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000086, "TYPE": "HELIPORT", "NAME": "NWS HELIPAD", "CONTACT": "NAVAL WEAPONS STATION", "PHONE": "", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000087, "TYPE": "HELIPORT", "NAME": "PAVILION HELIPORT", "CONTACT": "VIRGINIA BEACH POLICE DEPARTMENT", "PHONE": "804\/427-4831", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000088, "TYPE": "HELIPORT", "NAME": "PENTAGON ARMY HELIPORT", "CONTACT": "", "PHONE": "", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000089, "TYPE": "HELIPORT", "NAME": "POINT FARM HELIPORT", "CONTACT": "DANIEL A. HOFFLER", "PHONE": "804\/678-7788", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000090, "TYPE": "HELIPORT", "NAME": "RAPPAHANNOCK GENERAL HOSPITAL HELIPORT", "CONTACT": "RAPPAHANNOCK GENERAL HOSPITAL", "PHONE": "804\/435-8000", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000091, "TYPE": "HELIPORT", "NAME": "RIVERSIDE HOSPITAL HELIPORT", "CONTACT": "RIVERSIDE REGIONAL MEDICAL CENTER", "PHONE": "804\/599-2046", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000093, "TYPE": "HELIPORT", "NAME": "SENTARA HAMPTON GENERAL HOSP. HELIPORT", "CONTACT": "SENTARA HAMPTON GENERAL HOSPITAL", "PHONE": "804\/727-7242", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000094, "TYPE": "HELIPORT", "NAME": "SENTARA NORFOLK GENERAL HOSP. HELIPORT", "CONTACT": "SENTARA NORFOLK GENERAL HOSPITAL", "PHONE": "804\/668-2500", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000095, "TYPE": "HELIPORT", "NAME": "VIRGINIA BEACH GENERAL HOSPITAL HELIPORT", "CONTACT": "VIRGINIA BEACH GENERAL HOSPITAL", "PHONE": "804\/481-8000", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000096, "TYPE": "HELIPORT", "NAME": "VIRGINIA BEACH MUNICIPAL HELIPORT", "CONTACT": "VIRGINIA BEACH POLICE DEPARTMENT", "PHONE": "804\/427-4831", "G_SOURCE": 99, "A_SOURCE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000097, "TYPE": "LOCK AND DAM", "NAME": "DAM", "CONTACT": "", "PHONE": "", "G_SOURCE": 2, "A_SOURCE": 2 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000098, "TYPE": "MANAGEMENT AREA", "NAME": "BALTHROPE MARSH WILDLIFE MANAGEMENT AREA", "CONTACT": "", "PHONE": "", "G_SOURCE": 91, "A_SOURCE": 91 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000099, "TYPE": "MANAGEMENT AREA", "NAME": "BETHEL BEACH NATURAL AREA PRESERVE", "CONTACT": "VA DCR DNH", "PHONE": "804\/445-9117", "G_SOURCE": 97, "A_SOURCE": 97 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000100, "TYPE": "MANAGEMENT AREA", "NAME": "BUSH MILL STREAM NATURAL AREA PRESERVE", "CONTACT": "VA DCR DNH", "PHONE": "804\/445-9117", "G_SOURCE": 97, "A_SOURCE": 97 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000101, "TYPE": "MANAGEMENT AREA", "NAME": "CAPE CHARLES COASTAL HAB. NAT. AREA PR.", "CONTACT": "VA DCR", "PHONE": "757\/678-0477", "G_SOURCE": 97, "A_SOURCE": 97 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000102, "TYPE": "MANAGEMENT AREA", "NAME": "CHICKAHOMINY WILDLIFE MANAGEMENT AREA", "CONTACT": "VDGIF", "PHONE": "804\/367-1000", "G_SOURCE": 91, "A_SOURCE": 91 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000103, "TYPE": "MANAGEMENT AREA", "NAME": "CUMBERLAND MARSH NATURAL AREA PRESERVE", "CONTACT": "THE NATURE CONSERVANCY", "PHONE": "434\/295-6106", "G_SOURCE": 97, "A_SOURCE": 97 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000104, "TYPE": "MANAGEMENT AREA", "NAME": "DAMERON MARSH NATURAL AREA PRESERVE", "CONTACT": "VA DCR DNH", "PHONE": "804\/445-9117", "G_SOURCE": 97, "A_SOURCE": 97 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000105, "TYPE": "MANAGEMENT AREA", "NAME": "FALSE CAPE NATURAL AREA PRESERVE", "CONTACT": "VA DCR DNH", "PHONE": "757\/925-2318", "G_SOURCE": 97, "A_SOURCE": 97 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000106, "TYPE": "MANAGEMENT AREA", "NAME": "GRAFTON PONDS NATURAL AREA PRESERVE", "CONTACT": "VA DCR DNH", "PHONE": "804\/445-9117", "G_SOURCE": 97, "A_SOURCE": 97 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000107, "TYPE": "MANAGEMENT AREA", "NAME": "GUARD SHORE WILDLIFE MANAGEMENT AREA", "CONTACT": "", "PHONE": "", "G_SOURCE": 91, "A_SOURCE": 91 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000108, "TYPE": "MANAGEMENT AREA", "NAME": "HICKORY HOLLOW NATURAL AREA PRESERVE", "CONTACT": "VA DCR DNH", "PHONE": "804\/445-9117", "G_SOURCE": 97, "A_SOURCE": 97 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000109, "TYPE": "MANAGEMENT AREA", "NAME": "HOG ISLAND WILDLIFE MANAGEMENT AREA", "CONTACT": "VDGIF", "PHONE": "804\/367-1000", "G_SOURCE": 91, "A_SOURCE": 91 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000110, "TYPE": "MANAGEMENT AREA", "NAME": "HUGHLETT POINT NATURAL AREA PRESERVE", "CONTACT": "VA DCR DNH", "PHONE": "804\/445-9117", "G_SOURCE": 97, "A_SOURCE": 97 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000111, "TYPE": "MANAGEMENT AREA", "NAME": "KITTEWAN WILDLIFE MANAGEMENT AREA", "CONTACT": "", "PHONE": "", "G_SOURCE": 91, "A_SOURCE": 91 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000112, "TYPE": "MANAGEMENT AREA", "NAME": "'LAND''S END WILDLIFE MANAGEMENT AREA'", "CONTACT": "", "PHONE": "", "G_SOURCE": 91, "A_SOURCE": 91 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000113, "TYPE": "MANAGEMENT AREA", "NAME": "MOCKHORN WILDLIFE MANAGEMENT AREA", "CONTACT": "VDGIF", "PHONE": "804\/367-1000", "G_SOURCE": 91, "A_SOURCE": 91 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000114, "TYPE": "MANAGEMENT AREA", "NAME": "NEW POINT COMFORT NATURAL AREA PRESERVE", "CONTACT": "THE NATURE CONSERVANCY", "PHONE": "434\/295-6106", "G_SOURCE": 97, "A_SOURCE": 97 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000115, "TYPE": "MANAGEMENT AREA", "NAME": "PARKERS MARSH NATURAL AREA PRESERVE", "CONTACT": "VA DCR DNH", "PHONE": "757\/787-5576", "G_SOURCE": 97, "A_SOURCE": 97 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000116, "TYPE": "MANAGEMENT AREA", "NAME": "PARRAMORE ISLAND NATURAL AREA PRESERVE", "CONTACT": "THE NATURE CONSERVANCY", "PHONE": "757\/442-3049", "G_SOURCE": 97, "A_SOURCE": 97 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000117, "TYPE": "MANAGEMENT AREA", "NAME": "PETTIGREW WILDLIFE MANAGEMENT AREA", "CONTACT": "VDGIF", "PHONE": "804\/367-1000", "G_SOURCE": 91, "A_SOURCE": 91 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000118, "TYPE": "MANAGEMENT AREA", "NAME": "PRINCESS ANNE WILDLIFE MANAGEMENT AREA", "CONTACT": "VDGIF", "PHONE": "804\/367-1000", "G_SOURCE": 91, "A_SOURCE": 91 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000119, "TYPE": "MANAGEMENT AREA", "NAME": "RAGGED ISLAND WILDLIFE MANAGEMENT AREA", "CONTACT": "VDGIF", "PHONE": "804\/367-1000", "G_SOURCE": 91, "A_SOURCE": 91 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000120, "TYPE": "MANAGEMENT AREA", "NAME": "SAVAGE NECK NATURAL AREA PRESERVE", "CONTACT": "VA DCR DNH", "PHONE": "757\/787-5576", "G_SOURCE": 97, "A_SOURCE": 97 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000121, "TYPE": "MANAGEMENT AREA", "NAME": "SAXIS WILDLIFE MANAGEMENT AREA", "CONTACT": "VDGIF", "PHONE": "804\/367-1000", "G_SOURCE": 91, "A_SOURCE": 91 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000122, "TYPE": "MANAGEMENT AREA", "NAME": "WM. B. TROWER BAYSHORE NAT. AREA PR.", "CONTACT": "VA DCR DNH", "PHONE": "757\/787-5576", "G_SOURCE": 97, "A_SOURCE": 97 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000123, "TYPE": "MANAGEMENT AREA", "NAME": "WRECK ISLAND NATURAL AREA PRESERVE", "CONTACT": "VA DCR DNH", "PHONE": "757\/787-5576", "G_SOURCE": 97, "A_SOURCE": 97 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000124, "TYPE": "MARINA", "NAME": "MARINA", "CONTACT": "", "PHONE": "", "G_SOURCE": 2, "A_SOURCE": 2 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000125, "TYPE": "NATIONAL PARK", "NAME": "ASSATEAGUE ISLAND NATIONAL SEASHORE", "CONTACT": "NATIONAL PARK SERVICE", "PHONE": "757\/336-6577", "G_SOURCE": 98, "A_SOURCE": 98 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000126, "TYPE": "NATIONAL PARK", "NAME": "COLONIAL NATIONAL HISTORICAL PARK", "CONTACT": "NATIONAL PARK SERVICE", "PHONE": "757\/898-3400", "G_SOURCE": 98, "A_SOURCE": 98 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000127, "TYPE": "NATIONAL PARK", "NAME": "GEO. WASHINGTON BIRTHPLACE NATIONAL PARK", "CONTACT": "NATIONAL PARK SERVICE", "PHONE": "804\/224-1732", "G_SOURCE": 98, "A_SOURCE": 98 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000128, "TYPE": "NATIONAL PARK", "NAME": "GEO. WASHINGTON MEMORIAL NAT. PARKWAY", "CONTACT": "NATIONAL PARK SERVICE", "PHONE": "703\/289-2500", "G_SOURCE": 98, "A_SOURCE": 98 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000129, "TYPE": "NATIONAL PARK", "NAME": "MAGGIE L. WALKER NAT. HISTORICAL SITE", "CONTACT": "NATIONAL PARK SERVICE", "PHONE": "804\/771-2808", "G_SOURCE": 98, "A_SOURCE": 98 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000130, "TYPE": "NATIONAL PARK", "NAME": "PETERSBURG NATIONAL BATTLEFIELD PARK", "CONTACT": "NATIONAL PARK SERVICE", "PHONE": "804\/732-3531", "G_SOURCE": 98, "A_SOURCE": 98 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000131, "TYPE": "NATIONAL PARK", "NAME": "PRINCE WILLIAM FOREST NATIONAL PARK", "CONTACT": "NATIONAL PARK SERVICE", "PHONE": "703\/221-4706", "G_SOURCE": 98, "A_SOURCE": 98 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000132, "TYPE": "NATIONAL PARK", "NAME": "RICHMOND NATIONAL BATTLEFIELD PARK", "CONTACT": "NATIONAL PARK SERVICE", "PHONE": "804\/226-1981", "G_SOURCE": 98, "A_SOURCE": 98 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000133, "TYPE": "PARK", "NAME": "BELLE ISLE STATE PARK", "CONTACT": "VA DCR", "PHONE": "804\/462-5030", "G_SOURCE": 97, "A_SOURCE": 97 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000134, "TYPE": "PARK", "NAME": "CALEDON NATURAL AREA STATE PARK", "CONTACT": "VA DCR", "PHONE": "540\/663-3861", "G_SOURCE": 97, "A_SOURCE": 97 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000135, "TYPE": "PARK", "NAME": "CHILTON WOODS STATE FOREST", "CONTACT": "VA DEPT. OF FORESTRY", "PHONE": "", "G_SOURCE": 96, "A_SOURCE": 96 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000136, "TYPE": "PARK", "NAME": "CHIPPOKES PLANTATION STATE PARK", "CONTACT": "VA DCR", "PHONE": "757\/294-3625", "G_SOURCE": 97, "A_SOURCE": 97 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000137, "TYPE": "PARK", "NAME": "FALSE CAPE STATE PARK", "CONTACT": "VA DCR", "PHONE": "757\/426-7128", "G_SOURCE": 97, "A_SOURCE": 97 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000138, "TYPE": "PARK", "NAME": "FIRST LANDING STATE PARK", "CONTACT": "VA DCR", "PHONE": "757\/412-2300", "G_SOURCE": 97, "A_SOURCE": 97 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000139, "TYPE": "PARK", "NAME": "GEORGE WASHINGTON GRIST MILL STATE PARK", "CONTACT": "VA DCR", "PHONE": "703\/780-2000", "G_SOURCE": 97, "A_SOURCE": 97 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000140, "TYPE": "PARK", "NAME": "KIPTOPEKE STATE PARK", "CONTACT": "VA DCR", "PHONE": "757\/331-2267", "G_SOURCE": 97, "A_SOURCE": 97 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000141, "TYPE": "PARK", "NAME": "LEESYLVANIA STATE PARK", "CONTACT": "VA DCR", "PHONE": "703\/670-0372", "G_SOURCE": 97, "A_SOURCE": 97 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000142, "TYPE": "PARK", "NAME": "MASON NECK STATE PARK", "CONTACT": "VA DCR", "PHONE": "703\/339-2385", "G_SOURCE": 97, "A_SOURCE": 97 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000143, "TYPE": "PARK", "NAME": "WESTMORELAND STATE PARK", "CONTACT": "VA DCR", "PHONE": "804\/493-8821", "G_SOURCE": 97, "A_SOURCE": 97 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000144, "TYPE": "PARK", "NAME": "YORK RIVER STATE PARK", "CONTACT": "VA DCR", "PHONE": "757\/566-3036", "G_SOURCE": 97, "A_SOURCE": 97 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000145, "TYPE": "WATER INTAKE", "NAME": "WATER INTAKE", "CONTACT": "JOHN GALLEGOS", "PHONE": "757\/721-2412", "G_SOURCE": 23, "A_SOURCE": 23 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000146, "TYPE": "WILDLIFE REFUGE", "NAME": "BACK BAY NATIONAL WILDLIFE REFUGE", "CONTACT": "U.S. FISH AND WILDLIFE SERVICE", "PHONE": "757\/721-2412", "G_SOURCE": 94, "A_SOURCE": 94 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000147, "TYPE": "WILDLIFE REFUGE", "NAME": "CHINCOTEAGUE ISLAND NWR", "CONTACT": "U.S. FISH AND WILDLIFE SERVICE", "PHONE": "757\/336-6122", "G_SOURCE": 94, "A_SOURCE": 94 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000148, "TYPE": "WILDLIFE REFUGE", "NAME": "EASTERN SHORE OF VIRGINIA NWR", "CONTACT": "U.S. FISH AND WILDLIFE SERVICE", "PHONE": "757\/331-2760", "G_SOURCE": 94, "A_SOURCE": 94 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000149, "TYPE": "WILDLIFE REFUGE", "NAME": "FEATHERSTONE NATIONAL WILDLIFE REFUGE", "CONTACT": "U.S. FISH AND WILDLIFE SERVICE", "PHONE": "703\/490-4979", "G_SOURCE": 94, "A_SOURCE": 94 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000150, "TYPE": "WILDLIFE REFUGE", "NAME": "FISHERMANS ISLAND NWR", "CONTACT": "U.S. FISH AND WILDLIFE SERVICE", "PHONE": "757\/331-2760", "G_SOURCE": 94, "A_SOURCE": 94 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000151, "TYPE": "WILDLIFE REFUGE", "NAME": "GREAT DISMAL SWAMP NWR", "CONTACT": "U.S. FISH AND WILDLIFE SERVICE", "PHONE": "757\/986-3705", "G_SOURCE": 94, "A_SOURCE": 94 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000152, "TYPE": "WILDLIFE REFUGE", "NAME": "HARRISON LAKE NATIONAL FISH HATCHERY", "CONTACT": "U.S. FISH AND WILDLIFE SERVICE", "PHONE": "804\/829-2421", "G_SOURCE": 94, "A_SOURCE": 94 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000153, "TYPE": "WILDLIFE REFUGE", "NAME": "JAMES RIVER NATIONAL WILDLIFE REFUGE", "CONTACT": "U.S. FISH AND WILDLIFE SERVICE", "PHONE": "804\/333-1470", "G_SOURCE": 94, "A_SOURCE": 94 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000154, "TYPE": "WILDLIFE REFUGE", "NAME": "MACKAY ISLAND NATIONAL WILDLIFE REFUGE", "CONTACT": "U.S. FISH AND WILDLIFE SERVICE", "PHONE": "252\/429-3100", "G_SOURCE": 94, "A_SOURCE": 94 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000155, "TYPE": "WILDLIFE REFUGE", "NAME": "MASON NECK NATIONAL WILDLIFE REFUGE", "CONTACT": "U.S. FISH AND WILDLIFE SERVICE", "PHONE": "703\/490-4979", "G_SOURCE": 94, "A_SOURCE": 94 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000156, "TYPE": "WILDLIFE REFUGE", "NAME": "NANSEMOND NATIONAL WILDLIFE REFUGE", "CONTACT": "U.S. FISH AND WILDLIFE SERVICE", "PHONE": "757\/986-3705", "G_SOURCE": 94, "A_SOURCE": 94 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000157, "TYPE": "WILDLIFE REFUGE", "NAME": "OCCOQUAN BAY NATIONAL WILDLIFE REFUGE", "CONTACT": "U.S. FISH AND WILDLIFE SERVICE", "PHONE": "703\/490-4979", "G_SOURCE": 94, "A_SOURCE": 94 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000158, "TYPE": "WILDLIFE REFUGE", "NAME": "PLUM TREE ISLAND NWR", "CONTACT": "U.S. FISH AND WILDLIFE SERVICE", "PHONE": "757\/721-2412", "G_SOURCE": 94, "A_SOURCE": 94 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000159, "TYPE": "WILDLIFE REFUGE", "NAME": "PRESQUILE NATIONAL WILDLIFE REFUGE", "CONTACT": "U.S. FISH AND WILDLIFE SERVICE", "PHONE": "804\/333-1470", "G_SOURCE": 94, "A_SOURCE": 94 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000160, "TYPE": "WILDLIFE REFUGE", "NAME": "RAPPAHANNOCK RIVER VALLEY NWR", "CONTACT": "U.S. FISH AND WILDLIFE SERVICE", "PHONE": "804\/333-1470", "G_SOURCE": 94, "A_SOURCE": 94 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000161, "TYPE": "WILDLIFE REFUGE", "NAME": "WALLOPS ISLAND NATIONAL WILDLIFE REFUGE", "CONTACT": "U.S. FISH AND WILDLIFE SERVICE", "PHONE": "757\/336-6122", "G_SOURCE": 94, "A_SOURCE": 94 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000162, "TYPE": "BEACH", "NAME": "RECREATIONAL BEACH", "CONTACT": "", "PHONE": "", "G_SOURCE": 106, "A_SOURCE": 106 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000163, "TYPE": "NATIONAL PARK", "NAME": "ASSATEAGUE ISLAND NATIONAL SEASHORE", "CONTACT": "NATIONAL PARK SERVICE", "PHONE": "757\/336-6577", "G_SOURCE": 98, "A_SOURCE": 98 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000163, "TYPE": "WILDLIFE REFUGE", "NAME": "CHINCOTEAGUE ISLAND NWR", "CONTACT": "U.S. FISH AND WILDLIFE SERVICE", "PHONE": "757\/336-6122", "G_SOURCE": 94, "A_SOURCE": 94 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000164, "TYPE": "MANAGEMENT AREA", "NAME": "MOCKHORN WILDLIFE MANAGEMENT AREA", "CONTACT": "VDGIF", "PHONE": "804\/367-1000", "G_SOURCE": 91, "A_SOURCE": 91 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000164, "TYPE": "WILDLIFE REFUGE", "NAME": "EASTERN SHORE OF VIRGINIA NWR", "CONTACT": "U.S. FISH AND WILDLIFE SERVICE", "PHONE": "757\/331-2760", "G_SOURCE": 94, "A_SOURCE": 94 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000165, "TYPE": "PARK", "NAME": "FALSE CAPE STATE PARK", "CONTACT": "VA DCR", "PHONE": "757\/426-7128", "G_SOURCE": 97, "A_SOURCE": 97 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "HUNUM": 55000165, "TYPE": "WILDLIFE REFUGE", "NAME": "BACK BAY NATIONAL WILDLIFE REFUGE", "CONTACT": "U.S. FISH AND WILDLIFE SERVICE", "PHONE": "757\/721-2412", "G_SOURCE": 94, "A_SOURCE": 94 }, "geometry": null }
+
+]
+}
