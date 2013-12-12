@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+<name>Shown in Percent Passing; Updated on 12/8/2005</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>SOL Test</name>
+<description>1998 Pass Rate</description>
+<Point><coordinates>2001 Pass Rate,2000 Pass Rate,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Grade 3</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>English: Reading</name>
+<description>55</description>
+<Point><coordinates>65,61,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Mathematics</name>
+<description>63</description>
+<Point><coordinates>77,71,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>History &amp; Social Science</name>
+<description>49</description>
+<Point><coordinates>72,65,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Science</name>
+<description>63</description>
+<Point><coordinates>74,73,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Grade 5</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>English: Reading</name>
+<description>68</description>
+<Point><coordinates>73,68,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>English: Writing</name>
+<description>65</description>
+<Point><coordinates>84,81,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Mathematics</name>
+<description>47</description>
+<Point><coordinates>67,63,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>History &amp; Social Science</name>
+<description>33</description>
+<Point><coordinates>63,51,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Science</name>
+<description>59</description>
+<Point><coordinates>75,64,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Grade 8</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>English: Reading</name>
+<description>65</description>
+<Point><coordinates>73,70,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>English: Writing</name>
+<description>67</description>
+<Point><coordinates>75,76,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Mathematics</name>
+<description>53</description>
+<Point><coordinates>68,61,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>History &amp; Social Science</name>
+<description>35</description>
+<Point><coordinates>56,50,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Science</name>
+<description>71</description>
+<Point><coordinates>84,82,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Content Specific </name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>US History to 1877*</name>
+<description>N/A</description>
+<Point><coordinates>N/A,N/A,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>US History from 1877 to Present*</name>
+<description>N/A</description>
+<Point><coordinates>N/A,N/A,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Civics &amp; Economics*</name>
+<description>N/A</description>
+<Point><coordinates>N/A,N/A,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>High School</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>English: Reading</name>
+<description>72</description>
+<Point><coordinates>82,78,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>English: Writing</name>
+<description>71</description>
+<Point><coordinates>84,85,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Algebra I</name>
+<description>40</description>
+<Point><coordinates>74,65,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Algebra II</name>
+<description>31</description>
+<Point><coordinates>74,58,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Geometry</name>
+<description>52</description>
+<Point><coordinates>73,67,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Virginia &amp; US History</name>
+<description>30</description>
+<Point><coordinates>48,39,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>World History &amp; Geography to 1500**</name>
+<description>62</description>
+<Point><coordinates>83,75,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>World History &amp; Geography 1500 to Present**</name>
+<description>41</description>
+<Point><coordinates>65,60,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>World Geography</name>
+<description>N/A</description>
+<Point><coordinates>77,76,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Earth Science</name>
+<description>58</description>
+<Point><coordinates>73,70,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Biology</name>
+<description>72</description>
+<Point><coordinates>81,79,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Chemistry</name>
+<description>54</description>
+<Point><coordinates>74,64,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>* Content Specific tests first administered in 2004 for US History to 1877, US History from 1877 to Present, and Civics &amp; Economics</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>** 2004 end-of-course tests for Virginia &amp; US History, World History &amp; Geography to 1500, World History &amp; Geography 1500 to Present, and World Geography based on 2001 revision of History/Social Science Standards of Learning. World Geography end-of-course test first administered in 2000.</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>N/A -- Not available, Not applicable, or No longer given</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>NOTE: Spring Pass rates do not include summer or fall results, but do include expedited retake results.</name>
+<description></description>
+</Placemark>
+</Document>
+</kml>
