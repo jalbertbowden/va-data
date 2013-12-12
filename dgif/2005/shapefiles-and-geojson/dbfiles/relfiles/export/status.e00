@@ -1,0 +1,43 @@
+EXP  0 C:\VIRGINIA\GEOG\GEO\DBFILES\RELFILES\EXPORT\STATUS.E00                  
+IFO  2
+STATUS                              11  11  60        27
+ELEMENT          10-1   14-1  10-1 20-1  -1  -1-1                   1-
+SPECIES_ID        5-1  114-1   5-1 30-1  -1  -1-1                   2-
+STATE             2-1  164-1   2-1 20-1  -1  -1-1                   3-
+COUNTRY           3-1  184-1   3-1 20-1  -1  -1-1                   4-
+S                 1-1  214-1   1-1 20-1  -1  -1-1                   5-
+F                 1-1  224-1   1-1 20-1  -1  -1-1                   6-
+I                 1-1  234-1   1-1 20-1  -1  -1-1                   7-
+S_DATE           10-1  244-1  10-1 30-1  -1  -1-1                   8-
+F_DATE           10-1  344-1  10-1 30-1  -1  -1-1                   9-
+I_DATE           10-1  444-1  10-1 30-1  -1  -1-1                  10-
+EL_SPE            6-1  544-1   6-1 20-1  -1  -1-1                  11-
+BIRD         76VAUSATT     200303    200303         0B00076
+BIRD         86VAUSAC      200303         0         0B00086
+BIRD         87VAUSAC      200303         0         0B00087
+BIRD         88VAUSAC      200303         0         0B00088
+BIRD         91VAUSAC      200303         0         0B00091
+BIRD         94VAUSAC      200303         0         0B00094
+BIRD        107VAUSAT      200303         0         0B00107
+BIRD        118VAUSAC      200303         0         0B00118
+BIRD        120VAUSAC      200303         0         0B00120
+BIRD        134VAUSAT      200303         0         0B00134
+BIRD        135VAUSAC      200303         0         0B00135
+BIRD        136VAUSAC      200303         0         0B00136
+BIRD        153VAUSATT     200303    200303         0B00153
+BIRD        154VAUSAE      200303         0         0B00154
+BIRD        181VAUSAC      200303         0         0B00181
+BIRD        192VAUSAC      200410         0         0B00192
+BIRD        224VAUSAC      200303         0         0B00224
+BIRD        278VAUSAC      200303         0         0B00278
+BIRD        736VAUSAT      200303         0         0B00736
+FISH        102VAUSAC      200303         0         0F00102
+HABITAT     145VAUSA T          0    200503         0H00145
+INVERT      285VAUSATT     200303    200303         0I00285
+M_MAMMAL     13VAUSAEE     200303    200303         0M00013
+REPTILE       2VAUSATT     200503    200503         0R00002
+REPTILE       4VAUSAEE     200410    200410         0R00004
+REPTILE       5VAUSAEE     200503    200503         0R00005
+REPTILE       6VAUSATT     200410    200410         0R00006
+EOI
+EOS

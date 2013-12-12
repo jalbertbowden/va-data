@@ -1,0 +1,11615 @@
+/3.2
+(ODB.1
+	FirstRootClassName:	"Project"
+	Roots:	2
+	Version:	32
+)
+
+(Project.2
+	Name:	"virginia.apr"
+	Creator:	"jill"
+	CreationDate:	"Wednesday, May 05, 1999 10:40:07"
+	GUIName:	"Project"
+	Win:	3
+	CSMgr:	4
+	DocExts:	5
+	VisGUIWidth:	70
+	Doc:	6
+	Doc:	1013
+	Doc:	899
+	Doc:	786
+	Doc:	871
+	Doc:	843
+	Doc:	958
+	Doc:	504
+	Doc:	757
+	Doc:	476
+	Doc:	448
+	Doc:	815
+	Doc:	1164
+	Doc:	1168
+	Doc:	206
+	Doc:	1183
+	Doc:	1187
+	Doc:	1191
+	Doc:	1195
+	ActiveDoc:	206
+	Buttons:	1211
+	Buttons:	1212
+	Buttons:	1213
+	Scripts:	1214
+	Prefs:	1215
+	GUI:	1218
+	WorkDir:	2049
+	WinX:	71
+	WinY:	6
+	WinW:	1010
+	WinH:	892
+	StartUp:	"esiview.ave"
+	SerialNumber:	"797641100967"
+	SelColor:	2050
+	GUINames:	2051
+	GUINames:	2052
+	GUINames:	2053
+	GUINames:	2054
+	GUINames:	2055
+	GUINames:	2056
+	GUINames:	2057
+	TocWidthScale:	1.00000000000000
+)
+
+(DocWin.3
+	Owner:	2
+	Open:	1
+	X:	3
+	Y:	583
+	W:	243
+	H:	162
+)
+
+(CSMgr.4
+)
+
+(DocAct.5
+	Doc:	2
+)
+
+(Table.6
+	Name:	"Attributes of Birds.shp"
+	CreationDate:	"Thursday, December 22, 2005 2:13:58 PM"
+	GUIName:	"Table"
+	Win:	7
+	CSMgr:	8
+	DocExts:	1163
+	VTab:	14
+)
+
+(DocWin.7
+	Owner:	6
+	X:	20
+	Y:	20
+	W:	365
+	H:	266
+)
+
+(CSMgr.8
+	Client:	9
+)
+
+(CSClient.9
+	Client:	10
+	ReqName:	"RespondTable"
+)
+
+(FTheme.10
+	Name:	"Birds.shp"
+	Source:	11
+	Flags:	0x04
+	Legend:	191
+	Threshold:	205
+	View:	206
+	GSet:	1155
+	LegEditScript:	"View.EditLegend"
+	TxPos:	1156
+	Table:	6
+	AttrRules:	1157
+	AttrRules:	1158
+	AttrRules:	1159
+	AttrRules:	1160
+	AttrRules:	1161
+	AttrRules:	1162
+	SnapTolCursor:	1
+)
+
+(ShpSrc.11
+	Name:	12
+	FTab:	14
+)
+
+(SrcName.12
+	FileName:	13
+	Name:	"birds.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.13
+	Path:	"$AVVA/birds.shp"
+)
+
+(FTab.14
+	Name:	"birds.dbf"
+	BTab:	15
+	Fields:	23
+	Fields:	16
+	Fields:	17
+	Fields:	18
+	Fields:	19
+	Fields:	20
+	Fields:	21
+	SelBits:	24
+	Links:	25
+	FSrc:	11
+)
+
+(dBASE.15
+	Name:	"birds.dbf"
+	Fields:	16
+	Fields:	17
+	Fields:	18
+	Fields:	19
+	Fields:	20
+	Fields:	21
+	FileName:	22
+)
+
+(Field.16
+	Name:	"Area"
+	Btab:	15
+	Alias:	"Area"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	149
+)
+
+(Field.17
+	Name:	"Perimeter"
+	Btab:	15
+	Alias:	"Perimeter"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	149
+)
+
+(Field.18
+	Name:	"Birdsgen_"
+	Btab:	15
+	Alias:	"Birdsgen#"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	93
+)
+
+(Field.19
+	Name:	"Birdsgen_i"
+	Btab:	15
+	Alias:	"Birdsgen-id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	93
+)
+
+(Field.20
+	Name:	"Id"
+	Btab:	15
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	85
+)
+
+(Field.21
+	Name:	"Rarnum"
+	Btab:	15
+	Alias:	"Rarnum"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	85
+)
+
+(FN.22
+	Path:	"$AVVA/birds.dbf"
+)
+
+(Field.23
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+	Pixels:	69
+)
+
+(Bitmap.24
+	NumBits:	6804
+
+)
+
+(Link.25
+	FromVtab:	14
+	FromField:	21
+	ToVtab:	26
+	ToField:	54
+)
+
+(VTab.26
+	Name:	"biofile.dbf"
+	BTab:	27
+	Fields:	28
+	Fields:	29
+	Fields:	30
+	Fields:	31
+	Fields:	32
+	Fields:	33
+	Fields:	34
+	Fields:	35
+	Fields:	36
+	Fields:	37
+	Fields:	38
+	Fields:	39
+	Fields:	40
+	Fields:	41
+	Fields:	42
+	Fields:	43
+	Fields:	44
+	Fields:	45
+	Fields:	46
+	Fields:	47
+	Fields:	48
+	Fields:	49
+	Fields:	50
+	Fields:	51
+	Fields:	52
+	Fields:	53
+	Fields:	54
+	Fields:	55
+	Fields:	56
+	Fields:	57
+	Fields:	58
+	SelBits:	60
+	Links:	61
+	Links:	62
+	Links:	78
+	Links:	94
+	Links:	110
+	Links:	126
+	Links:	142
+	Links:	158
+	Links:	175
+)
+
+(dBASE.27
+	Name:	"biofile.dbf"
+	Fields:	28
+	Fields:	29
+	Fields:	30
+	Fields:	31
+	Fields:	32
+	Fields:	33
+	Fields:	34
+	Fields:	35
+	Fields:	36
+	Fields:	37
+	Fields:	38
+	Fields:	39
+	Fields:	40
+	Fields:	41
+	Fields:	42
+	Fields:	43
+	Fields:	44
+	Fields:	45
+	Fields:	46
+	Fields:	47
+	Fields:	48
+	Fields:	49
+	Fields:	50
+	Fields:	51
+	Fields:	52
+	Fields:	53
+	Fields:	54
+	Fields:	55
+	Fields:	56
+	Fields:	57
+	Fields:	58
+	FileName:	59
+)
+
+(Field.28
+	Name:	"Element"
+	Btab:	27
+	Alias:	"Element"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	40
+)
+
+(Field.29
+	Name:	"Subelement"
+	Btab:	27
+	Alias:	"Subelement"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	71
+)
+
+(Field.30
+	Name:	"Name"
+	Btab:	27
+	Alias:	"Name"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	135
+)
+
+(Field.31
+	Name:	"Gen_spec"
+	Btab:	27
+	Alias:	"Gen_spec"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(Field.32
+	Name:	"S_f"
+	Btab:	27
+	Alias:	"S_f"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	23
+)
+
+(Field.33
+	Name:	"T_e"
+	Btab:	27
+	Alias:	"T_e"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	20
+)
+
+(Field.34
+	Name:	"Nhp"
+	Btab:	27
+	Alias:	"Nhp"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	30
+)
+
+(Field.35
+	Name:	"Date_pub"
+	Btab:	27
+	Alias:	"Date_pub"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	55
+)
+
+(Field.36
+	Name:	"Conc"
+	Btab:	27
+	Alias:	"Conc"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	66
+)
+
+(Field.37
+	Name:	"Jan"
+	Btab:	27
+	Alias:	"Jan"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	21
+)
+
+(Field.38
+	Name:	"Feb"
+	Btab:	27
+	Alias:	"Feb"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	20
+)
+
+(Field.39
+	Name:	"Mar"
+	Btab:	27
+	Alias:	"Mar"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	20
+)
+
+(Field.40
+	Name:	"Apr"
+	Btab:	27
+	Alias:	"Apr"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	19
+)
+
+(Field.41
+	Name:	"May"
+	Btab:	27
+	Alias:	"May"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	22
+)
+
+(Field.42
+	Name:	"Jun"
+	Btab:	27
+	Alias:	"Jun"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	18
+)
+
+(Field.43
+	Name:	"Jul"
+	Btab:	27
+	Alias:	"Jul"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	22
+)
+
+(Field.44
+	Name:	"Aug"
+	Btab:	27
+	Alias:	"Aug"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	20
+)
+
+(Field.45
+	Name:	"Sep"
+	Btab:	27
+	Alias:	"Sep"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	21
+)
+
+(Field.46
+	Name:	"Oct"
+	Btab:	27
+	Alias:	"Oct"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	25
+)
+
+(Field.47
+	Name:	"Nov"
+	Btab:	27
+	Alias:	"Nov"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	19
+)
+
+(Field.48
+	Name:	"Dec"
+	Btab:	27
+	Alias:	"Dec"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	15
+)
+
+(Field.49
+	Name:	"Breed1"
+	Btab:	27
+	Alias:	"Breed1"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	41
+)
+
+(Field.50
+	Name:	"Breed2"
+	Btab:	27
+	Alias:	"Breed2"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	41
+)
+
+(Field.51
+	Name:	"Breed3"
+	Btab:	27
+	Alias:	"Breed3"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	46
+)
+
+(Field.52
+	Name:	"Breed4"
+	Btab:	27
+	Alias:	"Breed4"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	45
+)
+
+(Field.53
+	Name:	"Breed5"
+	Btab:	27
+	Alias:	"Breed5"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	40
+)
+
+(Field.54
+	Name:	"Rarnum"
+	Btab:	27
+	Alias:	"Rarnum"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	77
+)
+
+(Field.55
+	Name:	"G_source"
+	Btab:	27
+	Alias:	"G_source"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	63
+)
+
+(Field.56
+	Name:	"S_source"
+	Btab:	27
+	Alias:	"S_source"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	62
+)
+
+(Field.57
+	Name:	"Breed"
+	Btab:	27
+	Alias:	"Breed"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	42
+)
+
+(Field.58
+	Name:	"Seassum"
+	Btab:	27
+	Alias:	"Seassum"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	53
+)
+
+(FN.59
+	Path:	"$AVVA/biofile.dbf"
+)
+
+(Bitmap.60
+	NumBits:	8675
+	NumBitsSet:	2
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 60000000 00000000 00000000 
+
+)
+
+(Link.61
+	FromVtab:	26
+	FromField:	54
+	ToVtab:	14
+	ToField:	21
+)
+
+(Link.62
+	FromVtab:	26
+	FromField:	54
+	ToVtab:	63
+	ToField:	70
+)
+
+(FTab.63
+	Name:	"fish.dbf"
+	BTab:	64
+	Fields:	72
+	Fields:	65
+	Fields:	66
+	Fields:	67
+	Fields:	68
+	Fields:	69
+	Fields:	70
+	SelBits:	73
+	Links:	74
+	FSrc:	75
+)
+
+(dBASE.64
+	Name:	"fish.dbf"
+	Fields:	65
+	Fields:	66
+	Fields:	67
+	Fields:	68
+	Fields:	69
+	Fields:	70
+	FileName:	71
+)
+
+(Field.65
+	Name:	"Area"
+	Btab:	64
+	Alias:	"Area"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	149
+)
+
+(Field.66
+	Name:	"Perimeter"
+	Btab:	64
+	Alias:	"Perimeter"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	149
+)
+
+(Field.67
+	Name:	"Fishgen_"
+	Btab:	64
+	Alias:	"Fishgen#"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	93
+)
+
+(Field.68
+	Name:	"Fishgen_id"
+	Btab:	64
+	Alias:	"Fishgen-id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	93
+)
+
+(Field.69
+	Name:	"Id"
+	Btab:	64
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	85
+)
+
+(Field.70
+	Name:	"Rarnum"
+	Btab:	64
+	Alias:	"Rarnum"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	77
+)
+
+(FN.71
+	Path:	"$AVVA/fish.dbf"
+)
+
+(Field.72
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+	Pixels:	69
+)
+
+(Bitmap.73
+	NumBits:	293
+
+)
+
+(Link.74
+	FromVtab:	63
+	FromField:	70
+	ToVtab:	26
+	ToField:	54
+)
+
+(ShpSrc.75
+	Name:	76
+	FTab:	63
+)
+
+(SrcName.76
+	FileName:	77
+	Name:	"fish.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.77
+	Path:	"$AVVA/fish.shp"
+)
+
+(Link.78
+	FromVtab:	26
+	FromField:	54
+	ToVtab:	79
+	ToField:	86
+)
+
+(FTab.79
+	Name:	"invert.dbf"
+	BTab:	80
+	Fields:	88
+	Fields:	81
+	Fields:	82
+	Fields:	83
+	Fields:	84
+	Fields:	85
+	Fields:	86
+	SelBits:	89
+	Links:	90
+	FSrc:	91
+)
+
+(dBASE.80
+	Name:	"invert.dbf"
+	Fields:	81
+	Fields:	82
+	Fields:	83
+	Fields:	84
+	Fields:	85
+	Fields:	86
+	FileName:	87
+)
+
+(Field.81
+	Name:	"Area"
+	Btab:	80
+	Alias:	"Area"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	149
+)
+
+(Field.82
+	Name:	"Perimeter"
+	Btab:	80
+	Alias:	"Perimeter"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	149
+)
+
+(Field.83
+	Name:	"Invertgen_"
+	Btab:	80
+	Alias:	"Invertgen#"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	93
+)
+
+(Field.84
+	Name:	"Invertgen_"
+	Btab:	80
+	Alias:	"Invertgen-id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	93
+)
+
+(Field.85
+	Name:	"Id"
+	Btab:	80
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	85
+)
+
+(Field.86
+	Name:	"Rarnum"
+	Btab:	80
+	Alias:	"Rarnum"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	77
+)
+
+(FN.87
+	Path:	"$AVVA/invert.dbf"
+)
+
+(Field.88
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+	Pixels:	69
+)
+
+(Bitmap.89
+	NumBits:	283
+
+)
+
+(Link.90
+	FromVtab:	79
+	FromField:	86
+	ToVtab:	26
+	ToField:	54
+)
+
+(ShpSrc.91
+	Name:	92
+	FTab:	79
+)
+
+(SrcName.92
+	FileName:	93
+	Name:	"invert.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.93
+	Path:	"$AVVA/invert.shp"
+)
+
+(Link.94
+	FromVtab:	26
+	FromField:	54
+	ToVtab:	95
+	ToField:	102
+)
+
+(FTab.95
+	Name:	"m_mammal.dbf"
+	BTab:	96
+	Fields:	104
+	Fields:	97
+	Fields:	98
+	Fields:	99
+	Fields:	100
+	Fields:	101
+	Fields:	102
+	SelBits:	105
+	Links:	106
+	FSrc:	107
+)
+
+(dBASE.96
+	Name:	"m_mammal.dbf"
+	Fields:	97
+	Fields:	98
+	Fields:	99
+	Fields:	100
+	Fields:	101
+	Fields:	102
+	FileName:	103
+)
+
+(Field.97
+	Name:	"Area"
+	Btab:	96
+	Alias:	"Area"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	149
+)
+
+(Field.98
+	Name:	"Perimeter"
+	Btab:	96
+	Alias:	"Perimeter"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	149
+)
+
+(Field.99
+	Name:	"M_mammalge"
+	Btab:	96
+	Alias:	"M_mammalgen#"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	105
+)
+
+(Field.100
+	Name:	"M_mammalge"
+	Btab:	96
+	Alias:	"M_mammalgen-id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	113
+)
+
+(Field.101
+	Name:	"Id"
+	Btab:	96
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	85
+)
+
+(Field.102
+	Name:	"Rarnum"
+	Btab:	96
+	Alias:	"Rarnum"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	77
+)
+
+(FN.103
+	Path:	"$AVVA/m_mammal.dbf"
+)
+
+(Field.104
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+	Pixels:	69
+)
+
+(Bitmap.105
+	NumBits:	27
+
+)
+
+(Link.106
+	FromVtab:	95
+	FromField:	102
+	ToVtab:	26
+	ToField:	54
+)
+
+(ShpSrc.107
+	Name:	108
+	FTab:	95
+)
+
+(SrcName.108
+	FileName:	109
+	Name:	"m_mammal.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.109
+	Path:	"$AVVA/m_mammal.shp"
+)
+
+(Link.110
+	FromVtab:	26
+	FromField:	54
+	ToVtab:	111
+	ToField:	118
+)
+
+(FTab.111
+	Name:	"t_mammal.dbf"
+	BTab:	112
+	Fields:	120
+	Fields:	113
+	Fields:	114
+	Fields:	115
+	Fields:	116
+	Fields:	117
+	Fields:	118
+	SelBits:	121
+	Links:	122
+	FSrc:	123
+)
+
+(dBASE.112
+	Name:	"t_mammal.dbf"
+	Fields:	113
+	Fields:	114
+	Fields:	115
+	Fields:	116
+	Fields:	117
+	Fields:	118
+	FileName:	119
+)
+
+(Field.113
+	Name:	"Area"
+	Btab:	112
+	Alias:	"Area"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	149
+)
+
+(Field.114
+	Name:	"Perimeter"
+	Btab:	112
+	Alias:	"Perimeter"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	149
+)
+
+(Field.115
+	Name:	"T_mammalge"
+	Btab:	112
+	Alias:	"T_mammalgen#"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	103
+)
+
+(Field.116
+	Name:	"T_mammalge"
+	Btab:	112
+	Alias:	"T_mammalgen-id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	111
+)
+
+(Field.117
+	Name:	"Id"
+	Btab:	112
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	85
+)
+
+(Field.118
+	Name:	"Rarnum"
+	Btab:	112
+	Alias:	"Rarnum"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	77
+)
+
+(FN.119
+	Path:	"$AVVA/t_mammal.dbf"
+)
+
+(Field.120
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+	Pixels:	69
+)
+
+(Bitmap.121
+	NumBits:	12
+
+)
+
+(Link.122
+	FromVtab:	111
+	FromField:	118
+	ToVtab:	26
+	ToField:	54
+)
+
+(ShpSrc.123
+	Name:	124
+	FTab:	111
+)
+
+(SrcName.124
+	FileName:	125
+	Name:	"t_mammal.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.125
+	Path:	"$AVVA/t_mammal.shp"
+)
+
+(Link.126
+	FromVtab:	26
+	FromField:	54
+	ToVtab:	127
+	ToField:	134
+)
+
+(FTab.127
+	Name:	"habitats.dbf"
+	BTab:	128
+	Fields:	136
+	Fields:	129
+	Fields:	130
+	Fields:	131
+	Fields:	132
+	Fields:	133
+	Fields:	134
+	SelBits:	137
+	Links:	138
+	FSrc:	139
+)
+
+(dBASE.128
+	Name:	"habitats.dbf"
+	Fields:	129
+	Fields:	130
+	Fields:	131
+	Fields:	132
+	Fields:	133
+	Fields:	134
+	FileName:	135
+)
+
+(Field.129
+	Name:	"Area"
+	Btab:	128
+	Alias:	"Area"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	149
+)
+
+(Field.130
+	Name:	"Perimeter"
+	Btab:	128
+	Alias:	"Perimeter"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	149
+)
+
+(Field.131
+	Name:	"Habitatsge"
+	Btab:	128
+	Alias:	"Habitatsgen#"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	93
+)
+
+(Field.132
+	Name:	"Habitatsge"
+	Btab:	128
+	Alias:	"Habitatsgen-id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	93
+)
+
+(Field.133
+	Name:	"Id"
+	Btab:	128
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	85
+)
+
+(Field.134
+	Name:	"Rarnum"
+	Btab:	128
+	Alias:	"Rarnum"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	77
+)
+
+(FN.135
+	Path:	"$AVVA/habitats.dbf"
+)
+
+(Field.136
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+	Pixels:	69
+)
+
+(Bitmap.137
+	NumBits:	1200
+
+)
+
+(Link.138
+	FromVtab:	127
+	FromField:	134
+	ToVtab:	26
+	ToField:	54
+)
+
+(ShpSrc.139
+	Name:	140
+	FTab:	127
+)
+
+(SrcName.140
+	FileName:	141
+	Name:	"habitats.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.141
+	Path:	"$AVVA/habitats.shp"
+)
+
+(Link.142
+	FromVtab:	26
+	FromField:	54
+	ToVtab:	143
+	ToField:	150
+)
+
+(FTab.143
+	Name:	"reptiles.dbf"
+	BTab:	144
+	Fields:	152
+	Fields:	145
+	Fields:	146
+	Fields:	147
+	Fields:	148
+	Fields:	149
+	Fields:	150
+	SelBits:	153
+	Links:	154
+	FSrc:	155
+)
+
+(dBASE.144
+	Name:	"reptiles.dbf"
+	Fields:	145
+	Fields:	146
+	Fields:	147
+	Fields:	148
+	Fields:	149
+	Fields:	150
+	FileName:	151
+)
+
+(Field.145
+	Name:	"Area"
+	Btab:	144
+	Alias:	"Area"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	149
+)
+
+(Field.146
+	Name:	"Perimeter"
+	Btab:	144
+	Alias:	"Perimeter"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	149
+)
+
+(Field.147
+	Name:	"Reptilesge"
+	Btab:	144
+	Alias:	"Reptilesgen#"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	93
+)
+
+(Field.148
+	Name:	"Reptilesge"
+	Btab:	144
+	Alias:	"Reptilesgen-id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	93
+)
+
+(Field.149
+	Name:	"Id"
+	Btab:	144
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	85
+)
+
+(Field.150
+	Name:	"Rarnum"
+	Btab:	144
+	Alias:	"Rarnum"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	77
+)
+
+(FN.151
+	Path:	"$AVVA/reptiles.dbf"
+)
+
+(Field.152
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+	Pixels:	69
+)
+
+(Bitmap.153
+	NumBits:	1785
+	NumBitsSet:	2
+	Bits:	0000000c 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+
+)
+
+(Link.154
+	FromVtab:	143
+	FromField:	150
+	ToVtab:	26
+	ToField:	54
+)
+
+(ShpSrc.155
+	Name:	156
+	FTab:	143
+)
+
+(SrcName.156
+	FileName:	157
+	Name:	"reptiles.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.157
+	Path:	"$AVVA/reptiles.shp"
+)
+
+(Link.158
+	FromVtab:	26
+	FromField:	54
+	ToVtab:	159
+	ToField:	166
+)
+
+(FTab.159
+	Name:	"reptpt.dbf"
+	BTab:	160
+	Fields:	169
+	Fields:	161
+	Fields:	162
+	Fields:	163
+	Fields:	164
+	Fields:	165
+	Fields:	166
+	Fields:	167
+	SelBits:	170
+	Links:	171
+	FSrc:	172
+)
+
+(dBASE.160
+	Name:	"reptpt.dbf"
+	Fields:	161
+	Fields:	162
+	Fields:	163
+	Fields:	164
+	Fields:	165
+	Fields:	166
+	Fields:	167
+	FileName:	168
+)
+
+(Field.161
+	Name:	"Area"
+	Btab:	160
+	Alias:	"Area"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	113
+)
+
+(Field.162
+	Name:	"Perimeter"
+	Btab:	160
+	Alias:	"Perimeter"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	113
+)
+
+(Field.163
+	Name:	"Reptpt_"
+	Btab:	160
+	Alias:	"Reptpt_"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	71
+)
+
+(Field.164
+	Name:	"Reptpt_id"
+	Btab:	160
+	Alias:	"Reptpt_id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	71
+)
+
+(Field.165
+	Name:	"Id"
+	Btab:	160
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	65
+)
+
+(Field.166
+	Name:	"Rarnum"
+	Btab:	160
+	Alias:	"Rarnum"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	59
+)
+
+(Field.167
+	Name:	"Mptid"
+	Btab:	160
+	Alias:	"Mptid"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	101
+)
+
+(FN.168
+	Path:	"$AVVA/reptpt.dbf"
+)
+
+(Field.169
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.170
+	NumBits:	12
+	NumBitsSet:	3
+	Bits:	00000580 
+)
+
+(Link.171
+	FromVtab:	159
+	FromField:	166
+	ToVtab:	26
+	ToField:	54
+)
+
+(ShpSrc.172
+	Name:	173
+	FTab:	159
+)
+
+(SrcName.173
+	FileName:	174
+	Name:	"reptpt.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.174
+	Path:	"$AVVA/reptpt.shp"
+)
+
+(Link.175
+	FromVtab:	26
+	FromField:	54
+	ToVtab:	176
+	ToField:	183
+)
+
+(FTab.176
+	Name:	"nests.dbf"
+	BTab:	177
+	Fields:	185
+	Fields:	178
+	Fields:	179
+	Fields:	180
+	Fields:	181
+	Fields:	182
+	Fields:	183
+	SelBits:	186
+	Links:	187
+	FSrc:	188
+)
+
+(dBASE.177
+	Name:	"nests.dbf"
+	Fields:	178
+	Fields:	179
+	Fields:	180
+	Fields:	181
+	Fields:	182
+	Fields:	183
+	FileName:	184
+)
+
+(Field.178
+	Name:	"Area"
+	Btab:	177
+	Alias:	"Area"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	149
+)
+
+(Field.179
+	Name:	"Perimeter"
+	Btab:	177
+	Alias:	"Perimeter"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	149
+)
+
+(Field.180
+	Name:	"Nestsgen_"
+	Btab:	177
+	Alias:	"Nestsgen#"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	93
+)
+
+(Field.181
+	Name:	"Nestsgen_i"
+	Btab:	177
+	Alias:	"Nestsgen-id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	93
+)
+
+(Field.182
+	Name:	"Id"
+	Btab:	177
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	85
+)
+
+(Field.183
+	Name:	"Rarnum"
+	Btab:	177
+	Alias:	"Rarnum"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	77
+)
+
+(FN.184
+	Path:	"$AVVA/nests.dbf"
+)
+
+(Field.185
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	53
+)
+
+(Bitmap.186
+	NumBits:	632
+
+)
+
+(Link.187
+	FromVtab:	176
+	FromField:	183
+	ToVtab:	26
+	ToField:	54
+)
+
+(ShpSrc.188
+	Name:	189
+	FTab:	176
+)
+
+(SrcName.189
+	FileName:	190
+	Name:	"nests.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.190
+	Path:	"$AVVA/nests.shp"
+)
+
+(Legend.191
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	192
+	Class:	198
+	StdDevs:	1.00000000000000
+	NullSym:	199
+	NullValues:	203
+	StatValues:	204
+	Precision:	-3
+)
+
+(SymList.192
+	Child:	193
+)
+
+(BShSym.193
+	Color:	194
+	Outline:	1
+	OutlineColor:	195
+	BgColor:	196
+	Style:	0x03
+	Stipple:	197
+)
+
+(TClr.194
+	Red:	0x8800
+	Green:	0xb900
+)
+
+(TClr.195
+)
+
+(TClr.196
+	Red:	0xff00
+	Green:	0xff00
+	Blue:	0xff00
+)
+
+(Stipple.197
+	Columns:	8
+	Rows:	8
+	Bits:	c0603018 0c060381 
+)
+
+(LClass.198
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.199
+	Color:	200
+	Outline:	1
+	OutlineColor:	201
+	OutlineWidth:	0.10000000000000
+	BgColor:	202
+)
+
+(TClr.200
+	Name:	"Transparent"
+)
+
+(TClr.201
+	Name:	"Transparent"
+)
+
+(TClr.202
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.203
+)
+
+(NameDict.204
+)
+
+(Thresh.205
+)
+
+(View.206
+	Name:	"ESI"
+	CreationDate:	"Thursday, December 22, 2005 9:56:46 AM"
+	GUIName:	"View"
+	Win:	207
+	CSMgr:	208
+	DocExts:	210
+	DocExts:	211
+	Graphics:	212
+	Theme:	219
+	Theme:	453
+	Theme:	481
+	Theme:	509
+	Theme:	553
+	Theme:	597
+	Theme:	739
+	Theme:	768
+	Theme:	797
+	Theme:	826
+	Theme:	854
+	Theme:	882
+	Theme:	10
+	Theme:	910
+	Theme:	970
+	Theme:	1025
+	Theme:	1079
+	Theme:	1109
+	LastScale:	2025851.69881406870000
+	Dpy:	213
+	TOCWidth:	197
+	CoordPrecision:	2
+)
+
+(DocWin.207
+	Owner:	206
+	Open:	1
+	X:	250
+	Y:	232
+	W:	825
+	H:	516
+)
+
+(CSMgr.208
+	Client:	209
+)
+
+(CSClient.209
+	Client:	210
+	ReqName:	"ClientNfy"
+)
+
+(PanMgr.210
+	Doc:	206
+)
+
+(DocAct.211
+	Doc:	206
+)
+
+(GList.212
+	Dpy:	213
+	FormatNumb:	218
+)
+
+(MapDpy.213
+	Left:	-77.34039800621417
+	Bottom:	36.49585162652195
+	Top:	38.80001961432365
+	Right:	-74.97401762937666
+	ReportUnits:	4
+	Units:	10
+	Scale:	214
+	FrameTop:	4.97916666666667
+	FrameRight:	6.38541666666667
+	PageDpy:	215
+	FitToPage:	1
+	MouseLoc:	217
+)
+
+(Numb.214
+	N:	2.16093908648434
+)
+
+(PageDpy.215
+	Top:	4.97916666666667
+	Right:	6.38541666666667
+	ReportUnits:	1
+	Units:	1
+	Scale:	216
+	ZoomRight:	6.38541666666667
+	ZoomTop:	4.97916666666667
+	GridSpacingX:	0.25000000000000
+	GridSpacingY:	0.25000000000000
+)
+
+(Numb.216
+	N:	96.00000000000000
+)
+
+(PointD.217
+	x:	-77.62503031211679
+	y:	36.52959467236842
+)
+
+(Numb.218
+)
+
+(FTheme.219
+	Name:	"Soceconp.shp"
+	Source:	220
+	Flags:	0x04
+	Legend:	265
+	Threshold:	445
+	View:	206
+	GSet:	446
+	LegEditScript:	"View.EditLegend"
+	TxPos:	447
+	LabelField:	229
+	Table:	448
+	SnapTolCursor:	1
+)
+
+(ShpSrc.220
+	Name:	221
+	FTab:	223
+)
+
+(SrcName.221
+	FileName:	222
+	Name:	"soceconp.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.222
+	Path:	"$AVVA/soceconp.shp"
+)
+
+(FTab.223
+	Name:	"soceconp.dbf"
+	BTab:	224
+	Fields:	233
+	Fields:	225
+	Fields:	226
+	Fields:	227
+	Fields:	228
+	Fields:	229
+	Fields:	230
+	Fields:	231
+	SelBits:	234
+	Links:	235
+	FSrc:	220
+)
+
+(dBASE.224
+	Name:	"soceconp.dbf"
+	Fields:	225
+	Fields:	226
+	Fields:	227
+	Fields:	228
+	Fields:	229
+	Fields:	230
+	Fields:	231
+	FileName:	232
+)
+
+(Field.225
+	Name:	"Area"
+	Btab:	224
+	Alias:	"Area"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	149
+)
+
+(Field.226
+	Name:	"Perimeter"
+	Btab:	224
+	Alias:	"Perimeter"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	149
+)
+
+(Field.227
+	Name:	"Soceconpge"
+	Btab:	224
+	Alias:	"Soceconpgen#"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	97
+)
+
+(Field.228
+	Name:	"Soceconpge"
+	Btab:	224
+	Alias:	"Soceconpgen-id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	105
+)
+
+(Field.229
+	Name:	"Type"
+	Btab:	224
+	Alias:	"Type"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	37
+)
+
+(Field.230
+	Name:	"Id"
+	Btab:	224
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	85
+)
+
+(Field.231
+	Name:	"Hunum"
+	Btab:	224
+	Alias:	"Hunum"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	77
+)
+
+(FN.232
+	Path:	"$AVVA/soceconp.dbf"
+)
+
+(Field.233
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	53
+)
+
+(Bitmap.234
+	NumBits:	423
+
+)
+
+(Link.235
+	FromVtab:	223
+	FromField:	231
+	ToVtab:	236
+	ToField:	238
+)
+
+(VTab.236
+	Name:	"soc_dat.dbf"
+	BTab:	237
+	Fields:	238
+	Fields:	239
+	Fields:	240
+	Fields:	241
+	Fields:	242
+	Fields:	243
+	Fields:	244
+	SelBits:	246
+	Links:	247
+	Links:	248
+)
+
+(dBASE.237
+	Name:	"soc_dat.dbf"
+	Fields:	238
+	Fields:	239
+	Fields:	240
+	Fields:	241
+	Fields:	242
+	Fields:	243
+	Fields:	244
+	FileName:	245
+)
+
+(Field.238
+	Name:	"Hunum"
+	Btab:	237
+	Alias:	"Hunum"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	1
+)
+
+(Field.239
+	Name:	"Type"
+	Btab:	237
+	Alias:	"Type"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	77
+)
+
+(Field.240
+	Name:	"Name"
+	Btab:	237
+	Alias:	"Name"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	204
+)
+
+(Field.241
+	Name:	"Contact"
+	Btab:	237
+	Alias:	"Contact"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	177
+)
+
+(Field.242
+	Name:	"Phone"
+	Btab:	237
+	Alias:	"Phone"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	92
+)
+
+(Field.243
+	Name:	"G_source"
+	Btab:	237
+	Alias:	"G_source"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	19
+)
+
+(Field.244
+	Name:	"A_source"
+	Btab:	237
+	Alias:	"A_source"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	31
+)
+
+(FN.245
+	Path:	"$AVVA/soc_dat.dbf"
+)
+
+(Bitmap.246
+	NumBits:	166
+
+)
+
+(Link.247
+	FromVtab:	236
+	FromField:	238
+	ToVtab:	223
+	ToField:	231
+)
+
+(Link.248
+	FromVtab:	236
+	FromField:	238
+	ToVtab:	249
+	ToField:	257
+)
+
+(FTab.249
+	Name:	"mgt.dbf"
+	BTab:	250
+	Fields:	259
+	Fields:	251
+	Fields:	252
+	Fields:	253
+	Fields:	254
+	Fields:	255
+	Fields:	256
+	Fields:	257
+	SelBits:	260
+	Links:	261
+	FSrc:	262
+)
+
+(dBASE.250
+	Name:	"mgt.dbf"
+	Fields:	251
+	Fields:	252
+	Fields:	253
+	Fields:	254
+	Fields:	255
+	Fields:	256
+	Fields:	257
+	FileName:	258
+)
+
+(Field.251
+	Name:	"Area"
+	Btab:	250
+	Alias:	"Area"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	149
+)
+
+(Field.252
+	Name:	"Perimeter"
+	Btab:	250
+	Alias:	"Perimeter"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	149
+)
+
+(Field.253
+	Name:	"Mgtgen_"
+	Btab:	250
+	Alias:	"Mgtgen#"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	93
+)
+
+(Field.254
+	Name:	"Mgtgen_id"
+	Btab:	250
+	Alias:	"Mgtgen-id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	93
+)
+
+(Field.255
+	Name:	"Type"
+	Btab:	250
+	Alias:	"Type"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	37
+)
+
+(Field.256
+	Name:	"Id"
+	Btab:	250
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	85
+)
+
+(Field.257
+	Name:	"Hunum"
+	Btab:	250
+	Alias:	"Hunum"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	77
+)
+
+(FN.258
+	Path:	"$AVVA/mgt.dbf"
+)
+
+(Field.259
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+	Pixels:	69
+)
+
+(Bitmap.260
+	NumBits:	309
+
+)
+
+(Link.261
+	FromVtab:	249
+	FromField:	257
+	ToVtab:	236
+	ToField:	238
+)
+
+(ShpSrc.262
+	Name:	263
+	FTab:	249
+)
+
+(SrcName.263
+	FileName:	264
+	Name:	"mgt.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.264
+	Path:	"$AVVA/mgt.shp"
+)
+
+(Legend.265
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	266
+	Symbols:	267
+	Class:	426
+	Class:	427
+	Class:	428
+	Class:	429
+	Class:	430
+	Class:	431
+	Class:	432
+	Class:	433
+	Class:	434
+	Class:	435
+	StdDevs:	1.00000000000000
+	NullSym:	436
+	NullValues:	443
+	StatValues:	444
+	Precision:	-3
+)
+
+(AVStr.266
+	S:	"Type"
+)
+
+(SymList.267
+	Child:	268
+	Child:	286
+	Child:	304
+	Child:	322
+	Child:	340
+	Child:	358
+	Child:	376
+	Child:	383
+	Child:	401
+	Child:	419
+)
+
+(CMkSym.268
+	Color:	269
+	Symbols:	270
+	BgColor:	285
+	Size:	12.00000000000000
+)
+
+(TClr.269
+)
+
+(SymList.270
+	Child:	271
+	Child:	278
+)
+
+(BMkSym.271
+	Color:	272
+	ColorLock:	1
+	BgColor:	273
+	Font:	274
+	Size:	12.00000000000000
+	Pattern:	33
+	Angle:	360.00000000000000
+)
+
+(TClr.272
+)
+
+(TClr.273
+)
+
+(NFont.274
+	Family:	275
+	Name:	276
+	Style:	277
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.275
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.276
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.277
+	S:	"Normal"
+)
+
+(BMkSym.278
+	Color:	279
+	BgColor:	280
+	Font:	281
+	Size:	12.00000000000000
+	Pattern:	55
+	Angle:	360.00000000000000
+)
+
+(TClr.279
+)
+
+(TClr.280
+)
+
+(NFont.281
+	Family:	282
+	Name:	283
+	Style:	284
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.282
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.283
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.284
+	S:	"Normal"
+)
+
+(TClr.285
+)
+
+(CMkSym.286
+	Color:	287
+	Symbols:	288
+	BgColor:	303
+	Size:	12.00000000000000
+)
+
+(TClr.287
+)
+
+(SymList.288
+	Child:	289
+	Child:	296
+)
+
+(BMkSym.289
+	Color:	290
+	ColorLock:	1
+	BgColor:	291
+	Font:	292
+	Size:	12.00000000000000
+	Pattern:	33
+	Angle:	360.00000000000000
+)
+
+(TClr.290
+)
+
+(TClr.291
+	Name:	"Transparent"
+)
+
+(NFont.292
+	Family:	293
+	Name:	294
+	Style:	295
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.293
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.294
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.295
+	S:	"Normal"
+)
+
+(BMkSym.296
+	Color:	297
+	BgColor:	298
+	Font:	299
+	Size:	12.00000000000000
+	Pattern:	65
+	Angle:	360.00000000000000
+)
+
+(TClr.297
+)
+
+(TClr.298
+	Name:	"Transparent"
+)
+
+(NFont.299
+	Family:	300
+	Name:	301
+	Style:	302
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.300
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.301
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.302
+	S:	"Normal"
+)
+
+(TClr.303
+	Name:	"Transparent"
+)
+
+(CMkSym.304
+	Color:	305
+	Symbols:	306
+	BgColor:	321
+	Size:	12.00000000000000
+)
+
+(TClr.305
+)
+
+(SymList.306
+	Child:	307
+	Child:	314
+)
+
+(BMkSym.307
+	Color:	308
+	ColorLock:	1
+	BgColor:	309
+	Font:	310
+	Size:	12.00000000000000
+	Pattern:	33
+	Angle:	360.00000000000000
+)
+
+(TClr.308
+)
+
+(TClr.309
+	Name:	"Transparent"
+)
+
+(NFont.310
+	Family:	311
+	Name:	312
+	Style:	313
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.311
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.312
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.313
+	S:	"Normal"
+)
+
+(BMkSym.314
+	Color:	315
+	BgColor:	316
+	Font:	317
+	Size:	12.00000000000000
+	Pattern:	53
+	Angle:	360.00000000000000
+)
+
+(TClr.315
+)
+
+(TClr.316
+	Name:	"Transparent"
+)
+
+(NFont.317
+	Family:	318
+	Name:	319
+	Style:	320
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.318
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.319
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.320
+	S:	"Normal"
+)
+
+(TClr.321
+	Name:	"Transparent"
+)
+
+(CMkSym.322
+	Color:	323
+	Symbols:	324
+	BgColor:	339
+	Size:	12.00000000000000
+)
+
+(TClr.323
+)
+
+(SymList.324
+	Child:	325
+	Child:	332
+)
+
+(BMkSym.325
+	Color:	326
+	ColorLock:	1
+	BgColor:	327
+	Font:	328
+	Size:	12.00000000000000
+	Pattern:	33
+	Angle:	360.00000000000000
+)
+
+(TClr.326
+)
+
+(TClr.327
+	Name:	"Transparent"
+)
+
+(NFont.328
+	Family:	329
+	Name:	330
+	Style:	331
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.329
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.330
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.331
+	S:	"Normal"
+)
+
+(BMkSym.332
+	Color:	333
+	BgColor:	334
+	Font:	335
+	Size:	12.00000000000000
+	Pattern:	43
+	Angle:	360.00000000000000
+)
+
+(TClr.333
+)
+
+(TClr.334
+	Name:	"Transparent"
+)
+
+(NFont.335
+	Family:	336
+	Name:	337
+	Style:	338
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.336
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.337
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.338
+	S:	"Normal"
+)
+
+(TClr.339
+	Name:	"Transparent"
+)
+
+(CMkSym.340
+	Color:	341
+	Symbols:	342
+	BgColor:	357
+	Size:	12.00000000000000
+)
+
+(TClr.341
+)
+
+(SymList.342
+	Child:	343
+	Child:	350
+)
+
+(BMkSym.343
+	Color:	344
+	ColorLock:	1
+	BgColor:	345
+	Font:	346
+	Size:	12.00000000000000
+	Pattern:	33
+	Angle:	360.00000000000000
+)
+
+(TClr.344
+)
+
+(TClr.345
+	Name:	"Transparent"
+)
+
+(NFont.346
+	Family:	347
+	Name:	348
+	Style:	349
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.347
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.348
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.349
+	S:	"Normal"
+)
+
+(BMkSym.350
+	Color:	351
+	BgColor:	352
+	Font:	353
+	Size:	12.00000000000000
+	Pattern:	84
+	Angle:	360.00000000000000
+)
+
+(TClr.351
+)
+
+(TClr.352
+	Name:	"Transparent"
+)
+
+(NFont.353
+	Family:	354
+	Name:	355
+	Style:	356
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.354
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.355
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.356
+	S:	"Normal"
+)
+
+(TClr.357
+	Name:	"Transparent"
+)
+
+(CMkSym.358
+	Color:	359
+	Symbols:	360
+	BgColor:	375
+	Size:	12.00000000000000
+)
+
+(TClr.359
+	Red:	0xfbd
+	Green:	0x7cab
+	Blue:	0x8200
+)
+
+(SymList.360
+	Child:	361
+	Child:	368
+)
+
+(BMkSym.361
+	Color:	362
+	ColorLock:	1
+	BgColor:	363
+	Font:	364
+	Size:	12.00000000000000
+	Pattern:	33
+	Angle:	360.00000000000000
+)
+
+(TClr.362
+)
+
+(TClr.363
+	Name:	"Transparent"
+)
+
+(NFont.364
+	Family:	365
+	Name:	366
+	Style:	367
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.365
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.366
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.367
+	S:	"Normal"
+)
+
+(BMkSym.368
+	Color:	369
+	BgColor:	370
+	Font:	371
+	Size:	12.00000000000000
+	Pattern:	55
+	Angle:	360.00000000000000
+)
+
+(TClr.369
+	Red:	0xfbd
+	Green:	0x7cab
+	Blue:	0x8200
+)
+
+(TClr.370
+	Name:	"Transparent"
+)
+
+(NFont.371
+	Family:	372
+	Name:	373
+	Style:	374
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.372
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.373
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.374
+	S:	"Normal"
+)
+
+(TClr.375
+	Name:	"Transparent"
+)
+
+(BMkSym.376
+	Color:	377
+	BgColor:	378
+	Font:	379
+	Size:	10.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.377
+	Red:	0x170b
+	Green:	0xdb
+	Blue:	0xdc00
+)
+
+(TClr.378
+	Name:	"Transparent"
+)
+
+(NFont.379
+	Family:	380
+	Name:	381
+	Style:	382
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.380
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.381
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.382
+	S:	"Normal"
+)
+
+(CMkSym.383
+	Color:	384
+	Symbols:	385
+	BgColor:	400
+	Size:	12.00000000000000
+)
+
+(TClr.384
+)
+
+(SymList.385
+	Child:	386
+	Child:	393
+)
+
+(BMkSym.386
+	Color:	387
+	ColorLock:	1
+	BgColor:	388
+	Font:	389
+	Size:	12.00000000000000
+	Pattern:	33
+	Angle:	360.00000000000000
+)
+
+(TClr.387
+)
+
+(TClr.388
+	Name:	"Transparent"
+)
+
+(NFont.389
+	Family:	390
+	Name:	391
+	Style:	392
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.390
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.391
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.392
+	S:	"Normal"
+)
+
+(BMkSym.393
+	Color:	394
+	BgColor:	395
+	Font:	396
+	Size:	12.00000000000000
+	Pattern:	48
+	Angle:	360.00000000000000
+)
+
+(TClr.394
+)
+
+(TClr.395
+	Name:	"Transparent"
+)
+
+(NFont.396
+	Family:	397
+	Name:	398
+	Style:	399
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.397
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.398
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.399
+	S:	"Normal"
+)
+
+(TClr.400
+	Name:	"Transparent"
+)
+
+(CMkSym.401
+	Color:	402
+	Symbols:	403
+	BgColor:	418
+	Size:	12.00000000000000
+)
+
+(TClr.402
+)
+
+(SymList.403
+	Child:	404
+	Child:	411
+)
+
+(BMkSym.404
+	Color:	405
+	ColorLock:	1
+	BgColor:	406
+	Font:	407
+	Size:	12.00000000000000
+	Pattern:	33
+	Angle:	360.00000000000000
+)
+
+(TClr.405
+)
+
+(TClr.406
+	Name:	"Transparent"
+)
+
+(NFont.407
+	Family:	408
+	Name:	409
+	Style:	410
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.408
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.409
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.410
+	S:	"Normal"
+)
+
+(BMkSym.411
+	Color:	412
+	BgColor:	413
+	Font:	414
+	Size:	12.00000000000000
+	Pattern:	57
+	Angle:	360.00000000000000
+)
+
+(TClr.412
+)
+
+(TClr.413
+	Name:	"Transparent"
+)
+
+(NFont.414
+	Family:	415
+	Name:	416
+	Style:	417
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.415
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.416
+	S:	"ESRI Environmental & Icons"
+)
+
+(AVStr.417
+	S:	"Normal"
+)
+
+(TClr.418
+	Name:	"Transparent"
+)
+
+(BMkSym.419
+	Color:	420
+	BgColor:	421
+	Font:	422
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.420
+	Name:	"Transparent"
+)
+
+(TClr.421
+	Name:	"Transparent"
+)
+
+(NFont.422
+	Family:	423
+	Name:	424
+	Style:	425
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.423
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.424
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.425
+	S:	"Normal"
+)
+
+(LClass.426
+	IsText:	1
+	Label:	"Airport"
+	MinStr:	"A"
+	MaxStr:	"A"
+	Precision:	-3
+)
+
+(LClass.427
+	IsText:	1
+	Label:	"Aquaculture"
+	MinStr:	"AQ"
+	MaxStr:	"AQ"
+	Precision:	-3
+)
+
+(LClass.428
+	IsText:	1
+	Label:	"Beach"
+	MinStr:	"B"
+	MaxStr:	"B"
+	Precision:	-3
+)
+
+(LClass.429
+	IsText:	1
+	Label:	"Boat Ranp"
+	MinStr:	"BR"
+	MaxStr:	"BR"
+	Precision:	-3
+)
+
+(LClass.430
+	IsText:	1
+	Label:	"Coast Guard"
+	MinStr:	"CG"
+	MaxStr:	"CG"
+	Precision:	-3
+)
+
+(LClass.431
+	IsText:	1
+	Label:	"Heliport"
+	MinStr:	"HP"
+	MaxStr:	"HP"
+	Precision:	-3
+)
+
+(LClass.432
+	IsText:	1
+	Label:	"Lock/Dam"
+	MinStr:	"LD"
+	MaxStr:	"LD"
+	Precision:	-3
+)
+
+(LClass.433
+	IsText:	1
+	Label:	"Marina"
+	MinStr:	"M"
+	MaxStr:	"M"
+	Precision:	-3
+)
+
+(LClass.434
+	IsText:	1
+	Label:	"Water Intake"
+	MinStr:	"WI"
+	MaxStr:	"WI"
+	Precision:	-3
+)
+
+(LClass.435
+	IsNoData:	1
+	IsText:	1
+	Label:	"No Data"
+	Precision:	-3
+)
+
+(BMkSym.436
+	Color:	437
+	BgColor:	438
+	Font:	439
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.437
+	Name:	"Transparent"
+)
+
+(TClr.438
+	Name:	"Transparent"
+)
+
+(NFont.439
+	Family:	440
+	Name:	441
+	Style:	442
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.440
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.441
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.442
+	S:	"Normal"
+)
+
+(NameDict.443
+)
+
+(NameDict.444
+)
+
+(Thresh.445
+)
+
+(GSet.446
+)
+
+(TxPosPt.447
+	HAlign:	4
+	VAlign:	3
+)
+
+(Table.448
+	Name:	"Attributes of Soceconp.shp"
+	CreationDate:	"Thursday, December 22, 2005 2:13:59 PM"
+	GUIName:	"Table"
+	Win:	449
+	CSMgr:	450
+	DocExts:	452
+	VTab:	223
+)
+
+(DocWin.449
+	Owner:	448
+	X:	35
+	Y:	35
+	W:	365
+	H:	266
+)
+
+(CSMgr.450
+	Client:	451
+)
+
+(CSClient.451
+	Client:	219
+	ReqName:	"RespondTable"
+)
+
+(DocAct.452
+	Doc:	448
+)
+
+(FTheme.453
+	Name:	"Reptpt.shp"
+	Source:	172
+	Flags:	0x04
+	Legend:	454
+	Threshold:	473
+	View:	206
+	GSet:	474
+	LegEditScript:	"View.EditLegend"
+	TxPos:	475
+	Table:	476
+	SnapTolCursor:	1
+)
+
+(Legend.454
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	455
+	Class:	463
+	StdDevs:	1.00000000000000
+	NullSym:	464
+	NullValues:	471
+	StatValues:	472
+	Precision:	-3
+)
+
+(SymList.455
+	Child:	456
+)
+
+(BMkSym.456
+	Color:	457
+	BgColor:	458
+	Font:	459
+	Size:	10.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.457
+	Red:	0xffff
+)
+
+(TClr.458
+	Name:	"Transparent"
+)
+
+(NFont.459
+	Family:	460
+	Name:	461
+	Style:	462
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.460
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.461
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.462
+	S:	"Normal"
+)
+
+(LClass.463
+	IsText:	1
+	Precision:	-3
+)
+
+(BMkSym.464
+	Color:	465
+	BgColor:	466
+	Font:	467
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.465
+	Name:	"Transparent"
+)
+
+(TClr.466
+	Name:	"Transparent"
+)
+
+(NFont.467
+	Family:	468
+	Name:	469
+	Style:	470
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.468
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.469
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.470
+	S:	"Normal"
+)
+
+(NameDict.471
+)
+
+(NameDict.472
+)
+
+(Thresh.473
+)
+
+(GSet.474
+)
+
+(TxPosPt.475
+	HAlign:	4
+	VAlign:	3
+)
+
+(Table.476
+	Name:	"Attributes of Reptpt.shp"
+	CreationDate:	"Tuesday, July 24, 2007 11:17:03 AM"
+	GUIName:	"Table"
+	Win:	477
+	CSMgr:	478
+	DocExts:	480
+	VTab:	159
+)
+
+(DocWin.477
+	Owner:	476
+	X:	5
+	Y:	5
+	W:	365
+	H:	255
+)
+
+(CSMgr.478
+	Client:	479
+)
+
+(CSClient.479
+	Client:	453
+	ReqName:	"RespondTable"
+)
+
+(DocAct.480
+	Doc:	476
+)
+
+(FTheme.481
+	Name:	"Nests.shp"
+	Source:	188
+	Flags:	0x04
+	Legend:	482
+	Threshold:	501
+	View:	206
+	GSet:	502
+	LegEditScript:	"View.EditLegend"
+	TxPos:	503
+	Table:	504
+	SnapTolCursor:	1
+)
+
+(Legend.482
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	483
+	Class:	491
+	StdDevs:	1.00000000000000
+	NullSym:	492
+	NullValues:	499
+	StatValues:	500
+	Precision:	-3
+)
+
+(SymList.483
+	Child:	484
+)
+
+(BMkSym.484
+	Color:	485
+	BgColor:	486
+	Font:	487
+	Size:	10.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.485
+	Red:	0x8800
+	Green:	0xb900
+)
+
+(TClr.486
+	Name:	"Transparent"
+)
+
+(NFont.487
+	Family:	488
+	Name:	489
+	Style:	490
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.488
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.489
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.490
+	S:	"Normal"
+)
+
+(LClass.491
+	IsText:	1
+	Precision:	-3
+)
+
+(BMkSym.492
+	Color:	493
+	BgColor:	494
+	Font:	495
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.493
+	Name:	"Transparent"
+)
+
+(TClr.494
+	Name:	"Transparent"
+)
+
+(NFont.495
+	Family:	496
+	Name:	497
+	Style:	498
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.496
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.497
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.498
+	S:	"Normal"
+)
+
+(NameDict.499
+)
+
+(NameDict.500
+)
+
+(Thresh.501
+)
+
+(GSet.502
+)
+
+(TxPosPt.503
+	HAlign:	4
+	VAlign:	3
+)
+
+(Table.504
+	Name:	"Attributes of Nests.shp"
+	CreationDate:	"Thursday, December 22, 2005 2:13:59 PM"
+	GUIName:	"Table"
+	Win:	505
+	CSMgr:	506
+	DocExts:	508
+	VTab:	176
+)
+
+(DocWin.505
+	Owner:	504
+	X:	190
+	Y:	392
+	W:	365
+	H:	266
+)
+
+(CSMgr.506
+	Client:	507
+)
+
+(CSClient.507
+	Client:	481
+	ReqName:	"RespondTable"
+)
+
+(DocAct.508
+	Doc:	504
+)
+
+(FTheme.509
+	Name:	"Soceconl.shp"
+	Source:	510
+	Flags:	0x04
+	Legend:	526
+	Threshold:	542
+	View:	206
+	GSet:	543
+	LegEditScript:	"View.EditLegend"
+	TxPos:	544
+	LabelField:	522
+	AttrRules:	545
+	AttrRules:	546
+	AttrRules:	547
+	AttrRules:	548
+	AttrRules:	549
+	AttrRules:	550
+	AttrRules:	551
+	AttrRules:	552
+	SnapTolCursor:	1
+)
+
+(ShpSrc.510
+	Name:	511
+	FTab:	513
+)
+
+(SrcName.511
+	FileName:	512
+	Name:	"soceconl.shp"
+	SubName:	"Arc"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.512
+	Path:	"$AVVA/soceconl.shp"
+)
+
+(FTab.513
+	Name:	"soceconl.dbf"
+	BTab:	514
+	Fields:	524
+	Fields:	515
+	Fields:	516
+	Fields:	517
+	Fields:	518
+	Fields:	519
+	Fields:	520
+	Fields:	521
+	Fields:	522
+	SelBits:	525
+	FSrc:	510
+)
+
+(dBASE.514
+	Name:	"soceconl.dbf"
+	Fields:	515
+	Fields:	516
+	Fields:	517
+	Fields:	518
+	Fields:	519
+	Fields:	520
+	Fields:	521
+	Fields:	522
+	FileName:	523
+)
+
+(Field.515
+	Name:	"Fnode_"
+	Btab:	514
+	Alias:	"Fnode#"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.516
+	Name:	"Tnode_"
+	Btab:	514
+	Alias:	"Tnode#"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.517
+	Name:	"Lpoly_"
+	Btab:	514
+	Alias:	"Lpoly#"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.518
+	Name:	"Rpoly_"
+	Btab:	514
+	Alias:	"Rpoly#"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.519
+	Name:	"Length"
+	Btab:	514
+	Alias:	"Length"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.520
+	Name:	"Soceconlge"
+	Btab:	514
+	Alias:	"Soceconlgen#"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.521
+	Name:	"Soceconlge"
+	Btab:	514
+	Alias:	"Soceconlgen-id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.522
+	Name:	"Type"
+	Btab:	514
+	Alias:	"Type"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(FN.523
+	Path:	"$AVVA/soceconl.dbf"
+)
+
+(Field.524
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	18
+	Order:	-1
+)
+
+(Bitmap.525
+	NumBits:	156
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 
+)
+
+(Legend.526
+	SymType:	0x01
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	527
+	Symbols:	528
+	Class:	535
+	Class:	536
+	Class:	537
+	StdDevs:	1.00000000000000
+	NullSym:	538
+	NullValues:	540
+	StatValues:	541
+	Precision:	-3
+)
+
+(AVStr.527
+	S:	"Type"
+)
+
+(SymList.528
+	Child:	529
+	Child:	531
+	Child:	533
+)
+
+(BLnSym.529
+	Color:	530
+	Width:	0.50000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.530
+)
+
+(BLnSym.531
+	Color:	532
+	Width:	0.50000000000000
+	Pattern:	1.00000000000000
+	Pattern:	1.00000000000000
+	Pattern:	1.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	3.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.532
+)
+
+(BLnSym.533
+	Color:	534
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.534
+	Name:	"Transparent"
+)
+
+(LClass.535
+	IsText:	1
+	Label:	"Road"
+	MinStr:	"R"
+	MaxStr:	"R"
+	Precision:	-3
+)
+
+(LClass.536
+	IsText:	1
+	Label:	"State Border"
+	MinStr:	"SB"
+	MaxStr:	"SB"
+	Precision:	-3
+)
+
+(LClass.537
+	IsNoData:	1
+	IsText:	1
+	Label:	"No Data"
+	Precision:	-3
+)
+
+(BLnSym.538
+	Color:	539
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.539
+	Name:	"Transparent"
+)
+
+(NameDict.540
+)
+
+(NameDict.541
+)
+
+(Thresh.542
+)
+
+(GSet.543
+)
+
+(TxPosArc.544
+	HAlign:	3
+	VAlign:	1
+)
+
+(AttrSingle.545
+	FTab:	513
+	Field:	515
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.546
+	FTab:	513
+	Field:	516
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.547
+	FTab:	513
+	Field:	517
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.548
+	FTab:	513
+	Field:	518
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.549
+	FTab:	513
+	Field:	519
+	UnionRule:	6
+	SplitRule:	4
+)
+
+(AttrSingle.550
+	FTab:	513
+	Field:	520
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.551
+	FTab:	513
+	Field:	521
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.552
+	FTab:	513
+	Field:	522
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.553
+	Name:	"Index.shp"
+	Source:	554
+	Flags:	0x06
+	Legend:	571
+	Threshold:	585
+	View:	206
+	GSet:	586
+	LegEditScript:	"View.EditLegend"
+	TxPos:	587
+	LabelField:	563
+	AttrRules:	588
+	AttrRules:	589
+	AttrRules:	590
+	AttrRules:	591
+	AttrRules:	592
+	AttrRules:	593
+	AttrRules:	594
+	AttrRules:	595
+	AttrRules:	596
+	SnapTolCursor:	1
+)
+
+(ShpSrc.554
+	Name:	555
+	FTab:	557
+)
+
+(SrcName.555
+	FileName:	556
+	Name:	"index.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.556
+	Path:	"$AVVA/index.shp"
+)
+
+(FTab.557
+	Name:	"index.dbf"
+	BTab:	558
+	Fields:	569
+	Fields:	559
+	Fields:	560
+	Fields:	561
+	Fields:	562
+	Fields:	563
+	Fields:	564
+	Fields:	565
+	Fields:	566
+	Fields:	567
+	SelBits:	570
+	FSrc:	554
+)
+
+(dBASE.558
+	Name:	"index.dbf"
+	Fields:	559
+	Fields:	560
+	Fields:	561
+	Fields:	562
+	Fields:	563
+	Fields:	564
+	Fields:	565
+	Fields:	566
+	Fields:	567
+	FileName:	568
+)
+
+(Field.559
+	Name:	"Area"
+	Btab:	558
+	Alias:	"Area"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.560
+	Name:	"Perimeter"
+	Btab:	558
+	Alias:	"Perimeter"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.561
+	Name:	"Indexgen_"
+	Btab:	558
+	Alias:	"Indexgen#"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.562
+	Name:	"Indexgen_i"
+	Btab:	558
+	Alias:	"Indexgen-id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.563
+	Name:	"Tile_name"
+	Btab:	558
+	Alias:	"Tile-name"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.564
+	Name:	"Topo_name"
+	Btab:	558
+	Alias:	"Topo-name"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.565
+	Name:	"Scale"
+	Btab:	558
+	Alias:	"Scale"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.566
+	Name:	"Mapangle"
+	Btab:	558
+	Alias:	"Mapangle"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.567
+	Name:	"Pagesize"
+	Btab:	558
+	Alias:	"Pagesize"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(FN.568
+	Path:	"$AVVA/index.dbf"
+)
+
+(Field.569
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.570
+	NumBits:	129
+
+)
+
+(Legend.571
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	572
+	Class:	578
+	StdDevs:	1.00000000000000
+	NullSym:	579
+	NullValues:	583
+	StatValues:	584
+	Precision:	-3
+)
+
+(SymList.572
+	Child:	573
+)
+
+(BShSym.573
+	Color:	574
+	Outline:	1
+	OutlineColor:	575
+	OutlineWidth:	1.00000000000000
+	BgColor:	576
+	Style:	0x01
+	Stipple:	577
+)
+
+(TClr.574
+)
+
+(TClr.575
+)
+
+(TClr.576
+	Red:	0xff00
+	Green:	0xff00
+	Blue:	0xff00
+)
+
+(Stipple.577
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(LClass.578
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.579
+	Color:	580
+	Outline:	1
+	OutlineColor:	581
+	OutlineWidth:	0.10000000000000
+	BgColor:	582
+)
+
+(TClr.580
+	Name:	"Transparent"
+)
+
+(TClr.581
+	Name:	"Transparent"
+)
+
+(TClr.582
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.583
+)
+
+(NameDict.584
+)
+
+(Thresh.585
+)
+
+(GSet.586
+)
+
+(TxPosPly.587
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.588
+	FTab:	557
+	Field:	559
+	UnionRule:	5
+	SplitRule:	3
+)
+
+(AttrSingle.589
+	FTab:	557
+	Field:	560
+	UnionRule:	6
+	SplitRule:	4
+)
+
+(AttrSingle.590
+	FTab:	557
+	Field:	561
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.591
+	FTab:	557
+	Field:	562
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.592
+	FTab:	557
+	Field:	563
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.593
+	FTab:	557
+	Field:	564
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.594
+	FTab:	557
+	Field:	565
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.595
+	FTab:	557
+	Field:	566
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.596
+	FTab:	557
+	Field:	567
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.597
+	Name:	"Esil.shp"
+	Source:	598
+	Flags:	0x04
+	Legend:	618
+	Threshold:	724
+	View:	206
+	GSet:	725
+	LegEditScript:	"View.EditLegend"
+	TxPos:	726
+	LabelField:	610
+	AttrRules:	727
+	AttrRules:	728
+	AttrRules:	729
+	AttrRules:	730
+	AttrRules:	731
+	AttrRules:	732
+	AttrRules:	733
+	AttrRules:	734
+	AttrRules:	735
+	AttrRules:	736
+	AttrRules:	737
+	AttrRules:	738
+	SnapTolCursor:	1
+)
+
+(ShpSrc.598
+	Name:	599
+	FTab:	601
+)
+
+(SrcName.599
+	FileName:	600
+	Name:	"esil.shp"
+	SubName:	"Arc"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.600
+	Path:	"$AVVA/esil.shp"
+)
+
+(FTab.601
+	Name:	"esil.dbf"
+	BTab:	602
+	Fields:	616
+	Fields:	603
+	Fields:	604
+	Fields:	605
+	Fields:	606
+	Fields:	607
+	Fields:	608
+	Fields:	609
+	Fields:	610
+	Fields:	611
+	Fields:	612
+	Fields:	613
+	Fields:	614
+	SelBits:	617
+	FSrc:	598
+)
+
+(dBASE.602
+	Name:	"esil.dbf"
+	Fields:	603
+	Fields:	604
+	Fields:	605
+	Fields:	606
+	Fields:	607
+	Fields:	608
+	Fields:	609
+	Fields:	610
+	Fields:	611
+	Fields:	612
+	Fields:	613
+	Fields:	614
+	FileName:	615
+)
+
+(Field.603
+	Name:	"Fnode_"
+	Btab:	602
+	Alias:	"Fnode#"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.604
+	Name:	"Tnode_"
+	Btab:	602
+	Alias:	"Tnode#"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.605
+	Name:	"Lpoly_"
+	Btab:	602
+	Alias:	"Lpoly#"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.606
+	Name:	"Rpoly_"
+	Btab:	602
+	Alias:	"Rpoly#"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.607
+	Name:	"Length"
+	Btab:	602
+	Alias:	"Length"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.608
+	Name:	"Esilgen_"
+	Btab:	602
+	Alias:	"Esilgen#"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.609
+	Name:	"Esilgen_id"
+	Btab:	602
+	Alias:	"Esilgen-id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.610
+	Name:	"Esi"
+	Btab:	602
+	Alias:	"Esi"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.611
+	Name:	"Line"
+	Btab:	602
+	Alias:	"Line"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.612
+	Name:	"Source_id"
+	Btab:	602
+	Alias:	"Source_id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.613
+	Name:	"Envir"
+	Btab:	602
+	Alias:	"Envir"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.614
+	Name:	"MostSensit"
+	Btab:	602
+	Alias:	"MostSensitive"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(FN.615
+	Path:	"$AVVA/esil.dbf"
+)
+
+(Field.616
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	18
+	Order:	-1
+)
+
+(Bitmap.617
+	NumBits:	17726
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 
+)
+
+(Legend.618
+	SymType:	0x01
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	619
+	Symbols:	620
+	Class:	687
+	Class:	688
+	Class:	689
+	Class:	690
+	Class:	691
+	Class:	692
+	Class:	693
+	Class:	694
+	Class:	695
+	Class:	696
+	Class:	697
+	Class:	698
+	Class:	699
+	Class:	700
+	Class:	701
+	Class:	702
+	Class:	703
+	Class:	704
+	Class:	705
+	Class:	706
+	Class:	707
+	Class:	708
+	Class:	709
+	Class:	710
+	Class:	711
+	Class:	712
+	Class:	713
+	Class:	714
+	Class:	715
+	Class:	716
+	Class:	717
+	Class:	718
+	Class:	719
+	StdDevs:	1.00000000000000
+	NullSym:	720
+	NullValues:	722
+	StatValues:	723
+	Precision:	-3
+)
+
+(AVStr.619
+	S:	"MostSensitive"
+)
+
+(SymList.620
+	Child:	621
+	Child:	623
+	Child:	625
+	Child:	627
+	Child:	629
+	Child:	631
+	Child:	633
+	Child:	635
+	Child:	637
+	Child:	639
+	Child:	641
+	Child:	643
+	Child:	645
+	Child:	647
+	Child:	649
+	Child:	651
+	Child:	653
+	Child:	655
+	Child:	657
+	Child:	659
+	Child:	661
+	Child:	663
+	Child:	665
+	Child:	667
+	Child:	669
+	Child:	671
+	Child:	673
+	Child:	675
+	Child:	677
+	Child:	679
+	Child:	681
+	Child:	683
+	Child:	685
+)
+
+(BLnSym.621
+	Color:	622
+	Width:	4.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.622
+	Red:	0xd100
+	Green:	0x4d00
+	Blue:	0x5000
+)
+
+(BLnSym.623
+	Color:	624
+	Width:	4.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.624
+	Red:	0xd100
+	Green:	0x4d00
+	Blue:	0x5000
+)
+
+(BLnSym.625
+	Color:	626
+	Width:	4.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.626
+	Red:	0xf500
+	Green:	0xa200
+	Blue:	0xbc00
+)
+
+(BLnSym.627
+	Color:	628
+	Width:	4.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.628
+	Red:	0xf500
+	Green:	0xa200
+	Blue:	0xbc00
+)
+
+(BLnSym.629
+	Color:	630
+	Width:	4.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.630
+	Red:	0xd600
+	Blue:	0x1800
+)
+
+(BLnSym.631
+	Color:	632
+	Width:	4.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.632
+	Red:	0xd600
+	Blue:	0x1800
+)
+
+(BLnSym.633
+	Color:	634
+	Width:	4.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.634
+	Red:	0xf800
+	Green:	0xa300
+)
+
+(BLnSym.635
+	Color:	636
+	Width:	4.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.636
+	Red:	0xf800
+	Green:	0xa300
+)
+
+(BLnSym.637
+	Color:	638
+	Width:	4.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.638
+	Red:	0xf800
+	Green:	0xa300
+)
+
+(BLnSym.639
+	Color:	640
+	Width:	4.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.640
+	Red:	0xf800
+	Green:	0xa300
+)
+
+(BLnSym.641
+	Color:	642
+	Width:	4.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.642
+	Red:	0xfe00
+	Green:	0xbd00
+	Blue:	0xaa00
+)
+
+(BLnSym.643
+	Color:	644
+	Width:	4.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.644
+	Red:	0xfe00
+	Green:	0xbd00
+	Blue:	0xaa00
+)
+
+(BLnSym.645
+	Color:	646
+	Width:	4.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.646
+	Red:	0xfe00
+	Green:	0xbd00
+	Blue:	0xaa00
+)
+
+(BLnSym.647
+	Color:	648
+	Width:	4.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.648
+	Red:	0xfe00
+	Green:	0xbd00
+	Blue:	0xaa00
+)
+
+(BLnSym.649
+	Color:	650
+	Width:	4.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.650
+	Red:	0xff00
+	Green:	0xe800
+)
+
+(BLnSym.651
+	Color:	652
+	Width:	4.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.652
+	Red:	0xff00
+	Green:	0xe800
+)
+
+(BLnSym.653
+	Color:	654
+	Width:	4.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.654
+	Red:	0xd600
+	Green:	0xba00
+)
+
+(BLnSym.655
+	Color:	656
+	Width:	4.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.656
+	Red:	0xd600
+	Green:	0xba00
+)
+
+(BLnSym.657
+	Color:	658
+	Width:	4.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.658
+	Red:	0xdd00
+	Green:	0xd600
+)
+
+(BLnSym.659
+	Color:	660
+	Width:	4.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.660
+	Red:	0xdd00
+	Green:	0xd600
+)
+
+(BLnSym.661
+	Color:	662
+	Width:	4.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.662
+	Green:	0x9500
+	Blue:	0x2000
+)
+
+(BLnSym.663
+	Color:	664
+	Width:	4.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.664
+	Green:	0x9500
+	Blue:	0x2000
+)
+
+(BLnSym.665
+	Color:	666
+	Width:	4.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.666
+	Red:	0x6000
+	Green:	0x6300
+	Blue:	0xff00
+)
+
+(BLnSym.667
+	Color:	668
+	Width:	4.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.668
+	Red:	0x6000
+	Green:	0x6300
+	Blue:	0xff00
+)
+
+(BLnSym.669
+	Color:	670
+	Width:	4.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.670
+	Red:	0x9200
+	Green:	0xd100
+	Blue:	0xf100
+)
+
+(BLnSym.671
+	Color:	672
+	Width:	4.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.672
+	Red:	0x9200
+	Green:	0xd100
+	Blue:	0xf100
+)
+
+(BLnSym.673
+	Color:	674
+	Width:	4.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.674
+	Green:	0x9700
+	Blue:	0xd400
+)
+
+(BLnSym.675
+	Color:	676
+	Width:	4.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.676
+	Green:	0x9700
+	Blue:	0xd400
+)
+
+(BLnSym.677
+	Color:	678
+	Width:	4.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	2.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.678
+	Green:	0x9700
+	Blue:	0xd400
+)
+
+(BLnSym.679
+	Color:	680
+	Width:	4.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.680
+	Red:	0xae00
+	Green:	0x9900
+	Blue:	0xbf00
+)
+
+(BLnSym.681
+	Color:	682
+	Width:	4.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.682
+	Red:	0xae00
+	Green:	0x9900
+	Blue:	0xbf00
+)
+
+(BLnSym.683
+	Color:	684
+	Width:	4.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.684
+	Red:	0x7700
+	Green:	0x2600
+	Blue:	0x6900
+)
+
+(BLnSym.685
+	Color:	686
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.686
+	Name:	"Transparent"
+)
+
+(LClass.687
+	IsText:	1
+	Label:	"10C-Swamps"
+	MinStr:	"10C"
+	MaxStr:	"10C"
+	Precision:	-3
+)
+
+(LClass.688
+	IsText:	1
+	Label:	"10C+-Swamps (most sens)"
+	MinStr:	"10C+"
+	MaxStr:	"10C+"
+	Precision:	-3
+)
+
+(LClass.689
+	IsText:	1
+	Label:	"10B-Freshwater marshes"
+	MinStr:	"10B"
+	MaxStr:	"10B"
+	Precision:	-3
+)
+
+(LClass.690
+	IsText:	1
+	Label:	"10B+-Freshwater marshes (most sens)"
+	MinStr:	"10B+"
+	MaxStr:	"10B+"
+	Precision:	-3
+)
+
+(LClass.691
+	IsText:	1
+	Label:	"10A-Salt- & brackish-water marshes"
+	MinStr:	"10A"
+	MaxStr:	"10A"
+	Precision:	-3
+)
+
+(LClass.692
+	IsText:	1
+	Label:	"10A+-Salt & brackish-water marshes (most sens)"
+	MinStr:	"10A+"
+	MaxStr:	"10A+"
+	Precision:	-3
+)
+
+(LClass.693
+	IsText:	1
+	Label:	"9B-Sheltered, vegetated low banks"
+	MinStr:	"9B"
+	MaxStr:	"9B"
+	Precision:	-3
+)
+
+(LClass.694
+	IsText:	1
+	Label:	"9B+-Sheltered, vegetated low banks (most sens)"
+	MinStr:	"9B+"
+	MaxStr:	"9B+"
+	Precision:	-3
+)
+
+(LClass.695
+	IsText:	1
+	Label:	"9A-Sheltered tidal flats"
+	MinStr:	"9A"
+	MaxStr:	"9A"
+	Precision:	-3
+)
+
+(LClass.696
+	IsText:	1
+	Label:	"9A+-Sheltered tidal flats (most sens)"
+	MinStr:	"9A+"
+	MaxStr:	"9A+"
+	Precision:	-3
+)
+
+(LClass.697
+	IsText:	1
+	Label:	"8C-Sheltered riprap"
+	MinStr:	"8C"
+	MaxStr:	"8C"
+	Precision:	-3
+)
+
+(LClass.698
+	IsText:	1
+	Label:	"8C+-Sheltered riprap (most sens)"
+	MinStr:	"8C+"
+	MaxStr:	"8C+"
+	Precision:	-3
+)
+
+(LClass.699
+	IsText:	1
+	Label:	"8B-Sheltered, solid man-made structures"
+	MinStr:	"8B"
+	MaxStr:	"8B"
+	Precision:	-3
+)
+
+(LClass.700
+	IsText:	1
+	Label:	"8B+-Sheltered, solid man-made structures (most sens)"
+	MinStr:	"8B+"
+	MaxStr:	"8B+"
+	Precision:	-3
+)
+
+(LClass.701
+	IsText:	1
+	Label:	"8A-Sheltered scarps in clay"
+	MinStr:	"8A"
+	MaxStr:	"8A"
+	Precision:	-3
+)
+
+(LClass.702
+	IsText:	1
+	Label:	"8A+-Sheltered scarps in clay (most sens)"
+	MinStr:	"8A+"
+	MaxStr:	"8A+"
+	Precision:	-3
+)
+
+(LClass.703
+	IsText:	1
+	Label:	"7-Exposed tidal flats"
+	MinStr:	"7"
+	MaxStr:	"7"
+	Precision:	-3
+)
+
+(LClass.704
+	IsText:	1
+	Label:	"7+-Exposed tidal flats (most sens)"
+	MinStr:	"7+"
+	MaxStr:	"7+"
+	Precision:	-3
+)
+
+(LClass.705
+	IsText:	1
+	Label:	"6B-Riprap"
+	MinStr:	"6B"
+	MaxStr:	"6B"
+	Precision:	-3
+)
+
+(LClass.706
+	IsText:	1
+	Label:	"6B+-Riprap (most sens)"
+	MinStr:	"6B+"
+	MaxStr:	"6B+"
+	Precision:	-3
+)
+
+(LClass.707
+	IsText:	1
+	Label:	"6A-Gravel beaches"
+	MinStr:	"6A"
+	MaxStr:	"6A"
+	Precision:	-3
+)
+
+(LClass.708
+	IsText:	1
+	Label:	"6A+-Gravel beaches (most sens)"
+	MinStr:	"6A+"
+	MaxStr:	"6A+"
+	Precision:	-3
+)
+
+(LClass.709
+	IsText:	1
+	Label:	"5-Mixed sand & gravel beaches"
+	MinStr:	"5"
+	MaxStr:	"5"
+	Precision:	-3
+)
+
+(LClass.710
+	IsText:	1
+	Label:	"5+-Mixed sand & gravel beaches (most sens)"
+	MinStr:	"5+"
+	MaxStr:	"5+"
+	Precision:	-3
+)
+
+(LClass.711
+	IsText:	1
+	Label:	"4-Coarse-grained sand beaches"
+	MinStr:	"4"
+	MaxStr:	"4"
+	Precision:	-3
+)
+
+(LClass.712
+	IsText:	1
+	Label:	"4+-Coarse-grained sand beaches"
+	MinStr:	"4+"
+	MaxStr:	"4+"
+	Precision:	-3
+)
+
+(LClass.713
+	IsText:	1
+	Label:	"3B-Scarps & steep slopes in sand"
+	MinStr:	"3B"
+	MaxStr:	"3B"
+	Precision:	-3
+)
+
+(LClass.714
+	IsText:	1
+	Label:	"3A-Fine- to medium-grained sand beaches"
+	MinStr:	"3A"
+	MaxStr:	"3A"
+	Precision:	-3
+)
+
+(LClass.715
+	IsText:	1
+	Label:	"3A+-Fine- to medium-grained sand beaches (most sens)"
+	MinStr:	"3A+"
+	MaxStr:	"3A+"
+	Precision:	-3
+)
+
+(LClass.716
+	IsText:	1
+	Label:	"2B-Exposed scarps & steep slopes in clay"
+	MinStr:	"2B"
+	MaxStr:	"2B"
+	Precision:	-3
+)
+
+(LClass.717
+	IsText:	1
+	Label:	"2A-Exposed wave-cut platforms in clay"
+	MinStr:	"2A"
+	MaxStr:	"2A"
+	Precision:	-3
+)
+
+(LClass.718
+	IsText:	1
+	Label:	"1B-Exposed, solid man-made structures"
+	MinStr:	"1B"
+	MaxStr:	"1B"
+	Precision:	-3
+)
+
+(LClass.719
+	IsNoData:	1
+	IsText:	1
+	Label:	"No Data"
+	Precision:	-3
+)
+
+(BLnSym.720
+	Color:	721
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.721
+	Name:	"Transparent"
+)
+
+(NameDict.722
+)
+
+(NameDict.723
+)
+
+(Thresh.724
+)
+
+(GSet.725
+)
+
+(TxPosArc.726
+	HAlign:	3
+	VAlign:	1
+)
+
+(AttrSingle.727
+	FTab:	601
+	Field:	603
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.728
+	FTab:	601
+	Field:	604
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.729
+	FTab:	601
+	Field:	605
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.730
+	FTab:	601
+	Field:	606
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.731
+	FTab:	601
+	Field:	607
+	UnionRule:	6
+	SplitRule:	4
+)
+
+(AttrSingle.732
+	FTab:	601
+	Field:	608
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.733
+	FTab:	601
+	Field:	609
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.734
+	FTab:	601
+	Field:	610
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.735
+	FTab:	601
+	Field:	611
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.736
+	FTab:	601
+	Field:	612
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.737
+	FTab:	601
+	Field:	613
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.738
+	FTab:	601
+	Field:	614
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.739
+	Name:	"Reptiles.shp"
+	Source:	155
+	Flags:	0x04
+	Legend:	740
+	Threshold:	754
+	View:	206
+	GSet:	755
+	LegEditScript:	"View.EditLegend"
+	TxPos:	756
+	Table:	757
+	AttrRules:	762
+	AttrRules:	763
+	AttrRules:	764
+	AttrRules:	765
+	AttrRules:	766
+	AttrRules:	767
+	SnapTolCursor:	1
+)
+
+(Legend.740
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	741
+	Class:	747
+	StdDevs:	1.00000000000000
+	NullSym:	748
+	NullValues:	752
+	StatValues:	753
+	Precision:	-3
+)
+
+(SymList.741
+	Child:	742
+)
+
+(BShSym.742
+	Color:	743
+	Outline:	1
+	OutlineColor:	744
+	BgColor:	745
+	Style:	0x03
+	Stipple:	746
+)
+
+(TClr.743
+	Red:	0xd800
+	Blue:	0x4300
+)
+
+(TClr.744
+)
+
+(TClr.745
+	Red:	0xff00
+	Green:	0xff00
+	Blue:	0xff00
+)
+
+(Stipple.746
+	Columns:	8
+	Rows:	8
+	Bits:	03060c18 3060c081 
+)
+
+(LClass.747
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.748
+	Color:	749
+	Outline:	1
+	OutlineColor:	750
+	OutlineWidth:	0.10000000000000
+	BgColor:	751
+)
+
+(TClr.749
+	Name:	"Transparent"
+)
+
+(TClr.750
+	Name:	"Transparent"
+)
+
+(TClr.751
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.752
+)
+
+(NameDict.753
+)
+
+(Thresh.754
+)
+
+(GSet.755
+)
+
+(TxPosPly.756
+	HAlign:	3
+	VAlign:	3
+)
+
+(Table.757
+	Name:	"Attributes of Reptiles.shp"
+	CreationDate:	"Thursday, December 22, 2005 2:13:59 PM"
+	GUIName:	"Table"
+	Win:	758
+	CSMgr:	759
+	DocExts:	761
+	VTab:	143
+)
+
+(DocWin.758
+	Owner:	757
+	X:	5
+	Y:	5
+	W:	365
+	H:	266
+)
+
+(CSMgr.759
+	Client:	760
+)
+
+(CSClient.760
+	Client:	739
+	ReqName:	"RespondTable"
+)
+
+(DocAct.761
+	Doc:	757
+)
+
+(AttrSingle.762
+	FTab:	143
+	Field:	145
+	UnionRule:	5
+	SplitRule:	3
+)
+
+(AttrSingle.763
+	FTab:	143
+	Field:	146
+	UnionRule:	6
+	SplitRule:	4
+)
+
+(AttrSingle.764
+	FTab:	143
+	Field:	147
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.765
+	FTab:	143
+	Field:	148
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.766
+	FTab:	143
+	Field:	149
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.767
+	FTab:	143
+	Field:	150
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.768
+	Name:	"Habitats.shp"
+	Source:	139
+	Flags:	0x04
+	Legend:	769
+	Threshold:	783
+	View:	206
+	GSet:	784
+	LegEditScript:	"View.EditLegend"
+	TxPos:	785
+	Table:	786
+	AttrRules:	791
+	AttrRules:	792
+	AttrRules:	793
+	AttrRules:	794
+	AttrRules:	795
+	AttrRules:	796
+	SnapTolCursor:	1
+)
+
+(Legend.769
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	770
+	Class:	776
+	StdDevs:	1.00000000000000
+	NullSym:	777
+	NullValues:	781
+	StatValues:	782
+	Precision:	-3
+)
+
+(SymList.770
+	Child:	771
+)
+
+(BShSym.771
+	Color:	772
+	Outline:	1
+	OutlineColor:	773
+	BgColor:	774
+	Style:	0x03
+	Stipple:	775
+)
+
+(TClr.772
+	Red:	0xa800
+	Blue:	0x6600
+)
+
+(TClr.773
+)
+
+(TClr.774
+	Red:	0xff00
+	Green:	0xff00
+	Blue:	0xff00
+)
+
+(Stipple.775
+	Columns:	8
+	Rows:	8
+	Bits:	0000ff00 0000ff00 
+)
+
+(LClass.776
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.777
+	Color:	778
+	Outline:	1
+	OutlineColor:	779
+	OutlineWidth:	0.10000000000000
+	BgColor:	780
+)
+
+(TClr.778
+	Name:	"Transparent"
+)
+
+(TClr.779
+	Name:	"Transparent"
+)
+
+(TClr.780
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.781
+)
+
+(NameDict.782
+)
+
+(Thresh.783
+)
+
+(GSet.784
+)
+
+(TxPosPly.785
+	HAlign:	3
+	VAlign:	3
+)
+
+(Table.786
+	Name:	"Attributes of Habitats.shp"
+	CreationDate:	"Thursday, December 22, 2005 2:13:58 PM"
+	GUIName:	"Table"
+	Win:	787
+	CSMgr:	788
+	DocExts:	790
+	VTab:	127
+)
+
+(DocWin.787
+	Owner:	786
+	X:	95
+	Y:	95
+	W:	365
+	H:	266
+)
+
+(CSMgr.788
+	Client:	789
+)
+
+(CSClient.789
+	Client:	768
+	ReqName:	"RespondTable"
+)
+
+(DocAct.790
+	Doc:	786
+)
+
+(AttrSingle.791
+	FTab:	127
+	Field:	129
+	UnionRule:	5
+	SplitRule:	3
+)
+
+(AttrSingle.792
+	FTab:	127
+	Field:	130
+	UnionRule:	6
+	SplitRule:	4
+)
+
+(AttrSingle.793
+	FTab:	127
+	Field:	131
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.794
+	FTab:	127
+	Field:	132
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.795
+	FTab:	127
+	Field:	133
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.796
+	FTab:	127
+	Field:	134
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.797
+	Name:	"T_mammal.shp"
+	Source:	123
+	Flags:	0x04
+	Legend:	798
+	Threshold:	812
+	View:	206
+	GSet:	813
+	LegEditScript:	"View.EditLegend"
+	TxPos:	814
+	Table:	815
+	AttrRules:	820
+	AttrRules:	821
+	AttrRules:	822
+	AttrRules:	823
+	AttrRules:	824
+	AttrRules:	825
+	SnapTolCursor:	1
+)
+
+(Legend.798
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	799
+	Class:	805
+	StdDevs:	1.00000000000000
+	NullSym:	806
+	NullValues:	810
+	StatValues:	811
+	Precision:	-3
+)
+
+(SymList.799
+	Child:	800
+)
+
+(BShSym.800
+	Color:	801
+	Outline:	1
+	OutlineColor:	802
+	BgColor:	803
+	Style:	0x03
+	Stipple:	804
+)
+
+(TClr.801
+	Red:	0xd700
+	Green:	0x9900
+	Blue:	0x3400
+)
+
+(TClr.802
+)
+
+(TClr.803
+	Red:	0xff00
+	Green:	0xff00
+	Blue:	0xff00
+)
+
+(Stipple.804
+	Columns:	8
+	Rows:	8
+	Bits:	30303030 30303030 
+)
+
+(LClass.805
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.806
+	Color:	807
+	Outline:	1
+	OutlineColor:	808
+	OutlineWidth:	0.10000000000000
+	BgColor:	809
+)
+
+(TClr.807
+	Name:	"Transparent"
+)
+
+(TClr.808
+	Name:	"Transparent"
+)
+
+(TClr.809
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.810
+)
+
+(NameDict.811
+)
+
+(Thresh.812
+)
+
+(GSet.813
+)
+
+(TxPosPly.814
+	HAlign:	3
+	VAlign:	3
+)
+
+(Table.815
+	Name:	"Attributes of T_mammal.shp"
+	CreationDate:	"Thursday, December 22, 2005 2:13:58 PM"
+	GUIName:	"Table"
+	Win:	816
+	CSMgr:	817
+	DocExts:	819
+	VTab:	111
+)
+
+(DocWin.816
+	Owner:	815
+	X:	80
+	Y:	80
+	W:	365
+	H:	266
+)
+
+(CSMgr.817
+	Client:	818
+)
+
+(CSClient.818
+	Client:	797
+	ReqName:	"RespondTable"
+)
+
+(DocAct.819
+	Doc:	815
+)
+
+(AttrSingle.820
+	FTab:	111
+	Field:	113
+	UnionRule:	5
+	SplitRule:	3
+)
+
+(AttrSingle.821
+	FTab:	111
+	Field:	114
+	UnionRule:	6
+	SplitRule:	4
+)
+
+(AttrSingle.822
+	FTab:	111
+	Field:	115
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.823
+	FTab:	111
+	Field:	116
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.824
+	FTab:	111
+	Field:	117
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.825
+	FTab:	111
+	Field:	118
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.826
+	Name:	"M_mammal.shp"
+	Source:	107
+	Flags:	0x04
+	Legend:	827
+	Threshold:	840
+	View:	206
+	GSet:	841
+	LegEditScript:	"View.EditLegend"
+	TxPos:	842
+	Table:	843
+	AttrRules:	848
+	AttrRules:	849
+	AttrRules:	850
+	AttrRules:	851
+	AttrRules:	852
+	AttrRules:	853
+	SnapTolCursor:	1
+)
+
+(Legend.827
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	828
+	Class:	833
+	StdDevs:	1.00000000000000
+	NullSym:	834
+	NullValues:	838
+	StatValues:	839
+	Precision:	-3
+)
+
+(SymList.828
+	Child:	829
+)
+
+(BShSym.829
+	Color:	830
+	Outline:	1
+	OutlineColor:	831
+	BgColor:	832
+	Style:	0x03
+	Stipple:	775
+)
+
+(TClr.830
+	Red:	0xd700
+	Green:	0x9900
+	Blue:	0x3400
+)
+
+(TClr.831
+)
+
+(TClr.832
+	Red:	0xff00
+	Green:	0xff00
+	Blue:	0xff00
+)
+
+(LClass.833
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.834
+	Color:	835
+	Outline:	1
+	OutlineColor:	836
+	OutlineWidth:	0.10000000000000
+	BgColor:	837
+)
+
+(TClr.835
+	Name:	"Transparent"
+)
+
+(TClr.836
+	Name:	"Transparent"
+)
+
+(TClr.837
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.838
+)
+
+(NameDict.839
+)
+
+(Thresh.840
+)
+
+(GSet.841
+)
+
+(TxPosPly.842
+	HAlign:	3
+	VAlign:	3
+)
+
+(Table.843
+	Name:	"Attributes of M_mammal.shp"
+	CreationDate:	"Thursday, December 22, 2005 2:13:58 PM"
+	GUIName:	"Table"
+	Win:	844
+	CSMgr:	845
+	DocExts:	847
+	VTab:	95
+)
+
+(DocWin.844
+	Owner:	843
+	X:	65
+	Y:	65
+	W:	365
+	H:	266
+)
+
+(CSMgr.845
+	Client:	846
+)
+
+(CSClient.846
+	Client:	826
+	ReqName:	"RespondTable"
+)
+
+(DocAct.847
+	Doc:	843
+)
+
+(AttrSingle.848
+	FTab:	95
+	Field:	97
+	UnionRule:	5
+	SplitRule:	3
+)
+
+(AttrSingle.849
+	FTab:	95
+	Field:	98
+	UnionRule:	6
+	SplitRule:	4
+)
+
+(AttrSingle.850
+	FTab:	95
+	Field:	99
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.851
+	FTab:	95
+	Field:	100
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.852
+	FTab:	95
+	Field:	101
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.853
+	FTab:	95
+	Field:	102
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.854
+	Name:	"Invert.shp"
+	Source:	91
+	Flags:	0x04
+	Legend:	855
+	Threshold:	868
+	View:	206
+	GSet:	869
+	LegEditScript:	"View.EditLegend"
+	TxPos:	870
+	Table:	871
+	AttrRules:	876
+	AttrRules:	877
+	AttrRules:	878
+	AttrRules:	879
+	AttrRules:	880
+	AttrRules:	881
+	SnapTolCursor:	1
+)
+
+(Legend.855
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	856
+	Class:	861
+	StdDevs:	1.00000000000000
+	NullSym:	862
+	NullValues:	866
+	StatValues:	867
+	Precision:	-3
+)
+
+(SymList.856
+	Child:	857
+)
+
+(BShSym.857
+	Color:	858
+	Outline:	1
+	OutlineColor:	859
+	BgColor:	860
+	Style:	0x03
+	Stipple:	197
+)
+
+(TClr.858
+	Red:	0xff00
+	Green:	0xb800
+)
+
+(TClr.859
+)
+
+(TClr.860
+	Red:	0xff00
+	Green:	0xff00
+	Blue:	0xff00
+)
+
+(LClass.861
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.862
+	Color:	863
+	Outline:	1
+	OutlineColor:	864
+	OutlineWidth:	0.10000000000000
+	BgColor:	865
+)
+
+(TClr.863
+	Name:	"Transparent"
+)
+
+(TClr.864
+	Name:	"Transparent"
+)
+
+(TClr.865
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.866
+)
+
+(NameDict.867
+)
+
+(Thresh.868
+)
+
+(GSet.869
+)
+
+(TxPosPly.870
+	HAlign:	3
+	VAlign:	3
+)
+
+(Table.871
+	Name:	"Attributes of Invert.shp"
+	CreationDate:	"Thursday, December 22, 2005 2:13:58 PM"
+	GUIName:	"Table"
+	Win:	872
+	CSMgr:	873
+	DocExts:	875
+	VTab:	79
+)
+
+(DocWin.872
+	Owner:	871
+	X:	50
+	Y:	50
+	W:	365
+	H:	266
+)
+
+(CSMgr.873
+	Client:	874
+)
+
+(CSClient.874
+	Client:	854
+	ReqName:	"RespondTable"
+)
+
+(DocAct.875
+	Doc:	871
+)
+
+(AttrSingle.876
+	FTab:	79
+	Field:	81
+	UnionRule:	5
+	SplitRule:	3
+)
+
+(AttrSingle.877
+	FTab:	79
+	Field:	82
+	UnionRule:	6
+	SplitRule:	4
+)
+
+(AttrSingle.878
+	FTab:	79
+	Field:	83
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.879
+	FTab:	79
+	Field:	84
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.880
+	FTab:	79
+	Field:	85
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.881
+	FTab:	79
+	Field:	86
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.882
+	Name:	"Fish.shp"
+	Source:	75
+	Flags:	0x04
+	Legend:	883
+	Threshold:	896
+	View:	206
+	GSet:	897
+	LegEditScript:	"View.EditLegend"
+	TxPos:	898
+	Table:	899
+	AttrRules:	904
+	AttrRules:	905
+	AttrRules:	906
+	AttrRules:	907
+	AttrRules:	908
+	AttrRules:	909
+	SnapTolCursor:	1
+)
+
+(Legend.883
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	884
+	Class:	889
+	StdDevs:	1.00000000000000
+	NullSym:	890
+	NullValues:	894
+	StatValues:	895
+	Precision:	-3
+)
+
+(SymList.884
+	Child:	885
+)
+
+(BShSym.885
+	Color:	886
+	Outline:	1
+	OutlineColor:	887
+	BgColor:	888
+	Style:	0x03
+	Stipple:	746
+)
+
+(TClr.886
+	Green:	0x9f00
+	Blue:	0xe600
+)
+
+(TClr.887
+)
+
+(TClr.888
+	Red:	0xff00
+	Green:	0xff00
+	Blue:	0xff00
+)
+
+(LClass.889
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.890
+	Color:	891
+	Outline:	1
+	OutlineColor:	892
+	OutlineWidth:	0.10000000000000
+	BgColor:	893
+)
+
+(TClr.891
+	Name:	"Transparent"
+)
+
+(TClr.892
+	Name:	"Transparent"
+)
+
+(TClr.893
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.894
+)
+
+(NameDict.895
+)
+
+(Thresh.896
+)
+
+(GSet.897
+)
+
+(TxPosPly.898
+	HAlign:	3
+	VAlign:	3
+)
+
+(Table.899
+	Name:	"Attributes of Fish.shp"
+	CreationDate:	"Thursday, December 22, 2005 2:13:58 PM"
+	GUIName:	"Table"
+	Win:	900
+	CSMgr:	901
+	DocExts:	903
+	VTab:	63
+)
+
+(DocWin.900
+	Owner:	899
+	X:	35
+	Y:	35
+	W:	365
+	H:	266
+)
+
+(CSMgr.901
+	Client:	902
+)
+
+(CSClient.902
+	Client:	882
+	ReqName:	"RespondTable"
+)
+
+(DocAct.903
+	Doc:	899
+)
+
+(AttrSingle.904
+	FTab:	63
+	Field:	65
+	UnionRule:	5
+	SplitRule:	3
+)
+
+(AttrSingle.905
+	FTab:	63
+	Field:	66
+	UnionRule:	6
+	SplitRule:	4
+)
+
+(AttrSingle.906
+	FTab:	63
+	Field:	67
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.907
+	FTab:	63
+	Field:	68
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.908
+	FTab:	63
+	Field:	69
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.909
+	FTab:	63
+	Field:	70
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.910
+	Name:	"Mgt.shp"
+	Source:	262
+	Flags:	0x04
+	Legend:	911
+	Threshold:	955
+	View:	206
+	GSet:	956
+	LegEditScript:	"View.EditLegend"
+	TxPos:	957
+	LabelField:	255
+	Table:	958
+	AttrRules:	963
+	AttrRules:	964
+	AttrRules:	965
+	AttrRules:	966
+	AttrRules:	967
+	AttrRules:	968
+	AttrRules:	969
+	SnapTolCursor:	1
+)
+
+(Legend.911
+	SymType:	0x02
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	912
+	Symbols:	913
+	Class:	943
+	Class:	944
+	Class:	945
+	Class:	946
+	Class:	947
+	Class:	948
+	StdDevs:	1.00000000000000
+	NullSym:	949
+	NullValues:	953
+	StatValues:	954
+	Precision:	-3
+)
+
+(AVStr.912
+	S:	"Type"
+)
+
+(SymList.913
+	Child:	914
+	Child:	919
+	Child:	924
+	Child:	929
+	Child:	934
+	Child:	939
+)
+
+(BShSym.914
+	Color:	915
+	Outline:	1
+	OutlineColor:	916
+	OutlineWidth:	0.10000000000000
+	BgColor:	917
+	Style:	0x03
+	Stipple:	918
+)
+
+(TClr.915
+	Blue:	0xffff
+)
+
+(TClr.916
+	Blue:	0xffff
+)
+
+(TClr.917
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(Stipple.918
+	Columns:	8
+	Rows:	8
+	Bits:	00182442 42241800 
+)
+
+(BShSym.919
+	Color:	920
+	Outline:	1
+	OutlineColor:	921
+	OutlineWidth:	0.10000000000000
+	BgColor:	922
+	Style:	0x03
+	Stipple:	923
+)
+
+(TClr.920
+)
+
+(TClr.921
+)
+
+(TClr.922
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(Stipple.923
+	Columns:	8
+	Rows:	8
+	Bits:	44221188 44221188 
+)
+
+(BShSym.924
+	Color:	925
+	Outline:	1
+	OutlineColor:	926
+	OutlineWidth:	0.10000000000000
+	BgColor:	927
+	Style:	0x03
+	Stipple:	928
+)
+
+(TClr.925
+	Red:	0xbb00
+	Green:	0xa69d
+	Blue:	0xba
+)
+
+(TClr.926
+	Red:	0xbb00
+	Green:	0xa69d
+	Blue:	0xba
+)
+
+(TClr.927
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(Stipple.928
+	Columns:	8
+	Rows:	8
+	Bits:	00205000 00020500 
+)
+
+(BShSym.929
+	Color:	930
+	Outline:	1
+	OutlineColor:	931
+	OutlineWidth:	0.10000000000000
+	BgColor:	932
+	Style:	0x03
+	Stipple:	933
+)
+
+(TClr.930
+	Red:	0x299
+	Green:	0xdc00
+	Blue:	0xdb
+)
+
+(TClr.931
+	Red:	0x299
+	Green:	0xdc00
+	Blue:	0xdb
+)
+
+(TClr.932
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(Stipple.933
+	Columns:	8
+	Rows:	8
+	Bits:	00205000 00020500 
+)
+
+(BShSym.934
+	Color:	935
+	Outline:	1
+	OutlineColor:	936
+	OutlineWidth:	0.10000000000000
+	BgColor:	937
+	Style:	0x03
+	Stipple:	938
+)
+
+(TClr.935
+	Red:	0xceff
+	Green:	0xc355
+	Blue:	0x9596
+)
+
+(TClr.936
+	Red:	0xffff
+)
+
+(TClr.937
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(Stipple.938
+	Columns:	8
+	Rows:	8
+	Bits:	44880000 22110000 
+)
+
+(BShSym.939
+	Color:	940
+	Outline:	1
+	OutlineColor:	941
+	OutlineWidth:	0.10000000000000
+	BgColor:	942
+)
+
+(TClr.940
+	Name:	"Transparent"
+)
+
+(TClr.941
+	Name:	"Transparent"
+)
+
+(TClr.942
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.943
+	IsText:	1
+	Label:	"Managed area"
+	MinStr:	"MA"
+	MaxStr:	"MA"
+	Precision:	-3
+)
+
+(LClass.944
+	IsText:	1
+	Label:	"Multiple types"
+	MinStr:	"MR"
+	MaxStr:	"MR"
+	Precision:	-3
+)
+
+(LClass.945
+	IsText:	1
+	Label:	"National Park"
+	MinStr:	"NP"
+	MaxStr:	"NP"
+	Precision:	-3
+)
+
+(LClass.946
+	IsText:	1
+	Label:	"Park"
+	MinStr:	"P"
+	MaxStr:	"P"
+	Precision:	-3
+)
+
+(LClass.947
+	IsText:	1
+	Label:	"Wildlife refuge"
+	MinStr:	"WR"
+	MaxStr:	"WR"
+	Precision:	-3
+)
+
+(LClass.948
+	IsNoData:	1
+	IsText:	1
+	Label:	"No Data"
+	Precision:	-3
+)
+
+(BShSym.949
+	Color:	950
+	Outline:	1
+	OutlineColor:	951
+	OutlineWidth:	0.10000000000000
+	BgColor:	952
+)
+
+(TClr.950
+	Name:	"Transparent"
+)
+
+(TClr.951
+	Name:	"Transparent"
+)
+
+(TClr.952
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.953
+)
+
+(NameDict.954
+)
+
+(Thresh.955
+)
+
+(GSet.956
+)
+
+(TxPosPly.957
+	HAlign:	3
+	VAlign:	3
+)
+
+(Table.958
+	Name:	"Attributes of Mgt.shp"
+	CreationDate:	"Thursday, December 22, 2005 2:13:59 PM"
+	GUIName:	"Table"
+	Win:	959
+	CSMgr:	960
+	DocExts:	962
+	VTab:	249
+)
+
+(DocWin.959
+	Owner:	958
+	X:	50
+	Y:	50
+	W:	365
+	H:	266
+)
+
+(CSMgr.960
+	Client:	961
+)
+
+(CSClient.961
+	Client:	910
+	ReqName:	"RespondTable"
+)
+
+(DocAct.962
+	Doc:	958
+)
+
+(AttrSingle.963
+	FTab:	249
+	Field:	251
+	UnionRule:	5
+	SplitRule:	3
+)
+
+(AttrSingle.964
+	FTab:	249
+	Field:	252
+	UnionRule:	6
+	SplitRule:	4
+)
+
+(AttrSingle.965
+	FTab:	249
+	Field:	253
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.966
+	FTab:	249
+	Field:	254
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.967
+	FTab:	249
+	Field:	255
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.968
+	FTab:	249
+	Field:	256
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.969
+	FTab:	249
+	Field:	257
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.970
+	Name:	"Esip.shp"
+	Source:	971
+	Flags:	0x04
+	Legend:	986
+	Threshold:	1010
+	View:	206
+	GSet:	1011
+	LegEditScript:	"View.EditLegend"
+	TxPos:	1012
+	LabelField:	980
+	Table:	1013
+	AttrRules:	1018
+	AttrRules:	1019
+	AttrRules:	1020
+	AttrRules:	1021
+	AttrRules:	1022
+	AttrRules:	1023
+	AttrRules:	1024
+	SnapTolCursor:	1
+)
+
+(ShpSrc.971
+	Name:	972
+	FTab:	974
+)
+
+(SrcName.972
+	FileName:	973
+	Name:	"esip.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.973
+	Path:	"$AVVA/esip.shp"
+)
+
+(FTab.974
+	Name:	"esip.dbf"
+	BTab:	975
+	Fields:	984
+	Fields:	976
+	Fields:	977
+	Fields:	978
+	Fields:	979
+	Fields:	980
+	Fields:	981
+	Fields:	982
+	SelBits:	985
+	FSrc:	971
+)
+
+(dBASE.975
+	Name:	"esip.dbf"
+	Fields:	976
+	Fields:	977
+	Fields:	978
+	Fields:	979
+	Fields:	980
+	Fields:	981
+	Fields:	982
+	FileName:	983
+)
+
+(Field.976
+	Name:	"Area"
+	Btab:	975
+	Alias:	"Area"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	131
+)
+
+(Field.977
+	Name:	"Perimeter"
+	Btab:	975
+	Alias:	"Perimeter"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	131
+)
+
+(Field.978
+	Name:	"Esip_"
+	Btab:	975
+	Alias:	"Esip#"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	82
+)
+
+(Field.979
+	Name:	"Esip_id"
+	Btab:	975
+	Alias:	"Esip-id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	82
+)
+
+(Field.980
+	Name:	"Esi"
+	Btab:	975
+	Alias:	"Esi"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	75
+)
+
+(Field.981
+	Name:	"Water_code"
+	Btab:	975
+	Alias:	"Water_code"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	75
+)
+
+(Field.982
+	Name:	"Envir"
+	Btab:	975
+	Alias:	"Envir"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	33
+)
+
+(FN.983
+	Path:	"$AVVA/esip.dbf"
+)
+
+(Field.984
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+	Pixels:	61
+)
+
+(Bitmap.985
+	NumBits:	414
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 
+)
+
+(Legend.986
+	SymType:	0x02
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	987
+	Symbols:	988
+	Class:	1001
+	Class:	1002
+	Class:	1003
+	StdDevs:	1.00000000000000
+	NullSym:	1004
+	NullValues:	1008
+	StatValues:	1009
+	Precision:	-3
+)
+
+(AVStr.987
+	S:	"Esi"
+)
+
+(SymList.988
+	Child:	989
+	Child:	993
+	Child:	997
+)
+
+(BShSym.989
+	Color:	990
+	Outline:	1
+	OutlineColor:	991
+	OutlineWidth:	0.10000000000000
+	BgColor:	992
+)
+
+(TClr.990
+	Red:	0xd5ff
+	Green:	0xb9ac
+	Blue:	0xd5
+)
+
+(TClr.991
+)
+
+(TClr.992
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.993
+	Color:	994
+	Outline:	1
+	OutlineColor:	995
+	OutlineWidth:	0.10000000000000
+	BgColor:	996
+)
+
+(TClr.994
+	Red:	0xf7ff
+	Green:	0xa311
+	Blue:	0xf7
+)
+
+(TClr.995
+)
+
+(TClr.996
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.997
+	Color:	998
+	Outline:	1
+	OutlineColor:	999
+	OutlineWidth:	0.10000000000000
+	BgColor:	1000
+)
+
+(TClr.998
+	Name:	"Transparent"
+)
+
+(TClr.999
+	Name:	"Transparent"
+)
+
+(TClr.1000
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.1001
+	IsText:	1
+	Label:	"7-Exposed tidal flats"
+	MinStr:	"7"
+	MaxStr:	"7"
+	Precision:	-3
+)
+
+(LClass.1002
+	IsText:	1
+	Label:	"9A-Sheltered tidal flats"
+	MinStr:	"9A"
+	MaxStr:	"9A"
+	Precision:	-3
+)
+
+(LClass.1003
+	IsNoData:	1
+	IsText:	1
+	Label:	"No Data"
+	Precision:	-3
+)
+
+(BShSym.1004
+	Color:	1005
+	Outline:	1
+	OutlineColor:	1006
+	OutlineWidth:	0.10000000000000
+	BgColor:	1007
+)
+
+(TClr.1005
+	Name:	"Transparent"
+)
+
+(TClr.1006
+	Name:	"Transparent"
+)
+
+(TClr.1007
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.1008
+)
+
+(NameDict.1009
+)
+
+(Thresh.1010
+)
+
+(GSet.1011
+)
+
+(TxPosPly.1012
+	HAlign:	3
+	VAlign:	3
+)
+
+(Table.1013
+	Name:	"Attributes of Esip.shp"
+	CreationDate:	"Thursday, December 22, 2005 2:24:52 PM"
+	GUIName:	"Table"
+	Win:	1014
+	CSMgr:	1015
+	DocExts:	1017
+	VTab:	974
+)
+
+(DocWin.1014
+	Owner:	1013
+	X:	65
+	Y:	65
+	W:	871
+	H:	260
+)
+
+(CSMgr.1015
+	Client:	1016
+)
+
+(CSClient.1016
+	Client:	970
+	ReqName:	"RespondTable"
+)
+
+(DocAct.1017
+	Doc:	1013
+)
+
+(AttrSingle.1018
+	FTab:	974
+	Field:	976
+	UnionRule:	5
+	SplitRule:	3
+)
+
+(AttrSingle.1019
+	FTab:	974
+	Field:	977
+	UnionRule:	6
+	SplitRule:	4
+)
+
+(AttrSingle.1020
+	FTab:	974
+	Field:	978
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1021
+	FTab:	974
+	Field:	979
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1022
+	FTab:	974
+	Field:	980
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1023
+	FTab:	974
+	Field:	981
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1024
+	FTab:	974
+	Field:	982
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.1025
+	Name:	"Wetlands.shp"
+	Source:	1026
+	Flags:	0x04
+	Legend:	1039
+	Threshold:	1071
+	View:	206
+	GSet:	1072
+	LegEditScript:	"View.EditLegend"
+	TxPos:	1073
+	LabelField:	1035
+	AttrRules:	1074
+	AttrRules:	1075
+	AttrRules:	1076
+	AttrRules:	1077
+	AttrRules:	1078
+	SnapTolCursor:	1
+)
+
+(ShpSrc.1026
+	Name:	1027
+	FTab:	1029
+)
+
+(SrcName.1027
+	FileName:	1028
+	Name:	"wetlands.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.1028
+	Path:	"$AVVA/wetlands.shp"
+)
+
+(FTab.1029
+	Name:	"wetlands.dbf"
+	BTab:	1030
+	Fields:	1037
+	Fields:	1031
+	Fields:	1032
+	Fields:	1033
+	Fields:	1034
+	Fields:	1035
+	SelBits:	1038
+	FSrc:	1026
+)
+
+(dBASE.1030
+	Name:	"wetlands.dbf"
+	Fields:	1031
+	Fields:	1032
+	Fields:	1033
+	Fields:	1034
+	Fields:	1035
+	FileName:	1036
+)
+
+(Field.1031
+	Name:	"Area"
+	Btab:	1030
+	Alias:	"Area"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.1032
+	Name:	"Perimeter"
+	Btab:	1030
+	Alias:	"Perimeter"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.1033
+	Name:	"Wetlands_"
+	Btab:	1030
+	Alias:	"Wetlands#"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.1034
+	Name:	"Wetlands_i"
+	Btab:	1030
+	Alias:	"Wetlands-id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.1035
+	Name:	"Esi"
+	Btab:	1030
+	Alias:	"Esi"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(FN.1036
+	Path:	"$AVVA/wetlands.dbf"
+)
+
+(Field.1037
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.1038
+	NumBits:	16631
+
+)
+
+(Legend.1039
+	SymType:	0x02
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	1040
+	Symbols:	1041
+	Class:	1061
+	Class:	1062
+	Class:	1063
+	Class:	1064
+	StdDevs:	1.00000000000000
+	NullSym:	1065
+	NullValues:	1069
+	StatValues:	1070
+	Precision:	-3
+)
+
+(AVStr.1040
+	S:	"Esi"
+)
+
+(SymList.1041
+	Child:	1042
+	Child:	1047
+	Child:	1052
+	Child:	1057
+)
+
+(BShSym.1042
+	Color:	1043
+	Outline:	1
+	OutlineColor:	1044
+	OutlineWidth:	0.10000000000000
+	BgColor:	1045
+	Style:	0x03
+	Stipple:	1046
+)
+
+(TClr.1043
+	Red:	0xd5ff
+	Green:	0xd5
+	Blue:	0x19e8
+)
+
+(TClr.1044
+)
+
+(TClr.1045
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(Stipple.1046
+	Columns:	8
+	Rows:	8
+	Bits:	d8c60660 6c8d8118 
+)
+
+(BShSym.1047
+	Color:	1048
+	Outline:	1
+	OutlineColor:	1049
+	OutlineWidth:	0.10000000000000
+	BgColor:	1050
+	Style:	0x03
+	Stipple:	1051
+)
+
+(TClr.1048
+	Red:	0xf4ff
+	Green:	0xa2b1
+	Blue:	0xbdbc
+)
+
+(TClr.1049
+)
+
+(TClr.1050
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(Stipple.1051
+	Columns:	8
+	Rows:	8
+	Bits:	7cbbc4c7 c7bb4c7c 
+)
+
+(BShSym.1052
+	Color:	1053
+	Outline:	1
+	OutlineColor:	1054
+	OutlineWidth:	0.10000000000000
+	BgColor:	1055
+	Style:	0x03
+	Stipple:	1056
+)
+
+(TClr.1053
+	Red:	0x9797
+	Green:	0x4747
+	Blue:	0x4949
+)
+
+(TClr.1054
+)
+
+(TClr.1055
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(Stipple.1056
+	Columns:	8
+	Rows:	8
+	Bits:	ffddff77 ffddff77 
+)
+
+(BShSym.1057
+	Color:	1058
+	Outline:	1
+	OutlineColor:	1059
+	OutlineWidth:	0.10000000000000
+	BgColor:	1060
+)
+
+(TClr.1058
+	Name:	"Transparent"
+)
+
+(TClr.1059
+	Name:	"Transparent"
+)
+
+(TClr.1060
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.1061
+	IsText:	1
+	Label:	"10A"
+	MinStr:	"10A"
+	MaxStr:	"10A"
+	Precision:	-3
+)
+
+(LClass.1062
+	IsText:	1
+	Label:	"10B"
+	MinStr:	"10B"
+	MaxStr:	"10B"
+	Precision:	-3
+)
+
+(LClass.1063
+	IsText:	1
+	Label:	"10D"
+	MinStr:	"10D"
+	MaxStr:	"10D"
+	Precision:	-3
+)
+
+(LClass.1064
+	IsNoData:	1
+	IsText:	1
+	Label:	"No Data"
+	Precision:	-3
+)
+
+(BShSym.1065
+	Color:	1066
+	Outline:	1
+	OutlineColor:	1067
+	OutlineWidth:	0.10000000000000
+	BgColor:	1068
+)
+
+(TClr.1066
+	Name:	"Transparent"
+)
+
+(TClr.1067
+	Name:	"Transparent"
+)
+
+(TClr.1068
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.1069
+)
+
+(NameDict.1070
+)
+
+(Thresh.1071
+)
+
+(GSet.1072
+)
+
+(TxPosPly.1073
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.1074
+	FTab:	1029
+	Field:	1031
+	UnionRule:	5
+	SplitRule:	3
+)
+
+(AttrSingle.1075
+	FTab:	1029
+	Field:	1032
+	UnionRule:	6
+	SplitRule:	4
+)
+
+(AttrSingle.1076
+	FTab:	1029
+	Field:	1033
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1077
+	FTab:	1029
+	Field:	1034
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1078
+	FTab:	1029
+	Field:	1035
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.1079
+	Name:	"Hydrol.shp"
+	Source:	1080
+	Flags:	0x05
+	Legend:	1097
+	Threshold:	1106
+	View:	206
+	GSet:	1107
+	LegEditScript:	"View.EditLegend"
+	TxPos:	1108
+	LabelField:	1092
+	SnapTolCursor:	1
+)
+
+(ShpSrc.1080
+	Name:	1081
+	FTab:	1083
+)
+
+(SrcName.1081
+	FileName:	1082
+	Name:	"hydrol.shp"
+	SubName:	"Arc"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.1082
+	Path:	"$AVVA/hydrol.shp"
+)
+
+(FTab.1083
+	Name:	"hydrol.dbf"
+	BTab:	1084
+	Fields:	1095
+	Fields:	1085
+	Fields:	1086
+	Fields:	1087
+	Fields:	1088
+	Fields:	1089
+	Fields:	1090
+	Fields:	1091
+	Fields:	1092
+	Fields:	1093
+	SelBits:	1096
+	FSrc:	1080
+)
+
+(dBASE.1084
+	Name:	"hydrol.dbf"
+	Fields:	1085
+	Fields:	1086
+	Fields:	1087
+	Fields:	1088
+	Fields:	1089
+	Fields:	1090
+	Fields:	1091
+	Fields:	1092
+	Fields:	1093
+	FileName:	1094
+)
+
+(Field.1085
+	Name:	"Fnode_"
+	Btab:	1084
+	Alias:	"Fnode_"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.1086
+	Name:	"Tnode_"
+	Btab:	1084
+	Alias:	"Tnode_"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.1087
+	Name:	"Lpoly_"
+	Btab:	1084
+	Alias:	"Lpoly_"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.1088
+	Name:	"Rpoly_"
+	Btab:	1084
+	Alias:	"Rpoly_"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.1089
+	Name:	"Length"
+	Btab:	1084
+	Alias:	"Length"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.1090
+	Name:	"Hydrol_"
+	Btab:	1084
+	Alias:	"Hydrol_"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.1091
+	Name:	"Hydrol_id"
+	Btab:	1084
+	Alias:	"Hydrol_id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.1092
+	Name:	"Line"
+	Btab:	1084
+	Alias:	"Line"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.1093
+	Name:	"Source_id"
+	Btab:	1084
+	Alias:	"Source_id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(FN.1094
+	Path:	"$AVVA/hydrol.dbf"
+)
+
+(Field.1095
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	18
+	Order:	-1
+)
+
+(Bitmap.1096
+	NumBits:	47
+
+)
+
+(Legend.1097
+	SymType:	0x01
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	1098
+	Class:	1101
+	StdDevs:	1.00000000000000
+	NullSym:	1102
+	NullValues:	1104
+	StatValues:	1105
+	Precision:	-3
+)
+
+(SymList.1098
+	Child:	1099
+)
+
+(BLnSym.1099
+	Color:	1100
+	Width:	2.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.1100
+	Red:	0x4c03
+	Green:	0x8bff
+	Blue:	0x6dfe
+)
+
+(LClass.1101
+	IsText:	1
+	Precision:	-3
+)
+
+(BLnSym.1102
+	Color:	1103
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.1103
+	Name:	"Transparent"
+)
+
+(NameDict.1104
+)
+
+(NameDict.1105
+)
+
+(Thresh.1106
+)
+
+(GSet.1107
+)
+
+(TxPosArc.1108
+	HAlign:	3
+	VAlign:	1
+)
+
+(FTheme.1109
+	Name:	"Hydro.shp"
+	Source:	1110
+	Flags:	0x06
+	Legend:	1123
+	Threshold:	1147
+	View:	206
+	GSet:	1148
+	LegEditScript:	"View.EditLegend"
+	TxPos:	1149
+	LabelField:	1117
+	AttrRules:	1150
+	AttrRules:	1151
+	AttrRules:	1152
+	AttrRules:	1153
+	AttrRules:	1154
+	SnapTolCursor:	1
+)
+
+(ShpSrc.1110
+	Name:	1111
+	FTab:	1113
+)
+
+(SrcName.1111
+	FileName:	1112
+	Name:	"hydro.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.1112
+	Path:	"$AVVA/hydro.shp"
+)
+
+(FTab.1113
+	Name:	"hydro.dbf"
+	BTab:	1114
+	Fields:	1121
+	Fields:	1115
+	Fields:	1116
+	Fields:	1117
+	Fields:	1118
+	Fields:	1119
+	SelBits:	1122
+	FSrc:	1110
+)
+
+(dBASE.1114
+	Name:	"hydro.dbf"
+	Fields:	1115
+	Fields:	1116
+	Fields:	1117
+	Fields:	1118
+	Fields:	1119
+	FileName:	1120
+)
+
+(Field.1115
+	Name:	"Area"
+	Btab:	1114
+	Alias:	"Area"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.1116
+	Name:	"Perimeter"
+	Btab:	1114
+	Alias:	"Perimeter"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.1117
+	Name:	"Water_code"
+	Btab:	1114
+	Alias:	"Water_code"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.1118
+	Name:	"Hydro_"
+	Btab:	1114
+	Alias:	"Hydro_"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.1119
+	Name:	"Hydro_id"
+	Btab:	1114
+	Alias:	"Hydro_id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(FN.1120
+	Path:	"$AVVA/hydro.dbf"
+)
+
+(Field.1121
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.1122
+	NumBits:	2905
+
+)
+
+(Legend.1123
+	SymType:	0x02
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	1124
+	Symbols:	1125
+	Class:	1138
+	Class:	1139
+	Class:	1140
+	StdDevs:	1.00000000000000
+	NullSym:	1141
+	NullValues:	1145
+	StatValues:	1146
+	Precision:	-3
+)
+
+(AVStr.1124
+	S:	"water_code"
+)
+
+(SymList.1125
+	Child:	1126
+	Child:	1130
+	Child:	1134
+)
+
+(BShSym.1126
+	Color:	1127
+	Outline:	1
+	OutlineColor:	1128
+	OutlineWidth:	0.10000000000000
+	BgColor:	1129
+)
+
+(TClr.1127
+	Red:	0x4c00
+	Green:	0x8c00
+	Blue:	0x6e00
+)
+
+(TClr.1128
+)
+
+(TClr.1129
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1130
+	Color:	1131
+	Outline:	1
+	OutlineColor:	1132
+	OutlineWidth:	0.10000000000000
+	BgColor:	1133
+)
+
+(TClr.1131
+	Green:	0xff00
+	Blue:	0xff00
+)
+
+(TClr.1132
+)
+
+(TClr.1133
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1134
+	Color:	1135
+	Outline:	1
+	OutlineColor:	1136
+	OutlineWidth:	0.10000000000000
+	BgColor:	1137
+)
+
+(TClr.1135
+	Name:	"Transparent"
+)
+
+(TClr.1136
+	Name:	"Transparent"
+)
+
+(TClr.1137
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.1138
+	IsText:	1
+	Label:	"Land"
+	MinStr:	"L"
+	MaxStr:	"L"
+	Precision:	-3
+)
+
+(LClass.1139
+	IsText:	1
+	Label:	"Water"
+	MinStr:	"W"
+	MaxStr:	"W"
+	Precision:	-3
+)
+
+(LClass.1140
+	IsNoData:	1
+	IsText:	1
+	Label:	"No Data"
+	Precision:	-3
+)
+
+(BShSym.1141
+	Color:	1142
+	Outline:	1
+	OutlineColor:	1143
+	OutlineWidth:	0.10000000000000
+	BgColor:	1144
+)
+
+(TClr.1142
+	Name:	"Transparent"
+)
+
+(TClr.1143
+	Name:	"Transparent"
+)
+
+(TClr.1144
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.1145
+)
+
+(NameDict.1146
+)
+
+(Thresh.1147
+)
+
+(GSet.1148
+)
+
+(TxPosPly.1149
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.1150
+	FTab:	1113
+	Field:	1115
+	UnionRule:	5
+	SplitRule:	3
+)
+
+(AttrSingle.1151
+	FTab:	1113
+	Field:	1116
+	UnionRule:	6
+	SplitRule:	4
+)
+
+(AttrSingle.1152
+	FTab:	1113
+	Field:	1117
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1153
+	FTab:	1113
+	Field:	1118
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1154
+	FTab:	1113
+	Field:	1119
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(GSet.1155
+)
+
+(TxPosPly.1156
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.1157
+	FTab:	14
+	Field:	16
+	UnionRule:	5
+	SplitRule:	3
+)
+
+(AttrSingle.1158
+	FTab:	14
+	Field:	17
+	UnionRule:	6
+	SplitRule:	4
+)
+
+(AttrSingle.1159
+	FTab:	14
+	Field:	18
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1160
+	FTab:	14
+	Field:	19
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1161
+	FTab:	14
+	Field:	20
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1162
+	FTab:	14
+	Field:	21
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(DocAct.1163
+	Doc:	6
+)
+
+(Table.1164
+	Name:	"biofile.dbf"
+	CreationDate:	"Thursday, December 22, 2005 11:23:46 AM"
+	GUIName:	"Table"
+	Win:	1165
+	CSMgr:	1166
+	DocExts:	1167
+	VTab:	26
+)
+
+(DocWin.1165
+	Owner:	1164
+	Open:	1
+	X:	3
+	Y:	1
+	W:	999
+	H:	125
+)
+
+(CSMgr.1166
+)
+
+(DocAct.1167
+	Doc:	1164
+)
+
+(Table.1168
+	Name:	"breed_dt.dbf"
+	CreationDate:	"Thursday, December 22, 2005 11:23:50 AM"
+	GUIName:	"Table"
+	Win:	1169
+	CSMgr:	1170
+	DocExts:	1171
+	VTab:	1172
+)
+
+(DocWin.1169
+	Owner:	1168
+	Open:	1
+	Y:	233
+	W:	249
+	H:	347
+)
+
+(CSMgr.1170
+)
+
+(DocAct.1171
+	Doc:	1168
+)
+
+(VTab.1172
+	Name:	"breed_dt.dbf"
+	BTab:	1173
+	Fields:	1174
+	Fields:	1175
+	Fields:	1176
+	Fields:	1177
+	Fields:	1178
+	Fields:	1179
+	Fields:	1180
+	SelBits:	1182
+)
+
+(dBASE.1173
+	Name:	"breed_dt.dbf"
+	Fields:	1174
+	Fields:	1175
+	Fields:	1176
+	Fields:	1177
+	Fields:	1178
+	Fields:	1179
+	Fields:	1180
+	FileName:	1181
+)
+
+(Field.1174
+	Name:	"Breed"
+	Btab:	1173
+	Alias:	"Breed"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	17
+)
+
+(Field.1175
+	Name:	"Month"
+	Btab:	1173
+	Alias:	"Month"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	27
+)
+
+(Field.1176
+	Name:	"Breed1"
+	Btab:	1173
+	Alias:	"Breed1"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	36
+)
+
+(Field.1177
+	Name:	"Breed2"
+	Btab:	1173
+	Alias:	"Breed2"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	30
+)
+
+(Field.1178
+	Name:	"Breed3"
+	Btab:	1173
+	Alias:	"Breed3"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	30
+)
+
+(Field.1179
+	Name:	"Breed4"
+	Btab:	1173
+	Alias:	"Breed4"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	31
+)
+
+(Field.1180
+	Name:	"Breed5"
+	Btab:	1173
+	Alias:	"Breed5"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	30
+)
+
+(FN.1181
+	Path:	"$AVVA/breed_dt.dbf"
+)
+
+(Bitmap.1182
+	NumBits:	2460
+
+)
+
+(SEd.1183
+	Name:	"esiview.ave"
+	Creator:	"jill"
+	CreationDate:	"Wednesday, May 05, 1999 10:43:59"
+	GUIName:	"Script"
+	Win:	1184
+	CSMgr:	1185
+	DocExts:	1186
+	Source:	"'Set up Links to data tables & show view of tables & covers\ntheProject = av.GetProject\ntheView=theProject.FindDoc(\"ESI\")\n'make VTabs for all the data tables\nbiofile=theProject.FindDoc(\"biofile.dbf\")\nbioVTab=biofile.GetVTab\nbioVTab.UnlinkAll\nbreed=theProject.FindDoc(\"breed_dt.dbf\")\nbreedVTab=breed.GetVTab\nbreedVTab.UnlinkAll\nsocfile=theProject.FindDoc(\"soc_dat.dbf\")\nsocVTab=socfile.GetVTab\nsocVTab.UnlinkAll\nsourcefile=theProject.FindDoc(\"sources.dbf\")\nsourceVTab=sourcefile.GetVTab\nsourceVTab.UnlinkAll \n' Tur
+n on the menu item link breed & source\n myGUI = av.FindGUI( \"View\")\ntheMenuBar = myGUI.GetMenuBar\nmenuItem=theMenuBar(\"ESI\")\ntheItem = menuItem.FindByScript(\"linkbreedsource\")\ntheItem.SetEnabled (True)\n' Turn off the menu item to unlink breed & source\ntheItem = menuItem.FindByScript(\"esiview.ave\")\ntheItem.SetEnabled (False)\n\n'Loop through the biology themes and link the pat files to biofile\nbioThemes = {\"birds\", \"fishp\", \"fish\",\"anadfish\", \"fishl\", \"invert\", \"m_mammal\", \"t_mammal\", \"habitats\",\"reptiles\", \"r
+eptpt\", \"shellfsh\",\"Nests\",\"Hab_pt\"}\nthemeList=theView.GetThemes\nbioFld=bioVTab.FindField(\"Rarnum\")\nfor each cov in bioThemes\n  for each thm in themeList\n    thmString=thm.asString\n    numLetters=thmString.Count \n    matchString=thmString.Left(numLetters-4)\n    'if(cov.Contains(matchString))then \n    if(cov=matchString)then \n      thm.SetActive(true)\n      if(thm.HasTable)then\n        thm.EditTable\n        'currentAtt=theView.FindDoc(thmString) \n        currentVTab=av.GetActiveDoc.GetVTab\n        ' link to 
+biofile\n        currentFld=currentVTab.FindField(\"Rarnum\")\n        bioVTab.Link(bioFld,currentVTab,currentFld)\n        currentVTab.UnlinkAll\n        currentVTab.Link(currentFld,bioVTab,bioFld)\n        av.GetActiveDoc.GetWin.Close\n        thm.SetActive(false)\n       end\n     end\n   end\nend\n\n'Now loop through the soc & management themes and link them to soc_dat\nsocThemes = {\"Soceconp\",\"Mgt\"}\nthemeList=theView.GetThemes\nsocFld=socVTab.FindField(\"Hunum\")\nfor each cov in socThemes\n  for each thm in themeList\n   
+ thmString=thm.asString\n    numLetters=thmString.Count \n    matchString=thmString.Left(numLetters-4)\n    if(cov.Contains(matchString))then \n      thm.SetActive(true)\n      if(thm.HasTable)then\n        thm.EditTable\n        currentVTab=av.GetActiveDoc.GetVTab\n        ' link to socfile\n        currentFld=currentVTab.FindField(\"Hunum\")\n        socVTab.Link(socFld,currentVTab,currentFld)\n        currentVTab.UnlinkAll\n        currentVTab.Link(currentFld,socVTab,socFld)\n        av.GetActiveDoc.GetWin.Close\n      
+  thm.SetActive(false)\n       end\n     end\n   end\nend\n\n\n\n"
+	FontSize:	1
+)
+
+(DocWin.1184
+	Owner:	1183
+	X:	112
+	Y:	35
+	W:	775
+	H:	676
+)
+
+(CSMgr.1185
+)
+
+(DocAct.1186
+	Doc:	1183
+)
+
+(SEd.1187
+	Name:	"linkbreedsource"
+	Creator:	"jill"
+	CreationDate:	"Wednesday, July 21, 1999 13:48:53"
+	GUIName:	"Script"
+	Win:	1188
+	CSMgr:	1189
+	DocExts:	1190
+	Source:	"'Set up Links to data tables & show view of tables & covers\ntheProject = av.GetProject\ntheView=theProject.FindDoc(\"ESI\")\n'Check to see if links are already there\n'make VTabs for all the data tables\nbiofile=theProject.FindDoc(\"biofile.dbf\")\nbioVTab=biofile.GetVTab\n'bioVTab.UnlinkAll\nbreed=theProject.FindDoc(\"breed_dt.dbf\")\nbreedVTab=breed.GetVTab\ndone=breedVTab.IsLinked\nif(done) then\n   exit\nend\nbreedVTab.UnlinkAll\nsocfile=theProject.FindDoc(\"soc_dat.dbf\")\nsocVTab=socfile.GetVTab\n'socVTab.UnlinkAll\nsourcefil
+e=theProject.FindDoc(\"sources.dbf\")\nsourceVTab=sourcefile.GetVTab\nsourceVTab.UnlinkAll \n' Turn off the menu item link breed & source\n myGUI = av.FindGUI( \"View\")\ntheMenuBar = myGUI.GetMenuBar\nmenuItem=theMenuBar(\"ESI\")\ntheItem = menuItem.FindByScript(\"linkbreedsource\")\ntheItem.SetEnabled (False)\n' Turn off the menu item to unlink breed & source\ntheItem = menuItem.FindByScript(\"esiview.ave\")\ntheItem.SetEnabled (True)\n\n'Do \"Background\" Links \n'\n' Breed to Biofile\nbreedBioFld=bioVTab.FindField(\"breed\") \nbreedB
+reFld=breedVTab.FindField(\"breed\") \nbioVTab.Link(breedBioFld,breedVTab,breedBreFld) \nbreedVTab.Link(breedBreFld,bioVTab,breedBioFld)\n\n'Biofile to source - 1)select in biofile, get both s_source & g_source\n'2) select from source, lookup g_source\ngsourceBioFld=bioVTab.FindField(\"g_source\")\nssourceBioFld=bioVTab.FindField(\"s_source\")\nSourceIdFld=sourceVTab.FindField(\"source_id\")\nbioVTab.Link(ssourceBioFld,sourceVTab,SourceIdFld)\nbioVTab.Link(gsourceBioFld,sourceVTab,SourceIdFld)\nsourceVTab.Link(SourceIdFld,bio
+VTab,gsourceBioFld)\n\n'Soc_dat to sources\nsocGSourFld=socVTab.FindField(\"g_source\")\nsocASourFld=socVTab.FindField(\"a_source\")\nsourceVTab.Link(SourceIdFld,socVTab,socGSourFld)\nsocVTab.Link(socGSourFld,sourceVTab,SourceIdFld)\nsocVTab.Link(socASourFld,sourceVTab,SourceIdFld) \n\n\n"
+	SearchStr:	"socVTab"
+	FontSize:	1
+)
+
+(DocWin.1188
+	Owner:	1187
+	X:	11
+	Y:	10
+	W:	1015
+	H:	358
+)
+
+(CSMgr.1189
+)
+
+(DocAct.1190
+	Doc:	1187
+)
+
+(Table.1191
+	Name:	"soc_dat.dbf"
+	CreationDate:	"Friday, December 23, 2005 1:59:24 PM"
+	GUIName:	"Table"
+	Win:	1192
+	CSMgr:	1193
+	DocExts:	1194
+	VTab:	236
+)
+
+(DocWin.1192
+	Owner:	1191
+	Open:	1
+	X:	509
+	Y:	123
+	W:	569
+	H:	114
+)
+
+(CSMgr.1193
+)
+
+(DocAct.1194
+	Doc:	1191
+)
+
+(Table.1195
+	Name:	"sources.dbf"
+	CreationDate:	"Thursday, December 22, 2005 11:23:55 AM"
+	GUIName:	"Table"
+	Win:	1196
+	CSMgr:	1197
+	DocExts:	1198
+	VTab:	1199
+)
+
+(DocWin.1196
+	Owner:	1195
+	Open:	1
+	Y:	122
+	W:	510
+	H:	109
+)
+
+(CSMgr.1197
+)
+
+(DocAct.1198
+	Doc:	1195
+)
+
+(VTab.1199
+	Name:	"sources.dbf"
+	BTab:	1200
+	Fields:	1201
+	Fields:	1202
+	Fields:	1203
+	Fields:	1204
+	Fields:	1205
+	Fields:	1206
+	Fields:	1207
+	Fields:	1208
+	SelBits:	1210
+)
+
+(dBASE.1200
+	Name:	"sources.dbf"
+	Fields:	1201
+	Fields:	1202
+	Fields:	1203
+	Fields:	1204
+	Fields:	1205
+	Fields:	1206
+	Fields:	1207
+	Fields:	1208
+	FileName:	1209
+)
+
+(Field.1201
+	Name:	"Source_id"
+	Btab:	1200
+	Alias:	"Source_id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	4
+)
+
+(Field.1202
+	Name:	"Originator"
+	Btab:	1200
+	Alias:	"Originator"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(Field.1203
+	Name:	"Date_pub"
+	Btab:	1200
+	Alias:	"Date_pub"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	46
+)
+
+(Field.1204
+	Name:	"Title"
+	Btab:	1200
+	Alias:	"Title"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(Field.1205
+	Name:	"Data_forma"
+	Btab:	1200
+	Alias:	"Data_forma"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(Field.1206
+	Name:	"Publicatio"
+	Btab:	1200
+	Alias:	"Publicatio"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(Field.1207
+	Name:	"Scale"
+	Btab:	1200
+	Alias:	"Scale"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(Field.1208
+	Name:	"Time_perio"
+	Btab:	1200
+	Alias:	"Time_perio"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(FN.1209
+	Path:	"$AVVA/sources.dbf"
+)
+
+(Bitmap.1210
+	NumBits:	74
+
+)
+
+(LButn.1211
+	HelpTopic:	"New_button"
+	Update:	"Doc.NewUpdate"
+	Label:	"&New"
+	Click:	"Table.New"
+)
+
+(LButn.1212
+	HelpTopic:	"Open_button"
+	Update:	"Doc.OpenUpdate"
+	Label:	"&Open"
+	Click:	"Doc.Open"
+)
+
+(LButn.1213
+	HelpTopic:	"Run_button"
+	Update:	"Table.ActionUpdate"
+	Label:	"&Run"
+	Click:	"Table.Action"
+)
+
+(NameDict.1214
+)
+
+(NameDict.1215
+	Obj:	1216
+	Obj:	1217
+)
+
+(AVDict.1216
+	InternalName:	"Table of Contents Defaults Dialog"
+)
+
+(AVDict.1217
+	InternalName:	"_Thor_"
+)
+
+(DocGUI.1218
+	Name:	"View"
+	Type:	"View"
+	Modified:	1
+	Visible:	1
+	MenuBar:	1219
+	ButnBar:	1341
+	Popups:	1382
+	ToolBar:	1404
+	NewScript:	"View.New"
+	OpenScript:	"Doc.Open"
+	ActionScript:	"Doc.Action"
+	NewUpdateScript:	"Doc.NewUpdate"
+	OpenUpdateScript:	"Doc.OpenUpdate"
+	ActionUpdateScript:	"Doc.ActionUpdate"
+	Title:	"Views"
+	Icon:	1481
+)
+
+(MenuBar.1219
+	Child:	1220
+	Child:	1237
+	Child:	1257
+	Child:	1280
+	Child:	1303
+	Child:	1319
+	Child:	1333
+	Child:	1336
+)
+
+(PMenu.1220
+	InternalName:	"File"
+	Child:	1221
+	Child:	1222
+	Child:	1223
+	Child:	1224
+	Child:	1225
+	Child:	1226
+	Child:	1227
+	Child:	1228
+	Child:	1229
+	Child:	1230
+	Child:	1231
+	Child:	1232
+	Child:	1233
+	Child:	1234
+	Child:	1235
+	Child:	1236
+	Label:	"&File"
+)
+
+(Choice.1221
+	Help:	"Closes the active component"
+	HelpTopic:	"Close"
+	Label:	"&Close"
+	Click:	"Project.CloseDoc"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1222
+	Help:	"Closes all components"
+	HelpTopic:	"Close_All"
+	Label:	"Close &All"
+	Click:	"Project.CloseAll"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1223
+)
+
+(Choice.1224
+	Help:	"Allows you to specify the current working directory"
+	HelpTopic:	"Set_Working_Directory"
+	Label:	"Set &Working Directory..."
+	Click:	"Project.SetProjectWorkDir"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1225
+	Help:	"Saves the current project"
+	HelpTopic:	"Save_Project"
+	Label:	"&Save Project"
+	Click:	"Project.Save"
+	Shortcut:	"Keys.Ctrl+S"
+)
+
+(Choice.1226
+	Help:	"Saves the current project with a new name"
+	HelpTopic:	"Save_Project_As"
+	Label:	"Save Project As..."
+	Click:	"Project.SaveAs"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1227
+)
+
+(Choice.1228
+	Help:	"Displays the Extensions dialog"
+	HelpTopic:	"Extensions"
+	Label:	"Extensions..."
+	Click:	"Appl.GetExtensionWin"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1229
+)
+
+(Choice.1230
+	Help:	"Prints the view"
+	HelpTopic:	"Print"
+	Label:	"&Print..."
+	Click:	"View.Print"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1231
+	Help:	"Edits the printer and the printing options"
+	HelpTopic:	"Print_Setup"
+	Label:	"P&rint Setup..."
+	Click:	"Project.PrintSetup"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1232
+	Help:	"Exports the view"
+	HelpTopic:	"Export"
+	Update:	"View.HasThemesUpdate"
+	Label:	"&Export..."
+	Click:	"View.ExportDisp"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1233
+)
+
+(Choice.1234
+	Help:	"Displays the dialog box to delete, edit, and copy data sources"
+	HelpTopic:	"Manage_Sources"
+	Label:	"&Manage Data Sources..."
+	Click:	"View.ManageSources"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1235
+)
+
+(Choice.1236
+	Help:	"Exits ArcView"
+	HelpTopic:	"Exit"
+	Label:	"E&xit"
+	Click:	"Project.Exit"
+	Shortcut:	"Keys.None"
+)
+
+(PMenu.1237
+	InternalName:	"Edit"
+	Child:	1238
+	Child:	1239
+	Child:	1240
+	Child:	1241
+	Child:	1242
+	Child:	1243
+	Child:	1244
+	Child:	1245
+	Child:	1246
+	Child:	1247
+	Child:	1248
+	Child:	1249
+	Child:	1250
+	Child:	1251
+	Child:	1252
+	Child:	1253
+	Child:	1254
+	Child:	1255
+	Child:	1256
+	Label:	"&Edit"
+)
+
+(Choice.1238
+	Help:	"Cuts the active themes to the clipboard"
+	HelpTopic:	"Cut_Themes"
+	Update:	"View.ActiveDeletableThemesUpdate"
+	Label:	"Cut T&hemes"
+	Click:	"View.CutThemes"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1239
+	Help:	"Copies the active themes to the clipboard"
+	HelpTopic:	"Copy_Themes"
+	Update:	"View.ActiveThemesUpdate"
+	Label:	"Cop&y Themes"
+	Click:	"View.CopyThemes"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1240
+	Help:	"Removes the active themes from the view"
+	HelpTopic:	"Delete_Themes"
+	Update:	"View.ActiveDeletableThemesUpdate"
+	Label:	"De&lete Themes"
+	Click:	"View.DeleteThemes"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1241
+)
+
+(Choice.1242
+	Disabled:	1
+	Help:	"Undo the last edit to graphics on a view"
+	HelpTopic:	"Undo_Graphic_Edit_on_a_view"
+	Update:	"View.UndoEditUpdate"
+	Label:	"&Undo Graphic Edit"
+	Click:	"View.UndoEdit"
+	Shortcut:	"Keys.Ctrl+Z"
+)
+
+(Choice.1243
+	Disabled:	1
+	Invisible:	1
+	Help:	"Redo the last edit operation on a theme that was undone"
+	HelpTopic:	"Redo_Feature_Edit_on_a_view"
+	Update:	"View.RedoEditUpdate"
+	Label:	"&Redo Feature Edit"
+	Click:	"View.RedoEdit"
+	Shortcut:	"Keys.Ctrl+Y"
+)
+
+(Space.1244
+)
+
+(Choice.1245
+	Disabled:	1
+	Help:	"Cuts the selected graphics to the clipboard"
+	HelpTopic:	"Cut_Graphics"
+	Update:	"View.CutUpdate"
+	Label:	"Cu&t Graphics"
+	Click:	"View.CutGraphics"
+	Shortcut:	"Keys.Ctrl+X"
+)
+
+(Choice.1246
+	Disabled:	1
+	Help:	"Copies the selected graphics to the clipboard"
+	HelpTopic:	"Copy_Graphics"
+	Update:	"View.CopyUpdate"
+	Label:	"&Copy Graphics"
+	Click:	"View.CopyGraphics"
+	Shortcut:	"Keys.Ctrl+C"
+)
+
+(Choice.1247
+	Disabled:	1
+	Help:	"Removes the selected graphics from the view"
+	HelpTopic:	"Delete_Graphics"
+	Update:	"View.DeleteUpdate"
+	Label:	"&Delete Graphics"
+	Click:	"View.DeleteGraphics"
+	Shortcut:	"Keys.Del"
+)
+
+(Space.1248
+)
+
+(Choice.1249
+	Disabled:	1
+	Help:	"Combines the selected polygons"
+	HelpTopic:	"Combine_Graphics"
+	Update:	"View.CombineUpdate"
+	Label:	"Com&bine Graphics"
+	Click:	"View.CombineGraphics"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1250
+	Disabled:	1
+	Help:	"Unions the selected graphics to create a new graphic"
+	HelpTopic:	"Union_Graphics"
+	Update:	"View.UnionUpdate"
+	Label:	"U&nion Graphics"
+	Click:	"View.UnionGraphics"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1251
+	Disabled:	1
+	Help:	"Subtracts one selected polygon from the other selected polygon"
+	HelpTopic:	"Subtract_Graphics"
+	Update:	"View.SubtractUpdate"
+	Label:	"&Subtract Graphics"
+	Click:	"View.SubtractGraphics"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1252
+	Disabled:	1
+	Help:	"Creates a new polygon from the area  of overlap between the selected polygons"
+	HelpTopic:	"Intersect_Graphics"
+	Update:	"View.IntersectUpdate"
+	Label:	"&Intersect Graphics"
+	Click:	"View.IntersectGraphics"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1253
+)
+
+(Choice.1254
+	Help:	"Inserts the contents of the clipboard"
+	HelpTopic:	"Paste"
+	Update:	"View.PasteUpdate"
+	Label:	"&Paste"
+	Click:	"View.Paste"
+	Shortcut:	"Keys.Ctrl+V"
+)
+
+(Space.1255
+)
+
+(Choice.1256
+	Disabled:	1
+	Help:	"Selects all graphics in the view"
+	HelpTopic:	"Select_All_Graphics"
+	Update:	"View.HasGraphicsUpdate"
+	Label:	"Select &All Graphics"
+	Click:	"Graphic.SelectAll"
+	Shortcut:	"Keys.None"
+)
+
+(PMenu.1257
+	InternalName:	"View"
+	Child:	1258
+	Child:	1259
+	Child:	1260
+	Child:	1261
+	Child:	1262
+	Child:	1263
+	Child:	1264
+	Child:	1265
+	Child:	1266
+	Child:	1267
+	Child:	1268
+	Child:	1269
+	Child:	1270
+	Child:	1271
+	Child:	1272
+	Child:	1273
+	Child:	1274
+	Child:	1275
+	Child:	1276
+	Child:	1277
+	Child:	1278
+	Child:	1279
+	Label:	"&View"
+)
+
+(Choice.1258
+	Help:	"Displays the dialog box to edit properties of the view"
+	HelpTopic:	"View_Properties"
+	Label:	"&Properties..."
+	Click:	"View.Properties"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1259
+)
+
+(Choice.1260
+	Help:	"Inserts themes into the view"
+	HelpTopic:	"Add_Theme"
+	Label:	"&Add Theme..."
+	Click:	"View.Add"
+	Shortcut:	"Keys.Ctrl+T"
+)
+
+(Choice.1261
+	Disabled:	1
+	Help:	"Displays a dialog box to create a geocoded theme"
+	HelpTopic:	"Geocode_Addresses"
+	Update:	"View.GeocodeUpdate"
+	Label:	"&Geocode Addresses..."
+	Click:	"View.Geocode"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1262
+	Help:	"Displays a dialog box to create an XY or dynamic segmentation event-based theme "
+	HelpTopic:	"Add_Event_Theme"
+	Update:	"View.AddEventUpdate"
+	Label:	"Add &Event Theme..."
+	Click:	"View.AddEvent"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1263
+	Help:	"Creates a new theme"
+	HelpTopic:	"New_Theme"
+	Label:	"&New Theme..."
+	Click:	"View.NewTheme"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1264
+	Help:	"Makes all themes visible"
+	HelpTopic:	"Themes_On_Themes_Off"
+	Update:	"View.HasThemesUpdate"
+	Label:	"&Themes On"
+	Click:	"View.ThemesOn"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1265
+	Help:	"Makes all themes invisible"
+	HelpTopic:	"Themes_On_Themes_Off"
+	Update:	"View.HasThemesUpdate"
+	Label:	"T&hemes Off"
+	Click:	"View.ThemesOff"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1266
+)
+
+(Choice.1267
+	Help:	"Create a Layout from the View"
+	HelpTopic:	"Layout_menu_choice"
+	Update:	"View.HasThemesUpdate"
+	Label:	"La&yout..."
+	Click:	"View.Layout"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1268
+)
+
+(Choice.1269
+	Help:	"Shows a dialog where you can change the style of the TOC"
+	HelpTopic:	"TOC_Defaults"
+	Update:	"TocDefs.ShowUpdate"
+	Label:	"TOC Style..."
+	Click:	"TocDefs.Show"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1270
+)
+
+(Choice.1271
+	Help:	"Zooms to the extent of all themes"
+	HelpTopic:	"Zoom_to_Full_Extent"
+	Update:	"View.HasDataUpdate"
+	Label:	"Full E&xtent"
+	Click:	"View.ZoomFullExtent"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1272
+	Help:	"Zooms in on the center of the display"
+	HelpTopic:	"Zoom_In"
+	Update:	"View.HasDataUpdate"
+	Label:	"Zoom &In"
+	Click:	"View.ZoomIn"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1273
+	Help:	"Zooms out from the center of the display"
+	HelpTopic:	"Zoom_Out"
+	Update:	"View.HasDataUpdate"
+	Label:	"Zoom &Out"
+	Click:	"View.ZoomOut"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1274
+	Help:	"Zooms to the extent of active themes"
+	HelpTopic:	"Zoom_to_Active_Theme"
+	Update:	"View.ActiveThemesUpdate"
+	Label:	"&Zoom To Themes"
+	Click:	"View.ZoomToThemes"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1275
+	Help:	"Zooms to the extent of the selected features"
+	HelpTopic:	"Zoom_to_Selected"
+	Update:	"View.SelectableThemesUpdate"
+	Label:	"Zoom To &Selected"
+	Click:	"View.ZoomToSelected"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1276
+	Disabled:	1
+	Help:	"Goes back to the previous extent you were viewing"
+	HelpTopic:	"Zoom_Previous"
+	Update:	"View.UndoZoomUpdate"
+	Label:	"Zoom Pre&vious"
+	Click:	"View.UndoZoom"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1277
+)
+
+(Choice.1278
+	Help:	"Finds features in the active themes using the text you enter"
+	HelpTopic:	"Find"
+	Update:	"View.TabularThemesUpdate"
+	Label:	"&Find..."
+	Click:	"View.Find"
+	Shortcut:	"Keys.Ctrl+F"
+)
+
+(Choice.1279
+	Disabled:	1
+	Help:	"Locates an address in the active, matchable theme"
+	HelpTopic:	"Locate_Address"
+	Update:	"View.LocateUpdate"
+	Label:	"&Locate Address..."
+	Click:	"View.Locate"
+	Shortcut:	"Keys.None"
+)
+
+(PMenu.1280
+	InternalName:	"Theme"
+	Child:	1281
+	Child:	1282
+	Child:	1283
+	Child:	1284
+	Child:	1285
+	Child:	1286
+	Child:	1287
+	Child:	1288
+	Child:	1289
+	Child:	1290
+	Child:	1291
+	Child:	1292
+	Child:	1293
+	Child:	1294
+	Child:	1295
+	Child:	1296
+	Child:	1297
+	Child:	1298
+	Child:	1299
+	Child:	1300
+	Child:	1301
+	Child:	1302
+	Label:	"&Theme"
+)
+
+(Choice.1281
+	Help:	"Displays the dialog box to edit properties of the active theme"
+	HelpTopic:	"Theme_Properties"
+	Update:	"View.ActiveThemesUpdate"
+	Label:	"&Properties..."
+	Click:	"View.ThemeProperties"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1282
+)
+
+(Choice.1283
+	Help:	"Starts or stops editing of shapefile"
+	HelpTopic:	"Start_Stop_Editing_in_a_view"
+	Update:	"View.ToggleEditingUpdate"
+	Label:	"Start &Editing"
+	Click:	"View.ToggleEditing"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1284
+	Disabled:	1
+	Help:	"Save edits to the source shapefile"
+	HelpTopic:	"Save_edits_theme"
+	Update:	"View.SaveEditsUpdate"
+	Label:	"Save Ed&its"
+	Click:	"View.SaveEdits"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1285
+	Disabled:	1
+	Help:	"Saves edits to a new shapefile"
+	HelpTopic:	"Save_edits_as_theme"
+	Update:	"View.SaveEditsUpdate"
+	Label:	"Save E&dits As..."
+	Click:	"View.SaveEditsAs"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1286
+	Help:	"Converts a theme to a shapefile"
+	HelpTopic:	"Convert_to_Shapefile"
+	Update:	"View.ExportUpdate"
+	Label:	"Convert to &Shapefile..."
+	Click:	"View.Export"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1287
+)
+
+(Choice.1288
+	Help:	"Displays the legends of the active themes"
+	HelpTopic:	"Edit_Legend"
+	Update:	"View.ActiveThemesUpdate"
+	Label:	"Edit &Legend..."
+	Click:	"View.EditLegendClick"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1289
+	Help:	"Shows or hides the active themes' legends"
+	HelpTopic:	"Hide_show_Legend"
+	Update:	"View.ActiveThemesUpdate"
+	Label:	"&Hide/Show Legend"
+	Click:	"View.ToggleLegend"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1290
+)
+
+(Choice.1291
+	Disabled:	1
+	Help:	"Displays the Re-match dialog for re-matching addresses"
+	HelpTopic:	"Re_match_Addresses"
+	Update:	"View.EditMatchUpdate"
+	Label:	"&Re-match Addresses..."
+	Click:	"View.EditMatch"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1292
+)
+
+(Choice.1293
+	Disabled:	1
+	Help:	"Labels features in active, visible themes"
+	HelpTopic:	"Auto_label"
+	Update:	"View.LabelThemesUpdate"
+	Label:	"&Auto-label..."
+	Click:	"View.LabelThemes"
+	Shortcut:	"Keys.Ctrl+L"
+)
+
+(Choice.1294
+	Disabled:	1
+	Help:	"Removes any labels from active themes"
+	HelpTopic:	"Remove_Labels"
+	Update:	"View.RemoveThemeLabelsUpdate"
+	Label:	"Rem&ove Labels"
+	Click:	"View.RemoveThemeLabels"
+	Shortcut:	"Keys.Ctrl+R"
+)
+
+(Choice.1295
+	Disabled:	1
+	Help:	"Removes the overlapping labels from active themes, if they are still green."
+	HelpTopic:	"Remove_Overlapping_Labels"
+	Update:	"View.RemoveOverlapThemeLabelsUpdate"
+	Label:	"Remove Overlappi&ng Labels"
+	Click:	"View.RemoveOverlapThemeLabels"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1296
+	Disabled:	1
+	Help:	"Converts selected overlapping labels to symbol of selected good label"
+	HelpTopic:	"Convert_Overlapping_Labels"
+	Update:	"View.ConvertOverlapLabelsUpdate"
+	Label:	"&Convert Overlapping Labels"
+	Click:	"View.ConvertOverlapLabels"
+	Shortcut:	"Keys.Ctrl+O"
+)
+
+(Space.1297
+)
+
+(Choice.1298
+	Help:	"Opens the tables of the active themes"
+	HelpTopic:	"Open_Theme_Table"
+	Update:	"View.TabularThemesUpdate"
+	Label:	"&Table..."
+	Click:	"View.ShowTable"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1299
+	Help:	"Displays the Query Builder to select features with a logical expression"
+	HelpTopic:	"Query_Builder"
+	Update:	"View.AttributeThemesUpdate"
+	Label:	"&Query..."
+	Click:	"View.Query"
+	Shortcut:	"Keys.Ctrl+Q"
+)
+
+(Choice.1300
+	Help:	"Selects features in the active themes using another theme's features"
+	HelpTopic:	"Select_By_Theme"
+	Update:	"View.SelectableThemesUpdate"
+	Label:	"Select &By Theme..."
+	Click:	"View.SelectByTheme"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1301
+	Help:	"Creates buffers around features"
+	HelpTopic:	"Create_Buffer_Choice"
+	Update:	"WizardBuffer.OpenDialogUpdate"
+	Label:	"Create Buffers..."
+	Click:	"WizardBuffer.OpenDialog"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1302
+	Help:	"Unselects the selected features of all active themes"
+	HelpTopic:	"Clear_Selected_Features"
+	Update:	"View.AttributeThemesUpdate"
+	Label:	"Clear Selected &Features"
+	Click:	"View.ClearSelect"
+	Shortcut:	"Keys.None"
+)
+
+(PMenu.1303
+	InternalName:	"Graphics"
+	Child:	1304
+	Child:	1305
+	Child:	1306
+	Child:	1307
+	Child:	1308
+	Child:	1309
+	Child:	1310
+	Child:	1311
+	Child:	1312
+	Child:	1313
+	Child:	1314
+	Child:	1315
+	Child:	1316
+	Child:	1317
+	Child:	1318
+	Label:	"&Graphics"
+)
+
+(Choice.1304
+	Disabled:	1
+	Help:	"Displays the property editor for the selected graphic"
+	HelpTopic:	"Graphic_Properties"
+	Update:	"Graphic.HasSelectionUpdate"
+	Label:	"&Properties..."
+	Click:	"Graphic.Edit"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1305
+)
+
+(Choice.1306
+	Help:	"Shows a dialog where you can set the default values for the label and text tools"
+	HelpTopic:	"Default_settings_for_text_and_label_tools"
+	Label:	"&Text and Label Defaults..."
+	Click:	"Graphic.Label Defaults Show"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1307
+)
+
+(Choice.1308
+	Disabled:	1
+	Help:	"Displays a dialog box to adjust size and position of selected graphic"
+	HelpTopic:	"Size_and_Position"
+	Update:	"Graphic.SingleSelectionUpdate"
+	Label:	"&Size and Position..."
+	Click:	"Graphic.SizePos"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1309
+	Disabled:	1
+	Help:	"Aligns the selected graphics"
+	HelpTopic:	"Align"
+	Update:	"Graphic.HasSelectionUpdate"
+	Label:	"&Align..."
+	Click:	"Graphic.Align"
+	Shortcut:	"Keys.Ctrl+A"
+)
+
+(Space.1310
+)
+
+(Choice.1311
+	Disabled:	1
+	Help:	"Moves selected graphics in front of other graphics"
+	HelpTopic:	"Bring_to_Front_on_a_view"
+	Update:	"Graphic.HasSelectionUpdate"
+	Label:	"Bring to &Front"
+	Click:	"Graphic.ToFront"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1312
+	Disabled:	1
+	Help:	"Moves selected graphics behind other graphics"
+	HelpTopic:	"Send_to_Back_on_a_view"
+	Update:	"Graphic.HasSelectionUpdate"
+	Label:	"Send to &Back "
+	Click:	"Graphic.ToBack"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1313
+	Disabled:	1
+	Help:	"Groups selected graphics"
+	HelpTopic:	"Group_on_a_view"
+	Update:	"Graphic.GroupUpdate"
+	Label:	"&Group"
+	Click:	"Graphic.Group"
+	Shortcut:	"Keys.Ctrl+G"
+)
+
+(Choice.1314
+	Disabled:	1
+	Help:	"Ungroups selected graphics"
+	HelpTopic:	"Ungroup_on_a_view"
+	Update:	"Graphic.UngroupUpdate"
+	Label:	"&Ungroup"
+	Click:	"Graphic.Ungroup"
+	Shortcut:	"Keys.Ctrl+U"
+)
+
+(Space.1315
+)
+
+(Choice.1316
+	Disabled:	1
+	Help:	"Associates selected graphics with active themes"
+	HelpTopic:	"Attach_Graphics"
+	Update:	"View.AddGraphicsUpdate"
+	Label:	"A&ttach Graphics"
+	Click:	"View.AddGraphics"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1317
+	Disabled:	1
+	Help:	"Removes association between graphics and active themes"
+	HelpTopic:	"Detach_Graphics"
+	Update:	"View.ClearGraphicsUpdate"
+	Label:	"&Detach Graphics"
+	Click:	"View.ClearGraphics"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1318
+)
+
+(PMenu.1319
+	InternalName:	"Window"
+	Child:	1320
+	Child:	1321
+	Child:	1322
+	Child:	1323
+	Child:	1324
+	Child:	1325
+	Child:	1327
+	Child:	1328
+	Child:	1329
+	Child:	1330
+	Child:	1331
+	Child:	1332
+	Label:	"&Window"
+)
+
+(Choice.1320
+	Help:	"Arranges windows as non-overlapping tiles"
+	HelpTopic:	"Tile"
+	Label:	"&Tile"
+	Click:	"Project.Tile"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1321
+	Help:	"Arranges windows"
+	HelpTopic:	"Cascade"
+	Label:	"&Cascade"
+	Click:	"Project.Cascade"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1322
+	Help:	"Arranges iconified windows"
+	HelpTopic:	"Arrange_Icons"
+	Label:	"&Arrange Icons"
+	Click:	"Project.ArrangeIcons"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1323
+)
+
+(Choice.1324
+	Help:	"Shows the symbol window"
+	HelpTopic:	"Show_Symbol_Window"
+	Label:	"Show Symbol Window..."
+	Click:	"Project.ShowHideSymWin"
+	Shortcut:	"Keys.Ctrl+P"
+)
+
+(Space.1325
+	ObjectTag:	1326
+	Update:	"WindowMenuUpdate"
+)
+
+(AVStr.1326
+	S:	"virginia.apr biofile.dbf breed_dt.dbf ESI soc_dat.dbf sources.dbf"
+)
+
+(Choice.1327
+	Help:	"Activates virginia.apr"
+	Label:	"&1 virginia.apr"
+	Click:	"WindowActivate"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1328
+	Help:	"Activates biofile.dbf"
+	Label:	"&2 biofile.dbf"
+	Click:	"WindowActivate"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1329
+	Help:	"Activates breed_dt.dbf"
+	Label:	"&3 breed_dt.dbf"
+	Click:	"WindowActivate"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1330
+	Help:	"Activates ESI"
+	Label:	"&4 ESI"
+	Click:	"WindowActivate"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1331
+	Help:	"Activates soc_dat.dbf"
+	Label:	"&5 soc_dat.dbf"
+	Click:	"WindowActivate"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1332
+	Help:	"Activates sources.dbf"
+	Label:	"&6 sources.dbf"
+	Click:	"WindowActivate"
+	Shortcut:	"Keys.None"
+)
+
+(PMenu.1333
+	Child:	1334
+	Child:	1335
+	Label:	"&ESI"
+)
+
+(Choice.1334
+	Help:	"Allows more detailed searches to be performed"
+	Label:	"Link Breed and Source"
+	Click:	"linkbreedsource"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1335
+	Disabled:	1
+	Help:	"Simplifies search & runs much more quickly"
+	Label:	"Unlink Breed and Source"
+	Click:	"esiview.ave"
+	Shortcut:	"Keys.None"
+)
+
+(PMenu.1336
+	InternalName:	"Help"
+	Child:	1337
+	Child:	1338
+	Child:	1339
+	Child:	1340
+	Label:	"&Help"
+)
+
+(Choice.1337
+	Help:	"Displays the dialog for browsing and searching ArcView's help system"
+	HelpTopic:	"Help_on_Help_Topics"
+	Label:	"Help &Topics..."
+	Click:	"Project.HelpTopics"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1338
+	Help:	"Provides instructions for how to obtain help from ArcView"
+	HelpTopic:	"Help_on_How_to_Get_Help"
+	Label:	"&How to Get Help..."
+	Click:	"Project.HelpHelp"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1339
+)
+
+(Choice.1340
+	Help:	"Provides information about ArcView"
+	HelpTopic:	"About"
+	Label:	"&About ArcView..."
+	Click:	"Project.About"
+	Shortcut:	"Keys.None"
+)
+
+(ButnBar.1341
+	Child:	1342
+	Child:	1344
+	Child:	1345
+	Child:	1347
+	Child:	1348
+	Child:	1350
+	Child:	1352
+	Child:	1354
+	Child:	1355
+	Child:	1357
+	Child:	1359
+	Child:	1361
+	Child:	1362
+	Child:	1364
+	Child:	1366
+	Child:	1368
+	Child:	1370
+	Child:	1372
+	Child:	1374
+	Child:	1375
+	Child:	1377
+	Child:	1379
+	Child:	1380
+)
+
+(Butn.1342
+	Help:	"Save Project//Saves the current project"
+	HelpTopic:	"Save_Project"
+	Icon:	1343
+	Click:	"Project.Save"
+)
+
+(AVIcon.1343
+	Name:	"Save"
+	Res:	"Icons.Save"
+
+)
+
+(Space.1344
+)
+
+(Butn.1345
+	Help:	"Add Theme//Inserts themes into the view"
+	HelpTopic:	"Add_Theme"
+	Icon:	1346
+	Click:	"View.Add"
+)
+
+(AVIcon.1346
+	Name:	"AddTheme"
+	Res:	"Icons.AddTheme"
+
+)
+
+(Space.1347
+)
+
+(Butn.1348
+	Help:	"Theme Properties//Displays the dialog box to edit properties of the active theme"
+	HelpTopic:	"Theme_Properties"
+	Update:	"View.ActiveThemesUpdate"
+	Icon:	1349
+	Click:	"View.ThemeProperties"
+)
+
+(AVIcon.1349
+	Name:	"Props"
+	Res:	"Icons.Props"
+
+)
+
+(Butn.1350
+	Help:	"Edit Legend//Displays the legends of the active themes"
+	HelpTopic:	"Edit_Legend"
+	Update:	"View.ActiveThemesUpdate"
+	Icon:	1351
+	Click:	"View.EditLegendClick"
+)
+
+(AVIcon.1351
+	Name:	"Legend"
+	Res:	"Icons.Legend"
+
+)
+
+(Butn.1352
+	Help:	"Open Theme Table//Opens the tables of the active themes"
+	HelpTopic:	"Open_Theme_Table"
+	Update:	"View.TabularThemesUpdate"
+	Icon:	1353
+	Click:	"View.ShowTable"
+)
+
+(AVIcon.1353
+	Name:	"Table"
+	Res:	"Icons.Table"
+
+)
+
+(Space.1354
+)
+
+(Butn.1355
+	Help:	"Find//Finds features in the active themes using the text you enter"
+	HelpTopic:	"Find"
+	Update:	"View.TabularThemesUpdate"
+	Icon:	1356
+	Click:	"View.Find"
+)
+
+(AVIcon.1356
+	Name:	"Find"
+	Res:	"Icons.Find"
+
+)
+
+(Butn.1357
+	Disabled:	1
+	Help:	"Locate Address//Locates an address in the active, matchable theme"
+	HelpTopic:	"Locate_Address"
+	Update:	"View.LocateUpdate"
+	Icon:	1358
+	Click:	"View.Locate"
+)
+
+(AVIcon.1358
+	Name:	"AddMatch"
+	Res:	"Icons.AddMatch"
+
+)
+
+(Butn.1359
+	Help:	"Query Builder//Displays the Query Builder to select features with a logical expression"
+	HelpTopic:	"Query_Builder"
+	Update:	"View.AttributeThemesUpdate"
+	Icon:	1360
+	Click:	"View.Query"
+)
+
+(AVIcon.1360
+	Name:	"QueryBuilder"
+	Res:	"Icons.QueryBuilder"
+
+)
+
+(Space.1361
+)
+
+(Butn.1362
+	Help:	"Zoom to Full Extent//Zooms to the extent of all themes"
+	HelpTopic:	"Zoom_to_Full_Extent"
+	Update:	"View.HasDataUpdate"
+	Icon:	1363
+	Click:	"View.ZoomFullExtent"
+)
+
+(AVIcon.1363
+	Name:	"ZoomView"
+	Res:	"Icons.ZoomView"
+
+)
+
+(Butn.1364
+	Help:	"Zoom to Active Theme(s)//Zooms to the extent of active themes"
+	HelpTopic:	"Zoom_to_Active_Theme"
+	Update:	"View.ActiveThemesUpdate"
+	Icon:	1365
+	Click:	"View.ZoomToThemes"
+)
+
+(AVIcon.1365
+	Name:	"ZoomTheme"
+	Res:	"Icons.ZoomTheme"
+
+)
+
+(Butn.1366
+	Help:	"Zoom to Selected//Zooms to the extent of the selected features"
+	HelpTopic:	"Zoom_to_Selected"
+	Update:	"View.SelectableThemesUpdate"
+	Icon:	1367
+	Click:	"View.ZoomToSelected"
+)
+
+(AVIcon.1367
+	Name:	"ZoomToSelected"
+	Res:	"Icons.ZoomToSelected"
+
+)
+
+(Butn.1368
+	Help:	"Zoom In//Zooms in on the center of the display"
+	HelpTopic:	"Zoom_In"
+	Update:	"View.HasDataUpdate"
+	Icon:	1369
+	Click:	"View.ZoomIn"
+)
+
+(AVIcon.1369
+	Name:	"ZoomIn"
+	Res:	"Icons.ZoomIn"
+
+)
+
+(Butn.1370
+	Help:	"Zoom Out//Zooms out from the center of the display"
+	HelpTopic:	"Zoom_Out"
+	Update:	"View.HasDataUpdate"
+	Icon:	1371
+	Click:	"View.ZoomOut"
+)
+
+(AVIcon.1371
+	Name:	"ZoomOut"
+	Res:	"Icons.ZoomOut"
+
+)
+
+(Butn.1372
+	Disabled:	1
+	Help:	"Zoom to Previous Extent//Goes back to the previous extent you were viewing"
+	HelpTopic:	"Zoom_Previous"
+	Update:	"View.UndoZoomUpdate"
+	Icon:	1373
+	Click:	"View.UndoZoom"
+)
+
+(AVIcon.1373
+	Name:	"ZoomPrevious"
+	Res:	"Icons.ZoomPrevious"
+
+)
+
+(Space.1374
+)
+
+(Butn.1375
+	Disabled:	1
+	Help:	"Select Features Using Graphic//Selects features in active themes using selected graphics"
+	HelpTopic:	"Select_Features_Using_Graphic"
+	Update:	"View.SpatialSelectUpdate"
+	Icon:	1376
+	Click:	"View.SpatialSelect"
+)
+
+(AVIcon.1376
+	Name:	"SpatialSelect"
+	Res:	"Icons.SpatialSelect"
+
+)
+
+(Butn.1377
+	Help:	"Clear Selected Features//Unselects the selected features of all active themes"
+	HelpTopic:	"Clear_Selected_Features"
+	Update:	"View.AttributeThemesUpdate"
+	Icon:	1378
+	Click:	"View.ClearSelect"
+)
+
+(AVIcon.1378
+	Name:	"SelectNone"
+	Res:	"Icons.SelectNone"
+
+)
+
+(Space.1379
+)
+
+(Butn.1380
+	Help:	"Help//Gets help about the next button, tool, or menu choice you click"
+	HelpTopic:	"Help_button"
+	Icon:	1381
+	Click:	"Help.Tool"
+)
+
+(AVIcon.1381
+	Name:	"HelpTool"
+	Res:	"Icons.HelpTool"
+
+)
+
+(PopupSet.1382
+	Child:	1383
+)
+
+(Popup.1383
+	Child:	1384
+	Child:	1385
+	Child:	1386
+	Child:	1387
+	Child:	1388
+	Child:	1389
+	Child:	1390
+	Child:	1391
+	Child:	1392
+	Child:	1393
+	Child:	1394
+	Child:	1395
+	Child:	1396
+	Child:	1397
+	Child:	1398
+	Child:	1399
+	Child:	1400
+	Child:	1401
+	Child:	1402
+	Child:	1403
+	Label:	"Menu"
+)
+
+(Choice.1384
+	Disabled:	1
+	Invisible:	1
+	Help:	"Deletes the last entered point on the line or polygon being drawn"
+	Update:	"View.DelLastPointUpdate"
+	Label:	"Delete Last Point"
+	Click:	"View.DeleteLastPoint"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1385
+	Disabled:	1
+	Help:	"Undo the last edit to graphics on a view"
+	HelpTopic:	"Undo_Graphic_Edit_on_a_view"
+	Update:	"View.UndoEditUpdate"
+	Label:	"Undo Graphic Edit"
+	Click:	"View.UndoEdit"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1386
+	Disabled:	1
+	Invisible:	1
+	Help:	"Redo the last edit operation on a theme that was undone"
+	Update:	"View.RedoEditUpdate"
+	Label:	"Redo Feature Edit"
+	Click:	"View.RedoEdit"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1387
+)
+
+(Choice.1388
+	Disabled:	1
+	Invisible:	1
+	Help:	"Turns general snapping on"
+	Update:	"View.ToggleGeneralSnapUpdate"
+	Label:	"Enable General Snapping"
+	Click:	"View.ToggleGeneralSnap"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1389
+	Disabled:	1
+	Invisible:	1
+	Help:	"Turns interactive snapping on"
+	Update:	"View.ToggleInteractiveSnapUpdate"
+	Label:	"Enable Interactive Snapping"
+	Click:	"View.ToggleInteractiveSnap"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1390
+	Help:	"Turns snap tolerance cursor on"
+	Update:	"View.ToggleTolCursorUpdate"
+	Label:	"Show Snap Tolerance Cursor"
+	Click:	"View.ToggleTolCursor"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1391
+)
+
+(Choice.1392
+	Disabled:	1
+	Invisible:	1
+	Help:	"Snaps the next entered point to the nearest vertex within the user tolerance"
+	Update:	"View.InteractiveSnapUpdate"
+	Label:	"Snap to Vertex"
+	Click:	"View.SnapToVertex"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1393
+	Disabled:	1
+	Invisible:	1
+	Help:	"Snaps the next entered point to the nearest line segment"
+	Update:	"View.InteractiveSnapUpdate"
+	Label:	"Snap to Boundary"
+	Click:	"View.SnapToBoundary"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1394
+	Disabled:	1
+	Invisible:	1
+	Help:	"Snaps the next entered point to the nearest node common to two or more features"
+	Update:	"View.InteractiveSnapUpdate"
+	Label:	"Snap to Intersection"
+	Click:	"View.SnapToIntersection"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1395
+	Disabled:	1
+	Invisible:	1
+	Help:	"Snaps the next entered point to the nearest endpoint of an existing line"
+	Update:	"View.SnapToEndPointUpdate"
+	Label:	"Snap to Endpoint"
+	Click:	"View.SnapToEndPoint"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1396
+)
+
+(Choice.1397
+	Disabled:	1
+	Help:	"Unselects the selected features in all active themes"
+	Update:	"View.AttributeThemesUpdate"
+	Label:	"Clear Selection"
+	Click:	"View.ClearSelect"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1398
+	Disabled:	1
+	Help:	"Zooms in at point where you click to bring up popup menu"
+	Update:	"View.HasDataUpdate"
+	Label:	"Zoom In"
+	Click:	"View.PopupZoomIn"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1399
+	Disabled:	1
+	Help:	"Zooms out from point where you click to bring up popup menu"
+	Update:	"View.HasDataUpdate"
+	Label:	"Zoom Out"
+	Click:	"View.PopupZoomOut"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1400
+	Disabled:	1
+	Help:	"Zooms to the extent of the selected features"
+	Update:	"View.SelectableThemesUpdate"
+	Label:	"Zoom to Selected"
+	Click:	"View.ZoomToSelected"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1401
+	Disabled:	1
+	Help:	"Centers display on point where you click to bring up popup"
+	Update:	"View.HasDataUpdate"
+	Label:	"Pan"
+	Click:	"View.PopupPan"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1402
+)
+
+(Choice.1403
+	Disabled:	1
+	Help:	"Opens the shape properties window for editing vertex locations"
+	Update:	"ShapeWin.PopUp Update"
+	Label:	"Shape Properties"
+	Click:	"ShapeWin.PopUp Open"
+	Shortcut:	"Keys.None"
+)
+
+(ToolBar.1404
+	Child:	1405
+	Child:	1407
+	Child:	1409
+	Child:	1411
+	Child:	1413
+	Child:	1415
+	Child:	1417
+	Child:	1419
+	Child:	1421
+	Child:	1423
+	Child:	1425
+	Child:	1444
+	Child:	1457
+	Child:	1476
+)
+
+(Tool.1405
+	Help:	"Identify//Provides information about a feature"
+	HelpTopic:	"Identify_tool"
+	Update:	"View.IdentifyUpdate"
+	Icon:	1406
+	Cursor:	"Cursors.ID"
+	Apply:	"View.Identify"
+)
+
+(AVIcon.1406
+	Name:	"ID"
+	Res:	"Icons.ID"
+
+)
+
+(Tool.1407
+	Help:	"Pointer//Selects, moves, and resizes graphics"
+	HelpTopic:	"Pointer_tool"
+	Update:	"View.HasDataUpdate"
+	Icon:	1408
+	Cursor:	"Cursors.Select"
+	Apply:	"View.Select"
+	Click:	"View.SelectTool"
+)
+
+(AVIcon.1408
+	Name:	"Select"
+	Res:	"Icons.Select"
+
+)
+
+(Tool.1409
+	Disabled:	1
+	Help:	"Vertex Edit//Adds, moves, and deletes vertices of features and graphics"
+	HelpTopic:	"Vertex_Edit_tool"
+	Update:	"View.SelectToEditUpdate"
+	Icon:	1410
+	Cursor:	"Cursors.SelectEdit"
+	Apply:	"View.SelectToEdit"
+	Click:	"View.SelectToEditTool"
+)
+
+(AVIcon.1410
+	Name:	"SelectEdit"
+	Res:	"Icons.SelectEdit"
+
+)
+
+(Tool.1411
+	Help:	"Select Feature//Selects features in the active themes by pointing or dragging"
+	HelpTopic:	"Select_Feature_tool"
+	Update:	"View.SelectableThemesUpdate"
+	Icon:	1412
+	Cursor:	"Cursors.Default"
+	Apply:	"View.SelectPoint"
+)
+
+(AVIcon.1412
+	Name:	"FeatureSelect"
+	Res:	"Icons.FeatureSelect"
+
+)
+
+(Tool.1413
+	Help:	"Zoom In//Zooms in at a point you click or zooms in on a rectangle you drag"
+	HelpTopic:	"Zoom_In_tool"
+	Update:	"View.HasDataUpdate"
+	Icon:	1414
+	Cursor:	"Cursors.ZoomIn"
+	Apply:	"View.ZoomInTool"
+)
+
+(AVIcon.1414
+	Name:	"ZoomInTool"
+	Res:	"Icons.ZoomInTool"
+
+)
+
+(Tool.1415
+	Help:	"Zoom Out//Zooms out from a point you click or zooms out to include a rectangle you drag"
+	HelpTopic:	"Zoom_Out_tool"
+	Update:	"View.HasDataUpdate"
+	Icon:	1416
+	Cursor:	"Cursors.ZoomOut"
+	Apply:	"View.ZoomOutTool"
+)
+
+(AVIcon.1416
+	Name:	"ZoomOutTool"
+	Res:	"Icons.ZoomOutTool"
+
+)
+
+(Tool.1417
+	Help:	"Pan//Drags the display in the direction you move the cursor"
+	HelpTopic:	"Pan_tool"
+	Update:	"View.HasDataUpdate"
+	Icon:	1418
+	Cursor:	"Cursors.Pan"
+	Apply:	"View.Pan"
+)
+
+(AVIcon.1418
+	Name:	"Pan"
+	Res:	"Icons.Pan"
+
+)
+
+(Tool.1419
+	Help:	"Measure//Measures distance"
+	HelpTopic:	"Measure_tool"
+	Update:	"View.HasDataUpdate"
+	Icon:	1420
+	Cursor:	"Cursors.Measure"
+	Apply:	"View.Measure"
+)
+
+(AVIcon.1420
+	Name:	"Measure"
+	Res:	"Icons.Measure"
+
+)
+
+(Tool.1421
+	Disabled:	1
+	Help:	"Hot Link//Follows a hot link in the active themes"
+	HelpTopic:	"Hot_Link_tool"
+	Update:	"View.HotLinkUpdate"
+	Icon:	1422
+	Cursor:	"Cursors.Media"
+	Apply:	"View.HotLink"
+)
+
+(AVIcon.1422
+	Name:	"Media"
+	Res:	"Icons.Media"
+
+)
+
+(Tool.1423
+	Disabled:	1
+	Help:	"Area of Interest//Sets the view's Area Of Interest for library-based themes"
+	HelpTopic:	"Area_Of_Interest_tool"
+	Update:	"View.AOIToolUpdate"
+	Icon:	1424
+	Cursor:	"Cursors.Default"
+	Apply:	"View.AOITool"
+)
+
+(AVIcon.1424
+	Name:	"AOI"
+	Res:	"Icons.AOI"
+
+)
+
+(ToolMenu.1425
+	Disabled:	1
+	Help:	"Label//Labels a feature in the active theme with data from its table"
+	HelpTopic:	"Label_Tool"
+	Update:	"View.LabelToolUpdate"
+	Icon:	1426
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.LabelTool"
+	Child:	1427
+	Child:	1428
+	Child:	1430
+	Child:	1432
+	Child:	1434
+	Child:	1436
+	Child:	1438
+	Child:	1440
+	Child:	1442
+)
+
+(AVIcon.1426
+	Name:	"Tag"
+	Res:	"Icons.Tag"
+
+)
+
+(Tool.1427
+	Disabled:	1
+	Help:	"Label//Labels a feature in the active theme with data from its table"
+	HelpTopic:	"Label_Tool"
+	Update:	"View.LabelToolUpdate"
+	Icon:	1426
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.LabelTool"
+)
+
+(Tool.1428
+	Disabled:	1
+	Help:	"Callout Label//Click on a feature and drag in the direction you want the label to appear"
+	HelpTopic:	"Label_Tool"
+	Update:	"View.CalloutUpdate"
+	Icon:	1429
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.CalloutLabelTool"
+)
+
+(AVIcon.1429
+	Name:	"CallOutLabel1"
+	Res:	"Icons.CallOutLabel1"
+
+)
+
+(Tool.1430
+	Disabled:	1
+	Help:	"Bullet Leader Label//Click on a feature and drag in the direction you want the label to appear"
+	HelpTopic:	"Label_Tool"
+	Update:	"View.CalloutUpdate"
+	Icon:	1431
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.BulletLeaderLabelTool"
+)
+
+(AVIcon.1431
+	Name:	"CallOutLabel2"
+	Res:	"Icons.CallOutLabel2"
+
+)
+
+(Tool.1432
+	Disabled:	1
+	Help:	"Banner Label//Click on a feature you want to label"
+	HelpTopic:	"Label_Tool"
+	Update:	"View.CalloutUpdate"
+	Icon:	1433
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.ShadowBoxLabelTool"
+)
+
+(AVIcon.1433
+	Name:	"CallOutLabel3"
+	Res:	"Icons.CallOutLabel3"
+
+)
+
+(Tool.1434
+	Disabled:	1
+	Help:	"U.S. Interstate//Click where you want to place a highway shield"
+	HelpTopic:	"Label_Tool"
+	Update:	"View.CalloutUpdate"
+	Icon:	1435
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.Highway1 Apply"
+)
+
+(AVIcon.1435
+	Name:	"BW US Interstate"
+	Res:	"Icons.BW US Interstate"
+
+)
+
+(Tool.1436
+	Disabled:	1
+	Help:	"U.S. Route//Click where you want to place a highway shield"
+	HelpTopic:	"Label_Tool"
+	Update:	"View.CalloutUpdate"
+	Icon:	1437
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.Highway2 Apply"
+)
+
+(AVIcon.1437
+	Name:	"USRoute"
+	Res:	"Icons.USRoute"
+
+)
+
+(Tool.1438
+	Disabled:	1
+	Help:	"Generic State Hwy//Click where you want to place a highway shield"
+	HelpTopic:	"Label_Tool"
+	Update:	"View.CalloutUpdate"
+	Icon:	1439
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.Highway3 Apply"
+)
+
+(AVIcon.1439
+	Name:	"GenericStateHighway"
+	Res:	"Icons.GenericStateHighway"
+
+)
+
+(Tool.1440
+	Disabled:	1
+	Help:	"Generic Square Hwy//Click where you want to place a highway shield"
+	HelpTopic:	"Label_Tool"
+	Update:	"View.CalloutUpdate"
+	Icon:	1441
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.Highway4 Apply"
+)
+
+(AVIcon.1441
+	Name:	"GenericHighway1"
+	Res:	"Icons.GenericHighway1"
+
+)
+
+(Tool.1442
+	Disabled:	1
+	Help:	"Generic Oval Hwy//Click where you want to place a highway shield"
+	Update:	"View.CalloutUpdate"
+	Icon:	1443
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.Highway5 Apply"
+)
+
+(AVIcon.1443
+	Name:	"GenericHighway2"
+	Res:	"Icons.GenericHighway2"
+
+)
+
+(ToolMenu.1444
+	Help:	"Text//Creates text on the display"
+	HelpTopic:	"Text_tool"
+	Update:	"View.TextToolUpdate"
+	Icon:	1445
+	Cursor:	"Cursors.Text"
+	Apply:	"View.TextTool"
+	Click:	"SymWin.DisplayFontPanel"
+	Child:	1446
+	Child:	1447
+	Child:	1449
+	Child:	1451
+	Child:	1453
+	Child:	1455
+)
+
+(AVIcon.1445
+	Name:	"Text"
+	Res:	"Icons.Text"
+
+)
+
+(Tool.1446
+	Help:	"Text//Creates text on the display"
+	HelpTopic:	"Text_tool"
+	Update:	"View.TextToolUpdate"
+	Icon:	1445
+	Cursor:	"Cursors.Text"
+	Apply:	"View.TextTool"
+	Click:	"SymWin.DisplayFontPanel"
+)
+
+(Tool.1447
+	Help:	"Callout Text//Click and drag to where you want your text to appear, then enter the text"
+	HelpTopic:	"Text_tool"
+	Update:	"View.TextToolUpdate"
+	Icon:	1448
+	Cursor:	"Cursors.Bullseye"
+	Apply:	"View.CalloutTextTool"
+)
+
+(AVIcon.1448
+	Name:	"CallOutText1"
+	Res:	"Icons.CallOutText1"
+
+)
+
+(Tool.1449
+	Help:	"Bullet Leader Text//Click and drag to where you want your text to appear, then enter the text"
+	HelpTopic:	"Text_tool"
+	Update:	"View.TextToolUpdate"
+	Icon:	1450
+	Cursor:	"Cursors.Bullseye"
+	Apply:	"View.BulletLeaderTextTool"
+)
+
+(AVIcon.1450
+	Name:	"CallOutText2"
+	Res:	"Icons.CallOutText2"
+
+)
+
+(Tool.1451
+	Help:	"Banner Text//Click where you want your label to appear and enter your text"
+	HelpTopic:	"Text_tool"
+	Update:	"View.TextToolUpdate"
+	Icon:	1452
+	Cursor:	"Cursors.Bullseye"
+	Apply:	"View.ShadowBoxTextTool"
+)
+
+(AVIcon.1452
+	Name:	"CallOutText3"
+	Res:	"Icons.CallOutText3"
+
+)
+
+(Tool.1453
+	Help:	"Drop-Shadow Text//Click where you want your text to appear and enter your text"
+	HelpTopic:	"Text_tool"
+	Update:	"View.TextToolUpdate"
+	Icon:	1454
+	Cursor:	"Cursors.Target"
+	Apply:	"View.CreateDropShadowText"
+)
+
+(AVIcon.1454
+	Name:	"DropShadowText"
+	Res:	"Icons.DropShadowText"
+
+)
+
+(Tool.1455
+	Help:	"Spline Text//Adds text that is aligned to a splined baseline"
+	HelpTopic:	"Text_tool"
+	Update:	"View.TextToolUpdate"
+	Icon:	1456
+	Cursor:	"Cursors.Bullseye"
+	Apply:	"View.SplineText"
+)
+
+(AVIcon.1456
+	Name:	"TextAligned"
+	Res:	"Icons.TextAligned"
+
+)
+
+(ToolMenu.1457
+	Help:	"Draw Point//Creates a point on the display"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.PointToolUpdate"
+	Icon:	1458
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.PointTool"
+	Click:	"SymWin.DisplayMarkerPanel"
+	Child:	1459
+	Child:	1460
+	Child:	1462
+	Child:	1464
+	Child:	1466
+	Child:	1468
+	Child:	1470
+	Child:	1472
+	Child:	1474
+)
+
+(AVIcon.1458
+	Name:	"Point"
+	Res:	"Icons.Point"
+
+)
+
+(Tool.1459
+	Help:	"Draw Point//Creates a point on the display"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.PointToolUpdate"
+	Icon:	1458
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.PointTool"
+	Click:	"SymWin.DisplayMarkerPanel"
+)
+
+(Tool.1460
+	Help:	"Draw Straight Line//Creates a line on the display"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.GraphicToolUpdate"
+	Icon:	1461
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.LineTool"
+	Click:	"SymWin.DisplayPenPanel"
+)
+
+(AVIcon.1461
+	Name:	"SelectLine"
+	Res:	"Icons.SelectLine"
+
+)
+
+(Tool.1462
+	Help:	"Draw Line//Creates a line with two or more points on the display"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.PolyLineToolUpdate"
+	Icon:	1463
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.PolyLineTool"
+	Click:	"SymWin.DisplayPenPanel"
+)
+
+(AVIcon.1463
+	Name:	"Lines"
+	Res:	"Icons.Lines"
+
+)
+
+(Tool.1464
+	Help:	"Draw Rectangle//Creates a rectangle on the display"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.PolyToolUpdate"
+	Icon:	1465
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.RectTool"
+	Click:	"SymWin.DisplayFillPanel"
+)
+
+(AVIcon.1465
+	Name:	"Rect"
+	Res:	"Icons.Rect"
+
+)
+
+(Tool.1466
+	Help:	"Draw Circle//Creates a circle on the display"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.PolyToolUpdate"
+	Icon:	1467
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.CircleTool"
+	Click:	"SymWin.DisplayFillPanel"
+)
+
+(AVIcon.1467
+	Name:	"Disk"
+	Res:	"Icons.Disk"
+
+)
+
+(Tool.1468
+	Help:	"Draw Polygon//Creates a polygon on the display"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.PolyToolUpdate"
+	Icon:	1469
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.PolyTool"
+	Click:	"SymWin.DisplayFillPanel"
+)
+
+(AVIcon.1469
+	Name:	"Poly"
+	Res:	"Icons.Poly"
+
+)
+
+(Tool.1470
+	Disabled:	1
+	Help:	"Draw Line to Split Feature//Creates a line to split line features"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.SplitLineToolUpdate"
+	Icon:	1471
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.SplitTool"
+)
+
+(AVIcon.1471
+	Name:	"SplitLine"
+	Res:	"Icons.SplitLine"
+
+)
+
+(Tool.1472
+	Disabled:	1
+	Help:	"Draw Line to Split Polygon//Creates a line to split polygon features"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.SplitPolyToolUpdate"
+	Icon:	1473
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.SplitTool"
+)
+
+(AVIcon.1473
+	Name:	"SplitPoly"
+	Res:	"Icons.SplitPoly"
+
+)
+
+(Tool.1474
+	Disabled:	1
+	Help:	"Draw Line to Append Polygon//Appends a new polygon adjacent to other polygons"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.AutoCompleteUpdate"
+	Icon:	1475
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.AutoCompleteTool"
+)
+
+(AVIcon.1475
+	Name:	"AutoComplete"
+	Res:	"Icons.AutoComplete"
+
+)
+
+(ToolMenu.1476
+	Disabled:	1
+	Invisible:	1
+	Help:	"Snap//Sets the general snapping tolerance for the editable theme"
+	HelpTopic:	"Snap_tools"
+	Update:	"View.SnapToolUpdate"
+	Icon:	1477
+	Cursor:	"Cursors.Default"
+	Apply:	"View.SnapTool"
+	Child:	1478
+	Child:	1479
+)
+
+(AVIcon.1477
+	Name:	"SnapTool"
+	Res:	"Icons.SnapTool"
+
+)
+
+(Tool.1478
+	Disabled:	1
+	Invisible:	1
+	Help:	"Snap//Sets the general snapping tolerance for the editable theme"
+	HelpTopic:	"Snap_tools"
+	Update:	"View.SnapToolUpdate"
+	Icon:	1477
+	Cursor:	"Cursors.Default"
+	Apply:	"View.SnapTool"
+)
+
+(Tool.1479
+	Disabled:	1
+	Invisible:	1
+	Help:	"Snap//Sets the interactive snapping tolerance for the editable theme"
+	HelpTopic:	"Snap_tools"
+	Update:	"View.InteractiveSnapToolUpdate"
+	Icon:	1480
+	Cursor:	"Cursors.Default"
+	Apply:	"View.InteractiveSnapTool"
+)
+
+(AVIcon.1480
+	Name:	"SnapFeatureTool"
+	Res:	"Icons.SnapFeatureTool"
+
+)
+
+(AVIcon.1481
+	Name:	"Icon"
+	Res:	"View.Icon"
+
+)
+
+(FN.2049
+	Path:	"$HOME"
+)
+
+(TClr.2050
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(AVStr.2051
+	S:	"View"
+)
+
+(AVStr.2052
+	S:	"Table"
+)
+
+(AVStr.2053
+	S:	"Chart"
+)
+
+(AVStr.2054
+	S:	"Layout"
+)
+
+(AVStr.2055
+	S:	"Script"
+)
+
+(AVStr.2056
+	S:	"Project"
+)
+
+(AVStr.2057
+	S:	"Appl"
+)
+
