@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+<name></name>
+<description>SOL TEST</description>
+<Point><coordinates>Non-disabled,Disabled,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+<Point><coordinates>2001,2000,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>GRADE 3</description>
+</Placemark>
+<Placemark>
+<name></name>
+<description>ENGLISH</description>
+<Point><coordinates>68,33,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>MATHEMATICS</description>
+<Point><coordinates>80,48,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>HISTORY &amp; SOCIAL SCIENCE</description>
+<Point><coordinates>75,44,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>SCIENCE</description>
+<Point><coordinates>76,55,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description>GRADE 5</description>
+</Placemark>
+<Placemark>
+<name></name>
+<description>ENGLISH: READING</description>
+<Point><coordinates>76,41,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>ENGLISH: WRITING</description>
+<Point><coordinates>88,49,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>MATHEMATICS</description>
+<Point><coordinates>71,33,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>HISTORY &amp; SOCIAL SCIENCE</description>
+<Point><coordinates>66,29,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>SCIENCE</description>
+<Point><coordinates>78,42,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>COMPUTER/TECHNOLOGY</description>
+<Point><coordinates>85,67,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description>GRADE 8</description>
+</Placemark>
+<Placemark>
+<name></name>
+<description>ENGLISH: READING</description>
+<Point><coordinates>78,34,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>ENGLISH: WRITING</description>
+<Point><coordinates>81,39,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>MATHEMATICS</description>
+<Point><coordinates>73,27,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>HISTORY &amp; SOCIAL SCIENCE</description>
+<Point><coordinates>60,23,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>SCIENCE</description>
+<Point><coordinates>88,55,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>COMPUTER/TECHNOLOGY</description>
+<Point><coordinates>83,46,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description>HIGH SCHOOL</description>
+</Placemark>
+<Placemark>
+<name></name>
+<description>ENGLISH: READING</description>
+<Point><coordinates>85,40,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>ENGLISH: WRITING</description>
+<Point><coordinates>88,47,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>ALGEBRA I</description>
+<Point><coordinates>77,33,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>ALGEBRA II</description>
+<Point><coordinates>74,38,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>GEOMETRY</description>
+<Point><coordinates>75,43,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>U. S. HISTORY</description>
+<Point><coordinates>50,17,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>WORLD HISTORY I</description>
+<Point><coordinates>86,46,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>WORLD HISTORY II</description>
+<Point><coordinates>68,30,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>WORLD GEOGRAPHY</description>
+<Point><coordinates>80,43,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>EARTH SCIENCE</description>
+<Point><coordinates>76,42,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>BIOLOGY</description>
+<Point><coordinates>84,49,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>CHEMISTRY</description>
+<Point><coordinates>75,30,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description>Spring pass rates do not include summer or fall results</description>
+</Placemark>
+</Document>
+</kml>
