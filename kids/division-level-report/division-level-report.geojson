@@ -1,0 +1,423 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "SOL TEST"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2001,
+                    2000,
+                    0
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.55,
+                    33.0391,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "ENGLISH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9,
+                    48.4352,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "MATHEMATICS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.53,
+                    43.6075,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "HISTORY & SOCIAL SCIENCE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.96,
+                    54.7963,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "SCIENCE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.38,
+                    40.7474,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "ENGLISH: READING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.9038297652558,
+                    48.6229,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "ENGLISH: WRITING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.61,
+                    32.5041,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "MATHEMATICS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.97,
+                    29.2093,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "HISTORY & SOCIAL SCIENCE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8,
+                    42.0305,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "SCIENCE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.19,
+                    67.3566,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "COMPUTER/TECHNOLOGY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.96,
+                    33.954,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "ENGLISH: READING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.92,
+                    38.5938,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "ENGLISH: WRITING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.01,
+                    26.55,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "MATHEMATICS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.05,
+                    23.3423,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "HISTORY & SOCIAL SCIENCE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.6,
+                    54.708,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "SCIENCE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.47,
+                    45.9371,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "COMPUTER/TECHNOLOGY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.32,
+                    40.1567,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "ENGLISH: READING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.73,
+                    46.8789,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "ENGLISH: WRITING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.43,
+                    32.7411,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "ALGEBRA I"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.28,
+                    38.0477,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "ALGEBRA II"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.11,
+                    43.4618,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "GEOMETRY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.51,
+                    17.0792,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "U. S. HISTORY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.78,
+                    46.3887,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "WORLD HISTORY I"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.65,
+                    29.9789,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "WORLD HISTORY II"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26,
+                    43.2056,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "WORLD GEOGRAPHY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.09,
+                    41.5974,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "EARTH SCIENCE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.08,
+                    49.1502,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "BIOLOGY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.55,
+                    29.8728,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "CHEMISTRY"
+            }
+        }
+    ]
+}
