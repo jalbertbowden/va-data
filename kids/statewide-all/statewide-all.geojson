@@ -1,0 +1,485 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2001,
+                    2000,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Grade 3",
+                "description": "1998"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65,
+                    61,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "    English",
+                "description": "55"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77,
+                    71,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "    Mathematics",
+                "description": "63"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72,
+                    65,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "    History & Social Science",
+                "description": "49"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74,
+                    73,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "    Science",
+                "description": "63"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2001,
+                    2000,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Grade 5",
+                "description": "1998"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73,
+                    68,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "English:RLR",
+                "description": "68"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84,
+                    81,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "    Writing",
+                "description": "65"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67,
+                    63,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "    Math",
+                "description": "47"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63,
+                    51,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "    History & Social Science ",
+                "description": "33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75,
+                    64,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "    Science",
+                "description": "59"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82,
+                    85,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "    Computer/Tech",
+                "description": "72"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2001,
+                    2000,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Grade 8",
+                "description": "1998"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73,
+                    70,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "English:RLR",
+                "description": "65"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75,
+                    76,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "    Writing",
+                "description": "67"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68,
+                    61,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "    Math",
+                "description": "53"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56,
+                    50,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "    History & Social Science ",
+                "description": "35"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84,
+                    82,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "    Science",
+                "description": "71"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79,
+                    78,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "    Computer/Tech",
+                "description": "63"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2001,
+                    2000,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "High School",
+                "description": "1998"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82,
+                    78,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "English:RLR",
+                "description": "72"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84,
+                    85,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "    Writing",
+                "description": "71"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74,
+                    65,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "     Algebra I",
+                "description": "40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74,
+                    58,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "     Algebra II",
+                "description": "31"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73,
+                    67,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "     Geometry",
+                "description": "52"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47,
+                    39,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "     U. S. History",
+                "description": "30"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83,
+                    75,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "     World History I",
+                "description": "62"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65,
+                    60,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "     World History II ",
+                "description": "41"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77,
+                    76,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "    World Geography",
+                "description": "N/A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73,
+                    70,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "     Earth Science",
+                "description": "58"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81,
+                    79,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "     Biology",
+                "description": "72"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74,
+                    64,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "     Chemistry",
+                "description": "54"
+            }
+        }
+    ]
+}
