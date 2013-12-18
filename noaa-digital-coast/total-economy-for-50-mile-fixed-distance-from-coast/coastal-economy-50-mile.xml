@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Coastal Services Center (CSC)</origin>
+        <pubdate>2013</pubdate>
+        <title>Coastal Economic Trends for Areas Within a 50 Mile-Fixed Distance Inland from the Coastline</title>
+        <pubinfo>
+          <pubplace>Charleston, SC</pubplace>
+          <publish>NOAA's Ocean Service, Coastal Services Center (CSC)</publish>
+        </pubinfo>
+        <onlink>http://www.csc.noaa.gov/digitalcoast/dataregistry/</onlink>
+        <onlink>http://www.csc.noaa.gov/</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>These market data provide a comprehensive set of measures of changes in economic activity throughout the coastal regions of the United States. In regard to the sources of data, establishments, employment, and wages are taken from the Quarterly Census of Employment and Wages (QCEW). These data series also is known as the ES-202 data. These data are based on the quarterly reports of nearly all employers in the United States. These reports are filed with each state’s employment or labor department, and each state then transmits the data to the Bureau of Labor Statistics (BLS), where the national databases are maintained. The data for the Coastal Economies have been taken from the national databases at BLS (except in the case of Massachusetts). Gross State Product (GSP) data are taken from the Bureau of Economic Analysis (BEA), which develops the estimates of GSP from a number of sources. In regard to “employment”, data are reported by employers, not employees, and does not contain any information about age. There is no difference between “employed” and “employment”. The source is known as the payroll survey, a survey filed by employers every 3 months showing the number of people employed at each establishment in each of the preceding 3 months.</abstract>
+      <purpose>The purpose of the time series demographic statistics data files is to provide users with socio-demographic information such as population, age, structures, racial and ethnic composition, income contributions, and residential mobility in a format that facilitates comparisons across time and space.</purpose>
+      <supplinf>Many of the goals of those involved in environmental management and policy include finding the balance in the coexistence of natural ecosystems and human society, therefore a complete picture of the geographic patterns of human activity and its relationship to the coastal environment is needed. BLS Economic Trends data derived from County Level data are provided for several selected jurisdictions in STICS in a format that facilitates comparisons across time and space.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>1990</begdate>
+          <enddate>2010</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Continually</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-178.217598</westbc>
+        <eastbc>-66.969271</eastbc>
+        <northbc>71.406235</northbc>
+        <southbc>18.921786</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>oceans</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <theme>
+        <themekt>socioeconomic</themekt>
+        <themekey>demographic</themekey>
+        <themekey>economic</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>United States</placekey>
+        <placekey>Coastal</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>None</useconst>
+  </idinfo>
+  <dataqual>
+    <logic>The Economic Trends-Coastal Economy database provides data by County and by State. The county-level coastal economy data are highly subject to data suppressions because many sectors and industries have too few establishments in small counties to be shown. Users should always use the reported totals when available rather than attempting to sum sectors or industries at the county-level.</logic>
+    <complete>The Economic Trends-Coastal Economy database provides data by County and by State. The county-level coastal economy data are highly subject to data suppressions because many sectors and industries have too few establishments in small counties to be shown. Users should always use the reported totals when available rather than attempting to sum sectors or industries at the county-level. All of the data reported in these data files met the QA specifications.</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Bureau of Labor Statistics (BLS)</origin>
+            <pubdate>2010</pubdate>
+            <title>Quarterly Census of Employment and Wages (QCEW)</title>
+            <othercit>NOAA received this data from another federal agency. Questions regarding the original data collection and /or processing should be directed to that agency.</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>database</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2010</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Bureau of Labor Statistics (BLS)</srccitea>
+        <srccontr>Establishment, employment, and wage data from the QCEW database</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Bureau of Economic Analysis (BEA)</origin>
+            <pubdate>2010</pubdate>
+            <title>Gross Domestic Product (GDP) by State</title>
+            <othercit>NOAA received this data from another federal agency. Questions regarding the original data collection and /or processing should be directed to that agency.</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>database</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2010</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Bureau of Economic Analysis (BEA)</srccitea>
+        <srccontr>Gross Domestic Product (GDP) and real Gross Domestic Product (GDP) by State</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The county level (BLS) data 1990-2011 were obtained from the BLS public web site (ftp://ftp.bls.gov/pub/special.requests/cew/). The GDP and RGDP data were obtained from the BEA public site at the State level (http://www.bea.gov/regional/gsp). The method of disaggregating State level data to County level data is explained in “A Guide to the Measurement of the Market Data for the Ocean and Coastal Economy” (http://www.oceaneconomics.org/Download/Market_Guide.asp). The files were then imported into the Statistical Analysis System (SAS) software for further processing and analysis. a) County level data were disaggregated to several place based management boundaries (ex. NERRS, NEP), Floodplains (ex. FEMA Coastal Flood Hazard Area), NOAA and CAF watersheds, and other boundaries using a block group area proration-county disaggregation methodology as follows: The county data were distributed accordingly to the population of block groups in the county. Then, the block group areas were intersected with the geography of interest (ex. watershed) using the ESRI ArcGIS software. Any block group that was partially included in the geography of interest was arealy prorated.</procdesc>
+        <srcused>Bureau of Labor Statistics (BLS)</srcused>
+        <srcused>Bureau of Economic Analysis (BEA)</srcused>
+        <procdate>2010</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <eainfo>
+    <overview>
+      <eaover>The common variables that are available for the data are establishments, employment, wages, real wages, gross domestic product, and real gross domestic product.</eaover>
+      <eadetcit>Detailed attribute information can be found at http://csc.noaa.gov/htdata/SocioEconomic/CoastalEconomy/CoastalEconomy_DataDictionary.pdf</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>NOAA Coastal Services Center</cntorg>
+          <cntper>Clearinghouse Manager</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>2234 South Hobson Avenue</address>
+          <city>Charleston</city>
+          <state>South Carolina</state>
+          <postal>29405-2413</postal>
+        </cntaddr>
+        <cntvoice>(843)740-1210</cntvoice>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Any conclusions drawn from the analysis of this information are not the responsibility of the NOAA Coastal Services Center or its partners.</distliab>
+  </distinfo>
+  <metainfo>
+    <metd>20130103</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>NOAA Coastal Services Center</cntorg>
+          <cntper>Clearinghouse Manager</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>2234 South Hobson Avenue</address>
+          <city>Charleston</city>
+          <state>South Carolina</state>
+          <postal>29405-2413</postal>
+        </cntaddr>
+        <cntvoice>(843)740-1210</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>
