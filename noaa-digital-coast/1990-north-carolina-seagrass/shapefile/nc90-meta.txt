@@ -1,0 +1,546 @@
+IDENTIFICATION_INFORMATION
+  Citation:
+    Citation_Information:
+      Originator: NOAA/SEFSC/Beaufort Lab
+      Publication_Date: 19981201
+      Title: Marine/Estuarine Aquatic Bed, Rooted Vascular (Submersed Rooted Vasculars, SRV)
+      Edition: 1
+      Geospatial_Data_Presentation_Form: Map
+      Publication_Information:
+        Publication_Place: Charleston, SC
+        Publisher: NOAA Coastal Services Center (CSC)
+      Online_Linkage: http://www.csc.noaa.gov/digitalcoast/data/benthiccover/
+      Online_Linkage: http://www.csc.noaa.gov/ 
+  Description:
+    Abstract:
+      A GIS data set of polygon data interpreted from aerial
+      photography taken by NOAA/NOS Photogrammetry Branch
+      depicting areas of Aquatic Beds of Rooted Vascular Plants
+      in coastal north Carolina. Predominantly submersed rooted
+      vasculars (SRV) but including some floating rooted
+      vasculars (FRV). The nomenclature and definitions
+      originally developed according to the Coastal Land Cover
+      Classification System for the NOAA Coastal Change Analysis
+      Project (C-CAP), Journal of Coastal Research 9(3):862-872
+      have been crosswalked into the Florida System For
+      Classification of Habitats in Estuarine and Marine
+      Environments (SCHEME) to build consistency with
+      similar NOAA developed benthic data sets.
+    Purpose:
+      To improve the understanding of coastal photic submersed
+      lands and their linkages with wetlands and uplands, and
+      with living marine organisms. To assist government agencies
+      and others in making resource management decisions through
+      the use of GIS.
+    Supplemental_Information:
+      Photointerpretation with a Wild AVIOPRET stereoscope.
+      Photographs and data were compiled on a Bausch and Lomb
+      stereo zoom transfer scope at a scale of 1:24,000 on USGS
+      7.5' topographic maps or on NOAA shoreline topographic
+      sheets scaled to 1:24,000 (original scale 1:20,000). Data
+      is a merge of several coverages dependent on map base,
+      photo mission, and photographic scale.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 1985
+        Ending_Date: 1990
+    Currentness_Reference: Dates of Photography
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: As needed
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -77.0865
+      East_Bounding_Coordinate: -75.4635
+      North_Bounding_Coordinate: 36.6545
+      South_Bounding_Coordinate: 34.6025
+  Keywords:
+    Theme: 
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: oceans and estuaries
+      Theme_Keyword: geoscientificinformation
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Submersed Aquatic Vegetation 
+      Theme_Keyword: SAV
+      Theme_Keyword: Aquatic Bed
+      Theme_Keyword: Rooted Vascular
+      Theme_Keyword: Marine Rooted Vascular
+      Theme_Keyword: Estuarine Rooted Vascular
+      Theme_Keyword: Seagrass
+      Theme_Keyword: SAV
+      Theme_Keyword: Eelgrass
+      Theme_Keyword: Shoalgrass
+      Theme_Keyword: Widgeon Grass
+      Theme_Keyword: Zostera Marina
+      Theme_Keyword: Halodule Wrightii
+      Theme_Keyword: Ruppia Maritima
+      Theme_Keyword: Wild Celery
+      Theme_Keyword: Vallisneria Americana
+      Theme_Keyword: Eurasian Water Milfoil
+      Theme_Keyword: Myriophyllum Spicatum
+      Theme_Keyword: Bushy Pondweed
+      Theme_Keyword: Najas Guadalupensis
+      Theme_Keyword: Redhead Grass
+      Theme_Keyword: Potamogeton Perfoliatus
+      Theme_Keyword: Sago Pondweed
+      Theme_Keyword: Potamogeton Pectinatus
+      Theme_Keyword: Leafy Pondweed
+      Theme_Keyword: Potamogeton Foliosus
+      Theme_Keyword: Horned Pondweed
+      Theme_Keyword: Zannichellia Palustris
+      Theme_Keyword: Underwater Vegetation
+      Theme_Keyword: Living Marine Resources
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: North Carolina
+      Place_Keyword: Eastern North Carolina
+      Place_Keyword: Coastal North Carolina
+      Place_Keyword: Back Sound
+      Place_Keyword: Core Sound
+      Place_Keyword: Albemarle Sound
+      Place_Keyword: Pamlico Sound Currituck Sound Neuse River
+      Place_Keyword: Neuse River Estuary
+      Place_Keyword: Pamlico River
+      Place_Keyword: Pamlico River Estuary
+      Place_Keyword: Pungo River
+      Place_Keyword: Alligator River
+      Place_Keyword: Newport River
+      Place_Keyword: Perquimans River
+      Place_Keyword: Pasquotank River
+      Place_Keyword: Cape Lookout
+      Place_Keyword: Cape Hatteras
+      Place_Keyword: Beaufort Inlet
+      Place_Keyword: Barden Inlet
+      Place_Keyword: Drum Inlet
+      Place_Keyword: Ocracoke Inlet
+      Place_Keyword: Hatteras inlet
+      Place_Keyword: Oregon Inlet
+      Place_Keyword: USA
+  Access_Constraints:
+    None
+  Use_Constraints:
+    Data set is not for use in navigation or litigation. While
+    efforts have been made to ensure that these data are
+    accurate and reliable within the state of the art, NOAA
+    cannot assume liability for any damages or
+    misrepresentation caused by any inaccuracies in the data or
+    as a result of the data being used on a particular system.
+    NOAA makes no warranty, expressed or implied, nor does the
+    fact of distribution consititute such a warranty.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: NOAA/NOS/Coastal Services Center
+        Contact_Person: Mark Finkbeiner
+      Contact_Position: Physical Scientist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 2234 South Hobson Avenue
+        City: Charleston
+        State_or_Province: South Carolina
+        Postal_Code: 29405
+        Country: USA
+      Contact_Voice_Telephone: (843) 740-1264
+      Contact_Facsimile_Telephone: (843) 740-1289
+      Contact_Electronic_Mail_Address: mark.finkbeiner@noaa.gov
+      Hours_of_Service: 8:00 - 17:00 Eastern Time
+  Native_Data_Set_Environment:
+    Arc/Info coverage format
+    f:\ccap2\mfinkbei\core_sound\habitat_data\nc_final
+ DATA_QUALITY_INFORMATION:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report:
+      Attribute accuracy for habitat polygons has not been
+      conducted. Field checks of all benthic signatures present
+      in the photographs were conducted to resolve those benthic
+      features that potentially could be confused with submersed
+      rooted vegetation. The number and locations of site visits
+      were based on judgement of the photointerpreter who led the
+      field verification phase of the surface level sampling. In
+      a second type of surface level work, a grid randomly placed
+      on a nautical chart determined the nominal latitude and
+      longitude of stations. These were sampled for species of
+      submersed rooted vegetation and ancillary environmental
+      information. The methodology was inappropriate for accuracy
+      assessment of the remotely based haitat data for thre
+      reasons. 1) Any plants within a quarter mile radius of the
+      stations coordinates were sampled and indicated as positive
+      in the field database. Rare ocurances of small clusters of
+      plants would not be mapped from the photographs due to the
+      minimum mapping unit. 2) Navigation to stations was
+      accomplished with LORAN C which was spatially much less
+      accurate than was expected with the photographic approach.
+      Reference data must be a more reliable source than the data
+      to be avaluated. 3) Some nominal station locations were
+      unexpectedy deep or unsafe to approach or sample and were
+      arbitrarily moved to an adjacent more appropriate location.
+      This could have biased the spatial sampling.
+  Logical_Consistency_Report:
+    The classification scheme comprehensively includes all
+    subtidal bottom classified for the presence or absence of
+    submersed rooted vegetation. Void areas exceeding minimum
+    mapping unit were mapped within vegetation polygons and are
+    delineated and labeled. Overlay of the compiled and
+    digitized polygons of vegetation included a few instances
+    of overlap with dry land on the map base. This was
+    particularly true for data compiled on 7.5' map bases due
+    to the time differential between the photographic dates for
+    the map bases (typically 1940s for shorelines and 1970's or
+    1980's for cultural features) and the aquatic bed
+    photography (1985 to 1990) The shoreline moved in some
+    cases. Logical consistency in terms of topology for
+    vegetaion polygons was confirmed in ARC/INFO and test plots
+    of the digitized data at the compilation sclale (1:24,000)
+    were compared for consistency and similarity of
+    cartographic style with the source maps and were edited if necessary.
+  Completeness_Report:
+    The classification scheme includes one class at the Class
+    level and one at the Subclass 1 level within the SCHEME
+    system. All SRV within the study area were delineated,
+    unless flagged in the data set, to a depth of approximately
+    10 feet lower mean low water (LMLW), deeper than aquatic
+    beds are known to grown in the study area. Limited parts of
+    the study area were not successfully photographed and
+    therfore data for those locations are omitted from the
+    coverage. The photography provides a record of only a
+    single time period so that ephemeral beds not present at
+    the time of photography are omitted. This may be the case
+    for some Zostera marina beds, for example, which can sprout
+    from seed in the late spring and die due to heat stress and
+    exposure in the summer. Zostera marina is a perennial grass
+    which over winters as rhizomes within the substrate.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report:
+        Horizontal positional accuracy has not been established  for the data set. National Map Accuracy standards (at a
+        compilation scale of 1:24,000) are assumed as the
+        theroetical optimal accuracy of this data. Accuracy is
+        limited by the accuracy and temporal coincidence of base
+        map and interpretation of the aquatic bed data from
+        photographs. In the case of USGS 7.5' topographic maps, the cultural information is more contemporary (up to 10 or 15
+        years out of date) than the geographic information (up to
+        45 years out of date). NOAA shoreline and cultural data
+        (based on 1988 and 1991 photography) are within six years
+        of the aquatic bed photography. The dearth of cultural
+        information throughout most of the study area resulted in a dependency on geographic features for local horizontal
+        control of the phoographic data. The aquatic bed
+        photographs were more consistent with contemprorary NOAA
+        shoreline topographic map bases (from 1988 and 1991)
+        photography and use of these map bases presumbably
+        increased overall accuracy of the vegetation map. Aerial
+        photography is registered by local horizontal control to
+        base maps in a zoom transfer scope. Reference features are readily identifiable and can be accurately positioned on
+        the photograph and on the base map. Cultural feature are
+        preferred and geogpracphic features are used if necesssary. The base maps are USGS 7.5' topographic series or NOAA shoreline topographic sheets.
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report:
+        The SRV data carries no vertical attributes and no
+        assessment or measure of vertical accuracy was conducted.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: NOAA/NOS/C&CS/ Photogrammetry Branch
+          Publication_Date: 1990
+          Title: NOS Aerial Photograph Archive
+          Geospatial_Data_Presentation_Form: map
+          Publication_Information:
+            Publication_Place: Silver Spring, MD
+            Publisher: NOAA
+          Other_Citation_Details: None
+          Online_Linkage: None
+      Source_Scale_Denominator: 24,000
+      Type_of_Source_Media: Film diapositives
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1985
+            Ending_Date: 1990
+        Source_Currentness_Reference: Ground Condition
+      Source_Citation_Abbreviation: NOAA/NMFS
+      Source_Contribution: Source photography for SAV interpretation
+    Process_Step:
+      Process_Description:
+        Acquisition of metric aerial photography. Conventional color aerial photography was collected in several missions following the protocols described in NOAA Technical Report NMFS 123.  Both film diapostives and paper prints were used for the interpretation. 
+      Source_Used_Citation_Abbreviation: None
+      Process_Date: 1985-1990
+      Source_Produced_Citation_Abbreviation: None
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: NOAA/NOS/C&CS/Photogrammetry Branch
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 1315 East-West Highway
+            City: Silver Spring
+            State_or_Province: Maryland
+            Postal_Code: 20910
+            Country: USA
+          Contact_Voice_Telephone: None
+          Hours_of_Service: 8:00 - 17:00 Eastern Time
+    Process_Step:
+      Process_Description:
+        Compilation of Photographic Information.  Aerial photos were interpreted and habitats delineated on acetate overlays affixed to the film.  Field information was used to guide this mapping process.  The interpreted photo delineations were then transfered to hard-copy base maps using a zoom-transfer scope to fit the polygons to a planimetric base. 
+      Source_Used_Citation_Abbreviation: None
+      Process_Date: 1990
+      Source_Produced_Citation_Abbreviation: None
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Organization: NOAA/NMFS/SEFSC/Beaufort Lab
+            Contact_Person: Lisa Wood
+          Contact_Position: Photogrammetrist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 101 Pivers Island Rd.
+            City: Beaufort
+            State_or_Province: North Carolina
+            Postal_Code: 28516
+            Country: USA
+          Contact_Voice_Telephone: 252-728-8742
+          Contact_Facsimile_Telephone: 252-728-8784 
+          Contact_Electronic_Mail_Address: lisa.wood@noaa.gov
+          Hours_of_Service: 8:00 - 17:00 Eastern Time
+    Process_Step:
+      Process_Description:
+        Digitization of Compiled Photographic Interpretations.
+        1:24,000 scale bases were supplied to CGIA by the
+        NOAA/NMFS/SEFSC/Beaufort Lab. These were used to digitize
+        the delineated areas of SRV. All digital files were later
+        compiled into one digital GIS data set. Checkplots were
+        created for review by the Beaufort Lab and any corrections made.
+      Source_Used_Citation_Abbreviation: None
+      Process_Date: Unknown
+      Source_Produced_Citation_Abbreviation: None
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Organization: North Carolina Center for Geographic Information and Analysis
+            Contact_Person: Ken Shaffer
+          Contact_Position: Senior GIS analyst
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 301 North Wilmington Street, Suite 700
+            City: Raleigh
+            State_or_Province: North Carolina
+            Postal_Code: 27601
+            Country: USA
+          Contact_Voice_Telephone: Unknown
+          Contact_Facsimile_Telephone: Unknown
+          Contact_Electronic_Mail_Address: Unknown
+          Hours_of_Service: 8:30 - 17:30 Eastern Time
+SPATIAL_DATA_ORGANIZATION_INFORMATION:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: GT-polygon composed of chains
+      Point_and_Vector_Object_Count: 1368
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Grid_Coordinate_System:
+        Grid_Coordinate_System_Name: Universal Transverse Mercator
+        Universal_Transverse_Mercator: 
+          UTM_Zone_Number: 18
+          Transverse_Mercator:
+            Scale_Factor_at_Central_Meridian: 0.999600
+            Longitude_of_Central_Meridian: -75.000000
+            Latitude_of_Projection_Origin: 0.000000
+            False_Easting: 500000.000000
+            False_Northing: 0.000000      
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: Coordinate pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 0.0000001
+          Ordinate_Resolution: 0.0000001
+        Planar_Distance_Units: Meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6,378,137
+      Denominator_of_Flattening_Ratio: 298.257
+ENTITY_AND_ATTRIBUTE_INFORMATION:
+  Overview_Description:
+    Entity_and_Attribute_Overview:
+      One polygonal vector data set depicting Submersed Rooted
+      Vascular vegetaion ISRV) habitats. Each habitat polygon has
+      an areal extent expressed in hectare units. Each polygon is
+      also assigned a code value which corresponds to the SCHEME
+      Class or Subclass 1 designation. The
+      data are for presence or absence of SRV habitat only with a
+      minimum detection unit of approximately 1 meter and a
+      minimum mapping unit of 0.03 hectares. Attribute data do
+      not include species or SRV or ambient salinity.
+    Entity_and_Attribute_Detail_Citation:
+      The nomenclature and code values for all polygons are
+      consistent with the System for Classification of Habitats
+      in Estuarine and Marine Environments (SCHEME) in Florida.
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: nc90
+      Entity_Type_Definition: SCHEME Classification
+      Entity_Type_Definition_Source: NOAA 
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: AREA
+      Attribute_Definition: Area of feature in meters squared.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Positive real numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: PERIMETER
+      Attribute_Definition: Perimeter of delineted polygons in meters.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Positive real numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: AREA_HEC
+      Attribute_Definition: Polygon area in hectares.
+      Attribute_Definition_Source: NMFS
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Date
+    Attribute:
+      Attribute_Label: HABITAT
+      Attribute_Definition: SAV presence or absence.
+      Attribute_Definition_Source: NMFS
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Date
+    Attribute:
+      Attribute_Label: CLASS
+      Attribute_Definition: Classes describe the general dominant life forms or the physiography and composition of the substrate.
+      Attribute_Definition_Source: SCHEME
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: SCHEME System
+          Codeset_Source: Florida Fish and Wildlife Conservation Commission
+    Attribute:
+      Attribute_Label: SUBCLASS1
+      Attribute_Definition: Subclasses define habitats with finer resolution descriptions or with geographic extents that require field measurements for verification.
+      Attribute_Definition_Source: SCHEME
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: SCHEME System
+          Codeset_Source: Florida Fish and Wildlife Conservation Commission
+    Attribute:
+      Attribute_Label: SUBCLASS2
+      Attribute_Definition: Subclasses define habitats with finer resolution descriptions or with geographic extents that require field measurements for verification.
+      Attribute_Definition_Source: SCHEME
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: SCHEME System
+          Codeset_Source: Florida Fish and Wildlife Conservation Commission
+    Attribute:
+      Attribute_Label: SUBCLASS3
+      Attribute_Definition: Subclasses define habitats with finer resolution descriptions or with geographic extents that require field measurements for verification.
+      Attribute_Definition_Source: SCHEME
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: SCHEME System
+          Codeset_Source: Florida Fish and Wildlife Conservation Commission
+    Attribute:
+      Attribute_Label: SUBCLASS4
+      Attribute_Definition: Subclasses define habitats with finer resolution descriptions or with geographic extents that reqire field measurements for verification.
+      Attribute_Definition_Source: SCHEME
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: SCHEME System
+          Codeset_Source: Florida Fish and Wildlife Conservation Commission
+    Attribute:
+      Attribute_Label: Modifier
+      Attribute_Definition: The modifiers allow detailed information to be included at all levels of the structure.
+      Attribute_Definition_Source: SCHEME
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: SCHEME System
+          Codeset_Source: Florida Fish and Wildlife Conservation Commission
+    Attribute:
+      Attribute_Label: TAXONOMIC
+      Attribute_Definition: Taxonomic modifiers classify complex habitats with mixed geological and biological components.
+      Attribute_Definition_Source: SCHEME
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: SCHEME System
+          Codeset_Source: Florida Fish and Wildlife Conservation Commission
+    Attribute:
+      Attribute_Label: SCHEME_COD
+      Attribute_Definition: Numeric value for SCHEME class and subclass units
+      Attribute_Definition_Source: SCHEME
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: SCHEME System
+          Codeset_Source: Florida Fish and Wildlife Conservation Commission      
+DISTRIBUTION_INFORMATION:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: NOAA Coastal Services Center
+        Contact_Person: Benthic mapping project leader
+      Contact_Position: Remote sensing specialist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 2234 South Hobson Avenue
+        City: Charleston
+        State_or_Province: South Carolina
+        Postal_Code: 29405
+        Country: USA
+      Contact_Voice_Telephone: 843-740-1264
+      Contact_Facsimile_Telephone: 843-740-1289
+      Contact_Electronic_Mail_Address: mark.finkbeiner@noaa.gov
+      Hours_of_Service: 8:00 - 17:00 Eastern Time
+  Resource_Description:
+    This data was generated by the NOAA Beaufort Lab as a pilot
+    methods development project for the NOAA NMFS Coastal
+    Change Analysis Program. The benthic component of the
+    program is now managed and implemented by the NOAA NOS
+    Coastal Services Center. Recoding of the original
+    classification attributes into the SCHEME system has been
+    conducted in order to bring consistency to benthic data
+    generated by the program. The
+    original data compiled in the North Carolina State Plane
+    coordinate system, zone 3200 with a North American Datum of
+    1983 has been reprojected into a Universal Transverse
+    Mercator projection, zone 18 to allow other benthic data to
+    be integrated on a regional basis.
+  Distribution_Liability:
+    Although every effort has been made to ensure the accuracy
+    of information, errors, and conditions originating from
+    physical methods used to develop the data may exist. Users
+    must assume resposibility to determine the appropriate use
+    of these data. The data are not recommended for use in
+    legal determinations and are intended for regional change
+    analysis only.
+METADATA_REFERENCE_INFORMATION:
+  Metadata_Date: 20030924
+  Metadata_Review_Date: 20120402 
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: NOAA Coastal Services Center
+        Contact_Person: Benthic mapping project leader
+      Contact_Position: Remote sensing specialist
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: 2234 South Hobson Avenue
+        City: Charleston
+        State_or_Province: South Carolina
+        Postal_Code: 29405
+        Country: USA
+      Contact_Voice_Telephone: 843-740-1264
+      Contact_Facsimile_Telephone: 843-740-1289
+      Contact_Electronic_Mail_Address: clearinghouse@noaa.gov
+      Hours_of_Service: 8:00 - 17:00 Eastern Time
+  Metadata_Standard_Name: FGDC CSDGM
+  Metadata_Standard_Version: FGDC-STD-001-1998
