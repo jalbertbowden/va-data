@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+<name>nep01</name>
+<description>Albemarle / Pamlico Sounds NEP</description>
+<Point><coordinates>29,50,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>nep03</name>
+<description>Barnegat Bay NEP</description>
+<Point><coordinates>4,5,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>nep04</name>
+<description>Buzzards Bay NEP</description>
+<Point><coordinates>11,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>nep05</name>
+<description>Casco Bay NEP</description>
+<Point><coordinates>3,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>nep06</name>
+<description>Charlotte Harbor NEP</description>
+<Point><coordinates>NULL,6,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>nep07</name>
+<description>Columbia River NEP</description>
+<Point><coordinates>80,138,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>nep08</name>
+<description>Corpus Christi Bay NEP</description>
+<Point><coordinates>16,22,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>nep09</name>
+<description>Delaware Estuary NEP</description>
+<Point><coordinates>89,46,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>nep10</name>
+<description>Delaware Inland Bays NEP</description>
+<Point><coordinates>1,NULL,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>nep11</name>
+<description>Galveston Bay NEP</description>
+<Point><coordinates>79,49,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>nep12</name>
+<description>Indian River Lagoon NEP</description>
+<Point><coordinates>5,11,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>nep13</name>
+<description>Long Island Sound NEP</description>
+<Point><coordinates>112,35,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>nep14</name>
+<description>Maryland Coastal Bays NEP</description>
+<Point><coordinates>1,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>nep15</name>
+<description>Massachusetts Bays NEP</description>
+<Point><coordinates>51,16,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>nep16</name>
+<description>Mobile Bay NEP</description>
+<Point><coordinates>16,61,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>nep17</name>
+<description>Morro Bay NEP</description>
+<Point><coordinates>2,NULL,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>nep18</name>
+<description>Narragansett Bay NEP</description>
+<Point><coordinates>24,10,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>nep19</name>
+<description>New Hampshire Estuary NEP</description>
+<Point><coordinates>4,3,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>nep20</name>
+<description>New York / New Jersey Harbor NEP</description>
+<Point><coordinates>177,35,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>nep21</name>
+<description>Peconic Bay NEP</description>
+<Point><coordinates>1,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>nep22</name>
+<description>Puget Sound NEP</description>
+<Point><coordinates>30,34,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>nep23</name>
+<description>San Francisco Bay NEP</description>
+<Point><coordinates>92,86,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>nep24</name>
+<description>San Juan Bay</description>
+<Point><coordinates>10,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>nep25</name>
+<description>Santa Monica Bay NEP</description>
+<Point><coordinates>5,3,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>nep26</name>
+<description>Sarasota Bay NEP</description>
+<Point><coordinates>6,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>nep27</name>
+<description>Tampa Bay NEP</description>
+<Point><coordinates>5,10,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>nep28</name>
+<description>Tillamook Bay NEP</description>
+<Point><coordinates>1,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>nep29</name>
+<description>Mississippi Drainage Basin to Gulf of Mexico</description>
+<Point><coordinates>822,1514,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>
