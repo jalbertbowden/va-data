@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Coastal Services Center (CSC)</origin>
+        <pubdate>2013</pubdate>
+        <title>FEMA HAZUS Critical Facilities for NOAA's National Estuarine Research Reserve System (NERRS) Large Estuary Watersheds</title>
+        <pubinfo>
+          <pubplace>Charleston, SC</pubplace>
+          <publish>NOAA's Ocean Service, Coastal Services Center (CSC)</publish>
+        </pubinfo>
+        <onlink>http://www.csc.noaa.gov/digitalcoast/dataregistry/#/</onlink>
+        <onlink>http://www.csc.noaa.gov/</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The critical facilities data came from FEMA’s HAZUS database and represent available
+information circa 2011. A critical facility is defined as a structure that, if flooded, would present an
+immediate threat to life, public health, and safety. The data may not be exhaustive, more
+thorough data exist both nationally and at the local level. HAZUS breaks critical facilities into two
+(2) groups: essential facilities and high potential loss (HPL) facilities. Essential facilities include
+hospitals, medical clinics, schools, fire stations, police stations and emergency operations
+facilities. High potential loss facilities include dams, levees, military installations, nuclear power
+plants and hazardous material sites.
+Within HAZUS, the lifeline inventory is divided between transportation and utility lifeline systems.
+There are seven (7) transportation systems that include highways, railways, light rail, bus, ports,
+ferry and airports. There are six (6) utility systems that include potable water, wastewater, natural
+gas, crude &amp; refined oil, electric power and communications.</abstract>
+      <purpose>The purpose of the time series demographic statistics data files is to provide users with socio-demographic information such as population, age, structures, racial and ethnic composition, income contributions, and residential mobility in a format that facilitates comparisons across time and space.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>2011</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Continually</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-178.217598</westbc>
+        <eastbc>-66.969271</eastbc>
+        <northbc>71.406235</northbc>
+        <southbc>18.921786</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>oceans</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <theme>
+        <themekt>socioeconomic</themekt>
+        <themekey>demographic</themekey>
+        <themekey>economic</themekey>
+        <themekey>population</themekey>
+        <themekey>age</themekey>
+        <themekey>racial and ethnic compositions</themekey>
+        <themekey>population</themekey>
+        <themekey>income distribution</themekey>
+        <themekey>time series demographic</themekey>
+        <themekey>block group</themekey>
+        <themekey>income distribution</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>United States</placekey>
+        <placekey>Coastal counties</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>None</useconst>
+  </idinfo>
+  <dataqual>
+    <logic>Counts of certain critical facilities in certain counties were compared against similar counts found in Internet sites. The differences found were in the range of 0.5% difference.</logic>
+    <complete>All of the data reported in these data files met the QA specifications.</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Federal Emergency Management Agency</origin>
+            <pubdate>2011</pubdate>
+            <title>Critical Facilities Database</title>
+            <othercit>NOAA received this data from another federal agency. Questions regarding the original data collection and /or processing should be directed to that agency.</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>database</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2011</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Federal Emergency Management Agency</srccitea>
+        <srccontr>Critical Facilities Database</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The Critical Facilities data were obtained in several ESRI geo-database tables by State. A python script was developed to create a single national shapefile for each of the 18 critical facilities selected for STICS. An ESRI Model builder script was then developed to tag each of the 18 national critical facilities to each of the STICS jurisdictions. A SAS macro was then written to read the .dbf file of the shapefiles to obtain both the counts of critical facilities on each of the STICS jurisdictions and to develop the final data tables.</procdesc>
+        <srcused>US Census Bureau</srcused>
+        <procdate>2011</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <eainfo>
+    <overview>
+      <eaover>Critical facilities play a central role in disaster response and recovery. Understanding which facilities are exposed, and the degree of that exposure, can help reduce or eliminate service interruptions and costly redevelopment.</eaover>
+      <eadetcit>Detailed attribute information can be found here:****************************LIVE LINK TO PDF WHEN AVAILABLE*****************</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>NOAA Coastal Services Center</cntorg>
+          <cntper>Clearinghouse Manager</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>2234 South Hobson Avenue</address>
+          <city>Charleston</city>
+          <state>South Carolina</state>
+          <postal>29405-2413</postal>
+        </cntaddr>
+        <cntvoice>(843)740-1210</cntvoice>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Any conclusions drawn from the analysis of this information are not the responsibility of the NOAA Coastal Services Center or its partners.</distliab>
+  </distinfo>
+  <metainfo>
+    <metd>20130103</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>NOAA Coastal Services Center</cntorg>
+          <cntper>Clearinghouse Manager</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>2234 South Hobson Avenue</address>
+          <city>Charleston</city>
+          <state>South Carolina</state>
+          <postal>29405-2413</postal>
+        </cntaddr>
+        <cntvoice>(843)740-1210</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>

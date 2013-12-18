@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+<name>ACE</name>
+<description>ACE Basin (Target)</description>
+<Point><coordinates>NULL,NULL,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>APA</name>
+<description>Apalachicola Bay (Target)</description>
+<Point><coordinates>3,3,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CBM1</name>
+<description>Chesapeake Bay, MD - Bush (Target)</description>
+<Point><coordinates>1,NULL,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CBM2</name>
+<description>Chesapeake Bay, MD - Nanticoke (Target)</description>
+<Point><coordinates>2,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CBV1</name>
+<description>Chesapeake Bay, VA - Catlett (Target)</description>
+<Point><coordinates>NULL,NULL,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CBV2</name>
+<description>Chesapeake Bay, VA - Goodwin (Target)</description>
+<Point><coordinates>NULL,NULL,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CBV3</name>
+<description>Chesapeake Bay, VA - Sweethall (Target)</description>
+<Point><coordinates>NULL,NULL,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CBV4</name>
+<description>Chesapeake Bay, VA - Taskinas (Target)</description>
+<Point><coordinates>NULL,NULL,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>DEL1</name>
+<description>Delaware - Bbird (Target)</description>
+<Point><coordinates>NULL,NULL,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>DEL2</name>
+<description>Delaware - Stjones (Target)</description>
+<Point><coordinates>4,NULL,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ELK</name>
+<description>Elkhorn Slough (Target)</description>
+<Point><coordinates>NULL,NULL,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>GND</name>
+<description>Grand Bay (Target)</description>
+<Point><coordinates>NULL,NULL,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>GRB</name>
+<description>Great Bay (Target)</description>
+<Point><coordinates>2,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>GTM</name>
+<description>Guana Tolomato Matanzas (Target)</description>
+<Point><coordinates>1,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HUD1</name>
+<description>Hudson River - Iona (Target)</description>
+<Point><coordinates>1,NULL,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HUD2</name>
+<description>Hudson River - Piermont (Target)</description>
+<Point><coordinates>2,NULL,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HUD3</name>
+<description>Hudson River - Stockpt (Target)</description>
+<Point><coordinates>NULL,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HUD4</name>
+<description>Hudson River - Tivoli (Target)</description>
+<Point><coordinates>NULL,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>JAC</name>
+<description>Jacques Cousteau (Target)</description>
+<Point><coordinates>NULL,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>JOB</name>
+<description>Jobos Bay (Target)</description>
+<Point><coordinates>NULL,NULL,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NIW</name>
+<description>North Inlet Winyah (Target)</description>
+<Point><coordinates>1,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NOR1</name>
+<description>North Carolina - Carson (Target)</description>
+<Point><coordinates>1,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NOR2</name>
+<description>North Carolina - Currituck (Target)</description>
+<Point><coordinates>2,9,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NOR3</name>
+<description>North Carolina - Masonboro (Target)</description>
+<Point><coordinates>3,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NOR4</name>
+<description>North Carolina - Zekes (Target)</description>
+<Point><coordinates>NULL,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>OWC</name>
+<description>Old Woman Creek (Target)</description>
+<Point><coordinates>NULL,NULL,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PDB</name>
+<description>Padilla Bay (Target)</description>
+<Point><coordinates>1,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RKB</name>
+<description>Rookery Bay (Target)</description>
+<Point><coordinates>NULL,NULL,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SAP</name>
+<description>Sapelo Island (Target)</description>
+<Point><coordinates>NULL,NULL,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SFB1</name>
+<description>San Francisco Bay - Chinacamp (Target)</description>
+<Point><coordinates>NULL,NULL,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SFB2</name>
+<description>San Francisco Bay - Rushranch (Target)</description>
+<Point><coordinates>1,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SOS</name>
+<description>South Slough (Target)</description>
+<Point><coordinates>NULL,NULL,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>TJR</name>
+<description>Tijuana River (Target)</description>
+<Point><coordinates>3,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEL</name>
+<description>Wells (Target)</description>
+<Point><coordinates>NULL,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WKB</name>
+<description>Weeks Bay (Target)</description>
+<Point><coordinates>NULL,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WQB</name>
+<description>Waquoit Bay (Target)</description>
+<Point><coordinates>NULL,2,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+<name>ACE</name>
+<description>ACE Basin (Estuary)</description>
+<Point><coordinates>7,10,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>APA</name>
+<description>Apalachicola Bay (Estuary)</description>
+<Point><coordinates>15,30,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CBM</name>
+<description>Chesapeake Bay, MD (Estuary)</description>
+<Point><coordinates>8,10,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CBV</name>
+<description>Chesapeake Bay, VA (Estuary)</description>
+<Point><coordinates>1,4,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>DEL</name>
+<description>Delaware (Estuary)</description>
+<Point><coordinates>65,32,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ELK</name>
+<description>Elkhorn Slough (Estuary)</description>
+<Point><coordinates>8,6,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>GND</name>
+<description>Grand Bay (Estuary)</description>
+<Point><coordinates>NULL,4,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>GRB</name>
+<description>Great Bay (Estuary)</description>
+<Point><coordinates>4,3,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>GTM</name>
+<description>Guana Tolomato Matanzas (Estuary)</description>
+<Point><coordinates>21,31,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HUD</name>
+<description>Hudson River (Estuary)</description>
+<Point><coordinates>79,21,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>JAC</name>
+<description>Jacques Cousteau (Estuary)</description>
+<Point><coordinates>5,6,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>JOB</name>
+<description>Jobos Bay (Estuary)</description>
+<Point><coordinates>NULL,NULL,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>KAC</name>
+<description>Kachemak Bay (Estuary)</description>
+<Point><coordinates>NULL,16,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>MAR</name>
+<description>Mission Aransas (Estuary)</description>
+<Point><coordinates>1,4,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NAR</name>
+<description>Narragansett Bay (Estuary)</description>
+<Point><coordinates>27,10,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NIW</name>
+<description>North Inlet Winyah (Estuary)</description>
+<Point><coordinates>15,25,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NOR</name>
+<description>North Carolina (Estuary)</description>
+<Point><coordinates>11,24,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>OWC</name>
+<description>Old Woman Creek (Estuary)</description>
+<Point><coordinates>6,25,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PDB</name>
+<description>Padilla Bay (Estuary)</description>
+<Point><coordinates>6,11,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RKB</name>
+<description>Rookery Bay (Estuary)</description>
+<Point><coordinates>1,3,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SAP</name>
+<description>Sapelo Island (Estuary)</description>
+<Point><coordinates>3,15,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SFB</name>
+<description>SanFrancisco Bay (Estuary)</description>
+<Point><coordinates>38,26,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SOS</name>
+<description>South Slough (Estuary)</description>
+<Point><coordinates>2,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>TJR</name>
+<description>Tijuana River (Estuary)</description>
+<Point><coordinates>3,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEL</name>
+<description>Wells (Estuary)</description>
+<Point><coordinates>NULL,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WKB</name>
+<description>Weeks Bay (Estuary)</description>
+<Point><coordinates>2,5,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WQB</name>
+<description>Waquoit Bay (Estuary)</description>
+<Point><coordinates>5,6,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>
