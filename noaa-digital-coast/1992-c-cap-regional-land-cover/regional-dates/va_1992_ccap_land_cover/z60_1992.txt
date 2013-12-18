@@ -1,0 +1,451 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS),Coastal Services Center (CSC)
+      Publication_Date: 20131115
+      Title: C-CAP zone 60 1992-Era Land Cover Metadata
+      Geospatial_Data_Presentation_Form: Map
+      Publication_Information:
+        Publication_Place: Charleston, SC
+        Publisher: NOAA's Ocean Service, Coastal Services Center (CSC)
+      Online_Linkage: http://www.csc.noaa.gov/landcover
+      Other_Citation_Details:
+        This classification is based on the following Landsat TM scenes:
+        p014r032	8/29/1993
+        p014r033	9/9/1991
+        p014r034	9/9/1991
+        p014r035	9/9/1991
+        p015r032	10/18/1991
+        p015r033	10/18/1991
+        p015r034	10/18/1991
+        p015r035	10/18/1991
+        p016r034	10/6/1990
+
+  Description:
+    Abstract: This is a final classification. It is ready for distribution. This data set is the 1992-era classification of U.S. East Coast, zone 60. This data set utilized 9 full or partial Landsat 5 Thematic Mapper scenes which were analyzed according to the Coastal Change Analysis Program (C-CAP) protocol to determine land cover.
+
+    Purpose: To improve the understanding of coastal uplands and wetlands, and their linkages with the distribution, abundance, and health of living marine resources.
+
+    Supplemental_Information:
+      The metadata in this record is for USGS zone 60, which includes
+      parts of North Carolina, Virginia, Maryland, New Jersey, Delaware, Pennsylvania, and New York.
+
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 19901006
+        Ending_Date: 19930829
+    Currentness_Reference: Date of the Landsat scenes
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: 5 years
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -79.045026
+      East_Bounding_Coordinate: -74.559898
+      North_Bounding_Coordinate: 40.284868
+      South_Bounding_Coordinate: 36.141420
+
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: imageryBaseMapsEarthCover
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Remotely Sensed Imagery/Photos
+      Theme_Keyword: Land Cover Analysis
+      Theme_Keyword: Change Detection Analysis
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: Coastal Zone
+      Place_Keyword: U.S. East Coast
+      Place_Keyword: Maryland
+      Place_Keyword: Virginia
+      Place_Keyword: Delaware
+      Place_Keyword: District of Columbia
+  Access_Constraints: None, except for a possible fee.
+  Use_Constraints: Data set is not for use in litigation. While efforts have been made to ensure that these data are accurate and reliable within the state of the art, NOAA, cannot assume liability for any damages, or misrepresentations, caused by any inaccuracies in the data, or as a result of the data to be used on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.
+
+  Native_Data_Set_Environment: ERDAS Imagine 8.7 on Microsoft Windows XP Professional Version 2002 Service Pack 2
+
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report:
+      According to accuracy assessment performed by MDA Federal for U.S. East Coast, the overall accuracy for the zone 60 2001 classification is 71% and 67.3% Kappa.
+      The 1996 update is based on updating the change areas between 2001 and 1996 imagery, and overlaying the results over 2001 land cover. Therefore the accuracy of the 2001 product is a sufficient indication of 1996 update accuracy as well within +/- 2.33% (the percent of area changed between 2001 and 1996).
+      The 1992 update is based on updating the change areas between 1992 and 1996 imagery, and overlaying the results over 1996 land cover. Therefore the accuracy of the 1992 product is within +/- 5.62% of the accuracy of the 2001 product (adding the percent change between 2001-1996 2.33%, and the percent change from 1996-1992 3.29% ).
+      The following per class accuracies are based on 2001 assessment.
+
+      Each class accuracy is as follows: (Errors of Omission/Commission)
+      0 Background (N/A)
+      1 Unclassified (Cloud, Shadow, etc)(N/A)
+      2 High Intensity Developed (59%/87%)
+      3 Medium Intensity Developed (23%/39%)
+      4 Low Intensity Developed (28%/74%)
+      5 Open Spaces Developed (57%/67%)
+      6 Cultivated Land (91%/88%)
+      7 Pasture/Hay (87%/85%)
+      8 Grassland (63%/80%)
+      9 Deciduous Forest (84%/88)
+      10 Evergreen Forest (88%/96%)
+      11 Mixed Forest (43%/95%)
+      12 Scrub/Shrub (75%/64%)
+      13 Palustrine Forested Wetland (94%/84%)
+      14 Palustrine Scrub/Shrub Wetland (81%/68%)
+      15 Palustrine Emergent Wetland (77%/94%)
+      16 Estuarine Forested Wetland (N/A)
+      17 Estuarine Scrub/Shrub Wetland (N/A)
+      18 Estuarine Emergent Wetland (93%/100%)
+      19 Unconsolidated Shore (0%/NA)
+      20 Bare Land (97%/88%)
+      21 Water (100%/93%)
+      22 Palustrine Aquatic Bed (N/A)
+      23 Estuarine Aquatic Bed (N/A)
+
+      The validation points were sampled from the field collected dataset of points BEFORE classification. These points were witheld from classification and not viewed or modified by staff involved in the classification process. The sampling procedure involved a spectral/clump-based spatial stratification. The 1992 leaf-off MRLC mosaic was clustered to 100 clusters and clumped. This layer was divided into alternating clumps. The even clumps were sent to potential validation, odd to training. The process was repeated such that 1/4 of the field points were earmarked as validation points. These points were then reviewed for accuracy and placement by independent QC staff. Points that were not correct or too close to feature boundaries were either deleted or moved to more feature-centric locations. No points were added or changed, only moved or deleted. Probably over half of the points were modified. NOAA CSC requires 6 out 9 (2/3) pixels in a 3x3 window of the land cover to correctly match the validation points. The land cover was processed to determine the 2/3 majority call for each pixel and then intersected with the validation points in an error matrix to derive the above numbers.
+
+      Post-Processing Steps: None
+
+      Known Problems: None
+
+      Spatial Filters: None
+
+  Logical_Consistency_Report: Tests for logical consistency indicate that all row and column positions in the selected latitude/longitude window contain data. Conversion and integration with vector files indicates that all positions are consistent with earth coordinates covering the same area. Attribute files are logically consistent.
+
+  Completeness_Report: Data does not exist for all classes. There are no pixels representing class 16 (Estuarine Forested Wetland) and class 23 (Estuarine Aquatic Bed). Class 1 (Unclassified) is intentionally left blank. All pixels have been classified. The NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA National Marine Fisheries Service Report 123, discusses the interagency effort to develop the land cover classification scheme and defines all categories.
+
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: Landsat scenes were geo-referenced by Eros Data Center. Spatial accuracy assessed by MDA Federal is found to be to within 2 pixels accuracy.
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: There was no terrain correction in the geo-referencing procedure.
+
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: MDA Federal
+          Publication_Date: 20131115
+          Title: C-CAP zone 60 1992-Era Land Cover Classification
+          Geospatial_Data_Presentation_Form: map
+          Publication_Information:
+            Publication_Place: Charleston SC
+            Publisher: NOAA Coastal Services Center
+          Online_Linkage: http://www.csc.noaa.gov/landcover
+      Type_of_Source_Media: DVD/CD-ROM
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 19901006
+
+            Ending_Date: 19930829
+
+        Source_Currentness_Reference: Date of the Landsat scenes
+      Source_Citation_Abbreviation: NOAA CSC
+      Source_Contribution: NOAA CSC
+
+    Process_Step:
+      Process_Description:
+        This dataset was created by MDA Federal. This classification is based on Landsat TM imagery from the MRLC 1992 database. The study area is zone 60, U.S. East Coast.
+
+        Pre-processing steps:
+        Each Landsat TM scene was geo-referenced by USGS (United States Geological Survey) EROS Data Center. Then MDA Federal staff verified the scenes for spatial accuracy to within 2 pixels. The data was geo-referenced to Albers Conical Equal Area, with a spheroid of GRS 1980, and Datum of WGS84. The data units is in meters. At-satellite reflectance was performed on each scene and the tasseled cap transformation applied. All of the image data used was Landsat TM 5 or 7. The mosaicked dataset was used for classification.
+
+        Change Detection:
+        The next step was to determine the areas of change between 1992 and 1996. The change detection algorithm used is the Cross Correlation Analysis process (CCA) developed at MDA Federal. This copyrighted procedure produced 2 Z-score files per scene of likelihood of change. These files were thresholded and mosaicked to create a binary change layer for that scene. In addition to the CCA process, a model was used to determine the differences between the 1992 and 1996 tasseled-cap layers.  This layer was used to check for change areas that were not completely extracted by the CCA process. All of the binary files were mosaicked to create a change layer for the entire study area. A focal majority was run on the change layer to fill in some clumps to make sure all of the change was accounted for. The change layer is a slight over-estimation of change to make sure to include as much change as detectable.
+
+        Classification:
+        The classification of the change areas was a mixture of automated and manual approaches. The change areas were removed from the 1996 classification. The areas with no change between 1992 and 1996 were used as training for a Classification and Regression tree (CART) analysis of the changed areas. Modelling and hand-editing were used to further refine the CART output and create a final classification. The classified change areas were overlaid on the 1996 C-CAP product to create a 1992 C-CAP classification. Attributes for this product are as follows:
+
+        0 Background
+        1 Unclassified (Cloud, Shadow, etc)
+        2 High Intensity Developed
+        3 Medium Intensity Developed
+        4 Low Intensity Developed
+        5 Developed Open Space
+        6 Cultivated Land
+        7 Pasture/Hay
+        8 Grassland
+        9 Deciduous Forest
+        10 Evergreen Forest
+        11 Mixed Forest
+        12 Scrub/Shrub
+        13 Palustrine Forested Wetland
+        14 Palustrine Scrub/Shrub Wetland
+        15 Palustrine Emergent Wetland
+        16 Estuarine Forested Wetland
+        17 Estuarine Scrub/Shrub Wetland
+        18 Estuarine Emergent Wetland
+        19 Unconsolidated Shore
+        20 Bare Land
+        21 Open Water
+        22 Palustrine Aquatic Bed
+        23 Estuarine Aquatic Bed
+        24 Tundra
+        25 Snow/Ice
+
+        Post-processing steps:
+        The QA process during the creation the 2010 land cover identified some errors in the previous dates of land cover that needed to be addressed to make a more accurate product.  Editing was performed on all dates of land cover to address site specific and region wide issues.  While the changes may not be large in area and/or be directly reflected in the accuracy assessment, we feel the products more accurately reflect the land cover for the time period.
+
+      Process_Date: 20131115
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Organization: NOAA Coastal Services Center Coastal Change Analysis Program (C-CAP)
+            Contact_Person: CRS (Coastal Remote Sensing) Program Manager
+          Contact_Position: CRS Program Manager
+          Contact_Address:
+            Address_Type: mailing and physical
+            Address: 2234 S. Hobson Ave.
+            City: Charleston
+            State_or_Province: SC
+            Postal_Code: 29405
+            Country: USA
+          Contact_Voice_Telephone: 843-740-1210
+          Contact_Facsimile_Telephone: 843-740-1224
+          Contact_Electronic_Mail_Address: clearinghouse@noaa.gov
+          Hours_of_Service: 8:00 am to 5:00 p.m. EST. M-F
+
+    Process_Step:
+      Process_Description: Classification
+      Process_Date: Unknown
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: NOAA Coastal Services Center Coastal Change Analysis Program (C-CAP)
+          Contact_Position: CRS Program Manager
+          Contact_Address:
+            Address_Type: mailing and physical
+            Address: 2234 S. Hobson Ave.
+            City: Charleston
+            State_or_Province: SC
+            Postal_Code: 29405
+            Country: USA
+          Contact_Voice_Telephone: 843-740-1210
+          Contact_Facsimile_Telephone: 843-740-1224
+          Contact_Electronic_Mail_Address: csc@noaa.gov
+          Hours_of_Service: Monday to Friday, 8 a.m. to 5 p.m., Eastern Standard Time
+
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Raster
+
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Map_Projection:
+        Map_Projection_Name: Albers Conical Equal Area
+        Albers_Conical_Equal_Area:
+          Standard_Parallel: 29.5
+          Standard_Parallel: 45.5
+          Longitude_of_Central_Meridian: 96 West
+          Latitude_of_Projection_Origin: 23 North
+          False_Easting: 0.00000
+          False_Northing: 0.00000
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: Row and column
+        Coordinate_Representation:
+          Abscissa_Resolution: 30 meter
+          Ordinate_Resolution: 30 meter
+        Planar_Distance_Units: Meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum 1983
+      Ellipsoid_Name: GRS80
+      Semi-major_Axis: 6378137.0
+      Denominator_of_Flattening_Ratio: 298.257
+
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: U.S. East Coast (zone 60)
+      Entity_Type_Definition: C-CAP zone 60 (U.S. East Coast) as delineated by NOAA using scene boundaries, hydrological units, and county boundaries
+      Entity_Type_Definition_Source: unknown
+    Attribute:
+      Attribute_Label: Landcover Classification
+      Attribute_Definition: Landcover Classification as determined by NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation
+      Attribute_Definition_Source: Dobson, J. et al, NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA Technical Report NMFS (National Marine Fisheries Service) 123, U.S. Department of Commerce, April 1995
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1 Unclassified
+          Enumerated_Domain_Value_Definition: This class contains no data due to cloud conditions or data voids.
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 2 High Intensity Developed
+          Enumerated_Domain_Value_Definition: Contains little or no vegetation. This subclass includes heavily built-up urban centers as well as large constructed surfaces in suburban and rural areas.  Large buildings (such as multiple family housing, hangars, and large barns), interstate highways, and runways typically fall into this subclass.  Impervious surfaces account for 80-100 percent of the total cover.
+          Enumerated_Domain_Value_Definition_Source: Dobson, J. et al, NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA Technical Report NMFS 123, U.S. Department of Commerce, April 1995.
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 3 Medium Intensity Developed
+          Enumerated_Domain_Value_Definition: Contains substantial amounts of constructed surface mixed with substantial amounts of vegetated surface. Small buildings (such as single family housing, farm outbuildings, and large sheds), typically fall into this subclass. Impervious surfaces account for 50-79 percent of the total cover.
+          Enumerated_Domain_Value_Definition_Source: Dobson, J. et al, NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA Technical Report NMFS 123, U.S. Department of Commerce, April 1995.
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 4 Low Intensity Developed
+          Enumerated_Domain_Value_Definition: Contains constructed surface mixed with vegetated surface. This class includes features seen class 3, with the addition of streets and roads with associated trees and grasses. Impervious surfaces account for 21-49 percent of the total cover.
+          Enumerated_Domain_Value_Definition_Source: Dobson, J. et al, NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA Technical Report NMFS 123, U.S. Department of Commerce, April 1995.
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 5 Developed Open Space
+          Enumerated_Domain_Value_Definition: Includes areas with a mixture of some constructed materials, but mostly vegetation in the form of lawn grasses. This subclass includes parks, lawns, athletic fields, golf courses, and natural grasses occurring around airports and industrial sites. Impervious surfaces account for less than 20 percent of total cover.
+          Enumerated_Domain_Value_Definition_Source: Dobson, J. et al, NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA Technical Report NMFS 123, U.S. Department of Commerce, April 1995.
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 6 Cultivated Land
+          Enumerated_Domain_Value_Definition: Includes herbaceous (cropland) and woody (e.g., orchards, nurseries, and vineyards) cultivated lands.
+          Enumerated_Domain_Value_Definition_Source: Dobson, J. et al, NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA Technical Report NMFS 123, U.S. Department of Commerce, April 1995.
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 7 Pasture/Hay
+          Enumerated_Domain_Value_Definition: Characterized by grasses, legumes or grass-legume mixtures planted for livestock grazing or the production of seed or hay crops.
+          Enumerated_Domain_Value_Definition_Source: Dobson, J. et al, NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA Technical Report NMFS 123, U.S. Department of Commerce, April 1995.
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 8 Grassland
+          Enumerated_Domain_Value_Definition: Dominated by naturally occurring grasses and non-grasses (forbs) that are not fertilized, cut, tilled, or planted regularly.
+          Enumerated_Domain_Value_Definition_Source: Dobson, J. et al, NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA Technical Report NMFS 123, U.S. Department of Commerce, April 1995.
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 9 Deciduous Forest
+          Enumerated_Domain_Value_Definition: Includes areas dominated by single stemmed, woody vegetation unbranched 0.6 to 1 meter above the ground and having a height greater than 5 meters and cover more than 20% of land area. More than 75 percent of the tree species shed foliage simultaneous in response to seasonal change.
+          Enumerated_Domain_Value_Definition_Source: Dobson, J. et al, NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA Technical Report NMFS 123, U.S. Department of Commerce, April 1995.
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 10 Evergreen Forest
+          Enumerated_Domain_Value_Definition: Includes areas in which more than 67 percent of the trees remain green throughout the year. Both coniferous and broad-leaved evergreens are included in this category.  Trees must be taller than 5 meters and more than 20% of the land cover.
+          Enumerated_Domain_Value_Definition_Source: Dobson, J. et al, NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA Technical Report NMFS 123, U.S. Department of Commerce, April 1995.
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 11 Mixed Forest
+          Enumerated_Domain_Value_Definition: Contains all forested areas in which both evergreen and deciduous trees are growing and neither predominate. Trees must be taller than 5 meters and more than 20% of the land cover.
+          Enumerated_Domain_Value_Definition_Source: Dobson, J. et al, NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA Technical Report NMFS 123, U.S. Department of Commerce, April 1995.
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 12 Scrub/Shrub
+          Enumerated_Domain_Value_Definition: Areas dominated by woody vegetation less than 5 meters in height. This class includes true shrubs,young trees, and trees or shrubs that are small or stunted because of environmental conditions. Includes both evergreen and deciduous scrub.
+          Enumerated_Domain_Value_Definition_Source: Dobson, J. et al, NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA Technical Report NMFS 123, U.S. Department of Commerce, April 1995.
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 13 Palustrine Forested Wetland
+          Enumerated_Domain_Value_Definition: Includes all non-tidal wetlands dominated by woody vegetation greater than or equal to 5 meters in height, and all such wetlands that occur in tidal areas in which salinity due to ocean-derived salts is below 0.5 parts per thousand (ppt).
+          Enumerated_Domain_Value_Definition_Source: Dobson, J. et al, NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA Technical Report NMFS 123, U.S. Department of Commerce, April 1995.
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 14 Palustrine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition: Includes all non-tidal wetlands dominated by woody vegetation less than or equal to 5 meters in height, and all such wetlands that occur in tidal areas in which salinity due to ocean-derived salts is below 0.5 ppt.
+          Enumerated_Domain_Value_Definition_Source: Dobson, J. et al, NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA Technical Report NMFS 123, U.S. Department of Commerce, April 1995.
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 15 Palustrine Emergent Wetland
+          Enumerated_Domain_Value_Definition: Includes all non-tidal wetlands dominated by persistent emergents, emergent mosses, or lichens, and all such wetlands that occur in tidal areas in which salinity due to ocean-derived salts is below 0.5 ppt.
+          Enumerated_Domain_Value_Definition_Source: Dobson, J. et al, NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA Technical Report NMFS 123, U.S. Department of Commerce, April 1995.
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 16 Estuarine Forest Wetland
+          Enumerated_Domain_Value_Definition: Includes all tidal wetlands dominated by woody vegetation greater than or equal to 5 meters in height, and all such wetlands that occur in tidal areas in which salinity due to ocean-derived salts is above 0.5 parts per thousand (ppt).
+          Enumerated_Domain_Value_Definition_Source: Dobson, J. et al, NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA Technical Report NMFS 123, U.S. Department of Commerce, April 1995.
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 17 Estuarine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition: Includes all tidal wetlands dominated by woody vegetation less than or equal to 5 meters in height, and all such wetlands that occur in tidal areas in which salinity due to ocean-derived salts is above 0.5 ppt.
+          Enumerated_Domain_Value_Definition_Source: Dobson, J. et al, NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA Technical Report NMFS 123, U.S. Department of Commerce, April 1995.
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 18 Estuarine Emergent Wetland
+          Enumerated_Domain_Value_Definition: Characterized by erect, rooted, herbaceous hydrophytes (excluding mosses and lichens) that are present for most of the growing season in most years. Perennial plants usually dominate these wetlands. All water regimes are included except those that are subtidal and irregularly exposed.
+          Enumerated_Domain_Value_Definition_Source: Dobson, J. et al, NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA Technical Report NMFS 123, U.S. Department of Commerce, April 1995.
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 19 Unconsolidated Shore
+          Enumerated_Domain_Value_Definition: Characterized by substrates lacking vegetation except for pioneering plants that become established during brief periods when growing conditions are favorable. Erosion and deposition by waves and currents produce a number of landforms, such as beaches, bars, and flats, all of which are included in this class.
+          Enumerated_Domain_Value_Definition_Source: Dobson, J. et al, NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA Technical Report NMFS 123, U.S. Department of Commerce, April 1995.
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 20 Bare Land
+          Enumerated_Domain_Value_Definition: Composed of bare soil, rock, sand, silt, gravel, or other earthen material with little or no vegetation.
+          Enumerated_Domain_Value_Definition_Source: Dobson, J. et al, NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA Technical Report NMFS 123, U.S. Department of Commerce, April 1995.
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 21 Open Water
+          Enumerated_Domain_Value_Definition: Includes all areas of open water with less than 25 percent cover of vegetation or soil.
+          Enumerated_Domain_Value_Definition_Source: Dobson, J. et al, NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA Technical Report NMFS 123, U.S. Department of Commerce, April 1995.
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 22 Palustrine Aquatic Bed
+          Enumerated_Domain_Value_Definition: Includes wetlands and deepwater habitats dominated by plants that grow principally on or below the surface of the water for most of the growing season in most years. Salinity due to ocean-derived salts is below 0.5 ppt.
+          Enumerated_Domain_Value_Definition_Source: Dobson, J. et al, NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA Technical Report NMFS 123, U.S. Department of Commerce, April 1995.
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 23 Estuarine Aquatic Bed
+          Enumerated_Domain_Value_Definition: Includes widespread and diverse Algal Beds in the Marine and Estuarine Systems, where they occupy substrates characterized by a wide range of sediment depths and textures. They occur in both the Subtidal and Intertidal Subsystems and may grow to depths of 30 m (98 feet). This includes kelp forests. Salinity due to ocean-derived salts is equal to or above 0.5 ppt.
+          Enumerated_Domain_Value_Definition_Source: Dobson, J. et al, NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA Technical Report NMFS 123, U.S. Department of Commerce, April 1995.
+          
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 24 Tundra
+          Enumerated_Domain_Value_Definition: Includes treeless cover beyond the latitudinal limit of the boreal forest in pole-ward regions and above the elevation range of the boreal forest in high mountains.
+          Enumerated_Domain_Value_Definition_Source: Dobson, J. et al, NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA Technical Report NMFS 123, U.S. Department of Commerce, April 1995.
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 25 Snow/Ice
+          Enumerated_Domain_Value_Definition: Includes persistent snow and ice that persist for greater portions of the year.
+          Enumerated_Domain_Value_Definition_Source: Dobson, J. et al, NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA Technical Report NMFS 123, U.S. Department of Commerce, April 1995.
+
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: NOAA Coastal Services Center
+        Contact_Person: Clearinghouse Manager
+      Contact_Position: Clearinghouse Manager
+      Contact_Address:
+        Address_Type: mailing and physical
+        Address: 2234 South Hobson Avenue
+        City: Charleston
+        State_or_Province: SC
+        Postal_Code: 29405-2413
+        Country: USA
+      Contact_Voice_Telephone: (843)740-1210
+      Contact_Facsimile_Telephone: (843)740-1224
+      Contact_Electronic_Mail_Address: clearinghouse@noaa.gov
+      Hours_of_Service: Monday-Friday, 8-5 EST
+  Resource_Description: Downloadable Data
+  Distribution_Liability: Users must assume responsibility to determine the usability of these data.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ERDAS Imagine image file (.img)
+      Digital_Transfer_Option:
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Format: ISO 9660
+          Compatibility_Information:
+            ISO 9660 format allows the CD-ROM
+            to be read by most computer operating systems.
+    Fees: none
+
+Metadata_Reference_Information:
+  Metadata_Date: 20131115
+  Metadata_Review_Date: 20131115
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: NOAA Coastal Services Center
+        Contact_Person: Metadata Specialist
+      Contact_Position: Metadata Specialist
+      Contact_Address:
+        Address_Type: mailing and physical
+        Address: 2234 S Hobson Ave.
+        City: Charleston
+        State_or_Province: SC
+        Postal_Code: 29405
+        Country: USA
+      Contact_Voice_Telephone: 843-740-1210
+      Contact_Facsimile_Telephone: 843-740-1224
+      Contact_Electronic_Mail_Address: csc@noaa.gov
+      Hours_of_Service: 8:00 am to 5:00 pm EST.
+  Metadata_Standard_Name: FGDC (Federal Geographic Data Committee) CSDGM (Content Standard for Digital Geospatial Metadata)
+  Metadata_Standard_Version: FGDC-STD-001-1998
+
+
+
+

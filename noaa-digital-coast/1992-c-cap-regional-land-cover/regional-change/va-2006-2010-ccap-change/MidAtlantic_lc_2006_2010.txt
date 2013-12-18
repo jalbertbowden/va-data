@@ -1,0 +1,3361 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Coastal Services Center (CSC)
+      Publication_Date: 20131115
+      Title: C-CAP Mid-Atlantic 2006-2010-Era Land Cover Change Data
+      Geospatial_Data_Presentation_Form: Map
+      Publication_Information:
+        Publication_Place: Charleston, SC
+        Publisher: NOAA's Ocean Service, Coastal Services Center (CSC)
+      Online_Linkage: http://www.csc.noaa.gov/landcover
+      
+  Description:
+    Abstract: This is a final classification. It is ready for distribution. This data set is the change analysis of the 2006-era and 2010-era classification of U.S. Mid-Atlantic. This product contains the land cover information for both dates and change information for the estimated change areas only.
+
+    Purpose: To improve the understanding of coastal uplands and wetlands, and their linkages with the distribution, abundance, and health of living marine resources.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 20050219
+        Ending_Date: 20101209
+
+    Currentness_Reference: Date of the Landsat scenes
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: 5 years
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -77.769033
+      East_Bounding_Coordinate: -75.214396
+      North_Bounding_Coordinate: 41.895633
+      South_Bounding_Coordinate: 35.474671
+
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: imageryBaseMapsEarthCover
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Remotely Sensed Imagery/Photos
+      Theme_Keyword: Land Cover Analysis
+      Theme_Keyword: Change Detection Analysis
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: Coastal Zone
+      Place_Keyword: U.S. Mid-Atlantic
+      Place_Keyword: Delaware
+      Place_Keyword: Virginia
+      Place_Keyword: Maryland
+      Place_Keyword: New Jersey 
+
+
+  Access_Constraints: None, except for a possible fee.
+  Use_Constraints: Data set is not for use in litigation. While efforts have been made to ensure that these data are accurate and reliable within the state of the art, NOAA, cannot assume liability for any damages, or misrepresentations, caused by any inaccuracies in the data, or as a result of the data to be used on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.
+
+  Native_Data_Set_Environment: ERDAS Imagine 8.7 on Microsoft Windows XP Professional Version 2002 Service Pack 2
+
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report:None.  Will be performed later.
+
+      Post-Processing Steps: None
+
+      Known Problems: None
+
+      Spatial Filters: None
+  Logical_Consistency_Report: Tests for logical consistency indicate that all row and column positions in the selected latitude/longitude window contain data. Conversion and integration with vector files indicates that all positions are consistent with earth coordinates covering the same area. Attribute files are logically consistent.
+
+  Completeness_Report: Data does not exist for all classes. Class 1 (Unclassified) is intentionally left blank. All pixels have been classified. The NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA National Marine Fisheries Service Report 123, discusses the interagency effort to develop the land cover classification scheme and defines all categories.
+
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: For information related to the accuracy of this data please refer to the original data from which this layer was derived. The original dates of C-CAP land cover used to derive this produce were 2006 and 2010 and the metadata records for those dates can be found at: http://www.csc.noaa.gov/landcover
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: There was no terrain correction in the geo-referencing procedure.
+
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: NOAA Coastal Services Center
+          Publication_Date: 20131115
+          Title: C-CAP Mid-Atlantic 2006-2010-Era Land Cover Change Data
+          Geospatial_Data_Presentation_Form: map
+          Publication_Information:
+            Publication_Place: NOAA CSC, Charleston, SC
+            Publisher: NOAA's Ocean Service, Coastal Services Center (CSC)
+          Online_Linkage: http://www.csc.noaa.gov/landcover
+      Type_of_Source_Media: DVD/CD-ROM
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 20050219
+            Ending_Date: 20101209
+
+        Source_Currentness_Reference: Date of the Landsat scenes
+      Source_Citation_Abbreviation: NOAA CSC
+      Source_Contribution: NOAA CSC
+
+    Process_Step:
+      Process_Description:
+        This dataset was created by NOAA’s Coastal Services Center, through the Coastal Change Analysis Program (C-CAP).  The data is based upon the post classification comparison of 2006 and 2010 era C-CAP land cover classifications.  ERDAS Imagine was used to create a matrix file between the two selected dates of land cover.
+  
+      Process_Date: 20131115
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Organization: NOAA Coastal Services Center Coastal Change Analysis Program (C-CAP)
+            Contact_Person: CRS (Coastal Remote Sensing) Program Manager
+          Contact_Position: CRS Program Manager
+          Contact_Address:
+            Address_Type: mailing and physical 
+            Address: 2234 S. Hobson Ave.
+            City: Charleston
+            State_or_Province: SC
+            Postal_Code: 29405
+            Country: USA
+          Contact_Voice_Telephone: 843-740-1210
+          Contact_Facsimile_Telephone: 843-740-1224
+          Contact_Electronic_Mail_Address: clearinghouse@noaa.gov
+          Hours_of_Service: 8:00 am to 5:00 p.m. EST. M-F
+
+    Process_Step:
+      Process_Description: Classification
+      Process_Date: Unknown
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: NOAA Coastal Services Center Coastal Change Analysis Program (C-CAP)
+          Contact_Position: CRS Program Manager
+          Contact_Address:
+            Address_Type: mailing and physical 
+            Address: 2234 S. Hobson Ave.
+            City: Charleston
+            State_or_Province: SC
+            Postal_Code: 29405
+            Country: USA
+          Contact_Voice_Telephone: 843-740-1210
+          Contact_Facsimile_Telephone: 843-740-1224
+          Contact_Electronic_Mail_Address: csc@noaa.gov
+          Hours_of_Service: Monday to Friday, 8 a.m. to 5 p.m., Eastern Standard Time
+
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Raster
+
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Map_Projection:
+        Map_Projection_Name: Albers Conical Equal Area
+        Albers_Conical_Equal_Area:
+          Standard_Parallel: 29.5
+          Standard_Parallel: 45.5
+          Longitude_of_Central_Meridian: 96 West
+          Latitude_of_Projection_Origin: 23 North
+          False_Easting: 0.00000
+          False_Northing: 0.00000
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: Row and column
+        Coordinate_Representation:
+          Abscissa_Resolution: 30 meter
+          Ordinate_Resolution: 30 meter
+        Planar_Distance_Units: Meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum 1983
+      Ellipsoid_Name: GRS80
+      Semi-major_Axis: 6378137.0
+      Denominator_of_Flattening_Ratio: 298.257
+
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Mid-Atlantic Region 
+      Entity_Type_Definition: Mid-Atlantic as delineated by NOAA using scene boundaries, hydrological units, and county boundaries
+      Entity_Type_Definition_Source: unknown
+    Attribute:
+      Attribute_Label: Landcover Classification
+      Attribute_Definition: Landcover Classification as determined by NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation
+      Attribute_Definition_Source: Dobson, J. et al, NOAA Coastal Change Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA Technical Report NMFS (National Marine Fisheries Service) 123, U.S. Department of Commerce, April 1995
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: Unclassified to Unclassified
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 2
+          Enumerated_Domain_Value_Definition: Unclassified to High Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 3
+          Enumerated_Domain_Value_Definition: Unclassified to Medium Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 4
+          Enumerated_Domain_Value_Definition: Unclassified to Low Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 5
+          Enumerated_Domain_Value_Definition: Unclassified to Open Space Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 6
+          Enumerated_Domain_Value_Definition: Unclassified to Cultivated Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 7
+          Enumerated_Domain_Value_Definition: Unclassified to Pasture/Hay
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 8
+          Enumerated_Domain_Value_Definition: Unclassified to Grassland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 9
+          Enumerated_Domain_Value_Definition: Unclassified to Deciduous Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 10
+          Enumerated_Domain_Value_Definition: Unclassified to Evergreen Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 11
+          Enumerated_Domain_Value_Definition: Unclassified to Mixed Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 12
+          Enumerated_Domain_Value_Definition: Unclassified to Scrub/Shrub
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 13
+          Enumerated_Domain_Value_Definition: Unclassified to Palustrine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 14
+          Enumerated_Domain_Value_Definition: Unclassified to Palustrine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 15
+          Enumerated_Domain_Value_Definition: Unclassified to Palustrine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 16
+          Enumerated_Domain_Value_Definition: Unclassified to Estuarine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 17
+          Enumerated_Domain_Value_Definition: Unclassified to Estuarine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 18
+          Enumerated_Domain_Value_Definition: Unclassified to Estuarine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 19
+          Enumerated_Domain_Value_Definition: Unclassified to Unconsolidated Shore
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 20
+          Enumerated_Domain_Value_Definition: Unclassified to Bare Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 21
+          Enumerated_Domain_Value_Definition: Unclassified to Water
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 22
+          Enumerated_Domain_Value_Definition: Unclassified to Palustrine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 23
+          Enumerated_Domain_Value_Definition: Unclassified to Estuarine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 24
+          Enumerated_Domain_Value_Definition: Unclassified to Tundra
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 25
+          Enumerated_Domain_Value_Definition: Unclassified to Snow/Ice
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 26
+          Enumerated_Domain_Value_Definition: High Intensity Developed to Unclassified
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 27
+          Enumerated_Domain_Value_Definition: High Intensity Developed to High Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 28
+          Enumerated_Domain_Value_Definition: High Intensity Developed to Medium Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 29
+          Enumerated_Domain_Value_Definition: High Intensity Developed to Low Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 30
+          Enumerated_Domain_Value_Definition: High Intensity Developed to Open Space Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 31
+          Enumerated_Domain_Value_Definition: High Intensity Developed to Cultivated Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 32
+          Enumerated_Domain_Value_Definition: High Intensity Developed to Pasture/Hay
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 33
+          Enumerated_Domain_Value_Definition: High Intensity Developed to Grassland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 34
+          Enumerated_Domain_Value_Definition: High Intensity Developed to Deciduous Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 35
+          Enumerated_Domain_Value_Definition: High Intensity Developed to Evergreen Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 36
+          Enumerated_Domain_Value_Definition: High Intensity Developed to Mixed Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 37
+          Enumerated_Domain_Value_Definition: High Intensity Developed to Scrub/Shrub
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 38
+          Enumerated_Domain_Value_Definition: High Intensity Developed to Palustrine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 39
+          Enumerated_Domain_Value_Definition: High Intensity Developed to Palustrine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 40
+          Enumerated_Domain_Value_Definition: High Intensity Developed to Palustrine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 41
+          Enumerated_Domain_Value_Definition: High Intensity Developed to Estuarine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 42
+          Enumerated_Domain_Value_Definition: High Intensity Developed to Estuarine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 43
+          Enumerated_Domain_Value_Definition: High Intensity Developed to Estuarine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 44
+          Enumerated_Domain_Value_Definition: High Intensity Developed to Unconsolidated Shore
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 45
+          Enumerated_Domain_Value_Definition: High Intensity Developed to Bare Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 46
+          Enumerated_Domain_Value_Definition: High Intensity Developed to Water
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 47
+          Enumerated_Domain_Value_Definition: High Intensity Developed to Palustrine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 48
+          Enumerated_Domain_Value_Definition: High Intensity Developed to Estuarine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 49
+          Enumerated_Domain_Value_Definition: High Intensity Developed to Tundra
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 50
+          Enumerated_Domain_Value_Definition: High Intensity Developed to Snow/Ice
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 51
+          Enumerated_Domain_Value_Definition: Medium Intensity Developed to Unclassified
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 52
+          Enumerated_Domain_Value_Definition: Medium Intensity Developed to High Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 53
+          Enumerated_Domain_Value_Definition: Medium Intensity Developed to Medium Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 54
+          Enumerated_Domain_Value_Definition: Medium Intensity Developed to Low Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 55
+          Enumerated_Domain_Value_Definition: Medium Intensity Developed to Open Space Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 56
+          Enumerated_Domain_Value_Definition: Medium Intensity Developed to Cultivated Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 57
+          Enumerated_Domain_Value_Definition: Medium Intensity Developed to Pasture/Hay
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 58
+          Enumerated_Domain_Value_Definition: Medium Intensity Developed to Grassland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 59
+          Enumerated_Domain_Value_Definition: Medium Intensity Developed to Deciduous Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 60
+          Enumerated_Domain_Value_Definition: Medium Intensity Developed to Evergreen Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 61
+          Enumerated_Domain_Value_Definition: Medium Intensity Developed to Mixed Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 62
+          Enumerated_Domain_Value_Definition: Medium Intensity Developed to Scrub/Shrub
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 63
+          Enumerated_Domain_Value_Definition: Medium Intensity Developed to Palustrine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 64
+          Enumerated_Domain_Value_Definition: Medium Intensity Developed to Palustrine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 65
+          Enumerated_Domain_Value_Definition: Medium Intensity Developed to Palustrine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 66
+          Enumerated_Domain_Value_Definition: Medium Intensity Developed to Estuarine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 67
+          Enumerated_Domain_Value_Definition: Medium Intensity Developed to Estuarine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 68
+          Enumerated_Domain_Value_Definition: Medium Intensity Developed to Estuarine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 69
+          Enumerated_Domain_Value_Definition: Medium Intensity Developed to Unconsolidated Shore
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 70
+          Enumerated_Domain_Value_Definition: Medium Intensity Developed to Bare Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 71
+          Enumerated_Domain_Value_Definition: Medium Intensity Developed to Water
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 72
+          Enumerated_Domain_Value_Definition: Medium Intensity Developed to Palustrine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 73
+          Enumerated_Domain_Value_Definition: Medium Intensity Developed to Estuarine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 74
+          Enumerated_Domain_Value_Definition: Medium Intensity Developed to Tundra
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 75
+          Enumerated_Domain_Value_Definition: Medium Intensity Developed to Snow/Ice
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 76
+          Enumerated_Domain_Value_Definition: Low Intensity Developed to Unclassified
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 77
+          Enumerated_Domain_Value_Definition: Low Intensity Developed to High Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 78
+          Enumerated_Domain_Value_Definition: Low Intensity Developed to Medium Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 79
+          Enumerated_Domain_Value_Definition: Low Intensity Developed to Low Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 80
+          Enumerated_Domain_Value_Definition: Low Intensity Developed to Open Space Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 81
+          Enumerated_Domain_Value_Definition: Low Intensity Developed to Cultivated Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 82
+          Enumerated_Domain_Value_Definition: Low Intensity Developed to Pasture/Hay
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 83
+          Enumerated_Domain_Value_Definition: Low Intensity Developed to Grassland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 84
+          Enumerated_Domain_Value_Definition: Low Intensity Developed to Deciduous Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 85
+          Enumerated_Domain_Value_Definition: Low Intensity Developed to Evergreen Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 86
+          Enumerated_Domain_Value_Definition: Low Intensity Developed to Mixed Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 87
+          Enumerated_Domain_Value_Definition: Low Intensity Developed to Scrub/Shrub
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 88
+          Enumerated_Domain_Value_Definition: Low Intensity Developed to Palustrine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 89
+          Enumerated_Domain_Value_Definition: Low Intensity Developed to Palustrine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 90
+          Enumerated_Domain_Value_Definition: Low Intensity Developed to Palustrine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 91
+          Enumerated_Domain_Value_Definition: Low Intensity Developed to Estuarine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 92
+          Enumerated_Domain_Value_Definition: Low Intensity Developed to Estuarine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 93
+          Enumerated_Domain_Value_Definition: Low Intensity Developed to Estuarine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 94
+          Enumerated_Domain_Value_Definition: Low Intensity Developed to Unconsolidated Shore
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 95
+          Enumerated_Domain_Value_Definition: Low Intensity Developed to Bare Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 96
+          Enumerated_Domain_Value_Definition: Low Intensity Developed to Water
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 97
+          Enumerated_Domain_Value_Definition: Low Intensity Developed to Palustrine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 98
+          Enumerated_Domain_Value_Definition: Low Intensity Developed to Estuarine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 99
+          Enumerated_Domain_Value_Definition: Low Intensity Developed to Tundra
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 100
+          Enumerated_Domain_Value_Definition: Low Intensity Developed to Snow/Ice
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 101
+          Enumerated_Domain_Value_Definition: Open Space Developed to Unclassified
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 102
+          Enumerated_Domain_Value_Definition: Open Space Developed to High Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 103
+          Enumerated_Domain_Value_Definition: Open Space Developed to Medium Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 104
+          Enumerated_Domain_Value_Definition: Open Space Developed to Low Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 105
+          Enumerated_Domain_Value_Definition: Open Space Developed to Open Space Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 106
+          Enumerated_Domain_Value_Definition: Open Space Developed to Cultivated Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 107
+          Enumerated_Domain_Value_Definition: Open Space Developed to Pasture/Hay
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 108
+          Enumerated_Domain_Value_Definition: Open Space Developed to Grassland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 109
+          Enumerated_Domain_Value_Definition: Open Space Developed to Deciduous Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 110
+          Enumerated_Domain_Value_Definition: Open Space Developed to Evergreen Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 111
+          Enumerated_Domain_Value_Definition: Open Space Developed to Mixed Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 112
+          Enumerated_Domain_Value_Definition: Open Space Developed to Scrub/Shrub
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 113
+          Enumerated_Domain_Value_Definition: Open Space Developed to Palustrine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 114
+          Enumerated_Domain_Value_Definition: Open Space Developed to Palustrine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 115
+          Enumerated_Domain_Value_Definition: Open Space Developed to Palustrine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 116
+          Enumerated_Domain_Value_Definition: Open Space Developed to Estuarine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 117
+          Enumerated_Domain_Value_Definition: Open Space Developed to Estuarine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 118
+          Enumerated_Domain_Value_Definition: Open Space Developed to Estuarine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 119
+          Enumerated_Domain_Value_Definition: Open Space Developed to Unconsolidated Shore
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 120
+          Enumerated_Domain_Value_Definition: Open Space Developed to Bare Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 121
+          Enumerated_Domain_Value_Definition: Open Space Developed to Water
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 122
+          Enumerated_Domain_Value_Definition: Open Space Developed to Palustrine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 123
+          Enumerated_Domain_Value_Definition: Open Space Developed to Estuarine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 124
+          Enumerated_Domain_Value_Definition: Open Space Developed to Tundra
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 125
+          Enumerated_Domain_Value_Definition: Open Space Developed to Snow/Ice
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 126
+          Enumerated_Domain_Value_Definition: Cultivated Land to Unclassified
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 127
+          Enumerated_Domain_Value_Definition: Cultivated Land to High Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 128
+          Enumerated_Domain_Value_Definition: Cultivated Land to Medium Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 129
+          Enumerated_Domain_Value_Definition: Cultivated Land to Low Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 130
+          Enumerated_Domain_Value_Definition: Cultivated Land to Open Space Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 131
+          Enumerated_Domain_Value_Definition: Cultivated Land to Cultivated Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 132
+          Enumerated_Domain_Value_Definition: Cultivated Land to Pasture/Hay
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 133
+          Enumerated_Domain_Value_Definition: Cultivated Land to Grassland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 134
+          Enumerated_Domain_Value_Definition: Cultivated Land to Deciduous Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 135
+          Enumerated_Domain_Value_Definition: Cultivated Land to Evergreen Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 136
+          Enumerated_Domain_Value_Definition: Cultivated Land to Mixed Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 137
+          Enumerated_Domain_Value_Definition: Cultivated Land to Scrub/Shrub
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 138
+          Enumerated_Domain_Value_Definition: Cultivated Land to Palustrine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 139
+          Enumerated_Domain_Value_Definition: Cultivated Land to Palustrine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 140
+          Enumerated_Domain_Value_Definition: Cultivated Land to Palustrine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 141
+          Enumerated_Domain_Value_Definition: Cultivated Land to Estuarine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 142
+          Enumerated_Domain_Value_Definition: Cultivated Land to Estuarine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 143
+          Enumerated_Domain_Value_Definition: Cultivated Land to Estuarine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 144
+          Enumerated_Domain_Value_Definition: Cultivated Land to Unconsolidated Shore
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 145
+          Enumerated_Domain_Value_Definition: Cultivated Land to Bare Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 146
+          Enumerated_Domain_Value_Definition: Cultivated Land to Water
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 147
+          Enumerated_Domain_Value_Definition: Cultivated Land to Palustrine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 148
+          Enumerated_Domain_Value_Definition: Cultivated Land to Estuarine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 149
+          Enumerated_Domain_Value_Definition: Cultivated Land to Tundra
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 150
+          Enumerated_Domain_Value_Definition: Cultivated Land to Snow/Ice
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 151
+          Enumerated_Domain_Value_Definition: Pasture/Hay to Unclassified
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 152
+          Enumerated_Domain_Value_Definition: Pasture/Hay to High Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 153
+          Enumerated_Domain_Value_Definition: Pasture/Hay to Medium Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 154
+          Enumerated_Domain_Value_Definition: Pasture/Hay to Low Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 155
+          Enumerated_Domain_Value_Definition: Pasture/Hay to Open Space Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 156
+          Enumerated_Domain_Value_Definition: Pasture/Hay to Cultivated Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 157
+          Enumerated_Domain_Value_Definition: Pasture/Hay to Pasture/Hay
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 158
+          Enumerated_Domain_Value_Definition: Pasture/Hay to Grassland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 159
+          Enumerated_Domain_Value_Definition: Pasture/Hay to Deciduous Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 160
+          Enumerated_Domain_Value_Definition: Pasture/Hay to Evergreen Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 161
+          Enumerated_Domain_Value_Definition: Pasture/Hay to Mixed Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 162
+          Enumerated_Domain_Value_Definition: Pasture/Hay to Scrub/Shrub
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 163
+          Enumerated_Domain_Value_Definition: Pasture/Hay to Palustrine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 164
+          Enumerated_Domain_Value_Definition: Pasture/Hay to Palustrine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 165
+          Enumerated_Domain_Value_Definition: Pasture/Hay to Palustrine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 166
+          Enumerated_Domain_Value_Definition: Pasture/Hay to Estuarine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 167
+          Enumerated_Domain_Value_Definition: Pasture/Hay to Estuarine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 168
+          Enumerated_Domain_Value_Definition: Pasture/Hay to Estuarine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 169
+          Enumerated_Domain_Value_Definition: Pasture/Hay to Unconsolidated Shore
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 170
+          Enumerated_Domain_Value_Definition: Pasture/Hay to Bare Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 171
+          Enumerated_Domain_Value_Definition: Pasture/Hay to Water
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 172
+          Enumerated_Domain_Value_Definition: Pasture/Hay to Palustrine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 173
+          Enumerated_Domain_Value_Definition: Pasture/Hay to Estuarine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 174
+          Enumerated_Domain_Value_Definition: Pasture/Hay to Tundra
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 175
+          Enumerated_Domain_Value_Definition: Pasture/Hay to Snow/Ice
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 176
+          Enumerated_Domain_Value_Definition: Grassland to Unclassified
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 177
+          Enumerated_Domain_Value_Definition: Grassland to High Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 178
+          Enumerated_Domain_Value_Definition: Grassland to Medium Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 179
+          Enumerated_Domain_Value_Definition: Grassland to Low Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 180
+          Enumerated_Domain_Value_Definition: Grassland to Open Space Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 181
+          Enumerated_Domain_Value_Definition: Grassland to Cultivated Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 182
+          Enumerated_Domain_Value_Definition: Grassland to Pasture/Hay
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 183
+          Enumerated_Domain_Value_Definition: Grassland to Grassland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 184
+          Enumerated_Domain_Value_Definition: Grassland to Deciduous Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 185
+          Enumerated_Domain_Value_Definition: Grassland to Evergreen Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 186
+          Enumerated_Domain_Value_Definition: Grassland to Mixed Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 187
+          Enumerated_Domain_Value_Definition: Grassland to Scrub/Shrub
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 188
+          Enumerated_Domain_Value_Definition: Grassland to Palustrine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 189
+          Enumerated_Domain_Value_Definition: Grassland to Palustrine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 190
+          Enumerated_Domain_Value_Definition: Grassland to Palustrine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 191
+          Enumerated_Domain_Value_Definition: Grassland to Estuarine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 192
+          Enumerated_Domain_Value_Definition: Grassland to Estuarine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 193
+          Enumerated_Domain_Value_Definition: Grassland to Estuarine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 194
+          Enumerated_Domain_Value_Definition: Grassland to Unconsolidated Shore
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 195
+          Enumerated_Domain_Value_Definition: Grassland to Bare Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 196
+          Enumerated_Domain_Value_Definition: Grassland to Water
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 197
+          Enumerated_Domain_Value_Definition: Grassland to Palustrine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 198
+          Enumerated_Domain_Value_Definition: Grassland to Estuarine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 199
+          Enumerated_Domain_Value_Definition: Grassland to Tundra
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 200
+          Enumerated_Domain_Value_Definition: Grassland to Snow/Ice
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 201
+          Enumerated_Domain_Value_Definition: Deciduous Forest to Unclassified
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 202
+          Enumerated_Domain_Value_Definition: Deciduous Forest to High Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 203
+          Enumerated_Domain_Value_Definition: Deciduous Forest to Medium Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 204
+          Enumerated_Domain_Value_Definition: Deciduous Forest to Low Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 205
+          Enumerated_Domain_Value_Definition: Deciduous Forest to Open Space Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 206
+          Enumerated_Domain_Value_Definition: Deciduous Forest to Cultivated Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 207
+          Enumerated_Domain_Value_Definition: Deciduous Forest to Pasture/Hay
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 208
+          Enumerated_Domain_Value_Definition: Deciduous Forest to Grassland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 209
+          Enumerated_Domain_Value_Definition: Deciduous Forest to Deciduous Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 210
+          Enumerated_Domain_Value_Definition: Deciduous Forest to Evergreen Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 211
+          Enumerated_Domain_Value_Definition: Deciduous Forest to Mixed Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 212
+          Enumerated_Domain_Value_Definition: Deciduous Forest to Scrub/Shrub
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 213
+          Enumerated_Domain_Value_Definition: Deciduous Forest to Palustrine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 214
+          Enumerated_Domain_Value_Definition: Deciduous Forest to Palustrine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 215
+          Enumerated_Domain_Value_Definition: Deciduous Forest to Palustrine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 216
+          Enumerated_Domain_Value_Definition: Deciduous Forest to Estuarine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 217
+          Enumerated_Domain_Value_Definition: Deciduous Forest to Estuarine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 218
+          Enumerated_Domain_Value_Definition: Deciduous Forest to Estuarine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 219
+          Enumerated_Domain_Value_Definition: Deciduous Forest to Unconsolidated Shore
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 220
+          Enumerated_Domain_Value_Definition: Deciduous Forest to Bare Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 221
+          Enumerated_Domain_Value_Definition: Deciduous Forest to Water
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 222
+          Enumerated_Domain_Value_Definition: Deciduous Forest to Palustrine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 223
+          Enumerated_Domain_Value_Definition: Deciduous Forest to Estuarine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 224
+          Enumerated_Domain_Value_Definition: Deciduous Forest to Tundra
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 225
+          Enumerated_Domain_Value_Definition: Deciduous Forest to Snow/Ice
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 226
+          Enumerated_Domain_Value_Definition: Evergreen Forest to Unclassified
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 227
+          Enumerated_Domain_Value_Definition: Evergreen Forest to High Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 228
+          Enumerated_Domain_Value_Definition: Evergreen Forest to Medium Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 229
+          Enumerated_Domain_Value_Definition: Evergreen Forest to Low Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 230
+          Enumerated_Domain_Value_Definition: Evergreen Forest to Open Space Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 231
+          Enumerated_Domain_Value_Definition: Evergreen Forest to Cultivated Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 232
+          Enumerated_Domain_Value_Definition: Evergreen Forest to Pasture/Hay
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 233
+          Enumerated_Domain_Value_Definition: Evergreen Forest to Grassland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 234
+          Enumerated_Domain_Value_Definition: Evergreen Forest to Deciduous Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 235
+          Enumerated_Domain_Value_Definition: Evergreen Forest to Evergreen Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 236
+          Enumerated_Domain_Value_Definition: Evergreen Forest to Mixed Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 237
+          Enumerated_Domain_Value_Definition: Evergreen Forest to Scrub/Shrub
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 238
+          Enumerated_Domain_Value_Definition: Evergreen Forest to Palustrine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 239
+          Enumerated_Domain_Value_Definition: Evergreen Forest to Palustrine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 240
+          Enumerated_Domain_Value_Definition: Evergreen Forest to Palustrine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 241
+          Enumerated_Domain_Value_Definition: Evergreen Forest to Estuarine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 242
+          Enumerated_Domain_Value_Definition: Evergreen Forest to Estuarine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 243
+          Enumerated_Domain_Value_Definition: Evergreen Forest to Estuarine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 244
+          Enumerated_Domain_Value_Definition: Evergreen Forest to Unconsolidated Shore
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 245
+          Enumerated_Domain_Value_Definition: Evergreen Forest to Bare Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 246
+          Enumerated_Domain_Value_Definition: Evergreen Forest to Water
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 247
+          Enumerated_Domain_Value_Definition: Evergreen Forest to Palustrine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 248
+          Enumerated_Domain_Value_Definition: Evergreen Forest to Estuarine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 249
+          Enumerated_Domain_Value_Definition: Evergreen Forest to Tundra
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 250
+          Enumerated_Domain_Value_Definition: Evergreen Forest to Snow/Ice
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 251
+          Enumerated_Domain_Value_Definition: Mixed Forest to Unclassified
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 252
+          Enumerated_Domain_Value_Definition: Mixed Forest to High Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 253
+          Enumerated_Domain_Value_Definition: Mixed Forest to Medium Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 254
+          Enumerated_Domain_Value_Definition: Mixed Forest to Low Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 255
+          Enumerated_Domain_Value_Definition: Mixed Forest to Open Space Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 256
+          Enumerated_Domain_Value_Definition: Mixed Forest to Cultivated Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 257
+          Enumerated_Domain_Value_Definition: Mixed Forest to Pasture/Hay
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 258
+          Enumerated_Domain_Value_Definition: Mixed Forest to Grassland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 259
+          Enumerated_Domain_Value_Definition: Mixed Forest to Deciduous Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 260
+          Enumerated_Domain_Value_Definition: Mixed Forest to Evergreen Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 261
+          Enumerated_Domain_Value_Definition: Mixed Forest to Mixed Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 262
+          Enumerated_Domain_Value_Definition: Mixed Forest to Scrub/Shrub
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 263
+          Enumerated_Domain_Value_Definition: Mixed Forest to Palustrine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 264
+          Enumerated_Domain_Value_Definition: Mixed Forest to Palustrine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 265
+          Enumerated_Domain_Value_Definition: Mixed Forest to Palustrine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 266
+          Enumerated_Domain_Value_Definition: Mixed Forest to Estuarine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 267
+          Enumerated_Domain_Value_Definition: Mixed Forest to Estuarine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 268
+          Enumerated_Domain_Value_Definition: Mixed Forest to Estuarine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 269
+          Enumerated_Domain_Value_Definition: Mixed Forest to Unconsolidated Shore
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 270
+          Enumerated_Domain_Value_Definition: Mixed Forest to Bare Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 271
+          Enumerated_Domain_Value_Definition: Mixed Forest to Water
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 272
+          Enumerated_Domain_Value_Definition: Mixed Forest to Palustrine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 273
+          Enumerated_Domain_Value_Definition: Mixed Forest to Estuarine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 274
+          Enumerated_Domain_Value_Definition: Mixed Forest to Tundra
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 275
+          Enumerated_Domain_Value_Definition: Mixed Forest to Snow/Ice
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 276
+          Enumerated_Domain_Value_Definition: Scrub/Shrub to Unclassified
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 277
+          Enumerated_Domain_Value_Definition: Scrub/Shrub to High Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 278
+          Enumerated_Domain_Value_Definition: Scrub/Shrub to Medium Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 279
+          Enumerated_Domain_Value_Definition: Scrub/Shrub to Low Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 280
+          Enumerated_Domain_Value_Definition: Scrub/Shrub to Open Space Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 281
+          Enumerated_Domain_Value_Definition: Scrub/Shrub to Cultivated Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 282
+          Enumerated_Domain_Value_Definition: Scrub/Shrub to Pasture/Hay
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 283
+          Enumerated_Domain_Value_Definition: Scrub/Shrub to Grassland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 284
+          Enumerated_Domain_Value_Definition: Scrub/Shrub to Deciduous Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 285
+          Enumerated_Domain_Value_Definition: Scrub/Shrub to Evergreen Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 286
+          Enumerated_Domain_Value_Definition: Scrub/Shrub to Mixed Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 287
+          Enumerated_Domain_Value_Definition: Scrub/Shrub to Scrub/Shrub
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 288
+          Enumerated_Domain_Value_Definition: Scrub/Shrub to Palustrine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 289
+          Enumerated_Domain_Value_Definition: Scrub/Shrub to Palustrine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 290
+          Enumerated_Domain_Value_Definition: Scrub/Shrub to Palustrine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 291
+          Enumerated_Domain_Value_Definition: Scrub/Shrub to Estuarine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 292
+          Enumerated_Domain_Value_Definition: Scrub/Shrub to Estuarine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 293
+          Enumerated_Domain_Value_Definition: Scrub/Shrub to Estuarine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 294
+          Enumerated_Domain_Value_Definition: Scrub/Shrub to Unconsolidated Shore
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 295
+          Enumerated_Domain_Value_Definition: Scrub/Shrub to Bare Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 296
+          Enumerated_Domain_Value_Definition: Scrub/Shrub to Water
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 297
+          Enumerated_Domain_Value_Definition: Scrub/Shrub to Palustrine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 298
+          Enumerated_Domain_Value_Definition: Scrub/Shrub to Estuarine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 299
+          Enumerated_Domain_Value_Definition: Scrub/Shrub to Tundra
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 300
+          Enumerated_Domain_Value_Definition: Scrub/Shrub to Snow/Ice
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 301
+          Enumerated_Domain_Value_Definition: Palustrine Forested Wetland to Unclassified
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 302
+          Enumerated_Domain_Value_Definition: Palustrine Forested Wetland to High Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 303
+          Enumerated_Domain_Value_Definition: Palustrine Forested Wetland to Medium Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 304
+          Enumerated_Domain_Value_Definition: Palustrine Forested Wetland to Low Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 305
+          Enumerated_Domain_Value_Definition: Palustrine Forested Wetland to Open Space Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 306
+          Enumerated_Domain_Value_Definition: Palustrine Forested Wetland to Cultivated Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 307
+          Enumerated_Domain_Value_Definition: Palustrine Forested Wetland to Pasture/Hay
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 308
+          Enumerated_Domain_Value_Definition: Palustrine Forested Wetland to Grassland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 309
+          Enumerated_Domain_Value_Definition: Palustrine Forested Wetland to Deciduous Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 310
+          Enumerated_Domain_Value_Definition: Palustrine Forested Wetland to Evergreen Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 311
+          Enumerated_Domain_Value_Definition: Palustrine Forested Wetland to Mixed Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 312
+          Enumerated_Domain_Value_Definition: Palustrine Forested Wetland to Scrub/Shrub
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 313
+          Enumerated_Domain_Value_Definition: Palustrine Forested Wetland to Palustrine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 314
+          Enumerated_Domain_Value_Definition: Palustrine Forested Wetland to Palustrine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 315
+          Enumerated_Domain_Value_Definition: Palustrine Forested Wetland to Palustrine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 316
+          Enumerated_Domain_Value_Definition: Palustrine Forested Wetland to Estuarine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 317
+          Enumerated_Domain_Value_Definition: Palustrine Forested Wetland to Estuarine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 318
+          Enumerated_Domain_Value_Definition: Palustrine Forested Wetland to Estuarine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 319
+          Enumerated_Domain_Value_Definition: Palustrine Forested Wetland to Unconsolidated Shore
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 320
+          Enumerated_Domain_Value_Definition: Palustrine Forested Wetland to Bare Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 321
+          Enumerated_Domain_Value_Definition: Palustrine Forested Wetland to Water
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 322
+          Enumerated_Domain_Value_Definition: Palustrine Forested Wetland to Palustrine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 323
+          Enumerated_Domain_Value_Definition: Palustrine Forested Wetland to Estuarine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 324
+          Enumerated_Domain_Value_Definition: Palustrine Forested Wetland to Tundra
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 325
+          Enumerated_Domain_Value_Definition: Palustrine Forested Wetland to Snow/Ice
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 326
+          Enumerated_Domain_Value_Definition: Palustrine Scrub/Shrub Wetland to Unclassified
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 327
+          Enumerated_Domain_Value_Definition: Palustrine Scrub/Shrub Wetland to High Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 328
+          Enumerated_Domain_Value_Definition: Palustrine Scrub/Shrub Wetland to Medium Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 329
+          Enumerated_Domain_Value_Definition: Palustrine Scrub/Shrub Wetland to Low Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 330
+          Enumerated_Domain_Value_Definition: Palustrine Scrub/Shrub Wetland to Open Space Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 331
+          Enumerated_Domain_Value_Definition: Palustrine Scrub/Shrub Wetland to Cultivated Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 332
+          Enumerated_Domain_Value_Definition: Palustrine Scrub/Shrub Wetland to Pasture/Hay
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 333
+          Enumerated_Domain_Value_Definition: Palustrine Scrub/Shrub Wetland to Grassland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 334
+          Enumerated_Domain_Value_Definition: Palustrine Scrub/Shrub Wetland to Deciduous Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 335
+          Enumerated_Domain_Value_Definition: Palustrine Scrub/Shrub Wetland to Evergreen Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 336
+          Enumerated_Domain_Value_Definition: Palustrine Scrub/Shrub Wetland to Mixed Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 337
+          Enumerated_Domain_Value_Definition: Palustrine Scrub/Shrub Wetland to Scrub/Shrub
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 338
+          Enumerated_Domain_Value_Definition: Palustrine Scrub/Shrub Wetland to Palustrine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 339
+          Enumerated_Domain_Value_Definition: Palustrine Scrub/Shrub Wetland to Palustrine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 340
+          Enumerated_Domain_Value_Definition: Palustrine Scrub/Shrub Wetland to Palustrine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 341
+          Enumerated_Domain_Value_Definition: Palustrine Scrub/Shrub Wetland to Estuarine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 342
+          Enumerated_Domain_Value_Definition: Palustrine Scrub/Shrub Wetland to Estuarine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 343
+          Enumerated_Domain_Value_Definition: Palustrine Scrub/Shrub Wetland to Estuarine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 344
+          Enumerated_Domain_Value_Definition: Palustrine Scrub/Shrub Wetland to Unconsolidated Shore
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 345
+          Enumerated_Domain_Value_Definition: Palustrine Scrub/Shrub Wetland to Bare Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 346
+          Enumerated_Domain_Value_Definition: Palustrine Scrub/Shrub Wetland to Water
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 347
+          Enumerated_Domain_Value_Definition: Palustrine Scrub/Shrub Wetland to Palustrine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 348
+          Enumerated_Domain_Value_Definition: Palustrine Scrub/Shrub Wetland to Estuarine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 349
+          Enumerated_Domain_Value_Definition: Palustrine Scrub/Shrub Wetland to Tundra
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 350
+          Enumerated_Domain_Value_Definition: Palustrine Scrub/Shrub Wetland to Snow/Ice
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 351
+          Enumerated_Domain_Value_Definition: Palustrine Emergent Wetland to Unclassified
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 352
+          Enumerated_Domain_Value_Definition: Palustrine Emergent Wetland to High Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 353
+          Enumerated_Domain_Value_Definition: Palustrine Emergent Wetland to Medium Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 354
+          Enumerated_Domain_Value_Definition: Palustrine Emergent Wetland to Low Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 355
+          Enumerated_Domain_Value_Definition: Palustrine Emergent Wetland to Open Space Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 356
+          Enumerated_Domain_Value_Definition: Palustrine Emergent Wetland to Cultivated Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 357
+          Enumerated_Domain_Value_Definition: Palustrine Emergent Wetland to Pasture/Hay
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 358
+          Enumerated_Domain_Value_Definition: Palustrine Emergent Wetland to Grassland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 359
+          Enumerated_Domain_Value_Definition: Palustrine Emergent Wetland to Deciduous Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 360
+          Enumerated_Domain_Value_Definition: Palustrine Emergent Wetland to Evergreen Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 361
+          Enumerated_Domain_Value_Definition: Palustrine Emergent Wetland to Mixed Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 362
+          Enumerated_Domain_Value_Definition: Palustrine Emergent Wetland to Scrub/Shrub
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 363
+          Enumerated_Domain_Value_Definition: Palustrine Emergent Wetland to Palustrine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 364
+          Enumerated_Domain_Value_Definition: Palustrine Emergent Wetland to Palustrine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 365
+          Enumerated_Domain_Value_Definition: Palustrine Emergent Wetland to Palustrine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 366
+          Enumerated_Domain_Value_Definition: Palustrine Emergent Wetland to Estuarine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 367
+          Enumerated_Domain_Value_Definition: Palustrine Emergent Wetland to Estuarine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 368
+          Enumerated_Domain_Value_Definition: Palustrine Emergent Wetland to Estuarine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 369
+          Enumerated_Domain_Value_Definition: Palustrine Emergent Wetland to Unconsolidated Shore
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 370
+          Enumerated_Domain_Value_Definition: Palustrine Emergent Wetland to Bare Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 371
+          Enumerated_Domain_Value_Definition: Palustrine Emergent Wetland to Water
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 372
+          Enumerated_Domain_Value_Definition: Palustrine Emergent Wetland to Palustrine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 373
+          Enumerated_Domain_Value_Definition: Palustrine Emergent Wetland to Estuarine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 374
+          Enumerated_Domain_Value_Definition: Palustrine Emergent Wetland to Tundra
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 375
+          Enumerated_Domain_Value_Definition: Palustrine Emergent Wetland to Snow/Ice
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 376
+          Enumerated_Domain_Value_Definition: Estuarine Forested Wetland to Unclassified
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 377
+          Enumerated_Domain_Value_Definition: Estuarine Forested Wetland to High Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 378
+          Enumerated_Domain_Value_Definition: Estuarine Forested Wetland to Medium Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 379
+          Enumerated_Domain_Value_Definition: Estuarine Forested Wetland to Low Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 380
+          Enumerated_Domain_Value_Definition: Estuarine Forested Wetland to Open Space Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 381
+          Enumerated_Domain_Value_Definition: Estuarine Forested Wetland to Cultivated Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 382
+          Enumerated_Domain_Value_Definition: Estuarine Forested Wetland to Pasture/Hay
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 383
+          Enumerated_Domain_Value_Definition: Estuarine Forested Wetland to Grassland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 384
+          Enumerated_Domain_Value_Definition: Estuarine Forested Wetland to Deciduous Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 385
+          Enumerated_Domain_Value_Definition: Estuarine Forested Wetland to Evergreen Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 386
+          Enumerated_Domain_Value_Definition: Estuarine Forested Wetland to Mixed Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 387
+          Enumerated_Domain_Value_Definition: Estuarine Forested Wetland to Scrub/Shrub
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 388
+          Enumerated_Domain_Value_Definition: Estuarine Forested Wetland to Palustrine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 389
+          Enumerated_Domain_Value_Definition: Estuarine Forested Wetland to Palustrine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 390
+          Enumerated_Domain_Value_Definition: Estuarine Forested Wetland to Palustrine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 391
+          Enumerated_Domain_Value_Definition: Estuarine Forested Wetland to Estuarine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 392
+          Enumerated_Domain_Value_Definition: Estuarine Forested Wetland to Estuarine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 393
+          Enumerated_Domain_Value_Definition: Estuarine Forested Wetland to Estuarine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 394
+          Enumerated_Domain_Value_Definition: Estuarine Forested Wetland to Unconsolidated Shore
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 395
+          Enumerated_Domain_Value_Definition: Estuarine Forested Wetland to Bare Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 396
+          Enumerated_Domain_Value_Definition: Estuarine Forested Wetland to Water
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 397
+          Enumerated_Domain_Value_Definition: Estuarine Forested Wetland to Palustrine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 398
+          Enumerated_Domain_Value_Definition: Estuarine Forested Wetland to Estuarine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 399
+          Enumerated_Domain_Value_Definition: Estuarine Forested Wetland to Tundra
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 400
+          Enumerated_Domain_Value_Definition: Estuarine Forested Wetland to Snow/Ice
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 401
+          Enumerated_Domain_Value_Definition: Estuarine Scrub/Shrub Wetland to Unclassified
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 402
+          Enumerated_Domain_Value_Definition: Estuarine Scrub/Shrub Wetland to High Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 403
+          Enumerated_Domain_Value_Definition: Estuarine Scrub/Shrub Wetland to Medium Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 404
+          Enumerated_Domain_Value_Definition: Estuarine Scrub/Shrub Wetland to Low Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 405
+          Enumerated_Domain_Value_Definition: Estuarine Scrub/Shrub Wetland to Open Space Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 406
+          Enumerated_Domain_Value_Definition: Estuarine Scrub/Shrub Wetland to Cultivated Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 407
+          Enumerated_Domain_Value_Definition: Estuarine Scrub/Shrub Wetland to Pasture/Hay
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 408
+          Enumerated_Domain_Value_Definition: Estuarine Scrub/Shrub Wetland to Grassland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 409
+          Enumerated_Domain_Value_Definition: Estuarine Scrub/Shrub Wetland to Deciduous Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 410
+          Enumerated_Domain_Value_Definition: Estuarine Scrub/Shrub Wetland to Evergreen Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 411
+          Enumerated_Domain_Value_Definition: Estuarine Scrub/Shrub Wetland to Mixed Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 412
+          Enumerated_Domain_Value_Definition: Estuarine Scrub/Shrub Wetland to Scrub/Shrub
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 413
+          Enumerated_Domain_Value_Definition: Estuarine Scrub/Shrub Wetland to Palustrine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 414
+          Enumerated_Domain_Value_Definition: Estuarine Scrub/Shrub Wetland to Palustrine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 415
+          Enumerated_Domain_Value_Definition: Estuarine Scrub/Shrub Wetland to Palustrine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 416
+          Enumerated_Domain_Value_Definition: Estuarine Scrub/Shrub Wetland to Estuarine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 417
+          Enumerated_Domain_Value_Definition: Estuarine Scrub/Shrub Wetland to Estuarine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 418
+          Enumerated_Domain_Value_Definition: Estuarine Scrub/Shrub Wetland to Estuarine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 419
+          Enumerated_Domain_Value_Definition: Estuarine Scrub/Shrub Wetland to Unconsolidated Shore
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 420
+          Enumerated_Domain_Value_Definition: Estuarine Scrub/Shrub Wetland to Bare Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 421
+          Enumerated_Domain_Value_Definition: Estuarine Scrub/Shrub Wetland to Water
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 422
+          Enumerated_Domain_Value_Definition: Estuarine Scrub/Shrub Wetland to Palustrine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 423
+          Enumerated_Domain_Value_Definition: Estuarine Scrub/Shrub Wetland to Estuarine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 424
+          Enumerated_Domain_Value_Definition: Estuarine Scrub/Shrub Wetland to Tundra
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 425
+          Enumerated_Domain_Value_Definition: Estuarine Scrub/Shrub Wetland to Snow/Ice
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 426
+          Enumerated_Domain_Value_Definition: Estuarine Emergent Wetland to Unclassified
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 427
+          Enumerated_Domain_Value_Definition: Estuarine Emergent Wetland to High Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 428
+          Enumerated_Domain_Value_Definition: Estuarine Emergent Wetland to Medium Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 429
+          Enumerated_Domain_Value_Definition: Estuarine Emergent Wetland to Low Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 430
+          Enumerated_Domain_Value_Definition: Estuarine Emergent Wetland to Open Space Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 431
+          Enumerated_Domain_Value_Definition: Estuarine Emergent Wetland to Cultivated Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 432
+          Enumerated_Domain_Value_Definition: Estuarine Emergent Wetland to Pasture/Hay
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 433
+          Enumerated_Domain_Value_Definition: Estuarine Emergent Wetland to Grassland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 434
+          Enumerated_Domain_Value_Definition: Estuarine Emergent Wetland to Deciduous Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 435
+          Enumerated_Domain_Value_Definition: Estuarine Emergent Wetland to Evergreen Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 436
+          Enumerated_Domain_Value_Definition: Estuarine Emergent Wetland to Mixed Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 437
+          Enumerated_Domain_Value_Definition: Estuarine Emergent Wetland to Scrub/Shrub
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 438
+          Enumerated_Domain_Value_Definition: Estuarine Emergent Wetland to Palustrine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 439
+          Enumerated_Domain_Value_Definition: Estuarine Emergent Wetland to Palustrine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 440
+          Enumerated_Domain_Value_Definition: Estuarine Emergent Wetland to Palustrine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 441
+          Enumerated_Domain_Value_Definition: Estuarine Emergent Wetland to Estuarine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 442
+          Enumerated_Domain_Value_Definition: Estuarine Emergent Wetland to Estuarine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 443
+          Enumerated_Domain_Value_Definition: Estuarine Emergent Wetland to Estuarine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 444
+          Enumerated_Domain_Value_Definition: Estuarine Emergent Wetland to Unconsolidated Shore
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 445
+          Enumerated_Domain_Value_Definition: Estuarine Emergent Wetland to Bare Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 446
+          Enumerated_Domain_Value_Definition: Estuarine Emergent Wetland to Water
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 447
+          Enumerated_Domain_Value_Definition: Estuarine Emergent Wetland to Palustrine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 448
+          Enumerated_Domain_Value_Definition: Estuarine Emergent Wetland to Estuarine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 449
+          Enumerated_Domain_Value_Definition: Estuarine Emergent Wetland to Tundra
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 450
+          Enumerated_Domain_Value_Definition: Estuarine Emergent Wetland to Snow/Ice
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 451
+          Enumerated_Domain_Value_Definition: Unconsolidated Shore to Unclassified
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 452
+          Enumerated_Domain_Value_Definition: Unconsolidated Shore to High Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 453
+          Enumerated_Domain_Value_Definition: Unconsolidated Shore to Medium Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 454
+          Enumerated_Domain_Value_Definition: Unconsolidated Shore to Low Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 455
+          Enumerated_Domain_Value_Definition: Unconsolidated Shore to Open Space Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 456
+          Enumerated_Domain_Value_Definition: Unconsolidated Shore to Cultivated Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 457
+          Enumerated_Domain_Value_Definition: Unconsolidated Shore to Pasture/Hay
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 458
+          Enumerated_Domain_Value_Definition: Unconsolidated Shore to Grassland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 459
+          Enumerated_Domain_Value_Definition: Unconsolidated Shore to Deciduous Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 460
+          Enumerated_Domain_Value_Definition: Unconsolidated Shore to Evergreen Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 461
+          Enumerated_Domain_Value_Definition: Unconsolidated Shore to Mixed Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 462
+          Enumerated_Domain_Value_Definition: Unconsolidated Shore to Scrub/Shrub
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 463
+          Enumerated_Domain_Value_Definition: Unconsolidated Shore to Palustrine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 464
+          Enumerated_Domain_Value_Definition: Unconsolidated Shore to Palustrine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 465
+          Enumerated_Domain_Value_Definition: Unconsolidated Shore to Palustrine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 466
+          Enumerated_Domain_Value_Definition: Unconsolidated Shore to Estuarine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 467
+          Enumerated_Domain_Value_Definition: Unconsolidated Shore to Estuarine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 468
+          Enumerated_Domain_Value_Definition: Unconsolidated Shore to Estuarine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 469
+          Enumerated_Domain_Value_Definition: Unconsolidated Shore to Unconsolidated Shore
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 470
+          Enumerated_Domain_Value_Definition: Unconsolidated Shore to Bare Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 471
+          Enumerated_Domain_Value_Definition: Unconsolidated Shore to Water
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 472
+          Enumerated_Domain_Value_Definition: Unconsolidated Shore to Palustrine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 473
+          Enumerated_Domain_Value_Definition: Unconsolidated Shore to Estuarine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 474
+          Enumerated_Domain_Value_Definition: Unconsolidated Shore to Tundra
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 475
+          Enumerated_Domain_Value_Definition: Unconsolidated Shore to Snow/Ice
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 476
+          Enumerated_Domain_Value_Definition: Bare Land to Unclassified
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 477
+          Enumerated_Domain_Value_Definition: Bare Land to High Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 478
+          Enumerated_Domain_Value_Definition: Bare Land to Medium Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 479
+          Enumerated_Domain_Value_Definition: Bare Land to Low Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 480
+          Enumerated_Domain_Value_Definition: Bare Land to Open Space Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 481
+          Enumerated_Domain_Value_Definition: Bare Land to Cultivated Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 482
+          Enumerated_Domain_Value_Definition: Bare Land to Pasture/Hay
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 483
+          Enumerated_Domain_Value_Definition: Bare Land to Grassland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 484
+          Enumerated_Domain_Value_Definition: Bare Land to Deciduous Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 485
+          Enumerated_Domain_Value_Definition: Bare Land to Evergreen Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 486
+          Enumerated_Domain_Value_Definition: Bare Land to Mixed Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 487
+          Enumerated_Domain_Value_Definition: Bare Land to Scrub/Shrub
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 488
+          Enumerated_Domain_Value_Definition: Bare Land to Palustrine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 489
+          Enumerated_Domain_Value_Definition: Bare Land to Palustrine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 490
+          Enumerated_Domain_Value_Definition: Bare Land to Palustrine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 491
+          Enumerated_Domain_Value_Definition: Bare Land to Estuarine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 492
+          Enumerated_Domain_Value_Definition: Bare Land to Estuarine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 493
+          Enumerated_Domain_Value_Definition: Bare Land to Estuarine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 494
+          Enumerated_Domain_Value_Definition: Bare Land to Unconsolidated Shore
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 495
+          Enumerated_Domain_Value_Definition: Bare Land to Bare Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 496
+          Enumerated_Domain_Value_Definition: Bare Land to Water
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 497
+          Enumerated_Domain_Value_Definition: Bare Land to Palustrine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 498
+          Enumerated_Domain_Value_Definition: Bare Land to Estuarine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 499
+          Enumerated_Domain_Value_Definition: Bare Land to Tundra
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 500
+          Enumerated_Domain_Value_Definition: Bare Land to Snow/Ice
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 501
+          Enumerated_Domain_Value_Definition: Water to Unclassified
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 502
+          Enumerated_Domain_Value_Definition: Water to High Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 503
+          Enumerated_Domain_Value_Definition: Water to Medium Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 504
+          Enumerated_Domain_Value_Definition: Water to Low Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 505
+          Enumerated_Domain_Value_Definition: Water to Open Space Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 506
+          Enumerated_Domain_Value_Definition: Water to Cultivated Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 507
+          Enumerated_Domain_Value_Definition: Water to Pasture/Hay
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 508
+          Enumerated_Domain_Value_Definition: Water to Grassland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 509
+          Enumerated_Domain_Value_Definition: Water to Deciduous Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 510
+          Enumerated_Domain_Value_Definition: Water to Evergreen Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 511
+          Enumerated_Domain_Value_Definition: Water to Mixed Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 512
+          Enumerated_Domain_Value_Definition: Water to Scrub/Shrub
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 513
+          Enumerated_Domain_Value_Definition: Water to Palustrine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 514
+          Enumerated_Domain_Value_Definition: Water to Palustrine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 515
+          Enumerated_Domain_Value_Definition: Water to Palustrine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 516
+          Enumerated_Domain_Value_Definition: Water to Estuarine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 517
+          Enumerated_Domain_Value_Definition: Water to Estuarine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 518
+          Enumerated_Domain_Value_Definition: Water to Estuarine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 519
+          Enumerated_Domain_Value_Definition: Water to Unconsolidated Shore
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 520
+          Enumerated_Domain_Value_Definition: Water to Bare Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 521
+          Enumerated_Domain_Value_Definition: Water to Water
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 522
+          Enumerated_Domain_Value_Definition: Water to Palustrine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 523
+          Enumerated_Domain_Value_Definition: Water to Estuarine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 524
+          Enumerated_Domain_Value_Definition: Water to Tundra
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 525
+          Enumerated_Domain_Value_Definition: Water to Snow/Ice
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 526
+          Enumerated_Domain_Value_Definition: Palustrine Aquatic Bed to Unclassified
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 527
+          Enumerated_Domain_Value_Definition: Palustrine Aquatic Bed to High Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 528
+          Enumerated_Domain_Value_Definition: Palustrine Aquatic Bed to Medium Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 529
+          Enumerated_Domain_Value_Definition: Palustrine Aquatic Bed to Low Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 530
+          Enumerated_Domain_Value_Definition: Palustrine Aquatic Bed to Open Space Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 531
+          Enumerated_Domain_Value_Definition: Palustrine Aquatic Bed to Cultivated Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 532
+          Enumerated_Domain_Value_Definition: Palustrine Aquatic Bed to Pasture/Hay
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 533
+          Enumerated_Domain_Value_Definition: Palustrine Aquatic Bed to Grassland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 534
+          Enumerated_Domain_Value_Definition: Palustrine Aquatic Bed to Deciduous Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 535
+          Enumerated_Domain_Value_Definition: Palustrine Aquatic Bed to Evergreen Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 536
+          Enumerated_Domain_Value_Definition: Palustrine Aquatic Bed to Mixed Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 537
+          Enumerated_Domain_Value_Definition: Palustrine Aquatic Bed to Scrub/Shrub
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 538
+          Enumerated_Domain_Value_Definition: Palustrine Aquatic Bed to Palustrine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 539
+          Enumerated_Domain_Value_Definition: Palustrine Aquatic Bed to Palustrine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 540
+          Enumerated_Domain_Value_Definition: Palustrine Aquatic Bed to Palustrine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 541
+          Enumerated_Domain_Value_Definition: Palustrine Aquatic Bed to Estuarine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 542
+          Enumerated_Domain_Value_Definition: Palustrine Aquatic Bed to Estuarine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 543
+          Enumerated_Domain_Value_Definition: Palustrine Aquatic Bed to Estuarine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 544
+          Enumerated_Domain_Value_Definition: Palustrine Aquatic Bed to Unconsolidated Shore
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 545
+          Enumerated_Domain_Value_Definition: Palustrine Aquatic Bed to Bare Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 546
+          Enumerated_Domain_Value_Definition: Palustrine Aquatic Bed to Water
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 547
+          Enumerated_Domain_Value_Definition: Palustrine Aquatic Bed to Palustrine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 548
+          Enumerated_Domain_Value_Definition: Palustrine Aquatic Bed to Estuarine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 549
+          Enumerated_Domain_Value_Definition: Palustrine Aquatic Bed to Tundra
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 550
+          Enumerated_Domain_Value_Definition: Palustrine Aquatic Bed to Snow/Ice
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 551
+          Enumerated_Domain_Value_Definition: Estuarine Aquatic Bed to Unclassified
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 552
+          Enumerated_Domain_Value_Definition: Estuarine Aquatic Bed to High Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 553
+          Enumerated_Domain_Value_Definition: Estuarine Aquatic Bed to Medium Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 554
+          Enumerated_Domain_Value_Definition: Estuarine Aquatic Bed to Low Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 555
+          Enumerated_Domain_Value_Definition: Estuarine Aquatic Bed to Open Space Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 556
+          Enumerated_Domain_Value_Definition: Estuarine Aquatic Bed to Cultivated Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 557
+          Enumerated_Domain_Value_Definition: Estuarine Aquatic Bed to Pasture/Hay
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 558
+          Enumerated_Domain_Value_Definition: Estuarine Aquatic Bed to Grassland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 559
+          Enumerated_Domain_Value_Definition: Estuarine Aquatic Bed to Deciduous Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 560
+          Enumerated_Domain_Value_Definition: Estuarine Aquatic Bed to Evergreen Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 561
+          Enumerated_Domain_Value_Definition: Estuarine Aquatic Bed to Mixed Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 562
+          Enumerated_Domain_Value_Definition: Estuarine Aquatic Bed to Scrub/Shrub
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 563
+          Enumerated_Domain_Value_Definition: Estuarine Aquatic Bed to Palustrine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 564
+          Enumerated_Domain_Value_Definition: Estuarine Aquatic Bed to Palustrine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 565
+          Enumerated_Domain_Value_Definition: Estuarine Aquatic Bed to Palustrine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 566
+          Enumerated_Domain_Value_Definition: Estuarine Aquatic Bed to Estuarine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 567
+          Enumerated_Domain_Value_Definition: Estuarine Aquatic Bed to Estuarine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 568
+          Enumerated_Domain_Value_Definition: Estuarine Aquatic Bed to Estuarine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 569
+          Enumerated_Domain_Value_Definition: Estuarine Aquatic Bed to Unconsolidated Shore
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 570
+          Enumerated_Domain_Value_Definition: Estuarine Aquatic Bed to Bare Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 571
+          Enumerated_Domain_Value_Definition: Estuarine Aquatic Bed to Water
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 572
+          Enumerated_Domain_Value_Definition: Estuarine Aquatic Bed to Palustrine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 573
+          Enumerated_Domain_Value_Definition: Estuarine Aquatic Bed to Estuarine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 574
+          Enumerated_Domain_Value_Definition: Estuarine Aquatic Bed to Tundra
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 575
+          Enumerated_Domain_Value_Definition: Estuarine Aquatic Bed to Snow/Ice
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 576
+          Enumerated_Domain_Value_Definition: Tundra to Unclassified
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 577
+          Enumerated_Domain_Value_Definition: Tundra to High Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 578
+          Enumerated_Domain_Value_Definition: Tundra to Medium Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 579
+          Enumerated_Domain_Value_Definition: Tundra to Low Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 580
+          Enumerated_Domain_Value_Definition: Tundra to Open Space Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 581
+          Enumerated_Domain_Value_Definition: Tundra to Cultivated Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 582
+          Enumerated_Domain_Value_Definition: Tundra to Pasture/Hay
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 583
+          Enumerated_Domain_Value_Definition: Tundra to Grassland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 584
+          Enumerated_Domain_Value_Definition: Tundra to Deciduous Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 585
+          Enumerated_Domain_Value_Definition: Tundra to Evergreen Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 586
+          Enumerated_Domain_Value_Definition: Tundra to Mixed Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 587
+          Enumerated_Domain_Value_Definition: Tundra to Scrub/Shrub
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 588
+          Enumerated_Domain_Value_Definition: Tundra to Palustrine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 589
+          Enumerated_Domain_Value_Definition: Tundra to Palustrine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 590
+          Enumerated_Domain_Value_Definition: Tundra to Palustrine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 591
+          Enumerated_Domain_Value_Definition: Tundra to Estuarine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 592
+          Enumerated_Domain_Value_Definition: Tundra to Estuarine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 593
+          Enumerated_Domain_Value_Definition: Tundra to Estuarine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 594
+          Enumerated_Domain_Value_Definition: Tundra to Unconsolidated Shore
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 595
+          Enumerated_Domain_Value_Definition: Tundra to Bare Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 596
+          Enumerated_Domain_Value_Definition: Tundra to Water
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 597
+          Enumerated_Domain_Value_Definition: Tundra to Palustrine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 598
+          Enumerated_Domain_Value_Definition: Tundra to Estuarine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 599
+          Enumerated_Domain_Value_Definition: Tundra to Tundra
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 600
+          Enumerated_Domain_Value_Definition: Tundra to Snow/Ice
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 601
+          Enumerated_Domain_Value_Definition: Snow/Ice to Unclassified
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 602
+          Enumerated_Domain_Value_Definition: Snow/Ice to High Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 603
+          Enumerated_Domain_Value_Definition: Snow/Ice to Medium Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 604
+          Enumerated_Domain_Value_Definition: Snow/Ice to Low Intensity Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 605
+          Enumerated_Domain_Value_Definition: Snow/Ice to Open Space Developed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 606
+          Enumerated_Domain_Value_Definition: Snow/Ice to Cultivated Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 607
+          Enumerated_Domain_Value_Definition: Snow/Ice to Pasture/Hay
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 608
+          Enumerated_Domain_Value_Definition: Snow/Ice to Grassland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 609
+          Enumerated_Domain_Value_Definition: Snow/Ice to Deciduous Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 610
+          Enumerated_Domain_Value_Definition: Snow/Ice to Evergreen Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 611
+          Enumerated_Domain_Value_Definition: Snow/Ice to Mixed Forest
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 612
+          Enumerated_Domain_Value_Definition: Snow/Ice to Scrub/Shrub
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 613
+          Enumerated_Domain_Value_Definition: Snow/Ice to Palustrine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 614
+          Enumerated_Domain_Value_Definition: Snow/Ice to Palustrine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 615
+          Enumerated_Domain_Value_Definition: Snow/Ice to Palustrine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 616
+          Enumerated_Domain_Value_Definition: Snow/Ice to Estuarine Forested Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 617
+          Enumerated_Domain_Value_Definition: Snow/Ice to Estuarine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 618
+          Enumerated_Domain_Value_Definition: Snow/Ice to Estuarine Emergent Wetland
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 619
+          Enumerated_Domain_Value_Definition: Snow/Ice to Unconsolidated Shore
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 620
+          Enumerated_Domain_Value_Definition: Snow/Ice to Bare Land
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 621
+          Enumerated_Domain_Value_Definition: Snow/Ice to Water
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 622
+          Enumerated_Domain_Value_Definition: Snow/Ice to Palustrine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 623
+          Enumerated_Domain_Value_Definition: Snow/Ice to Estuarine Aquatic Bed
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 624
+          Enumerated_Domain_Value_Definition: Snow/Ice to Tundra
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 625
+          Enumerated_Domain_Value_Definition: Snow/Ice to Snow/Ice
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: NOAA Coastal Services Center
+        Contact_Person: Clearinghouse Manager
+      Contact_Position: Clearinghouse Manager
+      Contact_Address:
+        Address_Type: mailing and physical 
+        Address: 2234 South Hobson Avenue
+        City: Charleston
+        State_or_Province: SC
+        Postal_Code: 29405-2413
+        Country: USA
+      Contact_Voice_Telephone: (843)740-1210
+      Contact_Facsimile_Telephone: (843)740-1224
+      Contact_Electronic_Mail_Address: clearinghouse@noaa.gov
+      Hours_of_Service: Monday-Friday, 8-5 EST
+  Resource_Description: Downloadable Data
+  Distribution_Liability: Users must assume responsibility to determine the usability of these data.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ERDAS Imagine image file (.img)
+      Digital_Transfer_Option:
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Format: ISO 9660
+          Compatibility_Information:
+            ISO 9660 format allows the CD-ROM
+            to be read by most computer operating systems.
+    Fees: none
+
+Metadata_Reference_Information:
+  Metadata_Date: 20131115
+  Metadata_Review_Date: 20131115
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: NOAA Coastal Services Center
+        Contact_Person: Metadata Specialist
+      Contact_Position: Metadata Specialist
+      Contact_Address:
+        Address_Type: mailing and physical 
+        Address: 2234 S Hobson Ave.
+        City: Charleston
+        State_or_Province: SC
+        Postal_Code: 29405
+        Country: USA
+      Contact_Voice_Telephone: 843-740-1210
+      Contact_Facsimile_Telephone: 843-740-1224
+      Contact_Electronic_Mail_Address: csc@noaa.gov
+      Hours_of_Service: 8:00 am to 5:00 pm EST.
+  Metadata_Standard_Name: FGDC (Federal Geographic Data Committee) CSDGM (Content Standard for Digital Geospatial Metadata)
+  Metadata_Standard_Version: FGDC-STD-001-1998

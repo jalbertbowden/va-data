@@ -1,0 +1,1297 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Oak Ridge National Laboratory
+
+      Publication_Date: 20010919
+
+      Title:
+        Chesapeake Bay Land Cover Change Analysis 1984 to
+        1989
+
+      Geospatial_Data_Presentation_Form: Map
+      Publication_Information:
+        Publication_Place: NOAA Coastal Services Center, Charleston, SC
+        Publisher: NOAA Coastal Services Center
+      Larger_Work_Citation:
+        Citation_Information:
+          Originator: NOAA Coastal Services Center
+          Publication_Date: 20010919
+
+          Title: Coastal Change Analysis Program
+          Publication_Information:
+            Publication_Place: NOAA Coastal Services Center, Charleston, SC
+            Publisher: NOAA Coastal Services Center
+          Other_Citation_Details:
+
+            This Change image
+            is one of a set of three images from:
+            August 27, 1984 and September 21, 1984
+            November 3, 1988 and October 12, 1989
+            and a change image between those two dates.
+
+          Online_Linkage: http://www.csc.noaa.gov/crs
+  Description:
+    Abstract:
+
+      This data set consists of portions of three Landsat Thematic
+      Mapper scenes which were analyzed according to the Coastal
+      Change Analysis Program (C-CAP) protocol to determine land cover
+      and a subsequent change detection. The data
+      were field validated and mosaicked to produce a land cover
+      inventory for Chesapeake Bay, Virginia.
+
+      If you wish to create an attribute table to identify the different cover
+      classifications, an easy reference table is available under the
+      PROCESS DESCRIPTION section.
+
+    Purpose:
+
+      To improve the understanding of coastal uplands and wetlands,
+      and their linkages with the distribution, abundance, and health
+      of living marine resources.
+
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 19920915
+        Ending_Date: 19941101
+    Currentness_Reference: Ground conditions
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: 1 to 5 years
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -77.7
+      East_Bounding_Coordinate: -75.0
+      North_Bounding_Coordinate: 39.9
+      South_Bounding_Coordinate: 36.5
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Land Cover Analysis
+      Theme_Keyword: Change Detection Analysis
+      Theme_Keyword: C-CAP
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: Chesapeake Bay, Virginia
+      Place_Keyword: Coastal Zone
+      Place_Keyword: Chesapeake Bay Watershed
+      Place_Keyword: Chesapeake Bay
+      Place_Keyword: Atlantic Coast
+      Place_Keyword: Virginia
+      Place_Keyword: East Coast
+
+  Access_Constraints: None, except for a possible fee at the cost of reproduction.
+  Use_Constraints:
+
+    Data set is not for use in litigation. While efforts have been
+    made to ensure that these data are accurate and reliable within
+    the state of the art, NOAA, cannot assume liability for any
+    damages, or misrepresentations, caused by any inaccuracies in the
+    data, or as a result of the data to be used on a particular
+    system. NOAA makes no warranty, expressed or implied, nor does the
+    fact of distribution constitute such a warranty.
+
+    Additional Use Constraints:
+    This data set was the first C-CAP Analysis completed circa 1989
+    and therefore considered a prototype. No accuracy assessment was
+    performed on this data set and no accuracy assessment statistics
+    are available.
+
+  Native_Data_Set_Environment:
+    ERDAS Image Processing System GIS on a SUN 4/360 using SUN
+    Operating System Version 4.1.1
+
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report:
+      A team of field investigators participated in data verification
+      exercises on UNKNOWN.  Data validation teams consisted of
+      personnel from the NOAA Coastal Services Center
+      Oak Ridge National Laboratory
+      Maryland Department of Natural Resources Salisbury
+      State University
+      Chesapeake Research Consortium
+      Virginia Institute of Marine Sciences
+      University of Maryland
+      National Marine Fisheries Service
+
+      Each team was equipped with a portable color laptop
+      computer linked to a Global Positioning System (GPS). The field
+      station runs software that supports the classified data as a
+      raster background with the road network as a vector overlay with
+      a simultaneous display of live GPS coordinates. Accuracy
+      assessment points were generated with ERDAS Imagine software
+      using a stratified random sample in 3x3 pixel homogeneous
+      windows. To make the acquisition of the field reference data
+      more practical, a twenty pixel buffer area around roads (i.e.
+      10 pixels on each side of the road) was created.
+      UNKNOWN random points were generated within this
+      area for the accuracy assessment. Collecting 'ground truth'
+      information for areas that have experienced a change in land
+      cover type is a troublesome task.
+      In general, the formal procedures for accuracy assessment recommended in remote
+      sensing literature are effective for positional accuracy and
+      precision of identifiable, stable features and categorical accuracy at the
+      interior of class polygons.  But they neglect the fuzzy nature of land cover
+      categorically (eg. the class boundary between grass and marsh), spatially
+      (eg. the polygon boundary between water and marsh), and temporally
+      (eg. land cover changes over time often existing in a transitional state that
+      cannot be discretely placed in either category). There is an overriding assumption
+      that a ground "truth" exists and that investigators can see it if they get close
+      enough to the ground. Yet, different investigators "see" different land covers,
+      especially troublesome when the area is large enough to require multiple teams.
+      Current procedures also introduce delay due to field verification activities after
+      the classification is complete. Current procedures are not effective for
+      classifications of past land cover and for change detection from one time to
+      another. The large number of "from" and "to" categories can make accuracy
+      assessment more expensive than the original classification and change detection
+      effort. Furthermore, if the distribution of error is thoroughly depicted by class
+      and position, the accuracy database may be as large as the thematic database itself.
+      Given these limitations, it is infeasible to provide a quantitative estimate of accuracy
+      with this very large spatial database. However, we note that the C-CAP verification
+      effort to date is one of the most extensive yet attempted for a large land cover
+      classification database. Two accuracy assessment workshops have been
+      conducted. In addition, the Maryland Department of Natural Resources sponsored a
+      workshop involving seven teams of field investigators focusing on the Salisbury
+      Quadrangle. The database was thoroughly revised on the basis of this and other
+      verification input.In a final test, the Chesapeake Research Consortium (CRC)
+      developed field maps for 70 test sites (points) of .5 km diameter each.  This was
+      a blind test in that the field investigators did not see the C-CAP land cover maps
+      until their mapping was complete. The results indicated a high degree of accuracy and
+      precision for C-CAP and CRC maps. The satellite derived maps tended to be more spatially
+      precise and to detect certain features--such as subtle changes in vegetation,
+      clearings surrounded by trees, or patches of marsh between trees and water--better
+      than aerial photograph/field derived maps. Aerial photograph/field derived maps tended
+      to detect small features, especially small patches of forested wetlands, more completely
+      than did the satellite derived maps.  This test indicated that overall confidence in the
+      satellite derived maps is warranted as high as for aerial photograph/field maps provided
+      the spatial resolution is .25 acres or greater. A spatial filter was applied to the final
+      Chesapeake Bay Land Cover Classification and Change Detection data files.  A 3 pixel by 3
+      pixel majority class filter was used to remove the "salt and pepper" pixels common
+      in image classification.
+
+      Pre-Processing Steps:
+      Each Landsat scene was georectified to a UTM
+      projection using ground control points obtained
+      from USGS 1:24,000 quads.  A linear (first order)
+      transformation was performed with an root mean
+      square error (RMSE) tolerance of .5 pixels.
+
+      Ancillary data sets: USGS maps, County Marsh Inventories, National Wetland Inventory data
+
+
+      Shoreline features can be extracted from Landsat images by
+      detecting the land/water interface.  However, care must be used
+      to avoid misinterpreting tidal differences as changes in
+      shorelines, since the satellite images from which these land
+      cover images are derived and acquired at different tidal stages,
+      depending on when the satellite is overhead. The land cover
+      classifications represent the instantaneous state of the
+      shoreline at the moment of image acquisition.
+      C-CAP data are mapped at 1:100,000 scale with 22 standard
+      classes constituting major landscape components. They are not
+      jurisdictional (can't be used for permitting) and will not
+      identify individual species. However, they are useful for
+      identifying regional landscape patterns, major functional
+      niches, environmental impact assessment, urban planning, and
+      zoning applications. If you need change analysis data at this
+      scale, C-CAP may be your only option. C-CAP is designed around a
+      1 to 5 year revisit cycle.
+      Land Cover is the complete human and natural landscape recorded
+      as surface components - forest, water, wetlands, concrete,
+      asphalt, etc. Land cover can be documented by analyzing spectral
+      signatures of satellite and aerial imagery.
+      Land Use is the documentation of human uses of the landscape -
+      residential, commercial, agricultural, etc. Land use can be
+      inferred but, not explicitly derived from satellite and aerial
+      imagery. There is no spectral basis for land use determination
+      in satellite imagery.
+      C-CAP data can be used to identify concrete and asphalt as land
+      cover, but we can only infer that these materials denote a
+      residential or commercial use.
+      Post-Processing Steps:
+      NONE
+
+      Known Problems:
+      NONE
+
+      Accuracy Results:
+      None performed, therefore unknown, refer
+      to Use Constraints for more information.
+
+  Logical_Consistency_Report:
+    Tests for logical consistency indicate that all row and column positions
+    in the selected latitude/longitude window contain data. Conversion and
+    integration with vector files indicates that all positions are
+    consistent with earth coordinates covering the same area. Attribute
+    files appear to be logically consistent. Examining the change matrix for
+    logical fallacies, we find, for example, that a very small number of
+    pixels changed from developed land to any other category. Spatially we find the
+    majority of new bare ground to be in the expansion zone around large cities,
+    near interstate highways, or adjacent to existing beaches.
+
+  Completeness_Report:
+    The classification scheme comprehensively includes all anticipated land
+    covers, and all pixels have been classified. The NOAA Coastal Change
+    Analysis Program (C-CAP): Guidance for Regional Implementation, NOAA
+    National Marine Fisheries Service Report 123, discusses the interagency
+    effort to develop the land cover classification scheme and defines all
+    categories.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report:
+        The positional accuracy and precision of this database is based on the Landsat
+        Thematic Mapper (TM) database.  Nominally the source data are 30 meter by 30 meter
+        cells with a positional accuracy of .5 cell (15 meters) in each direction.  In
+        addition, any given feature may or may not affect the signature of an adjacent
+        boundary cell when its areal extent covers less than half of the boundary cell.
+        Each Landsat scene was georectified to a UTM  projection using ground control
+        points obtained from USGS 1:24,000 quads.  A linear (first order) transformation
+        was performed with an root mean square error (RMSE) tolerance of .5 pixels.
+
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: There was no terrain
+      	correction in the georeferencing procedure.
+
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Earth Observation Satellite Company
+          Publication_Date: Unknown
+          Title: Landsat Thematic Mapper
+          Geospatial_Data_Presentation_Form: remote-sensing image
+          Publication_Information:
+            Publication_Place: Sioux Falls, SD
+            Publisher: EROS Data Center
+          Online_Linkage: http://edc.usgs.gov/eros-home.html
+      Type_of_Source_Media: cdrom
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 19840827
+            Ending_Date: 19891012
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: EROS
+      Source_Contribution: C-CAP Program
+
+    Process_Step:
+      Process_Description:
+        The processing steps for each C-CAP Chesapeake Bay Land Cover Change Analysis 1984 to
+        1989 product are intricately associated. Each
+        database is the result of many processing steps with numerous
+        iterations for each step. The output of one processing step or
+        database is often the input data for another processing
+        step. A brief description of the processing steps used in the
+        land cover classification of the this project follows. Further description
+        of the processing steps can be found in the NOAA
+        Coastal Change Analysis Program (C-CAP): Guidance for Regional
+        Implementation, NOAA National Marine Fisheries Service Report
+        123 (Dobson et al, 1995).
+
+        Baseline Classification Process:
+        The Chesapeake Bay Land Cover Change Analysis 1984 to
+        1989 land cover/change classification
+        product was processed using an iterative classification
+        approach.  Landsat Thematic Mapper data for path/row/date(s):
+        14/33 19840921 , 14/34 19840921  , 15/33 19840827  , 15/34 19840827, 14/33 19881103,
+        14/34 19881103  , 15/33 19891012  , 15/34 19891012  were analyzed and mosaicked to
+        create a land cover inventory for Chesapeake Bay, Virginia.  Each scene
+        was classified, focusing
+        first on separating major categories (e.g. water, forest,
+        marsh, herbaceous upland, and developed) using standard
+        supervised classification techniques.  Numerous individual areas were chosen as training
+        sites for the land cover classification. The mean and
+        covariance statistics for these areas are passed to an isodata
+        classification algorithm which assigns an unknown pixel to the
+        class in which it has the highest probability of being a
+        member. Then iterative unsupervised classifications were
+        performed on each major category individually by masking out
+        all other major categories. With this type of unsupervised
+        classification, the computer is allowed to query the
+        multispectral properties of the masked scene using user
+        specified criteria and to identify X mutually exclusive
+        clusters in N-dimensional feature space. By masking out all
+        data but a single major category, the spectral variance is
+        greatly reduced thus decreasing classification errors. After
+        several classification iterations of the masked data, final
+        classification labels were assigned to the spectral
+        clusters. Changes among major categories were permitted to
+        occur even at this stage of processing. Subsequent field work
+        and the use of collateral data such as USGS maps, TIGER road
+        data, and National Wetland Inventory data led to further
+        refinements in the image classification. In small areas where
+        landcover class confusion could not be separated spectrally,
+        human pattern recognition was used to recode the data. A
+        spatial filter was applied to the final classification data
+        file.
+
+        Change Classification Process:
+
+        Landsat Thematic Mapper data for path/row(s) 14/33 19840921 , 14/34 19840921  , 1
+        5/33 19840827  , 15/34 19840827, 14/33 19881103, 14/34 19881103  , 15/33 19891012  ,
+        15/34 19891012  were analyzed to
+        arrive at a land cover for Chesapeake Bay, Virginia. The change
+        date land cover classification was in part derived from the
+        baseline classification. Only the pixels in the November 3, 1988 and October 12, 1989
+        image that changed spectrally from the change date image were classified
+        for the August 27, 1984 and September 21, 1984
+        data file. All other pixels were simply replaced with the
+        baseline image classification.
+
+        It is possible to simply identify the amount of change between
+        two images by image differencing the same band in two images
+        which have previously been rectified to a common basemap. Image
+        differencing involves subtracting the imagery of one date from
+        that of another. The subtraction results in positive and
+        negative values in areas of radiance change and zero values in
+        areas of no-change in a new 'change image'. The images are
+        subtracted resulting in an signed 16-bit analysis with pixel
+        values ranging from -255 to 255. The results were transformed
+        into positive unsigned 16-bit values by adding a constant, c.
+        The operation is expressed mathematically as:
+        Dijk = BVijk(1) - BVijk(2) + c
+        where Dijk = change pixel value BVijk(1) = brightness value at
+        time 1 BVijk(2) = brightness value at time 2 c = a constant
+        (e.g., 255). i = line number j = column number k = a single band
+        (e.g. TM band 4).
+
+        The 'change image' produced using image differencing usually
+        yields a BV distribution approximately gaussian in nature,
+        where pixels of no BV change are distributed around the mean
+        and pixels of change are found in the tails of the
+        distribution. A threshold value was carefully chosen to
+        identify spectral 'change' and 'no-change' pixels in the
+        'change image.' A 'change/no-change' mask was derived by
+        performing image differencing on band 4, and Normalized
+        Difference Vegetation Index (NDVI) of the two date dataset and
+        recoded into a binary mask file. The 'change/no-change' mask
+        was then overlaid onto the earlier date of imagery and only
+        those pixels which were detected as having spectrally changed
+        were viewed as candidate pixels for categorical change.
+
+        Change Detection Database
+
+        The change date and baseline land cover classifications were
+        compared on a pixel by pixel basis using a change detection
+        matrix.  This traditional post-classification comparison
+        yields 'from land cover class - to land cover class' change
+        information. Many pixels with sufficient change to be included
+        in the mask of candidate pixels in the spectral change process
+        did not qualify as categorical land cover change. This method
+        may reduce change detection errors (omission and commission)
+        and provides detailed 'from-to' change class information. The
+        technique reduces effort by allowing analysts to focus on the
+        small amount of area that has changed between dates.
+        0     Background
+        1     Unclassified to Unclassified - No Change
+        2     Unclassified to High Intensity Developed
+        3     Unclassified to Low Intensity Developed
+        4     Unclassified to Cultivated Land
+        5     Unclassified to Grassland
+        6     Unclassified to Deciduous Forest
+        7     Unclassified to Evergreen Forest
+        8     Unclassified to Mixed Forest
+        9     Unclassified to Scrub/Shrub
+        10    Unclassified to Palustrine Forested Wetland
+        11    Unclassified to Palustrine Scrub/Shrub Wetland
+        12    Unclassified to Palustrine Emergent Wetland
+        13    Unclassified to Estuarine Forested Wetland
+        14    Unclassified to Estuarine Scrub/Shrub Wetland
+        15    Unclassified to Estuarine Emergent Wetland
+        16    Unclassified to Unconsolidated Shore
+        17    Unclassified to Bare Land
+        18    Unclassified to Water
+        19    Unclassified to Palustrine Aquatic Bed
+        20    Unclassified to Estuarine Aquatic Bed
+        21    Unclassified to Tundra
+        22    Unclassified to Snow/Ice
+        23    High Intensity Developed to Unclassified
+        24    High Intensity Developed to High Intensity Developed - No Change
+        25    High Intensity Developed to Low Intensity Developed
+        26    High Intensity Developed to Cultivated Land
+        27    High Intensity Developed to Grassland
+        28    High Intensity Developed to Deciduous Forest
+        29    High Intensity Developed to Evergreen Forest
+        30    High Intensity Developed to Mixed Forest
+        31    High Intensity Developed to Scrub/Shrub
+        32    High Intensity Developed to Palustrine Forested Wetland
+        33    High Intensity Developed to Palustrine Scrub/Shrub Wetland
+        34    High Intensity Developed to Palustrine Emergent Wetland
+        35    High Intensity Developed to Estuarine Forested Wetland
+        36    High Intensity Developed to Estuarine Scrub/Shrub Wetland
+        37    High Intensity Developed to Estuarine Emergent Wetland
+        38    High Intensity Developed to Unconsolidated Shore
+        39    High Intensity Developed to Bare Land
+        40    High Intensity Developed to Water
+        41    High Intensity Developed to Palustrine Aquatic Bed
+        42    High Intensity Developed to Estuarine Aquatic Bed
+        43    High Intensity Developed to Tundra
+        44    High Intensity Developed to Snow/Ice
+        45    Low Intensity Developed to Unclassified
+        46    Low Intensity Developed to High Intensity Developed
+        47    Low Intensity Developed to Low Intensity Developed - No Change
+        48    Low Intensity Developed to Cultivated Land
+        49    Low Intensity Developed to Grassland
+        50    Low Intensity Developed to Deciduous Forest
+        51    Low Intensity Developed to Evergreen Forest
+        52    Low Intensity Developed to Mixed Forest
+        53    Low Intensity Developed to Scrub/Shrub
+        54    Low Intensity Developed to Palustrine Forested Wetland
+        55    Low Intensity Developed to Palustrine Scrub/Shrub Wetland
+        56    Low Intensity Developed to Palustrine Emergent Wetland
+        57    Low Intensity Developed to Estuarine Forested Wetland
+        58    Low Intensity Developed to Estuarine Scrub/Shrub Wetland
+        59    Low Intensity Developed to Estuarine Emergent Wetland
+        60    Low Intensity Developed to Unconsolidated Shore
+        61    Low Intensity Developed to Bare Land
+        62    Low Intensity Developed to Water
+        63    Low Intensity Developed to Palustrine Aquatic Bed
+        64    Low Intensity Developed to Estuarine Aquatic Bed
+        65    Low Intensity Developed to Tundra
+        66    Low Intensity Developed to Snow/Ice
+        67    Cultivated Land to Unclassified
+        68    Cultivated Land to High Intensity Developed
+        69    Cultivated Land to Low Intensity Developed
+        70    Cultivated Land to Cultivated Land - NO Change
+        71    Cultivated Land to Grassland
+        72    Cultivated Land to Deciduous Forest
+        73    Cultivated Land to Evergreen Forest
+        74    Cultivated Land to Mixed Forest
+        75    Cultivated Land to Scrub/Shrub
+        76    Cultivated Land to Palustrine Forested Wetland
+        77    Cultivated Land to Palustrine Scrub/Shrub Wetland
+        78    Cultivated Land to Palustrine Emergent Wetland
+        79    Cultivated Land to Estuarine Forested Wetland
+        80    Cultivated Land to Estuarine Scrub/Shrub Wetland
+        81    Cultivated Land to Estuarine Emergent Wetland
+        82    Cultivated Land to Unconsolidated Shore
+        83    Cultivated Land to Bare Land
+        84    Cultivated Land to Water
+        85    Cultivated Land to Palustrine Aquatic Bed
+        86    Cultivated Land to Estuarine Aquatic Bed
+        87    Cultivated Land to Tundra
+        88    Cultivated Land to Snow/Ice
+        89    Grassland to Unclassified
+        90    Grassland to High Intensity Developed
+        91    Grassland to Low Intensity Developed
+        92    Grassland to Cultivated Land
+        93    Grassland to Grassland - No Change
+        94    Grassland to Deciduous Forest
+        95    Grassland to Evergreen Forest
+        96    Grassland to Mixed Forest
+        97    Grassland to Scrub/Shrub
+        98    Grassland to Palustrine Forested Wetland
+        99    Grassland to Palustrine Scrub/Shrub Wetland
+        100   Grassland to Palustrine Emergent Wetland
+        101   Grassland to Estuarine Forested Wetland
+        102    Grassland to Estuarine Scrub/Shrub Wetland
+        103    Grassland to Estuarine Emergent Wetland
+        104    Grassland to Unconsolidated Shore
+        105    Grassland to Bare Land
+        106    Grassland to Water
+        107    Grassland to Palustrine Aquatic Bed
+        108    Grassland to Estuarine Aquatic Bed
+        109    Grassland to Tundra
+        110    Grassland to Snow/Ice
+        111    Deciduous Forest to Unclassified
+        112    Deciduous Forest to High Intensity Developed
+        113    Deciduous Forest to Low Intensity Developed
+        114    Deciduous Forest to Cultivated Land
+        115    Deciduous Forest to Grassland
+        116    Deciduous Forest to Deciduous Forest - No Change
+        117    Deciduous Forest to Evergreen Forest
+        118    Deciduous Forest to Mixed Forest
+        119    Deciduous Forest to Scrub/Shrub
+        120    Deciduous Forest to Palustrine Forested Wetland
+        121    Deciduous Forest to Palustrine Scrub/Shrub Wetland
+        122    Deciduous Forest to Palustrine Emergent Wetland
+        123    Deciduous Forest to Estuarine Forested Wetland
+        124    Deciduous Forest to Estuarine Scrub/Shrub Wetland
+        125    Deciduous Forest to Estuarine Emergent Wetland
+        126    Deciduous Forest to Unconsolidated Shore
+        127    Deciduous Forest to Bare Land
+        128    Deciduous Forest to Water
+        129    Deciduous Forest to Palustrine Aquatic Bed
+        130    Deciduous Forest to Estuarine Aquatic Bed
+        131    Deciduous Forest to Tundra
+        132    Deciduous Forest to Snow/Ice
+        133    Evergreen Forest to Unclassified
+        134    Evergreen Forest to High Intensity Developed
+        135    Evergreen Forest to Low Intensity Developed
+        136    Evergreen Forest to Cultivated Land
+        137    Evergreen Forest to Grassland
+        138    Evergreen Forest to Deciduous Forest
+        139    Evergreen Forest to Evergreen Forest - No Change
+        140    Evergreen Forest to Mixed Forest
+        141    Evergreen Forest to Scrub/Shrub
+        142    Evergreen Forest to Palustrine Forested Wetland
+        143    Evergreen Forest to Palustrine Scrub/Shrub Wetland
+        144    Evergreen Forest to Palustrine Emergent Wetland
+        145    Evergreen Forest to Estuarine Forested Wetland
+        146    Evergreen Forest to Estuarine Scrub/Shrub Wetland
+        147    Evergreen Forest to Estuarine Emergent Wetland
+        148    Evergreen Forest to Unconsolidated Shore
+        149    Evergreen Forest to Bare Land
+        150    Evergreen Forest to Water
+        151    Evergreen Forest to Palustrine Aquatic Bed
+        152    Evergreen Forest to Estuarine Aquatic Bed
+        153    Evergreen Forest to Tundra
+        154    Evergreen Forest to Snow/Ice
+        155    Mixed Forest to Unclassified
+        156    Mixed Forest to High Intensity Developed
+        157    Mixed Forest to Low Intensity Developed
+        158    Mixed Forest to Cultivated Land
+        159    Mixed Forest to Grassland
+        160    Mixed Forest to Deciduous Forest
+        161    Mixed Forest to Evergreen Forest
+        162    Mixed Forest to Mixed Forest - No Change
+        163    Mixed Forest to Scrub/Shrub
+        164    Mixed Forest to Palustrine Forested Wetland
+        165    Mixed Forest to Palustrine Scrub/Shrub Wetland
+        166    Mixed Forest to Palustrine Emergent Wetland
+        167    Mixed Forest to Estuarine Forested Wetland
+        168    Mixed Forest to Estuarine Scrub/Shrub Wetland
+        169    Mixed Forest to Estuarine Emergent Wetland
+        170    Mixed Forest to Unconsolidated Shore
+        171    Mixed Forest to Bare Land
+        172    Mixed Forest to Water
+        173    Mixed Forest to Palustrine Aquatic Bed
+        174    Mixed Forest to Estuarine Aquatic Bed
+        175    Mixed Forest to Tundra
+        176    Mixed Forest to Snow/Ice
+        177    Scrub/Shrub to Unclassified
+        178    Scrub/Shrub to High Intensity Developed
+        179    Scrub/Shrub to Low Intensity Developed
+        180    Scrub/Shrub to Cultivated Land
+        181    Scrub/Shrub to Grassland
+        182    Scrub/Shrub to Deciduous Forest
+        183    Scrub/Shrub to Evergreen Forest
+        184    Scrub/Shrub to Mixed Forest
+        185    Scrub/Shrub to Scrub/Shrub - No Change
+        186    Scrub/Shrub to Palustrine Forested Wetland
+        187    Scrub/Shrub to Palustrine Scrub/Shrub Wetland
+        188    Scrub/Shrub to Palustrine Emergent Wetland
+        189    Scrub/Shrub to Estuarine Forested Wetland
+        190    Scrub/Shrub to Estuarine Scrub/Shrub Wetland
+        191    Scrub/Shrub to Estuarine Emergent Wetland
+        192    Scrub/Shrub to Unconsolidated Shore
+        193    Scrub/Shrub to Bare Land
+        194    Scrub/Shrub to Water
+        195    Scrub/Shrub to Palustrine Aquatic Bed
+        196    Scrub/Shrub to Estuarine Aquatic Bed
+        197    Scrub/Shrub to Tundra
+        198    Scrub/Shrub to Snow/Ice
+        199    Palustrine Forested Wetland to Unclassified
+        200    Palustrine Forested Wetland to High Intensity Developed
+        201    Palustrine Forested Wetland to Low Intensity Developed
+        202    Palustrine Forested Wetland to Cultivated Land
+        203    Palustrine Forested Wetland to Grassland
+        204    Palustrine Forested Wetland to Deciduous Forest
+        205    Palustrine Forested Wetland to Evergreen Forest
+        206    Palustrine Forested Wetland to Mixed Forest
+        207    Palustrine Forested Wetland to Scrub/Shrub
+        208    Palustrine Forested Wetland to Palustrine Forested Wetland - No Change
+        209    Palustrine Forested Wetland to Palustrine Scrub/Shrub Wetland
+        210    Palustrine Forested Wetland to Palustrine Emergent Wetland
+        211    Palustrine Forested Wetland to Estuarine Forested Wetland
+        212    Palustrine Forested Wetland to Estuarine Scrub/Shrub Wetland
+        213    Palustrine Forested Wetland to Estuarine Emergent Wetland
+        214    Palustrine Forested Wetland to Unconsolidated Shore
+        215    Palustrine Forested Wetland to Bare Land
+        216    Palustrine Forested Wetland to Water
+        217    Palustrine Forested Wetland to Palustrine Aquatic Bed
+        218    Palustrine Forested Wetland to Estuarine Aquatic Bed
+        219    Palustrine Forested Wetland to Tundra
+        220    Palustrine Forested Wetland to Snow/Ice
+        221    Palustrine Scrub/Shrub Wetland to Unclassified
+        222    Palustrine Scrub/Shrub Wetland to High Intensity Developed
+        223    Palustrine Scrub/Shrub Wetland to Low Intensity Developed
+        224    Palustrine Scrub/Shrub Wetland to Cultivated Land
+        225    Palustrine Scrub/Shrub Wetland to Grassland
+        226    Palustrine Scrub/Shrub Wetland to Deciduous Forest
+        227    Palustrine Scrub/Shrub Wetland to Evergreen Forest
+        228    Palustrine Scrub/Shrub Wetland to Mixed Forest
+        229    Palustrine Scrub/Shrub Wetland to Scrub/Shrub
+        230    Palustrine Scrub/Shrub Wetland to Palustrine Forested Wetland
+        231    Palustrine Scrub/Shrub Wetland to Palustrine Scrub/Shrub Wetland - No Change
+        232    Palustrine Scrub/Shrub Wetland to Palustrine Emergent Wetland
+        233    Palustrine Scrub/Shrub Wetland to Estuarine Forested Wetland
+        234    Palustrine Scrub/Shrub Wetland to Estuarine Scrub/Shrub Wetland
+        235    Palustrine Scrub/Shrub Wetland to Estuarine Emergent Wetland
+        236    Palustrine Scrub/Shrub Wetland to Unconsolidated Shore
+        237    Palustrine Scrub/Shrub Wetland to Bare Land
+        238    Palustrine Scrub/Shrub Wetland to Water
+        239    Palustrine Scrub/Shrub Wetland to Palustrine Aquatic Bed
+        240    Palustrine Scrub/Shrub Wetland to Estuarine Aquatic Bed
+        241    Palustrine Scrub/Shrub Wetland to Tundra
+        242    Palustrine Scrub/Shrub Wetland to Snow/Ice
+        243    Palustrine Emergent Wetland to Unclassified
+        244    Palustrine Emergent Wetland to High Intensity Developed
+        245    Palustrine Emergent Wetland to Low Intensity Developed
+        246    Palustrine Emergent Wetland to Cultivated Land
+        247    Palustrine Emergent Wetland to Grassland
+        248    Palustrine Emergent Wetland to Deciduous Forest
+        249    Palustrine Emergent Wetland to Evergreen Forest
+        250    Palustrine Emergent Wetland to Mixed Forest
+        251    Palustrine Emergent Wetland to Scrub/Shrub
+        252    Palustrine Emergent Wetland to Palustrine Forested Wetland
+        253    Palustrine Emergent Wetland to Palustrine Scrub/Shrub Wetland
+        254    Palustrine Emergent Wetland to Palustrine Emergent Wetland - No Change
+        255    Palustrine Emergent Wetland to Estuarine Forested Wetland
+        256    Palustrine Emergent Wetland to Estuarine Scrub/Shrub Wetland
+        257    Palustrine Emergent Wetland to Estuarine Emergent Wetland
+        258    Palustrine Emergent Wetland to Unconsolidated Shore
+        259    Palustrine Emergent Wetland to Bare Land
+        260    Palustrine Emergent Wetland to Water
+        261    Palustrine Emergent Wetland to Palustrine Aquatic Bed
+        262    Palustrine Emergent Wetland to Estuarine Aquatic Bed
+        263    Palustrine Emergent Wetland to Tundra
+        264    Palustrine Emergent Wetland to Snow/Ice
+        265    Estuarine Forested Wetland to Unclassified
+        266    Estuarine Forested Wetland to High Intensity Developed
+        267    Estuarine Forested Wetland to Low Intensity Developed
+        268    Estuarine Forested Wetland to Cultivated Land
+        269    Estuarine Forested Wetland to Grassland
+        270    Estuarine Forested Wetland to Deciduous Forest
+        271    Estuarine Forested Wetland to Evergreen Forest
+        272    Estuarine Forested Wetland to Mixed Forest
+        273    Estuarine Forested Wetland to Scrub/Shrub
+        274    Estuarine Forested Wetland to Palustrine Forested Wetland
+        275    Estuarine Forested Wetland to Palustrine Scrub/Shrub Wetland
+        276    Estuarine Forested Wetland to Palustrine Emergent Wetland
+        277    Estuarine Forested Wetland to Estuarine Forested Wetland - No Change
+        278    Estuarine Forested Wetland to Estuarine Scrub/Shrub Wetland
+        279    Estuarine Forested Wetland to Estuarine Emergent Wetland
+        280    Estuarine Forested Wetland to Unconsolidated Shore
+        281    Estuarine Forested Wetland to Bare Land
+        282    Estuarine Forested Wetland to Water
+        283    Estuarine Forested Wetland to Palustrine Aquatic Bed
+        284    Estuarine Forested Wetland to Estuarine Aquatic Bed
+        285    Estuarine Forested Wetland to Tundra
+        286    Estuarine Forested Wetland to Snow/Ice
+        287    Estuarine Scrub/Shrub Wetland to Unclassified
+        288    Estuarine Scrub/Shrub Wetland to High Intensity Developed
+        289    Estuarine Scrub/Shrub Wetland to Low Intensity Developed
+        290    Estuarine Scrub/Shrub Wetland to Cultivated Land
+        291    Estuarine Scrub/Shrub Wetland to Grassland
+        292    Estuarine Scrub/Shrub Wetland to Deciduous Forest
+        293    Estuarine Scrub/Shrub Wetland to Evergreen Forest
+        294    Estuarine Scrub/Shrub Wetland to Mixed Forest
+        295    Estuarine Scrub/Shrub Wetland to Scrub/Shrub
+        296    Estuarine Scrub/Shrub Wetland to Palustrine Forested Wetland
+        297    Estuarine Scrub/Shrub Wetland to Palustrine Scrub/Shrub Wetland
+        298    Estuarine Scrub/Shrub Wetland to Palustrine Emergent Wetland
+        299    Estuarine Scrub/Shrub Wetland to Estuarine Forested Wetland
+        300    Estuarine Scrub/Shrub Wetland to Estuarine Scrub/Shrub Wetland - No Change
+        301    Estuarine Scrub/Shrub Wetland to Estuarine Emergent Wetland
+        302    Estuarine Scrub/Shrub Wetland to Unconsolidated Shore
+        303    Estuarine Scrub/Shrub Wetland to Bare Land
+        304    Estuarine Scrub/Shrub Wetland to Water
+        305    Estuarine Scrub/Shrub Wetland to Palustrine Aquatic Bed
+        306    Estuarine Scrub/Shrub Wetland to Estuarine Aquatic Bed
+        307    Estuarine Scrub/Shrub Wetland to Tundra
+        308    Estuarine Scrub/Shrub Wetland to Snow/Ice
+        309    Estuarine Emergent Wetland to Unclassified
+        310    Estuarine Emergent Wetland to High Intensity Developed
+        311    Estuarine Emergent Wetland to Low Intensity Developed
+        312    Estuarine Emergent Wetland to Cultivated Land
+        313    Estuarine Emergent Wetland to Grassland
+        314    Estuarine Emergent Wetland to Deciduous Forest
+        315    Estuarine Emergent Wetland to Evergreen Forest
+        316    Estuarine Emergent Wetland to Mixed Forest
+        317    Estuarine Emergent Wetland to Scrub/Shrub
+        318    Estuarine Emergent Wetland to Palustrine Forested Wetland
+        319    Estuarine Emergent Wetland to Palustrine Scrub/Shrub Wetland
+        320    Estuarine Emergent Wetland to Palustrine Emergent Wetland
+        321    Estuarine Emergent Wetland to Estuarine Forested Wetland
+        322    Estuarine Emergent Wetland to Estuarine Scrub/Shrub Wetland
+        323    Estuarine Emergent Wetland to Estuarine Emergent Wetland - No Change
+        324    Estuarine Emergent Wetland to Unconsolidated Shore
+        325    Estuarine Emergent Wetland to Bare Land
+        326    Estuarine Emergent Wetland to Water
+        327    Estuarine Emergent Wetland to Palustrine Aquatic Bed
+        328    Estuarine Emergent Wetland to Estuarine Aquatic Bed
+        329    Estuarine Emergent Wetland to Tundra
+        330    Estuarine Emergent Wetland to Snow/Ice
+        331    Unconsolidated Shore to Unclassified
+        332    Unconsolidated Shore to High Intensity Developed
+        333    Unconsolidated Shore to Low Intensity Developed
+        334    Unconsolidated Shore to Cultivated Land
+        335    Unconsolidated Shore to Grassland
+        336    Unconsolidated Shore to Deciduous Forest
+        337    Unconsolidated Shore to Evergreen Forest
+        338    Unconsolidated Shore to Mixed Forest
+        339    Unconsolidated Shore to Scrub/Shrub
+        340    Unconsolidated Shore to Palustrine Forested Wetland
+        341    Unconsolidated Shore to Palustrine Scrub/Shrub Wetland
+        342    Unconsolidated Shore to Palustrine Emergent Wetland
+        343    Unconsolidated Shore to Estuarine Forested Wetland
+        344    Unconsolidated Shore to Estuarine Scrub/Shrub Wetland
+        345    Unconsolidated Shore to Estuarine Emergent Wetland
+        346    Unconsolidated Shore to Unconsolidated Shore - No Change
+        347    Unconsolidated Shore to Bare Land
+        348    Unconsolidated Shore to Water
+        349    Unconsolidated Shore to Palustrine Aquatic Bed
+        350    Unconsolidated Shore to Estuarine Aquatic Bed
+        351    Unconsolidated Shore to Tundra
+        352    Unconsolidated Shore to Snow/Ice
+        353    Bare Land to Unclassified
+        354    Bare Land to High Intensity Developed
+        355    Bare Land to Low Intensity Developed
+        356    Bare Land to Cultivated Land
+        357    Bare Land to Grassland
+        358    Bare Land to Deciduous Forest
+        359    Bare Land to Evergreen Forest
+        360    Bare Land to Mixed Forest
+        361    Bare Land to Scrub/Shrub
+        362    Bare Land to Palustrine Forested Wetland
+        363    Bare Land to Palustrine Scrub/Shrub Wetland
+        364    Bare Land to Palustrine Emergent Wetland
+        365    Bare Land to Estuarine Forested Wetland
+        366    Bare Land to Estuarine Scrub/Shrub Wetland
+        367    Bare Land to Estuarine Emergent Wetland
+        368    Bare Land to Unconsolidated Shore
+        369    Bare Land to Bare Land - No Change
+        370    Bare Land to Water
+        371    Bare Land to Palustrine Aquatic Bed
+        372    Bare Land to Estuarine Aquatic Bed
+        373    Bare Land to Tundra
+        374    Bare Land to Snow/Ice
+        375    Water to Unclassified
+        376    Water to High Intensity Developed
+        377    Water to Low Intensity Developed
+        378    Water to Cultivated Land
+        379    Water to Grassland
+        380    Water to Deciduous Forest
+        381    Water to Evergreen Forest
+        382    Water to Mixed Forest
+        383    Water to Scrub/Shrub
+        384    Water to Palustrine Forested Wetland
+        385    Water to Palustrine Scrub/Shrub Wetland
+        386    Water to Palustrine Emergent Wetland
+        387    Water to Estuarine Forested Wetland
+        388    Water to Estuarine Scrub/Shrub Wetland
+        389    Water to Estuarine Emergent Wetland
+        390    Water to Unconsolidated Shore
+        391    Water to Bare Land
+        392    Water to Water - No Change
+        393    Water to Palustrine Aquatic Bed
+        394    Water to Estuarine Aquatic Bed
+        395    Water to Tundra
+        396    Water to Snow/Ice
+        397    Palustrine Aquatic Bed to Unclassified
+        398    Palustrine Aquatic Bed to High Intensity Developed
+        399    Palustrine Aquatic Bed to Low Intensity Developed
+        400    Palustrine Aquatic Bed to Cultivated Land
+        401    Palustrine Aquatic Bed to Grassland
+        402    Palustrine Aquatic Bed to Deciduous Forest
+        403    Palustrine Aquatic Bed to Evergreen Forest
+        404    Palustrine Aquatic Bed to Mixed Forest
+        405    Palustrine Aquatic Bed to Scrub/Shrub
+        406    Palustrine Aquatic Bed to Palustrine Forested Wetland
+        407    Palustrine Aquatic Bed to Palustrine Scrub/Shrub Wetland
+        408    Palustrine Aquatic Bed to Palustrine Emergent Wetland
+        409    Palustrine Aquatic Bed to Estuarine Forested Wetland
+        410    Palustrine Aquatic Bed to Estuarine Scrub/Shrub Wetland
+        411    Palustrine Aquatic Bed to Estuarine Emergent Wetland
+        412    Palustrine Aquatic Bed to Unconsolidated Shore
+        413    Palustrine Aquatic Bed to Bare Land
+        414    Palustrine Aquatic Bed to Water
+        415    Palustrine Aquatic Bed to Palustrine Aquatic Bed - No Change
+        416    Palustrine Aquatic Bed to Estuarine Aquatic Bed
+        417    Palustrine Aquatic Bed to Tundra
+        418    Palustrine Aquatic Bed to Snow/Ice
+        419    Estuarine Aquatic Bed to Unclassified
+        420    Estuarine Aquatic Bed to High Intensity Developed
+        421    Estuarine Aquatic Bed to Low Intensity Developed
+        422    Estuarine Aquatic Bed to Cultivated Land
+        423    Estuarine Aquatic Bed to Grassland
+        424    Estuarine Aquatic Bed to Deciduous Forest
+        425    Estuarine Aquatic Bed to Evergreen Forest
+        426    Estuarine Aquatic Bed to Mixed Forest
+        427    Estuarine Aquatic Bed to Scrub/Shrub
+        428    Estuarine Aquatic Bed to Palustrine Forested Wetland
+        429    Estuarine Aquatic Bed to Palustrine Scrub/Shrub Wetland
+        430    Estuarine Aquatic Bed to Palustrine Emergent Wetland
+        431    Estuarine Aquatic Bed to Estuarine Forested Wetland
+        432    Estuarine Aquatic Bed to Estuarine Scrub/Shrub Wetland
+        433    Estuarine Aquatic Bed to Estuarine Emergent Wetland
+        434    Estuarine Aquatic Bed to Unconsolidated Shore
+        435    Estuarine Aquatic Bed to Bare Land
+        436    Estuarine Aquatic Bed to Water
+        437    Estuarine Aquatic Bed to Palustrine Aquatic Bed
+        438    Estuarine Aquatic Bed to Estuarine Aquatic Bed - No Change
+        439    Estuarine Aquatic Bed to Tundra
+        440    Estuarine Aquatic Bed to Snow/Ice
+        441    Tundra to Unclassified
+        442    Tundra to High Intensity Developed
+        443    Tundra to Low Intensity Developed
+        444    Tundra to Cultivated Land
+        445    Tundra to Grassland
+        446    Tundra to Deciduous Forest
+        447    Tundra to Evergreen Forest
+        448    Tundra to Mixed Forest
+        449    Tundra to Scrub/Shrub
+        450    Tundra to Palustrine Forested Wetland
+        451    Tundra to Palustrine Scrub/Shrub Wetland
+        452    Tundra to Palustrine Emergent Wetland
+        453    Tundra to Estuarine Forested Wetland
+        454    Tundra to Estuarine Scrub/Shrub Wetland
+        455    Tundra to Estuarine Emergent Wetland
+        456    Tundra to Unconsolidated Shore
+        457    Tundra to Bare Land
+        458    Tundra to Water
+        459    Tundra to Palustrine Aquatic Bed
+        460    Tundra to Estuarine Aquatic Bed
+        461    Tundra to Tundra - No Change
+        462    Tundra to Snow/Ice
+        463    Snow/Ice to Unclassified
+        464    Snow/Ice to High Intensity Developed
+        465    Snow/Ice to Low Intensity Developed
+        466    Snow/Ice to Cultivated Land
+        467    Snow/Ice to Grassland
+        468    Snow/Ice to Deciduous Forest
+        469    Snow/Ice to Evergreen Forest
+        470    Snow/Ice to Mixed Forest
+        471    Snow/Ice to Scrub/Shrub
+        472    Snow/Ice to Palustrine Forested Wetland
+        473    Snow/Ice to Palustrine Scrub/Shrub Wetland
+        474    Snow/Ice to Palustrine Emergent Wetland
+        475    Snow/Ice to Estuarine Forested Wetland
+        476    Snow/Ice to Estuarine Scrub/Shrub Wetland
+        477    Snow/Ice to Estuarine Emergent Wetland
+        478    Snow/Ice to Unconsolidated Shore
+        479    Snow/Ice to Bare Land
+        480    Snow/Ice to Water
+        481    Snow/Ice to Palustrine Aquatic Bed
+        482    Snow/Ice to Estuarine Aquatic Bed
+        483    Snow/Ice to Tundra
+        484    Snow/Ice to Snow/Ice - No Change
+      Process_Date: 19920915
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Martin Marietta Energy Systems
+            Contact_Person: Edward Bright
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: Post Office Box 2008
+            City: Oak Ridge
+            State_or_Province: TN
+            Postal_Code: 37831
+            Country: USA
+          Contact_Voice_Telephone: 615-574-5430
+          Contact_Facsimile_Telephone: 615-574-4634
+          Contact_Electronic_Mail_Address: aeb@ornl.gov
+          Hours_of_Service: Monday to Friday, 8 a.m. to 5 p.m., Eastern Standard Time
+    Process_Step:
+      Process_Description:
+        This data was projected to Universal Transverse Mercator zone
+        18 with a horizontal datum of NAD83.
+      Process_Date: 19920915
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: NOAA Coastal Services Center
+          Contact_Position: CRS Program Manager
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 2234 S. Hobson Ave.
+            City: Charleston
+            State_or_Province: SC
+            Postal_Code: 29405
+            Country: USA
+          Contact_Voice_Telephone: 843-740-1210
+          Contact_Facsimile_Telephone: 843-740-1224
+          Contact_Electronic_Mail_Address: csc@csc.noaa.gov
+          Hours_of_Service: Monday to Friday, 8 a.m. to 5 p.m., Eastern Standard Time
+
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Raster
+
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Grid_Coordinate_System:
+        Grid_Coordinate_System_Name: Universal Transverse Mercator
+        Universal_Transverse_Mercator:
+          UTM_Zone_Number: 18
+          Transverse_Mercator:
+            Scale_Factor_at_Central_Meridian: 1
+            Longitude_of_Central_Meridian: -75
+            Latitude_of_Projection_Origin: 0
+            False_Easting: 500000.00000
+            False_Northing: 0.00000
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: Row and column
+        Coordinate_Representation:
+          Abscissa_Resolution: 30
+          Ordinate_Resolution: 30
+        Planar_Distance_Units: Meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum 1983
+      Ellipsoid_Name: GRS80
+      Semi-major_Axis: 6378206.4
+      Denominator_of_Flattening_Ratio: 294.98
+
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Chesapeake Bay, Virginia
+      Entity_Type_Definition:
+        Chesapeake Bay, Virginia coastal zone as delineated by
+        Landsat WRS path/row(s) 14/33 19840921 , 14/34 19840921 , 15/33
+        19840827 , 15/34 19840827, 14/33 19881103, 14/34 19881103 ,
+        15/33 19891012 , 15/34 19891012 .
+      Entity_Type_Definition_Source: unknown
+    Attribute:
+      Attribute_Label: Landcover Classification
+      Attribute_Definition:
+        Landcover Classification as determined by
+        NOAA Coastal Change Analysis Program (C- CAP): Guidance for Regional
+        Implementation.
+      Attribute_Definition_Source:
+        Dobson, J. et al, NOAA Coastal Change Analysis Program (C-CAP):
+        Guidance for Regional Implementation, NOAA Technical
+        Report NMFS 123, U.S. Department of Commerce, April
+        1995.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1 Unclassified
+          Enumerated_Domain_Value_Definition:
+            This class contains no
+            data due to cloud conditions or data voids.
+          Enumerated_Domain_Value_Definition_Source: N/A
+
+          Enumerated_Domain_Value: 2 High Intensity Developed
+          Enumerated_Domain_Value_Definition:
+            Contains little or no vegetation. This subclass includes
+            heavily built-up urban centers as well as large
+            constructed surfaces in suburban and rural areas.  Large
+            buildings (such as multiple family housing, hangars, and
+            large barns), interstate highways, and runways typically
+            fall into this subclass.
+
+          Enumerated_Domain_Value_Definition_Source:
+            Dobson, J. et  al, NOAA Coastal Change Analysis Program(C-CAP):
+            Guidance for Regional Implementation, NOAA Technical
+            Report NMFS 123, U.S. Department of Commerce, April
+            1995.
+
+          Enumerated_Domain_Value: 3 Low Intensity Developed
+          Enumerated_Domain_Value_Definition:
+            Contains substantial amounts of constructed surface mixed
+            with substantial amounts of vegetated surface. Small
+            buildings (such as single family housing, farm
+            outbuildings, and sheds), streets, roads, and cemeteries
+            with associated grasses and trees typically fall into this
+            subclass.
+          Enumerated_Domain_Value_Definition_Source:
+            Dobson, J. et  al, NOAA Coastal Change Analysis Program(C-CAP):
+            Guidance for Regional Implementation, NOAA Technical
+            Report NMFS 123, U.S. Department of Commerce, April
+            1995.
+
+          Enumerated_Domain_Value: 4 Cultivated Land
+          Enumerated_Domain_Value_Definition:
+            Includes herbaceous (cropland) and woody (e.g., orchards,
+            nurseries, and vineyards) cultivated lands.
+
+          Enumerated_Domain_Value_Definition_Source:
+            Dobson, J. et  al, NOAA Coastal Change Analysis Program(C-CAP):
+            Guidance for Regional Implementation, NOAA Technical
+            Report NMFS 123, U.S. Department of Commerce, April
+            1995.
+
+          Enumerated_Domain_Value: 5 Grassland
+          Enumerated_Domain_Value_Definition:
+            Dominated by grasses and non-grasses
+            (forbs).
+          Enumerated_Domain_Value_Definition_Source:
+            Dobson, J. et  al, NOAA Coastal Change Analysis Program(C-CAP):
+            Guidance for Regional Implementation, NOAA Technical
+            Report NMFS 123, U.S. Department of Commerce, April
+            1995.
+
+          Enumerated_Domain_Value: 6 Deciduous Forest
+          Enumerated_Domain_Value_Definition:
+
+            Includes areas dominated by single stemmed, woody
+            vegetation unbranched 0.6 to 1 meter (2 to 3 feet) above
+            the ground and having a height greater than 6 meters (20
+            feet).
+
+          Enumerated_Domain_Value_Definition_Source:
+            Dobson, J. et  al, NOAA Coastal Change Analysis Program(C-CAP):
+            Guidance for Regional Implementation, NOAA Technical
+            Report NMFS 123, U.S. Department of Commerce, April
+            1995.
+
+          Enumerated_Domain_Value: 7 Evergreen Forest
+          Enumerated_Domain_Value_Definition:
+
+            Includes areas in which more than 67 percent of the trees
+            remain green throughout the year. Both coniferous and
+            broad-leaved evergreens are included in this category.
+
+          Enumerated_Domain_Value_Definition_Source:
+            Dobson, J. et  al, NOAA Coastal Change Analysis Program(C-CAP):
+            Guidance for Regional Implementation, NOAA Technical
+            Report NMFS 123, U.S. Department of Commerce, April
+            1995.
+
+          Enumerated_Domain_Value: 8 Mixed Forest
+          Enumerated_Domain_Value_Definition:
+            Contains all forested areas in which both evergreen and
+            deciduous trees are growing and neither predominate.
+          Enumerated_Domain_Value_Definition_Source:
+            Dobson, J. et  al, NOAA Coastal Change Analysis Program(C-CAP):
+            Guidance for Regional Implementation, NOAA Technical
+            Report NMFS 123, U.S. Department of Commerce, April
+            1995.
+
+          Enumerated_Domain_Value: 9 Scrub/Shrub
+          Enumerated_Domain_Value_Definition:
+
+            Areas dominated by woody vegetation less than 6 meters in
+            height. This class includes true shrubs, young trees, and
+            trees or shrubs that are small or stunted because of
+            environmental conditions.
+          Enumerated_Domain_Value_Definition_Source:
+            Dobson, J. et  al, NOAA Coastal Change Analysis Program(C-CAP):
+            Guidance for Regional Implementation, NOAA Technical
+            Report NMFS 123, U.S. Department of Commerce, April
+            1995.
+
+          Enumerated_Domain_Value: 10 Palustrine Forested Wetland
+          Enumerated_Domain_Value_Definition:
+
+            Includes all nontidal wetlands dominated by woody
+            vegetation greater than or equal to 6 meters in height,
+            and all such wetlands that occur in tidal areas in which
+            salinity due to ocean-derived salts is below 0.5 parts per
+            thousand (ppt).
+          Enumerated_Domain_Value_Definition_Source:
+            Dobson, J. et  al, NOAA Coastal Change Analysis Program(C-CAP):
+            Guidance for Regional Implementation, NOAA Technical
+            Report NMFS 123, U.S. Department of Commerce, April
+            1995.
+
+          Enumerated_Domain_Value: 11 Palustrine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition:
+
+            Includes all nontidal wetlands dominated by woody
+            vegetation less than or equal to 6 meters in height, and
+            all such wetlands that occur in tidal areas in which
+            salinity due to ocean-derived salts is below 0.5 ppt.
+
+          Enumerated_Domain_Value_Definition_Source:
+            Dobson, J. et  al, NOAA Coastal Change Analysis Program(C-CAP):
+            Guidance for Regional Implementation, NOAA Technical
+            Report NMFS 123, U.S. Department of Commerce, April
+            1995.
+
+          Enumerated_Domain_Value: 12 Palustrine Emergent Wetland
+          Enumerated_Domain_Value_Definition:
+
+            Includes all nontidal wetlands dominated by trees, shrubs,
+            persistent emergents, emergent mosses, or lichens, and all
+            such wetlands that occur in tidal areas in which salinity
+            due to ocean- derived salts is below 0.5 ppt.
+          Enumerated_Domain_Value_Definition_Source:
+            Dobson, J. et  al, NOAA Coastal Change Analysis Program(C-CAP):
+            Guidance for Regional Implementation, NOAA Technical
+            Report NMFS 123, U.S. Department of Commerce, April
+            1995.
+
+          Enumerated_Domain_Value: 13 Estuarine Forest Wetland
+          Enumerated_Domain_Value_Definition:
+            Includes all tidal wetlands dominated by woody vegetation
+            greater than or equal to 6 meters in height, and all such
+            wetlands that occur in tidal areas in which salinity due
+            to ocean-derived salts is above 0.5 parts per thousand
+            (ppt).
+          Enumerated_Domain_Value_Definition_Source:
+            Dobson, J. et  al, NOAA Coastal Change Analysis Program(C-CAP):
+            Guidance for Regional Implementation, NOAA Technical
+            Report NMFS 123, U.S. Department of Commerce, April
+            1995.
+
+          Enumerated_Domain_Value: 14 Estuarine Scrub/Shrub Wetland
+          Enumerated_Domain_Value_Definition:
+
+            Includes all tidal wetlands dominated by woody vegetation
+            less than or equal to 6 meters in height, and all such
+            wetlands that occur in tidal areas in which salinity due
+            to ocean-derived salts is above 0.5 ppt.
+
+          Enumerated_Domain_Value_Definition_Source:
+            Dobson, J. et  al, NOAA Coastal Change Analysis Program(C-CAP):
+            Guidance for Regional Implementation, NOAA Technical
+            Report NMFS 123, U.S. Department of Commerce, April
+            1995.
+
+          Enumerated_Domain_Value: 15 Estuarine Emergent
+          Enumerated_Domain_Value_Definition:
+
+            Characterized by erect, rooted, herbaceous hydrophytes
+            (excluding mosses and lichens) that are present for most
+            of the growing season in most years. Perennial plants
+            usually dominate these wetlands. All water regimes are
+            included except those that are subtidal and irregularly
+            exposed.
+          Enumerated_Domain_Value_Definition_Source:
+            Dobson, J. et  al, NOAA Coastal Change Analysis Program(C-CAP):
+            Guidance for Regional Implementation, NOAA Technical
+            Report NMFS 123, U.S. Department of Commerce, April
+            1995.
+
+          Enumerated_Domain_Value: 16 Unconsolidated Shore
+          Enumerated_Domain_Value_Definition:
+
+            Characterized by substrates lacking vegetation except for
+            pioneering plants that become established during brief
+            periods when growing conditions are favorable. Erosion and
+            deposition by waves and currents produce a number of
+            landforms, such as beaches, bars, and flats, all of which
+            are included in this class.
+
+          Enumerated_Domain_Value_Definition_Source:
+            Dobson, J. et  al, NOAA Coastal Change Analysis Program(C-CAP):
+            Guidance for Regional Implementation, NOAA Technical
+            Report NMFS 123, U.S. Department of Commerce, April
+            1995.
+
+          Enumerated_Domain_Value: 17 Bare Land
+          Enumerated_Domain_Value_Definition:
+            Composed of bare soil, rock, sand, silt, gravel, or other
+            earthen material with little or no vegetation.
+
+          Enumerated_Domain_Value_Definition_Source:
+            Dobson, J. et  al, NOAA Coastal Change Analysis Program(C-CAP):
+            Guidance for Regional Implementation, NOAA Technical
+            Report NMFS 123, U.S. Department of Commerce, April
+            1995.
+
+          Enumerated_Domain_Value: 18 Water
+          Enumerated_Domain_Value_Definition:
+            Includes all areas of open water with less than 30 percent
+            cover of trees, shrubs, persistent emergent plants,
+            emergent mosses, or lichens.
+
+          Enumerated_Domain_Value_Definition_Source:
+            Dobson, J. et  al, NOAA Coastal Change Analysis Program(C-CAP):
+            Guidance for Regional Implementation, NOAA Technical
+            Report NMFS 123, U.S. Department of Commerce, April
+            1995.
+
+          Enumerated_Domain_Value: 19 Palustrine Aquatic Bed
+          Enumerated_Domain_Value_Definition:
+            Includes wetlands and deepwater habitats dominated by
+            plants that grow principally on or below the surface of
+            the water for most of the growing season in most years.
+
+          Enumerated_Domain_Value_Definition_Source:
+            Dobson, J. et  al, NOAA Coastal Change Analysis Program(C-CAP):
+            Guidance for Regional Implementation, NOAA Technical
+            Report NMFS 123, U.S. Department of Commerce, April
+            1995.
+
+          Enumerated_Domain_Value: 20 Estuarine Aquatic Bed
+          Enumerated_Domain_Value_Definition:
+            Includes widespread and diverse Algal Beds in the Marine
+            and Estuarine Systems, where they occupy substrates
+            characterized by a wide range of sediment depths and
+            textures. They occur in both the Subtidal and Intertidal
+            Subsystems and may grow to depths of 30 m (98 feet).
+          Enumerated_Domain_Value_Definition_Source:
+            Dobson, J. et  al, NOAA Coastal Change Analysis Program(C-CAP):
+            Guidance for Regional Implementation, NOAA Technical
+            Report NMFS 123, U.S. Department of Commerce, April
+            1995.
+
+          Enumerated_Domain_Value: 21 Tundra
+          Enumerated_Domain_Value_Definition:
+            Includes treeless cover beyond the latitudinal limit of
+            the boreal forest in poleward regions and above the
+            elevation range of the boreal forest in high mountains.
+          Enumerated_Domain_Value_Definition_Source:
+            Dobson, J. et  al, NOAA Coastal Change Analysis Program(C-CAP):
+            Guidance for Regional Implementation, NOAA Technical
+            Report NMFS 123, U.S. Department of Commerce, April
+            1995.
+
+          Enumerated_Domain_Value: 22 Snow/Ice
+          Enumerated_Domain_Value_Definition:
+
+            Includes persistent snow and ice persist for greater
+            portions of the year.
+
+          Enumerated_Domain_Value_Definition_Source:
+            Dobson, J. et  al, NOAA Coastal Change Analysis Program(C-CAP):
+            Guidance for Regional Implementation, NOAA Technical
+            Report NMFS 123, U.S. Department of Commerce, April
+            1995.
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: NOAA Coastal Services Center
+        Contact_Person: Clearinghouse Manager
+      Contact_Position: Clearinghouse Manager
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 2234 South Hobson Avenue
+        City: Charleston
+        State_or_Province: SC
+        Postal_Code: 29405-2413
+        Country: USA
+      Contact_Voice_Telephone: (843)740-1210
+      Contact_Facsimile_Telephone: (843)740-1224
+      Contact_Electronic_Mail_Address: clearinghouse@csc.noaa.gov
+      Hours_of_Service: Monday to Friday, 8 a.m. to 5 p.m., Eastern Standard Time
+  Resource_Description:
+    Chesapeake Bay Land Cover Change Analysis 1984 to
+    1989
+  Distribution_Liability:
+    Users must assume responsibility to determine the usability of these
+    data.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ERDAS Imagine (.img) format
+      Digital_Transfer_Option:
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Format: ISO 9660
+          Compatibility_Information:
+            ISO 9660 format allows the CDROM to be read by most
+            computer operating systems.
+    Fees: none
+
+Metadata_Reference_Information:
+  Metadata_Date: 19941101
+  Metadata_Review_Date: 20010919
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: NOAA Coastal Services Center
+        Contact_Person: Metadata Specialist
+      Contact_Position: Metadata Specialist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 2234 S Hobson Ave.
+        City: Charleston
+        State_or_Province: SC
+        Postal_Code: 29405
+        Country: USA
+      Contact_Voice_Telephone: 843-740-1200
+      Contact_Facsimile_Telephone: 843-740-1224
+      Contact_Electronic_Mail_Address: csc@csc.noaa.gov
+      Hours_of_Service: Monday to Friday, 8 a.m. to 5 p.m., Eastern Standard Time.
+  Metadata_Standard_Name: FGDC CSDGM
+  Metadata_Standard_Version: FGDC-STD-001-1998
