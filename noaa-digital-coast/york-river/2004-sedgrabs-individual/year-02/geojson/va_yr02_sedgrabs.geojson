@@ -1,0 +1,117 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "SITE": "Catlett", "STATION": "CD06", "YEAR": 2002.000000, "LATITUDE": 37.302520, "LONGITUDE": -76.571580, "CLAY": 45.868138, "SILT": 26.569958, "SAND": 27.561903, "GRAVEL": 0.000000, "MEAN": 2.947000, "MEDIAN": 1.044500, "MODE": -2.204400, "KURTOSIS": 7.660800 }, "geometry": { "type": "Point", "coordinates": [ -76.571580, 37.302520 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Catlett", "STATION": "CE04", "YEAR": 2002.000000, "LATITUDE": 37.301070, "LONGITUDE": -76.574880, "CLAY": 36.767693, "SILT": 28.506812, "SAND": 28.149292, "GRAVEL": 7.000000, "MEAN": 3.485900, "MEDIAN": 0.108500, "MODE": 0.349300, "KURTOSIS": 2.463400 }, "geometry": { "type": "Point", "coordinates": [ -76.574880, 37.301070 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Catlett", "STATION": "CG02", "YEAR": 2002.000000, "LATITUDE": 37.298330, "LONGITUDE": -76.578000, "CLAY": 52.788811, "SILT": 40.397868, "SAND": 6.813321, "GRAVEL": 0.000000, "MEAN": 3.184900, "MEDIAN": 0.647000, "MODE": -1.546900, "KURTOSIS": 5.666000 }, "geometry": { "type": "Point", "coordinates": [ -76.578000, 37.298330 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Catlett", "STATION": "CG11", "YEAR": 2002.000000, "LATITUDE": 37.298680, "LONGITUDE": -76.563200, "CLAY": 2.661712, "SILT": 1.969667, "SAND": 95.368621, "GRAVEL": 0.000000, "MEAN": 2.523400, "MEDIAN": 0.376500, "MODE": 0.366800, "KURTOSIS": 3.558700 }, "geometry": { "type": "Point", "coordinates": [ -76.563200, 37.298680 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Catlett", "STATION": "CH01", "YEAR": 2002.000000, "LATITUDE": 37.297200, "LONGITUDE": -76.579800, "CLAY": 55.459215, "SILT": 40.899126, "SAND": 3.641658, "GRAVEL": 0.000000, "MEAN": 2.526600, "MEDIAN": 1.136600, "MODE": -1.159400, "KURTOSIS": 3.621900 }, "geometry": { "type": "Point", "coordinates": [ -76.579800, 37.297200 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Catlett", "STATION": "CH06", "YEAR": 2002.000000, "LATITUDE": 37.297020, "LONGITUDE": -76.571350, "CLAY": 41.628519, "SILT": 35.620279, "SAND": 22.751202, "GRAVEL": 0.000000, "MEAN": 3.249800, "MEDIAN": 0.791300, "MODE": -2.668800, "KURTOSIS": 9.631500 }, "geometry": { "type": "Point", "coordinates": [ -76.571350, 37.297020 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Catlett", "STATION": "CH07", "YEAR": 2002.000000, "LATITUDE": 37.297130, "LONGITUDE": -76.569720, "CLAY": 42.176297, "SILT": 40.250857, "SAND": 17.572846, "GRAVEL": 0.000000, "MEAN": 3.106200, "MEDIAN": 0.797500, "MODE": -1.868800, "KURTOSIS": 5.468700 }, "geometry": { "type": "Point", "coordinates": [ -76.569720, 37.297130 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Catlett", "STATION": "CH12", "YEAR": 2002.000000, "LATITUDE": 37.297130, "LONGITUDE": -76.561720, "CLAY": 3.157929, "SILT": 2.191216, "SAND": 94.650856, "GRAVEL": 0.000000, "MEAN": 2.636200, "MEDIAN": 0.489700, "MODE": -3.025800, "KURTOSIS": 21.764800 }, "geometry": { "type": "Point", "coordinates": [ -76.561720, 37.297130 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Catlett", "STATION": "CI12", "YEAR": 2002.000000, "LATITUDE": 37.295820, "LONGITUDE": -76.561780, "CLAY": 3.219894, "SILT": 1.260938, "SAND": 95.519169, "GRAVEL": 0.000000, "MEAN": 2.512600, "MEDIAN": 0.476800, "MODE": -2.721800, "KURTOSIS": 19.210300 }, "geometry": { "type": "Point", "coordinates": [ -76.561780, 37.295820 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Catlett", "STATION": "CJ07", "YEAR": 2002.000000, "LATITUDE": 37.294480, "LONGITUDE": -76.569800, "CLAY": 39.908296, "SILT": 30.780335, "SAND": 29.311370, "GRAVEL": 0.000000, "MEAN": 3.072000, "MEDIAN": 0.921900, "MODE": -2.028900, "KURTOSIS": 6.229800 }, "geometry": { "type": "Point", "coordinates": [ -76.569800, 37.294480 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Catlett", "STATION": "CJ15", "YEAR": 2002.000000, "LATITUDE": 37.294380, "LONGITUDE": -76.556770, "CLAY": 3.658511, "SILT": 1.428561, "SAND": 94.912927, "GRAVEL": 0.000000, "MEAN": 2.669400, "MEDIAN": 0.686900, "MODE": -1.512400, "KURTOSIS": 6.727000 }, "geometry": { "type": "Point", "coordinates": [ -76.556770, 37.294380 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Catlett", "STATION": "CK08", "YEAR": 2002.000000, "LATITUDE": 37.292950, "LONGITUDE": -76.567870, "CLAY": 21.505471, "SILT": 17.398677, "SAND": 18.864758, "GRAVEL": 42.231093, "MEAN": 2.352300, "MEDIAN": 1.113500, "MODE": -0.503700, "KURTOSIS": 1.920800 }, "geometry": { "type": "Point", "coordinates": [ -76.567870, 37.292950 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Catlett", "STATION": "CK13", "YEAR": 2002.000000, "LATITUDE": 37.293300, "LONGITUDE": -76.559880, "CLAY": 5.113693, "SILT": 2.035548, "SAND": 92.226194, "GRAVEL": 1.000000, "MEAN": 2.572000, "MEDIAN": 0.631000, "MODE": -1.435500, "KURTOSIS": 8.768700 }, "geometry": { "type": "Point", "coordinates": [ -76.559880, 37.293300 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Catlett", "STATION": "CL20", "YEAR": 2002.000000, "LATITUDE": 37.291920, "LONGITUDE": -76.548220, "CLAY": 3.479716, "SILT": 0.808419, "SAND": 95.711865, "GRAVEL": 0.000000, "MEAN": 2.640400, "MEDIAN": 0.438900, "MODE": -0.944400, "KURTOSIS": 5.579100 }, "geometry": { "type": "Point", "coordinates": [ -76.548220, 37.291920 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Catlett", "STATION": "CM08", "YEAR": 2002.000000, "LATITUDE": 37.290530, "LONGITUDE": -76.568120, "CLAY": 48.818304, "SILT": 33.209018, "SAND": 17.972679, "GRAVEL": 0.000000, "MEAN": 2.877400, "MEDIAN": 0.875900, "MODE": -2.550000, "KURTOSIS": 11.068900 }, "geometry": { "type": "Point", "coordinates": [ -76.568120, 37.290530 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Catlett", "STATION": "CM13", "YEAR": 2002.000000, "LATITUDE": 37.290280, "LONGITUDE": -76.559820, "CLAY": 14.438272, "SILT": 11.973201, "SAND": 21.938250, "GRAVEL": 51.650277, "MEAN": 2.560100, "MEDIAN": 1.125400, "MODE": -0.833800, "KURTOSIS": 2.288600 }, "geometry": { "type": "Point", "coordinates": [ -76.559820, 37.290280 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Catlett", "STATION": "CM27", "YEAR": 2002.000000, "LATITUDE": 37.290620, "LONGITUDE": -76.536770, "CLAY": 59.244631, "SILT": 35.485065, "SAND": 5.270304, "GRAVEL": 0.000000, "MEAN": 3.114700, "MEDIAN": 0.739400, "MODE": -1.046800, "KURTOSIS": 3.487300 }, "geometry": { "type": "Point", "coordinates": [ -76.536770, 37.290620 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Catlett", "STATION": "CN20", "YEAR": 2002.000000, "LATITUDE": 37.289450, "LONGITUDE": -76.547830, "CLAY": 12.535186, "SILT": 10.951795, "SAND": 76.513019, "GRAVEL": 0.000000, "MEAN": 2.558200, "MEDIAN": 0.714900, "MODE": -0.636400, "KURTOSIS": 2.953800 }, "geometry": { "type": "Point", "coordinates": [ -76.547830, 37.289450 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Catlett", "STATION": "CN21", "YEAR": 2002.000000, "LATITUDE": 37.289150, "LONGITUDE": -76.539920, "CLAY": 3.227567, "SILT": 1.630420, "SAND": 95.142013, "GRAVEL": 0.000000, "MEAN": 2.305700, "MEDIAN": 0.413500, "MODE": -0.043000, "KURTOSIS": 3.749600 }, "geometry": { "type": "Point", "coordinates": [ -76.539920, 37.289150 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Catlett", "STATION": "CO11", "YEAR": 2002.000000, "LATITUDE": 37.287700, "LONGITUDE": -76.563280, "CLAY": 52.614326, "SILT": 37.370923, "SAND": 10.014752, "GRAVEL": 0.000000, "MEAN": 3.075500, "MEDIAN": 0.996000, "MODE": -2.108100, "KURTOSIS": 7.209500 }, "geometry": { "type": "Point", "coordinates": [ -76.563280, 37.287700 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Catlett", "STATION": "CO14", "YEAR": 2002.000000, "LATITUDE": 37.287950, "LONGITUDE": -76.558300, "CLAY": 13.105911, "SILT": 10.684167, "SAND": 34.595806, "GRAVEL": 41.614116, "MEAN": 1.861300, "MEDIAN": 1.196100, "MODE": 0.150000, "KURTOSIS": 1.587000 }, "geometry": { "type": "Point", "coordinates": [ -76.558300, 37.287950 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Catlett", "STATION": "CO25", "YEAR": 2002.000000, "LATITUDE": 37.288050, "LONGITUDE": -76.539620, "CLAY": 6.626427, "SILT": 7.840178, "SAND": 85.533395, "GRAVEL": 0.000000, "MEAN": 2.811800, "MEDIAN": 0.434300, "MODE": -3.210200, "KURTOSIS": 29.633400 }, "geometry": { "type": "Point", "coordinates": [ -76.539620, 37.288050 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Catlett", "STATION": "CP21", "YEAR": 2002.000000, "LATITUDE": 37.286530, "LONGITUDE": -76.546530, "CLAY": 30.444791, "SILT": 9.900745, "SAND": 47.657236, "GRAVEL": 11.997228, "MEAN": 2.872400, "MEDIAN": 0.802700, "MODE": -1.543000, "KURTOSIS": 4.605600 }, "geometry": { "type": "Point", "coordinates": [ -76.546530, 37.286530 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Catlett", "STATION": "CP24", "YEAR": 2002.000000, "LATITUDE": 37.286830, "LONGITUDE": -76.536830, "CLAY": 17.818959, "SILT": 17.212357, "SAND": 64.968684, "GRAVEL": 0.000000, "MEAN": 2.858000, "MEDIAN": 0.818600, "MODE": -1.984000, "KURTOSIS": 6.962900 }, "geometry": { "type": "Point", "coordinates": [ -76.536830, 37.286830 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Catlett", "STATION": "CQ25", "YEAR": 2002.000000, "LATITUDE": 37.285230, "LONGITUDE": -76.540170, "CLAY": 5.991757, "SILT": 4.169939, "SAND": 89.838304, "GRAVEL": 0.000000, "MEAN": 2.541900, "MEDIAN": 0.431700, "MODE": 0.428600, "KURTOSIS": 3.031900 }, "geometry": { "type": "Point", "coordinates": [ -76.540170, 37.285230 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Catlett", "STATION": "CU23", "YEAR": 2002.000000, "LATITUDE": 37.280180, "LONGITUDE": -76.544000, "CLAY": 53.618622, "SILT": 32.696347, "SAND": 13.685031, "GRAVEL": 0.000000, "MEAN": 2.948600, "MEDIAN": 0.819800, "MODE": -1.678900, "KURTOSIS": 6.838600 }, "geometry": { "type": "Point", "coordinates": [ -76.544000, 37.280180 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Catlett", "STATION": "CV24", "YEAR": 2002.000000, "LATITUDE": 37.278530, "LONGITUDE": -76.542100, "CLAY": 56.731296, "SILT": 32.283033, "SAND": 10.985671, "GRAVEL": 0.000000, "MEAN": 2.345300, "MEDIAN": 0.804600, "MODE": -0.659600, "KURTOSIS": 2.742300 }, "geometry": { "type": "Point", "coordinates": [ -76.542100, 37.278530 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Catlett", "STATION": "CX26", "YEAR": 2002.000000, "LATITUDE": 37.276030, "LONGITUDE": -76.538720, "CLAY": 5.688116, "SILT": 3.587889, "SAND": 90.723995, "GRAVEL": 0.000000, "MEAN": 2.265100, "MEDIAN": 0.446800, "MODE": 0.391100, "KURTOSIS": 4.077300 }, "geometry": { "type": "Point", "coordinates": [ -76.538720, 37.276030 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Goodwin", "STATION": "GA03", "YEAR": 2002.000000, "LATITUDE": 37.233000, "LONGITUDE": -76.413630, "CLAY": 47.021944, "SILT": 40.661487, "SAND": 12.316569, "GRAVEL": 0.000000, "MEAN": 3.180300, "MEDIAN": 0.947500, "MODE": -2.415600, "KURTOSIS": 8.458800 }, "geometry": { "type": "Point", "coordinates": [ -76.413630, 37.233000 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Goodwin", "STATION": "GB03", "YEAR": 2002.000000, "LATITUDE": 37.231620, "LONGITUDE": -76.413200, "CLAY": 45.659049, "SILT": 44.619656, "SAND": 9.721294, "GRAVEL": 0.000000, "MEAN": 2.970400, "MEDIAN": 1.275900, "MODE": -2.348800, "KURTOSIS": 7.421700 }, "geometry": { "type": "Point", "coordinates": [ -76.413200, 37.231620 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Goodwin", "STATION": "GD11", "YEAR": 2002.000000, "LATITUDE": 37.228920, "LONGITUDE": -76.399930, "CLAY": 3.252359, "SILT": 1.927324, "SAND": 94.820317, "GRAVEL": 0.000000, "MEAN": 2.530400, "MEDIAN": 0.587900, "MODE": -0.288600, "KURTOSIS": 1.867900 }, "geometry": { "type": "Point", "coordinates": [ -76.399930, 37.228920 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Goodwin", "STATION": "GD27", "YEAR": 2002.000000, "LATITUDE": 37.229230, "LONGITUDE": -76.373180, "CLAY": 1.476196, "SILT": 0.816619, "SAND": 94.258542, "GRAVEL": 3.448644, "MEAN": 1.436500, "MEDIAN": 1.025200, "MODE": -0.076700, "KURTOSIS": 1.930600 }, "geometry": { "type": "Point", "coordinates": [ -76.373180, 37.229230 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Goodwin", "STATION": "GE02", "YEAR": 2002.000000, "LATITUDE": 37.227700, "LONGITUDE": -76.415170, "CLAY": 3.251890, "SILT": 2.548778, "SAND": 94.199332, "GRAVEL": 0.000000, "MEAN": 2.881500, "MEDIAN": 0.517600, "MODE": -5.025200, "KURTOSIS": 38.198700 }, "geometry": { "type": "Point", "coordinates": [ -76.415170, 37.227700 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Goodwin", "STATION": "GF03", "YEAR": 2002.000000, "LATITUDE": 37.227180, "LONGITUDE": -76.415620, "CLAY": 2.156746, "SILT": 2.355830, "SAND": 95.487425, "GRAVEL": 0.000000, "MEAN": 2.845300, "MEDIAN": 0.288100, "MODE": -0.984400, "KURTOSIS": 3.728300 }, "geometry": { "type": "Point", "coordinates": [ -76.415620, 37.227180 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Goodwin", "STATION": "GF11", "YEAR": 2002.000000, "LATITUDE": 37.226200, "LONGITUDE": -76.400030, "CLAY": 1.842405, "SILT": 0.889437, "SAND": 97.268159, "GRAVEL": 0.000000, "MEAN": 2.627400, "MEDIAN": 0.822000, "MODE": -3.084200, "KURTOSIS": 12.834800 }, "geometry": { "type": "Point", "coordinates": [ -76.400030, 37.226200 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Goodwin", "STATION": "GF14", "YEAR": 2002.000000, "LATITUDE": 37.226430, "LONGITUDE": -76.395100, "CLAY": 1.168594, "SILT": 0.154667, "SAND": 97.986238, "GRAVEL": 1.000000, "MEAN": 1.853700, "MEDIAN": 1.058800, "MODE": 0.037900, "KURTOSIS": 2.240000 }, "geometry": { "type": "Point", "coordinates": [ -76.395100, 37.226430 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Goodwin", "STATION": "GF15", "YEAR": 2002.000000, "LATITUDE": 37.226330, "LONGITUDE": -76.393580, "CLAY": 2.426346, "SILT": 1.932852, "SAND": 94.603642, "GRAVEL": 1.000000, "MEAN": 2.602200, "MEDIAN": 0.821600, "MODE": -1.087600, "KURTOSIS": 3.267400 }, "geometry": { "type": "Point", "coordinates": [ -76.393580, 37.226330 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Goodwin", "STATION": "GG22", "YEAR": 2002.000000, "LATITUDE": 37.225030, "LONGITUDE": -76.381870, "CLAY": 1.603397, "SILT": 0.777405, "SAND": 97.400553, "GRAVEL": 0.000000, "MEAN": 2.668700, "MEDIAN": 0.539100, "MODE": -1.451800, "KURTOSIS": 5.830200 }, "geometry": { "type": "Point", "coordinates": [ -76.381870, 37.225030 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Goodwin", "STATION": "GK20", "YEAR": 2002.000000, "LATITUDE": 37.216680, "LONGITUDE": -76.385230, "CLAY": 1.626945, "SILT": 1.031721, "SAND": 97.341333, "GRAVEL": 0.000000, "MEAN": 2.268900, "MEDIAN": 0.692400, "MODE": -1.351000, "KURTOSIS": 5.745800 }, "geometry": { "type": "Point", "coordinates": [ -76.385230, 37.216680 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Goodwin", "STATION": "GM29", "YEAR": 2002.000000, "LATITUDE": 37.217100, "LONGITUDE": -76.370350, "CLAY": 2.124331, "SILT": 1.719696, "SAND": 96.155973, "GRAVEL": 0.000000, "MEAN": 2.706700, "MEDIAN": 0.609400, "MODE": -3.188300, "KURTOSIS": 16.965000 }, "geometry": { "type": "Point", "coordinates": [ -76.370350, 37.217100 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Goodwin", "STATION": "GN02", "YEAR": 2002.000000, "LATITUDE": 37.216120, "LONGITUDE": -76.415050, "CLAY": 4.721634, "SILT": 4.468690, "SAND": 90.809676, "GRAVEL": 0.000000, "MEAN": 3.168300, "MEDIAN": 0.135900, "MODE": 0.306300, "KURTOSIS": 3.457100 }, "geometry": { "type": "Point", "coordinates": [ -76.415050, 37.216120 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Goodwin", "STATION": "GN23", "YEAR": 2002.000000, "LATITUDE": 37.216330, "LONGITUDE": -76.380330, "CLAY": 1.360294, "SILT": 2.279412, "SAND": 96.360294, "GRAVEL": 0.000000, "MEAN": 3.010800, "MEDIAN": 0.282000, "MODE": -2.462100, "KURTOSIS": 14.481500 }, "geometry": { "type": "Point", "coordinates": [ -76.380330, 37.216330 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Goodwin", "STATION": "GO04", "YEAR": 2002.000000, "LATITUDE": 37.214420, "LONGITUDE": -76.411620, "CLAY": 6.020835, "SILT": 5.523702, "SAND": 88.455462, "GRAVEL": 0.000000, "MEAN": 3.131000, "MEDIAN": 0.249900, "MODE": -0.336400, "KURTOSIS": 3.018000 }, "geometry": { "type": "Point", "coordinates": [ -76.411620, 37.214420 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Goodwin", "STATION": "GO17", "YEAR": 2002.000000, "LATITUDE": 37.214470, "LONGITUDE": -76.373820, "CLAY": 2.026234, "SILT": 0.000000, "SAND": 97.973766, "GRAVEL": 0.000000, "MEAN": 3.034100, "MEDIAN": 0.193200, "MODE": 0.206700, "KURTOSIS": 4.153900 }, "geometry": { "type": "Point", "coordinates": [ -76.373820, 37.214470 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Goodwin", "STATION": "GP16", "YEAR": 2002.000000, "LATITUDE": 37.213150, "LONGITUDE": -76.391580, "CLAY": 2.292164, "SILT": 1.146082, "SAND": 96.561755, "GRAVEL": 0.000000, "MEAN": 3.000800, "MEDIAN": 0.422500, "MODE": -3.617900, "KURTOSIS": 18.598600 }, "geometry": { "type": "Point", "coordinates": [ -76.391580, 37.213150 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Goodwin", "STATION": "GQ11", "YEAR": 2002.000000, "LATITUDE": 37.211830, "LONGITUDE": -76.399780, "CLAY": 8.959172, "SILT": 23.891125, "SAND": 67.149703, "GRAVEL": 0.000000, "MEAN": 3.319000, "MEDIAN": 0.236600, "MODE": -1.869100, "KURTOSIS": 9.877200 }, "geometry": { "type": "Point", "coordinates": [ -76.399780, 37.211830 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Goodwin", "STATION": "GQ19", "YEAR": 2002.000000, "LATITUDE": 37.211900, "LONGITUDE": -76.387120, "CLAY": 3.104592, "SILT": 1.789706, "SAND": 95.105702, "GRAVEL": 0.000000, "MEAN": 2.692700, "MEDIAN": 0.322000, "MODE": 0.089300, "KURTOSIS": 2.269300 }, "geometry": { "type": "Point", "coordinates": [ -76.387120, 37.211900 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Goodwin", "STATION": "GS14", "YEAR": 2002.000000, "LATITUDE": 37.209050, "LONGITUDE": -76.395170, "CLAY": 1.437419, "SILT": 1.187433, "SAND": 97.375148, "GRAVEL": 0.000000, "MEAN": 2.225100, "MEDIAN": 0.793500, "MODE": -1.059500, "KURTOSIS": 3.827600 }, "geometry": { "type": "Point", "coordinates": [ -76.395170, 37.209050 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Goodwin", "STATION": "GS29", "YEAR": 2002.000000, "LATITUDE": 37.209400, "LONGITUDE": -76.370630, "CLAY": 9.911491, "SILT": 35.416219, "SAND": 54.672289, "GRAVEL": 0.000000, "MEAN": 3.518100, "MEDIAN": 0.110300, "MODE": -0.101500, "KURTOSIS": 2.274800 }, "geometry": { "type": "Point", "coordinates": [ -76.370630, 37.209400 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Goodwin", "STATION": "GT09", "YEAR": 2002.000000, "LATITUDE": 37.207000, "LONGITUDE": -76.403570, "CLAY": 2.521670, "SILT": 2.757025, "SAND": 94.721305, "GRAVEL": 0.000000, "MEAN": 3.088800, "MEDIAN": 0.267000, "MODE": -1.584000, "KURTOSIS": 6.261600 }, "geometry": { "type": "Point", "coordinates": [ -76.403570, 37.207000 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Goodwin", "STATION": "GT13", "YEAR": 2002.000000, "LATITUDE": 37.207820, "LONGITUDE": -76.397180, "CLAY": 13.233503, "SILT": 14.189536, "SAND": 72.576961, "GRAVEL": 0.000000, "MEAN": 3.254700, "MEDIAN": 0.618800, "MODE": -4.690000, "KURTOSIS": 28.076300 }, "geometry": { "type": "Point", "coordinates": [ -76.397180, 37.207820 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Goodwin", "STATION": "GT24", "YEAR": 2002.000000, "LATITUDE": 37.207820, "LONGITUDE": -76.378020, "CLAY": 6.329295, "SILT": 13.134476, "SAND": 80.536229, "GRAVEL": 0.000000, "MEAN": 3.328800, "MEDIAN": 0.187100, "MODE": -0.236200, "KURTOSIS": 2.925000 }, "geometry": { "type": "Point", "coordinates": [ -76.378020, 37.207820 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Goodwin", "STATION": "GU22", "YEAR": 2002.000000, "LATITUDE": 37.203930, "LONGITUDE": -76.378670, "CLAY": 3.105201, "SILT": 3.304617, "SAND": 93.590182, "GRAVEL": 0.000000, "MEAN": 2.969800, "MEDIAN": 0.374700, "MODE": -0.544600, "KURTOSIS": 2.660700 }, "geometry": { "type": "Point", "coordinates": [ -76.378670, 37.203930 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Goodwin", "STATION": "GV17", "YEAR": 2002.000000, "LATITUDE": 37.205370, "LONGITUDE": -76.389980, "CLAY": 2.023812, "SILT": 0.871796, "SAND": 96.909483, "GRAVEL": 0.194909, "MEAN": 2.896700, "MEDIAN": 0.234800, "MODE": 0.442200, "KURTOSIS": 4.394500 }, "geometry": { "type": "Point", "coordinates": [ -76.389980, 37.205370 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Goodwin", "STATION": "GW24", "YEAR": 2002.000000, "LATITUDE": 37.206500, "LONGITUDE": -76.382300, "CLAY": 13.988573, "SILT": 28.508358, "SAND": 57.503069, "GRAVEL": 0.000000, "MEAN": 3.359500, "MEDIAN": 0.675500, "MODE": -4.252700, "KURTOSIS": 21.809400 }, "geometry": { "type": "Point", "coordinates": [ -76.382300, 37.206500 ] } }
+,
+{ "type": "Feature", "properties": { "SITE": "Goodwin", "STATION": "GX21", "YEAR": 2002.000000, "LATITUDE": 37.202650, "LONGITUDE": -76.383750, "CLAY": 4.022747, "SILT": 4.676014, "SAND": 91.301238, "GRAVEL": 0.000000, "MEAN": 3.025100, "MEDIAN": 0.300200, "MODE": -0.281900, "KURTOSIS": 2.741800 }, "geometry": { "type": "Point", "coordinates": [ -76.383750, 37.202650 ] } }
+
+]
+}

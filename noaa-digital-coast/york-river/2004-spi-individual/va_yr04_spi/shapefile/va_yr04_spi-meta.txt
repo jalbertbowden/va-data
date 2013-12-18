@@ -1,0 +1,585 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Coastal Services Center (CSC)
+      Originator: Virginia Institute of Marine Sciences
+      Publication_Date: 20050831
+      Title: 2004 Sediment Profile Imaging (SPI) Data for Catlett and Goodwin Islands on the York River, Chesapeake Bay, Virginia (Ches_2004SPI)
+      Geospatial_Data_Presentation_Form: vector digital data
+      Publication_Information:
+        Publication_Place: Charleston, SC
+        Publisher: NOAA's Ocean Service, Coastal Services Center (CSC)
+      Online_Linkage: ftp://ftp.csc.noaa.gov/pub/benthic/chesapeakespi.ZIP
+      Online_Linkage: http://www.csc.noaa.gov/benthic/data/northeast/york.htm
+      Online_Linkage: http://www.csc.noaa.gov/benthic/
+      Online_Linkage: http://www.csc.noaa.gov/
+  Description:
+    Abstract: This data set represents the sediment profile imaging data from 2004 (79 stations).In Fall/Winter 2002, researchers from the Virginia Institute of Marine Science (VIMS) and the NOAA Coastal Services Center conducted a project to map benthic habitats by Catlett and Goodwin Islands on the York River, Chesapeake Bay, Virginia.  Sediment grab samples were collected at 56 stations and sediment profile images were collected at 200 stations.  Sampling areas were also surveyed using side scan sonar and interferometric swath bathymetry sensors.  Scientists from the Virginia Institute of Marine Sciences returned to sample a subset of the 2002 sediment grab data in 2003 and then again in 2004.  A subset of SPI stations (79) were revisited in 2004.
+    Purpose: VIMS and the NOAA Coastal Services Center are using the acoustic, grab, and SPI information (collected in 2002, 2003, and 2004) to characterize benthic habitats by Catlett and Goodwin Islands on the York River.  Sediment profile images (SPI) of the sediment-water interface were collected using a sediment profile camera at pre-determined locations at both sites.
+    Supplemental_Information: Nilsson, H.C. and R. Rosenberg. 1997. "Benthic Habitat Quality Assessment of an Oxygen Stressed Fjord by Surface and Sediment Profile Images."  Journal of Marine Systems. Volume 11. Pages 249 to 264.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 200405
+    Currentness_Reference: ground condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -76.5683
+      East_Bounding_Coordinate: -76.3683
+      North_Bounding_Coordinate: 37.2947
+      South_Bounding_Coordinate: 37.2027
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Environmental Monitoring
+      Theme_Keyword: sediment profile imaging
+      Theme_Keyword: SPI
+      Theme_Keyword: geographic information systems
+      Theme_Keyword: GIS
+      Theme_Keyword: benthic data
+      Theme_Keyword: CSC Benthic Habitat Mapping
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: environment
+      Theme_Keyword: biota
+    Place:
+      Place_Keyword_Thesaurus: none
+      Place_Keyword: Virginia
+      Place_Keyword: Chesapeake Bay
+      Place_Keyword: York River
+      Place_Keyword: Catlett Island
+      Place_Keyword: Goodwin Island
+  Access_Constraints: None
+  Use_Constraints: These data should be used for resource mapping and comparison purposes only.  While every effort has been made to ensure that these data are accurate and reliable within limits of the state of the art, NOAA will not assume any liability for damages caused by any inaccuracies in these data, or failure in their use.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: NOAA Coastal Services Center
+      Contact_Position: CRS Program Manager
+      Contact_Address:
+        Address_Type: mailing and physical
+        Address: 2234 South Hobson Avenue
+        City: Charleston
+        State_or_Province: South Carolina
+        Postal_Code: 29405
+        Country: U.S.A.
+      Contact_Voice_Telephone: (843) 740-1200
+      Contact_Facsimile_Telephone: (843) 740-1224
+      Hours_of_Service: 9 am to 5 pm, Eastern Standard Time
+  Native_Data_Set_Environment: Microsoft Windows 2000 Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 8.3.0.800
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: The attribute accuracy was verified by checking the compiled SPI database against the actual photos for each station. Since two photos were taken at each station, attributes from both images were noted in the database, and one image was digitized and analyzed using image analysis software. The results of this automated analysis were also used to check the accuracy of the dataset. When large disagreement occurred between images from a single station, all attributes were recorded and the image with the largest visible area was digitized.
+  Logical_Consistency_Report: All data are believed to be logically consistent.
+  Completeness_Report: All SPI data were included in this data layer.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: Stations were located in the field using a differential Global Positioning System (GPS), and station coordinates, date and time of day were recorded upon arrival at each station.
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: Not relevant to the data set.
+  Lineage:
+    Process_Step:
+      Process_Description: SPI images were collected on May 4, 2004 at a total of 79 stations.  A Hulcher model sediment profile camera was deployed with a modified frame that was lightened for use from a small vessel.  Fujichrome 100 ASA professional color slide film was used.  Tests were done frequently onboard in order to ensure camera function and mark stations.Laboratory Methods: All sediment images were analyzed visually by projecting the images and recording all features seen into a preformatted standardized spreadsheet file.  Images were then digitized using a Nikon LS2000 scanner and analyzed using the Adobe PhotoShop and NTIS Image programs.  Steps in the computer analysis of each image were standardized and followed the basic procedures in Viles and Diaz (1991).  Data from each image were sequentially saved to a spread sheet file for later analysis.  Details of how these data were obtained can be found in Diaz and Schaffner (1988) and Rhoads and Germano (1986). References: 1) Viles, C. and R.J. Diaz.  1991.  Bencore, an image analysis system for measuring sediment profile camera slides.  School of Marine Science, Virginia Institute of Marine Science, College of William and Mary, Gloucester Pt. VA.  13 pp. 2) Diaz, R.J. and L.C. Schaffner.  1988.  Comparison of sediment landscapes in the Chesapeake Bay as seen by surface and profile imaging.  p. 222 240. In: M. P. Lynch and E. C. Krome, eds. Understanding the estuary; Advances in Chesapeake Bay research. Chesapeake Res. Consort. Pub. 129,  CBP/TRS 24/88. 3) Rhoads, D.C. and J.D. Germano.  1986.  Interpreting long-term changes in benthic community structure: a new protocol.  Hydrobiologia 142:291-308.
+      Process_Date: 2004
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Virginia Institute of Marine Science
+          Contact_Position: Analytical Services Lab
+          Contact_Address:
+            Address_Type: mailing and physical
+            Address: P.O. Box 1346 (for regular mailing)
+            Address: Rt. 1208, Greate Road (for shipping)
+            City: Gloucester Point
+            State_or_Province: Virginia
+            Postal_Code: 23062-1346
+            Country: U.S.A.
+          Contact_Voice_Telephone: (804) 684-7000
+          Contact_Facsimile_Telephone: (804) 684-7907
+    Process_Step:
+      Process_Description: Data from field samples was entered into an Access database.  A query was developed to review SPI data from all SPI stations.  A shapefile was created using ESRI ArcMap 8.3.
+      Process_Date: 20050719
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: NOAA Coastal Services Center
+          Contact_Position: CRS Program Manager
+          Contact_Address:
+            Address_Type: mailing and physical
+            Address: 2234 South Hobson Avenue
+            City: Charleston
+            State_or_Province: South Carolina
+            Postal_Code: 29405
+            Country: U.S.A.
+          Contact_Voice_Telephone: (843) 740-1200
+          Contact_Facsimile_Telephone: (843) 740-1224
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Entity point
+      Point_and_Vector_Object_Count: 79
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Grid_Coordinate_System:
+        Grid_Coordinate_System_Name: Universal Transverse Mercator
+        Universal_Transverse_Mercator:
+          UTM_Zone_Number: 18
+          Transverse_Mercator:
+            Scale_Factor_at_Central_Meridian: 0.999600
+            Longitude_of_Central_Meridian: -75.000000
+            Latitude_of_Projection_Origin: 0.000000
+            False_Easting: 500000.000000
+            False_Northing: 0.000000
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: coordinate pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 0.000001
+          Ordinate_Resolution: 0.000001
+        Planar_Distance_Units: meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Ches_2004SPI.dbf
+      Entity_Type_Definition: Database file
+      Entity_Type_Definition_Source: none
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: DATE_
+      Attribute_Definition: Date sampled.
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 20040504
+          Enumerated_Domain_Value_Definition: Date sampled
+          Enumerated_Domain_Value_Definition_Source: NOAA Coastal Services Center
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: REGION
+      Attribute_Definition: Name of region
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Catlett
+          Enumerated_Domain_Value_Definition: Catlett Island
+          Enumerated_Domain_Value_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Goodwin
+          Enumerated_Domain_Value_Definition: Goodwin Island
+          Enumerated_Domain_Value_Definition_Source: NOAA Coastal Services Center
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: STATION
+      Attribute_Definition: Station identification number
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Letter and number combination to represent sample sites.
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: LATITUDE
+      Attribute_Definition: Latitude in decimal degrees
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 37.202667
+          Range_Domain_Maximum: 37.29467
+          Attribute_Units_of_Measure: Decimal degrees
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: LONGITUDE
+      Attribute_Definition: Longitude in decimal degrees
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -76.383333
+          Range_Domain_Maximum: -76.565
+          Attribute_Units_of_Measure: Decimal degrees
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: IMAGE
+      Attribute_Definition: Image at station
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Image number
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: PENETRATIO
+      Attribute_Definition: Average prism penetration depth in cm
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 20.3
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: SFC_RELIEF
+      Attribute_Definition: Average surface relief, change in sediment depth (in cm) across the 15 cm width of the prism face plate
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.3
+          Range_Domain_Maximum: 4.8
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: RPD
+      Attribute_Definition: Average apparent redox potential discontinuity (RPD) depth in cm
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.5
+          Range_Domain_Maximum: 5.3
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: ADJ_RPD
+      Attribute_Definition: Adjusted apparent redox potential discontinuity (RPD) depth in cm (removed greater than symbols from values)
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.5
+          Range_Domain_Maximum: 5.3
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: GRAIN_SIZE
+      Attribute_Definition: Abbreviation of modal sediment grain size estimate (Folk)
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Grain size code
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: MAX_GRSZ
+      Attribute_Definition: Maximum grain size
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Grain size code
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: BEDFORMS
+      Attribute_Definition: Presence of small sand ripples (bedforms)
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: absence
+          Enumerated_Domain_Value_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: presence
+          Enumerated_Domain_Value_Definition_Source: NOAA Coastal Services Center
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: FLOC_LAYER
+      Attribute_Definition: Fluid mud layer above the sediment
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: absence
+          Enumerated_Domain_Value_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: presence
+          Enumerated_Domain_Value_Definition_Source: NOAA Coastal Services Center
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: ALGAE
+      Attribute_Definition: Presence of diatom mats or macro algae
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: absence
+          Enumerated_Domain_Value_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: presence
+          Enumerated_Domain_Value_Definition_Source: NOAA Coastal Services Center
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: HYD_BRY
+      Attribute_Definition: Presence of Hydroids and Bryozoans
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: absence
+          Enumerated_Domain_Value_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: presence
+          Enumerated_Domain_Value_Definition_Source: NOAA Coastal Services Center
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: EPIFAUNA
+      Attribute_Definition: Epifaunal organisms on sediment surface
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Text description of organisms if applicable
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: PIT_MOUND
+      Attribute_Definition: These are features that appear to be biogenic, usually related to feeding activity of fauna (fish, crab, or infauna).
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: absence
+          Enumerated_Domain_Value_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: presence
+          Enumerated_Domain_Value_Definition_Source: NOAA Coastal Services Center
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: PELLETS
+      Attribute_Definition: Fecal pellets on the sediment surface
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: absence
+          Enumerated_Domain_Value_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: presence
+          Enumerated_Domain_Value_Definition_Source: NOAA Coastal Services Center
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: TUBES_LARG
+      Attribute_Definition: Number of worm tubes in image greater than 2 mm diameter
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 3
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: TUBES_SMAL
+      Attribute_Definition: Number of worm tubes in image smaller than 2 mm diameter
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: greater than 20
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: ADJ_T_SMAL
+      Attribute_Definition: Adjusted number of small tubes (removed greater than symbols from values)
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 20
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: INFAUNA
+      Attribute_Definition: Number of infaunal worms
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 12
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: MD_INFAUNA
+      Attribute_Definition: Maximum depth that infaunal organisms were observed
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 12.4
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: BURROW
+      Attribute_Definition: Number of infaunal burrows
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 8
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: OXIC_VOIDS
+      Attribute_Definition: Number of water-filled inclusions in the sediment that appear oxygenated (oxic)
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 3
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: MD_OXIC_VO
+      Attribute_Definition: Maximum depth that oxic voids (water-filled inclusions in the sediment that appear oxygenated) were observed
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 12.4
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: ANOX_VOIDS
+      Attribute_Definition: Number of water-filled inclusions in the sediment that appear anaerobic (anoxic)
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 3
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: MD_ANOX_VO
+      Attribute_Definition: Maximum depth that anaeorbic voids (water-filled includes in the sediment that appear anaerobic) were observed
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 15.3
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: GAS_VOIDS
+      Attribute_Definition: Number of methane gas-filled inclusions in the sediment
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 0
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: COMMENTS
+      Attribute_Definition: Special notes on the images made during analysis
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: text description if applicable
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: BHQ
+      Attribute_Definition: Benthic Habitat Quality Index
+      Attribute_Definition_Source: Nilsson and Rosenberg 1997 modified by R.J. Diaz
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 2
+          Range_Domain_Maximum: 8
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+    Attribute:
+      Attribute_Label: ADJ_BHQ
+      Attribute_Definition: Adjusted Benthic Habitat Quality Index (removed greater than symbols from values)
+      Attribute_Definition_Source: Nilsson and Rosenberg 1997 modified by R.J. Diaz
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 2
+          Range_Domain_Maximum: 8
+      Beginning_Date_of_Attribute_Values: 20040504
+      Ending_Date_of_Attribute_Values: 20040504
+  Overview_Description:
+    Entity_and_Attribute_Overview: Values of 99.0 for SFC_RELIEF, RPD, ADJ_RPD, BHQ, and ADJ_BHQ fields represent unknown values.
+    Entity_and_Attribute_Detail_Citation: NOAA Coastal Services Center
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: NOAA Coastal Services Center
+      Contact_Position: Clearinghouse Manager
+      Contact_Address:
+        Address_Type: mailing and physical
+        Address: 2234 South Hobson Avenue
+        City: Charleston
+        State_or_Province: South Carolina
+        Postal_Code: 29405
+        Country: U.S.A.
+      Contact_Voice_Telephone: (843) 740-1200
+      Contact_Facsimile_Telephone: (843) 740-1315
+      Contact_Electronic_Mail_Address: clearinghouse@noaa.gov
+      Hours_of_Service: 9 am to 5 pm, Eastern Standard Time
+  Resource_Description: Downloadable Data
+  Distribution_Liability: While every effort has been made to ensure that these data are accurate and reliable within limits of the state of the art, NOAA will not assume any liability for damages caused by any inaccuracies in these data, or failure in their use.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: shapefile
+        Transfer_Size: 0.064
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://www.csc.noaa.gov/benthic/data/northeast/york.htm
+    Fees: none
+Metadata_Reference_Information:
+  Metadata_Date: 20100519
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: NOAA Coastal Services Center
+      Contact_Position: Metadata Specialist
+      Contact_Address:
+        Address_Type: mailing and physical
+        Address: 2234 South Hobson Avenue
+        City: Charleston
+        State_or_Province: South Carolina
+        Postal_Code: 29405
+        Country: U.S.A.
+      Contact_Voice_Telephone: (843) 740-1200
+      Contact_Facsimile_Telephone: (843) 740-1224
+      Contact_Electronic_Mail_Address: clearinghouse@noaa.gov
+      Hours_of_Service: 9 am to 5 pm, Eastern Standard Time
+  Metadata_Standard_Name: FGDC Content Standard for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Extensions:
+    Online_Linkage: http://www.ncddc.noaa.gov/metadataresource/metadata-references/files/ncddcmdprofile_v2.pdf
+    Profile_Name: Content Specification for Metadata in the National Coastal Data Development Center's Data Catalog Version 2.0

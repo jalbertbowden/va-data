@@ -1,0 +1,1181 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Coastal Services Center (CSC)
+</origin>
+        <origin>Virginia Institute of Marine Sciences
+</origin>
+        <pubdate>20050831
+</pubdate>
+        <title>2002 Sediment Profile Imaging (SPI) Data for Catlett and Goodwin Islands on the York River, Chesapeake Bay, Virginia (Ches_2002SPI)
+</title>
+        <geoform>vector digital data
+</geoform>
+        <pubinfo>
+          <pubplace>Charleston, SC
+</pubplace>
+          <publish>NOAA's Ocean Service, Coastal Services Center (CSC)
+</publish>
+        </pubinfo>
+        <onlink>ftp://ftp.csc.noaa.gov/pub/benthic/chesapeakespi.ZIP
+</onlink>
+        <onlink>http://www.csc.noaa.gov/benthic/data/northeast/york.htm
+</onlink>
+        <onlink>http://www.csc.noaa.gov/benthic/
+</onlink>
+        <onlink>http://www.csc.noaa.gov/
+</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This data set represents the sediment profile imaging data from 2002.In Fall/Winter 2002, researchers from the Virginia Institute of Marine Science (VIMS) and the NOAA Coastal Services Center conducted a project to map benthic habitats by Catlett and Goodwin Islands on the York River, Chesapeake Bay, Virginia.  Sediment grab samples were collected at 56 stations and sediment profile images were collected at 200 stations.  Sampling areas were also surveyed using side scan sonar and interferometric swath bathymetry sensors.  Scientists from the Virginia Institute of Marine Sciences returned to sample a subset of the 2002 sediment grab data in 2003 and then again in 2004.  A subset of SPI stations (79) were revisited in 2004.
+</abstract>
+      <purpose>VIMS and the NOAA Coastal Services Center are using the acoustic, grab, and SPI information (collected in 2002, 2003, and 2004) to characterize benthic habitats by Catlett and Goodwin Islands on the York River.  Sediment profile images (SPI) of the sediment-water interface were collected using a sediment profile camera at pre-determined locations at both sites.
+</purpose>
+      <supplinf>Nilsson, H.C. and R. Rosenberg. 1997. "Benthic Habitat Quality Assessment of an Oxygen Stressed Fjord by Surface and Sediment Profile Images."  Journal of Marine Systems. Volume 11. Pages 249 to 264.
+</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20021202
+</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition
+</current>
+    </timeperd>
+    <status>
+      <progress>Complete
+</progress>
+      <update>None planned
+</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-76.5800
+</westbc>
+        <eastbc>-76.3667
+</eastbc>
+        <northbc>37.3040
+</northbc>
+        <southbc>37.2027
+</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None
+</themekt>
+        <themekey>Environmental Monitoring
+</themekey>
+        <themekey>sediment profile imaging
+</themekey>
+        <themekey>SPI
+</themekey>
+        <themekey>geographic information systems
+</themekey>
+        <themekey>GIS
+</themekey>
+        <themekey>benthic data
+</themekey>
+        <themekey>CSC Benthic Habitat Mapping
+</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category
+</themekt>
+        <themekey>environment
+</themekey>
+        <themekey>biota
+</themekey>
+      </theme>
+      <place>
+        <placekt>none
+</placekt>
+        <placekey>Catlett Island
+</placekey>
+        <placekey>Goodwin Island
+</placekey>
+        <placekey>York River
+</placekey>
+        <placekey>Chesapeake Bay
+</placekey>
+        <placekey>Virginia
+</placekey>
+      </place>
+      <temporal>
+        <tempkt>none
+</tempkt>
+        <tempkey>2002
+</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>None
+</accconst>
+    <useconst>These data should be used for resource mapping and comparison purposes only.  While every effort has been made to ensure that these data are accurate and reliable within limits of the state of the art, NOAA will not assume any liability for damages caused by any inaccuracies in these data, or failure in their use.
+</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>NOAA Coastal Services Center
+</cntorg>
+        </cntorgp>
+        <cntpos>CRS Program Manager
+</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical
+</addrtype>
+          <address>2234 South Hobson Avenue
+</address>
+          <city>Charleston
+</city>
+          <state>South Carolina
+</state>
+          <postal>29405
+</postal>
+          <country>U.S.A.
+</country>
+        </cntaddr>
+        <cntvoice>(843) 740-1200
+</cntvoice>
+        <cntfax>(843) 740-1224
+</cntfax>
+        <hours>9 am to 5 pm, Eastern Standard Time
+</hours>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows 2000 Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 8.3.0.800
+</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The attribute accuracy was verified by checking the compiled SPI database against the actual photos for each station. Since two photos were taken at each station, attributes from both images were noted in the database, and one image was digitized and analyzed using image analysis software. The results of this automated analysis were also used to check the accuracy of the dataset. When large disagreement occurred between images from a single station, all attributes were recorded and the image with the largest visible area was digitized.
+</attraccr>
+    </attracc>
+    <logic>All data are believed to be logically consistent.
+</logic>
+    <complete>All SPI data were included in this data layer.
+</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Stations were located in the field using a differential Global Positioning System (GPS), and station coordinates, date and time of day were recorded upon arrival at each station.
+</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>Not relevant to the data set.
+</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>SPI images were collected on December 12, 2002 at a total of 200 stations.  A Hulcher model sediment profile camera was deployed with a modified frame that was lightened for use from a small vessel.  Fujichrome 100 ASA professional color slide film was used.  Tests were done frequently onboard in order to ensure camera function and mark stations.Laboratory Methods: All sediment images were analyzed visually by projecting the images and recording all features seen into a preformatted standardized spreadsheet file.  Images were then digitized using a Nikon LS2000 scanner and analyzed using the Adobe PhotoShop and NTIS Image programs.  Steps in the computer analysis of each image were standardized and followed the basic procedures in Viles and Diaz (1991).  Data from each image were sequentially saved to a spread sheet file for later analysis.  Details of how these data were obtained can be found in Diaz and Schaffner (1988) and Rhoads and Germano (1986). References: 1) Viles, C. and R.J. Diaz.  1991.  Bencore, an image analysis system for measuring sediment profile camera slides.  School of Marine Science, Virginia Institute of Marine Science, College of William and Mary, Gloucester Pt. VA.  13 pp. 2) Diaz, R.J. and L.C. Schaffner.  1988.  Comparison of sediment landscapes in the Chesapeake Bay as seen by surface and profile imaging.  p. 222 240. In: M. P. Lynch and E. C. Krome, eds. Understanding the estuary; Advances in Chesapeake Bay research. Chesapeake Res. Consort. Pub. 129,  CBP/TRS 24/88. 3) Rhoads, D.C. and J.D. Germano.  1986.  Interpreting long-term changes in benthic community structure: a new protocol.  Hydrobiologia 142:291-308.
+
+
+</procdesc>
+        <procdate>2002
+</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Virginia Institute of Marine Science
+</cntorg>
+            </cntorgp>
+            <cntpos>Analytical Services Lab
+</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical
+</addrtype>
+              <address>P.O. Box 1346 (for regular mailing)
+</address>
+              <address>Rt. 1208, Greate Road (for shipping)
+</address>
+              <city>Gloucester Point
+</city>
+              <state>Virginia
+</state>
+              <postal>23062-1346
+</postal>
+              <country>U.S.A.
+</country>
+            </cntaddr>
+            <cntvoice>(804) 684-7000
+</cntvoice>
+            <cntfax>(804) 684-7907
+</cntfax>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Data from field samples was entered into an Access database.  A query was developed to review SPI data from all SPI stations.  A shapefile was created using ESRI ArcMap 8.3.
+</procdesc>
+        <procdate>20050719
+</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>NOAA Coastal Services Center
+</cntorg>
+            </cntorgp>
+            <cntpos>CRS Program Manager
+</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical
+</addrtype>
+              <address>2234 South Hobson Avenue
+</address>
+              <city>Charleston
+</city>
+              <state>South Carolina
+</state>
+              <postal>29405
+</postal>
+              <country>U.S.A.
+</country>
+            </cntaddr>
+            <cntvoice>(843) 740-1200
+</cntvoice>
+            <cntfax>(843) 740-1224
+</cntfax>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector
+</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point
+</sdtstype>
+        <ptvctcnt>199
+</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>Universal Transverse Mercator
+</gridsysn>
+          <utm>
+            <utmzone>18
+</utmzone>
+            <transmer>
+              <sfctrmer>0.999600
+</sfctrmer>
+              <longcm>-75.000000
+</longcm>
+              <latprjo>0.000000
+</latprjo>
+              <feast>500000.000000
+</feast>
+              <fnorth>0.000000
+</fnorth>
+            </transmer>
+          </utm>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair
+</plance>
+          <coordrep>
+            <absres>0.000001
+</absres>
+            <ordres>0.000001
+</ordres>
+          </coordrep>
+          <plandu>meters
+</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983
+</horizdn>
+        <ellips>Geodetic Reference System 80
+</ellips>
+        <semiaxis>6378137.000000
+</semiaxis>
+        <denflat>298.257222
+</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Ches_2002SPI.dbf
+</enttypl>
+        <enttypd>Database file
+</enttypd>
+        <enttypds>none
+</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID
+</attrlabl>
+        <attrdef>Internal feature number.
+</attrdef>
+        <attrdefs>ESRI
+</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.
+</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape
+</attrlabl>
+        <attrdef>Feature geometry.
+</attrdef>
+        <attrdefs>ESRI
+</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.
+</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DATE_
+</attrlabl>
+        <attrdef>Date sampled.
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>20021202
+</edomv>
+            <edomvd>Date sampled
+</edomvd>
+            <edomvds>NOAA Coastal Services Center
+</edomvds>
+          </edom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>REGION
+</attrlabl>
+        <attrdef>Name of region
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Catlett
+</edomv>
+            <edomvd>Catlett Island
+</edomvd>
+            <edomvds>NOAA Coastal Services Center
+</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Goodwin
+</edomv>
+            <edomvd>Goodwin Island
+</edomvd>
+            <edomvds>NOAA Coastal Services Center
+</edomvds>
+          </edom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>STATION
+</attrlabl>
+        <attrdef>Station identification number
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <udom>Letter and number combination to represent sample sites.
+</udom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>LATITUDE
+</attrlabl>
+        <attrdef>Latitude in decimal degrees
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>37.20267
+</rdommin>
+            <rdommax>37.304
+</rdommax>
+            <attrunit>Decimal degrees
+</attrunit>
+          </rdom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>LONGITUDE
+</attrlabl>
+        <attrdef>Longitude in decimal degrees
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-76.58
+</rdommin>
+            <rdommax>-76.36667
+</rdommax>
+            <attrunit>Decimal degrees
+</attrunit>
+          </rdom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>IMAGE
+</attrlabl>
+        <attrdef>Image at station
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <udom>Image number
+</udom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>PENETRATIO
+</attrlabl>
+        <attrdef>Average prism penetration depth in cm
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.5
+</rdommin>
+            <rdommax>19.9
+</rdommax>
+          </rdom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>SFC_RELIEF
+</attrlabl>
+        <attrdef>Average surface relief, change in sediment depth (in cm) across the 15 cm width of the prism face plate
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.1
+</rdommin>
+            <rdommax>7.1
+</rdommax>
+          </rdom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>RPD
+</attrlabl>
+        <attrdef>Average apparent redox potential discontinuity (RPD) depth in cm
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.4
+</rdommin>
+            <rdommax> greater than 10.6
+</rdommax>
+          </rdom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>ADJ_RPD
+</attrlabl>
+        <attrdef>Adjusted apparent redox potential discontinuity (RPD) depth in cm (removed greater than symbols from values)
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.4
+</rdommin>
+            <rdommax>10.6
+</rdommax>
+          </rdom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>GRAIN_SIZE
+</attrlabl>
+        <attrdef>Abbreviation of modal sediment grain size estimate (Folk)
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <udom>Grain size code
+</udom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>MAX_GRSZ
+</attrlabl>
+        <attrdef>Maximum grain size
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <udom>Grain size code
+</udom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>BEDFORMS
+</attrlabl>
+        <attrdef>Presence of small sand ripples (bedforms)
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0
+</edomv>
+            <edomvd>absence
+</edomvd>
+            <edomvds>NOAA Coastal Services Center
+</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>1
+</edomv>
+            <edomvd>presence
+</edomvd>
+            <edomvds>NOAA Coastal Services Center
+</edomvds>
+          </edom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>FLOC_LAYER
+</attrlabl>
+        <attrdef>Fluid mud layer above the sediment
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0
+</edomv>
+            <edomvd>absence
+</edomvd>
+            <edomvds>NOAA Coastal Services Center
+</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>1
+</edomv>
+            <edomvd>presence
+</edomvd>
+            <edomvds>NOAA Coastal Services Center
+</edomvds>
+          </edom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>ALGAE
+</attrlabl>
+        <attrdef>Presence of diatom mats or macro algae
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0
+</edomv>
+            <edomvd>absence
+</edomvd>
+            <edomvds>NOAA Coastal Services Center
+</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>1
+</edomv>
+            <edomvd>presence
+</edomvd>
+            <edomvds>NOAA Coastal Services Center
+</edomvds>
+          </edom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>HYD_BRY
+</attrlabl>
+        <attrdef>Presence of Hydroids and Bryozoans
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0
+</edomv>
+            <edomvd>absence
+</edomvd>
+            <edomvds>NOAA Coastal Services Center
+</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>1
+</edomv>
+            <edomvd>presence
+</edomvd>
+            <edomvds>NOAA Coastal Services Center
+</edomvds>
+          </edom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>EPIFAUNA
+</attrlabl>
+        <attrdef>Epifaunal organisms on sediment surface
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <udom>Text description of organisms if applicable
+</udom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>PIT_MOUND
+</attrlabl>
+        <attrdef>These are features that appear to be biogenic, usually related to feeding activity of fauna (fish, crab, or infauna).
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0
+</edomv>
+            <edomvd>absence
+</edomvd>
+            <edomvds>NOAA Coastal Services Center
+</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>1
+</edomv>
+            <edomvd>presence
+</edomvd>
+            <edomvds>NOAA Coastal Services Center
+</edomvds>
+          </edom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>PELLETS
+</attrlabl>
+        <attrdef>Fecal pellets on the sediment surface
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0
+</edomv>
+            <edomvd>absence
+</edomvd>
+            <edomvds>NOAA Coastal Services Center
+</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>1
+</edomv>
+            <edomvd>presence
+</edomvd>
+            <edomvds>NOAA Coastal Services Center
+</edomvds>
+          </edom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>TUBES_LARG
+</attrlabl>
+        <attrdef>Number of worm tubes in image greater than 2 mm diameter
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0
+</rdommin>
+            <rdommax>15
+</rdommax>
+          </rdom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>TUBES_SMAL
+</attrlabl>
+        <attrdef>Number of worm tubes in image smaller than 2 mm diameter
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0
+</rdommin>
+            <rdommax>34
+</rdommax>
+          </rdom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>INFAUNA
+</attrlabl>
+        <attrdef>Number of infaunal worms
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0
+</rdommin>
+            <rdommax> greater than 25
+</rdommax>
+          </rdom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>ADJ_INFAUNA
+</attrlabl>
+        <attrdef>Adjusted infauna (removed greater than symbols from values)
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0
+</rdommin>
+            <rdommax>25
+</rdommax>
+          </rdom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>MD_INFAUNA
+</attrlabl>
+        <attrdef>Maximum depth that infaunal organisms were observed
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0
+</rdommin>
+            <rdommax>14.5
+</rdommax>
+          </rdom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>BURROWS
+</attrlabl>
+        <attrdef>Number of infaunal burrows
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0
+</rdommin>
+            <rdommax>9
+</rdommax>
+          </rdom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>OXIC_VOIDS
+</attrlabl>
+        <attrdef>Number of water-filled inclusions in the sediment that appear oxygenated (oxic)
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0
+</rdommin>
+            <rdommax>7
+</rdommax>
+          </rdom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>MD_OXIC_VO
+</attrlabl>
+        <attrdef>Maximum depth that oxic voids (water-filled inclusions in the sediment that appear oxygenated) were observed
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0
+</rdommin>
+            <rdommax>17.6
+</rdommax>
+          </rdom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>ANOX_VOIDS
+</attrlabl>
+        <attrdef>Number of water-filled inclusions in the sediment that appear anaerobic (anoxic)
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0
+</rdommin>
+            <rdommax>9
+</rdommax>
+          </rdom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>MD_ANOX_VO
+</attrlabl>
+        <attrdef>Maximum depth that anaeorbic voids (water-filled includes in the sediment that appear anaerobic) were observed
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0
+</rdommin>
+            <rdommax>18.4
+</rdommax>
+          </rdom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>GAS_VOIDS
+</attrlabl>
+        <attrdef>Number of methane gas-filled inclusions in the sediment
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0
+</rdommin>
+            <rdommax>0
+</rdommax>
+          </rdom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>COMMENTS
+</attrlabl>
+        <attrdef>Special notes on the images made during analysis
+</attrdef>
+        <attrdefs>NOAA Coastal Services Center
+</attrdefs>
+        <attrdomv>
+          <udom>text description if applicable
+</udom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>BHQ
+</attrlabl>
+        <attrdef>Benthic Habitat Quality Index
+</attrdef>
+        <attrdefs>Nilsson and Rosenberg 1997 modified by R.J. Diaz
+</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0
+</rdommin>
+            <rdommax>11
+</rdommax>
+          </rdom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+      <attr>
+        <attrlabl>ADJ_BHQ
+</attrlabl>
+        <attrdef>Adjusted Benthic Habitat Quality Index (removed greater than symbols from values)
+</attrdef>
+        <attrdefs>Nilsson and Rosenberg 1997 modified by R.J. Diaz
+</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0
+</rdommin>
+            <rdommax>11
+</rdommax>
+          </rdom>
+        </attrdomv>
+        <begdatea>20021202
+</begdatea>
+        <enddatea>20021202
+</enddatea>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>Values of 99.0 for SFC_RELIEF, RPD, ADJ_RPD, BHQ, and ADJ_BHQ fields represent unknown values.
+</eaover>
+      <eadetcit>NOAA Coastal Services Center
+</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>NOAA Coastal Services Center
+</cntorg>
+        </cntorgp>
+        <cntpos>Clearinghouse Manager
+</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical
+</addrtype>
+          <address>2234 South Hobson Avenue
+</address>
+          <city>Charleston
+</city>
+          <state>South Carolina
+</state>
+          <postal>29405
+</postal>
+          <country>U.S.A.
+</country>
+        </cntaddr>
+        <cntvoice>(843) 740-1200
+</cntvoice>
+        <cntfax>(843) 740-1315
+</cntfax>
+        <cntemail>clearinghouse@noaa.gov
+</cntemail>
+        <hours>9 am to 5 pm, Eastern Standard Time
+</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data
+</resdesc>
+    <distliab>While every effort has been made to ensure that these data are accurate and reliable within limits of the state of the art, NOAA will not assume any liability for damages caused by any inaccuracies in these data, or failure in their use.
+</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>shapefile
+</formname>
+          <transize>0.111
+</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://www.csc.noaa.gov/benthic/data/northeast/york.htm
+</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>none
+</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20100519
+</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>NOAA Coastal Services Center
+</cntorg>
+        </cntorgp>
+        <cntpos>Metadata Specialist
+</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical
+</addrtype>
+          <address>2234 South Hobson Avenue
+</address>
+          <city>Charleston
+</city>
+          <state>South Carolina
+</state>
+          <postal>29405
+</postal>
+          <country>U.S.A.
+</country>
+        </cntaddr>
+        <cntvoice>(843) 740-1200
+</cntvoice>
+        <cntfax>(843) 740-1224
+</cntfax>
+        <cntemail>clearinghouse@noaa.gov
+</cntemail>
+        <hours>9 am to 5 pm, Eastern Standard Time
+</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata
+</metstdn>
+    <metstdv>FGDC-STD-001-1998
+</metstdv>
+    <metextns>
+      <onlink>http://www.ncddc.noaa.gov/metadataresource/metadata-references/files/ncddcmdprofile_v2.pdf
+</onlink>
+      <metprof>Content Specification for Metadata in the National Coastal Data Development Center's Data Catalog Version 2.0
+</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

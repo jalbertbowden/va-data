@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Coastal Services Center (CSC)
+</origin>
+<origin>Virginia Institute of Marine Science
+</origin>
+<pubdate>20050831
+</pubdate>
+<title>2002 Sediment Grab Data for Catlett and Goodwin Islands on the York River, Chesapeake Bay, Virginia (Ches_2002sedgrabs)
+</title>
+<geoform>vector digital data
+</geoform>
+<pubinfo>
+<pubplace>Charleston, SC
+</pubplace>
+<publish>NOAA's Ocean Service, Coastal Services Center (CSC)
+</publish>
+</pubinfo>
+<onlink>ftp://ftp.csc.noaa.gov/pub/benthic/chesapeakesedgrabs.zip
+</onlink>
+<onlink>http://www.csc.noaa.gov/benthic/data/northeast/york.htm
+</onlink>
+<onlink>http://www.csc.noaa.gov/benthic/
+</onlink>
+<onlink>http://www.csc.noaa.gov/
+</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>This data set represents the sediment grain size gathered from grab sampling in 2002 (56 stations).In Fall/Winter 2002, researchers from the Virginia Institute of Marine Science (VIMS) and the NOAA Coastal Services Center conducted a project to map benthic habitats by Catlett and Goodwin Islands on the York River, Chesapeake Bay, Virginia.  Sediment grab samples were collected at 56 stations and sediment profile images were collected at 200 stations.  Sampling areas were also surveyed using side scan sonar and multibeam bathymetry sensors.  Scientists from the Virginia Institute of Marine Sciences returned to sample a subset of the 2002 sediment grab data in 2003 and then again in 2004.  A subset of SPI stations (79) were revisited in 2004.
+</abstract>
+<purpose>VIMS and the NOAA Coastal Services Center are using the acoustic, grab, and SPI information (collected in 2002, 2003, and 2004) to characterize benthic habitats by Catlett and Goodwin Islands on the York River, and to examine relationships between animal communities and sediment characteristics.  Grain size was measured from the sediment grab samples.
+</purpose>
+</descript>
+<timeperd>
+<timeinfo>
+<sngdate>
+<caldate>200210
+</caldate>
+</sngdate>
+</timeinfo>
+<current>ground condition
+</current>
+</timeperd>
+<status>
+<progress>Complete
+</progress>
+<update>None planned
+</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-76.5798
+</westbc>
+<eastbc>-76.3704
+</eastbc>
+<northbc>37.3025
+</northbc>
+<southbc>37.2026
+</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>None
+</themekt>
+<themekey>Environmental Monitoring
+</themekey>
+<themekey>Sediment
+</themekey>
+<themekey>Sediment grab
+</themekey>
+<themekey>geographic information systems
+</themekey>
+<themekey>GIS
+</themekey>
+<themekey>Clay
+</themekey>
+<themekey>Silt
+</themekey>
+<themekey>Gravel
+</themekey>
+<themekey>Sand
+</themekey>
+<themekey>CSC Benthic Habitat Mapping
+</themekey>
+</theme>
+<theme>
+<themekt>ISO 19115 Topic Category
+</themekt>
+<themekey>environment
+</themekey>
+<themekey>biota
+</themekey>
+</theme>
+<place>
+<placekt>none
+</placekt>
+<placekey>Catlett Island
+</placekey>
+<placekey>Goodwin Island
+</placekey>
+<placekey>York River
+</placekey>
+<placekey>Chesapeake Bay
+</placekey>
+<placekey>Virginia
+</placekey>
+</place>
+<temporal>
+<tempkt>none
+</tempkt>
+<tempkey>2002
+</tempkey>
+</temporal>
+</keywords>
+<accconst>None
+</accconst>
+<useconst>These data should be used for resource mapping and comparison purposes only.  While every effort has been made to ensure that these data are accurate and reliable within limits of the state of the art, NOAA will not assume any liability for damages caused by any inaccuracies in these data, or failure in their use.
+</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>NOAA Coastal Services Center
+</cntorg>
+</cntorgp>
+<cntpos>CRS Program Manager
+</cntpos>
+<cntaddr>
+<addrtype>mailing and physical
+</addrtype>
+<address>2234 South Hobson Avenue
+</address>
+<city>Charleston
+</city>
+<state>South Carolina
+</state>
+<postal>29405
+</postal>
+<country>U.S.A.
+</country>
+</cntaddr>
+<cntvoice>(843) 740-1200
+</cntvoice>
+<cntfax>(843) 740-1224
+</cntfax>
+</cntinfo>
+</ptcontac>
+<native>Microsoft Windows 2000 Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 8.3.0.800
+</native>
+</idinfo>
+<dataqual>
+<attracc>
+<attraccr>Values were checked against hard copy data sheets collected in the field.
+</attraccr>
+</attracc>
+<logic>All data are believed to be logically consistent.
+</logic>
+<complete>All grab data were not included in this data layer.  Percent values of sand, silt, clay, gravel, and statistical analyses were included in this data layer.
+</complete>
+<posacc>
+<horizpa>
+<horizpar>Stations were located in the field using a differential Global Positioning System (GPS), and station coordinates, date and time of day were recorded upon arrival at each station.
+</horizpar>
+</horizpa>
+<vertacc>
+<vertaccr>Not relevant to data set.
+</vertaccr>
+</vertacc>
+</posacc>
+<lineage>
+<procstep>
+<procdesc>Field Methods: Grabs for sediments and benthos were collected in October 2002 at a total of 92 stations.  A Young grab, 0.044 m2 surface area, was deployed twice to collect a sample for substrate and a sample for benthic community data.  The Young grab is the same sampler used by EPA in its Environmental Monitoring and Assessment Program (EMAP) and Mid-Atlantic Integrated Assessment (MAIA) programs.  The Young grab is similar to a van Veen grab that has been placed in a frame to hold it level with the sediment surface while a sample is collected.  Grabs without frames tend to twist and collect uneven samples.  Because of its frame, the Young grab functions well in both soft and hard sediment.Laboratory Methods: From the sediment grab, one sediment subsamples of about 50 g was taken, for sediment grain-size analysis.  Samples were placed on ice in the field and frozen in the laboratory until they were analyzed.  Sediment grain-size distributions and sand fraction distributions were determined (by Virginia Institute of Marine Science (VIMS) Analytical Services Laboratory, Gloucester Pt., VA).  Grain-size distributions were determined using wet sieve techniques for fines and sand size fractions were measured using a Rapid Sediment Analyzer.
+</procdesc>
+<procdate>20050130
+</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>Virginia Institute of Marine Sciences
+</cntorg>
+</cntorgp>
+<cntpos>Analytical Services Lab
+</cntpos>
+<cntaddr>
+<addrtype>mailing and physical
+</addrtype>
+<address>P.O. Box 1346 (for regular mailing)
+</address>
+<address>Rt. 1208, Greate Road (for shipping)
+</address>
+<city>Gloucester Point
+</city>
+<state>Virginia
+</state>
+<postal>23062-1346
+</postal>
+<country>U.S.A.
+</country>
+</cntaddr>
+<cntvoice>(804) 684-7000
+</cntvoice>
+<cntfax>(804) 684-7907
+</cntfax>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>Data from field samples was entered into an Access database for the York River, Chesapeake Bay benthic sediment survey.  A query was developed to review sediment data from all grab sampling stations.  A shapefile was created using the field data in the Access database to show spatial trends in sediment distribution in the York River at Catlett and Goodwin Islands.
+</procdesc>
+<procdate>20050318
+</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>NOAA Coastal Services Center
+</cntorg>
+</cntorgp>
+<cntpos>CRS Program Manager
+</cntpos>
+<cntaddr>
+<addrtype>mailing and physical
+</addrtype>
+<address>2234 South Hobson Avenue
+</address>
+<city>Charleston
+</city>
+<state>South Carolina
+</state>
+<postal>29466
+</postal>
+<country>U.S.A.
+</country>
+</cntaddr>
+<cntvoice>(843) 740-1200
+</cntvoice>
+<cntfax>(843) 740-1224
+</cntfax>
+</cntinfo>
+</proccont>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Vector
+</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>Entity point
+</sdtstype>
+<ptvctcnt>56
+</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<planar>
+<gridsys>
+<gridsysn>Universal Transverse Mercator
+</gridsysn>
+<utm>
+<utmzone>18
+</utmzone>
+<transmer>
+<sfctrmer>0.999600
+</sfctrmer>
+<longcm>-75.000000
+</longcm>
+<latprjo>0.000000
+</latprjo>
+<feast>500000.000000
+</feast>
+<fnorth>0.000000
+</fnorth>
+</transmer>
+</utm>
+</gridsys>
+<planci>
+<plance>coordinate pair
+</plance>
+<coordrep>
+<absres>0.0000001
+</absres>
+<ordres>0.0000001
+</ordres>
+</coordrep>
+<plandu>meters
+</plandu>
+</planci>
+</planar>
+<geodetic>
+<horizdn>North American Datum of 1983
+</horizdn>
+<ellips>Geodetic Reference System 80
+</ellips>
+<semiaxis>6378137.000000
+</semiaxis>
+<denflat>298.257222
+</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>Ches_2002sedgrabs.dbf
+</enttypl>
+<enttypd>Database File
+</enttypd>
+<enttypds>none
+</enttypds>
+</enttyp>
+<attr>
+<attrlabl>FID
+</attrlabl>
+<attrdef>Internal feature number.
+</attrdef>
+<attrdefs>ESRI
+</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.
+</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Shape
+</attrlabl>
+<attrdef>Feature geometry.
+</attrdef>
+<attrdefs>ESRI
+</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.
+</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>SITE
+</attrlabl>
+<attrdef>Name of site.
+</attrdef>
+<attrdefs>NOAA Coastal Services Center
+</attrdefs>
+<attrdomv>
+<edom>
+<edomv>Catlett
+</edomv>
+<edomvd>Catlett Island
+</edomvd>
+<edomvds>NOAA Coastal Services Center
+</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>Goodwin
+</edomv>
+<edomvd>Goodwin Island
+</edomvd>
+<edomvds>NOAA Coastal Services Center
+</edomvds>
+</edom>
+</attrdomv>
+<begdatea>200210
+</begdatea>
+<enddatea>200210
+</enddatea>
+</attr>
+<attr>
+<attrlabl>STATION
+</attrlabl>
+<attrdef>Station identification number.
+</attrdef>
+<attrdefs>NOAA Coastal Services Center
+</attrdefs>
+<attrdomv>
+<udom>Letter and number combination to represent sample sites.
+</udom>
+</attrdomv>
+<begdatea>200210
+</begdatea>
+<enddatea>200210
+</enddatea>
+</attr>
+<attr>
+<attrlabl>YEAR
+</attrlabl>
+<attrdef>Year sampled.
+</attrdef>
+<attrdefs>NOAA Coastal Services Center
+</attrdefs>
+<attrdomv>
+<edom>
+<edomv>2003
+</edomv>
+<edomvd>Year sampled
+</edomvd>
+<edomvds>NOAA Coastal Services Center
+</edomvds>
+</edom>
+</attrdomv>
+<begdatea>200210
+</begdatea>
+<enddatea>200210
+</enddatea>
+</attr>
+<attr>
+<attrlabl>LATITUDE
+</attrlabl>
+<attrdef>Latitude in decimal degrees.
+</attrdef>
+<attrdefs>NOAA Coastal Services Center
+</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>37.20265
+</rdommin>
+<rdommax>37.30252
+</rdommax>
+</rdom>
+</attrdomv>
+<begdatea>200210
+</begdatea>
+<enddatea>200210
+</enddatea>
+</attr>
+<attr>
+<attrlabl>LONGITUDE
+</attrlabl>
+<attrdef>Longitude in decimal degrees.
+</attrdef>
+<attrdefs>NOAA Coastal Services Center
+</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>-76.578
+</rdommin>
+<rdommax>-76.37382
+</rdommax>
+</rdom>
+</attrdomv>
+<begdatea>200210
+</begdatea>
+<enddatea>200210
+</enddatea>
+</attr>
+<attr>
+<attrlabl>CLAY
+</attrlabl>
+<attrdef>Percent of particles smaller than 0.0039 mm (percent by mass of clay component).
+</attrdef>
+<attrdefs>NOAA Coastal Services Center.
+</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>0.555567902
+</rdommin>
+<rdommax>50.227218369
+</rdommax>
+</rdom>
+</attrdomv>
+<begdatea>200210
+</begdatea>
+<enddatea>200210
+</enddatea>
+</attr>
+<attr>
+<attrlabl>SILT
+</attrlabl>
+<attrdef>Percent of particles between 0.0039 mm and 0.0625 mm (percent by mass of silt component).
+</attrdef>
+<attrdefs>NOAA Coastal Services Center
+</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>0.16667037
+</rdommin>
+<rdommax>38.941042813
+</rdommax>
+</rdom>
+</attrdomv>
+<begdatea>200210
+</begdatea>
+<enddatea>200210
+</enddatea>
+</attr>
+<attr>
+<attrlabl>SAND
+</attrlabl>
+<attrdef>Percent of particles between 0.0625 mm and 2.00 mm (percent by mass of sand component).
+</attrdef>
+<attrdefs>NOAA Coastal Services Center
+</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>10.831738818
+</rdommin>
+<rdommax>99.277761728
+</rdommax>
+</rdom>
+</attrdomv>
+<begdatea>200210
+</begdatea>
+<enddatea>200210
+</enddatea>
+</attr>
+<attr>
+<attrlabl>GRAVEL
+</attrlabl>
+<attrdef>Percent of particles greater than 2.00 mm (percent by mass of gravel component).
+</attrdef>
+<attrdefs>NOAA Coastal Services Center
+</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>0
+</rdommin>
+<rdommax>74.609347043
+</rdommax>
+</rdom>
+</attrdomv>
+<begdatea>200210
+</begdatea>
+<enddatea>200210
+</enddatea>
+</attr>
+<attr>
+<attrlabl>MEAN
+</attrlabl>
+<attrdef>Average grain size (in phi units).
+</attrdef>
+<attrdefs>NOAA Coastal Services Center
+</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>1.4136
+</rdommin>
+<rdommax>3.3151
+</rdommax>
+</rdom>
+</attrdomv>
+<begdatea>200210
+</begdatea>
+<enddatea>200210
+</enddatea>
+</attr>
+<attr>
+<attrlabl>MEDIAN
+</attrlabl>
+<attrdef>Size class where 50 % are coarser and 50% are finer (in phi units).
+</attrdef>
+<attrdefs>NOAA Coastal Services Center
+</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>0.3134
+</rdommin>
+<rdommax>1.3026
+</rdommax>
+</rdom>
+</attrdomv>
+<begdatea>200210
+</begdatea>
+<enddatea>200210
+</enddatea>
+</attr>
+<attr>
+<attrlabl>MODE
+</attrlabl>
+<attrdef>Most frequent particle size (in phi units).
+</attrdef>
+<attrdefs>NOAA Coastal Services Center
+</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>-6.1666
+</rdommin>
+<rdommax>0.6269
+</rdommax>
+</rdom>
+</attrdomv>
+<begdatea>200210
+</begdatea>
+<enddatea>200210
+</enddatea>
+</attr>
+<attr>
+<attrlabl>KURTOSIS
+</attrlabl>
+<attrdef>"Peakedness" in a curve, explanation of values:  1.00=normal, greater than 1.00=leptokurtic or better sorted centrally vs. tails, less than 1.00=platykurtic or better sorted in tails (i.e., flat peaked).
+</attrdef>
+<attrdefs>NOAA Coastal Services Center
+</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>2.0531
+</rdommin>
+<rdommax>49.4853
+</rdommax>
+</rdom>
+</attrdomv>
+<begdatea>200210
+</begdatea>
+<enddatea>200210
+</enddatea>
+</attr>
+</detailed>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>NOAA Coastal Services Center
+</cntorg>
+</cntorgp>
+<cntpos>Clearinghouse Manager
+</cntpos>
+<cntaddr>
+<addrtype>mailing and physical
+</addrtype>
+<address>2234 South Hobson Avenue
+</address>
+<city>Charleston
+</city>
+<state>South Carolina
+</state>
+<postal>29405
+</postal>
+<country>U.S.A.
+</country>
+</cntaddr>
+<cntvoice>(843) 740-1200
+</cntvoice>
+<cntfax>(843) 740-1315
+</cntfax>
+<cntemail>clearinghouse@noaa.gov
+</cntemail>
+<hours>9 am to 5 pm, Eastern Standard Time
+</hours>
+</cntinfo>
+</distrib>
+<resdesc>Downloadable Data
+</resdesc>
+<distliab>While every effort has been made to ensure that these data are accurate and reliable within limits of the state of the art, NOAA will not assume any liability for damages caused by any inaccuracies in these data, or failure in their use.
+</distliab>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>shapefile
+</formname>
+<transize>0.037
+</transize>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>http://www.csc.noaa.gov/benthic/data/northeast/york.htm
+</networkr>
+</networka>
+</computer>
+</onlinopt>
+</digtopt>
+</digform>
+<fees>none
+</fees>
+</stdorder>
+</distinfo>
+<metainfo>
+<metd>20100519
+</metd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>NOAA Coastal Services Center
+</cntorg>
+<cntper>Metadata Specialist
+</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical
+</addrtype>
+<address>2234 South Hobson Avenue
+</address>
+<city>Charleston
+</city>
+<state>South Carolina
+</state>
+<postal>29405
+</postal>
+<country>U.S.A.
+</country>
+</cntaddr>
+<cntvoice>(843) 740-1200
+</cntvoice>
+<cntfax>(843) 740-1224
+</cntfax>
+<cntemail>clearinghouse@noaa.gov
+</cntemail>
+<hours>9 am to 5 pm, Eastern Standard Time
+</hours>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata
+</metstdn>
+<metstdv>FGDC-STD-001-1998
+</metstdv>
+<metextns>
+<onlink>http://www.ncddc.noaa.gov/metadataresource/metadata-references/files/ncddcmdprofile_v2.pdf
+</onlink>
+<metprof>Content Specification for Metadata in the National Coastal Data Development Center's Data Catalog Version 2.0
+</metprof>
+</metextns>
+</metainfo>
+</metadata>

@@ -1,0 +1,355 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Coastal Services Center (CSC)
+      Originator: Virginia Institute of Marine Science
+      Publication_Date: 20050831
+      Title: 2004 Sediment Grab Data for Catlett and Goodwin Islands on the York River, Chesapeake Bay, Virginia (Ches_2004sedgrabs)
+      Geospatial_Data_Presentation_Form: vector digital data
+      Publication_Information:
+        Publication_Place: Charleston, SC
+        Publisher: NOAA's Ocean Service, Coastal Services Center (CSC)
+      Online_Linkage: ftp://ftp.csc.noaa.gov/pub/benthic/chesapeakesedgrabs.zip
+      Online_Linkage: http://www.csc.noaa.gov/benthic/data/northeast/york.htm
+      Online_Linkage: http://www.csc.noaa.gov/benthic/
+      Online_Linkage: http://www.csc.noaa.gov/
+  Description:
+    Abstract: This data set represents the sediment grain size gathered from grab sampling in 2004 (12 stations). In Fall/Winter 2002, researchers from the Virginia Institute of Marine Science (VIMS) and the NOAA Coastal Services Center conducted a project to map benthic habitats by Catlett and Goodwin Islands on the York River, Chesapeake Bay, Virginia.  Sediment grab samples were collected at 56 stations and sediment profile images were collected at 200 stations.  Sampling areas were also surveyed using side scan sonar and multibeam bathymetry sensors.  Scientists from the Virginia Institute of Marine Sciences returned to sample a subset of the 2002 sediment grab data in 2003 and then again in 2004.  A subset of SPI stations (79) were revisited in 2004.
+    Purpose: VIMS and the NOAA Coastal Services Center are using the acoustic, grab, and SPI information (collected in 2002, 2003, and 2004) to characterize benthic habitats by Catlett and Goodwin Islands on the York River, and to examine relationships between animal communities and sediment characteristics.  Grain size was measured from the sediment grab samples.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 200405
+    Currentness_Reference: ground condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -76.5697
+      East_Bounding_Coordinate: -76.3738
+      North_Bounding_Coordinate: 37.2971
+      South_Bounding_Coordinate: 37.2039
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Environmental Monitoring
+      Theme_Keyword: Sediment
+      Theme_Keyword: Sediment grab
+      Theme_Keyword: geographic information systems
+      Theme_Keyword: GIS
+      Theme_Keyword: Clay
+      Theme_Keyword: Silt
+      Theme_Keyword: Gravel
+      Theme_Keyword: Sand
+      Theme_Keyword: CSC Benthic Habitat Mapping
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: environment
+      Theme_Keyword: biota
+    Place:
+      Place_Keyword_Thesaurus: none
+      Place_Keyword: Virginia
+      Place_Keyword: Chesapeake Bay
+      Place_Keyword: York River
+      Place_Keyword: Catlett Island
+      Place_Keyword: Goodwin Island
+  Access_Constraints: None
+  Use_Constraints: These data should be used for resource mapping and comparison purposes only.  While every effort has been made to ensure that these data are accurate and reliable within limits of the state of the art, NOAA will not assume any liability for damages caused by any inaccuracies in these data, or failure in their use.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: NOAA Coastal Services Center
+      Contact_Position: CRS Program Manager
+      Contact_Address:
+        Address_Type: mailing and physical
+        Address: 2234 South Hobson Avenue
+        City: Charleston
+        State_or_Province: South Carolina
+        Postal_Code: 29405
+        Country: U.S.A.
+      Contact_Voice_Telephone: (843) 740-1200
+      Contact_Facsimile_Telephone: (843) 740-1224
+  Native_Data_Set_Environment: Microsoft Windows 2000 Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 8.3.0.800
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: Values were checked against hard copy data sheets collected in the field.
+  Logical_Consistency_Report: All data are believed to be logically consistent.
+  Completeness_Report: All grab data were not included in this data layer.  Percent values of sand, silt, clay, gravel, and statistical analyses were included in this data layer.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: Stations were located in the field using a differential Global Positioning System (GPS), and station coordinates, date and time of day were recorded upon arrival at each station.
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: Not relevant to data set.
+  Lineage:
+    Process_Step:
+      Process_Description: Field Methods: Grabs for sediments and benthos were collected in May 2004 at a total of 12 stations.  A Young grab, 0.044 m2 surface area, was deployed twice to collect a sample for substrate and a sample for benthic community data.  The Young grab is the same sampler used by EPA in its Environmental Monitoring and Assessment Program (EMAP) and Mid-Atlantic Integrated Assessment (MAIA) programs.  The Young grab is similar to a van Veen grab that has been placed in a frame to hold it level with the sediment surface while a sample is collected.  Grabs without frames tend to twist and collect uneven samples.  Because of its frame, the Young grab functions well in both soft and hard sediment.Laboratory Methods: From the sediment grab, one sediment subsamples of about 50 g was taken, for sediment grain-size analysis.  Samples were placed on ice in the field and frozen in the laboratory until they were analyzed.  Sediment grain-size distributions and sand fraction distributions were determined (by Virginia Institute of Marine Science (VIMS) Analytical Services Laboratory, Gloucester Pt., VA).  Grain-size distributions were determined using wet sieve techniques for fines and sand size fractions were measured using a Rapid Sediment Analyzer.
+      Process_Date: 20050130
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Virginia Institute of Marine Sciences
+          Contact_Position: Analytical Services Lab
+          Contact_Address:
+            Address_Type: mailing and physical
+            Address: P.O. Box 1346 (for regular mailing)
+            Address: Rt. 1208, Greate Road (for shipping)
+            City: Gloucester Point
+            State_or_Province: Virginia
+            Postal_Code: 23062-1346
+            Country: U.S.A.
+          Contact_Voice_Telephone: (804) 684-7000
+          Contact_Facsimile_Telephone: (804) 684-7907
+    Process_Step:
+      Process_Description: Data from field samples was entered into an Access database for the York River, Chesapeake Bay benthic sediment survey.  A query was developed to review sediment data from all grab sampling stations.  A shapefile was created using the field data in the Access database to show spatial trends in sediment distribution in the York River at Catlett and Goodwin Islands.
+      Process_Date: 20050318
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: NOAA Coastal Services Center
+          Contact_Position: CRS Program Manager
+          Contact_Address:
+            Address_Type: mailing and physical
+            Address: 2234 South Hobson Avenue
+            City: Charleston
+            State_or_Province: South Carolina
+            Postal_Code: 29466
+            Country: U.S.A.
+          Contact_Voice_Telephone: (843) 740-1200
+          Contact_Facsimile_Telephone: (843) 740-1224
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Entity point
+      Point_and_Vector_Object_Count: 12
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Grid_Coordinate_System:
+        Grid_Coordinate_System_Name: Universal Transverse Mercator
+        Universal_Transverse_Mercator:
+          UTM_Zone_Number: 18
+          Transverse_Mercator:
+            Scale_Factor_at_Central_Meridian: 0.999600
+            Longitude_of_Central_Meridian: -75.000000
+            Latitude_of_Projection_Origin: 0.000000
+            False_Easting: 500000.000000
+            False_Northing: 0.000000
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: coordinate pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 0.0000001
+          Ordinate_Resolution: 0.0000001
+        Planar_Distance_Units: meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Ches_2004sedgrabs.dbf
+      Entity_Type_Definition: Database File
+      Entity_Type_Definition_Source: none
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: SITE
+      Attribute_Definition: Name of site.
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Catlett
+          Enumerated_Domain_Value_Definition: Catlett Island
+          Enumerated_Domain_Value_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Goodwin
+          Enumerated_Domain_Value_Definition: Goodwin Island
+          Enumerated_Domain_Value_Definition_Source: NOAA Coastal Services Center
+      Beginning_Date_of_Attribute_Values: 200405
+      Ending_Date_of_Attribute_Values: 200405
+    Attribute:
+      Attribute_Label: STATION
+      Attribute_Definition: Station identification number.
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Letter and number combination to represent sample sites.
+      Beginning_Date_of_Attribute_Values: 200405
+      Ending_Date_of_Attribute_Values: 200405
+    Attribute:
+      Attribute_Label: YEAR
+      Attribute_Definition: Year sampled.
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 2003
+          Enumerated_Domain_Value_Definition: Year sampled
+          Enumerated_Domain_Value_Definition_Source: NOAA Coastal Services Center
+      Beginning_Date_of_Attribute_Values: 200405
+      Ending_Date_of_Attribute_Values: 200405
+    Attribute:
+      Attribute_Label: LATITUDE
+      Attribute_Definition: Latitude in decimal degrees.
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 37.20265
+          Range_Domain_Maximum: 37.30252
+      Beginning_Date_of_Attribute_Values: 200405
+      Ending_Date_of_Attribute_Values: 200405
+    Attribute:
+      Attribute_Label: LONGITUDE
+      Attribute_Definition: Longitude in decimal degrees.
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -76.578
+          Range_Domain_Maximum: -76.37382
+      Beginning_Date_of_Attribute_Values: 200405
+      Ending_Date_of_Attribute_Values: 200405
+    Attribute:
+      Attribute_Label: CLAY
+      Attribute_Definition: Percent of particles smaller than 0.0039 mm (percent by mass of clay component).
+      Attribute_Definition_Source: NOAA Coastal Services Center.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.555567902
+          Range_Domain_Maximum: 50.227218369
+      Beginning_Date_of_Attribute_Values: 200405
+      Ending_Date_of_Attribute_Values: 200405
+    Attribute:
+      Attribute_Label: SILT
+      Attribute_Definition: Percent of particles between 0.0039 mm and 0.0625 mm (percent by mass of silt component).
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.16667037
+          Range_Domain_Maximum: 38.941042813
+      Beginning_Date_of_Attribute_Values: 200405
+      Ending_Date_of_Attribute_Values: 200405
+    Attribute:
+      Attribute_Label: SAND
+      Attribute_Definition: Percent of particles between 0.0625 mm and 2.00 mm (percent by mass of sand component).
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 10.831738818
+          Range_Domain_Maximum: 99.277761728
+      Beginning_Date_of_Attribute_Values: 200405
+      Ending_Date_of_Attribute_Values: 200405
+    Attribute:
+      Attribute_Label: GRAVEL
+      Attribute_Definition: Percent of particles greater than 2.00 mm (percent by mass of gravel component).
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 74.609347043
+      Beginning_Date_of_Attribute_Values: 200405
+      Ending_Date_of_Attribute_Values: 200405
+    Attribute:
+      Attribute_Label: MEAN
+      Attribute_Definition: Average grain size (in phi units).
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1.4136
+          Range_Domain_Maximum: 3.3151
+      Beginning_Date_of_Attribute_Values: 200405
+      Ending_Date_of_Attribute_Values: 200405
+    Attribute:
+      Attribute_Label: MEDIAN
+      Attribute_Definition: Size class where 50 % are coarser and 50% are finer (in phi units).
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.3134
+          Range_Domain_Maximum: 1.3026
+      Beginning_Date_of_Attribute_Values: 200405
+      Ending_Date_of_Attribute_Values: 200405
+    Attribute:
+      Attribute_Label: MODE
+      Attribute_Definition: Most frequent particle size (in phi units).
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -6.1666
+          Range_Domain_Maximum: 0.6269
+      Beginning_Date_of_Attribute_Values: 200405
+      Ending_Date_of_Attribute_Values: 200405
+    Attribute:
+      Attribute_Label: KURTOSIS
+      Attribute_Definition: "Peakedness" in a curve, explanation of values:  1.00=normal, greater than 1.00=leptokurtic or better sorted centrally vs. tails, less than 1.00=platykurtic or better sorted in tails (i.e., flat peaked).
+      Attribute_Definition_Source: NOAA Coastal Services Center
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 2.0531
+          Range_Domain_Maximum: 49.4853
+      Beginning_Date_of_Attribute_Values: 200405
+      Ending_Date_of_Attribute_Values: 200405
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: NOAA Coastal Services Center
+      Contact_Position: Clearinghouse Manager
+      Contact_Address:
+        Address_Type: mailing and physical
+        Address: 2234 South Hobson Avenue
+        City: Charleston
+        State_or_Province: South Carolina
+        Postal_Code: 29405
+        Country: U.S.A.
+      Contact_Voice_Telephone: (843) 740-1200
+      Contact_Facsimile_Telephone: (843) 740-1315
+      Contact_Electronic_Mail_Address: clearinghouse@noaa.gov
+      Hours_of_Service: 9 am to 5 pm, Eastern Standard Time
+  Resource_Description: Downloadable Data
+  Distribution_Liability: While every effort has been made to ensure that these data are accurate and reliable within limits of the state of the art, NOAA will not assume any liability for damages caused by any inaccuracies in these data, or failure in their use.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: shapefile
+        Transfer_Size: 0.025
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://www.csc.noaa.gov/benthic/data/northeast/york.htm
+    Fees: none
+Metadata_Reference_Information:
+  Metadata_Date: 20100519
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: NOAA Coastal Services Center
+        Contact_Person: Metadata Specialist
+      Contact_Address:
+        Address_Type: mailing and physical
+        Address: 2234 South Hobson Avenue
+        City: Charleston
+        State_or_Province: South Carolina
+        Postal_Code: 29405
+        Country: U.S.A.
+      Contact_Voice_Telephone: (843) 740-1200
+      Contact_Facsimile_Telephone: (843) 740-1224
+      Contact_Electronic_Mail_Address: clearinghouse@noaa.gov
+      Hours_of_Service: 9 am to 5 pm, Eastern Standard Time
+  Metadata_Standard_Name: FGDC Content Standard for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Extensions:
+    Online_Linkage: http://www.ncddc.noaa.gov/metadataresource/metadata-references/files/ncddcmdprofile_v2.pdf
+    Profile_Name: Content Specification for Metadata in the National Coastal Data Development Center's Data Catalog Version 2.0
