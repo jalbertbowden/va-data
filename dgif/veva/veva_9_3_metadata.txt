@@ -1,0 +1,289 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: VCU-CES, VA DGIF, VA DCR, VIMS CCM
+      Publication_Date: February 2011
+      Title: Virginia Ecological Value Assessment
+      Geospatial_Data_Presentation_Form: vector digital data
+      Online_Linkage: http://www.dgif.virginia.gov/gis/gis-data.asp
+  Description:
+    Abstract: The Virginia Ecological Value Assessment (VEVA) integrates elements of the Priority Conservation Areas dataset, Healthy Waters data and VIMS Center for Coastal Resource Management Cumulative Resource Inventory.  VEVA delineates priority conservation areas ranked by level of importance based on VA Dept. of Game and Inland Fisheries' Priority Wildlife Diversity Conservation Areas, VA Dept of Conservation and Recreation Division of Natural Heritage Conservation Sites Layer (CSL) and Natural Lands Network (NLN), VCU Center for Environmental Studies aquatic resource integrity layer and VIMS College of William and Mary Center for Coastal Resource Management Cumulative Resource Assessment.  The Virginia Ecological Value Assessment builds on the definition of the Priority Conservation Areas and are defined as lands, aquatic resources and surface waters indentified as important for conservation of Virginia's wildlife, plants, and aquatic and natural communities.  The identified lands, aquatic resources and waters can be used to prioritize areas for preservation, protection or specific management action.
+    Purpose: This dataset was developed to synthesize important natural resource information in one geospatial layer for natural resource management, land use management and awareness.  This dataset is intended to guide conservation planning and efforts.
+    Supplemental_Information: This dataset is not intended to replace on the ground surveys or consultations with biologists as appropriate.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 2000
+        Ending_Date: 2011
+    Currentness_Reference: ground condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -77.985729
+      East_Bounding_Coordinate: -75.183218
+      North_Bounding_Coordinate: 39.067275
+      South_Bounding_Coordinate: 36.505707
+  Keywords:
+    Theme:
+      Theme_Keyword: Ecological Value
+      Theme_Keyword: Conservation Planning
+      Theme_Keyword: Aquatic Integrity
+      Theme_Keyword: Wildlife Diversity
+    Place:
+      Place_Keyword: Virginia
+      Place_Keyword: Coastal Zone
+  Access_Constraints: NA
+  Use_Constraints: NA
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Jason Bulluck
+        Contact_Organization: VA Department of Conservation and Recreation Division of Natural Heritage
+      Contact_Position: Information Manager
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 217 Governor Street
+        City: Richmond
+        State_or_Province: VA
+        Postal_Code: 23219
+        Country: USA
+      Contact_Voice_Telephone: (804)786-8377
+      Contact_Facsimile_Telephone: (804)  371-2674
+      Contact_Electronic_Mail_Address: jason.bulluck@dcr.virginia.gov
+      Hours_of_Service: 8:30 AM - 4:30 PM EST
+  Data_Set_Credit: Virginia Commonwealth University Center for Environmental Studies, Virginia Department of Game and Inland Fisheries, Virginia Department of Conservation and Recreation, VIMS Center for Coastal Resources Management
+  Security_Information:
+    Security_Classification: Unclassified
+  Native_Data_Set_Environment: Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3000
+Data_Quality_Information:
+  Logical_Consistency_Report: This dataset was validated by in-house biologists and GIS specialists within DGIF, DCR, CCM and VCU CES.  While considered accurate, this dataset is not intended to replace on the ground surveys by valid personnel.
+  Completeness_Report: All pertinent datasets are considered complete and included in the dataset.
+  Lineage:
+    Process_Step:
+      Process_Description: Virginia DCR-DNH prepared two data layers from data in the Natural Heritage Plan to contribute to the PCA compilation.  For the PCA, DCR-DNH prepared data layers derived from DCR-DNH Conservation Sites (Conservation Sites ranked by B-rank; fine filter) and the Virginia Natural Landscape Assessment (VaNLA) (Virginia Natural Land Network; coarse filter).
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Jason Bulluck
+            Contact_Organization: VA Department of Conservation and Recreation Division of Natural Heritage
+          Contact_Position: Information Manager
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 217 Governor Street
+            City: Richmond
+            State_or_Province: VA
+            Postal_Code: USA
+            Country: 23219
+          Contact_Voice_Telephone: (804)786-8377
+          Contact_Electronic_Mail_Address: jason.bulluck@dcr.virginia.gov
+    Process_Step:
+      Process_Description:
+        The DGIF maintains several GIS datasets showing the location of important wildlife features.  However, DGIF has never produced a map showing how these features should be prioritized and conserved.  While, as part of the Wildlife Action Plan, the DGIF mapped habitats of over 250 species of greatest conservation need (Tiered Habitat), these do not include any protective buffer around habitats.  Furthermore, there are general conservation actions included in the Wildlife Action Plan that benefit multiple species that had not been mapped. Therefore, it was necessary to create a new GIS dataset to compile wildlife conservation areas.  This dataset was called Priority Wildlife Diversity Conservation Areas or PWDCA.  The term diversity was included to reinforce the wildlife diversity or nongame wildlife conservation focus.  
+        	The first step was to determine appropriate existing GIS datasets that represent conservation opportunities.  These datasets included: Anadromous Fish Use Waters, Colonial Waterbird Database, and Audubon Important Bird Areas.  The DGIF's Coldwater Stream Survey dataset was also considered, but is primarily outside of the Coastal Zone.  
+        The next step was to gather "mappable" conservation actions outlined in the Wildlife Action Plan.   There were four explicit conservation actions that could be mapped:
+        1.	Acquire or protect needed habitats. 	The DGIF mapped the habitats of over 250 species of greatest conservation need within the top two tiers of imperilment plus any state or federally listed species in a lower tier.  These are called DGIF's Tiered Species Habitat.  While this doesn't include the habitats needed to conserve all species of greatest conservation need, it does include a major portion of the most critically imperiled species.  
+        2.	Protect large blocks of contiguous habitat.  The DCR-DNH identified cores of natural land cover within the Ecological Model of their VCLNA.  These cores and related features represent contiguous or unfragmented habitat.  These are also referred to as the VaNLA cores.
+        3.	Create forest or upland buffers around marshes and protect wooded wetlands.  Wetlands are identified in the U.S. Fish and Wildlife Service's (USFWS) National Wetlands Inventory.  Buffers can be created in GIS to identify buffers around these features.
+        4.	Protect and establish riparian buffers.  GIS data on streams can be buffered to delineate appropriate stream buffers.  The best available stream data are the National Hydrography Dataset from U.S. Geological Survey (USGS).
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Kendell Ryan
+            Contact_Organization: VA Department of Game and Inland Fisheries
+          Contact_Position: GIS Coordinator
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 4010 West Broad Street
+            City: Richmond
+            State_or_Province: VA
+            Postal_Code: 23230
+            Country: USA
+          Contact_Voice_Telephone: (804) 367-0068
+          Contact_Facsimile_Telephone: (804) 367-2427
+          Contact_Electronic_Mail_Address: kendell.ryan@dgif.virginia.gov
+          Hours_of_Service: 8:30 - 5:30 EST
+    Process_Step:
+      Process_Description:
+        VCU - Aquatic Resource Integrity Layer was created by Virginia Commonwealth University Center for Environmental Studies (VCU-CES) to aid in the characterization of stream health in the Commonwealth.  This layer is a combination of both a local scale assessment and a watershed based approach to stream health.  The assessment was aided by the Interactive Stream Assessment Resource (INSTAR).  
+        Stream Reach Assessment:
+        Within each geo-referenced stream reach (150-200 m, depending on stream width), fishes, macroinvertebrates, and stream habitat data are collected.  Data are compiled into databases and application macros calculate over 50 separate ecological metrics, including those typically generated for Index of Biotic Integrity (IBI) and Rapid Bioassessment Protocol (RBP) assessments.  INSTAR evaluates the ecological health of stream reaches based on percent comparability of empirical data to the appropriate (e.g., basin, stream order) reference model. Stream health is calculated and placed in four categories: Exceptional, Healthy, Restoration Potential, and Compromised.  
+        In addition to extensive stream community data collected by VCU biologists for INSTAR, appropriate data from other sources (e.g., agencies, universities) are screened for inclusion in the database, based on stringent QA criteria.
+        MIBI Watershed Assessment:
+        Watershed assessments include a broader range of validated qualitative (e.g., species lists) biotic data from various sources, including state and federal agencies. These data are used to generate watershed health using six metrics or variables for the Commonwealth's 1275 6th-order watersheds. Watershed health is calculated and placed in four categories: Exceptional, Healthy, Restoration Potential, and Compromised.  
+        Layer creation:
+        All 1:24,000 hydrology lines in the Commonwealth were rasterized to 30m pixels and the watershed health score was attributed on each pixel that was inside a watershed.  The stream reaches were buffered and rasterized.
+        The healthy INSTAR sites were queried from the INSTAR database (where VSS >= 70).  At each site, a watershed was generated using the Hydrologic Tools in Spatial Analyst.  Each watershed was attributed with the VSS score of the watershed's pour point (the INSTAR site the watershed was generated for).
+        The buffered NHD data were attributed with the healthy waters watershed rank of 5 for Exceptional or 4 for Healthy where data exist.
+        The Aquatic Resource Integrity Layer was then created by merging the healthy waters watershed assessment with the MIBI watershed assessment layer.  A Mosaic operation using the last option, setting the reach raster to last and taking those values and imposing them on the raster for the watershed values so the end result was a rasterized hydrology layer that had watershed health and healthy waters watershed health scores combined.
+      Process_Date: 2011
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Jennifer Ciminelli
+            Contact_Organization: Virginia Commonwealth University Center for Environmental Studies
+          Contact_Position: Environmental Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 1000 W. Cary St.
+            Address: P.O. Box 843050
+            City: Richmond
+            State_or_Province: VA
+            Postal_Code: 23284
+            Country: USA
+          Contact_Voice_Telephone: (804) 827-0110
+          Contact_Facsimile_Telephone: (804) 828-1622
+          Contact_Electronic_Mail_Address: s2jmcimi@vcu.edu
+          Hours_of_Service: 8:30 - 5:30 EST
+    Process_Step:
+      Process_Description:
+        Cumulative Resource Assessment (CRA) were obtained from VIMS.  The CRA layers are a subset of the Aquatic Priority Conservation Areas developed by VIMs.  The data layers used in the CRA were shellfish suitability, reef restoration sites, oyster reefs, artificial fishing reef, seed areas, aquaculture sites, turtle nest, sav beds, regulated areas.  Data were projected to Virginia Lambert NAD 1983 and resampled to 100 meter cell sizes.  Class values were assigned to the rasters.  
+        Using the ArcMap® tool set "Mosaic to New Raster Tool (Mosaic Method: Maximum)" rasters were superimposed and combined by cell (100m cell size).   Using this technique, the output raster retains the maximum cell value on each overlapping cell.  Therefore an area with only two resources that score a value of 3 each are not outweighed by an areas with 4 resources with values of 1 each.
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Marcia Berman
+            Contact_Organization: VIMS Center for Coastal Resource Management Comprehensive Coastal Inventory Program
+          Contact_Position: Program Manager
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: P.O. Box 1346
+            Address: Rt. 1208 Greate Road
+            City: Gloucester Point
+            State_or_Province: VA
+            Postal_Code: 23062
+            Country: USA
+          Contact_Voice_Telephone: (804) 684-7188
+          Contact_Electronic_Mail_Address: marcia@vims.edu
+          Hours_of_Service: 8:30 - 5:30 EST
+    Process_Step:
+      Process_Description: All input datasets were combined using cell statistics, where the maximum value cell was output to create the final VEVA layer.
+      Process_Date: February 2011
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Jennifer Ciminelli
+            Contact_Organization: VCU Center for Environmental Studies
+          Contact_Position: Environmental Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 1000 W. Cary St.
+            Address: P.O. Box 843050
+            City: Richmond
+            State_or_Province: VA
+            Postal_Code: 23284
+            Country: USA
+          Contact_Voice_Telephone: (804) 827-0110
+          Contact_Electronic_Mail_Address: s2jmcimi@vcu.edu
+          Hours_of_Service: 8:30 - 5:30 EST
+    Process_Step:
+      Process_Description: Dataset copied.
+      Source_Used_Citation_Abbreviation: C:\projects\CZMSustainableComm\finaldeliverables\data\veva
+      Process_Date: 20110527
+      Process_Time: 15212000
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: G-polygon
+      Point_and_Vector_Object_Count: 78535
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Map_Projection:
+        Map_Projection_Name: Lambert Conformal Conic
+        Lambert_Conformal_Conic:
+          Standard_Parallel: 37.000000
+          Standard_Parallel: 39.500000
+          Longitude_of_Central_Meridian: -79.500000
+          Latitude_of_Projection_Origin: 36.000000
+          False_Easting: 0.000000
+          False_Northing: 0.000000
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: coordinate pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 0.000000
+          Ordinate_Resolution: 0.000000
+        Planar_Distance_Units: meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: veva
+      Entity_Type_Definition: Coastal Virginia Ecological Value Assessment
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: RANK
+      Attribute_Definition: Priority conservation rank
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: General ecological value.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 2
+          Enumerated_Domain_Value_Definition: Moderate ecological value.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 3
+          Enumerated_Domain_Value_Definition: High ecological value.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 4
+          Enumerated_Domain_Value_Definition: Very high ecological value.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 5
+          Enumerated_Domain_Value_Definition: Outstanding ecological value.
+    Attribute:
+      Attribute_Label: TableID
+      Attribute_Definition: Identification number to join VEVA Input Layer Properties table.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Unique sequential ID.
+Distribution_Information:
+  Resource_Description: Downloadable Data
+  Distribution_Liability: Although data are considered accurate, no warranty, expressed or implied, is made by the creators of this dataset (VA-DGIF, VA-DCR, VCU CES, VIMS CCM).
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Transfer_Size: 23.912
+Metadata_Reference_Information:
+  Metadata_Date: 20110610
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: VCU Center for Environmental Studies
+        Contact_Person: Jennifer Ciminelli
+      Contact_Position: Environmental Specialist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 1000 W. Cary St.
+        Address: P.O. Box 843050
+        City: Richmond
+        State_or_Province: VA
+        Postal_Code: 23284
+        Country: USA
+      Contact_Voice_Telephone: (804) 827 -0110
+      Contact_Facsimile_Telephone: (804) 828-1622
+      Contact_Electronic_Mail_Address: s2jmcimi@vcu.edu
+      Hours_of_Service: 8:30 AM - 5:30 PM EST
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Access_Constraints: NA
+  Metadata_Use_Constraints: NA
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile
