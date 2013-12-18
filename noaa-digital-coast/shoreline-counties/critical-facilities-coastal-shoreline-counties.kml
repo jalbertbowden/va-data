@@ -1,0 +1,2265 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+<name>01003</name>
+<description>Baldwin, AL</description>
+<Point><coordinates>1589.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>01097</name>
+<description>Mobile, AL</description>
+<Point><coordinates>1229.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>02013</name>
+<description>Aleutians East, AK</description>
+<Point><coordinates>6981.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>02016</name>
+<description>Aleutians West, AK</description>
+<Point><coordinates>4390.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>02020</name>
+<description>Anchorage, AK</description>
+<Point><coordinates>1704.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>02050</name>
+<description>Bethel, AK</description>
+<Point><coordinates>40570,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>02060</name>
+<description>Bristol Bay, AK</description>
+<Point><coordinates>503.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>02070</name>
+<description>Dillingham, AK</description>
+<Point><coordinates>18568.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>02100</name>
+<description>Haines, AK</description>
+<Point><coordinates>2318.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>02105</name>
+<description>Hoonah-Angoon Census Area, AK</description>
+<Point><coordinates>7524.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>02110</name>
+<description>Juneau, AK</description>
+<Point><coordinates>2701.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>02122</name>
+<description>Kenai Peninsula, AK</description>
+<Point><coordinates>16075.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>02130</name>
+<description>Ketchikan Gateway, AK</description>
+<Point><coordinates>4858.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>02150</name>
+<description>Kodiak Island, AK</description>
+<Point><coordinates>6549.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>02164</name>
+<description>Lake and Peninsula, AK</description>
+<Point><coordinates>23652,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>02170</name>
+<description>Matanuska-Susitna, AK</description>
+<Point><coordinates>24607.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>02180</name>
+<description>Nome, AK</description>
+<Point><coordinates>22961.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>02185</name>
+<description>North Slope, AK</description>
+<Point><coordinates>88695.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>02188</name>
+<description>Northwest Arctic, AK</description>
+<Point><coordinates>35572.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>02195</name>
+<description>Petersburg Census Area, AK</description>
+<Point><coordinates>3282,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>02198</name>
+<description>Prince of Wales-Hyder Census Area</description>
+<Point><coordinates>3922.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>02220</name>
+<description>Sitka, AK</description>
+<Point><coordinates>2870.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>02230</name>
+<description>Skagway Municipality, AK</description>
+<Point><coordinates>452.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>02261</name>
+<description>Valdez-Cordova, AK</description>
+<Point><coordinates>34239.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>02270</name>
+<description>Wade Hampton, AK</description>
+<Point><coordinates>17081.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>02275</name>
+<description>Wrangell City and Borough, AK</description>
+<Point><coordinates>2541.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>02282</name>
+<description>Yakutat, AK</description>
+<Point><coordinates>7649.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>06001</name>
+<description>Alameda, CA</description>
+<Point><coordinates>739,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>06013</name>
+<description>Contra Costa, CA</description>
+<Point><coordinates>715.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>06015</name>
+<description>Del Norte, CA</description>
+<Point><coordinates>1006.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>06023</name>
+<description>Humboldt, CA</description>
+<Point><coordinates>3568,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>06037</name>
+<description>Los Angeles, CA</description>
+<Point><coordinates>4057.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>06041</name>
+<description>Marin, CA</description>
+<Point><coordinates>520.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>06045</name>
+<description>Mendocino, CA</description>
+<Point><coordinates>3506.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>06053</name>
+<description>Monterey, CA</description>
+<Point><coordinates>3280.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>06055</name>
+<description>Napa, CA</description>
+<Point><coordinates>748.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>06059</name>
+<description>Orange, CA</description>
+<Point><coordinates>790.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>06073</name>
+<description>San Diego, CA</description>
+<Point><coordinates>4206.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>06075</name>
+<description>San Francisco, CA</description>
+<Point><coordinates>46.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>06079</name>
+<description>San Luis Obispo, CA</description>
+<Point><coordinates>3298.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>06081</name>
+<description>San Mateo, CA</description>
+<Point><coordinates>448.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>06083</name>
+<description>Santa Barbara, CA</description>
+<Point><coordinates>2735.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>06085</name>
+<description>Santa Clara, CA</description>
+<Point><coordinates>1290.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>06087</name>
+<description>Santa Cruz, CA</description>
+<Point><coordinates>445.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>06095</name>
+<description>Solano, CA</description>
+<Point><coordinates>821.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>06097</name>
+<description>Sonoma, CA</description>
+<Point><coordinates>1575.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>06111</name>
+<description>Ventura, CA</description>
+<Point><coordinates>1843.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>09001</name>
+<description>Fairfield, CT</description>
+<Point><coordinates>624.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>09007</name>
+<description>Middlesex, CT</description>
+<Point><coordinates>369.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>09009</name>
+<description>New Haven, CT</description>
+<Point><coordinates>604.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>09011</name>
+<description>New London, CT</description>
+<Point><coordinates>664.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>10001</name>
+<description>Kent, DE</description>
+<Point><coordinates>586.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>10003</name>
+<description>New Castle, DE</description>
+<Point><coordinates>426.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>10005</name>
+<description>Sussex, DE</description>
+<Point><coordinates>936.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>11001</name>
+<description>District of Columbia</description>
+<Point><coordinates>61,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12005</name>
+<description>Bay, FL</description>
+<Point><coordinates>758.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12009</name>
+<description>Brevard, FL</description>
+<Point><coordinates>1015.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12011</name>
+<description>Broward, FL</description>
+<Point><coordinates>1209.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12015</name>
+<description>Charlotte, FL</description>
+<Point><coordinates>680.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12017</name>
+<description>Citrus, FL</description>
+<Point><coordinates>581.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12019</name>
+<description>Clay, FL</description>
+<Point><coordinates>604.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12021</name>
+<description>Collier, FL</description>
+<Point><coordinates>1998.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12029</name>
+<description>Dixie, FL</description>
+<Point><coordinates>705.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12031</name>
+<description>Duval, FL</description>
+<Point><coordinates>762.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12033</name>
+<description>Escambia, FL</description>
+<Point><coordinates>656.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12035</name>
+<description>Flagler, FL</description>
+<Point><coordinates>485.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12037</name>
+<description>Franklin, FL</description>
+<Point><coordinates>534.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12045</name>
+<description>Gulf, FL</description>
+<Point><coordinates>564,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12053</name>
+<description>Hernando, FL</description>
+<Point><coordinates>472.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12057</name>
+<description>Hillsborough, FL</description>
+<Point><coordinates>1020.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12061</name>
+<description>Indian River, FL</description>
+<Point><coordinates>502.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12065</name>
+<description>Jefferson, FL</description>
+<Point><coordinates>598.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12071</name>
+<description>Lee, FL</description>
+<Point><coordinates>784.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12075</name>
+<description>Levy, FL</description>
+<Point><coordinates>1118.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12077</name>
+<description>Liberty, FL</description>
+<Point><coordinates>835.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12081</name>
+<description>Manatee, FL</description>
+<Point><coordinates>742.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12085</name>
+<description>Martin, FL</description>
+<Point><coordinates>543.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12086</name>
+<description>Miami-Dade, FL</description>
+<Point><coordinates>1897.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12087</name>
+<description>Monroe, FL</description>
+<Point><coordinates>983.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12089</name>
+<description>Nassau, FL</description>
+<Point><coordinates>648.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12091</name>
+<description>Okaloosa, FL</description>
+<Point><coordinates>930.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12099</name>
+<description>Palm Beach, FL</description>
+<Point><coordinates>1969.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12101</name>
+<description>Pasco, FL</description>
+<Point><coordinates>746.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12103</name>
+<description>Pinellas, FL</description>
+<Point><coordinates>273.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12107</name>
+<description>Putnam, FL</description>
+<Point><coordinates>727.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12109</name>
+<description>St. Johns, FL</description>
+<Point><coordinates>600.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12111</name>
+<description>St. Lucie, FL</description>
+<Point><coordinates>571.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12113</name>
+<description>Santa Rosa, FL</description>
+<Point><coordinates>1011.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12115</name>
+<description>Sarasota, FL</description>
+<Point><coordinates>555.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12123</name>
+<description>Taylor, FL</description>
+<Point><coordinates>1043.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12127</name>
+<description>Volusia, FL</description>
+<Point><coordinates>1101,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12129</name>
+<description>Wakulla, FL</description>
+<Point><coordinates>606.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>12131</name>
+<description>Walton, FL</description>
+<Point><coordinates>1037.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>13025</name>
+<description>Brantley, GA</description>
+<Point><coordinates>442.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>13029</name>
+<description>Bryan, GA</description>
+<Point><coordinates>436,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>13039</name>
+<description>Camden, GA</description>
+<Point><coordinates>613,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>13049</name>
+<description>Charlton, GA</description>
+<Point><coordinates>773.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>13051</name>
+<description>Chatham, GA</description>
+<Point><coordinates>426.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>13127</name>
+<description>Glynn, GA</description>
+<Point><coordinates>419.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>13179</name>
+<description>Liberty, GA</description>
+<Point><coordinates>489.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>13191</name>
+<description>McIntosh, GA</description>
+<Point><coordinates>424.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>13305</name>
+<description>Wayne, GA</description>
+<Point><coordinates>641.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>15001</name>
+<description>Hawaii, HI</description>
+<Point><coordinates>4028.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>15003</name>
+<description>Honolulu, HI</description>
+<Point><coordinates>600.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>15005</name>
+<description>Kalawao, HI</description>
+<Point><coordinates>12,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>15007</name>
+<description>Kauai, HI</description>
+<Point><coordinates>620,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>15009</name>
+<description>Maui, HI</description>
+<Point><coordinates>1161.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>17031</name>
+<description>Cook, IL</description>
+<Point><coordinates>945.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>17097</name>
+<description>Lake, IL</description>
+<Point><coordinates>443.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>18089</name>
+<description>Lake, IN</description>
+<Point><coordinates>499,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>18091</name>
+<description>LaPorte, IN</description>
+<Point><coordinates>598.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>18127</name>
+<description>Porter, IN</description>
+<Point><coordinates>418.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>22005</name>
+<description>Ascension, LA</description>
+<Point><coordinates>290,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>22007</name>
+<description>Assumption, LA</description>
+<Point><coordinates>338.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>22019</name>
+<description>Calcasieu, LA</description>
+<Point><coordinates>1063.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>22023</name>
+<description>Cameron, LA</description>
+<Point><coordinates>1284.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>22045</name>
+<description>Iberia, LA</description>
+<Point><coordinates>574.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>22051</name>
+<description>Jefferson, LA</description>
+<Point><coordinates>295.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>22053</name>
+<description>Jefferson Davis, LA</description>
+<Point><coordinates>651.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>22057</name>
+<description>Lafourche, LA</description>
+<Point><coordinates>1068.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>22063</name>
+<description>Livingston, LA</description>
+<Point><coordinates>648.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>22071</name>
+<description>Orleans, LA</description>
+<Point><coordinates>169.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>22075</name>
+<description>Plaquemines, LA</description>
+<Point><coordinates>779.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>22087</name>
+<description>St. Bernard, LA</description>
+<Point><coordinates>377.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>22089</name>
+<description>St. Charles, LA</description>
+<Point><coordinates>279.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>22093</name>
+<description>St. James, LA</description>
+<Point><coordinates>241.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>22095</name>
+<description>St. John the Baptist, LA</description>
+<Point><coordinates>213.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>22099</name>
+<description>St. Martin, LA</description>
+<Point><coordinates>737.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>22101</name>
+<description>St. Mary, LA</description>
+<Point><coordinates>555.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>22103</name>
+<description>St. Tammany, LA</description>
+<Point><coordinates>845.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>22105</name>
+<description>Tangipahoa, LA</description>
+<Point><coordinates>791.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>22109</name>
+<description>Terrebonne, LA</description>
+<Point><coordinates>1231.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>22113</name>
+<description>Vermilion, LA</description>
+<Point><coordinates>1173.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>23005</name>
+<description>Cumberland, ME</description>
+<Point><coordinates>835.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>23009</name>
+<description>Hancock, ME</description>
+<Point><coordinates>1586.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>23013</name>
+<description>Knox, ME</description>
+<Point><coordinates>365.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>23015</name>
+<description>Lincoln, ME</description>
+<Point><coordinates>455.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>23023</name>
+<description>Sagadahoc, ME</description>
+<Point><coordinates>253.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>23027</name>
+<description>Waldo, ME</description>
+<Point><coordinates>729.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>23029</name>
+<description>Washington, ME</description>
+<Point><coordinates>2562.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>23031</name>
+<description>York, ME</description>
+<Point><coordinates>990.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>24003</name>
+<description>Anne Arundel, MD</description>
+<Point><coordinates>414.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>24005</name>
+<description>Baltimore, MD</description>
+<Point><coordinates>598.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>24009</name>
+<description>Calvert, MD</description>
+<Point><coordinates>213.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>24011</name>
+<description>Caroline, MD</description>
+<Point><coordinates>319.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>24015</name>
+<description>Cecil, MD</description>
+<Point><coordinates>346.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>24017</name>
+<description>Charles, MD</description>
+<Point><coordinates>457.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>24019</name>
+<description>Dorchester, MD</description>
+<Point><coordinates>540.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>24025</name>
+<description>Harford, MD</description>
+<Point><coordinates>437.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>24027</name>
+<description>Howard, MD</description>
+<Point><coordinates>250.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>24029</name>
+<description>Kent, MD</description>
+<Point><coordinates>277,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>24033</name>
+<description>Prince George&#39;s, MD</description>
+<Point><coordinates>482.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>24035</name>
+<description>Queen Anne&#39;s, MD</description>
+<Point><coordinates>371.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>24037</name>
+<description>St. Mary&#39;s, MD</description>
+<Point><coordinates>357.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>24039</name>
+<description>Somerset, MD</description>
+<Point><coordinates>319.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>24041</name>
+<description>Talbot, MD</description>
+<Point><coordinates>268.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>24045</name>
+<description>Wicomico, MD</description>
+<Point><coordinates>374.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>24047</name>
+<description>Worcester, MD</description>
+<Point><coordinates>468.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>24510</name>
+<description>Baltimore city, MD</description>
+<Point><coordinates>80.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>25001</name>
+<description>Barnstable, MA</description>
+<Point><coordinates>393.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>25005</name>
+<description>Bristol, MA</description>
+<Point><coordinates>553.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>25007</name>
+<description>Dukes, MA</description>
+<Point><coordinates>103.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>25009</name>
+<description>Essex, MA</description>
+<Point><coordinates>492.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>25017</name>
+<description>Middlesex, MA</description>
+<Point><coordinates>817.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>25019</name>
+<description>Nantucket, MA</description>
+<Point><coordinates>45,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>25021</name>
+<description>Norfolk, MA</description>
+<Point><coordinates>396.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>25023</name>
+<description>Plymouth, MA</description>
+<Point><coordinates>659.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>25025</name>
+<description>Suffolk, MA</description>
+<Point><coordinates>58.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26001</name>
+<description>Alcona, MI</description>
+<Point><coordinates>674.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26003</name>
+<description>Alger, MI</description>
+<Point><coordinates>915.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26005</name>
+<description>Allegan, MI</description>
+<Point><coordinates>825.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26007</name>
+<description>Alpena, MI</description>
+<Point><coordinates>571.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26009</name>
+<description>Antrim, MI</description>
+<Point><coordinates>475.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26011</name>
+<description>Arenac, MI</description>
+<Point><coordinates>363.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26013</name>
+<description>Baraga, MI</description>
+<Point><coordinates>898.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26017</name>
+<description>Bay, MI</description>
+<Point><coordinates>442.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26019</name>
+<description>Benzie, MI</description>
+<Point><coordinates>319.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26021</name>
+<description>Berrien, MI</description>
+<Point><coordinates>567.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26029</name>
+<description>Charlevoix, MI</description>
+<Point><coordinates>416.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26031</name>
+<description>Cheboygan, MI</description>
+<Point><coordinates>715.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26033</name>
+<description>Chippewa, MI</description>
+<Point><coordinates>1558.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26041</name>
+<description>Delta, MI</description>
+<Point><coordinates>1171.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26047</name>
+<description>Emmet, MI</description>
+<Point><coordinates>467.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26053</name>
+<description>Gogebic, MI</description>
+<Point><coordinates>1101.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26055</name>
+<description>Grand Traverse, MI</description>
+<Point><coordinates>464.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26061</name>
+<description>Houghton, MI</description>
+<Point><coordinates>1009.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26063</name>
+<description>Huron, MI</description>
+<Point><coordinates>835.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26069</name>
+<description>Iosco, MI</description>
+<Point><coordinates>549.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26083</name>
+<description>Keweenaw, MI</description>
+<Point><coordinates>540.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26089</name>
+<description>Leelanau, MI</description>
+<Point><coordinates>347.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26095</name>
+<description>Luce, MI</description>
+<Point><coordinates>899.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26097</name>
+<description>Mackinac, MI</description>
+<Point><coordinates>1021.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26099</name>
+<description>Macomb, MI</description>
+<Point><coordinates>479.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26101</name>
+<description>Manistee, MI</description>
+<Point><coordinates>542.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26103</name>
+<description>Marquette, MI</description>
+<Point><coordinates>1808.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26105</name>
+<description>Mason, MI</description>
+<Point><coordinates>495.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26109</name>
+<description>Menominee, MI</description>
+<Point><coordinates>1044.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26115</name>
+<description>Monroe, MI</description>
+<Point><coordinates>549.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26121</name>
+<description>Muskegon, MI</description>
+<Point><coordinates>499.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26127</name>
+<description>Oceana, MI</description>
+<Point><coordinates>512.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26131</name>
+<description>Ontonagon, MI</description>
+<Point><coordinates>1311.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26139</name>
+<description>Ottawa, MI</description>
+<Point><coordinates>563.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26141</name>
+<description>Presque Isle, MI</description>
+<Point><coordinates>658.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26147</name>
+<description>St. Clair, MI</description>
+<Point><coordinates>721.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26151</name>
+<description>Sanilac, MI</description>
+<Point><coordinates>962.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26153</name>
+<description>Schoolcraft, MI</description>
+<Point><coordinates>1171.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26157</name>
+<description>Tuscola, MI</description>
+<Point><coordinates>803.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26159</name>
+<description>Van Buren, MI</description>
+<Point><coordinates>607.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>26163</name>
+<description>Wayne, MI</description>
+<Point><coordinates>612.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>27031</name>
+<description>Cook, MN</description>
+<Point><coordinates>1452.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>27075</name>
+<description>Lake, MN</description>
+<Point><coordinates>2109.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>27137</name>
+<description>St. Louis, MN</description>
+<Point><coordinates>6247.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>28045</name>
+<description>Hancock, MS</description>
+<Point><coordinates>473.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>28047</name>
+<description>Harrison, MS</description>
+<Point><coordinates>574,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>28059</name>
+<description>Jackson, MS</description>
+<Point><coordinates>722.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>33015</name>
+<description>Rockingham, NH</description>
+<Point><coordinates>694.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>33017</name>
+<description>Strafford, NH</description>
+<Point><coordinates>369,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>34001</name>
+<description>Atlantic, NJ</description>
+<Point><coordinates>555.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>34003</name>
+<description>Bergen, NJ</description>
+<Point><coordinates>233,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>34005</name>
+<description>Burlington, NJ</description>
+<Point><coordinates>798.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>34007</name>
+<description>Camden, NJ</description>
+<Point><coordinates>221.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>34009</name>
+<description>Cape May, NJ</description>
+<Point><coordinates>251.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>34011</name>
+<description>Cumberland, NJ</description>
+<Point><coordinates>483.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>34013</name>
+<description>Essex, NJ</description>
+<Point><coordinates>126.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>34015</name>
+<description>Gloucester, NJ</description>
+<Point><coordinates>322,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>34017</name>
+<description>Hudson, NJ</description>
+<Point><coordinates>46.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>34023</name>
+<description>Middlesex, NJ</description>
+<Point><coordinates>308.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>34025</name>
+<description>Monmouth, NJ</description>
+<Point><coordinates>468.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>34029</name>
+<description>Ocean, NJ</description>
+<Point><coordinates>628.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>34033</name>
+<description>Salem, NJ</description>
+<Point><coordinates>331.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>34035</name>
+<description>Somerset, NJ</description>
+<Point><coordinates>301.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>34039</name>
+<description>Union, NJ</description>
+<Point><coordinates>102.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>36005</name>
+<description>Bronx, NY</description>
+<Point><coordinates>42.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>36011</name>
+<description>Cayuga, NY</description>
+<Point><coordinates>691.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>36013</name>
+<description>Chautauqua, NY</description>
+<Point><coordinates>1060.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>36027</name>
+<description>Dutchess, NY</description>
+<Point><coordinates>795.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>36029</name>
+<description>Erie, NY</description>
+<Point><coordinates>1042.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>36045</name>
+<description>Jefferson, NY</description>
+<Point><coordinates>1268.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>36047</name>
+<description>Kings, NY</description>
+<Point><coordinates>70.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>36055</name>
+<description>Monroe, NY</description>
+<Point><coordinates>657.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>36059</name>
+<description>Nassau, NY</description>
+<Point><coordinates>284.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>36061</name>
+<description>New York, NY</description>
+<Point><coordinates>22.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>36063</name>
+<description>Niagara, NY</description>
+<Point><coordinates>522.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>36071</name>
+<description>Orange, NY</description>
+<Point><coordinates>811.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>36073</name>
+<description>Orleans, NY</description>
+<Point><coordinates>391.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>36075</name>
+<description>Oswego, NY</description>
+<Point><coordinates>951.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>36079</name>
+<description>Putnam, NY</description>
+<Point><coordinates>230.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>36081</name>
+<description>Queens, NY</description>
+<Point><coordinates>108.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>36085</name>
+<description>Richmond, NY</description>
+<Point><coordinates>58.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>36087</name>
+<description>Rockland, NY</description>
+<Point><coordinates>173.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>36103</name>
+<description>Suffolk, NY</description>
+<Point><coordinates>912.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>36111</name>
+<description>Ulster, NY</description>
+<Point><coordinates>1124.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>36117</name>
+<description>Wayne, NY</description>
+<Point><coordinates>603.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>36119</name>
+<description>Westchester, NY</description>
+<Point><coordinates>430.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>37013</name>
+<description>Beaufort, NC</description>
+<Point><coordinates>827.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>37015</name>
+<description>Bertie, NC</description>
+<Point><coordinates>699.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>37019</name>
+<description>Brunswick, NC</description>
+<Point><coordinates>847,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>37029</name>
+<description>Camden, NC</description>
+<Point><coordinates>240.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>37031</name>
+<description>Carteret, NC</description>
+<Point><coordinates>506.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>37041</name>
+<description>Chowan, NC</description>
+<Point><coordinates>172.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>37049</name>
+<description>Craven, NC</description>
+<Point><coordinates>709,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>37053</name>
+<description>Currituck, NC</description>
+<Point><coordinates>261.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>37055</name>
+<description>Dare, NC</description>
+<Point><coordinates>383.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>37073</name>
+<description>Gates, NC</description>
+<Point><coordinates>340.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>37091</name>
+<description>Hertford, NC</description>
+<Point><coordinates>353.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>37095</name>
+<description>Hyde, NC</description>
+<Point><coordinates>612.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>37103</name>
+<description>Jones, NC</description>
+<Point><coordinates>470.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>37129</name>
+<description>New Hanover, NC</description>
+<Point><coordinates>191.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>37133</name>
+<description>Onslow, NC</description>
+<Point><coordinates>762.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>37137</name>
+<description>Pamlico, NC</description>
+<Point><coordinates>336.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>37139</name>
+<description>Pasquotank, NC</description>
+<Point><coordinates>226.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>37141</name>
+<description>Pender, NC</description>
+<Point><coordinates>869.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>37143</name>
+<description>Perquimans, NC</description>
+<Point><coordinates>247.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>37147</name>
+<description>Pitt, NC</description>
+<Point><coordinates>652,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>37177</name>
+<description>Tyrrell, NC</description>
+<Point><coordinates>389,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>37187</name>
+<description>Washington, NC</description>
+<Point><coordinates>348.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>39007</name>
+<description>Ashtabula, OH</description>
+<Point><coordinates>701.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>39035</name>
+<description>Cuyahoga, OH</description>
+<Point><coordinates>457.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>39043</name>
+<description>Erie, OH</description>
+<Point><coordinates>251.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>39085</name>
+<description>Lake, OH</description>
+<Point><coordinates>227.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>39093</name>
+<description>Lorain, OH</description>
+<Point><coordinates>491.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>39095</name>
+<description>Lucas, OH</description>
+<Point><coordinates>340.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>39123</name>
+<description>Ottawa, OH</description>
+<Point><coordinates>254.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>39143</name>
+<description>Sandusky, OH</description>
+<Point><coordinates>408.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>41007</name>
+<description>Clatsop, OR</description>
+<Point><coordinates>829,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>41011</name>
+<description>Coos, OR</description>
+<Point><coordinates>1596.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>41015</name>
+<description>Curry, OR</description>
+<Point><coordinates>1627.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>41019</name>
+<description>Douglas, OR</description>
+<Point><coordinates>5036.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>41039</name>
+<description>Lane, OR</description>
+<Point><coordinates>4553.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>41041</name>
+<description>Lincoln, OR</description>
+<Point><coordinates>979.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>41057</name>
+<description>Tillamook, OR</description>
+<Point><coordinates>1102.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>42045</name>
+<description>Delaware, PA</description>
+<Point><coordinates>183.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>42049</name>
+<description>Erie, PA</description>
+<Point><coordinates>799.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>42101</name>
+<description>Philadelphia, PA</description>
+<Point><coordinates>134.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>44001</name>
+<description>Bristol, RI</description>
+<Point><coordinates>24.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>44003</name>
+<description>Kent, RI</description>
+<Point><coordinates>168.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>44005</name>
+<description>Newport, RI</description>
+<Point><coordinates>102.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>44007</name>
+<description>Providence, RI</description>
+<Point><coordinates>409.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>44009</name>
+<description>Washington, RI</description>
+<Point><coordinates>329.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>45013</name>
+<description>Beaufort, SC</description>
+<Point><coordinates>576.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>45015</name>
+<description>Berkeley, SC</description>
+<Point><coordinates>1098.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>45019</name>
+<description>Charleston, SC</description>
+<Point><coordinates>916.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>45029</name>
+<description>Colleton, SC</description>
+<Point><coordinates>1056.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>45035</name>
+<description>Dorchester, SC</description>
+<Point><coordinates>573.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>45043</name>
+<description>Georgetown, SC</description>
+<Point><coordinates>813.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>45049</name>
+<description>Hampton, SC</description>
+<Point><coordinates>559.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>45051</name>
+<description>Horry, SC</description>
+<Point><coordinates>1133.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>45053</name>
+<description>Jasper, SC</description>
+<Point><coordinates>655.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>48007</name>
+<description>Aransas, TX</description>
+<Point><coordinates>252.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>48039</name>
+<description>Brazoria, TX</description>
+<Point><coordinates>1357.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>48057</name>
+<description>Calhoun, TX</description>
+<Point><coordinates>506.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>48061</name>
+<description>Cameron, TX</description>
+<Point><coordinates>890.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>48071</name>
+<description>Chambers, TX</description>
+<Point><coordinates>597.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>48167</name>
+<description>Galveston, TX</description>
+<Point><coordinates>378.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>48201</name>
+<description>Harris, TX</description>
+<Point><coordinates>1703.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>48239</name>
+<description>Jackson, TX</description>
+<Point><coordinates>829.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>48245</name>
+<description>Jefferson, TX</description>
+<Point><coordinates>876.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>48261</name>
+<description>Kenedy, TX</description>
+<Point><coordinates>1458.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>48273</name>
+<description>Kleberg, TX</description>
+<Point><coordinates>881.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>48321</name>
+<description>Matagorda, TX</description>
+<Point><coordinates>1100.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>48355</name>
+<description>Nueces, TX</description>
+<Point><coordinates>838.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>48361</name>
+<description>Orange, TX</description>
+<Point><coordinates>333.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>48391</name>
+<description>Refugio, TX</description>
+<Point><coordinates>770.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>48409</name>
+<description>San Patricio, TX</description>
+<Point><coordinates>693.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>48469</name>
+<description>Victoria, TX</description>
+<Point><coordinates>882.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>48489</name>
+<description>Willacy, TX</description>
+<Point><coordinates>590.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51001</name>
+<description>Accomack, VA</description>
+<Point><coordinates>449.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51013</name>
+<description>Arlington, VA</description>
+<Point><coordinates>26,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51033</name>
+<description>Caroline, VA</description>
+<Point><coordinates>527.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51036</name>
+<description>Charles City, VA</description>
+<Point><coordinates>182.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51041</name>
+<description>Chesterfield, VA</description>
+<Point><coordinates>423.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51057</name>
+<description>Essex, VA</description>
+<Point><coordinates>257.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51059</name>
+<description>Fairfax, VA</description>
+<Point><coordinates>391,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51073</name>
+<description>Gloucester, VA</description>
+<Point><coordinates>217.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51085</name>
+<description>Hanover, VA</description>
+<Point><coordinates>468.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51087</name>
+<description>Henrico, VA</description>
+<Point><coordinates>233.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51093</name>
+<description>Isle of Wight, VA</description>
+<Point><coordinates>315.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51095</name>
+<description>James City, VA</description>
+<Point><coordinates>142.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51097</name>
+<description>King and Queen, VA</description>
+<Point><coordinates>315.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51099</name>
+<description>King George, VA</description>
+<Point><coordinates>179.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51101</name>
+<description>King William, VA</description>
+<Point><coordinates>273.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51103</name>
+<description>Lancaster, VA</description>
+<Point><coordinates>133.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51115</name>
+<description>Mathews, VA</description>
+<Point><coordinates>85.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51119</name>
+<description>Middlesex, VA</description>
+<Point><coordinates>130.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51127</name>
+<description>New Kent, VA</description>
+<Point><coordinates>209.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51131</name>
+<description>Northampton, VA</description>
+<Point><coordinates>211.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51133</name>
+<description>Northumberland, VA</description>
+<Point><coordinates>191.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51149</name>
+<description>Prince George, VA</description>
+<Point><coordinates>265.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51153</name>
+<description>Prince William, VA</description>
+<Point><coordinates>336.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51159</name>
+<description>Richmond, VA</description>
+<Point><coordinates>191.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51177</name>
+<description>Spotsylvania, VA</description>
+<Point><coordinates>401.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51179</name>
+<description>Stafford, VA</description>
+<Point><coordinates>269,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51181</name>
+<description>Surry, VA</description>
+<Point><coordinates>278.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51193</name>
+<description>Westmoreland, VA</description>
+<Point><coordinates>229.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51199</name>
+<description>York, VA</description>
+<Point><coordinates>104.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51510</name>
+<description>Alexandria, VA</description>
+<Point><coordinates>15,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51550</name>
+<description>Chesapeake, VA</description>
+<Point><coordinates>340.8,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51650</name>
+<description>Hampton, VA</description>
+<Point><coordinates>51.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51670</name>
+<description>Hopewell, VA</description>
+<Point><coordinates>10.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51700</name>
+<description>Newport News, VA</description>
+<Point><coordinates>68.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51710</name>
+<description>Norfolk, VA</description>
+<Point><coordinates>54.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51735</name>
+<description>Poquoson, VA</description>
+<Point><coordinates>15.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51740</name>
+<description>Portsmouth, VA</description>
+<Point><coordinates>33.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51800</name>
+<description>Suffolk, VA</description>
+<Point><coordinates>400.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51810</name>
+<description>Virginia Beach, VA</description>
+<Point><coordinates>249,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>51830</name>
+<description>Williamsburg, VA</description>
+<Point><coordinates>9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>53009</name>
+<description>Clallam, WA</description>
+<Point><coordinates>1738.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>53027</name>
+<description>Grays Harbor, WA</description>
+<Point><coordinates>1902,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>53029</name>
+<description>Island, WA</description>
+<Point><coordinates>208.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>53031</name>
+<description>Jefferson, WA</description>
+<Point><coordinates>1803.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>53033</name>
+<description>King, WA</description>
+<Point><coordinates>2115.6,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>53035</name>
+<description>Kitsap, WA</description>
+<Point><coordinates>394.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>53045</name>
+<description>Mason, WA</description>
+<Point><coordinates>959.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>53049</name>
+<description>Pacific, WA</description>
+<Point><coordinates>932.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>53053</name>
+<description>Pierce, WA</description>
+<Point><coordinates>1669.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>53055</name>
+<description>San Juan, WA</description>
+<Point><coordinates>173.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>53057</name>
+<description>Skagit, WA</description>
+<Point><coordinates>1731.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>53061</name>
+<description>Snohomish, WA</description>
+<Point><coordinates>2087.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>53067</name>
+<description>Thurston, WA</description>
+<Point><coordinates>722,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>53069</name>
+<description>Wahkiakum, WA</description>
+<Point><coordinates>263.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>53073</name>
+<description>Whatcom, WA</description>
+<Point><coordinates>2106.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>55003</name>
+<description>Ashland, WI</description>
+<Point><coordinates>1045,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>55007</name>
+<description>Bayfield, WI</description>
+<Point><coordinates>1477.9,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>55009</name>
+<description>Brown, WI</description>
+<Point><coordinates>529.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>55029</name>
+<description>Door, WI</description>
+<Point><coordinates>482,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>55031</name>
+<description>Douglas, WI</description>
+<Point><coordinates>1304.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>55051</name>
+<description>Iron, WI</description>
+<Point><coordinates>758.2,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>55059</name>
+<description>Kenosha, WI</description>
+<Point><coordinates>272,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>55061</name>
+<description>Kewaunee, WI</description>
+<Point><coordinates>342.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>55071</name>
+<description>Manitowoc, WI</description>
+<Point><coordinates>589.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>55075</name>
+<description>Marinette, WI</description>
+<Point><coordinates>1399.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>55079</name>
+<description>Milwaukee, WI</description>
+<Point><coordinates>241.4,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>55083</name>
+<description>Oconto, WI</description>
+<Point><coordinates>998,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>55089</name>
+<description>Ozaukee, WI</description>
+<Point><coordinates>233.1,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>55101</name>
+<description>Racine, WI</description>
+<Point><coordinates>332.5,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>55117</name>
+<description>Sheboygan, WI</description>
+<Point><coordinates>511.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>60010</name>
+<description>Eastern District, AS</description>
+<Point><coordinates>25.88,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>60020</name>
+<description>Manua District, AS</description>
+<Point><coordinates>70,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>60050</name>
+<description>Western District, AS</description>
+<Point><coordinates>28.87,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>66010</name>
+<description>Guam, GU</description>
+<Point><coordinates>212,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>69085</name>
+<description>Northern Islands, MP</description>
+<Point><coordinates>60.05,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>69100</name>
+<description>Rota, MP</description>
+<Point><coordinates>32.97,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>69110</name>
+<description>Saipan, MP</description>
+<Point><coordinates>44.55,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>69120</name>
+<description>Tinian, MP</description>
+<Point><coordinates>39,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72003</name>
+<description>Aguada, PR</description>
+<Point><coordinates>30.85,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72005</name>
+<description>Aguadilla, PR</description>
+<Point><coordinates>36.53,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72011</name>
+<description>Anasco, PR</description>
+<Point><coordinates>39.29,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72013</name>
+<description>Arecibo, PR</description>
+<Point><coordinates>125.95,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72015</name>
+<description>Arroyo, PR</description>
+<Point><coordinates>15.01,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72017</name>
+<description>Barceloneta, PR</description>
+<Point><coordinates>18.69,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72021</name>
+<description>Bayamon, PR</description>
+<Point><coordinates>44.32,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72023</name>
+<description>Cabo Rojo, PR</description>
+<Point><coordinates>70.37,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72027</name>
+<description>Camuy, PR</description>
+<Point><coordinates>46.35,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72031</name>
+<description>Carolina, PR</description>
+<Point><coordinates>45.32,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72033</name>
+<description>Catano, PR</description>
+<Point><coordinates>4.84,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72037</name>
+<description>Ceiba, PR</description>
+<Point><coordinates>29.04,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72049</name>
+<description>Culebra, PR</description>
+<Point><coordinates>11.62,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72051</name>
+<description>Dorado, PR</description>
+<Point><coordinates>23.09,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72053</name>
+<description>Fajardo, PR</description>
+<Point><coordinates>29.86,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72055</name>
+<description>Guanica, PR</description>
+<Point><coordinates>37.05,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72057</name>
+<description>Guayama, PR</description>
+<Point><coordinates>64.99,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72059</name>
+<description>Guayanilla, PR</description>
+<Point><coordinates>42.27,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72061</name>
+<description>Guaynabo, PR</description>
+<Point><coordinates>27.58,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72065</name>
+<description>Hatillo, PR</description>
+<Point><coordinates>41.78,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72069</name>
+<description>Humacao, PR</description>
+<Point><coordinates>44.75,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72071</name>
+<description>Isabela, PR</description>
+<Point><coordinates>55.3,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72075</name>
+<description>Juana Diaz, PR</description>
+<Point><coordinates>60.28,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72079</name>
+<description>Lajas, PR</description>
+<Point><coordinates>59.95,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72087</name>
+<description>Loiza, PR</description>
+<Point><coordinates>19.37,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72089</name>
+<description>Luquillo, PR</description>
+<Point><coordinates>25.81,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72091</name>
+<description>Manati, PR</description>
+<Point><coordinates>45.13,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72095</name>
+<description>Maunabo, PR</description>
+<Point><coordinates>21.07,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72097</name>
+<description>Mayaquez, PR</description>
+<Point><coordinates>77.65,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72103</name>
+<description>Naguabo, PR</description>
+<Point><coordinates>51.66,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72109</name>
+<description>Patillas, PR</description>
+<Point><coordinates>46.7,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72111</name>
+<description>Penuelas, PR</description>
+<Point><coordinates>44.62,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72113</name>
+<description>Ponce, PR</description>
+<Point><coordinates>114.76,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72115</name>
+<description>Quebradillas, PR</description>
+<Point><coordinates>22.68,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72117</name>
+<description>Rincon, PR</description>
+<Point><coordinates>14.29,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72119</name>
+<description>Rio Grande, PR</description>
+<Point><coordinates>60.62,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72123</name>
+<description>Salinas, PR</description>
+<Point><coordinates>69.37,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72127</name>
+<description>San Juan, PR</description>
+<Point><coordinates>47.85,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72133</name>
+<description>Santa Isabel, PR</description>
+<Point><coordinates>34.02,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72137</name>
+<description>Toa Baja, PR</description>
+<Point><coordinates>23.24,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72143</name>
+<description>Vega Alta, PR</description>
+<Point><coordinates>27.73,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72145</name>
+<description>Vega Baja, PR</description>
+<Point><coordinates>45.86,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72147</name>
+<description>Vieques, PR</description>
+<Point><coordinates>50.77,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72151</name>
+<description>Yabucoa, PR</description>
+<Point><coordinates>55.21,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>72153</name>
+<description>Yauco, PR</description>
+<Point><coordinates>68.19,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>78010</name>
+<description>St. Croix, VI</description>
+<Point><coordinates>82.88,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>78020</name>
+<description>St. John, VI</description>
+<Point><coordinates>19.61,2011,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>78030</name>
+<description>St. Thomas, VI</description>
+<Point><coordinates>80.9,2011,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,6785 @@
+﻿{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1589.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "01003",
+                "description": "Baldwin, AL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1229.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "01097",
+                "description": "Mobile, AL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6981.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "02013",
+                "description": "Aleutians East, AK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4390.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "02016",
+                "description": "Aleutians West, AK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1704.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "02020",
+                "description": "Anchorage, AK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40570,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "02050",
+                "description": "Bethel, AK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    503.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "02060",
+                "description": "Bristol Bay, AK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18568.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "02070",
+                "description": "Dillingham, AK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2318.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "02100",
+                "description": "Haines, AK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7524.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "02105",
+                "description": "Hoonah-Angoon Census Area, AK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2701.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "02110",
+                "description": "Juneau, AK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16075.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "02122",
+                "description": "Kenai Peninsula, AK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4858.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "02130",
+                "description": "Ketchikan Gateway, AK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6549.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "02150",
+                "description": "Kodiak Island, AK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23652,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "02164",
+                "description": "Lake and Peninsula, AK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24607.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "02170",
+                "description": "Matanuska-Susitna, AK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22961.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "02180",
+                "description": "Nome, AK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88695.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "02185",
+                "description": "North Slope, AK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35572.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "02188",
+                "description": "Northwest Arctic, AK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3282,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "02195",
+                "description": "Petersburg Census Area, AK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3922.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "02198",
+                "description": "Prince of Wales-Hyder Census Area"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2870.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "02220",
+                "description": "Sitka, AK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    452.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "02230",
+                "description": "Skagway Municipality, AK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34239.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "02261",
+                "description": "Valdez-Cordova, AK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17081.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "02270",
+                "description": "Wade Hampton, AK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2541.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "02275",
+                "description": "Wrangell City and Borough, AK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7649.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "02282",
+                "description": "Yakutat, AK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    739,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "06001",
+                "description": "Alameda, CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    715.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "06013",
+                "description": "Contra Costa, CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1006.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "06015",
+                "description": "Del Norte, CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3568,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "06023",
+                "description": "Humboldt, CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4057.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "06037",
+                "description": "Los Angeles, CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    520.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "06041",
+                "description": "Marin, CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3506.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "06045",
+                "description": "Mendocino, CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3280.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "06053",
+                "description": "Monterey, CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    748.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "06055",
+                "description": "Napa, CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    790.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "06059",
+                "description": "Orange, CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4206.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "06073",
+                "description": "San Diego, CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "06075",
+                "description": "San Francisco, CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3298.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "06079",
+                "description": "San Luis Obispo, CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    448.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "06081",
+                "description": "San Mateo, CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2735.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "06083",
+                "description": "Santa Barbara, CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1290.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "06085",
+                "description": "Santa Clara, CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    445.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "06087",
+                "description": "Santa Cruz, CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    821.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "06095",
+                "description": "Solano, CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1575.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "06097",
+                "description": "Sonoma, CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1843.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "06111",
+                "description": "Ventura, CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    624.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "09001",
+                "description": "Fairfield, CT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    369.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "09007",
+                "description": "Middlesex, CT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    604.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "09009",
+                "description": "New Haven, CT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    664.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "09011",
+                "description": "New London, CT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    586.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "10001",
+                "description": "Kent, DE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    426.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "10003",
+                "description": "New Castle, DE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    936.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "10005",
+                "description": "Sussex, DE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    61,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "11001",
+                "description": "District of Columbia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    758.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12005",
+                "description": "Bay, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1015.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12009",
+                "description": "Brevard, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1209.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12011",
+                "description": "Broward, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    680.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12015",
+                "description": "Charlotte, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    581.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12017",
+                "description": "Citrus, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    604.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12019",
+                "description": "Clay, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1998.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12021",
+                "description": "Collier, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    705.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12029",
+                "description": "Dixie, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    762.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12031",
+                "description": "Duval, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    656.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12033",
+                "description": "Escambia, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    485.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12035",
+                "description": "Flagler, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    534.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12037",
+                "description": "Franklin, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    564,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12045",
+                "description": "Gulf, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    472.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12053",
+                "description": "Hernando, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1020.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12057",
+                "description": "Hillsborough, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    502.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12061",
+                "description": "Indian River, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    598.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12065",
+                "description": "Jefferson, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    784.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12071",
+                "description": "Lee, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1118.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12075",
+                "description": "Levy, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    835.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12077",
+                "description": "Liberty, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    742.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12081",
+                "description": "Manatee, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    543.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12085",
+                "description": "Martin, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1897.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12086",
+                "description": "Miami-Dade, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    983.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12087",
+                "description": "Monroe, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    648.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12089",
+                "description": "Nassau, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    930.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12091",
+                "description": "Okaloosa, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1969.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12099",
+                "description": "Palm Beach, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    746.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12101",
+                "description": "Pasco, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    273.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12103",
+                "description": "Pinellas, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    727.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12107",
+                "description": "Putnam, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    600.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12109",
+                "description": "St. Johns, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    571.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12111",
+                "description": "St. Lucie, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1011.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12113",
+                "description": "Santa Rosa, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    555.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12115",
+                "description": "Sarasota, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1043.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12123",
+                "description": "Taylor, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1101,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12127",
+                "description": "Volusia, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    606.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12129",
+                "description": "Wakulla, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1037.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "12131",
+                "description": "Walton, FL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    442.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "13025",
+                "description": "Brantley, GA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    436,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "13029",
+                "description": "Bryan, GA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    613,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "13039",
+                "description": "Camden, GA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    773.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "13049",
+                "description": "Charlton, GA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    426.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "13051",
+                "description": "Chatham, GA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    419.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "13127",
+                "description": "Glynn, GA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    489.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "13179",
+                "description": "Liberty, GA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    424.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "13191",
+                "description": "McIntosh, GA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    641.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "13305",
+                "description": "Wayne, GA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4028.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "15001",
+                "description": "Hawaii, HI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    600.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "15003",
+                "description": "Honolulu, HI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "15005",
+                "description": "Kalawao, HI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    620,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "15007",
+                "description": "Kauai, HI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1161.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "15009",
+                "description": "Maui, HI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    945.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "17031",
+                "description": "Cook, IL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    443.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "17097",
+                "description": "Lake, IL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    499,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "18089",
+                "description": "Lake, IN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    598.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "18091",
+                "description": "LaPorte, IN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    418.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "18127",
+                "description": "Porter, IN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    290,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "22005",
+                "description": "Ascension, LA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    338.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "22007",
+                "description": "Assumption, LA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1063.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "22019",
+                "description": "Calcasieu, LA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1284.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "22023",
+                "description": "Cameron, LA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    574.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "22045",
+                "description": "Iberia, LA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    295.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "22051",
+                "description": "Jefferson, LA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    651.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "22053",
+                "description": "Jefferson Davis, LA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1068.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "22057",
+                "description": "Lafourche, LA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    648.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "22063",
+                "description": "Livingston, LA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "22071",
+                "description": "Orleans, LA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    779.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "22075",
+                "description": "Plaquemines, LA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    377.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "22087",
+                "description": "St. Bernard, LA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    279.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "22089",
+                "description": "St. Charles, LA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    241.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "22093",
+                "description": "St. James, LA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    213.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "22095",
+                "description": "St. John the Baptist, LA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    737.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "22099",
+                "description": "St. Martin, LA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    555.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "22101",
+                "description": "St. Mary, LA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    845.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "22103",
+                "description": "St. Tammany, LA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    791.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "22105",
+                "description": "Tangipahoa, LA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1231.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "22109",
+                "description": "Terrebonne, LA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1173.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "22113",
+                "description": "Vermilion, LA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    835.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "23005",
+                "description": "Cumberland, ME"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1586.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "23009",
+                "description": "Hancock, ME"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    365.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "23013",
+                "description": "Knox, ME"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    455.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "23015",
+                "description": "Lincoln, ME"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    253.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "23023",
+                "description": "Sagadahoc, ME"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    729.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "23027",
+                "description": "Waldo, ME"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2562.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "23029",
+                "description": "Washington, ME"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    990.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "23031",
+                "description": "York, ME"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    414.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "24003",
+                "description": "Anne Arundel, MD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    598.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "24005",
+                "description": "Baltimore, MD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    213.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "24009",
+                "description": "Calvert, MD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    319.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "24011",
+                "description": "Caroline, MD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    346.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "24015",
+                "description": "Cecil, MD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    457.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "24017",
+                "description": "Charles, MD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    540.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "24019",
+                "description": "Dorchester, MD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    437.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "24025",
+                "description": "Harford, MD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    250.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "24027",
+                "description": "Howard, MD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    277,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "24029",
+                "description": "Kent, MD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    482.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "24033",
+                "description": "Prince George's, MD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    371.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "24035",
+                "description": "Queen Anne's, MD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    357.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "24037",
+                "description": "St. Mary's, MD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    319.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "24039",
+                "description": "Somerset, MD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    268.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "24041",
+                "description": "Talbot, MD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    374.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "24045",
+                "description": "Wicomico, MD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    468.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "24047",
+                "description": "Worcester, MD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "24510",
+                "description": "Baltimore city, MD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    393.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "25001",
+                "description": "Barnstable, MA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    553.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "25005",
+                "description": "Bristol, MA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "25007",
+                "description": "Dukes, MA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    492.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "25009",
+                "description": "Essex, MA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    817.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "25017",
+                "description": "Middlesex, MA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "25019",
+                "description": "Nantucket, MA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    396.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "25021",
+                "description": "Norfolk, MA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    659.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "25023",
+                "description": "Plymouth, MA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "25025",
+                "description": "Suffolk, MA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    674.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26001",
+                "description": "Alcona, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    915.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26003",
+                "description": "Alger, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    825.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26005",
+                "description": "Allegan, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    571.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26007",
+                "description": "Alpena, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    475.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26009",
+                "description": "Antrim, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    363.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26011",
+                "description": "Arenac, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    898.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26013",
+                "description": "Baraga, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    442.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26017",
+                "description": "Bay, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    319.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26019",
+                "description": "Benzie, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    567.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26021",
+                "description": "Berrien, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    416.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26029",
+                "description": "Charlevoix, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    715.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26031",
+                "description": "Cheboygan, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1558.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26033",
+                "description": "Chippewa, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1171.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26041",
+                "description": "Delta, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    467.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26047",
+                "description": "Emmet, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1101.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26053",
+                "description": "Gogebic, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    464.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26055",
+                "description": "Grand Traverse, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1009.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26061",
+                "description": "Houghton, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    835.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26063",
+                "description": "Huron, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    549.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26069",
+                "description": "Iosco, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    540.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26083",
+                "description": "Keweenaw, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    347.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26089",
+                "description": "Leelanau, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    899.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26095",
+                "description": "Luce, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1021.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26097",
+                "description": "Mackinac, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    479.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26099",
+                "description": "Macomb, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    542.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26101",
+                "description": "Manistee, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1808.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26103",
+                "description": "Marquette, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    495.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26105",
+                "description": "Mason, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1044.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26109",
+                "description": "Menominee, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    549.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26115",
+                "description": "Monroe, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    499.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26121",
+                "description": "Muskegon, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    512.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26127",
+                "description": "Oceana, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1311.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26131",
+                "description": "Ontonagon, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    563.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26139",
+                "description": "Ottawa, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    658.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26141",
+                "description": "Presque Isle, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    721.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26147",
+                "description": "St. Clair, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    962.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26151",
+                "description": "Sanilac, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1171.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26153",
+                "description": "Schoolcraft, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    803.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26157",
+                "description": "Tuscola, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    607.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26159",
+                "description": "Van Buren, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    612.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26163",
+                "description": "Wayne, MI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1452.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "27031",
+                "description": "Cook, MN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2109.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "27075",
+                "description": "Lake, MN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6247.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "27137",
+                "description": "St. Louis, MN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    473.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "28045",
+                "description": "Hancock, MS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    574,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "28047",
+                "description": "Harrison, MS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    722.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "28059",
+                "description": "Jackson, MS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    694.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "33015",
+                "description": "Rockingham, NH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    369,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "33017",
+                "description": "Strafford, NH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    555.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "34001",
+                "description": "Atlantic, NJ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    233,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "34003",
+                "description": "Bergen, NJ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    798.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "34005",
+                "description": "Burlington, NJ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    221.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "34007",
+                "description": "Camden, NJ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    251.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "34009",
+                "description": "Cape May, NJ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    483.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "34011",
+                "description": "Cumberland, NJ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "34013",
+                "description": "Essex, NJ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    322,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "34015",
+                "description": "Gloucester, NJ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "34017",
+                "description": "Hudson, NJ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    308.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "34023",
+                "description": "Middlesex, NJ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    468.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "34025",
+                "description": "Monmouth, NJ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    628.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "34029",
+                "description": "Ocean, NJ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    331.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "34033",
+                "description": "Salem, NJ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    301.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "34035",
+                "description": "Somerset, NJ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "34039",
+                "description": "Union, NJ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "36005",
+                "description": "Bronx, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    691.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "36011",
+                "description": "Cayuga, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1060.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "36013",
+                "description": "Chautauqua, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    795.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "36027",
+                "description": "Dutchess, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1042.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "36029",
+                "description": "Erie, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1268.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "36045",
+                "description": "Jefferson, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "36047",
+                "description": "Kings, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    657.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "36055",
+                "description": "Monroe, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    284.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "36059",
+                "description": "Nassau, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "36061",
+                "description": "New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    522.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "36063",
+                "description": "Niagara, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    811.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "36071",
+                "description": "Orange, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    391.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "36073",
+                "description": "Orleans, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    951.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "36075",
+                "description": "Oswego, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    230.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "36079",
+                "description": "Putnam, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "36081",
+                "description": "Queens, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "36085",
+                "description": "Richmond, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "36087",
+                "description": "Rockland, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    912.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "36103",
+                "description": "Suffolk, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1124.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "36111",
+                "description": "Ulster, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    603.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "36117",
+                "description": "Wayne, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    430.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "36119",
+                "description": "Westchester, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    827.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "37013",
+                "description": "Beaufort, NC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    699.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "37015",
+                "description": "Bertie, NC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    847,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "37019",
+                "description": "Brunswick, NC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    240.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "37029",
+                "description": "Camden, NC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    506.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "37031",
+                "description": "Carteret, NC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "37041",
+                "description": "Chowan, NC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    709,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "37049",
+                "description": "Craven, NC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    261.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "37053",
+                "description": "Currituck, NC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    383.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "37055",
+                "description": "Dare, NC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    340.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "37073",
+                "description": "Gates, NC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    353.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "37091",
+                "description": "Hertford, NC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    612.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "37095",
+                "description": "Hyde, NC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    470.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "37103",
+                "description": "Jones, NC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    191.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "37129",
+                "description": "New Hanover, NC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    762.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "37133",
+                "description": "Onslow, NC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    336.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "37137",
+                "description": "Pamlico, NC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    226.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "37139",
+                "description": "Pasquotank, NC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    869.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "37141",
+                "description": "Pender, NC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    247.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "37143",
+                "description": "Perquimans, NC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    652,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "37147",
+                "description": "Pitt, NC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    389,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "37177",
+                "description": "Tyrrell, NC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    348.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "37187",
+                "description": "Washington, NC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    701.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "39007",
+                "description": "Ashtabula, OH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    457.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "39035",
+                "description": "Cuyahoga, OH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    251.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "39043",
+                "description": "Erie, OH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    227.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "39085",
+                "description": "Lake, OH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    491.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "39093",
+                "description": "Lorain, OH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    340.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "39095",
+                "description": "Lucas, OH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    254.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "39123",
+                "description": "Ottawa, OH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    408.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "39143",
+                "description": "Sandusky, OH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    829,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "41007",
+                "description": "Clatsop, OR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1596.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "41011",
+                "description": "Coos, OR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1627.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "41015",
+                "description": "Curry, OR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5036.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "41019",
+                "description": "Douglas, OR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4553.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "41039",
+                "description": "Lane, OR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    979.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "41041",
+                "description": "Lincoln, OR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1102.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "41057",
+                "description": "Tillamook, OR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    183.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "42045",
+                "description": "Delaware, PA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    799.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "42049",
+                "description": "Erie, PA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "42101",
+                "description": "Philadelphia, PA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "44001",
+                "description": "Bristol, RI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "44003",
+                "description": "Kent, RI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "44005",
+                "description": "Newport, RI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    409.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "44007",
+                "description": "Providence, RI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    329.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "44009",
+                "description": "Washington, RI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    576.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "45013",
+                "description": "Beaufort, SC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1098.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "45015",
+                "description": "Berkeley, SC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    916.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "45019",
+                "description": "Charleston, SC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1056.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "45029",
+                "description": "Colleton, SC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    573.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "45035",
+                "description": "Dorchester, SC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    813.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "45043",
+                "description": "Georgetown, SC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    559.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "45049",
+                "description": "Hampton, SC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1133.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "45051",
+                "description": "Horry, SC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    655.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "45053",
+                "description": "Jasper, SC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    252.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "48007",
+                "description": "Aransas, TX"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1357.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "48039",
+                "description": "Brazoria, TX"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    506.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "48057",
+                "description": "Calhoun, TX"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    890.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "48061",
+                "description": "Cameron, TX"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    597.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "48071",
+                "description": "Chambers, TX"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    378.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "48167",
+                "description": "Galveston, TX"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1703.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "48201",
+                "description": "Harris, TX"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    829.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "48239",
+                "description": "Jackson, TX"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    876.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "48245",
+                "description": "Jefferson, TX"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1458.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "48261",
+                "description": "Kenedy, TX"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    881.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "48273",
+                "description": "Kleberg, TX"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1100.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "48321",
+                "description": "Matagorda, TX"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    838.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "48355",
+                "description": "Nueces, TX"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    333.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "48361",
+                "description": "Orange, TX"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    770.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "48391",
+                "description": "Refugio, TX"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    693.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "48409",
+                "description": "San Patricio, TX"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    882.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "48469",
+                "description": "Victoria, TX"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    590.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "48489",
+                "description": "Willacy, TX"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    449.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51001",
+                "description": "Accomack, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51013",
+                "description": "Arlington, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    527.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51033",
+                "description": "Caroline, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    182.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51036",
+                "description": "Charles City, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    423.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51041",
+                "description": "Chesterfield, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    257.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51057",
+                "description": "Essex, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    391,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51059",
+                "description": "Fairfax, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    217.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51073",
+                "description": "Gloucester, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    468.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51085",
+                "description": "Hanover, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    233.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51087",
+                "description": "Henrico, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    315.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51093",
+                "description": "Isle of Wight, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51095",
+                "description": "James City, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    315.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51097",
+                "description": "King and Queen, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51099",
+                "description": "King George, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    273.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51101",
+                "description": "King William, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51103",
+                "description": "Lancaster, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51115",
+                "description": "Mathews, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51119",
+                "description": "Middlesex, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    209.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51127",
+                "description": "New Kent, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    211.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51131",
+                "description": "Northampton, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    191.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51133",
+                "description": "Northumberland, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    265.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51149",
+                "description": "Prince George, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    336.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51153",
+                "description": "Prince William, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    191.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51159",
+                "description": "Richmond, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    401.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51177",
+                "description": "Spotsylvania, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    269,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51179",
+                "description": "Stafford, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    278.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51181",
+                "description": "Surry, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    229.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51193",
+                "description": "Westmoreland, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51199",
+                "description": "York, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51510",
+                "description": "Alexandria, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    340.8,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51550",
+                "description": "Chesapeake, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51650",
+                "description": "Hampton, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51670",
+                "description": "Hopewell, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51700",
+                "description": "Newport News, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51710",
+                "description": "Norfolk, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51735",
+                "description": "Poquoson, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51740",
+                "description": "Portsmouth, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    400.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51800",
+                "description": "Suffolk, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    249,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51810",
+                "description": "Virginia Beach, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51830",
+                "description": "Williamsburg, VA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1738.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "53009",
+                "description": "Clallam, WA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1902,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "53027",
+                "description": "Grays Harbor, WA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    208.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "53029",
+                "description": "Island, WA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1803.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "53031",
+                "description": "Jefferson, WA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2115.6,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "53033",
+                "description": "King, WA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    394.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "53035",
+                "description": "Kitsap, WA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    959.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "53045",
+                "description": "Mason, WA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    932.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "53049",
+                "description": "Pacific, WA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1669.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "53053",
+                "description": "Pierce, WA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "53055",
+                "description": "San Juan, WA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1731.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "53057",
+                "description": "Skagit, WA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2087.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "53061",
+                "description": "Snohomish, WA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    722,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "53067",
+                "description": "Thurston, WA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    263.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "53069",
+                "description": "Wahkiakum, WA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2106.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "53073",
+                "description": "Whatcom, WA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1045,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "55003",
+                "description": "Ashland, WI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1477.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "55007",
+                "description": "Bayfield, WI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    529.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "55009",
+                "description": "Brown, WI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    482,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "55029",
+                "description": "Door, WI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1304.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "55031",
+                "description": "Douglas, WI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    758.2,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "55051",
+                "description": "Iron, WI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    272,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "55059",
+                "description": "Kenosha, WI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    342.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "55061",
+                "description": "Kewaunee, WI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    589.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "55071",
+                "description": "Manitowoc, WI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1399.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "55075",
+                "description": "Marinette, WI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    241.4,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "55079",
+                "description": "Milwaukee, WI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    998,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "55083",
+                "description": "Oconto, WI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    233.1,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "55089",
+                "description": "Ozaukee, WI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    332.5,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "55101",
+                "description": "Racine, WI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    511.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "55117",
+                "description": "Sheboygan, WI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.88,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "60010",
+                "description": "Eastern District, AS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "60020",
+                "description": "Manua District, AS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.87,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "60050",
+                "description": "Western District, AS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    212,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "66010",
+                "description": "Guam, GU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.05,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "69085",
+                "description": "Northern Islands, MP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.97,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "69100",
+                "description": "Rota, MP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.55,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "69110",
+                "description": "Saipan, MP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "69120",
+                "description": "Tinian, MP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.85,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72003",
+                "description": "Aguada, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.53,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72005",
+                "description": "Aguadilla, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.29,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72011",
+                "description": "Anasco, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.95,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72013",
+                "description": "Arecibo, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.01,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72015",
+                "description": "Arroyo, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.69,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72017",
+                "description": "Barceloneta, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.32,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72021",
+                "description": "Bayamon, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.37,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72023",
+                "description": "Cabo Rojo, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.35,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72027",
+                "description": "Camuy, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.32,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72031",
+                "description": "Carolina, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.84,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72033",
+                "description": "Catano, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.04,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72037",
+                "description": "Ceiba, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.62,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72049",
+                "description": "Culebra, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.09,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72051",
+                "description": "Dorado, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.86,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72053",
+                "description": "Fajardo, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.05,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72055",
+                "description": "Guanica, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.99,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72057",
+                "description": "Guayama, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.27,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72059",
+                "description": "Guayanilla, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.58,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72061",
+                "description": "Guaynabo, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.78,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72065",
+                "description": "Hatillo, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.75,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72069",
+                "description": "Humacao, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.3,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72071",
+                "description": "Isabela, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.28,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72075",
+                "description": "Juana Diaz, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.95,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72079",
+                "description": "Lajas, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.37,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72087",
+                "description": "Loiza, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.81,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72089",
+                "description": "Luquillo, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.13,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72091",
+                "description": "Manati, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.07,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72095",
+                "description": "Maunabo, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72097",
+                "description": "Mayaquez, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.66,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72103",
+                "description": "Naguabo, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.7,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72109",
+                "description": "Patillas, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.62,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72111",
+                "description": "Penuelas, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.76,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72113",
+                "description": "Ponce, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.68,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72115",
+                "description": "Quebradillas, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.29,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72117",
+                "description": "Rincon, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.62,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72119",
+                "description": "Rio Grande, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.37,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72123",
+                "description": "Salinas, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.85,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72127",
+                "description": "San Juan, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.02,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72133",
+                "description": "Santa Isabel, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.24,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72137",
+                "description": "Toa Baja, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.73,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72143",
+                "description": "Vega Alta, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.86,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72145",
+                "description": "Vega Baja, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.77,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72147",
+                "description": "Vieques, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.21,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72151",
+                "description": "Yabucoa, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.19,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72153",
+                "description": "Yauco, PR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.88,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "78010",
+                "description": "St. Croix, VI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.61,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "78020",
+                "description": "St. John, VI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.9,
+                    2011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "78030",
+                "description": "St. Thomas, VI"
+            }
+        }
+    ]
+}
