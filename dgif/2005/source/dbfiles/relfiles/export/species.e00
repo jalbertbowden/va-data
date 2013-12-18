@@ -1,0 +1,479 @@
+EXP  0 C:\VIRGINIA\GEOG\GEO\DBFILES\RELFILES\EXPORT\SPECIES.E00                 
+IFO  2
+SPECIES                              8   8 132       233
+SPECIES_ID        5-1   14-1   5-1 30-1  -1  -1-1                   1-
+NAME             35-1   64-1  35-1 20-1  -1  -1-1                   2-
+GEN_SPEC         45-1  414-1  45-1 20-1  -1  -1-1                   3-
+ELEMENT          10-1  864-1  10-1 20-1  -1  -1-1                   4-
+SUBELEMENT       10-1  964-1  10-1 20-1  -1  -1-1                   5-
+NHP              10-1 1064-1  10-1 20-1  -1  -1-1                   6-
+DATE_PUB         10-1 1164-1  10-1 30-1  -1  -1-1                   7-
+EL_SPE            6-1 1264-1   6-1 20-1  -1  -1-1                   8-
+  118Brown pelican                      Pelecanus occidentalis
+     BIRD      diving    G4            200412B00118
+    8Double-crested cormorant           Phalacrocorax auritus
+     BIRD      diving    G5            200412B00008
+  462Loons                              Gavia spp.
+     BIRD      diving                       0B00462
+  179Pied-billed grebe                  Podilymbus podiceps
+     BIRD      diving    G5            200412B00179
+    6Eared grebe                        Podiceps nigricollis
+     BIRD      diving    G5            200412B00006
+    3Red-throated loon                  Gavia stellata
+     BIRD      diving    G5            200412B00003
+    1Common loon                        Gavia immer
+     BIRD      diving    G5            200412B00001
+    5Horned grebe                       Podiceps auritus
+     BIRD      diving    G5            200412B00005
+    4Red-necked grebe                   Podiceps grisegena
+     BIRD      diving    G5            200412B00004
+  136Caspian tern                       Sterna caspia
+     BIRD      gull_tern G5            200412B00136
+  137Royal tern                         Sterna maxima
+     BIRD      gull_tern G5            200412B00137
+  134Gull-billed tern                   Sterna nilotica
+     BIRD      gull_tern G5            200412B00134
+  135Sandwich tern                      Sterna sandvicensis
+     BIRD      gull_tern G5            200412B00135
+ 1001Gulls
+     BIRD      gull_tern                    0B01001
+ 1008Terns
+     BIRD      gull_tern                    0B01008
+  138Forster's tern                     Sterna forsteri
+     BIRD      gull_tern G5            200412B00138
+  393Lesser black-backed gull           Larus fuscus
+     BIRD      gull_tern G5            200412B00393
+   42Bonaparte's gull                   Larus philadelphia
+     BIRD      gull_tern G5            200412B00042
+   45Common tern                        Sterna hirundo
+     BIRD      gull_tern G5            200412B00045
+   38Herring gull                       Larus argentatus
+     BIRD      gull_tern G5            200412B00038
+   40Ring-billed gull                   Larus delawarensis
+     BIRD      gull_tern G5            200412B00040
+   98Laughing gull                      Larus atricilla
+     BIRD      gull_tern G5            200412B00098
+  133Black skimmer                      Rynchops niger
+     BIRD      gull_tern G5            200412B00133
+   86Least tern                         Sterna antillarum
+     BIRD      gull_tern G4            200412B00086
+   92Great black-backed gull            Larus marinus
+     BIRD      gull_tern G5            200412B00092
+  278Saltmarsh sharp-tailed sparrow     Ammodramus caudacutus
+     BIRD      passerine G4            200412B00278
+  735Brown-headed cowbird               Molothrus ater
+     BIRD      passerine G5            200412B00735
+  736Henslow's sparrow                  Ammodramus henslowii
+     BIRD      passerine G4            200412B00736
+  224Sedge wren                         Cistothorus platensis
+     BIRD      passerine G5            200412B00224
+  225Marsh wren                         Cistothorus palustris
+     BIRD      passerine G5            200412B00225
+  229Swamp sparrow                      Melospiza georgiana
+     BIRD      passerine G5            200412B00229
+  167Northern gannet                    Morus bassanus
+     BIRD      pelagic   G5            200412B00167
+  220Merlin                             Falco columbarius
+     BIRD      raptor    G5            200412B00220
+  219Sharp-shinned hawk                 Accipiter striatus
+     BIRD      raptor    G5            200412B00219
+  230Red-tailed hawk                    Buteo jamaicensis
+     BIRD      raptor    G5            200412B00230
+ 1005Raptors
+     BIRD      raptor                       0B01005
+  231Broad-winged hawk                  Buteo platypterus
+     BIRD      raptor    G5            200412B00231
+  218Red-shouldered hawk                Buteo lineatus
+     BIRD      raptor    G5            200412B00218
+   77Osprey                             Pandion haliaetus
+     BIRD      raptor    G5            200412B00077
+   76Bald eagle                         Haliaeetus leucocephalus
+     BIRD      raptor    G4            200412B00076
+  107Peregrine falcon                   Falco peregrinus
+     BIRD      raptor    G4            200412B00107
+  182American kestrel                   Falco sparverius
+     BIRD      raptor    G5            200412B00182
+  181Northern harrier                   Circus cyaneus
+     BIRD      raptor    G5            200412B00181
+  142Black-necked stilt                 Himantopus mexicanus
+     BIRD      shorebird G5            200412B00142
+  152American oystercatcher             Haematopus palliatus
+     BIRD      shorebird G5            200412B00152
+  153Piping plover                      Charadrius melodus
+     BIRD      shorebird G3            200412B00153
+   70Killdeer                           Charadrius vociferus
+     BIRD      shorebird G5            200412B00070
+   71Black-bellied plover               Pluvialis squatarola
+     BIRD      shorebird G5            200412B00071
+   73Ruddy turnstone                    Arenaria interpres
+     BIRD      shorebird G5            200412B00073
+  213Stilt sandpiper                    Calidris himantopus
+     BIRD      shorebird G5            200412B00213
+  238White-rumped sandpiper             Calidris fuscicollis
+     BIRD      shorebird G5            200412B00238
+ 1002Shorebirds
+     BIRD      shorebird                    0B01002
+  154Wilson's plover                    Charadrius wilsonia
+     BIRD      shorebird G5            200412B00154
+  155Willet                             Catoptrophorus semipalmatus
+     BIRD      shorebird G5            200412B00155
+  156Semipalmated sandpiper             Calidris pusilla
+     BIRD      shorebird G5            200412B00156
+   59Lesser yellowlegs                  Tringa flavipes
+     BIRD      shorebird G5            200412B00059
+   60Red knot                           Calidris canutus
+     BIRD      shorebird G5            200412B00060
+   61Pectoral sandpiper                 Calidris melanotos
+     BIRD      shorebird G5            200412B00061
+   55Whimbrel                           Numenius phaeopus
+     BIRD      shorebird G5            200412B00055
+   56Spotted sandpiper                  Actitis macularia
+     BIRD      shorebird G5            200412B00056
+   58Greater yellowlegs                 Tringa melanoleuca
+     BIRD      shorebird G5            200412B00058
+   66Western sandpiper                  Calidris mauri
+     BIRD      shorebird G5            200412B00066
+   67Sanderling                         Calidris alba
+     BIRD      shorebird G5            200412B00067
+   69Semipalmated plover                Charadrius semipalmatus
+     BIRD      shorebird G5            200412B00069
+   62Least sandpiper                    Calidris minutilla
+     BIRD      shorebird G5            200412B00062
+   63Dunlin                             Calidris alpina
+     BIRD      shorebird G5            200412B00063
+   64Short-billed dowitcher             Limnodromus griseus
+     BIRD      shorebird G5            200412B00064
+  187Virginia rail                      Rallus limicola
+     BIRD      wading    G5            200412B00187
+  188Sora                               Porzana carolina
+     BIRD      wading    G5            200412B00188
+  195American woodcock                  Scolopax minor
+     BIRD      wading    G5            200412B00195
+  178Least bittern                      Ixobrychus exilis
+     BIRD      wading    G5            200412B00178
+  184King rail                          Rallus elegans
+     BIRD      wading    G4G5          200412B00184
+  185American bittern                   Botaurus lentiginosus
+     BIRD      wading    G4            200412B00185
+ 1015Egrets
+     BIRD      wading                       0B01015
+ 1016Herons
+     BIRD      wading                       0B01016
+ 1032Bitterns
+     BIRD      wading                       0B01032
+  271Rails
+     BIRD      wading                       0B00271
+  535Striated heron                     Butorides striatus
+     BIRD      wading                       0B00535
+ 1004Wading birds
+     BIRD      wading                       0B01004
+  150Black rail                         Laterallus jamaicensis
+     BIRD      wading    G4            200412B00150
+   89Snowy egret                        Egretta thula
+     BIRD      wading    G5            200412B00089
+   90Black-crowned night-heron          Nycticorax nycticorax
+     BIRD      wading    G5            200412B00090
+   91Glossy ibis                        Plegadis falcinellus
+     BIRD      wading    G5            200412B00091
+   54Great blue heron                   Ardea herodias
+     BIRD      wading    G5            200412B00054
+   87Little blue heron                  Egretta caerulea
+     BIRD      wading    G5            200412B00087
+   88Great egret                        Ardea alba
+     BIRD      wading    G5            200412B00088
+  115White ibis                         Eudocimus albus
+     BIRD      wading    G5            200412B00115
+  120Yellow-crowned night-heron         Nyctanassa violacea
+     BIRD      wading    G5            200412B00120
+  125Clapper rail                       Rallus longirostris
+     BIRD      wading    G5            200412B00125
+   93Cattle egret                       Bubulcus ibis
+     BIRD      wading    G5            200412B00093
+   94Tricolored heron                   Egretta tricolor
+     BIRD      wading    G5            200412B00094
+   97Green heron                        Butorides virescens
+     BIRD      wading    G5            200412B00097
+  186American black duck                Anas rubripes
+     BIRD      waterfowl G5            200412B00186
+  180Ring-necked duck                   Aythya collaris
+     BIRD      waterfowl G5            200412B00180
+  191Wood duck                          Aix sponsa
+     BIRD      waterfowl G5            200412B00191
+  190Blue-winged teal                   Anas discors
+     BIRD      waterfowl G5            200412B00190
+  148Ruddy duck                         Oxyura jamaicensis
+     BIRD      waterfowl G5            200412B00148
+  124Redhead                            Aythya americana
+     BIRD      waterfowl G5            200412B00124
+  169American wigeon                    Anas americana
+     BIRD      waterfowl G5            200412B00169
+  162Gadwall                            Anas strepera
+     BIRD      waterfowl G5            200412B00162
+  192Common moorhen                     Gallinula chloropus
+     BIRD      waterfowl G5            200412B00192
+ 1013Dabbling ducks
+     BIRD      waterfowl                    0B01013
+  302Scoters                            Melanitta spp.
+     BIRD      waterfowl                    0B00302
+ 1027Swans                              Cygnus spp.
+     BIRD      waterfowl                    0B01027
+ 1019Sea ducks
+     BIRD      waterfowl                    0B01019
+  217Mute swan                          Cygnus olor
+     BIRD      waterfowl                    0B00217
+  197Black scoter                       Melanitta nigra
+     BIRD      waterfowl G5            200412B00197
+  301Mergansers
+     BIRD      waterfowl                    0B00301
+  299Scaup                              Aythya spp.
+     BIRD      waterfowl                    0B00299
+   34American coot                      Fulica americana
+     BIRD      waterfowl G5            200412B00034
+   17Northern pintail                   Anas acuta
+     BIRD      waterfowl G5            200412B00017
+   16Mallard                            Anas platyrhynchos
+     BIRD      waterfowl G5            200412B00016
+   20Northern shoveler                  Anas clypeata
+     BIRD      waterfowl G5            200412B00020
+   18Green-winged teal                  Anas crecca
+     BIRD      waterfowl G5            200412B00018
+   12Canada goose                       Branta canadensis
+     BIRD      waterfowl G5            200412B00012
+   11Tundra swan                        Cygnus columbianus
+     BIRD      waterfowl G5            200412B00011
+   15Snow goose                         Chen caerulescens
+     BIRD      waterfowl G5            200412B00015
+   13Brant                              Branta bernicla
+     BIRD      waterfowl G5            200412B00013
+   21Canvasback                         Aythya valisineria
+     BIRD      waterfowl G5            200412B00021
+   30Surf scoter                        Melanitta perspicillata
+     BIRD      waterfowl G5            200412B00030
+   29White-winged scoter                Melanitta fusca
+     BIRD      waterfowl G5            200412B00029
+   33Red-breasted merganser             Mergus serrator
+     BIRD      waterfowl G5            200412B00033
+   32Common merganser                   Mergus merganser
+     BIRD      waterfowl G5            200412B00032
+   24Common goldeneye                   Bucephala clangula
+     BIRD      waterfowl G5            200412B00024
+   23Lesser scaup                       Aythya affinis
+     BIRD      waterfowl G5            200412B00023
+   27Long-tailed duck                   Clangula hyemalis
+     BIRD      waterfowl G5            200412B00027
+   26Bufflehead                         Bucephala albeola
+     BIRD      waterfowl G5            200412B00026
+  104Striped bass                       Morone saxatilis
+     FISH      diadromousG5            200412F00104
+  102Atlantic sturgeon                  Acipenser oxyrinchus
+     FISH      diadromousG3            200412F00102
+  163Gizzard shad                       Dorosoma cepedianum
+     FISH      diadromousG5            200412F00163
+  105Hickory shad                       Alosa mediocris
+     FISH      diadromousG5            200412F00105
+  101Shortnose sturgeon                 Acipenser brevirostrum
+     FISH      diadromousG3            200412F00101
+   86Blueback herring                   Alosa aestivalis
+     FISH      diadromousG5            200412F00086
+   85Alewife                            Alosa pseudoharengus
+     FISH      diadromousG5            200412F00085
+   98American eel                       Anguilla rostrata
+     FISH      diadromousG5            200412F00098
+   87American shad                      Alosa sapidissima
+     FISH      diadromousG5            200412F00087
+  138Weakfish                           Cynoscion regalis
+     FISH      e_nursery                    0F00138
+  145White perch                        Morone americana
+     FISH      e_nursery G5            200412F00145
+  123Atlantic croaker                   Micropogonias undulatus
+     FISH      e_nursery                    0F00123
+  124Southern kingfish (whiting)        Menticirrhus americanus
+     FISH      e_nursery                    0F00124
+  146Atlantic herring                   Clupea harengus
+     FISH      e_nursery                    0F00146
+  153Northern kingfish                  Menticirrhus saxatilis
+     FISH      e_nursery                    0F00153
+  366Hogchoker                          Trinectes maculatus
+     FISH      e_nursery G5            200412F00366
+  150Scup (porgy)                       Stenotomus chrysops
+     FISH      e_nursery                    0F00150
+  151Northern puffer                    Sphoeroides maculatus
+     FISH      e_nursery                    0F00151
+  122Black drum                         Pogonias cromis
+     FISH      e_nursery                    0F00122
+  107Spotted seatrout                   Cynoscion nebulosus
+     FISH      e_nursery                    0F00107
+  108Summer flounder                    Paralichthys dentatus
+     FISH      e_nursery                    0F00108
+   65Bluefish                           Pomatomus saltatrix
+     FISH      e_nursery                    0F00065
+   88Winter flounder                    Pleuronectes americanus
+     FISH      e_nursery                    0F00088
+  109Red drum                           Sciaenops ocellatus
+     FISH      e_nursery                    0F00109
+  115Atlantic menhaden                  Brevoortia tyrannus
+     FISH      e_nursery                    0F00115
+  121Spot                               Leiostomus xanthurus
+     FISH      e_nursery                    0F00121
+  110Black sea bass                     Centropristis striata
+     FISH      e_nursery                    0F00110
+  113Bay anchovy                        Anchoa mitchilli
+     FISH      e_nursery                    0F00113
+  283Killifish                          Fundulus spp.
+     FISH      e_resident                   0F00283
+  271Inland silverside                  Menidia beryllina
+     FISH      e_residentG5            200412F00271
+  482Northern pipefish                  Syngnathus fuscus
+     FISH      e_resident                   0F00482
+  335Silversides
+     FISH      e_resident                   0F00335
+   94Atlantic silverside                Menidia menidia
+     FISH      e_resident                   0F00094
+   93Striped killifish                  Fundulus majalis
+     FISH      e_resident                   0F00093
+  119Silver perch                       Bairdiella chrysoura
+     FISH      e_resident                   0F00119
+   95Mummichog                          Fundulus heteroclitus
+     FISH      e_resident                   0F00095
+  464Longnose gar                       Lepisosteus osseus
+     FISH      freshwaterG5            200412F00464
+  466Minnows
+     FISH      freshwater                   0F00466
+  292Chain pickerel                     Esox niger
+     FISH      freshwaterG5            200412F00292
+  212Pumpkinseed                        Lepomis gibbosus
+     FISH      freshwaterG5            200412F00212
+  218Bowfin                             Amia calva
+     FISH      freshwaterG5            200412F00218
+  506White catfish                      Ameiurus catus
+     FISH      freshwaterG5            200412F00506
+  985Redbreast sunfish                  Lepomis auritus
+     FISH      freshwaterG5            200412F00985
+  986Tessellated darter                 Etheostoma olmstedi
+     FISH      freshwaterG5            200412F00986
+  984Bluespotted sunfish                Enneacanthus gloriosus
+     FISH      freshwaterG5            200412F00984
+  616Quillback                          Carpiodes cyprinus
+     FISH      freshwaterG5            200412F00616
+  648Chubsucker                         Erimyzon sp.
+     FISH      freshwater                   0F00648
+  162Common carp                        Cyprinus carpio
+     FISH      freshwater                   0F00162
+  179Largemouth bass                    Micropterus salmoides
+     FISH      freshwaterG5            200412F00179
+  159Banded killifish                   Fundulus diaphanus
+     FISH      freshwaterG5            200412F00159
+  103Threadfin shad                     Dorosoma petenense
+     FISH      freshwaterG5            200412F00103
+  152Yellow perch                       Perca flavescens
+     FISH      freshwaterG5            200412F00152
+  181Black crappie                      Pomoxis nigromaculatus
+     FISH      freshwaterG5            200412F00181
+  201Channel catfish                    Ictalurus punctatus
+     FISH      freshwaterG5            200412F00201
+  211Brown bullhead                     Ameiurus nebulosus
+     FISH      freshwaterG5            200412F00211
+  200Blue catfish                       Ictalurus furcatus
+     FISH      freshwaterG5            200412F00200
+  182Bluegill                           Lepomis macrochirus
+     FISH      freshwaterG5            200412F00182
+  191Shorthead redhorse                 Moxostoma macrolepidotum
+     FISH      freshwaterG5            200412F00191
+  310Atlantic spadefish                 Chaetodipterus faber
+     FISH      m_benthic                    0F00310
+  294Spotted hake                       Urophycis regia
+     FISH      m_benthic                    0F00294
+  483Northern searobin                  Prionotus carolinus
+     FISH      m_benthic                    0F00483
+ 1029Gobies
+     FISH      m_benthic                    0F01029
+  966Clearnose skate                    Raja eglanteria
+     FISH      m_benthic                    0F00966
+   97Tautog                             Tautoga onitis
+     FISH      m_benthic                    0F00097
+   90White hake                         Urophycis tenuis
+     FISH      m_benthic                    0F00090
+  148Silver hake                        Merluccius bilinearis
+     FISH      m_benthic                    0F00148
+  155Red hake                           Urophycis chuss
+     FISH      m_benthic                    0F00155
+  154Pollock                            Pollachius virens
+     FISH      m_benthic                    0F00154
+  290Striped anchovy                    Anchoa hepsetus
+     FISH      m_pelagic                    0F00290
+  158Butterfish                         Peprilus triacanthus
+     FISH      m_pelagic                    0F00158
+  967Sandbar shark                      Carcharhinus plumbeus
+     FISH      m_pelagic                    0F00967
+  312Harvestfish                        Peprilus alepidotus
+     FISH      m_pelagic                    0F00312
+  127Spanish mackerel                   Scomberomorus maculatus
+     FISH      m_pelagic                    0F00127
+   81Spiny dogfish                      Squalus acanthias
+     FISH      m_pelagic                    0F00081
+  147Atlantic mackerel                  Scomber scombrus
+     FISH      m_pelagic                    0F00147
+  142Crevalle jack                      Caranx hippos
+     FISH      m_pelagic                    0F00142
+ 1053Native coastal strand vegetation
+     HABITAT   plant                        0H01053
+  610Dixie sandmat                      Chamaesyce bombensis
+     HABITAT   plant                        0H00610
+  214Rare plant
+     HABITAT   plant                        0H00214
+  609Submerged aquatic vegetation
+     HABITAT   sav                          0H00609
+  611Maritime dune scrub
+     HABITAT   upland                       0H00611
+  187Sea-beach knotweed                 Polygonum glaucum
+     HABITAT   upland                       0H00187
+ 1035Sea level fen
+     HABITAT   wetland                      0H01035
+  145Seabeach amaranth                  Amaranthus pumilus
+     HABITAT   wetland                      0H00145
+   82Brackishwater clam                 Rangia cuneata
+     INVERT    bivalve                      0I00082
+  506Carolina marsh clam                Polymesoda caroliniana
+     INVERT    bivalve                      0I00506
+   42Northern quahog (hard clam)        Mercenaria mercenaria
+     INVERT    bivalve                      0I00042
+   43Eastern oyster                     Crassostrea virginica
+     INVERT    bivalve                      0I00043
+   49Blue crab                          Callinectes sapidus
+     INVERT    crab                         0I00049
+   44Horseshoe crab                     Limulus polyphemus
+     INVERT    crab                         0I00044
+   47Knobbed whelk                      Busycon carica
+     INVERT    gastropod                    0I00047
+   46Channeled whelk                    Busycon canaliculatum
+     INVERT    gastropod                    0I00046
+  507Little white tiger beetle          Cicindela lepida
+     INVERT    insect    G4            200412I00507
+  505Monarch butterfly                  Danaus plexippus
+     INVERT    insect    G4            200412I00505
+  285Northeastern beach tiger beetle    Cicindela dorsalis dorsalis
+     INVERT    insect                       0I00285
+   60Short-beaked saddleback dolphin    Delphinus delphis
+     M_MAMMAL  dolphin   G5            200412M00060
+   17Bottlenose dolphin                 Tursiops truncatus
+     M_MAMMAL  dolphin   G5            200412M00017
+    6Harbor porpoise                    Phocoena phocoena
+     M_MAMMAL  dolphin   G4G5          200412M00006
+    2Harbor seal                        Phoca vitulina
+     M_MAMMAL  pinniped  G5            200412M00002
+   13Humpback whale                     Megaptera novaeangliae
+     M_MAMMAL  whale     G3            200412M00013
+    6Loggerhead sea turtle              Caretta caretta
+     REPTILE   turtle    G3            200412R00006
+    7Diamondback terrapin               Malaclemys terrapin
+     REPTILE   turtle    G4            200412R00007
+    5Leatherback sea turtle             Dermochelys coriacea
+     REPTILE   turtle    G2            200412R00005
+    2Green sea turtle                   Chelonia mydas
+     REPTILE   turtle    G3            200412R00002
+    4Kemp's ridley sea turtle           Lepidochelys kempii
+     REPTILE   turtle    G1            200412R00004
+    8Northern river otter               Lutra canadensis
+     T_MAMMAL  sm_mammal                    0T00008
+EOI
+EOS
