@@ -1,0 +1,167 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ValueId": 1, "PolyId": 2, "AREA": 0.000058, "PERIMETER": 0.065701, "T_MAMMAL#": 2, "T_MAMMAL-ID": 1, "ID": 550900002, "RARNUM": 55000847 }, "geometry": { "type": "Point", "coordinates": [ -77.231652, 38.643652 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2, "PolyId": 3, "AREA": 0.000063, "PERIMETER": 0.143688, "T_MAMMAL#": 3, "T_MAMMAL-ID": 2, "ID": 550900003, "RARNUM": 55000847 }, "geometry": { "type": "Point", "coordinates": [ -77.163299, 38.636573 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 3, "PolyId": 4, "AREA": 0.000013, "PERIMETER": 0.025720, "T_MAMMAL#": 4, "T_MAMMAL-ID": 3, "ID": 550900004, "RARNUM": 55000847 }, "geometry": { "type": "Point", "coordinates": [ -77.205360, 38.637566 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 4, "PolyId": 5, "AREA": 0.000000, "PERIMETER": 0.000266, "T_MAMMAL#": 5, "T_MAMMAL-ID": 4, "ID": 550900005, "RARNUM": 55000847 }, "geometry": { "type": "Point", "coordinates": [ -77.157999, 38.638736 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 6, "PolyId": 6, "AREA": 0.000002, "PERIMETER": 0.009160, "T_MAMMAL#": 6, "T_MAMMAL-ID": 6, "ID": 550900007, "RARNUM": 55000847 }, "geometry": { "type": "Point", "coordinates": [ -77.156260, 38.637338 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 5, "PolyId": 7, "AREA": 0.000003, "PERIMETER": 0.007232, "T_MAMMAL#": 7, "T_MAMMAL-ID": 5, "ID": 550900006, "RARNUM": 55000847 }, "geometry": { "type": "Point", "coordinates": [ -77.214349, 38.636858 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 7, "PolyId": 8, "AREA": 0.000008, "PERIMETER": 0.026873, "T_MAMMAL#": 8, "T_MAMMAL-ID": 7, "ID": 550900008, "RARNUM": 55000847 }, "geometry": { "type": "Point", "coordinates": [ -77.209440, 38.632028 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 8, "PolyId": 9, "AREA": 0.000000, "PERIMETER": 0.003394, "T_MAMMAL#": 9, "T_MAMMAL-ID": 8, "ID": 550900009, "RARNUM": 55000847 }, "geometry": { "type": "Point", "coordinates": [ -77.163746, 38.631544 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 9, "PolyId": 10, "AREA": 0.000010, "PERIMETER": 0.022453, "T_MAMMAL#": 10, "T_MAMMAL-ID": 9, "ID": 550900010, "RARNUM": 55000847 }, "geometry": { "type": "Point", "coordinates": [ -77.204135, 38.626444 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 10, "PolyId": 11, "AREA": 0.000000, "PERIMETER": 0.001605, "T_MAMMAL#": 11, "T_MAMMAL-ID": 10, "ID": 550900011, "RARNUM": 55000846 }, "geometry": { "type": "Point", "coordinates": [ -75.251123, 38.026498 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 11, "PolyId": 12, "AREA": 0.003321, "PERIMETER": 2.393153, "T_MAMMAL#": 12, "T_MAMMAL-ID": 11, "ID": 550900012, "RARNUM": 55000846 }, "geometry": { "type": "Point", "coordinates": [ -75.333114, 37.955697 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 12, "PolyId": 13, "AREA": 0.000003, "PERIMETER": 0.007101, "T_MAMMAL#": 13, "T_MAMMAL-ID": 12, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.274680, 38.022264 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 13, "PolyId": 14, "AREA": 0.000005, "PERIMETER": 0.012415, "T_MAMMAL#": 14, "T_MAMMAL-ID": 13, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.272736, 38.020632 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 14, "PolyId": 15, "AREA": 0.000005, "PERIMETER": 0.013688, "T_MAMMAL#": 15, "T_MAMMAL-ID": 14, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.281525, 38.018861 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 15, "PolyId": 16, "AREA": 0.000000, "PERIMETER": 0.001172, "T_MAMMAL#": 16, "T_MAMMAL-ID": 15, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.271879, 38.018599 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 16, "PolyId": 17, "AREA": 0.000002, "PERIMETER": 0.006381, "T_MAMMAL#": 17, "T_MAMMAL-ID": 16, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.271218, 38.017001 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 17, "PolyId": 18, "AREA": 0.000008, "PERIMETER": 0.016311, "T_MAMMAL#": 18, "T_MAMMAL-ID": 17, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.281725, 38.013990 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 18, "PolyId": 19, "AREA": 0.000001, "PERIMETER": 0.006473, "T_MAMMAL#": 19, "T_MAMMAL-ID": 18, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.266476, 38.014524 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 19, "PolyId": 20, "AREA": 0.000000, "PERIMETER": 0.001654, "T_MAMMAL#": 20, "T_MAMMAL-ID": 19, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.263867, 38.013843 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 20, "PolyId": 21, "AREA": 0.000007, "PERIMETER": 0.018883, "T_MAMMAL#": 21, "T_MAMMAL-ID": 20, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.269065, 38.011127 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 21, "PolyId": 22, "AREA": 0.000009, "PERIMETER": 0.019667, "T_MAMMAL#": 22, "T_MAMMAL-ID": 21, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.279318, 38.011298 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 22, "PolyId": 23, "AREA": 0.000000, "PERIMETER": 0.001543, "T_MAMMAL#": 23, "T_MAMMAL-ID": 22, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.264759, 38.012788 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23, "PolyId": 24, "AREA": 0.000000, "PERIMETER": 0.002176, "T_MAMMAL#": 24, "T_MAMMAL-ID": 23, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.276135, 38.011033 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 24, "PolyId": 25, "AREA": 0.000001, "PERIMETER": 0.004863, "T_MAMMAL#": 25, "T_MAMMAL-ID": 24, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.294168, 38.005347 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 25, "PolyId": 26, "AREA": 0.000001, "PERIMETER": 0.006207, "T_MAMMAL#": 26, "T_MAMMAL-ID": 25, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.295831, 38.002661 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 26, "PolyId": 27, "AREA": 0.000000, "PERIMETER": 0.000447, "T_MAMMAL#": 27, "T_MAMMAL-ID": 26, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.296858, 38.002125 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 27, "PolyId": 28, "AREA": 0.000000, "PERIMETER": 0.000708, "T_MAMMAL#": 28, "T_MAMMAL-ID": 27, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.302197, 37.983096 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 28, "PolyId": 29, "AREA": 0.000000, "PERIMETER": 0.000618, "T_MAMMAL#": 29, "T_MAMMAL-ID": 28, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.301682, 37.982984 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 29, "PolyId": 30, "AREA": 0.000002, "PERIMETER": 0.041099, "T_MAMMAL#": 30, "T_MAMMAL-ID": 29, "ID": 550900030, "RARNUM": 55000846 }, "geometry": { "type": "Point", "coordinates": [ -75.320556, 37.979132 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 30, "PolyId": 31, "AREA": 0.000000, "PERIMETER": 0.002103, "T_MAMMAL#": 31, "T_MAMMAL-ID": 30, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.317394, 37.967161 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 31, "PolyId": 32, "AREA": 0.000002, "PERIMETER": 0.006761, "T_MAMMAL#": 32, "T_MAMMAL-ID": 31, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.320445, 37.960617 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 32, "PolyId": 33, "AREA": 0.000002, "PERIMETER": 0.006227, "T_MAMMAL#": 33, "T_MAMMAL-ID": 32, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.327501, 37.958477 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 33, "PolyId": 34, "AREA": 0.000000, "PERIMETER": 0.001227, "T_MAMMAL#": 34, "T_MAMMAL-ID": 33, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.319127, 37.958608 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 34, "PolyId": 35, "AREA": 0.000000, "PERIMETER": 0.000696, "T_MAMMAL#": 35, "T_MAMMAL-ID": 34, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.319273, 37.958104 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 35, "PolyId": 36, "AREA": 0.000000, "PERIMETER": 0.001824, "T_MAMMAL#": 36, "T_MAMMAL-ID": 35, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.319742, 37.957730 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 36, "PolyId": 37, "AREA": 0.000002, "PERIMETER": 0.008266, "T_MAMMAL#": 37, "T_MAMMAL-ID": 36, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.328105, 37.955055 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 37, "PolyId": 38, "AREA": 0.000000, "PERIMETER": 0.002469, "T_MAMMAL#": 38, "T_MAMMAL-ID": 37, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.328784, 37.954336 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 38, "PolyId": 39, "AREA": 0.000012, "PERIMETER": 0.031905, "T_MAMMAL#": 39, "T_MAMMAL-ID": 38, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.328419, 37.951358 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 39, "PolyId": 40, "AREA": 0.000000, "PERIMETER": 0.001194, "T_MAMMAL#": 40, "T_MAMMAL-ID": 39, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.319565, 37.950147 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 40, "PolyId": 41, "AREA": 0.000082, "PERIMETER": 0.077833, "T_MAMMAL#": 41, "T_MAMMAL-ID": 40, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.330421, 37.945438 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 41, "PolyId": 42, "AREA": 0.000000, "PERIMETER": 0.002547, "T_MAMMAL#": 42, "T_MAMMAL-ID": 41, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.335861, 37.947287 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 42, "PolyId": 43, "AREA": 0.000015, "PERIMETER": 0.021755, "T_MAMMAL#": 43, "T_MAMMAL-ID": 42, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.322140, 37.943362 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 43, "PolyId": 44, "AREA": 0.000032, "PERIMETER": 0.042590, "T_MAMMAL#": 44, "T_MAMMAL-ID": 43, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.339102, 37.941631 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44, "PolyId": 45, "AREA": 0.000000, "PERIMETER": 0.003178, "T_MAMMAL#": 45, "T_MAMMAL-ID": 44, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.319212, 37.943784 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 45, "PolyId": 46, "AREA": 0.000001, "PERIMETER": 0.003006, "T_MAMMAL#": 46, "T_MAMMAL-ID": 45, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.345530, 37.943275 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 46, "PolyId": 47, "AREA": 0.000002, "PERIMETER": 0.004948, "T_MAMMAL#": 47, "T_MAMMAL-ID": 46, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.343481, 37.941437 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 47, "PolyId": 48, "AREA": 0.000000, "PERIMETER": 0.001643, "T_MAMMAL#": 48, "T_MAMMAL-ID": 47, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.339797, 37.939420 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 48, "PolyId": 49, "AREA": 0.000003, "PERIMETER": 0.010776, "T_MAMMAL#": 49, "T_MAMMAL-ID": 48, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.345702, 37.938230 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 49, "PolyId": 50, "AREA": 0.000001, "PERIMETER": 0.008592, "T_MAMMAL#": 50, "T_MAMMAL-ID": 49, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.348352, 37.936216 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 50, "PolyId": 51, "AREA": 0.000000, "PERIMETER": 0.001985, "T_MAMMAL#": 51, "T_MAMMAL-ID": 50, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.347276, 37.936621 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 51, "PolyId": 52, "AREA": 0.000005, "PERIMETER": 0.015914, "T_MAMMAL#": 52, "T_MAMMAL-ID": 51, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.339595, 37.934004 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 52, "PolyId": 53, "AREA": 0.000000, "PERIMETER": 0.000897, "T_MAMMAL#": 53, "T_MAMMAL-ID": 52, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.347767, 37.936238 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 53, "PolyId": 54, "AREA": 0.000000, "PERIMETER": 0.003654, "T_MAMMAL#": 54, "T_MAMMAL-ID": 53, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.335790, 37.935894 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 54, "PolyId": 55, "AREA": 0.000035, "PERIMETER": 0.044652, "T_MAMMAL#": 55, "T_MAMMAL-ID": 54, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.337723, 37.926231 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 55, "PolyId": 56, "AREA": 0.000001, "PERIMETER": 0.005031, "T_MAMMAL#": 56, "T_MAMMAL-ID": 55, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.342106, 37.925831 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 56, "PolyId": 57, "AREA": 0.000006, "PERIMETER": 0.020115, "T_MAMMAL#": 57, "T_MAMMAL-ID": 56, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.342297, 37.922334 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 57, "PolyId": 58, "AREA": 0.000000, "PERIMETER": 0.002621, "T_MAMMAL#": 58, "T_MAMMAL-ID": 57, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.342358, 37.923420 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58, "PolyId": 59, "AREA": 0.000001, "PERIMETER": 0.004650, "T_MAMMAL#": 59, "T_MAMMAL-ID": 58, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.345994, 37.921884 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 59, "PolyId": 60, "AREA": 0.000025, "PERIMETER": 0.032358, "T_MAMMAL#": 60, "T_MAMMAL-ID": 59, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.362525, 37.919491 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 60, "PolyId": 61, "AREA": 0.000007, "PERIMETER": 0.025217, "T_MAMMAL#": 61, "T_MAMMAL-ID": 60, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.369318, 37.918316 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 61, "PolyId": 62, "AREA": 0.000000, "PERIMETER": 0.002287, "T_MAMMAL#": 62, "T_MAMMAL-ID": 61, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.341624, 37.920171 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 62, "PolyId": 63, "AREA": 0.000000, "PERIMETER": 0.001807, "T_MAMMAL#": 63, "T_MAMMAL-ID": 62, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.359506, 37.919535 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 63, "PolyId": 64, "AREA": 0.000003, "PERIMETER": 0.009104, "T_MAMMAL#": 64, "T_MAMMAL-ID": 63, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.350422, 37.918719 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 64, "PolyId": 65, "AREA": 0.000000, "PERIMETER": 0.000623, "T_MAMMAL#": 65, "T_MAMMAL-ID": 64, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.359263, 37.919318 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 65, "PolyId": 66, "AREA": 0.000001, "PERIMETER": 0.004534, "T_MAMMAL#": 66, "T_MAMMAL-ID": 65, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.351705, 37.918349 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 66, "PolyId": 67, "AREA": 0.000001, "PERIMETER": 0.004652, "T_MAMMAL#": 67, "T_MAMMAL-ID": 66, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.352977, 37.918271 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 67, "PolyId": 68, "AREA": 0.000038, "PERIMETER": 0.047055, "T_MAMMAL#": 68, "T_MAMMAL-ID": 67, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.363487, 37.915591 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 68, "PolyId": 69, "AREA": 0.000000, "PERIMETER": 0.000892, "T_MAMMAL#": 69, "T_MAMMAL-ID": 68, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.364996, 37.917468 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 69, "PolyId": 70, "AREA": 0.000002, "PERIMETER": 0.009388, "T_MAMMAL#": 70, "T_MAMMAL-ID": 69, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.353312, 37.915918 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 70, "PolyId": 71, "AREA": 0.000017, "PERIMETER": 0.031402, "T_MAMMAL#": 71, "T_MAMMAL-ID": 70, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.374956, 37.911842 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 71, "PolyId": 72, "AREA": 0.000002, "PERIMETER": 0.013446, "T_MAMMAL#": 72, "T_MAMMAL-ID": 71, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.368483, 37.913230 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 72, "PolyId": 73, "AREA": 0.000002, "PERIMETER": 0.017682, "T_MAMMAL#": 73, "T_MAMMAL-ID": 72, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.381701, 37.910340 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 73, "PolyId": 74, "AREA": 0.000002, "PERIMETER": 0.005756, "T_MAMMAL#": 74, "T_MAMMAL-ID": 73, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.377019, 37.912458 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 74, "PolyId": 75, "AREA": 0.000000, "PERIMETER": 0.000918, "T_MAMMAL#": 75, "T_MAMMAL-ID": 74, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.386749, 37.905062 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 75, "PolyId": 76, "AREA": 0.000000, "PERIMETER": 0.003677, "T_MAMMAL#": 76, "T_MAMMAL-ID": 75, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.391453, 37.903947 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 76, "PolyId": 77, "AREA": 0.000000, "PERIMETER": 0.001394, "T_MAMMAL#": 77, "T_MAMMAL-ID": 76, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.393201, 37.904025 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 77, "PolyId": 78, "AREA": 0.000000, "PERIMETER": 0.002574, "T_MAMMAL#": 78, "T_MAMMAL-ID": 77, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.393786, 37.903527 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 78, "PolyId": 79, "AREA": 0.000000, "PERIMETER": 0.001285, "T_MAMMAL#": 79, "T_MAMMAL-ID": 78, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.391751, 37.903537 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 79, "PolyId": 80, "AREA": 0.000000, "PERIMETER": 0.000907, "T_MAMMAL#": 80, "T_MAMMAL-ID": 79, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.390873, 37.902770 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 80, "PolyId": 81, "AREA": 0.000006, "PERIMETER": 0.011952, "T_MAMMAL#": 81, "T_MAMMAL-ID": 80, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.348658, 37.889853 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 81, "PolyId": 82, "AREA": 0.000000, "PERIMETER": 0.002365, "T_MAMMAL#": 82, "T_MAMMAL-ID": 81, "ID": 9999, "RARNUM": 0 }, "geometry": { "type": "Point", "coordinates": [ -75.346546, 37.890574 ] } }
+
+]
+}

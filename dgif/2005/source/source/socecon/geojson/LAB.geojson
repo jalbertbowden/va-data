@@ -1,0 +1,851 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ValueId": 2, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 1, "SOCECON-ID": 2, "TYPE": "CG", "ID": 551000001, "HUNUM": 55000064 }, "geometry": { "type": "Point", "coordinates": [ -75.881111, 36.601940 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 1, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 2, "SOCECON-ID": 1, "TYPE": "BR", "ID": 551000002, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.888477, 36.595118 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 3, "SOCECON-ID": 2, "TYPE": "BR", "ID": 551000003, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.888212, 36.593899 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 151, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 4, "SOCECON-ID": 151, "TYPE": "BR", "ID": 551000004, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.993772, 36.590430 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 4, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 5, "SOCECON-ID": 4, "TYPE": "BR", "ID": 551000005, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.992883, 36.589692 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 3, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 6, "SOCECON-ID": 3, "TYPE": "BR", "ID": 551000006, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.994216, 36.568684 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 307, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 7, "SOCECON-ID": 307, "TYPE": "CG", "ID": 551000007, "HUNUM": 55000065 }, "geometry": { "type": "Point", "coordinates": [ -75.924171, 36.693061 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 311, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 8, "SOCECON-ID": 311, "TYPE": "BR", "ID": 551000008, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.981613, 36.656621 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 312, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 9, "SOCECON-ID": 312, "TYPE": "WI", "ID": 551000009, "HUNUM": 55000145 }, "geometry": { "type": "Point", "coordinates": [ -75.913343, 36.647215 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 310, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 10, "SOCECON-ID": 310, "TYPE": "BR", "ID": 551000010, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.992867, 36.634236 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 456, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 11, "SOCECON-ID": 456, "TYPE": "BR", "ID": 551000011, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.991440, 36.633089 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 814, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 12, "SOCECON-ID": 814, "TYPE": "HP", "ID": 551000012, "HUNUM": 55000087 }, "geometry": { "type": "Point", "coordinates": [ -75.987503, 36.846668 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 915, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 13, "SOCECON-ID": 915, "TYPE": "BR", "ID": 551000013, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.981966, 36.822802 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 916, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 14, "SOCECON-ID": 916, "TYPE": "B", "ID": 551000014, "HUNUM": 55000162 }, "geometry": { "type": "Point", "coordinates": [ -75.948338, 36.756760 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 917, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 15, "SOCECON-ID": 917, "TYPE": "B", "ID": 551000015, "HUNUM": 55000162 }, "geometry": { "type": "Point", "coordinates": [ -75.974525, 36.852135 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 1387, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 16, "SOCECON-ID": 1387, "TYPE": "LD", "ID": 551000016, "HUNUM": 55000097 }, "geometry": { "type": "Point", "coordinates": [ -76.055118, 36.872471 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 1388, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 17, "SOCECON-ID": 1388, "TYPE": "M", "ID": 551000017, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.006056, 36.868600 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 1389, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 18, "SOCECON-ID": 1389, "TYPE": "BR", "ID": 551000018, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.006077, 36.868535 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 1194, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 19, "SOCECON-ID": 1194, "TYPE": "HP", "ID": 551000019, "HUNUM": 55000095 }, "geometry": { "type": "Point", "coordinates": [ -76.026108, 36.866112 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 1192, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 20, "SOCECON-ID": 1192, "TYPE": "HP", "ID": 551000020, "HUNUM": 55000078 }, "geometry": { "type": "Point", "coordinates": [ -76.034722, 36.865280 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 1193, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 21, "SOCECON-ID": 1193, "TYPE": "A", "ID": 551000021, "HUNUM": 55000036 }, "geometry": { "type": "Point", "coordinates": [ -76.033890, 36.820560 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 1195, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 22, "SOCECON-ID": 1195, "TYPE": "HP", "ID": 551000022, "HUNUM": 55000096 }, "geometry": { "type": "Point", "coordinates": [ -76.058609, 36.750832 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 1876, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 23, "SOCECON-ID": 1876, "TYPE": "LD", "ID": 551000023, "HUNUM": 55000097 }, "geometry": { "type": "Point", "coordinates": [ -76.127920, 36.855150 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 1579, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 24, "SOCECON-ID": 1579, "TYPE": "HP", "ID": 551000024, "HUNUM": 55000072 }, "geometry": { "type": "Point", "coordinates": [ -76.238327, 36.795830 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 1578, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 25, "SOCECON-ID": 1578, "TYPE": "HP", "ID": 551000025, "HUNUM": 55000068 }, "geometry": { "type": "Point", "coordinates": [ -76.226669, 36.788608 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2128, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 26, "SOCECON-ID": 2128, "TYPE": "HP", "ID": 551000026, "HUNUM": 55000094 }, "geometry": { "type": "Point", "coordinates": [ -76.303887, 36.861111 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2127, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 27, "SOCECON-ID": 2127, "TYPE": "A", "ID": 551000027, "HUNUM": 55000034 }, "geometry": { "type": "Point", "coordinates": [ -76.303887, 36.861111 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2505, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 28, "SOCECON-ID": 2505, "TYPE": "BR", "ID": 551000028, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.274340, 36.840872 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2126, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 29, "SOCECON-ID": 2126, "TYPE": "A", "ID": 551000029, "HUNUM": 55000033 }, "geometry": { "type": "Point", "coordinates": [ -76.284172, 36.836392 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2380, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 30, "SOCECON-ID": 2380, "TYPE": "BR", "ID": 551000030, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.371591, 36.834552 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2512, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 31, "SOCECON-ID": 2512, "TYPE": "BR", "ID": 551000031, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.369701, 36.834278 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2125, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 32, "SOCECON-ID": 2125, "TYPE": "A", "ID": 551000032, "HUNUM": 55000009 }, "geometry": { "type": "Point", "coordinates": [ -76.279167, 36.781110 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2129, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 33, "SOCECON-ID": 2129, "TYPE": "A", "ID": 551000033, "HUNUM": 55000049 }, "geometry": { "type": "Point", "coordinates": [ -76.260559, 36.762779 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 3299, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 34, "SOCECON-ID": 3299, "TYPE": "BR", "ID": 551000034, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.484634, 36.851248 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2551, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 35, "SOCECON-ID": 2551, "TYPE": "A", "ID": 551000035, "HUNUM": 55000018 }, "geometry": { "type": "Point", "coordinates": [ -76.449173, 36.779998 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2550, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 36, "SOCECON-ID": 2550, "TYPE": "A", "ID": 551000036, "HUNUM": 55000010 }, "geometry": { "type": "Point", "coordinates": [ -76.445831, 36.779171 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 4236, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 37, "SOCECON-ID": 4236, "TYPE": "BR", "ID": 551000037, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.619747, 36.808675 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 4105, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 38, "SOCECON-ID": 4105, "TYPE": "M", "ID": 551000038, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.574841, 36.790970 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 3379, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 39, "SOCECON-ID": 3379, "TYPE": "HP", "ID": 551000039, "HUNUM": 55000077 }, "geometry": { "type": "Point", "coordinates": [ -76.586113, 36.752781 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 4301, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 40, "SOCECON-ID": 4301, "TYPE": "HP", "ID": 551000040, "HUNUM": 55000074 }, "geometry": { "type": "Point", "coordinates": [ -76.000000, 36.916671 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 4302, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 41, "SOCECON-ID": 4302, "TYPE": "B", "ID": 551000041, "HUNUM": 55000162 }, "geometry": { "type": "Point", "coordinates": [ -75.982649, 36.880349 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 5260, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 42, "SOCECON-ID": 5260, "TYPE": "AQ", "ID": 551000042, "HUNUM": 55000056 }, "geometry": { "type": "Point", "coordinates": [ -76.073099, 36.887625 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 5522, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 43, "SOCECON-ID": 5522, "TYPE": "AQ", "ID": 551000043, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.090069, 36.882594 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 5726, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 44, "SOCECON-ID": 5726, "TYPE": "A", "ID": 551000044, "HUNUM": 55000035 }, "geometry": { "type": "Point", "coordinates": [ -76.200829, 36.895279 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 5974, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 45, "SOCECON-ID": 5974, "TYPE": "HP", "ID": 551000045, "HUNUM": 55000071 }, "geometry": { "type": "Point", "coordinates": [ -76.304718, 36.924998 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 7349, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 46, "SOCECON-ID": 7349, "TYPE": "BR", "ID": 551000046, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.398152, 36.981547 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 8748, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 47, "SOCECON-ID": 8748, "TYPE": "M", "ID": 551000047, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.567198, 36.998058 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 8747, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 48, "SOCECON-ID": 8747, "TYPE": "M", "ID": 551000048, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.624189, 36.982477 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 8749, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 49, "SOCECON-ID": 8749, "TYPE": "BR", "ID": 551000049, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.563533, 36.974799 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 8784, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 50, "SOCECON-ID": 8784, "TYPE": "BR", "ID": 551000050, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.576856, 36.957932 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 8947, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 51, "SOCECON-ID": 8947, "TYPE": "BR", "ID": 551000051, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.578019, 36.879528 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 8948, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 52, "SOCECON-ID": 8948, "TYPE": "BR", "ID": 551000052, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.572103, 36.877989 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 10695, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 53, "SOCECON-ID": 10695, "TYPE": "BR", "ID": 551000053, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.319019, 37.107751 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 10574, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 54, "SOCECON-ID": 10574, "TYPE": "BR", "ID": 551000054, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.338235, 37.104927 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 10692, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 55, "SOCECON-ID": 10692, "TYPE": "BR", "ID": 551000055, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.295042, 37.096192 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 9105, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 56, "SOCECON-ID": 9105, "TYPE": "HP", "ID": 551000056, "HUNUM": 55000093 }, "geometry": { "type": "Point", "coordinates": [ -76.368889, 37.010831 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 10938, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 57, "SOCECON-ID": 10938, "TYPE": "HP", "ID": 551000057, "HUNUM": 55000091 }, "geometry": { "type": "Point", "coordinates": [ -76.484169, 37.065280 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 12589, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 58, "SOCECON-ID": 12589, "TYPE": "BR", "ID": 551000058, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.456581, 37.017047 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 14629, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 59, "SOCECON-ID": 14629, "TYPE": "BR", "ID": 551000059, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.568852, 37.124249 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 14513, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 60, "SOCECON-ID": 14513, "TYPE": "M", "ID": 551000060, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.518794, 37.085694 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 12824, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 61, "SOCECON-ID": 12824, "TYPE": "A", "ID": 551000061, "HUNUM": 55000001 }, "geometry": { "type": "Point", "coordinates": [ -76.588890, 37.023610 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 16730, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 62, "SOCECON-ID": 16730, "TYPE": "BR", "ID": 551000062, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.666473, 37.082744 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 16701, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 63, "SOCECON-ID": 16701, "TYPE": "M", "ID": 551000063, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.668972, 37.056054 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 19206, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 64, "SOCECON-ID": 19206, "TYPE": "AQ", "ID": 551000064, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.825010, 37.239829 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 19207, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 65, "SOCECON-ID": 19207, "TYPE": "AQ", "ID": 551000065, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.843984, 37.219808 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 19208, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 66, "SOCECON-ID": 19208, "TYPE": "AQ", "ID": 551000066, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.854713, 37.207065 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 19209, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 67, "SOCECON-ID": 19209, "TYPE": "AQ", "ID": 551000067, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.848229, 37.206811 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 21993, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 68, "SOCECON-ID": 21993, "TYPE": "AQ", "ID": 551000068, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.993040, 37.248099 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 21992, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 69, "SOCECON-ID": 21992, "TYPE": "AQ", "ID": 551000069, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.998375, 37.241451 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 21991, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 70, "SOCECON-ID": 21991, "TYPE": "AQ", "ID": 551000070, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.995678, 37.239743 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 21990, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 71, "SOCECON-ID": 21990, "TYPE": "AQ", "ID": 551000071, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.994163, 37.237980 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 21989, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 72, "SOCECON-ID": 21989, "TYPE": "AQ", "ID": 551000072, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.993840, 37.235851 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 21988, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 73, "SOCECON-ID": 21988, "TYPE": "AQ", "ID": 551000073, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.995635, 37.232327 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 19560, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 74, "SOCECON-ID": 19560, "TYPE": "A", "ID": 551000074, "HUNUM": 55000046 }, "geometry": { "type": "Point", "coordinates": [ -75.977219, 37.226939 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 22067, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 75, "SOCECON-ID": 22067, "TYPE": "AQ", "ID": 551000075, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.905263, 37.205244 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 21727, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 76, "SOCECON-ID": 21727, "TYPE": "BR", "ID": 551000076, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.940857, 37.182540 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 21987, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 77, "SOCECON-ID": 21987, "TYPE": "AQ", "ID": 551000077, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.909431, 37.182468 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 21726, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 78, "SOCECON-ID": 21726, "TYPE": "BR", "ID": 551000078, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.941321, 37.178378 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 21986, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 79, "SOCECON-ID": 21986, "TYPE": "AQ", "ID": 551000079, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.910777, 37.177453 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 21725, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 80, "SOCECON-ID": 21725, "TYPE": "BR", "ID": 551000080, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.941907, 37.176027 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 21985, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 81, "SOCECON-ID": 21985, "TYPE": "AQ", "ID": 551000081, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.910681, 37.171698 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 19559, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 82, "SOCECON-ID": 19559, "TYPE": "A", "ID": 551000082, "HUNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.957222, 37.154441 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 21984, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 83, "SOCECON-ID": 21984, "TYPE": "AQ", "ID": 551000083, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.899833, 37.145994 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 21980, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 84, "SOCECON-ID": 21980, "TYPE": "AQ", "ID": 551000084, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.938199, 37.142960 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 21983, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 85, "SOCECON-ID": 21983, "TYPE": "AQ", "ID": 551000085, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.903273, 37.139732 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 21981, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 86, "SOCECON-ID": 21981, "TYPE": "AQ", "ID": 551000086, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.927765, 37.135103 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 21722, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 87, "SOCECON-ID": 21722, "TYPE": "BR", "ID": 551000087, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.948487, 37.129177 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 21982, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 88, "SOCECON-ID": 21982, "TYPE": "AQ", "ID": 551000088, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.930209, 37.127882 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 21976, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 89, "SOCECON-ID": 21976, "TYPE": "AQ", "ID": 551000089, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.909870, 37.126469 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 25215, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 90, "SOCECON-ID": 25215, "TYPE": "AQ", "ID": 551000090, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -76.005396, 37.235695 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 25214, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 91, "SOCECON-ID": 25214, "TYPE": "AQ", "ID": 551000091, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -76.012578, 37.234764 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 25216, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 92, "SOCECON-ID": 25216, "TYPE": "AQ", "ID": 551000092, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -76.000356, 37.233302 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 28771, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 93, "SOCECON-ID": 28771, "TYPE": "AQ", "ID": 551000093, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.499860, 37.249640 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 28720, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 94, "SOCECON-ID": 28720, "TYPE": "AQ", "ID": 551000094, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -76.441173, 37.223063 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 28406, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 95, "SOCECON-ID": 28406, "TYPE": "BR", "ID": 551000095, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.471216, 37.205763 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 28407, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 96, "SOCECON-ID": 28407, "TYPE": "BR", "ID": 551000096, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.437798, 37.205673 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 28409, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 97, "SOCECON-ID": 28409, "TYPE": "M", "ID": 551000097, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.422610, 37.183409 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 28627, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 98, "SOCECON-ID": 28627, "TYPE": "AQ", "ID": 551000098, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.397679, 37.183212 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 28777, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 99, "SOCECON-ID": 28777, "TYPE": "AQ", "ID": 551000099, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.399774, 37.182746 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 28543, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 100, "SOCECON-ID": 28543, "TYPE": "BR", "ID": 551000100, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.430875, 37.134382 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 28408, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 101, "SOCECON-ID": 28408, "TYPE": "BR", "ID": 551000101, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.431355, 37.134225 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 25484, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 102, "SOCECON-ID": 25484, "TYPE": "A", "ID": 551000102, "HUNUM": 55000032 }, "geometry": { "type": "Point", "coordinates": [ -76.493057, 37.131671 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 32380, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 103, "SOCECON-ID": 32380, "TYPE": "BR", "ID": 551000103, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.505132, 37.245640 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 32384, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 104, "SOCECON-ID": 32384, "TYPE": "BR", "ID": 551000104, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.503984, 37.245311 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 32385, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 105, "SOCECON-ID": 32385, "TYPE": "BR", "ID": 551000105, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.604441, 37.169767 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 29171, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 106, "SOCECON-ID": 29171, "TYPE": "HP", "ID": 551000106, "HUNUM": 55000079 }, "geometry": { "type": "Point", "coordinates": [ -76.512497, 37.143059 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 29170, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 107, "SOCECON-ID": 29170, "TYPE": "A", "ID": 551000107, "HUNUM": 55000015 }, "geometry": { "type": "Point", "coordinates": [ -76.609169, 37.132500 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 32553, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 108, "SOCECON-ID": 32553, "TYPE": "A", "ID": 551000108, "HUNUM": 55000055 }, "geometry": { "type": "Point", "coordinates": [ -76.716393, 37.238891 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 36120, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 109, "SOCECON-ID": 36120, "TYPE": "BR", "ID": 551000109, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.676171, 37.139099 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 36462, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 110, "SOCECON-ID": 36462, "TYPE": "A", "ID": 551000110, "HUNUM": 55000031 }, "geometry": { "type": "Point", "coordinates": [ -76.790283, 37.145828 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 40564, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 111, "SOCECON-ID": 40564, "TYPE": "AQ", "ID": 551000111, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.736625, 37.350646 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 45034, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 112, "SOCECON-ID": 45034, "TYPE": "AQ", "ID": 551000112, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.776414, 37.365988 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 45035, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 113, "SOCECON-ID": 45035, "TYPE": "AQ", "ID": 551000113, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.772260, 37.363832 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 45036, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 114, "SOCECON-ID": 45036, "TYPE": "AQ", "ID": 551000114, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.764578, 37.330388 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 45038, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 115, "SOCECON-ID": 45038, "TYPE": "AQ", "ID": 551000115, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.835869, 37.309515 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 45037, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 116, "SOCECON-ID": 45037, "TYPE": "AQ", "ID": 551000116, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.788668, 37.308498 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 45039, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 117, "SOCECON-ID": 45039, "TYPE": "AQ", "ID": 551000117, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.846603, 37.283532 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 45040, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 118, "SOCECON-ID": 45040, "TYPE": "AQ", "ID": 551000118, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.842575, 37.275825 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 49569, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 119, "SOCECON-ID": 49569, "TYPE": "LD", "ID": 551000119, "HUNUM": 55000097 }, "geometry": { "type": "Point", "coordinates": [ -75.981309, 37.327604 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 49834, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 120, "SOCECON-ID": 49834, "TYPE": "AQ", "ID": 551000120, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.988822, 37.322426 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 49833, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 121, "SOCECON-ID": 49833, "TYPE": "AQ", "ID": 551000121, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.985822, 37.318677 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 49832, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 122, "SOCECON-ID": 49832, "TYPE": "AQ", "ID": 551000122, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.987580, 37.314914 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 49831, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 123, "SOCECON-ID": 49831, "TYPE": "AQ", "ID": 551000123, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.996970, 37.310178 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 45113, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 124, "SOCECON-ID": 45113, "TYPE": "A", "ID": 551000124, "HUNUM": 55000013 }, "geometry": { "type": "Point", "coordinates": [ -75.935280, 37.303058 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 49565, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 125, "SOCECON-ID": 49565, "TYPE": "BR", "ID": 551000125, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.923810, 37.288568 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 49598, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 126, "SOCECON-ID": 49598, "TYPE": "BR", "ID": 551000126, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.923671, 37.288507 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 49566, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 127, "SOCECON-ID": 49566, "TYPE": "M", "ID": 551000127, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -75.923584, 37.287361 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 49571, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 128, "SOCECON-ID": 49571, "TYPE": "LD", "ID": 551000128, "HUNUM": 55000097 }, "geometry": { "type": "Point", "coordinates": [ -75.986715, 37.260537 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 54942, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 129, "SOCECON-ID": 54942, "TYPE": "AQ", "ID": 551000129, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -76.001889, 37.318165 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 54941, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 130, "SOCECON-ID": 54941, "TYPE": "AQ", "ID": 551000130, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -76.002520, 37.309840 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 49898, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 131, "SOCECON-ID": 49898, "TYPE": "HP", "ID": 551000131, "HUNUM": 55000089 }, "geometry": { "type": "Point", "coordinates": [ -76.016113, 37.309720 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 54939, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 132, "SOCECON-ID": 54939, "TYPE": "AQ", "ID": 551000132, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -76.014443, 37.307879 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 54940, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 133, "SOCECON-ID": 54940, "TYPE": "AQ", "ID": 551000133, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -76.003548, 37.304531 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 54938, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 134, "SOCECON-ID": 54938, "TYPE": "AQ", "ID": 551000134, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -76.019721, 37.302829 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 54937, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 135, "SOCECON-ID": 54937, "TYPE": "AQ", "ID": 551000135, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -76.008634, 37.301009 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 54936, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 136, "SOCECON-ID": 54936, "TYPE": "AQ", "ID": 551000136, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -76.011552, 37.300786 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 49897, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 137, "SOCECON-ID": 49897, "TYPE": "A", "ID": 551000137, "HUNUM": 55000008 }, "geometry": { "type": "Point", "coordinates": [ -76.000000, 37.288059 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 54935, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 138, "SOCECON-ID": 54935, "TYPE": "AQ", "ID": 551000138, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -76.014984, 37.284977 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 54884, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 139, "SOCECON-ID": 54884, "TYPE": "AQ", "ID": 551000139, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -76.010449, 37.284295 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 54934, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 140, "SOCECON-ID": 54934, "TYPE": "AQ", "ID": 551000140, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -76.015499, 37.280110 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 54707, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 141, "SOCECON-ID": 54707, "TYPE": "BR", "ID": 551000141, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.017178, 37.264672 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 54685, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 142, "SOCECON-ID": 54685, "TYPE": "M", "ID": 551000142, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.016165, 37.264477 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 60314, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 143, "SOCECON-ID": 60314, "TYPE": "AQ", "ID": 551000143, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.271622, 37.366716 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 65745, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 144, "SOCECON-ID": 65745, "TYPE": "BR", "ID": 551000144, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.471809, 37.320038 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 65746, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 145, "SOCECON-ID": 65746, "TYPE": "BR", "ID": 551000145, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.445053, 37.312599 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 60318, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 146, "SOCECON-ID": 60318, "TYPE": "A", "ID": 551000146, "HUNUM": 55000021 }, "geometry": { "type": "Point", "coordinates": [ -76.393059, 37.270279 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 65747, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 147, "SOCECON-ID": 65747, "TYPE": "BR", "ID": 551000147, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.421933, 37.267371 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 65750, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 148, "SOCECON-ID": 65750, "TYPE": "M", "ID": 551000148, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.422033, 37.266977 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 65749, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 149, "SOCECON-ID": 65749, "TYPE": "BR", "ID": 551000149, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.431193, 37.266053 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 65748, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 150, "SOCECON-ID": 65748, "TYPE": "BR", "ID": 551000150, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.422746, 37.264543 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 66086, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 151, "SOCECON-ID": 66086, "TYPE": "AQ", "ID": 551000151, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.481602, 37.252500 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 72112, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 152, "SOCECON-ID": 72112, "TYPE": "AQ", "ID": 551000152, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.591911, 37.345603 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 72117, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 153, "SOCECON-ID": 72117, "TYPE": "AQ", "ID": 551000153, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.575854, 37.327007 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 72118, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 154, "SOCECON-ID": 72118, "TYPE": "AQ", "ID": 551000154, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.571792, 37.322929 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 72119, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 155, "SOCECON-ID": 72119, "TYPE": "AQ", "ID": 551000155, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.576296, 37.316886 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 66172, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 156, "SOCECON-ID": 66172, "TYPE": "HP", "ID": 551000156, "HUNUM": 55000086 }, "geometry": { "type": "Point", "coordinates": [ -76.573608, 37.267780 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 78221, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 157, "SOCECON-ID": 78221, "TYPE": "BR", "ID": 551000157, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.655645, 37.348816 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 72493, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 158, "SOCECON-ID": 72493, "TYPE": "A", "ID": 551000158, "HUNUM": 55000006 }, "geometry": { "type": "Point", "coordinates": [ -76.637497, 37.305562 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 78219, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 159, "SOCECON-ID": 78219, "TYPE": "BR", "ID": 551000159, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.643804, 37.299749 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 78223, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 160, "SOCECON-ID": 78223, "TYPE": "LD", "ID": 551000160, "HUNUM": 55000097 }, "geometry": { "type": "Point", "coordinates": [ -76.651535, 37.297185 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 78218, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 161, "SOCECON-ID": 78218, "TYPE": "BR", "ID": 551000161, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.651330, 37.296718 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 84401, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 162, "SOCECON-ID": 84401, "TYPE": "M", "ID": 551000162, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.888661, 37.367443 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 84347, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 163, "SOCECON-ID": 84347, "TYPE": "BR", "ID": 551000163, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.899911, 37.300607 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 90655, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 164, "SOCECON-ID": 90655, "TYPE": "BR", "ID": 551000164, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.007602, 37.307332 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 96987, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 165, "SOCECON-ID": 96987, "TYPE": "BR", "ID": 551000165, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.222904, 37.312579 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 103378, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 166, "SOCECON-ID": 103378, "TYPE": "BR", "ID": 551000166, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -77.305855, 37.407218 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 97160, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 167, "SOCECON-ID": 97160, "TYPE": "HP", "ID": 551000167, "HUNUM": 55000069 }, "geometry": { "type": "Point", "coordinates": [ -77.271393, 37.295560 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 97159, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 168, "SOCECON-ID": 97159, "TYPE": "HP", "ID": 551000168, "HUNUM": 55000067 }, "geometry": { "type": "Point", "coordinates": [ -77.275559, 37.287499 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 97162, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 169, "SOCECON-ID": 97162, "TYPE": "HP", "ID": 551000169, "HUNUM": 55000076 }, "geometry": { "type": "Point", "coordinates": [ -77.271393, 37.287219 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 103399, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 170, "SOCECON-ID": 103399, "TYPE": "BR", "ID": 551000170, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.365691, 37.279570 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 103500, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 171, "SOCECON-ID": 103500, "TYPE": "HP", "ID": 551000171, "HUNUM": 55000080 }, "geometry": { "type": "Point", "coordinates": [ -77.462502, 37.495831 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 103499, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 172, "SOCECON-ID": 103499, "TYPE": "A", "ID": 551000172, "HUNUM": 55000016 }, "geometry": { "type": "Point", "coordinates": [ -77.394722, 37.429722 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109869, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 173, "SOCECON-ID": 109869, "TYPE": "BR", "ID": 551000173, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -77.385431, 37.400709 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109832, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 174, "SOCECON-ID": 109832, "TYPE": "BR", "ID": 551000174, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -77.377311, 37.381727 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 103474, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 175, "SOCECON-ID": 103474, "TYPE": "HP", "ID": 551000175, "HUNUM": 55000073 }, "geometry": { "type": "Point", "coordinates": [ -77.415833, 37.354721 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 110170, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 176, "SOCECON-ID": 110170, "TYPE": "HP", "ID": 551000176, "HUNUM": 55000081 }, "geometry": { "type": "Point", "coordinates": [ -77.430557, 37.550000 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 110171, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 177, "SOCECON-ID": 110171, "TYPE": "HP", "ID": 551000177, "HUNUM": 55000082 }, "geometry": { "type": "Point", "coordinates": [ -77.428329, 37.541672 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 110169, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 178, "SOCECON-ID": 110169, "TYPE": "HP", "ID": 551000178, "HUNUM": 55000070 }, "geometry": { "type": "Point", "coordinates": [ -77.443893, 37.534168 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 116521, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 179, "SOCECON-ID": 116521, "TYPE": "BR", "ID": 551000179, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -77.418331, 37.516973 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 123560, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 180, "SOCECON-ID": 123560, "TYPE": "AQ", "ID": 551000180, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.696594, 37.494188 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 123561, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 181, "SOCECON-ID": 123561, "TYPE": "AQ", "ID": 551000181, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.701101, 37.455844 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 123562, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 182, "SOCECON-ID": 123562, "TYPE": "AQ", "ID": 551000182, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.708106, 37.444876 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 123563, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 183, "SOCECON-ID": 123563, "TYPE": "AQ", "ID": 551000183, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.718002, 37.441952 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 123564, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 184, "SOCECON-ID": 123564, "TYPE": "AQ", "ID": 551000184, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.733403, 37.422320 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 123565, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 185, "SOCECON-ID": 123565, "TYPE": "AQ", "ID": 551000185, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.716879, 37.390496 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 130694, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 186, "SOCECON-ID": 130694, "TYPE": "BR", "ID": 551000186, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.798791, 37.480624 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 123801, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 187, "SOCECON-ID": 123801, "TYPE": "HP", "ID": 551000187, "HUNUM": 55000085 }, "geometry": { "type": "Point", "coordinates": [ -75.864441, 37.474998 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 130690, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 188, "SOCECON-ID": 130690, "TYPE": "BR", "ID": 551000188, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.840443, 37.445615 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 130693, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 189, "SOCECON-ID": 130693, "TYPE": "BR", "ID": 551000189, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.840692, 37.445557 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 130692, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 190, "SOCECON-ID": 130692, "TYPE": "BR", "ID": 551000190, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.862821, 37.399442 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 131003, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 191, "SOCECON-ID": 131003, "TYPE": "AQ", "ID": 551000191, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.790787, 37.381866 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 131002, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 192, "SOCECON-ID": 131002, "TYPE": "AQ", "ID": 551000192, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.779462, 37.380988 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 131004, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 193, "SOCECON-ID": 131004, "TYPE": "AQ", "ID": 551000193, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.795658, 37.379196 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138778, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 194, "SOCECON-ID": 138778, "TYPE": "AQ", "ID": 551000194, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.932738, 37.483021 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138530, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 195, "SOCECON-ID": 138530, "TYPE": "BR", "ID": 551000195, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.935417, 37.476453 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138777, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 196, "SOCECON-ID": 138777, "TYPE": "AQ", "ID": 551000196, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.938058, 37.475281 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138776, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 197, "SOCECON-ID": 138776, "TYPE": "AQ", "ID": 551000197, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.952261, 37.473403 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138848, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 198, "SOCECON-ID": 138848, "TYPE": "AQ", "ID": 551000198, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -75.951184, 37.472148 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138775, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 199, "SOCECON-ID": 138775, "TYPE": "AQ", "ID": 551000199, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.956281, 37.471100 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 131133, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 200, "SOCECON-ID": 131133, "TYPE": "A", "ID": 551000200, "HUNUM": 55000028 }, "geometry": { "type": "Point", "coordinates": [ -75.879173, 37.458329 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138774, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 201, "SOCECON-ID": 138774, "TYPE": "AQ", "ID": 551000201, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.988282, 37.415982 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138773, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 202, "SOCECON-ID": 138773, "TYPE": "AQ", "ID": 551000202, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.983246, 37.415532 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138772, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 203, "SOCECON-ID": 138772, "TYPE": "AQ", "ID": 551000203, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.969349, 37.413734 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138771, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 204, "SOCECON-ID": 138771, "TYPE": "AQ", "ID": 551000204, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.975220, 37.407167 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138770, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 205, "SOCECON-ID": 138770, "TYPE": "AQ", "ID": 551000205, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.975707, 37.402872 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138769, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 206, "SOCECON-ID": 138769, "TYPE": "AQ", "ID": 551000206, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.969147, 37.401914 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138768, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 207, "SOCECON-ID": 138768, "TYPE": "AQ", "ID": 551000207, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.968461, 37.396845 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138766, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 208, "SOCECON-ID": 138766, "TYPE": "AQ", "ID": 551000208, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.976438, 37.393805 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138531, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 209, "SOCECON-ID": 138531, "TYPE": "LD", "ID": 551000209, "HUNUM": 55000097 }, "geometry": { "type": "Point", "coordinates": [ -75.941778, 37.393730 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138767, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 210, "SOCECON-ID": 138767, "TYPE": "AQ", "ID": 551000210, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.972797, 37.392634 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138763, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 211, "SOCECON-ID": 138763, "TYPE": "AQ", "ID": 551000211, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.984268, 37.387482 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138765, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 212, "SOCECON-ID": 138765, "TYPE": "AQ", "ID": 551000212, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.974700, 37.386937 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138764, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 213, "SOCECON-ID": 138764, "TYPE": "AQ", "ID": 551000213, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.979096, 37.386006 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138762, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 214, "SOCECON-ID": 138762, "TYPE": "AQ", "ID": 551000214, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.986393, 37.380220 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 146761, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 215, "SOCECON-ID": 146761, "TYPE": "BR", "ID": 551000215, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.310569, 37.492304 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 146784, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 216, "SOCECON-ID": 146784, "TYPE": "BR", "ID": 551000216, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.310851, 37.492095 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 146785, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 217, "SOCECON-ID": 146785, "TYPE": "AQ", "ID": 551000217, "HUNUM": 55000059 }, "geometry": { "type": "Point", "coordinates": [ -76.298820, 37.486871 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 146762, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 218, "SOCECON-ID": 146762, "TYPE": "BR", "ID": 551000218, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.336954, 37.415653 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 146783, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 219, "SOCECON-ID": 146783, "TYPE": "BR", "ID": 551000219, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.337666, 37.415323 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 146782, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 220, "SOCECON-ID": 146782, "TYPE": "BR", "ID": 551000220, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.352255, 37.407165 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 147091, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 221, "SOCECON-ID": 147091, "TYPE": "AQ", "ID": 551000221, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.274247, 37.379487 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 146957, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 222, "SOCECON-ID": 146957, "TYPE": "AQ", "ID": 551000222, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.266864, 37.377128 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 147452, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 223, "SOCECON-ID": 147452, "TYPE": "A", "ID": 551000223, "HUNUM": 55000023 }, "geometry": { "type": "Point", "coordinates": [ -76.413887, 37.496670 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 147450, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 224, "SOCECON-ID": 147450, "TYPE": "A", "ID": 551000224, "HUNUM": 55000019 }, "geometry": { "type": "Point", "coordinates": [ -76.454170, 37.447219 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 147451, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 225, "SOCECON-ID": 147451, "TYPE": "A", "ID": 551000225, "HUNUM": 55000022 }, "geometry": { "type": "Point", "coordinates": [ -76.388611, 37.405280 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 155375, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 226, "SOCECON-ID": 155375, "TYPE": "BR", "ID": 551000226, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.490028, 37.403126 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 155584, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 227, "SOCECON-ID": 155584, "TYPE": "AQ", "ID": 551000227, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.456897, 37.392002 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 164174, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 228, "SOCECON-ID": 164174, "TYPE": "BR", "ID": 551000228, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.667074, 37.454774 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 164246, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 229, "SOCECON-ID": 164246, "TYPE": "BR", "ID": 551000229, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.667940, 37.454560 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 164176, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 230, "SOCECON-ID": 164176, "TYPE": "BR", "ID": 551000230, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.725553, 37.427194 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 174311, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 231, "SOCECON-ID": 174311, "TYPE": "BR", "ID": 551000231, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.799811, 37.592139 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 174312, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 232, "SOCECON-ID": 174312, "TYPE": "BR", "ID": 551000232, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.789743, 37.540799 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 174371, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 233, "SOCECON-ID": 174371, "TYPE": "BR", "ID": 551000233, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.790556, 37.540343 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 174372, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 234, "SOCECON-ID": 174372, "TYPE": "BR", "ID": 551000234, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.785579, 37.537134 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 164616, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 235, "SOCECON-ID": 164616, "TYPE": "A", "ID": 551000235, "HUNUM": 55000054 }, "geometry": { "type": "Point", "coordinates": [ -76.764999, 37.520828 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 184564, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 236, "SOCECON-ID": 184564, "TYPE": "BR", "ID": 551000236, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.984844, 37.585983 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 193332, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 237, "SOCECON-ID": 193332, "TYPE": "BR", "ID": 551000237, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.685362, 37.608155 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 193331, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 238, "SOCECON-ID": 193331, "TYPE": "BR", "ID": 551000238, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.686571, 37.608031 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 193330, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 239, "SOCECON-ID": 193330, "TYPE": "BR", "ID": 551000239, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.687432, 37.606460 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 193329, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 240, "SOCECON-ID": 193329, "TYPE": "BR", "ID": 551000240, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.687691, 37.603734 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 193607, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 241, "SOCECON-ID": 193607, "TYPE": "AQ", "ID": 551000241, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.621412, 37.604054 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 193608, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 242, "SOCECON-ID": 193608, "TYPE": "AQ", "ID": 551000242, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.623024, 37.599358 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 193609, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 243, "SOCECON-ID": 193609, "TYPE": "AQ", "ID": 551000243, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.620513, 37.595876 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 193328, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 244, "SOCECON-ID": 193328, "TYPE": "BR", "ID": 551000244, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.731427, 37.549296 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 193386, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 245, "SOCECON-ID": 193386, "TYPE": "BR", "ID": 551000245, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.732798, 37.549186 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 193610, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 246, "SOCECON-ID": 193610, "TYPE": "AQ", "ID": 551000246, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.670971, 37.531766 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 193611, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 247, "SOCECON-ID": 193611, "TYPE": "AQ", "ID": 551000247, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.690864, 37.504707 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 193612, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 248, "SOCECON-ID": 193612, "TYPE": "AQ", "ID": 551000248, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.706096, 37.502041 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 202917, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 249, "SOCECON-ID": 202917, "TYPE": "AQ", "ID": 551000249, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.806084, 37.513782 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 202768, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 250, "SOCECON-ID": 202768, "TYPE": "BR", "ID": 551000250, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.807397, 37.509993 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 202740, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 251, "SOCECON-ID": 202740, "TYPE": "BR", "ID": 551000251, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.806794, 37.508860 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 202770, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 252, "SOCECON-ID": 202770, "TYPE": "BR", "ID": 551000252, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.805222, 37.508414 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 203102, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 253, "SOCECON-ID": 203102, "TYPE": "A", "ID": 551000253, "HUNUM": 55000007 }, "geometry": { "type": "Point", "coordinates": [ -75.926666, 37.564441 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 212558, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 254, "SOCECON-ID": 212558, "TYPE": "AQ", "ID": 551000254, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.929949, 37.558953 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 212335, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 255, "SOCECON-ID": 212335, "TYPE": "M", "ID": 551000255, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -75.877231, 37.553332 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 212336, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 256, "SOCECON-ID": 212336, "TYPE": "BR", "ID": 551000256, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.876744, 37.549658 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 222315, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 257, "SOCECON-ID": 222315, "TYPE": "M", "ID": 551000257, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.289942, 37.616421 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 222316, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 258, "SOCECON-ID": 222316, "TYPE": "M", "ID": 551000258, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.306477, 37.560575 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 222317, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 259, "SOCECON-ID": 222317, "TYPE": "M", "ID": 551000259, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.317858, 37.555854 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 222692, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 260, "SOCECON-ID": 222692, "TYPE": "A", "ID": 551000260, "HUNUM": 55000024 }, "geometry": { "type": "Point", "coordinates": [ -76.449997, 37.599999 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 232151, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 261, "SOCECON-ID": 232151, "TYPE": "BR", "ID": 551000261, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.424796, 37.583748 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 232196, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 262, "SOCECON-ID": 232196, "TYPE": "BR", "ID": 551000262, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.450385, 37.523046 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 232510, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 263, "SOCECON-ID": 232510, "TYPE": "A", "ID": 551000263, "HUNUM": 55000005 }, "geometry": { "type": "Point", "coordinates": [ -76.601387, 37.623611 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 242149, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 264, "SOCECON-ID": 242149, "TYPE": "BR", "ID": 551000264, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.582025, 37.622465 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 242197, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 265, "SOCECON-ID": 242197, "TYPE": "BR", "ID": 551000265, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.506570, 37.609639 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 242115, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 266, "SOCECON-ID": 242115, "TYPE": "BR", "ID": 551000266, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.500618, 37.534647 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 252785, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 267, "SOCECON-ID": 252785, "TYPE": "AQ", "ID": 551000267, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.576410, 37.737727 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 252793, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 268, "SOCECON-ID": 252793, "TYPE": "AQ", "ID": 551000268, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -75.600842, 37.711718 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 252786, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 269, "SOCECON-ID": 252786, "TYPE": "AQ", "ID": 551000269, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.600528, 37.705586 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 252787, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 270, "SOCECON-ID": 252787, "TYPE": "AQ", "ID": 551000270, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.611224, 37.696509 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 252795, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 271, "SOCECON-ID": 252795, "TYPE": "A", "ID": 551000271, "HUNUM": 55000027 }, "geometry": { "type": "Point", "coordinates": [ -75.726936, 37.704719 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 252796, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 272, "SOCECON-ID": 252796, "TYPE": "A", "ID": 551000272, "HUNUM": 55000037 }, "geometry": { "type": "Point", "coordinates": [ -75.710281, 37.675000 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 263769, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 273, "SOCECON-ID": 263769, "TYPE": "AQ", "ID": 551000273, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.646552, 37.626031 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 264049, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 274, "SOCECON-ID": 264049, "TYPE": "A", "ID": 551000274, "HUNUM": 55000038 }, "geometry": { "type": "Point", "coordinates": [ -75.786110, 37.722222 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 274875, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 275, "SOCECON-ID": 274875, "TYPE": "M", "ID": 551000275, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -75.814285, 37.718812 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 274874, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 276, "SOCECON-ID": 274874, "TYPE": "BR", "ID": 551000276, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.757122, 37.705260 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 274960, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 277, "SOCECON-ID": 274960, "TYPE": "BR", "ID": 551000277, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.830879, 37.666136 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 274876, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 278, "SOCECON-ID": 274876, "TYPE": "BR", "ID": 551000278, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.829595, 37.663604 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 275000, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 279, "SOCECON-ID": 275000, "TYPE": "AQ", "ID": 551000279, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -75.867272, 37.656018 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 264048, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 280, "SOCECON-ID": 264048, "TYPE": "A", "ID": 551000280, "HUNUM": 55000002 }, "geometry": { "type": "Point", "coordinates": [ -75.761391, 37.646672 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 275122, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 281, "SOCECON-ID": 275122, "TYPE": "A", "ID": 551000281, "HUNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -76.359169, 37.716942 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 275121, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 282, "SOCECON-ID": 275121, "TYPE": "A", "ID": 551000282, "HUNUM": 55000029 }, "geometry": { "type": "Point", "coordinates": [ -76.318611, 37.692500 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 275305, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 283, "SOCECON-ID": 275305, "TYPE": "HP", "ID": 551000283, "HUNUM": 55000090 }, "geometry": { "type": "Point", "coordinates": [ -76.384171, 37.704720 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 286379, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 284, "SOCECON-ID": 286379, "TYPE": "AQ", "ID": 551000284, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.492129, 37.687849 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 275306, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 285, "SOCECON-ID": 275306, "TYPE": "A", "ID": 551000285, "HUNUM": 55000053 }, "geometry": { "type": "Point", "coordinates": [ -76.458061, 37.672501 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 286395, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 286, "SOCECON-ID": 286395, "TYPE": "AQ", "ID": 551000286, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.425795, 37.671807 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 275304, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 287, "SOCECON-ID": 275304, "TYPE": "A", "ID": 551000287, "HUNUM": 55000025 }, "geometry": { "type": "Point", "coordinates": [ -76.437500, 37.657501 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 297741, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 288, "SOCECON-ID": 297741, "TYPE": "BR", "ID": 551000288, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.618626, 37.726353 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 297869, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 289, "SOCECON-ID": 297869, "TYPE": "BR", "ID": 551000289, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.545639, 37.715909 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 297801, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 290, "SOCECON-ID": 297801, "TYPE": "BR", "ID": 551000290, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.545564, 37.715250 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 297802, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 291, "SOCECON-ID": 297802, "TYPE": "M", "ID": 551000291, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.569966, 37.634271 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 286749, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 292, "SOCECON-ID": 286749, "TYPE": "A", "ID": 551000292, "HUNUM": 55000044 }, "geometry": { "type": "Point", "coordinates": [ -76.565277, 37.630562 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 309480, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 293, "SOCECON-ID": 309480, "TYPE": "BR", "ID": 551000293, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.525503, 37.847306 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 309479, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 294, "SOCECON-ID": 309479, "TYPE": "BR", "ID": 551000294, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.525845, 37.842851 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 309481, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 295, "SOCECON-ID": 309481, "TYPE": "BR", "ID": 551000295, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.564084, 37.786645 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 309709, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 296, "SOCECON-ID": 309709, "TYPE": "AQ", "ID": 551000296, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -75.537965, 37.777937 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 309482, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 297, "SOCECON-ID": 309482, "TYPE": "BR", "ID": 551000297, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.561952, 37.776668 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 309752, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 298, "SOCECON-ID": 309752, "TYPE": "AQ", "ID": 551000298, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -75.539780, 37.776117 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 321776, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 299, "SOCECON-ID": 321776, "TYPE": "BR", "ID": 551000299, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.673908, 37.835851 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 321777, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 300, "SOCECON-ID": 321777, "TYPE": "BR", "ID": 551000300, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.702207, 37.783216 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 333946, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 301, "SOCECON-ID": 333946, "TYPE": "BR", "ID": 551000301, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.750256, 37.768305 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 333949, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 302, "SOCECON-ID": 333949, "TYPE": "M", "ID": 551000302, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -75.770604, 37.762925 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 333948, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 303, "SOCECON-ID": 333948, "TYPE": "BR", "ID": 551000303, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.770070, 37.762226 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 346270, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 304, "SOCECON-ID": 346270, "TYPE": "BR", "ID": 551000304, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.997793, 37.831413 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 346271, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 305, "SOCECON-ID": 346271, "TYPE": "M", "ID": 551000305, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -75.994260, 37.830089 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 334294, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 306, "SOCECON-ID": 334294, "TYPE": "A", "ID": 551000306, "HUNUM": 55000050 }, "geometry": { "type": "Point", "coordinates": [ -75.998062, 37.824719 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 358750, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 307, "SOCECON-ID": 358750, "TYPE": "BR", "ID": 551000307, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.359420, 37.856777 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 359029, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 308, "SOCECON-ID": 359029, "TYPE": "AQ", "ID": 551000308, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.344017, 37.854158 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 358748, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 309, "SOCECON-ID": 358748, "TYPE": "BR", "ID": 551000309, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.348771, 37.850644 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 358746, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 310, "SOCECON-ID": 358746, "TYPE": "BR", "ID": 551000310, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.254849, 37.851177 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 358749, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 311, "SOCECON-ID": 358749, "TYPE": "BR", "ID": 551000311, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.359287, 37.841505 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 358751, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 312, "SOCECON-ID": 358751, "TYPE": "M", "ID": 551000312, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.282787, 37.832162 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 346564, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 313, "SOCECON-ID": 346564, "TYPE": "A", "ID": 551000313, "HUNUM": 55000041 }, "geometry": { "type": "Point", "coordinates": [ -76.273613, 37.828060 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 358677, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 314, "SOCECON-ID": 358677, "TYPE": "BR", "ID": 551000314, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.271687, 37.824340 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 358747, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 315, "SOCECON-ID": 358747, "TYPE": "BR", "ID": 551000315, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.271934, 37.823970 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 346565, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 316, "SOCECON-ID": 346565, "TYPE": "A", "ID": 551000316, "HUNUM": 55000042 }, "geometry": { "type": "Point", "coordinates": [ -76.318062, 37.818612 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 346563, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 317, "SOCECON-ID": 346563, "TYPE": "A", "ID": 551000317, "HUNUM": 55000003 }, "geometry": { "type": "Point", "coordinates": [ -76.346672, 37.762501 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 371947, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 318, "SOCECON-ID": 371947, "TYPE": "BR", "ID": 551000318, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.420085, 37.871388 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 371870, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 319, "SOCECON-ID": 371870, "TYPE": "BR", "ID": 551000319, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.419829, 37.871217 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 384995, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 320, "SOCECON-ID": 384995, "TYPE": "AQ", "ID": 551000320, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.617353, 37.789667 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 385225, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 321, "SOCECON-ID": 385225, "TYPE": "A", "ID": 551000321, "HUNUM": 55000047 }, "geometry": { "type": "Point", "coordinates": [ -76.736107, 37.857498 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 398176, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 322, "SOCECON-ID": 398176, "TYPE": "BR", "ID": 551000322, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.634645, 37.804219 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 411704, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 323, "SOCECON-ID": 411704, "TYPE": "AQ", "ID": 551000323, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.342134, 37.963898 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 411705, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 324, "SOCECON-ID": 411705, "TYPE": "AQ", "ID": 551000324, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.336433, 37.931124 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 411522, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 325, "SOCECON-ID": 411522, "TYPE": "BR", "ID": 551000325, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.364406, 37.921586 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 411521, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 326, "SOCECON-ID": 411521, "TYPE": "BR", "ID": 551000326, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.370839, 37.918322 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 411520, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 327, "SOCECON-ID": 411520, "TYPE": "BR", "ID": 551000327, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.359151, 37.913266 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 411707, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 328, "SOCECON-ID": 411707, "TYPE": "AQ", "ID": 551000328, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.365936, 37.893803 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 411706, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 329, "SOCECON-ID": 411706, "TYPE": "AQ", "ID": 551000329, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.355504, 37.891338 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 411709, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 330, "SOCECON-ID": 411709, "TYPE": "AQ", "ID": 551000330, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.350475, 37.886324 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 411359, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 331, "SOCECON-ID": 411359, "TYPE": "CG", "ID": 551000331, "HUNUM": 55000063 }, "geometry": { "type": "Point", "coordinates": [ -75.367783, 37.863609 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 411710, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 332, "SOCECON-ID": 411710, "TYPE": "B", "ID": 551000332, "HUNUM": 55000060 }, "geometry": { "type": "Point", "coordinates": [ -75.336940, 37.896446 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 411789, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 333, "SOCECON-ID": 411789, "TYPE": "A", "ID": 551000333, "HUNUM": 55000052 }, "geometry": { "type": "Point", "coordinates": [ -75.462501, 37.941670 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 425586, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 334, "SOCECON-ID": 425586, "TYPE": "AQ", "ID": 551000334, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.377475, 37.940112 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 425511, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 335, "SOCECON-ID": 425511, "TYPE": "AQ", "ID": 551000335, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -75.384854, 37.938853 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 425589, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 336, "SOCECON-ID": 425589, "TYPE": "AQ", "ID": 551000336, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -75.456206, 37.936286 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 425402, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 337, "SOCECON-ID": 425402, "TYPE": "BR", "ID": 551000337, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.420064, 37.934679 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 425410, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 338, "SOCECON-ID": 425410, "TYPE": "BR", "ID": 551000338, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.419158, 37.934292 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 425653, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 339, "SOCECON-ID": 425653, "TYPE": "AQ", "ID": 551000339, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -75.461444, 37.919997 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 425650, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 340, "SOCECON-ID": 425650, "TYPE": "AQ", "ID": 551000340, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -75.449082, 37.918396 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 425588, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 341, "SOCECON-ID": 425588, "TYPE": "AQ", "ID": 551000341, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -75.444332, 37.917972 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 425654, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 342, "SOCECON-ID": 425654, "TYPE": "AQ", "ID": 551000342, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -75.384138, 37.915196 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 425414, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 343, "SOCECON-ID": 425414, "TYPE": "BR", "ID": 551000343, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.476431, 37.907957 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 425585, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 344, "SOCECON-ID": 425585, "TYPE": "AQ", "ID": 551000344, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.378179, 37.907635 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 425587, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 345, "SOCECON-ID": 425587, "TYPE": "AQ", "ID": 551000345, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -75.440088, 37.907348 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 425412, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 346, "SOCECON-ID": 425412, "TYPE": "BR", "ID": 551000346, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.408448, 37.902862 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 425411, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 347, "SOCECON-ID": 425411, "TYPE": "BR", "ID": 551000347, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.405457, 37.902485 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 425583, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 348, "SOCECON-ID": 425583, "TYPE": "AQ", "ID": 551000348, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.396535, 37.900445 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 425594, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 349, "SOCECON-ID": 425594, "TYPE": "AQ", "ID": 551000349, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.378075, 37.894030 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 425584, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 350, "SOCECON-ID": 425584, "TYPE": "AQ", "ID": 551000350, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.382462, 37.893613 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 425582, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 351, "SOCECON-ID": 425582, "TYPE": "AQ", "ID": 551000351, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.445710, 37.892234 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 425413, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 352, "SOCECON-ID": 425413, "TYPE": "BR", "ID": 551000352, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.493207, 37.882472 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 425580, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 353, "SOCECON-ID": 425580, "TYPE": "AQ", "ID": 551000353, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.492656, 37.879638 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 425596, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 354, "SOCECON-ID": 425596, "TYPE": "AQ", "ID": 551000354, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.387671, 37.879271 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 425597, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 355, "SOCECON-ID": 425597, "TYPE": "AQ", "ID": 551000355, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.383787, 37.878532 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 425581, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 356, "SOCECON-ID": 425581, "TYPE": "AQ", "ID": 551000356, "HUNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.475597, 37.876621 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 439772, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 357, "SOCECON-ID": 439772, "TYPE": "BR", "ID": 551000357, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -75.631631, 37.974568 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 440001, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 358, "SOCECON-ID": 440001, "TYPE": "AQ", "ID": 551000358, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -75.744909, 37.932722 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 439774, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 359, "SOCECON-ID": 439774, "TYPE": "M", "ID": 551000359, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -75.727201, 37.918859 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 440000, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 360, "SOCECON-ID": 440000, "TYPE": "AQ", "ID": 551000360, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -75.736745, 37.915824 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 439600, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 361, "SOCECON-ID": 439600, "TYPE": "BR", "ID": 551000361, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.683512, 37.903640 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 440061, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 362, "SOCECON-ID": 440061, "TYPE": "A", "ID": 551000362, "HUNUM": 55000014 }, "geometry": { "type": "Point", "coordinates": [ -76.290833, 37.905832 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 440062, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 363, "SOCECON-ID": 440062, "TYPE": "A", "ID": 551000363, "HUNUM": 55000026 }, "geometry": { "type": "Point", "coordinates": [ -76.355560, 37.895826 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 454526, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 364, "SOCECON-ID": 454526, "TYPE": "BR", "ID": 551000364, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.294394, 37.891984 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 454690, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 365, "SOCECON-ID": 454690, "TYPE": "A", "ID": 551000365, "HUNUM": 55000020 }, "geometry": { "type": "Point", "coordinates": [ -76.457496, 37.945001 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 469320, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 366, "SOCECON-ID": 469320, "TYPE": "BR", "ID": 551000366, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.721255, 37.923663 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 469666, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 367, "SOCECON-ID": 469666, "TYPE": "A", "ID": 551000367, "HUNUM": 55000051 }, "geometry": { "type": "Point", "coordinates": [ -76.871941, 37.925000 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 484117, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 368, "SOCECON-ID": 484117, "TYPE": "BR", "ID": 551000368, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.857458, 37.920304 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 484312, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 369, "SOCECON-ID": 484312, "TYPE": "A", "ID": 551000369, "HUNUM": 55000045 }, "geometry": { "type": "Point", "coordinates": [ -76.613892, 38.118891 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 499108, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 370, "SOCECON-ID": 499108, "TYPE": "BR", "ID": 551000370, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.587669, 38.089850 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 484313, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 371, "SOCECON-ID": 484313, "TYPE": "A", "ID": 551000371, "HUNUM": 55000048 }, "geometry": { "type": "Point", "coordinates": [ -76.563331, 38.008887 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 499116, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 372, "SOCECON-ID": 499116, "TYPE": "BR", "ID": 551000372, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.603745, 38.002151 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 499090, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 373, "SOCECON-ID": 499090, "TYPE": "BR", "ID": 551000373, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.541211, 37.993186 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 514219, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 374, "SOCECON-ID": 514219, "TYPE": "BR", "ID": 551000374, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.924113, 38.071632 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 529504, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 375, "SOCECON-ID": 529504, "TYPE": "M", "ID": 551000375, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.634418, 38.142262 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 529739, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 376, "SOCECON-ID": 529739, "TYPE": "AQ", "ID": 551000376, "HUNUM": 55000058 }, "geometry": { "type": "Point", "coordinates": [ -76.654958, 38.133820 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 529505, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 377, "SOCECON-ID": 529505, "TYPE": "BR", "ID": 551000377, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.653838, 38.130919 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 545451, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 378, "SOCECON-ID": 545451, "TYPE": "BR", "ID": 551000378, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.975347, 38.249016 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 545446, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 379, "SOCECON-ID": 545446, "TYPE": "M", "ID": 551000379, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.966473, 38.242671 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 545450, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 380, "SOCECON-ID": 545450, "TYPE": "BR", "ID": 551000380, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.970952, 38.241179 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 545446, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 381, "SOCECON-ID": 545446, "TYPE": "M", "ID": 551000381, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.963983, 38.240704 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 545445, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 382, "SOCECON-ID": 545445, "TYPE": "M", "ID": 551000382, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.963183, 38.234777 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 545454, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 383, "SOCECON-ID": 545454, "TYPE": "BR", "ID": 551000383, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -76.961561, 38.232296 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 545444, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 384, "SOCECON-ID": 545444, "TYPE": "M", "ID": 551000384, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.963676, 38.230771 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 545449, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 385, "SOCECON-ID": 545449, "TYPE": "BR", "ID": 551000385, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.963581, 38.230571 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 545447, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 386, "SOCECON-ID": 545447, "TYPE": "M", "ID": 551000386, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -76.980914, 38.204392 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 545448, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 387, "SOCECON-ID": 545448, "TYPE": "BR", "ID": 551000387, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -76.980889, 38.204378 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 561363, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 388, "SOCECON-ID": 561363, "TYPE": "BR", "ID": 551000388, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.086037, 38.161913 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 561364, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 389, "SOCECON-ID": 561364, "TYPE": "BR", "ID": 551000389, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.071572, 38.153457 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 561633, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 390, "SOCECON-ID": 561633, "TYPE": "A", "ID": 551000390, "HUNUM": 55000039 }, "geometry": { "type": "Point", "coordinates": [ -77.219437, 38.248330 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 577471, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 391, "SOCECON-ID": 577471, "TYPE": "BR", "ID": 551000391, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.190429, 38.173419 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 577472, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 392, "SOCECON-ID": 577472, "TYPE": "BR", "ID": 551000392, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.159785, 38.164862 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 577758, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 393, "SOCECON-ID": 577758, "TYPE": "HP", "ID": 551000393, "HUNUM": 55000075 }, "geometry": { "type": "Point", "coordinates": [ -77.366669, 38.150003 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 594066, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 394, "SOCECON-ID": 594066, "TYPE": "BR", "ID": 551000394, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.050173, 38.322341 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 594067, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 395, "SOCECON-ID": 594067, "TYPE": "BR", "ID": 551000395, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.007053, 38.270291 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 610580, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 396, "SOCECON-ID": 610580, "TYPE": "BR", "ID": 551000396, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.235037, 38.331311 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 610579, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 397, "SOCECON-ID": 610579, "TYPE": "M", "ID": 551000397, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -77.235250, 38.331034 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 627299, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 398, "SOCECON-ID": 627299, "TYPE": "M", "ID": 551000398, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -77.305413, 38.342183 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 627300, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 399, "SOCECON-ID": 627300, "TYPE": "BR", "ID": 551000399, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.305710, 38.341756 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 627672, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 400, "SOCECON-ID": 627672, "TYPE": "A", "ID": 551000400, "HUNUM": 55000011 }, "geometry": { "type": "Point", "coordinates": [ -77.316109, 38.403332 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 644603, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 401, "SOCECON-ID": 644603, "TYPE": "M", "ID": 551000401, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -77.260807, 38.600779 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 644604, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 402, "SOCECON-ID": 644604, "TYPE": "BR", "ID": 551000402, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.261528, 38.600223 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 644602, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 403, "SOCECON-ID": 644602, "TYPE": "BR", "ID": 551000403, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.288039, 38.520110 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 644601, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 404, "SOCECON-ID": 644601, "TYPE": "M", "ID": 551000404, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -77.287089, 38.519688 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 627954, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 405, "SOCECON-ID": 627954, "TYPE": "A", "ID": 551000405, "HUNUM": 55000040 }, "geometry": { "type": "Point", "coordinates": [ -77.305832, 38.501670 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 644837, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 406, "SOCECON-ID": 644837, "TYPE": "HP", "ID": 551000406, "HUNUM": 55000083 }, "geometry": { "type": "Point", "coordinates": [ -77.077499, 38.740280 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 644963, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 407, "SOCECON-ID": 644963, "TYPE": "A", "ID": 551000407, "HUNUM": 55000012 }, "geometry": { "type": "Point", "coordinates": [ -77.181938, 38.715278 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 661986, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 408, "SOCECON-ID": 661986, "TYPE": "BR", "ID": 551000408, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.167317, 38.675520 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 661990, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 409, "SOCECON-ID": 661990, "TYPE": "M", "ID": 551000409, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -77.244257, 38.670017 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 661984, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 410, "SOCECON-ID": 661984, "TYPE": "BR", "ID": 551000410, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.244487, 38.669778 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 661985, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 411, "SOCECON-ID": 661985, "TYPE": "BR", "ID": 551000411, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.237907, 38.666208 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 661988, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 412, "SOCECON-ID": 661988, "TYPE": "M", "ID": 551000412, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -77.238354, 38.666082 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 661989, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 413, "SOCECON-ID": 661989, "TYPE": "M", "ID": 551000413, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -77.236293, 38.664733 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 661983, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 414, "SOCECON-ID": 661983, "TYPE": "BR", "ID": 551000414, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.247365, 38.635703 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 661987, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 415, "SOCECON-ID": 661987, "TYPE": "M", "ID": 551000415, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -77.247021, 38.635454 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 661999, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 416, "SOCECON-ID": 661999, "TYPE": "HP", "ID": 551000416, "HUNUM": 55000088 }, "geometry": { "type": "Point", "coordinates": [ -77.059154, 38.871141 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 679157, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 417, "SOCECON-ID": 679157, "TYPE": "BR", "ID": 551000417, "HUNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -77.041508, 38.863697 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 662000, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 418, "SOCECON-ID": 662000, "TYPE": "A", "ID": 551000418, "HUNUM": 55000043 }, "geometry": { "type": "Point", "coordinates": [ -77.037499, 38.852221 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 661998, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 419, "SOCECON-ID": 661998, "TYPE": "HP", "ID": 551000419, "HUNUM": 55000084 }, "geometry": { "type": "Point", "coordinates": [ -77.077499, 38.847776 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 679370, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 420, "SOCECON-ID": 679370, "TYPE": "M", "ID": 551000420, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -77.043159, 38.832082 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 661997, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 421, "SOCECON-ID": 661997, "TYPE": "HP", "ID": 551000421, "HUNUM": 55000066 }, "geometry": { "type": "Point", "coordinates": [ -77.104439, 38.822497 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 679368, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 422, "SOCECON-ID": 679368, "TYPE": "BR", "ID": 551000422, "HUNUM": 55000062 }, "geometry": { "type": "Point", "coordinates": [ -77.049173, 38.777506 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 679369, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "SOCECON#": 423, "SOCECON-ID": 679369, "TYPE": "M", "ID": 551000423, "HUNUM": 55000124 }, "geometry": { "type": "Point", "coordinates": [ -77.048704, 38.777375 ] } }
+
+]
+}
