@@ -1,0 +1,1191 @@
+{
+  "metadata": {
+    "idinfo": {
+      "citation": {
+        "citeinfo": {
+          "title": "Tier I Essential Habitat",
+          "geoform": {
+            "-Sync": "TRUE",
+            "#text": "raster digital data"
+          },
+          "pubinfo": {
+            "pubplace": "Richmond, Va",
+            "publish": "VDGIF"
+          },
+          "ftname": {
+            "-Sync": "TRUE",
+            "#text": "tier1_esshab"
+          },
+          "lworkcit": {
+            "citeinfo": {
+              "origin": "VDGIF",
+              "pubdate": "September 2005",
+              "title": "Virginia's Wildlife Action Plan",
+              "othercit": "Report submitted to U.S. Fish and Wildlife Service. ",
+              "onlink": "http://bewildvirginia.org/"
+            }
+          },
+          "pubdate": "12/2005",
+          "onlink": "n/a",
+          "origin": "DGIF"
+        }
+      },
+      "descript": {
+        "abstract": "The Tier1_Ess_Hab raster shows locations of confirmed and/or potential habitat of Tier 1 species created during the Virginia Wildlife Action Plan (WAP). It represents habitat for fifty-three terrestrial species and thirty-three aquatic species. Of the ninety-three Tier I species, habitat was mapped for eighty-six species. These habitats were summarized to show areas of conservation opportunity.",
+        "purpose": "This dataset is intended to highlight conservation opportunities in Virginia.  All areas with the potential to support a Tier I species are important, however areas that may support multiple species represent areas of greater conservation need.",
+        "langdata": {
+          "-Sync": "TRUE",
+          "#text": "en"
+        },
+        "supplinf": "For more information on the Widlife Action Plan and how species' habitats were determined, visit http://bewildvirginia.org"
+      },
+      "timeperd": {
+        "timeinfo": {
+          "sngdate": { "caldate": "20051115" }
+        },
+        "current": "publication date"
+      },
+      "status": {
+        "progress": "Complete",
+        "update": "Irregular"
+      },
+      "spdom": {
+        "bounding": {
+          "westbc": {
+            "-Sync": "TRUE",
+            "#text": "-83.841967"
+          },
+          "eastbc": {
+            "-Sync": "TRUE",
+            "#text": "-75.129964"
+          },
+          "northbc": {
+            "-Sync": "TRUE",
+            "#text": "39.509864"
+          },
+          "southbc": {
+            "-Sync": "TRUE",
+            "#text": "36.409218"
+          }
+        },
+        "lboundng": {
+          "leftbc": {
+            "-Sync": "TRUE",
+            "#text": "-373690.330551"
+          },
+          "rightbc": {
+            "-Sync": "TRUE",
+            "#text": "376109.669449"
+          },
+          "bottombc": {
+            "-Sync": "TRUE",
+            "#text": "53949.166600"
+          },
+          "topbc": {
+            "-Sync": "TRUE",
+            "#text": "389549.166600"
+          }
+        }
+      },
+      "keywords": {
+        "theme": {
+          "themekt": "ESRI ArcIMS Topic Categories",
+          "themekey": [
+            "Biota",
+            "Comprehensive Wildlife Conservation Strategy",
+            "Essential Habitat",
+            "Wildlife Action Plan",
+            "Conservation",
+            "Imperiled Species"
+          ]
+        }
+      },
+      "accconst": "These data are available to public or private entites with permission of the Virginia Department of Game and Inland Fisheries (VDGIF).",
+      "useconst": "This dataset is not intended for use as a sole source of information about the locations of Virginia's wildlife species.  When performing environmental reviews, use of this information does not replace the need for conducting field surveys and consulting appropriate federal, state, and local officials. The absence of data confirming the occurrence of a species within a geographic area does not constitute a negative declaration. Neither the VDGIF nor the contributors to the Comprehensive Wildlife Conservation Strategy (CWCS) shall be held liable for any improper or incorrect use of the information contained herein and assume no responsibility for the use of the information. ",
+      "native": {
+        "-Sync": "TRUE",
+        "#text": "Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.4000"
+      },
+      "natvform": {
+        "-Sync": "TRUE",
+        "#text": "Raster Dataset"
+      },
+      "datacred": "There were several contributors including Department of Conservation and Recreation-Division of Natural Heritage.  Species' habitat maps were reviewed by VDGIF's Taxanomic Advisory Committees."
+    },
+    "dataqual": {
+      "lineage": {
+        "procstep": [
+          {
+            "procdesc": "Confirmed terrestrial locations, mostly DGIF Collections, were buffered by 100 meters",
+            "procsv": "ESRI ArcGIS 9.1",
+            "srcused": "DGIF 2004"
+          },
+          {
+            "procdesc": "Dissolved features on Biota of Virginia (BOVA) species number within confirmed habitat shapefile, potential habitat shapefile, and Department of Conservation and Recreation-Division of Natural Heritige Conservation Sites (DCR-NH 2005).",
+            "srcused": "DCR-NH 2005",
+            "procsv": "ESRI ArcGIS 9.1"
+          },
+          {
+            "procdesc": "For each terrestrial species, all three habitat types (confirmed, potential and DCR-NH) were merged and dissolved on species.",
+            "date": {
+              "-Sync": "TRUE",
+              "#text": "20051216"
+            },
+            "time": {
+              "-Sync": "TRUE",
+              "#text": "09420800"
+            },
+            "procsv": "ESRI ArcGIS 9.1",
+            "srcused": "DGIF 2004, DCR-NH 2005"
+          },
+          {
+            "procdesc": "All terrestrial species essential habitat layers were unioned together, and species were summed to produce a count in each area.",
+            "procsv": "ESRI ArcGIS 9.1"
+          },
+          {
+            "procdesc": "Based on count of terrestrial species' habitats, a raster layer with 100 meter cell size was created.",
+            "procsv": "ESRI ArcGIS 9.1"
+          },
+          {
+            "procdesc": "For each aquatic species, potential, confirmed or DCR-NH reaches were merged, dissolved on BOVA number and buffered 100 meters.  ",
+            "procsv": "ESRI ArcGIS 9.1",
+            "srcused": "DGIF Aquatic Habitat Classification"
+          },
+          {
+            "procdesc": "Buffered reaches were unioned and summed to produce a count of number of species in each area.",
+            "procsv": "ESRI ArcGIS 9.1"
+          },
+          {
+            "procdesc": "Based on the count, an aquatic raster layer was created.",
+            "procsv": "ESRI ArcGIS 9.1"
+          },
+          {
+            "procdesc": "The terrestrial and aquatic rasters were combined using the Mosaic function to produce the Tier1_Ess_hab raster.",
+            "procsv": "ESRI ArcGIS 9.1"
+          },
+          {
+            "procdesc": {
+              "-Sync": "TRUE",
+              "#text": "Dataset copied."
+            },
+            "srcused": {
+              "-Sync": "TRUE",
+              "#text": "K:\\CWCS\\Tier1_data\\For_distribution\\tier1_esshab"
+            },
+            "date": {
+              "-Sync": "TRUE",
+              "#text": "20080918"
+            },
+            "time": {
+              "-Sync": "TRUE",
+              "#text": "15104000"
+            }
+          }
+        ],
+        "srcinfo": [
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "DGIF",
+                "pubdate": "2004",
+                "title": " Virginia Fish and Wildlife Information Service: Biota of Virginia Online Database",
+                "onlink": "http://vafwis.org/fwis/"
+              }
+            },
+            "typesrc": "digital",
+            "srccitea": "DGIF 2004"
+          },
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "DCR-NH",
+                "pubdate": "2005",
+                "title": "Virginia Natural Heritage Program's Biotics Data System",
+                "othercit": "Data provided through cooperative agreement with DCR. For more information about these data please contact the DCR data manager",
+                "onlink": "http://www.dcr.virginia.gov/dnh"
+              }
+            },
+            "typesrc": "digital",
+            "srccitea": "DCR-NH 2005"
+          },
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "DGIF",
+                "pubdate": "Unpublished Material",
+                "title": "Aquatic Habitat Classification",
+                "onlink": "http://bewildvirginia.org"
+              }
+            },
+            "srcscale": "1:100,000",
+            "typesrc": "digital",
+            "srccitea": "DGIF Aquatic Habitat Classification"
+          }
+        ]
+      }
+    },
+    "spdoinfo": {
+      "direct": {
+        "-Sync": "TRUE",
+        "#text": "Raster"
+      },
+      "ptvctinf": {
+        "sdtsterm": [
+          {
+            "sdtstype": "Point",
+            "ptvctcnt": "3732"
+          },
+          {
+            "sdtstype": "String",
+            "ptvctcnt": "8064"
+          },
+          {
+            "sdtstype": "GT-polygon composed of chains",
+            "ptvctcnt": "3733"
+          }
+        ]
+      }
+    },
+    "spref": {
+      "horizsys": {
+        "planar": {
+          "planci": {
+            "plance": {
+              "-Sync": "TRUE",
+              "#text": "row and column"
+            },
+            "coordrep": {
+              "absres": {
+                "-Sync": "TRUE",
+                "#text": "100.000000"
+              },
+              "ordres": {
+                "-Sync": "TRUE",
+                "#text": "100.000000"
+              }
+            },
+            "plandu": {
+              "-Sync": "TRUE",
+              "#text": "meters"
+            }
+          }
+        },
+        "cordsysn": {
+          "geogcsn": {
+            "-Sync": "TRUE",
+            "#text": "GCS_North_American_1983"
+          },
+          "projcsn": {
+            "-Sync": "TRUE",
+            "#text": "NAD_1983_Lambert_Conformal_Conic"
+          }
+        },
+        "geodetic": {
+          "horizdn": {
+            "-Sync": "TRUE",
+            "#text": "North American Datum of 1983"
+          },
+          "ellips": {
+            "-Sync": "TRUE",
+            "#text": "Geodetic Reference System 80"
+          },
+          "semiaxis": {
+            "-Sync": "TRUE",
+            "#text": "6378137.000000"
+          },
+          "denflat": {
+            "-Sync": "TRUE",
+            "#text": "298.257222"
+          }
+        }
+      }
+    },
+    "eainfo": {
+      "detailed": {
+        "-Name": "tier1_esshab.vat",
+        "attr": [
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "Count"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "Count"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Double"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "Rowid"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "Rowid"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "OID"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "4"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attrdef": {
+              "-Sync": "TRUE",
+              "#text": "Internal feature number."
+            },
+            "attrdefs": {
+              "-Sync": "TRUE",
+              "#text": "ESRI"
+            },
+            "attrdomv": {
+              "udom": {
+                "-Sync": "TRUE",
+                "#text": "Sequential unique whole numbers that are automatically generated."
+              }
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "VALUE"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "VALUE"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Integer"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "4"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "Value"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "Value"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Integer"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attrdef": "Number of species with essential habitat within that cell"
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "COUNT"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "COUNT"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Integer"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "4"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          }
+        ],
+        "enttyp": {
+          "enttypl": {
+            "-Sync": "TRUE",
+            "#text": "tier1_esshab.vat"
+          },
+          "enttypt": {
+            "-Sync": "TRUE",
+            "#text": "Table"
+          },
+          "enttypc": {
+            "-Sync": "TRUE",
+            "#text": "17"
+          }
+        }
+      }
+    },
+    "metainfo": {
+      "metd": {
+        "-Sync": "TRUE",
+        "#text": "20110323"
+      },
+      "metstdn": {
+        "-Sync": "TRUE",
+        "#text": "FGDC Content Standards for Digital Geospatial Metadata"
+      },
+      "metstdv": {
+        "-Sync": "TRUE",
+        "#text": "FGDC-STD-001-1998"
+      },
+      "langmeta": {
+        "-Sync": "TRUE",
+        "#text": "en"
+      },
+      "mettc": {
+        "-Sync": "TRUE",
+        "#text": "local time"
+      }
+    },
+    "Esri": {
+      "CreaDate": "20110323",
+      "CreaTime": "12072000",
+      "SyncOnce": "FALSE",
+      "SyncDate": "20120705",
+      "SyncTime": "13573300",
+      "ModDate": "20120705",
+      "ModTime": "14104300",
+      "MetaID": "{AA33D75E-4F62-4007-A9D5-FBFD6FCC9B8E}",
+      "PublishedDocID": "{A32192BE-C13F-40EB-9903-6DACB127B3FA}",
+      "PublishStatus": "Published",
+      "DataProperties": {
+        "itemProps": {
+          "itemName": {
+            "-Sync": "TRUE",
+            "#text": "tier1_esshab"
+          },
+          "itemLocation": {
+            "linkage": {
+              "-Sync": "TRUE",
+              "#text": "file://K:\\GISData\\FaunalFeatures\\WAP\\tier1_esshab"
+            },
+            "protocol": {
+              "-Sync": "TRUE",
+              "#text": "Local Area Network"
+            }
+          },
+          "imsContentType": {
+            "-Sync": "TRUE",
+            "-export": "False",
+            "#text": "002"
+          },
+          "nativeExtBox": {
+            "westBL": {
+              "-Sync": "TRUE",
+              "#text": "-373690.330551"
+            },
+            "eastBL": {
+              "-Sync": "TRUE",
+              "#text": "376109.669449"
+            },
+            "southBL": {
+              "-Sync": "TRUE",
+              "#text": "53949.166600"
+            },
+            "northBL": {
+              "-Sync": "TRUE",
+              "#text": "389549.166600"
+            },
+            "exTypeCode": {
+              "-Sync": "TRUE",
+              "#text": "1"
+            }
+          }
+        },
+        "coordRef": {
+          "type": {
+            "-Sync": "TRUE",
+            "#text": "Projected"
+          },
+          "geogcsn": {
+            "-Sync": "TRUE",
+            "#text": "GCS_North_American_1983"
+          },
+          "csUnits": {
+            "-Sync": "TRUE",
+            "#text": "Linear Unit: Meter (1.000000)"
+          },
+          "projcsn": {
+            "-Sync": "TRUE",
+            "#text": "NAD_1983_Lambert_Conformal_Conic"
+          },
+          "peXml": {
+            "-Sync": "TRUE",
+            "#text": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.0'><WKT>PROJCS[&quot;NAD_1983_Lambert_Conformal_Conic&quot;,GEOGCS[&quot;GCS_North_American_1983&quot;,DATUM[&quot;D_North_American_1983&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Lambert_Conformal_Conic&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Central_Meridian&quot;,-79.5],PARAMETER[&quot;Standard_Parallel_1&quot;,37.0],PARAMETER[&quot;Standard_Parallel_2&quot;,39.5],PARAMETER[&quot;Latitude_Of_Origin&quot;,36.0],UNIT[&quot;Meter&quot;,1.0]]</WKT><XOrigin>-37232800</XOrigin><YOrigin>-28884600</YOrigin><XYScale>120957855.10008635</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision></ProjectedCoordinateSystem>"
+          }
+        },
+        "RasterProperties": {
+          "General": {
+            "PixelDepth": {
+              "-Sync": "TRUE",
+              "#text": "32"
+            },
+            "HasColormap": {
+              "-Sync": "TRUE",
+              "#text": "FALSE"
+            },
+            "CompressionType": {
+              "-Sync": "TRUE",
+              "#text": "RLE"
+            },
+            "NumBands": {
+              "-Sync": "TRUE",
+              "#text": "1"
+            },
+            "Format": {
+              "-Sync": "TRUE",
+              "#text": "GRID"
+            },
+            "HasPyramids": {
+              "-Sync": "TRUE",
+              "#text": "TRUE"
+            },
+            "SourceType": {
+              "-Sync": "TRUE",
+              "#text": "continuous"
+            },
+            "PixelType": {
+              "-Sync": "TRUE",
+              "#text": "signed integer"
+            },
+            "NoDataValue": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          }
+        }
+      },
+      "ArcGISFormat": "1.0",
+      "ArcGISProfile": "FGDC"
+    },
+    "dataIdInfo": {
+      "envirDesc": {
+        "-Sync": "TRUE",
+        "#text": "Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcGIS 10.0.4.4000"
+      },
+      "dataLang": {
+        "languageCode": { "-Sync": "TRUE" },
+        "countryCode": {
+          "-value": "US",
+          "-Sync": "TRUE"
+        }
+      },
+      "idCitation": {
+        "resTitle": {
+          "-Sync": "FALSE",
+          "#text": "Tier I Essential Habitat"
+        },
+        "presForm": {
+          "PresFormCd": {
+            "-Sync": "TRUE",
+            "-value": "005"
+          }
+        },
+        "citRespParty": {
+          "rpIndName": "Lenee Pennington",
+          "rpOrgName": "VDGIF",
+          "rpPosName": "Acting GIS Coordinator",
+          "role": {
+            "RoleCd": { "-value": "007" }
+          },
+          "rpCntInfo": {
+            "cntAddress": {
+              "-addressType": "both",
+              "delPoint": "4010 W Broad St",
+              "city": "Richmond",
+              "adminArea": "Va",
+              "postCode": "23230",
+              "eMailAdd": "lenee.pennington@dgif.virginia.gov",
+              "country": "UNITED STATES"
+            },
+            "cntPhone": {
+              "voiceNum": { "#text": "8043670058" }
+            },
+            "cntHours": "8:30-5:00"
+          }
+        }
+      },
+      "spatRpType": {
+        "SpatRepTypCd": {
+          "-Sync": "TRUE",
+          "-value": "002"
+        }
+      },
+      "dataExt": [
+        {
+          "geoEle": {
+            "GeoBndBox": {
+              "-esriExtentType": "native",
+              "westBL": {
+                "-Sync": "TRUE",
+                "#text": "-373690.330551"
+              },
+              "eastBL": {
+                "-Sync": "TRUE",
+                "#text": "376109.669449"
+              },
+              "northBL": {
+                "-Sync": "TRUE",
+                "#text": "389549.1666"
+              },
+              "southBL": {
+                "-Sync": "TRUE",
+                "#text": "53949.1666"
+              },
+              "exTypeCode": {
+                "-Sync": "TRUE",
+                "#text": "1"
+              }
+            }
+          }
+        },
+        {
+          "geoEle": {
+            "GeoBndBox": {
+              "-esriExtentType": "search",
+              "exTypeCode": {
+                "-Sync": "TRUE",
+                "#text": "1"
+              },
+              "westBL": {
+                "-Sync": "TRUE",
+                "#text": "-83.841967"
+              },
+              "eastBL": {
+                "-Sync": "TRUE",
+                "#text": "-75.129964"
+              },
+              "northBL": {
+                "-Sync": "TRUE",
+                "#text": "39.509864"
+              },
+              "southBL": {
+                "-Sync": "TRUE",
+                "#text": "36.409218"
+              }
+            }
+          }
+        }
+      ],
+      "geoBox": {
+        "-esriExtentType": "decdegrees",
+        "westBL": {
+          "-Sync": "TRUE",
+          "#text": "-83.841967"
+        },
+        "eastBL": {
+          "-Sync": "TRUE",
+          "#text": "-75.129964"
+        },
+        "northBL": {
+          "-Sync": "TRUE",
+          "#text": "39.509864"
+        },
+        "southBL": {
+          "-Sync": "TRUE",
+          "#text": "36.409218"
+        },
+        "exTypeCode": {
+          "-Sync": "TRUE",
+          "#text": "1"
+        }
+      },
+      "idPurp": "This dataset is intended to highlight conservation opportunities in Virginia.  All areas with the potential to support a Tier I species are important, however areas that may support multiple species represent areas of greater conservation need.",
+      "idAbs": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>The Tier1_Ess_Hab raster shows locations of confirmed and/or potential habitat of Tier 1 species created during the Virginia Wildlife Action Plan (WAP). It represents habitat for fifty-three terrestrial species and thirty-three aquatic species. Of the ninety-three Tier I species, habitat was mapped for eighty-six species. These habitats were summarized to show areas of conservation opportunity.</SPAN></P></DIV></DIV></DIV>",
+      "idCredit": "There were several contributors including Department of Conservation and Recreation-Division of Natural Heritage.  Species' habitat maps were reviewed by VDGIF's Taxanomic Advisory Committees.",
+      "searchKeys": {
+        "keyword": [
+          "Biota",
+          "Comprehensive Wildlife Conservation Strategy",
+          "Essential Habitat",
+          "Wildlife Action Plan",
+          "Conservation",
+          "Imperiled Species"
+        ]
+      },
+      "resConst": {
+        "Consts": { "useLimit": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>This dataset is not intended for use as a sole source of information about the locations of Virginia's wildlife species. When performing environmental reviews, use of this information does not replace the need for conducting field surveys and consulting appropriate federal, state, and local officials. The absence of data confirming the occurrence of a species within a geographic area does not constitute a negative declaration. Neither the VDGIF nor the contributors to the Comprehensive Wildlife Conservation Strategy (CWCS) shall be held liable for any improper or incorrect use of the information contained herein and assume no responsibility for the use of the information.</SPAN></P></DIV></DIV></DIV>" }
+      },
+      "dataChar": {
+        "CharSetCd": { "-value": "004" }
+      },
+      "idPoC": {
+        "rpIndName": "Lenee Pennington",
+        "rpOrgName": "VDGIF",
+        "rpPosName": "Acting GIS Coordinator",
+        "role": {
+          "RoleCd": { "-value": "001" }
+        },
+        "rpCntInfo": {
+          "cntAddress": {
+            "-addressType": "both",
+            "delPoint": "4010 W Broad St",
+            "city": "Richmond",
+            "adminArea": "Va",
+            "postCode": "23230",
+            "eMailAdd": "lenee.pennington@dgif.virginia.gov",
+            "country": "UNITED STATES"
+          },
+          "cntPhone": {
+            "voiceNum": { "#text": "8043670058" }
+          },
+          "cntHours": "8:30-5:00"
+        }
+      },
+      "resMaint": {
+        "maintFreq": {
+          "MaintFreqCd": { "-value": "009" }
+        }
+      },
+      "tpCat": [
+        {
+          "TopicCatCd": { "-value": "002" }
+        },
+        {
+          "TopicCatCd": { "-value": "007" }
+        },
+        {
+          "TopicCatCd": { "-value": "013" }
+        }
+      ]
+    },
+    "mdLang": {
+      "languageCode": { "-Sync": "TRUE" },
+      "countryCode": {
+        "-value": "US",
+        "-Sync": "TRUE"
+      }
+    },
+    "mdStanName": {
+      "-Sync": "TRUE",
+      "#text": "ISO 19115 Geographic Information - Metadata"
+    },
+    "mdStanVer": {
+      "-Sync": "TRUE",
+      "#text": "DIS_ESRI1.0"
+    },
+    "mdChar": {
+      "CharSetCd": {
+        "-Sync": "TRUE",
+        "-value": "006"
+      }
+    },
+    "mdHrLv": {
+      "ScopeCd": {
+        "-Sync": "TRUE",
+        "-value": "005"
+      }
+    },
+    "mdHrLvName": {
+      "-Sync": "TRUE",
+      "#text": "dataset"
+    },
+    "distInfo": {
+      "distributor": {
+        "distorTran": {
+          "onLineSrc": {
+            "orDesc": {
+              "-Sync": "TRUE",
+              "#text": "002"
+            },
+            "linkage": {
+              "-Sync": "TRUE",
+              "#text": "file://\\\\GIS\\Share\\Data\\GISData\\FaunalFeatures\\WAP\\tier1_esshab"
+            },
+            "protocol": {
+              "-Sync": "TRUE",
+              "#text": "Local Area Network"
+            }
+          },
+          "transSize": {
+            "-Sync": "TRUE",
+            "#text": "1.021"
+          }
+        },
+        "distorFormat": {
+          "formatName": {
+            "-Sync": "TRUE",
+            "#text": "Raster Dataset"
+          }
+        }
+      },
+      "distFormat": {
+        "formatName": {
+          "-Sync": "TRUE",
+          "#text": "Raster Dataset"
+        }
+      }
+    },
+    "refSysInfo": {
+      "RefSystem": {
+        "refSysID": {
+          "identCode": {
+            "-Sync": "TRUE",
+            "-value": "0",
+            "#text": "NAD_1983_Lambert_Conformal_Conic"
+          }
+        }
+      }
+    },
+    "spatRepInfo": {
+      "GridSpatRep": {
+        "numDims": {
+          "-Sync": "TRUE",
+          "#text": "2"
+        },
+        "cellGeo": {
+          "CellGeoCd": {
+            "-Sync": "TRUE",
+            "-value": "002"
+          }
+        },
+        "tranParaAv": {
+          "-Sync": "TRUE",
+          "#text": "1"
+        },
+        "axDimProps": {
+          "Dimen": [
+            {
+              "dimName": {
+                "DimNameTypCd": {
+                  "-Sync": "TRUE",
+                  "-value": "002"
+                }
+              },
+              "dimSize": {
+                "-Sync": "TRUE",
+                "#text": "7498"
+              },
+              "dimResol": {
+                "value": {
+                  "-Sync": "TRUE",
+                  "#text": "100"
+                },
+                "uom": {
+                  "UomLength": {
+                    "uomName": {
+                      "-Sync": "TRUE",
+                      "#text": "Meter"
+                    },
+                    "conversionToISOstandardUnit": {
+                      "-Sync": "TRUE",
+                      "#text": "1 Meter = 1 Meter(s)"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "dimName": {
+                "DimNameTypCd": {
+                  "-Sync": "TRUE",
+                  "-value": "001"
+                }
+              },
+              "dimSize": {
+                "-Sync": "TRUE",
+                "#text": "3356"
+              },
+              "dimResol": {
+                "value": {
+                  "-Sync": "TRUE",
+                  "#text": "100"
+                },
+                "uom": {
+                  "UomLength": {
+                    "uomName": {
+                      "-Sync": "TRUE",
+                      "#text": "Meter"
+                    },
+                    "conversionToISOstandardUnit": {
+                      "-Sync": "TRUE",
+                      "#text": "1 Meter = 1 Meter(s)"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "Georect": {
+        "cellGeo": {
+          "CellGeoCd": {
+            "-Sync": "TRUE",
+            "-value": "002"
+          }
+        },
+        "numDims": {
+          "-Sync": "TRUE",
+          "#text": "2"
+        },
+        "tranParaAv": {
+          "-Sync": "TRUE",
+          "#text": "1"
+        },
+        "chkPtAv": {
+          "-Sync": "TRUE",
+          "#text": "0"
+        },
+        "cornerPts": [
+          {
+            "pos": {
+              "-Sync": "TRUE",
+              "#text": "-373690.330551 53949.166600"
+            }
+          },
+          {
+            "pos": {
+              "-Sync": "TRUE",
+              "#text": "-373690.330551 389549.166600"
+            }
+          },
+          {
+            "pos": {
+              "-Sync": "TRUE",
+              "#text": "376109.669449 389549.166600"
+            }
+          },
+          {
+            "pos": {
+              "-Sync": "TRUE",
+              "#text": "376109.669449 53949.166600"
+            }
+          }
+        ],
+        "centerPt": {
+          "pos": {
+            "-Sync": "TRUE",
+            "#text": "1209.669449 221749.166600"
+          }
+        },
+        "axisDimension": [
+          {
+            "-type": "002",
+            "dimSize": {
+              "-Sync": "TRUE",
+              "#text": "7498"
+            },
+            "dimResol": {
+              "value": {
+                "-Sync": "TRUE",
+                "-uom": "Meter",
+                "#text": "100.000000"
+              }
+            }
+          },
+          {
+            "-type": "001",
+            "dimSize": {
+              "-Sync": "TRUE",
+              "#text": "3356"
+            },
+            "dimResol": {
+              "value": {
+                "-Sync": "TRUE",
+                "-uom": "Meter",
+                "#text": "100.000000"
+              }
+            }
+          }
+        ],
+        "ptInPixel": {
+          "PixOrientCd": {
+            "-Sync": "TRUE",
+            "-value": "001"
+          }
+        }
+      }
+    },
+    "mdDateSt": {
+      "-Sync": "TRUE",
+      "#text": "20120705"
+    },
+    "distinfo": {
+      "stdorder": {
+        "digform": {
+          "digtinfo": {
+            "transize": {
+              "-Sync": "TRUE",
+              "#text": "1.021"
+            },
+            "dssize": {
+              "-Sync": "TRUE",
+              "#text": "1.021"
+            }
+          }
+        },
+        "fees": "n/a"
+      },
+      "distliab": "The VDGIF provides these data on an as is basis. All warranties of any kind, express or implied, including but not limited to fitness for a particular use, freedom from computer viruses, and non-infringement of proprietary rights are disclaimed. The user is responsible for obtaining monthly updates of this GIS dataset, so that the most current information is in use at any given time.  Neither the VDGIF nor the contributors to this dataset shall be held liable for any improper or incorrect use of the information contained herein and assume no responsibility for the use of the information. In no event shall the VDGIF or the contributors to this dataset be liable for any direct, indirect, or incidental damages arising in any way out of the use of this service. This disclaimer of liability applies to any damages or injury, including but not limited to those caused by any failure of performance, error, omission, defect, delay in operation or transmission, computer virus, alteration or use of record.",
+      "resdesc": {
+        "-Sync": "TRUE",
+        "#text": "Downloadable Data"
+      }
+    },
+    "contInfo": {
+      "ImgDesc": {
+        "contentTyp": {
+          "ContentTypCd": {
+            "-Sync": "TRUE",
+            "-value": "003"
+          }
+        },
+        "covDim": {
+          "Band": {
+            "dimDescrp": {
+              "-Sync": "TRUE",
+              "#text": "tier1_esshab"
+            },
+            "bitsPerVal": {
+              "-Sync": "TRUE",
+              "#text": "32"
+            },
+            "valUnit": {
+              "UOM": {
+                "-type": "length",
+                "unitSymbol": {
+                  "-Sync": "TRUE",
+                  "#text": "Meter"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Binary": {
+      "Thumbnail": {
+        "Data": {
+          "-EsriPropertyType": "PictureX",
+          "#text": "/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKilnSJ0Vj97gUAS0UgIYAggg8gigEGgBaKKKACiiigAoooo
+AKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiimSv5cZcjIHWgB/SqUk8csxAx8oyrHv64/D+
+f5suLnzbiOFGCqed+4g5yBgAc9/1FWIYycF1wq42Kee3X60ANtmO9o95cAk59M9jUrEKVzkkHGR9
+Ov8AOnrGquWA+YjBJOajkiaSZGLfu1zlaAJQQehpahgn80cqVcEhhnIUj3qagAooooAKKKKACiii
+gAooooAKKKKACiiigAooooAKKKKACiiml1BKggsMEgEZA9aAHDpzSMu5cZI9xUMV5bzsywSpKVxu
+2MDjPI/Tmp6AKUdjD9qSZoFLxglXI5BPX9AKuY+bOT9KCwUZYgDNNQkjDY3D06UAPooooATau7dj
+n1paKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAQkKCScAcmm+VGJHk8td7gKzY5Y
+DOAT36n86HK7lU9eoyD/AJ70JncRhQg+6O9AENnYW1hGY7WJY0LFiqjuetWarIjSXrSyQqojG2KQ
+OcsDjdkduR71YXOOc5HGT3oACoLZ5/OhenTHtS0mBnPegBaKKKAECgEkAZPU+tL0oooAKQ57etLR
+QBXlkl+0xRxFdoJaXIPC4OMH1zjj6023WaSZppHXyicxKM8DGAfxHOPeo753SOOFAzNPIEZg+3AP
+Ug+uM8davUAFFFFABRRRQAUUUE4GTQAUUx5Uj++wXjPNDSfJuQbhjOe3T/PSgB9RNdQIF3SoN33e
+fvfT1rDOuSXVzL/Z4aSONNxmlG2POR8oJGemefXFUbHRbl9SmnN5LcIRhgeARtwuX6scd/Q8+hAO
+lmvo4QGMczKQNrRxlwSe3H8zx708m4aHfH5e9lXCtnA555HXj+VRRwM8nzzjCNu8uI7QDyfm7nOe
+/p0pZ9Ss7WRkmukVxzsJ5HHp70AL+4uRDLHKHIBaKRHyDkEZ44I5+lSK4VtnI3YIz15/CsiLVJpt
+YSzt4UFs3zb1Izt255HYf4j1rVywQBgq5OAuOPXHSgBzEmRG5I56DHGO9SbxtBweSBiovlM5Kr0X
+lsZzn/8AV+lSKFJ3Yyc5B64/zzQA+iikOccdaAFoqrKLtIz5HlEgjHmscYz83T26e9TP90sCc7Tg
+Ac0APJ7LgkdRml61VjYE7SGyDxjr2zz3HHenK77kLZBYgFT1HHqOCeKAJzwP0pe3FMIB3KQSpHPN
+B2wxH721R2yTj+dAFSyKzTTyYwySsDjrnpz+AH5ir1IqqihVGAKWgAooooAKYHJ34RhtOBn+L6U+
+igCqLi4e9kgW2ZYljyJ2PG70x39c0t09yIwtooaQOu4uOAuRnuOcZqzRQBUiWVYQZGLTHqxHX6dh
+0zj/APXVW/sVuZluJGClEKrjkHnPQ5H6dq1aKAOY1vWxodsjz27ytIQFKNgZAHc/oPauYtvGF5DP
+PcpEzJN3Zi2zBPAHAHHU4/8AremPGkgw6Kw64YZqP7Ha8/6ND83X5BzQBx/9v6tJaO58mPcw2+WQ
+CFAO5sE5Hb8qrzJq13FDOttM3zMFcgnAJJz9Dwc+wx3rthp9kGVhaW4KnKnyxwc5449asdaAMvS7
+RrTTU8+Py5yuZdp5JHuM8Y9P0q5uPRgWbGBgHn/63SpjGpxkHI6HPP50oVQOnvzzQBGuWyPl44xj
+of8AJqQDAA9KAAoAAwBwKWgAooooAKYU/u/h2xT6KAISjE9gvfacnoOB/nt+SRspkbbyc4PHTBxU
+qoqZ2jGTk80oVV+6oH0FAHKeLtbv9IvtPSyTJmD5yeG6DAHTIznP0rTn1CWeLzYGZY1cLJGyfMOS
+D7/h7/jWpNbQXBUzQxyFfu70Bx9M1LgelADIv9WAckrwSTnOKfRRQAUUUUAFFFFABRRRQAUUUUAF
+FFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUU
+UUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQB//2Q=="
+        }
+      }
+    },
+    "mdContact": {
+      "rpIndName": "Justin Ray",
+      "rpOrgName": "VDGIF",
+      "rpPosName": "GIS Database and Applications Specialist",
+      "role": {
+        "RoleCd": { "-value": "011" }
+      },
+      "rpCntInfo": {
+        "cntAddress": {
+          "-addressType": "both",
+          "delPoint": "4010 W Broad St",
+          "city": "Richmond",
+          "adminArea": "Va",
+          "postCode": "23230",
+          "eMailAdd": "justin.ray@dgif.virginia.gov",
+          "country": "UNITED STATES"
+        },
+        "cntPhone": {
+          "voiceNum": { "#text": "8043674370" }
+        },
+        "cntHours": "8:30-4:30"
+      }
+    },
+    "mdMaint": {
+      "maintFreq": {
+        "MaintFreqCd": { "-value": "009" }
+      }
+    },
+    "dqInfo": {
+      "dqScope": {
+        "scpLvl": {
+          "ScopeCd": { "-value": "005" }
+        }
+      }
+    }
+  }
+}
