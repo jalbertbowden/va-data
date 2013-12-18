@@ -1,0 +1,1269 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ValueId": 2, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 1, "NESTS-ID": 2, "ID": 550500001, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.925952, 36.619137 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 3, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 2, "NESTS-ID": 3, "ID": 550500002, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.912728, 36.618309 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 4, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 3, "NESTS-ID": 4, "ID": 550500003, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.906249, 36.615606 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 1, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 4, "NESTS-ID": 1, "ID": 550500004, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.929789, 36.610720 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 731, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 5, "NESTS-ID": 731, "ID": 550500005, "RARNUM": 55000321 }, "geometry": { "type": "Point", "coordinates": [ -75.922669, 36.600587 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 1440, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 6, "NESTS-ID": 1440, "ID": 550500006, "RARNUM": 55000268 }, "geometry": { "type": "Point", "coordinates": [ -75.957310, 36.734216 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 756, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 7, "NESTS-ID": 756, "ID": 550500007, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.944830, 36.690202 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 755, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 8, "NESTS-ID": 755, "ID": 550500008, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.931414, 36.688822 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 758, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 9, "NESTS-ID": 758, "ID": 550500009, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.947511, 36.686336 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 754, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 10, "NESTS-ID": 754, "ID": 550500010, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.926794, 36.685740 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 757, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 11, "NESTS-ID": 757, "ID": 550500011, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.941026, 36.685457 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 753, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 12, "NESTS-ID": 753, "ID": 550500012, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.928208, 36.681540 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 751, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 13, "NESTS-ID": 751, "ID": 550500013, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.921654, 36.679868 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 752, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 14, "NESTS-ID": 752, "ID": 550500014, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.935854, 36.675740 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 759, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 15, "NESTS-ID": 759, "ID": 550500015, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.959684, 36.674925 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 749, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 16, "NESTS-ID": 749, "ID": 550500016, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.920065, 36.672106 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 750, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 17, "NESTS-ID": 750, "ID": 550500017, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.927655, 36.670508 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 767, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 18, "NESTS-ID": 767, "ID": 550500018, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.913871, 36.668694 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 760, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 19, "NESTS-ID": 760, "ID": 550500019, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.958158, 36.663088 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 748, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 20, "NESTS-ID": 748, "ID": 550500020, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.917642, 36.663011 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 1441, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 21, "NESTS-ID": 1441, "ID": 550500021, "RARNUM": 55000289 }, "geometry": { "type": "Point", "coordinates": [ -75.932747, 36.659363 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 747, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 22, "NESTS-ID": 747, "ID": 550500022, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.916138, 36.654801 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 744, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 23, "NESTS-ID": 744, "ID": 550500023, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.936930, 36.650738 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 743, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 24, "NESTS-ID": 743, "ID": 550500024, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.948254, 36.649740 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 746, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 25, "NESTS-ID": 746, "ID": 550500025, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.918320, 36.648260 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 745, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 26, "NESTS-ID": 745, "ID": 550500026, "RARNUM": 55000004 }, "geometry": { "type": "Point", "coordinates": [ -75.916319, 36.641737 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 1519, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 27, "NESTS-ID": 1519, "ID": 550500027, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.976733, 36.849081 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2151, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 28, "NESTS-ID": 2151, "ID": 550500028, "RARNUM": 55000290 }, "geometry": { "type": "Point", "coordinates": [ -76.058330, 36.873447 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2150, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 29, "NESTS-ID": 2150, "ID": 550500029, "RARNUM": 55000310 }, "geometry": { "type": "Point", "coordinates": [ -76.092978, 36.872996 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2152, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 30, "NESTS-ID": 2152, "ID": 550500030, "RARNUM": 55000273 }, "geometry": { "type": "Point", "coordinates": [ -76.064418, 36.858427 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2153, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 31, "NESTS-ID": 2153, "ID": 550500031, "RARNUM": 55000290 }, "geometry": { "type": "Point", "coordinates": [ -76.059505, 36.857922 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2149, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 32, "NESTS-ID": 2149, "ID": 550500032, "RARNUM": 55000290 }, "geometry": { "type": "Point", "coordinates": [ -76.065421, 36.848148 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2456, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 33, "NESTS-ID": 2456, "ID": 550500033, "RARNUM": 55000316 }, "geometry": { "type": "Point", "coordinates": [ -76.236983, 36.846545 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2753, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 34, "NESTS-ID": 2753, "ID": 550500034, "RARNUM": 55000302 }, "geometry": { "type": "Point", "coordinates": [ -76.231401, 36.834478 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2754, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 35, "NESTS-ID": 2754, "ID": 550500035, "RARNUM": 55000290 }, "geometry": { "type": "Point", "coordinates": [ -76.192177, 36.817867 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 3381, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 36, "NESTS-ID": 3381, "ID": 550500036, "RARNUM": 55000273 }, "geometry": { "type": "Point", "coordinates": [ -76.305096, 36.870814 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 3377, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 37, "NESTS-ID": 3377, "ID": 550500037, "RARNUM": 55000273 }, "geometry": { "type": "Point", "coordinates": [ -76.349834, 36.864972 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2859, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 38, "NESTS-ID": 2859, "ID": 550500038, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.346362, 36.856094 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 3378, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 39, "NESTS-ID": 3378, "ID": 550500039, "RARNUM": 55000290 }, "geometry": { "type": "Point", "coordinates": [ -76.344488, 36.847925 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 3379, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 40, "NESTS-ID": 3379, "ID": 550500040, "RARNUM": 55000273 }, "geometry": { "type": "Point", "coordinates": [ -76.374396, 36.844907 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2890, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 41, "NESTS-ID": 2890, "ID": 550500041, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.286449, 36.843313 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2881, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 42, "NESTS-ID": 2881, "ID": 550500042, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.361664, 36.842371 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 3380, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 43, "NESTS-ID": 3380, "ID": 550500043, "RARNUM": 55000290 }, "geometry": { "type": "Point", "coordinates": [ -76.324718, 36.841512 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2856, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 44, "NESTS-ID": 2856, "ID": 550500044, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.286709, 36.841618 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2884, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 45, "NESTS-ID": 2884, "ID": 550500045, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.265548, 36.840276 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2854, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 46, "NESTS-ID": 2854, "ID": 550500046, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.275168, 36.839383 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 3382, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 47, "NESTS-ID": 3382, "ID": 550500047, "RARNUM": 55000313 }, "geometry": { "type": "Point", "coordinates": [ -76.257737, 36.835619 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 3383, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 48, "NESTS-ID": 3383, "ID": 550500048, "RARNUM": 55000273 }, "geometry": { "type": "Point", "coordinates": [ -76.259636, 36.831368 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2883, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 49, "NESTS-ID": 2883, "ID": 550500049, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.288816, 36.808517 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2886, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 50, "NESTS-ID": 2886, "ID": 550500050, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.293221, 36.796848 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2877, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 51, "NESTS-ID": 2877, "ID": 550500051, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.299013, 36.772405 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 2885, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 52, "NESTS-ID": 2885, "ID": 550500052, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.297356, 36.757849 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 3974, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 53, "NESTS-ID": 3974, "ID": 550500053, "RARNUM": 55000273 }, "geometry": { "type": "Point", "coordinates": [ -76.402046, 36.841416 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 4553, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 54, "NESTS-ID": 4553, "ID": 550500054, "RARNUM": 55000272 }, "geometry": { "type": "Point", "coordinates": [ -76.574889, 36.866685 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 5261, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 55, "NESTS-ID": 5261, "ID": 550500055, "RARNUM": 55000322 }, "geometry": { "type": "Point", "coordinates": [ -76.022275, 36.900481 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 5569, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 56, "NESTS-ID": 5569, "ID": 550500056, "RARNUM": 55000273 }, "geometry": { "type": "Point", "coordinates": [ -76.237207, 36.939828 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 5565, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 57, "NESTS-ID": 5565, "ID": 550500057, "RARNUM": 55000318 }, "geometry": { "type": "Point", "coordinates": [ -76.215391, 36.934061 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 5864, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 58, "NESTS-ID": 5864, "ID": 550500058, "RARNUM": 55000319 }, "geometry": { "type": "Point", "coordinates": [ -76.212160, 36.932205 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 5566, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 59, "NESTS-ID": 5566, "ID": 550500059, "RARNUM": 55000317 }, "geometry": { "type": "Point", "coordinates": [ -76.222540, 36.932021 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 5865, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 60, "NESTS-ID": 5865, "ID": 550500060, "RARNUM": 55000320 }, "geometry": { "type": "Point", "coordinates": [ -76.210500, 36.931853 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 5863, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 61, "NESTS-ID": 5863, "ID": 550500061, "RARNUM": 55000302 }, "geometry": { "type": "Point", "coordinates": [ -76.198237, 36.929293 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 6007, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 62, "NESTS-ID": 6007, "ID": 550500062, "RARNUM": 55000309 }, "geometry": { "type": "Point", "coordinates": [ -76.303085, 36.983067 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 6172, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 63, "NESTS-ID": 6172, "ID": 550500063, "RARNUM": 55000302 }, "geometry": { "type": "Point", "coordinates": [ -76.251015, 36.948015 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 6050, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 64, "NESTS-ID": 6050, "ID": 550500064, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.326389, 36.932150 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 6477, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 65, "NESTS-ID": 6477, "ID": 550500065, "RARNUM": 55000306 }, "geometry": { "type": "Point", "coordinates": [ -76.311471, 36.914101 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 6478, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 66, "NESTS-ID": 6478, "ID": 550500066, "RARNUM": 55000310 }, "geometry": { "type": "Point", "coordinates": [ -76.293254, 36.909305 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 6051, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 67, "NESTS-ID": 6051, "ID": 550500067, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.305225, 36.905444 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 6483, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 68, "NESTS-ID": 6483, "ID": 550500068, "RARNUM": 55000273 }, "geometry": { "type": "Point", "coordinates": [ -76.261923, 36.904668 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 6093, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 69, "NESTS-ID": 6093, "ID": 550500069, "RARNUM": 55000305 }, "geometry": { "type": "Point", "coordinates": [ -76.312338, 36.901615 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 6092, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 70, "NESTS-ID": 6092, "ID": 550500070, "RARNUM": 55000305 }, "geometry": { "type": "Point", "coordinates": [ -76.313426, 36.898679 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 6482, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 71, "NESTS-ID": 6482, "ID": 550500071, "RARNUM": 55000308 }, "geometry": { "type": "Point", "coordinates": [ -76.288015, 36.896544 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 6484, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 72, "NESTS-ID": 6484, "ID": 550500072, "RARNUM": 55000273 }, "geometry": { "type": "Point", "coordinates": [ -76.268880, 36.893893 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 6481, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 73, "NESTS-ID": 6481, "ID": 550500073, "RARNUM": 55000290 }, "geometry": { "type": "Point", "coordinates": [ -76.283149, 36.893623 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 6171, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 74, "NESTS-ID": 6171, "ID": 550500074, "RARNUM": 55000302 }, "geometry": { "type": "Point", "coordinates": [ -76.310944, 36.893266 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 6485, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 75, "NESTS-ID": 6485, "ID": 550500075, "RARNUM": 55000312 }, "geometry": { "type": "Point", "coordinates": [ -76.268517, 36.892528 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 6475, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 76, "NESTS-ID": 6475, "ID": 550500076, "RARNUM": 55000273 }, "geometry": { "type": "Point", "coordinates": [ -76.314766, 36.887543 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 7092, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 77, "NESTS-ID": 7092, "ID": 550500077, "RARNUM": 55000273 }, "geometry": { "type": "Point", "coordinates": [ -76.379445, 36.998778 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 7073, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 78, "NESTS-ID": 7073, "ID": 550500078, "RARNUM": 55000284 }, "geometry": { "type": "Point", "coordinates": [ -76.480919, 36.994802 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 7093, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 79, "NESTS-ID": 7093, "ID": 550500079, "RARNUM": 55000290 }, "geometry": { "type": "Point", "coordinates": [ -76.400399, 36.986769 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 6715, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 80, "NESTS-ID": 6715, "ID": 550500080, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.429161, 36.978375 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 7075, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 81, "NESTS-ID": 7075, "ID": 550500081, "RARNUM": 55000257 }, "geometry": { "type": "Point", "coordinates": [ -76.488247, 36.939711 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 7094, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 82, "NESTS-ID": 7094, "ID": 550500082, "RARNUM": 55000293 }, "geometry": { "type": "Point", "coordinates": [ -76.379426, 36.908777 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 6697, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 83, "NESTS-ID": 6697, "ID": 550500083, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.492880, 36.885951 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 7646, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 84, "NESTS-ID": 7646, "ID": 550500084, "RARNUM": 55000279 }, "geometry": { "type": "Point", "coordinates": [ -76.524870, 36.974057 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 7904, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 85, "NESTS-ID": 7904, "ID": 550500085, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.920534, 37.111009 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 7885, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 86, "NESTS-ID": 7885, "ID": 550500086, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.956904, 37.107980 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 7902, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 87, "NESTS-ID": 7902, "ID": 550500087, "RARNUM": 55000043 }, "geometry": { "type": "Point", "coordinates": [ -75.977344, 37.098271 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 7903, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 88, "NESTS-ID": 7903, "ID": 550500088, "RARNUM": 55000043 }, "geometry": { "type": "Point", "coordinates": [ -75.974532, 37.096384 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 8248, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 89, "NESTS-ID": 8248, "ID": 550500089, "RARNUM": 55000162 }, "geometry": { "type": "Point", "coordinates": [ -75.957930, 37.094649 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 8249, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 90, "NESTS-ID": 8249, "ID": 550500090, "RARNUM": 55000161 }, "geometry": { "type": "Point", "coordinates": [ -75.948198, 37.092573 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 7878, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 91, "NESTS-ID": 7878, "ID": 550500091, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.962103, 37.088312 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 8885, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 92, "NESTS-ID": 8885, "ID": 550500092, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.307588, 37.111977 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 8847, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 93, "NESTS-ID": 8847, "ID": 550500093, "RARNUM": 55000311 }, "geometry": { "type": "Point", "coordinates": [ -76.290891, 37.108118 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 8999, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 94, "NESTS-ID": 8999, "ID": 550500094, "RARNUM": 55000272 }, "geometry": { "type": "Point", "coordinates": [ -76.288476, 37.094834 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 8846, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 95, "NESTS-ID": 8846, "ID": 550500095, "RARNUM": 55000300 }, "geometry": { "type": "Point", "coordinates": [ -76.342557, 37.056243 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 8845, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 96, "NESTS-ID": 8845, "ID": 550500096, "RARNUM": 55000304 }, "geometry": { "type": "Point", "coordinates": [ -76.321245, 37.047142 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 8841, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 97, "NESTS-ID": 8841, "ID": 550500097, "RARNUM": 55000302 }, "geometry": { "type": "Point", "coordinates": [ -76.337926, 37.041483 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 8551, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 98, "NESTS-ID": 8551, "ID": 550500098, "RARNUM": 55000298 }, "geometry": { "type": "Point", "coordinates": [ -76.348552, 37.014446 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 8844, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 99, "NESTS-ID": 8844, "ID": 550500099, "RARNUM": 55000308 }, "geometry": { "type": "Point", "coordinates": [ -76.311834, 37.007221 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 8842, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 100, "NESTS-ID": 8842, "ID": 550500100, "RARNUM": 55000295 }, "geometry": { "type": "Point", "coordinates": [ -76.362711, 37.006602 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 9300, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 101, "NESTS-ID": 9300, "ID": 550500101, "RARNUM": 55000286 }, "geometry": { "type": "Point", "coordinates": [ -76.446105, 37.096237 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 9574, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 102, "NESTS-ID": 9574, "ID": 550500102, "RARNUM": 55000271 }, "geometry": { "type": "Point", "coordinates": [ -76.490465, 37.042892 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 9658, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 103, "NESTS-ID": 9658, "ID": 550500103, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.469127, 37.003050 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 10229, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 104, "NESTS-ID": 10229, "ID": 550500104, "RARNUM": 55000258 }, "geometry": { "type": "Point", "coordinates": [ -76.578828, 37.103067 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 10230, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 105, "NESTS-ID": 10230, "ID": 550500105, "RARNUM": 55000256 }, "geometry": { "type": "Point", "coordinates": [ -76.576912, 37.092833 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 10231, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 106, "NESTS-ID": 10231, "ID": 550500106, "RARNUM": 55000275 }, "geometry": { "type": "Point", "coordinates": [ -76.566419, 37.082607 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 10232, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 107, "NESTS-ID": 10232, "ID": 550500107, "RARNUM": 55000277 }, "geometry": { "type": "Point", "coordinates": [ -76.557505, 37.081985 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 10212, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 108, "NESTS-ID": 10212, "ID": 550500108, "RARNUM": 55000258 }, "geometry": { "type": "Point", "coordinates": [ -76.594037, 37.011537 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 10812, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 109, "NESTS-ID": 10812, "ID": 550500109, "RARNUM": 55000269 }, "geometry": { "type": "Point", "coordinates": [ -76.686481, 37.098773 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 11817, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 110, "NESTS-ID": 11817, "ID": 550500110, "RARNUM": 55000216 }, "geometry": { "type": "Point", "coordinates": [ -75.807627, 37.245310 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 11489, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 111, "NESTS-ID": 11489, "ID": 550500111, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.818022, 37.241156 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 11500, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 112, "NESTS-ID": 11500, "ID": 550500112, "RARNUM": 55000057 }, "geometry": { "type": "Point", "coordinates": [ -75.810977, 37.240986 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 11501, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 113, "NESTS-ID": 11501, "ID": 550500113, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.810800, 37.240601 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 11493, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 114, "NESTS-ID": 11493, "ID": 550500114, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.818366, 37.237512 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 11818, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 115, "NESTS-ID": 11818, "ID": 550500115, "RARNUM": 55000210 }, "geometry": { "type": "Point", "coordinates": [ -75.819062, 37.236695 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 11820, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 116, "NESTS-ID": 11820, "ID": 550500116, "RARNUM": 55000209 }, "geometry": { "type": "Point", "coordinates": [ -75.817367, 37.235490 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 11821, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 117, "NESTS-ID": 11821, "ID": 550500117, "RARNUM": 55000212 }, "geometry": { "type": "Point", "coordinates": [ -75.799786, 37.230283 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 11822, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 118, "NESTS-ID": 11822, "ID": 550500118, "RARNUM": 55000211 }, "geometry": { "type": "Point", "coordinates": [ -75.799488, 37.227031 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 11823, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 119, "NESTS-ID": 11823, "ID": 550500119, "RARNUM": 55000173 }, "geometry": { "type": "Point", "coordinates": [ -75.839010, 37.220276 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 11824, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 120, "NESTS-ID": 11824, "ID": 550500120, "RARNUM": 55000172 }, "geometry": { "type": "Point", "coordinates": [ -75.841758, 37.219121 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 11825, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 121, "NESTS-ID": 11825, "ID": 550500121, "RARNUM": 55000183 }, "geometry": { "type": "Point", "coordinates": [ -75.853272, 37.203681 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 11826, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 122, "NESTS-ID": 11826, "ID": 550500122, "RARNUM": 55000175 }, "geometry": { "type": "Point", "coordinates": [ -75.851023, 37.202066 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 11827, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 123, "NESTS-ID": 11827, "ID": 550500123, "RARNUM": 55000174 }, "geometry": { "type": "Point", "coordinates": [ -75.854356, 37.199815 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 11828, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 124, "NESTS-ID": 11828, "ID": 550500124, "RARNUM": 55000140 }, "geometry": { "type": "Point", "coordinates": [ -75.850562, 37.199383 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 11829, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 125, "NESTS-ID": 11829, "ID": 550500125, "RARNUM": 55000192 }, "geometry": { "type": "Point", "coordinates": [ -75.837092, 37.196250 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 11830, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 126, "NESTS-ID": 11830, "ID": 550500126, "RARNUM": 55000191 }, "geometry": { "type": "Point", "coordinates": [ -75.842461, 37.195220 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 11832, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 127, "NESTS-ID": 11832, "ID": 550500127, "RARNUM": 55000137 }, "geometry": { "type": "Point", "coordinates": [ -75.849939, 37.194042 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 11833, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 128, "NESTS-ID": 11833, "ID": 550500128, "RARNUM": 55000202 }, "geometry": { "type": "Point", "coordinates": [ -75.811040, 37.192014 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 11836, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 129, "NESTS-ID": 11836, "ID": 550500129, "RARNUM": 55000214 }, "geometry": { "type": "Point", "coordinates": [ -75.837187, 37.177040 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 11837, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 130, "NESTS-ID": 11837, "ID": 550500130, "RARNUM": 55000210 }, "geometry": { "type": "Point", "coordinates": [ -75.845433, 37.172736 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 11838, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 131, "NESTS-ID": 11838, "ID": 550500131, "RARNUM": 55000193 }, "geometry": { "type": "Point", "coordinates": [ -75.851920, 37.172592 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 11839, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 132, "NESTS-ID": 11839, "ID": 550500132, "RARNUM": 55000213 }, "geometry": { "type": "Point", "coordinates": [ -75.848651, 37.170865 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 12265, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 133, "NESTS-ID": 12265, "ID": 550500133, "RARNUM": 55000336 }, "geometry": { "type": "Point", "coordinates": [ -75.994069, 37.239167 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 12266, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 134, "NESTS-ID": 12266, "ID": 550500134, "RARNUM": 55000335 }, "geometry": { "type": "Point", "coordinates": [ -75.994217, 37.166478 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 12883, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 135, "NESTS-ID": 12883, "ID": 550500135, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.899588, 37.167057 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 12906, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 136, "NESTS-ID": 12906, "ID": 550500136, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.991413, 37.163451 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 12897, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 137, "NESTS-ID": 12897, "ID": 550500137, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.976982, 37.161374 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 13235, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 138, "NESTS-ID": 13235, "ID": 550500138, "RARNUM": 55000208 }, "geometry": { "type": "Point", "coordinates": [ -75.881510, 37.160928 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 12890, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 139, "NESTS-ID": 12890, "ID": 550500139, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.942715, 37.125410 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 13621, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 140, "NESTS-ID": 13621, "ID": 550500140, "RARNUM": 55000333 }, "geometry": { "type": "Point", "coordinates": [ -76.006665, 37.236490 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 15049, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 141, "NESTS-ID": 15049, "ID": 550500141, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.359273, 37.168340 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 14407, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 142, "NESTS-ID": 14407, "ID": 550500142, "RARNUM": 55000287 }, "geometry": { "type": "Point", "coordinates": [ -76.365482, 37.148158 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 14408, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 143, "NESTS-ID": 14408, "ID": 550500143, "RARNUM": 55000294 }, "geometry": { "type": "Point", "coordinates": [ -76.371140, 37.147347 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 15837, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 144, "NESTS-ID": 15837, "ID": 550500144, "RARNUM": 55000289 }, "geometry": { "type": "Point", "coordinates": [ -76.407295, 37.217575 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 16527, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 145, "NESTS-ID": 16527, "ID": 550500145, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.453887, 37.216575 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 18026, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 146, "NESTS-ID": 18026, "ID": 550500146, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.506098, 37.243867 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 16778, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 147, "NESTS-ID": 16778, "ID": 550500147, "RARNUM": 55000280 }, "geometry": { "type": "Point", "coordinates": [ -76.522701, 37.194138 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 17103, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 148, "NESTS-ID": 17103, "ID": 550500148, "RARNUM": 55000264 }, "geometry": { "type": "Point", "coordinates": [ -76.606918, 37.125297 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 18590, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 149, "NESTS-ID": 18590, "ID": 550500149, "RARNUM": 55000263 }, "geometry": { "type": "Point", "coordinates": [ -76.707410, 37.218057 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 18608, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 150, "NESTS-ID": 18608, "ID": 550500150, "RARNUM": 55000256 }, "geometry": { "type": "Point", "coordinates": [ -76.692045, 37.189629 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 18607, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 151, "NESTS-ID": 18607, "ID": 550500151, "RARNUM": 55000272 }, "geometry": { "type": "Point", "coordinates": [ -76.671784, 37.182648 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 18609, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 152, "NESTS-ID": 18609, "ID": 550500152, "RARNUM": 55000263 }, "geometry": { "type": "Point", "coordinates": [ -76.748977, 37.135817 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 19545, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 153, "NESTS-ID": 19545, "ID": 550500153, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.643554, 37.131827 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 20129, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 154, "NESTS-ID": 20129, "ID": 550500154, "RARNUM": 55000366 }, "geometry": { "type": "Point", "coordinates": [ -76.804992, 37.203312 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 19841, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 155, "NESTS-ID": 19841, "ID": 550500155, "RARNUM": 55000258 }, "geometry": { "type": "Point", "coordinates": [ -76.758702, 37.198059 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 19842, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 156, "NESTS-ID": 19842, "ID": 550500156, "RARNUM": 55000259 }, "geometry": { "type": "Point", "coordinates": [ -76.758568, 37.196396 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 19843, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 157, "NESTS-ID": 19843, "ID": 550500157, "RARNUM": 55000257 }, "geometry": { "type": "Point", "coordinates": [ -76.758969, 37.194792 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 19844, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 158, "NESTS-ID": 19844, "ID": 550500158, "RARNUM": 55000261 }, "geometry": { "type": "Point", "coordinates": [ -76.751366, 37.190962 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 21880, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 159, "NESTS-ID": 21880, "ID": 550500159, "RARNUM": 55000138 }, "geometry": { "type": "Point", "coordinates": [ -75.723037, 37.357495 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 21918, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 160, "NESTS-ID": 21918, "ID": 550500160, "RARNUM": 55000139 }, "geometry": { "type": "Point", "coordinates": [ -75.740395, 37.332807 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23755, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 161, "NESTS-ID": 23755, "ID": 550500161, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.855261, 37.371150 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23727, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 162, "NESTS-ID": 23727, "ID": 550500162, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.853654, 37.368787 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23928, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 163, "NESTS-ID": 23928, "ID": 550500163, "RARNUM": 55000153 }, "geometry": { "type": "Point", "coordinates": [ -75.858945, 37.365395 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23930, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 164, "NESTS-ID": 23930, "ID": 550500164, "RARNUM": 55000152 }, "geometry": { "type": "Point", "coordinates": [ -75.855876, 37.365192 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23931, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 165, "NESTS-ID": 23931, "ID": 550500165, "RARNUM": 55000151 }, "geometry": { "type": "Point", "coordinates": [ -75.854183, 37.364258 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23933, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 166, "NESTS-ID": 23933, "ID": 550500166, "RARNUM": 55000206 }, "geometry": { "type": "Point", "coordinates": [ -75.769997, 37.363247 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23935, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 167, "NESTS-ID": 23935, "ID": 550500167, "RARNUM": 55000155 }, "geometry": { "type": "Point", "coordinates": [ -75.856775, 37.361841 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23936, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 168, "NESTS-ID": 23936, "ID": 550500168, "RARNUM": 55000207 }, "geometry": { "type": "Point", "coordinates": [ -75.770590, 37.359394 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23937, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 169, "NESTS-ID": 23937, "ID": 550500169, "RARNUM": 55000169 }, "geometry": { "type": "Point", "coordinates": [ -75.785936, 37.357887 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23940, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 170, "NESTS-ID": 23940, "ID": 550500170, "RARNUM": 55000150 }, "geometry": { "type": "Point", "coordinates": [ -75.854293, 37.356469 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23941, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 171, "NESTS-ID": 23941, "ID": 550500171, "RARNUM": 55000168 }, "geometry": { "type": "Point", "coordinates": [ -75.786601, 37.355566 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23725, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 172, "NESTS-ID": 23725, "ID": 550500172, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.862335, 37.353407 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23942, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 173, "NESTS-ID": 23942, "ID": 550500173, "RARNUM": 55000149 }, "geometry": { "type": "Point", "coordinates": [ -75.856646, 37.352071 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23944, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 174, "NESTS-ID": 23944, "ID": 550500174, "RARNUM": 55000167 }, "geometry": { "type": "Point", "coordinates": [ -75.790262, 37.352360 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23945, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 175, "NESTS-ID": 23945, "ID": 550500175, "RARNUM": 55000148 }, "geometry": { "type": "Point", "coordinates": [ -75.864049, 37.348800 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 24053, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 176, "NESTS-ID": 24053, "ID": 550500176, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.871190, 37.347856 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23946, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 177, "NESTS-ID": 23946, "ID": 550500177, "RARNUM": 55000166 }, "geometry": { "type": "Point", "coordinates": [ -75.791341, 37.348378 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23947, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 178, "NESTS-ID": 23947, "ID": 550500178, "RARNUM": 55000147 }, "geometry": { "type": "Point", "coordinates": [ -75.865584, 37.343596 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23949, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 179, "NESTS-ID": 23949, "ID": 550500179, "RARNUM": 55000146 }, "geometry": { "type": "Point", "coordinates": [ -75.868504, 37.339969 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23953, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 180, "NESTS-ID": 23953, "ID": 550500180, "RARNUM": 55000178 }, "geometry": { "type": "Point", "coordinates": [ -75.763661, 37.338933 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23956, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 181, "NESTS-ID": 23956, "ID": 550500181, "RARNUM": 55000154 }, "geometry": { "type": "Point", "coordinates": [ -75.871523, 37.337973 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23959, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 182, "NESTS-ID": 23959, "ID": 550500182, "RARNUM": 55000132 }, "geometry": { "type": "Point", "coordinates": [ -75.777919, 37.337956 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23960, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 183, "NESTS-ID": 23960, "ID": 550500183, "RARNUM": 55000179 }, "geometry": { "type": "Point", "coordinates": [ -75.760046, 37.337559 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23962, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 184, "NESTS-ID": 23962, "ID": 550500184, "RARNUM": 55000143 }, "geometry": { "type": "Point", "coordinates": [ -75.836746, 37.336888 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23963, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 185, "NESTS-ID": 23963, "ID": 550500185, "RARNUM": 55000165 }, "geometry": { "type": "Point", "coordinates": [ -75.795592, 37.336550 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23965, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 186, "NESTS-ID": 23965, "ID": 550500186, "RARNUM": 55000133 }, "geometry": { "type": "Point", "coordinates": [ -75.774811, 37.336111 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23968, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 187, "NESTS-ID": 23968, "ID": 550500187, "RARNUM": 55000164 }, "geometry": { "type": "Point", "coordinates": [ -75.799474, 37.335704 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23970, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 188, "NESTS-ID": 23970, "ID": 550500188, "RARNUM": 55000163 }, "geometry": { "type": "Point", "coordinates": [ -75.807982, 37.333996 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23972, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 189, "NESTS-ID": 23972, "ID": 550500189, "RARNUM": 55000144 }, "geometry": { "type": "Point", "coordinates": [ -75.864877, 37.332650 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23980, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 190, "NESTS-ID": 23980, "ID": 550500190, "RARNUM": 55000145 }, "geometry": { "type": "Point", "coordinates": [ -75.868205, 37.331607 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23981, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 191, "NESTS-ID": 23981, "ID": 550500191, "RARNUM": 55000134 }, "geometry": { "type": "Point", "coordinates": [ -75.773977, 37.331510 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23983, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 192, "NESTS-ID": 23983, "ID": 550500192, "RARNUM": 55000180 }, "geometry": { "type": "Point", "coordinates": [ -75.758901, 37.330553 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23984, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 193, "NESTS-ID": 23984, "ID": 550500193, "RARNUM": 55000136 }, "geometry": { "type": "Point", "coordinates": [ -75.787511, 37.330033 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23987, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 194, "NESTS-ID": 23987, "ID": 550500194, "RARNUM": 55000181 }, "geometry": { "type": "Point", "coordinates": [ -75.764787, 37.330020 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23989, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 195, "NESTS-ID": 23989, "ID": 550500195, "RARNUM": 55000135 }, "geometry": { "type": "Point", "coordinates": [ -75.777059, 37.326929 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23990, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 196, "NESTS-ID": 23990, "ID": 550500196, "RARNUM": 55000141 }, "geometry": { "type": "Point", "coordinates": [ -75.843392, 37.325765 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23992, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 197, "NESTS-ID": 23992, "ID": 550500197, "RARNUM": 55000142 }, "geometry": { "type": "Point", "coordinates": [ -75.841341, 37.325500 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23994, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 198, "NESTS-ID": 23994, "ID": 550500198, "RARNUM": 55000159 }, "geometry": { "type": "Point", "coordinates": [ -75.854848, 37.324619 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23996, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 199, "NESTS-ID": 23996, "ID": 550500199, "RARNUM": 55000140 }, "geometry": { "type": "Point", "coordinates": [ -75.845963, 37.323331 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23997, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 200, "NESTS-ID": 23997, "ID": 550500200, "RARNUM": 55000158 }, "geometry": { "type": "Point", "coordinates": [ -75.860108, 37.323184 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23720, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 201, "NESTS-ID": 23720, "ID": 550500201, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.782958, 37.304274 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23710, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 202, "NESTS-ID": 23710, "ID": 550500202, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.775321, 37.303905 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23998, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 203, "NESTS-ID": 23998, "ID": 550500203, "RARNUM": 55000177 }, "geometry": { "type": "Point", "coordinates": [ -75.781711, 37.300271 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 24002, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 204, "NESTS-ID": 24002, "ID": 550500204, "RARNUM": 55000176 }, "geometry": { "type": "Point", "coordinates": [ -75.788318, 37.299362 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 24003, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 205, "NESTS-ID": 24003, "ID": 550500205, "RARNUM": 55000157 }, "geometry": { "type": "Point", "coordinates": [ -75.870800, 37.298507 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 24005, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 206, "NESTS-ID": 24005, "ID": 550500206, "RARNUM": 55000205 }, "geometry": { "type": "Point", "coordinates": [ -75.858259, 37.288665 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 24006, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 207, "NESTS-ID": 24006, "ID": 550500207, "RARNUM": 55000205 }, "geometry": { "type": "Point", "coordinates": [ -75.866837, 37.288296 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 24007, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 208, "NESTS-ID": 24007, "ID": 550500208, "RARNUM": 55000204 }, "geometry": { "type": "Point", "coordinates": [ -75.871525, 37.287748 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 24010, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 209, "NESTS-ID": 24010, "ID": 550500209, "RARNUM": 55000182 }, "geometry": { "type": "Point", "coordinates": [ -75.836504, 37.286223 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 24014, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 210, "NESTS-ID": 24014, "ID": 550500210, "RARNUM": 55000220 }, "geometry": { "type": "Point", "coordinates": [ -75.796671, 37.285966 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 24018, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 211, "NESTS-ID": 24018, "ID": 550500211, "RARNUM": 55000190 }, "geometry": { "type": "Point", "coordinates": [ -75.840190, 37.284856 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 24020, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 212, "NESTS-ID": 24020, "ID": 550500212, "RARNUM": 55000207 }, "geometry": { "type": "Point", "coordinates": [ -75.814722, 37.284139 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23741, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 213, "NESTS-ID": 23741, "ID": 550500213, "RARNUM": 55000076 }, "geometry": { "type": "Point", "coordinates": [ -75.801022, 37.282716 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 24021, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 214, "NESTS-ID": 24021, "ID": 550500214, "RARNUM": 55000145 }, "geometry": { "type": "Point", "coordinates": [ -75.832093, 37.282315 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 24023, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 215, "NESTS-ID": 24023, "ID": 550500215, "RARNUM": 55000219 }, "geometry": { "type": "Point", "coordinates": [ -75.795809, 37.279725 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 24024, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 216, "NESTS-ID": 24024, "ID": 550500216, "RARNUM": 55000188 }, "geometry": { "type": "Point", "coordinates": [ -75.841622, 37.278833 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 24025, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 217, "NESTS-ID": 24025, "ID": 550500217, "RARNUM": 55000218 }, "geometry": { "type": "Point", "coordinates": [ -75.803938, 37.277939 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 24026, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 218, "NESTS-ID": 24026, "ID": 550500218, "RARNUM": 55000183 }, "geometry": { "type": "Point", "coordinates": [ -75.827624, 37.277740 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 24027, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 219, "NESTS-ID": 24027, "ID": 550500219, "RARNUM": 55000183 }, "geometry": { "type": "Point", "coordinates": [ -75.845749, 37.276749 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 24032, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 220, "NESTS-ID": 24032, "ID": 550500220, "RARNUM": 55000185 }, "geometry": { "type": "Point", "coordinates": [ -75.836989, 37.274393 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23742, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 221, "NESTS-ID": 23742, "ID": 550500221, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.868615, 37.273831 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 24033, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 222, "NESTS-ID": 24033, "ID": 550500222, "RARNUM": 55000184 }, "geometry": { "type": "Point", "coordinates": [ -75.827686, 37.273980 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 24034, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 223, "NESTS-ID": 24034, "ID": 550500223, "RARNUM": 55000186 }, "geometry": { "type": "Point", "coordinates": [ -75.844051, 37.273750 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 24035, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 224, "NESTS-ID": 24035, "ID": 550500224, "RARNUM": 55000187 }, "geometry": { "type": "Point", "coordinates": [ -75.846316, 37.271643 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 24039, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 225, "NESTS-ID": 24039, "ID": 550500225, "RARNUM": 55000189 }, "geometry": { "type": "Point", "coordinates": [ -75.830406, 37.268968 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 23740, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 226, "NESTS-ID": 23740, "ID": 550500226, "RARNUM": 55000076 }, "geometry": { "type": "Point", "coordinates": [ -75.797506, 37.268868 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 24049, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 227, "NESTS-ID": 24049, "ID": 550500227, "RARNUM": 55000217 }, "geometry": { "type": "Point", "coordinates": [ -75.802587, 37.262319 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 24042, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 228, "NESTS-ID": 24042, "ID": 550500228, "RARNUM": 55000184 }, "geometry": { "type": "Point", "coordinates": [ -75.855053, 37.258636 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 24052, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 229, "NESTS-ID": 24052, "ID": 550500229, "RARNUM": 55000203 }, "geometry": { "type": "Point", "coordinates": [ -75.865925, 37.256934 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 26228, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 230, "NESTS-ID": 26228, "ID": 550500230, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.893956, 37.367682 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 24436, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 231, "NESTS-ID": 24436, "ID": 550500231, "RARNUM": 55000275 }, "geometry": { "type": "Point", "coordinates": [ -75.971556, 37.365492 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 26227, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 232, "NESTS-ID": 26227, "ID": 550500232, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.956224, 37.363368 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 26226, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 233, "NESTS-ID": 26226, "ID": 550500233, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.962270, 37.316963 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 26225, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 234, "NESTS-ID": 26225, "ID": 550500234, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.919185, 37.304551 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 26205, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 235, "NESTS-ID": 26205, "ID": 550500235, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.884342, 37.299734 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 26485, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 236, "NESTS-ID": 26485, "ID": 550500236, "RARNUM": 55000156 }, "geometry": { "type": "Point", "coordinates": [ -75.876720, 37.297454 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 26209, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 237, "NESTS-ID": 26209, "ID": 550500237, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.901049, 37.290069 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 26489, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 238, "NESTS-ID": 26489, "ID": 550500238, "RARNUM": 55000215 }, "geometry": { "type": "Point", "coordinates": [ -75.901054, 37.287337 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 26494, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 239, "NESTS-ID": 26494, "ID": 550500239, "RARNUM": 55000200 }, "geometry": { "type": "Point", "coordinates": [ -75.883928, 37.285474 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 26503, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 240, "NESTS-ID": 26503, "ID": 550500240, "RARNUM": 55000199 }, "geometry": { "type": "Point", "coordinates": [ -75.891881, 37.279988 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 26510, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 241, "NESTS-ID": 26510, "ID": 550500241, "RARNUM": 55000198 }, "geometry": { "type": "Point", "coordinates": [ -75.894249, 37.275256 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 26512, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 242, "NESTS-ID": 26512, "ID": 550500242, "RARNUM": 55000197 }, "geometry": { "type": "Point", "coordinates": [ -75.889264, 37.274528 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 26517, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 243, "NESTS-ID": 26517, "ID": 550500243, "RARNUM": 55000201 }, "geometry": { "type": "Point", "coordinates": [ -75.883092, 37.270896 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 26518, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 244, "NESTS-ID": 26518, "ID": 550500244, "RARNUM": 55000196 }, "geometry": { "type": "Point", "coordinates": [ -75.892447, 37.270493 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 26521, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 245, "NESTS-ID": 26521, "ID": 550500245, "RARNUM": 55000195 }, "geometry": { "type": "Point", "coordinates": [ -75.895278, 37.267542 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 26522, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 246, "NESTS-ID": 26522, "ID": 550500246, "RARNUM": 55000194 }, "geometry": { "type": "Point", "coordinates": [ -75.891133, 37.261507 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 26224, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 247, "NESTS-ID": 26224, "ID": 550500247, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.933348, 37.250910 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 27298, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 248, "NESTS-ID": 27298, "ID": 550500248, "RARNUM": 55000287 }, "geometry": { "type": "Point", "coordinates": [ -76.292116, 37.359619 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 27321, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 249, "NESTS-ID": 27321, "ID": 550500249, "RARNUM": 55000256 }, "geometry": { "type": "Point", "coordinates": [ -76.321242, 37.349933 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 27295, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 250, "NESTS-ID": 27295, "ID": 550500250, "RARNUM": 55000296 }, "geometry": { "type": "Point", "coordinates": [ -76.313078, 37.338835 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 27297, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 251, "NESTS-ID": 27297, "ID": 550500251, "RARNUM": 55000283 }, "geometry": { "type": "Point", "coordinates": [ -76.276109, 37.336297 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 27296, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 252, "NESTS-ID": 27296, "ID": 550500252, "RARNUM": 55000264 }, "geometry": { "type": "Point", "coordinates": [ -76.294795, 37.326041 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 26755, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 253, "NESTS-ID": 26755, "ID": 550500253, "RARNUM": 55000299 }, "geometry": { "type": "Point", "coordinates": [ -76.352913, 37.277270 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 27271, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 254, "NESTS-ID": 27271, "ID": 550500254, "RARNUM": 55000297 }, "geometry": { "type": "Point", "coordinates": [ -76.362645, 37.266835 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 28065, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 255, "NESTS-ID": 28065, "ID": 550500255, "RARNUM": 55000258 }, "geometry": { "type": "Point", "coordinates": [ -76.415575, 37.335740 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 28063, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 256, "NESTS-ID": 28063, "ID": 550500256, "RARNUM": 55000271 }, "geometry": { "type": "Point", "coordinates": [ -76.457487, 37.325317 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 28064, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 257, "NESTS-ID": 28064, "ID": 550500257, "RARNUM": 55000271 }, "geometry": { "type": "Point", "coordinates": [ -76.431159, 37.325070 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 28062, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 258, "NESTS-ID": 28062, "ID": 550500258, "RARNUM": 55000257 }, "geometry": { "type": "Point", "coordinates": [ -76.446833, 37.307431 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 27653, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 259, "NESTS-ID": 27653, "ID": 550500259, "RARNUM": 55000292 }, "geometry": { "type": "Point", "coordinates": [ -76.394321, 37.294339 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 28061, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 260, "NESTS-ID": 28061, "ID": 550500260, "RARNUM": 55000271 }, "geometry": { "type": "Point", "coordinates": [ -76.396194, 37.268678 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 28798, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 261, "NESTS-ID": 28798, "ID": 550500261, "RARNUM": 55000256 }, "geometry": { "type": "Point", "coordinates": [ -76.588272, 37.343257 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 28858, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 262, "NESTS-ID": 28858, "ID": 550500262, "RARNUM": 55000270 }, "geometry": { "type": "Point", "coordinates": [ -76.623289, 37.304905 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 28857, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 263, "NESTS-ID": 28857, "ID": 550500263, "RARNUM": 55000258 }, "geometry": { "type": "Point", "coordinates": [ -76.615868, 37.297979 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 28396, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 264, "NESTS-ID": 28396, "ID": 550500264, "RARNUM": 55000278 }, "geometry": { "type": "Point", "coordinates": [ -76.544178, 37.292357 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 28856, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 265, "NESTS-ID": 28856, "ID": 550500265, "RARNUM": 55000260 }, "geometry": { "type": "Point", "coordinates": [ -76.592064, 37.276026 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 28862, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 266, "NESTS-ID": 28862, "ID": 550500266, "RARNUM": 55000281 }, "geometry": { "type": "Point", "coordinates": [ -76.517493, 37.270873 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 28264, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 267, "NESTS-ID": 28264, "ID": 550500267, "RARNUM": 55000282 }, "geometry": { "type": "Point", "coordinates": [ -76.515755, 37.270084 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 28855, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 268, "NESTS-ID": 28855, "ID": 550500268, "RARNUM": 55000272 }, "geometry": { "type": "Point", "coordinates": [ -76.586361, 37.265323 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 29656, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 269, "NESTS-ID": 29656, "ID": 550500269, "RARNUM": 55000265 }, "geometry": { "type": "Point", "coordinates": [ -76.666922, 37.367320 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 29657, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 270, "NESTS-ID": 29657, "ID": 550500270, "RARNUM": 55000267 }, "geometry": { "type": "Point", "coordinates": [ -76.660198, 37.346131 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 29658, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 271, "NESTS-ID": 29658, "ID": 550500271, "RARNUM": 55000258 }, "geometry": { "type": "Point", "coordinates": [ -76.658638, 37.345839 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 29323, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 272, "NESTS-ID": 29323, "ID": 550500272, "RARNUM": 55000273 }, "geometry": { "type": "Point", "coordinates": [ -76.656145, 37.288249 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 29448, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 273, "NESTS-ID": 29448, "ID": 550500273, "RARNUM": 55000267 }, "geometry": { "type": "Point", "coordinates": [ -76.725717, 37.266268 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 30213, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 274, "NESTS-ID": 30213, "ID": 550500274, "RARNUM": 55000274 }, "geometry": { "type": "Point", "coordinates": [ -76.864488, 37.361026 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 30214, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 275, "NESTS-ID": 30214, "ID": 550500275, "RARNUM": 55000271 }, "geometry": { "type": "Point", "coordinates": [ -76.814740, 37.311480 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 30217, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 276, "NESTS-ID": 30217, "ID": 550500276, "RARNUM": 55000264 }, "geometry": { "type": "Point", "coordinates": [ -76.750678, 37.291510 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 30216, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 277, "NESTS-ID": 30216, "ID": 550500277, "RARNUM": 55000303 }, "geometry": { "type": "Point", "coordinates": [ -76.787571, 37.286556 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 30215, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 278, "NESTS-ID": 30215, "ID": 550500278, "RARNUM": 55000368 }, "geometry": { "type": "Point", "coordinates": [ -76.775521, 37.251585 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 30752, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 279, "NESTS-ID": 30752, "ID": 550500279, "RARNUM": 55000333 }, "geometry": { "type": "Point", "coordinates": [ -76.924515, 37.372989 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 30751, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 280, "NESTS-ID": 30751, "ID": 550500280, "RARNUM": 55000264 }, "geometry": { "type": "Point", "coordinates": [ -76.986162, 37.305269 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 31329, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 281, "NESTS-ID": 31329, "ID": 550500281, "RARNUM": 55000272 }, "geometry": { "type": "Point", "coordinates": [ -77.014377, 37.297910 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 31285, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 282, "NESTS-ID": 31285, "ID": 550500282, "RARNUM": 55000361 }, "geometry": { "type": "Point", "coordinates": [ -77.067042, 37.279659 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 31289, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 283, "NESTS-ID": 31289, "ID": 550500283, "RARNUM": 55000363 }, "geometry": { "type": "Point", "coordinates": [ -77.062170, 37.279014 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 31288, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 284, "NESTS-ID": 31288, "ID": 550500284, "RARNUM": 55000362 }, "geometry": { "type": "Point", "coordinates": [ -77.064216, 37.277200 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 31337, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 285, "NESTS-ID": 31337, "ID": 550500285, "RARNUM": 55000271 }, "geometry": { "type": "Point", "coordinates": [ -77.044609, 37.192038 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 33831, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 286, "NESTS-ID": 33831, "ID": 550500286, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -77.224212, 37.319152 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 31875, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 287, "NESTS-ID": 31875, "ID": 550500287, "RARNUM": 55000312 }, "geometry": { "type": "Point", "coordinates": [ -77.239838, 37.313055 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 36380, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 288, "NESTS-ID": 36380, "ID": 550500288, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -77.346411, 37.379204 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 34370, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 289, "NESTS-ID": 34370, "ID": 550500289, "RARNUM": 55000255 }, "geometry": { "type": "Point", "coordinates": [ -77.370014, 37.375047 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 34378, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 290, "NESTS-ID": 34378, "ID": 550500290, "RARNUM": 55000307 }, "geometry": { "type": "Point", "coordinates": [ -77.281917, 37.363247 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 34379, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 291, "NESTS-ID": 34379, "ID": 550500291, "RARNUM": 55000258 }, "geometry": { "type": "Point", "coordinates": [ -77.284014, 37.362551 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 34125, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 292, "NESTS-ID": 34125, "ID": 550500292, "RARNUM": 55000288 }, "geometry": { "type": "Point", "coordinates": [ -77.299912, 37.360489 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 34126, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 293, "NESTS-ID": 34126, "ID": 550500293, "RARNUM": 55000291 }, "geometry": { "type": "Point", "coordinates": [ -77.298079, 37.359434 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 36385, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 294, "NESTS-ID": 36385, "ID": 550500294, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -77.280075, 37.338656 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 34409, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 295, "NESTS-ID": 34409, "ID": 550500295, "RARNUM": 55000315 }, "geometry": { "type": "Point", "coordinates": [ -77.257161, 37.309703 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 36928, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 296, "NESTS-ID": 36928, "ID": 550500296, "RARNUM": 55000322 }, "geometry": { "type": "Point", "coordinates": [ -77.407599, 37.427169 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 38980, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 297, "NESTS-ID": 38980, "ID": 550500297, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -77.386089, 37.383965 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 39522, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 298, "NESTS-ID": 39522, "ID": 550500298, "RARNUM": 55000303 }, "geometry": { "type": "Point", "coordinates": [ -77.403163, 37.621626 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 39524, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 299, "NESTS-ID": 39524, "ID": 550500299, "RARNUM": 55000260 }, "geometry": { "type": "Point", "coordinates": [ -77.389050, 37.596414 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 39525, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 300, "NESTS-ID": 39525, "ID": 550500300, "RARNUM": 55000260 }, "geometry": { "type": "Point", "coordinates": [ -77.385549, 37.595748 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 41631, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 301, "NESTS-ID": 41631, "ID": 550500301, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -77.439214, 37.538197 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 41632, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 302, "NESTS-ID": 41632, "ID": 550500302, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -77.440062, 37.537208 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44424, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 303, "NESTS-ID": 44424, "ID": 550500303, "RARNUM": 55000412 }, "geometry": { "type": "Point", "coordinates": [ -75.723289, 37.495828 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44425, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 304, "NESTS-ID": 44425, "ID": 550500304, "RARNUM": 55000413 }, "geometry": { "type": "Point", "coordinates": [ -75.701791, 37.494128 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44427, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 305, "NESTS-ID": 44427, "ID": 550500305, "RARNUM": 55000226 }, "geometry": { "type": "Point", "coordinates": [ -75.713836, 37.493660 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44289, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 306, "NESTS-ID": 44289, "ID": 550500306, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.658945, 37.492996 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44311, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 307, "NESTS-ID": 44311, "ID": 550500307, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.683821, 37.484102 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44298, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 308, "NESTS-ID": 44298, "ID": 550500308, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.737934, 37.483173 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44428, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 309, "NESTS-ID": 44428, "ID": 550500309, "RARNUM": 55000415 }, "geometry": { "type": "Point", "coordinates": [ -75.682630, 37.480450 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44429, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 310, "NESTS-ID": 44429, "ID": 550500310, "RARNUM": 55000414 }, "geometry": { "type": "Point", "coordinates": [ -75.683171, 37.477247 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44432, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 311, "NESTS-ID": 44432, "ID": 550500311, "RARNUM": 55000227 }, "geometry": { "type": "Point", "coordinates": [ -75.720951, 37.476689 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44434, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 312, "NESTS-ID": 44434, "ID": 550500312, "RARNUM": 55000239 }, "geometry": { "type": "Point", "coordinates": [ -75.740762, 37.475737 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44435, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 313, "NESTS-ID": 44435, "ID": 550500313, "RARNUM": 55000238 }, "geometry": { "type": "Point", "coordinates": [ -75.742345, 37.473537 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44436, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 314, "NESTS-ID": 44436, "ID": 550500314, "RARNUM": 55000251 }, "geometry": { "type": "Point", "coordinates": [ -75.724084, 37.469404 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44443, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 315, "NESTS-ID": 44443, "ID": 550500315, "RARNUM": 55000253 }, "geometry": { "type": "Point", "coordinates": [ -75.687209, 37.468146 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44444, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 316, "NESTS-ID": 44444, "ID": 550500316, "RARNUM": 55000192 }, "geometry": { "type": "Point", "coordinates": [ -75.692402, 37.467575 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44445, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 317, "NESTS-ID": 44445, "ID": 550500317, "RARNUM": 55000162 }, "geometry": { "type": "Point", "coordinates": [ -75.701003, 37.463811 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44287, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 318, "NESTS-ID": 44287, "ID": 550500318, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.685918, 37.463440 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44446, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 319, "NESTS-ID": 44446, "ID": 550500319, "RARNUM": 55000254 }, "geometry": { "type": "Point", "coordinates": [ -75.684616, 37.462825 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44447, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 320, "NESTS-ID": 44447, "ID": 550500320, "RARNUM": 55000219 }, "geometry": { "type": "Point", "coordinates": [ -75.700745, 37.461983 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44448, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 321, "NESTS-ID": 44448, "ID": 550500321, "RARNUM": 55000250 }, "geometry": { "type": "Point", "coordinates": [ -75.706572, 37.460524 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44291, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 322, "NESTS-ID": 44291, "ID": 550500322, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.721231, 37.450466 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44449, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 323, "NESTS-ID": 44449, "ID": 550500323, "RARNUM": 55000203 }, "geometry": { "type": "Point", "coordinates": [ -75.720339, 37.448011 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44452, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 324, "NESTS-ID": 44452, "ID": 550500324, "RARNUM": 55000386 }, "geometry": { "type": "Point", "coordinates": [ -75.661568, 37.448084 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44454, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 325, "NESTS-ID": 44454, "ID": 550500325, "RARNUM": 55000384 }, "geometry": { "type": "Point", "coordinates": [ -75.698237, 37.445529 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44456, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 326, "NESTS-ID": 44456, "ID": 550500326, "RARNUM": 55000383 }, "geometry": { "type": "Point", "coordinates": [ -75.702179, 37.445091 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44457, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 327, "NESTS-ID": 44457, "ID": 550500327, "RARNUM": 55000382 }, "geometry": { "type": "Point", "coordinates": [ -75.703947, 37.444360 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44458, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 328, "NESTS-ID": 44458, "ID": 550500328, "RARNUM": 55000252 }, "geometry": { "type": "Point", "coordinates": [ -75.699824, 37.443816 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44459, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 329, "NESTS-ID": 44459, "ID": 550500329, "RARNUM": 55000381 }, "geometry": { "type": "Point", "coordinates": [ -75.705736, 37.442970 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44461, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 330, "NESTS-ID": 44461, "ID": 550500330, "RARNUM": 55000385 }, "geometry": { "type": "Point", "coordinates": [ -75.703416, 37.442578 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44464, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 331, "NESTS-ID": 44464, "ID": 550500331, "RARNUM": 55000235 }, "geometry": { "type": "Point", "coordinates": [ -75.729014, 37.441927 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44465, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 332, "NESTS-ID": 44465, "ID": 550500332, "RARNUM": 55000241 }, "geometry": { "type": "Point", "coordinates": [ -75.707030, 37.439879 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44466, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 333, "NESTS-ID": 44466, "ID": 550500333, "RARNUM": 55000387 }, "geometry": { "type": "Point", "coordinates": [ -75.732173, 37.431866 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44467, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 334, "NESTS-ID": 44467, "ID": 550500334, "RARNUM": 55000193 }, "geometry": { "type": "Point", "coordinates": [ -75.728325, 37.431115 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44468, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 335, "NESTS-ID": 44468, "ID": 550500335, "RARNUM": 55000388 }, "geometry": { "type": "Point", "coordinates": [ -75.727693, 37.428983 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44470, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 336, "NESTS-ID": 44470, "ID": 550500336, "RARNUM": 55000389 }, "geometry": { "type": "Point", "coordinates": [ -75.729446, 37.427791 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44471, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 337, "NESTS-ID": 44471, "ID": 550500337, "RARNUM": 55000192 }, "geometry": { "type": "Point", "coordinates": [ -75.729498, 37.426159 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44473, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 338, "NESTS-ID": 44473, "ID": 550500338, "RARNUM": 55000390 }, "geometry": { "type": "Point", "coordinates": [ -75.728084, 37.426087 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44474, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 339, "NESTS-ID": 44474, "ID": 550500339, "RARNUM": 55000154 }, "geometry": { "type": "Point", "coordinates": [ -75.728868, 37.423937 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44475, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 340, "NESTS-ID": 44475, "ID": 550500340, "RARNUM": 55000392 }, "geometry": { "type": "Point", "coordinates": [ -75.735473, 37.421273 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44476, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 341, "NESTS-ID": 44476, "ID": 550500341, "RARNUM": 55000391 }, "geometry": { "type": "Point", "coordinates": [ -75.731681, 37.420728 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44288, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 342, "NESTS-ID": 44288, "ID": 550500342, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.708752, 37.394268 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 44309, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 343, "NESTS-ID": 44309, "ID": 550500343, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.727009, 37.377833 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 47362, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 344, "NESTS-ID": 47362, "ID": 550500344, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.787300, 37.495928 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 47335, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 345, "NESTS-ID": 47335, "ID": 550500345, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.809441, 37.468733 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 47328, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 346, "NESTS-ID": 47328, "ID": 550500346, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.784559, 37.458571 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 47513, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 347, "NESTS-ID": 47513, "ID": 550500347, "RARNUM": 55000395 }, "geometry": { "type": "Point", "coordinates": [ -75.802689, 37.408243 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 47515, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 348, "NESTS-ID": 47515, "ID": 550500348, "RARNUM": 55000394 }, "geometry": { "type": "Point", "coordinates": [ -75.797687, 37.405645 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 47518, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 349, "NESTS-ID": 47518, "ID": 550500349, "RARNUM": 55000393 }, "geometry": { "type": "Point", "coordinates": [ -75.792215, 37.402076 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 47519, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 350, "NESTS-ID": 47519, "ID": 550500350, "RARNUM": 55000418 }, "geometry": { "type": "Point", "coordinates": [ -75.794899, 37.398399 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 47520, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 351, "NESTS-ID": 47520, "ID": 550500351, "RARNUM": 55000417 }, "geometry": { "type": "Point", "coordinates": [ -75.805072, 37.396969 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 47521, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 352, "NESTS-ID": 47521, "ID": 550500352, "RARNUM": 55000160 }, "geometry": { "type": "Point", "coordinates": [ -75.815386, 37.393482 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 47331, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 353, "NESTS-ID": 47331, "ID": 550500353, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.781919, 37.387209 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 47522, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 354, "NESTS-ID": 47522, "ID": 550500354, "RARNUM": 55000377 }, "geometry": { "type": "Point", "coordinates": [ -75.784326, 37.384958 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 47527, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 355, "NESTS-ID": 47527, "ID": 550500355, "RARNUM": 55000230 }, "geometry": { "type": "Point", "coordinates": [ -75.778581, 37.384166 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 47532, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 356, "NESTS-ID": 47532, "ID": 550500356, "RARNUM": 55000376 }, "geometry": { "type": "Point", "coordinates": [ -75.798110, 37.383162 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 47533, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 357, "NESTS-ID": 47533, "ID": 550500357, "RARNUM": 55000375 }, "geometry": { "type": "Point", "coordinates": [ -75.797430, 37.380525 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 47534, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 358, "NESTS-ID": 47534, "ID": 550500358, "RARNUM": 55000171 }, "geometry": { "type": "Point", "coordinates": [ -75.788190, 37.379596 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 47537, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 359, "NESTS-ID": 47537, "ID": 550500359, "RARNUM": 55000170 }, "geometry": { "type": "Point", "coordinates": [ -75.782187, 37.375011 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 47936, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 360, "NESTS-ID": 47936, "ID": 550500360, "RARNUM": 55000340 }, "geometry": { "type": "Point", "coordinates": [ -75.927352, 37.496180 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 50636, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 361, "NESTS-ID": 50636, "ID": 550500361, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.978552, 37.456455 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 47938, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 362, "NESTS-ID": 47938, "ID": 550500362, "RARNUM": 55000294 }, "geometry": { "type": "Point", "coordinates": [ -75.963766, 37.411351 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 47937, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 363, "NESTS-ID": 47937, "ID": 550500363, "RARNUM": 55000339 }, "geometry": { "type": "Point", "coordinates": [ -75.964899, 37.389909 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 51414, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 364, "NESTS-ID": 51414, "ID": 550500364, "RARNUM": 55000257 }, "geometry": { "type": "Point", "coordinates": [ -76.372621, 37.490439 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 51406, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 365, "NESTS-ID": 51406, "ID": 550500365, "RARNUM": 55000272 }, "geometry": { "type": "Point", "coordinates": [ -76.360075, 37.431572 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 51408, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 366, "NESTS-ID": 51408, "ID": 550500366, "RARNUM": 55000271 }, "geometry": { "type": "Point", "coordinates": [ -76.330587, 37.421480 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 51407, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 367, "NESTS-ID": 51407, "ID": 550500367, "RARNUM": 55000303 }, "geometry": { "type": "Point", "coordinates": [ -76.344203, 37.417411 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 51413, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 368, "NESTS-ID": 51413, "ID": 550500368, "RARNUM": 55000314 }, "geometry": { "type": "Point", "coordinates": [ -76.260251, 37.399943 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 51405, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 369, "NESTS-ID": 51405, "ID": 550500369, "RARNUM": 55000301 }, "geometry": { "type": "Point", "coordinates": [ -76.345157, 37.382549 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 52162, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 370, "NESTS-ID": 52162, "ID": 550500370, "RARNUM": 55000255 }, "geometry": { "type": "Point", "coordinates": [ -76.482564, 37.477274 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 52922, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 371, "NESTS-ID": 52922, "ID": 550500371, "RARNUM": 55000266 }, "geometry": { "type": "Point", "coordinates": [ -76.744600, 37.498280 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 52923, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 372, "NESTS-ID": 52923, "ID": 550500372, "RARNUM": 55000268 }, "geometry": { "type": "Point", "coordinates": [ -76.717301, 37.456609 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 52897, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 373, "NESTS-ID": 52897, "ID": 550500373, "RARNUM": 55000257 }, "geometry": { "type": "Point", "coordinates": [ -76.635430, 37.450918 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 52914, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 374, "NESTS-ID": 52914, "ID": 550500374, "RARNUM": 55000265 }, "geometry": { "type": "Point", "coordinates": [ -76.747555, 37.439451 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 52898, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 375, "NESTS-ID": 52898, "ID": 550500375, "RARNUM": 55000271 }, "geometry": { "type": "Point", "coordinates": [ -76.683712, 37.419467 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 53703, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 376, "NESTS-ID": 53703, "ID": 550500376, "RARNUM": 55000367 }, "geometry": { "type": "Point", "coordinates": [ -76.787946, 37.482528 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 53702, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 377, "NESTS-ID": 53702, "ID": 550500377, "RARNUM": 55000256 }, "geometry": { "type": "Point", "coordinates": [ -76.765791, 37.457197 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 53676, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 378, "NESTS-ID": 53676, "ID": 550500378, "RARNUM": 55000271 }, "geometry": { "type": "Point", "coordinates": [ -76.789783, 37.414205 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 54461, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 379, "NESTS-ID": 54461, "ID": 550500379, "RARNUM": 55000262 }, "geometry": { "type": "Point", "coordinates": [ -76.760858, 37.604692 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 54471, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 380, "NESTS-ID": 54471, "ID": 550500380, "RARNUM": 55000272 }, "geometry": { "type": "Point", "coordinates": [ -76.835005, 37.567526 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 55238, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 381, "NESTS-ID": 55238, "ID": 550500381, "RARNUM": 55000296 }, "geometry": { "type": "Point", "coordinates": [ -76.881964, 37.609905 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 55233, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 382, "NESTS-ID": 55233, "ID": 550500382, "RARNUM": 55000289 }, "geometry": { "type": "Point", "coordinates": [ -76.941048, 37.595505 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 55253, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 383, "NESTS-ID": 55253, "ID": 550500383, "RARNUM": 55000257 }, "geometry": { "type": "Point", "coordinates": [ -76.992117, 37.531240 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58371, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 384, "NESTS-ID": 58371, "ID": 550500384, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.655115, 37.620100 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58449, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 385, "NESTS-ID": 58449, "ID": 550500385, "RARNUM": 55000378 }, "geometry": { "type": "Point", "coordinates": [ -75.648119, 37.618562 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58450, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 386, "NESTS-ID": 58450, "ID": 550500386, "RARNUM": 55000375 }, "geometry": { "type": "Point", "coordinates": [ -75.652469, 37.614139 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58452, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 387, "NESTS-ID": 58452, "ID": 550500387, "RARNUM": 55000380 }, "geometry": { "type": "Point", "coordinates": [ -75.648511, 37.613990 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58454, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 388, "NESTS-ID": 58454, "ID": 550500388, "RARNUM": 55000379 }, "geometry": { "type": "Point", "coordinates": [ -75.649273, 37.605062 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58456, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 389, "NESTS-ID": 58456, "ID": 550500389, "RARNUM": 55000431 }, "geometry": { "type": "Point", "coordinates": [ -75.640510, 37.597313 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58457, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 390, "NESTS-ID": 58457, "ID": 550500390, "RARNUM": 55000237 }, "geometry": { "type": "Point", "coordinates": [ -75.642189, 37.596331 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58458, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 391, "NESTS-ID": 58458, "ID": 550500391, "RARNUM": 55000189 }, "geometry": { "type": "Point", "coordinates": [ -75.638639, 37.595061 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58460, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 392, "NESTS-ID": 58460, "ID": 550500392, "RARNUM": 55000430 }, "geometry": { "type": "Point", "coordinates": [ -75.629948, 37.593188 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58461, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 393, "NESTS-ID": 58461, "ID": 550500393, "RARNUM": 55000237 }, "geometry": { "type": "Point", "coordinates": [ -75.650547, 37.589191 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58462, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 394, "NESTS-ID": 58462, "ID": 550500394, "RARNUM": 55000236 }, "geometry": { "type": "Point", "coordinates": [ -75.644480, 37.588035 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58358, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 395, "NESTS-ID": 58358, "ID": 550500395, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.629030, 37.586469 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58467, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 396, "NESTS-ID": 58467, "ID": 550500396, "RARNUM": 55000246 }, "geometry": { "type": "Point", "coordinates": [ -75.629815, 37.586014 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58469, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 397, "NESTS-ID": 58469, "ID": 550500397, "RARNUM": 55000242 }, "geometry": { "type": "Point", "coordinates": [ -75.615022, 37.584929 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58470, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 398, "NESTS-ID": 58470, "ID": 550500398, "RARNUM": 55000226 }, "geometry": { "type": "Point", "coordinates": [ -75.644322, 37.584619 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58471, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 399, "NESTS-ID": 58471, "ID": 550500399, "RARNUM": 55000229 }, "geometry": { "type": "Point", "coordinates": [ -75.642106, 37.583883 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58474, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 400, "NESTS-ID": 58474, "ID": 550500400, "RARNUM": 55000369 }, "geometry": { "type": "Point", "coordinates": [ -75.596127, 37.582763 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58381, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 401, "NESTS-ID": 58381, "ID": 550500401, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.613343, 37.582297 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58475, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 402, "NESTS-ID": 58475, "ID": 550500402, "RARNUM": 55000231 }, "geometry": { "type": "Point", "coordinates": [ -75.667633, 37.580875 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58476, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 403, "NESTS-ID": 58476, "ID": 550500403, "RARNUM": 55000247 }, "geometry": { "type": "Point", "coordinates": [ -75.628236, 37.578487 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58477, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 404, "NESTS-ID": 58477, "ID": 550500404, "RARNUM": 55000228 }, "geometry": { "type": "Point", "coordinates": [ -75.655171, 37.577926 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58478, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 405, "NESTS-ID": 58478, "ID": 550500405, "RARNUM": 55000226 }, "geometry": { "type": "Point", "coordinates": [ -75.659749, 37.572168 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58479, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 406, "NESTS-ID": 58479, "ID": 550500406, "RARNUM": 55000158 }, "geometry": { "type": "Point", "coordinates": [ -75.657971, 37.570726 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58480, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 407, "NESTS-ID": 58480, "ID": 550500407, "RARNUM": 55000374 }, "geometry": { "type": "Point", "coordinates": [ -75.654991, 37.548425 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58389, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 408, "NESTS-ID": 58389, "ID": 550500408, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.691016, 37.537753 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58481, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 409, "NESTS-ID": 58481, "ID": 550500409, "RARNUM": 55000409 }, "geometry": { "type": "Point", "coordinates": [ -75.714267, 37.536787 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58482, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 410, "NESTS-ID": 58482, "ID": 550500410, "RARNUM": 55000158 }, "geometry": { "type": "Point", "coordinates": [ -75.680491, 37.534742 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58483, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 411, "NESTS-ID": 58483, "ID": 550500411, "RARNUM": 55000415 }, "geometry": { "type": "Point", "coordinates": [ -75.672697, 37.534030 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58484, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 412, "NESTS-ID": 58484, "ID": 550500412, "RARNUM": 55000396 }, "geometry": { "type": "Point", "coordinates": [ -75.714560, 37.523653 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58362, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 413, "NESTS-ID": 58362, "ID": 550500413, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.727539, 37.511180 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58485, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 414, "NESTS-ID": 58485, "ID": 550500414, "RARNUM": 55000372 }, "geometry": { "type": "Point", "coordinates": [ -75.730257, 37.509640 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58487, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 415, "NESTS-ID": 58487, "ID": 550500415, "RARNUM": 55000373 }, "geometry": { "type": "Point", "coordinates": [ -75.721538, 37.508593 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58490, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 416, "NESTS-ID": 58490, "ID": 550500416, "RARNUM": 55000410 }, "geometry": { "type": "Point", "coordinates": [ -75.707023, 37.506518 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58491, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 417, "NESTS-ID": 58491, "ID": 550500417, "RARNUM": 55000416 }, "geometry": { "type": "Point", "coordinates": [ -75.715161, 37.502593 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 58889, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 418, "NESTS-ID": 58889, "ID": 550500418, "RARNUM": 55000333 }, "geometry": { "type": "Point", "coordinates": [ -75.865473, 37.553787 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 62140, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 419, "NESTS-ID": 62140, "ID": 550500419, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.913214, 37.598511 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 59296, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 420, "NESTS-ID": 59296, "ID": 550500420, "RARNUM": 55000289 }, "geometry": { "type": "Point", "coordinates": [ -75.910098, 37.590960 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 59295, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 421, "NESTS-ID": 59295, "ID": 550500421, "RARNUM": 55000271 }, "geometry": { "type": "Point", "coordinates": [ -75.926802, 37.578515 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 59294, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 422, "NESTS-ID": 59294, "ID": 550500422, "RARNUM": 55000272 }, "geometry": { "type": "Point", "coordinates": [ -75.924063, 37.574776 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 59293, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 423, "NESTS-ID": 59293, "ID": 550500423, "RARNUM": 55000274 }, "geometry": { "type": "Point", "coordinates": [ -75.931400, 37.559637 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 59292, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 424, "NESTS-ID": 59292, "ID": 550500424, "RARNUM": 55000341 }, "geometry": { "type": "Point", "coordinates": [ -75.896425, 37.508347 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 62493, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 425, "NESTS-ID": 62493, "ID": 550500425, "RARNUM": 55000271 }, "geometry": { "type": "Point", "coordinates": [ -76.363526, 37.535775 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 65772, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 426, "NESTS-ID": 65772, "ID": 550500426, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -76.424838, 37.622613 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 62849, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 427, "NESTS-ID": 62849, "ID": 550500427, "RARNUM": 55000268 }, "geometry": { "type": "Point", "coordinates": [ -76.433300, 37.599679 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 62850, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 428, "NESTS-ID": 62850, "ID": 550500428, "RARNUM": 55000268 }, "geometry": { "type": "Point", "coordinates": [ -76.432700, 37.598291 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 62848, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 429, "NESTS-ID": 62848, "ID": 550500429, "RARNUM": 55000268 }, "geometry": { "type": "Point", "coordinates": [ -76.425586, 37.591208 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 62847, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 430, "NESTS-ID": 62847, "ID": 550500430, "RARNUM": 55000289 }, "geometry": { "type": "Point", "coordinates": [ -76.447078, 37.579605 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 62845, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 431, "NESTS-ID": 62845, "ID": 550500431, "RARNUM": 55000257 }, "geometry": { "type": "Point", "coordinates": [ -76.385671, 37.548593 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 62838, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 432, "NESTS-ID": 62838, "ID": 550500432, "RARNUM": 55000287 }, "geometry": { "type": "Point", "coordinates": [ -76.451549, 37.501516 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 66123, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 433, "NESTS-ID": 66123, "ID": 550500433, "RARNUM": 55000255 }, "geometry": { "type": "Point", "coordinates": [ -76.597828, 37.588992 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 66118, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 434, "NESTS-ID": 66118, "ID": 550500434, "RARNUM": 55000268 }, "geometry": { "type": "Point", "coordinates": [ -76.616088, 37.584440 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 66154, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 435, "NESTS-ID": 66154, "ID": 550500435, "RARNUM": 55000258 }, "geometry": { "type": "Point", "coordinates": [ -76.519333, 37.528270 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 69439, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 436, "NESTS-ID": 69439, "ID": 550500436, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.553141, 37.748943 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 69512, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 437, "NESTS-ID": 69512, "ID": 550500437, "RARNUM": 55000214 }, "geometry": { "type": "Point", "coordinates": [ -75.561920, 37.741355 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 69514, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 438, "NESTS-ID": 69514, "ID": 550500438, "RARNUM": 55000401 }, "geometry": { "type": "Point", "coordinates": [ -75.552442, 37.740823 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 69517, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 439, "NESTS-ID": 69517, "ID": 550500439, "RARNUM": 55000400 }, "geometry": { "type": "Point", "coordinates": [ -75.561383, 37.739384 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 69518, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 440, "NESTS-ID": 69518, "ID": 550500440, "RARNUM": 55000399 }, "geometry": { "type": "Point", "coordinates": [ -75.564839, 37.736598 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 69519, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 441, "NESTS-ID": 69519, "ID": 550500441, "RARNUM": 55000398 }, "geometry": { "type": "Point", "coordinates": [ -75.571333, 37.717791 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 69520, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 442, "NESTS-ID": 69520, "ID": 550500442, "RARNUM": 55000397 }, "geometry": { "type": "Point", "coordinates": [ -75.580246, 37.703543 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 69449, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 443, "NESTS-ID": 69449, "ID": 550500443, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.597051, 37.692336 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 69521, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 444, "NESTS-ID": 69521, "ID": 550500444, "RARNUM": 55000404 }, "geometry": { "type": "Point", "coordinates": [ -75.598001, 37.691719 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 69523, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 445, "NESTS-ID": 69523, "ID": 550500445, "RARNUM": 55000244 }, "geometry": { "type": "Point", "coordinates": [ -75.584560, 37.688784 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 69452, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 446, "NESTS-ID": 69452, "ID": 550500446, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.589754, 37.687515 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 69527, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 447, "NESTS-ID": 69527, "ID": 550500447, "RARNUM": 55000243 }, "geometry": { "type": "Point", "coordinates": [ -75.585690, 37.677782 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 69528, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 448, "NESTS-ID": 69528, "ID": 550500448, "RARNUM": 55000243 }, "geometry": { "type": "Point", "coordinates": [ -75.587138, 37.670619 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 72948, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 449, "NESTS-ID": 72948, "ID": 550500449, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.652051, 37.701153 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 72947, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 450, "NESTS-ID": 72947, "ID": 550500450, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.648267, 37.660051 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 72946, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 451, "NESTS-ID": 72946, "ID": 550500451, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.695930, 37.639145 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 72998, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 452, "NESTS-ID": 72998, "ID": 550500452, "RARNUM": 55000195 }, "geometry": { "type": "Point", "coordinates": [ -75.638416, 37.637065 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 76484, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 453, "NESTS-ID": 76484, "ID": 550500453, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.820154, 37.730071 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 76516, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 454, "NESTS-ID": 76516, "ID": 550500454, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.800663, 37.693043 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 76479, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 455, "NESTS-ID": 76479, "ID": 550500455, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.861071, 37.688442 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 73414, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 456, "NESTS-ID": 73414, "ID": 550500456, "RARNUM": 55000346 }, "geometry": { "type": "Point", "coordinates": [ -75.866764, 37.681237 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 73415, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 457, "NESTS-ID": 73415, "ID": 550500457, "RARNUM": 55000336 }, "geometry": { "type": "Point", "coordinates": [ -75.798458, 37.660616 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 76924, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 458, "NESTS-ID": 76924, "ID": 550500458, "RARNUM": 55000271 }, "geometry": { "type": "Point", "coordinates": [ -75.883421, 37.628636 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 77274, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 459, "NESTS-ID": 77274, "ID": 550500459, "RARNUM": 55000289 }, "geometry": { "type": "Point", "coordinates": [ -76.434265, 37.737952 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 77635, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 460, "NESTS-ID": 77635, "ID": 550500460, "RARNUM": 55000271 }, "geometry": { "type": "Point", "coordinates": [ -76.595252, 37.696539 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 77623, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 461, "NESTS-ID": 77623, "ID": 550500461, "RARNUM": 55000265 }, "geometry": { "type": "Point", "coordinates": [ -76.514887, 37.646529 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 77633, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 462, "NESTS-ID": 77633, "ID": 550500462, "RARNUM": 55000257 }, "geometry": { "type": "Point", "coordinates": [ -76.599612, 37.634690 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 77632, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 463, "NESTS-ID": 77632, "ID": 550500463, "RARNUM": 55000268 }, "geometry": { "type": "Point", "coordinates": [ -76.598446, 37.632635 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 81222, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 464, "NESTS-ID": 81222, "ID": 550500464, "RARNUM": 55000408 }, "geometry": { "type": "Point", "coordinates": [ -75.426680, 37.873066 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 81223, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 465, "NESTS-ID": 81223, "ID": 550500465, "RARNUM": 55000223 }, "geometry": { "type": "Point", "coordinates": [ -75.382153, 37.873093 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 81227, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 466, "NESTS-ID": 81227, "ID": 550500466, "RARNUM": 55000222 }, "geometry": { "type": "Point", "coordinates": [ -75.377159, 37.870035 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 84898, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 467, "NESTS-ID": 84898, "ID": 550500467, "RARNUM": 55000118 }, "geometry": { "type": "Point", "coordinates": [ -75.508231, 37.817504 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 84845, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 468, "NESTS-ID": 84845, "ID": 550500469, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.533093, 37.781337 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 84895, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 469, "NESTS-ID": 84895, "ID": 550500470, "RARNUM": 55000402 }, "geometry": { "type": "Point", "coordinates": [ -75.533126, 37.773261 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 84896, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 470, "NESTS-ID": 84896, "ID": 550500471, "RARNUM": 55000193 }, "geometry": { "type": "Point", "coordinates": [ -75.535318, 37.766148 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 84897, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 471, "NESTS-ID": 84897, "ID": 550500472, "RARNUM": 55000403 }, "geometry": { "type": "Point", "coordinates": [ -75.546746, 37.760454 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 88910, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 472, "NESTS-ID": 88910, "ID": 550500473, "RARNUM": 55000119 }, "geometry": { "type": "Point", "coordinates": [ -75.719496, 37.870670 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 85162, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 473, "NESTS-ID": 85162, "ID": 550500474, "RARNUM": 55000354 }, "geometry": { "type": "Point", "coordinates": [ -75.720170, 37.869902 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 84984, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 474, "NESTS-ID": 84984, "ID": 550500475, "RARNUM": 55000353 }, "geometry": { "type": "Point", "coordinates": [ -75.728434, 37.862553 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 85161, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 475, "NESTS-ID": 85161, "ID": 550500476, "RARNUM": 55000352 }, "geometry": { "type": "Point", "coordinates": [ -75.730210, 37.860497 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 88908, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 476, "NESTS-ID": 88908, "ID": 550500477, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.683337, 37.859325 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 85313, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 477, "NESTS-ID": 85313, "ID": 550500478, "RARNUM": 55000357 }, "geometry": { "type": "Point", "coordinates": [ -75.692544, 37.825340 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 85160, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 478, "NESTS-ID": 85160, "ID": 550500479, "RARNUM": 55000349 }, "geometry": { "type": "Point", "coordinates": [ -75.742924, 37.820855 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 88911, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 479, "NESTS-ID": 88911, "ID": 550500480, "RARNUM": 55000119 }, "geometry": { "type": "Point", "coordinates": [ -75.743762, 37.819895 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 85159, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 480, "NESTS-ID": 85159, "ID": 550500481, "RARNUM": 55000350 }, "geometry": { "type": "Point", "coordinates": [ -75.741030, 37.809359 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 88912, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 481, "NESTS-ID": 88912, "ID": 550500482, "RARNUM": 55000119 }, "geometry": { "type": "Point", "coordinates": [ -75.741681, 37.809037 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 88913, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 482, "NESTS-ID": 88913, "ID": 550500483, "RARNUM": 55000120 }, "geometry": { "type": "Point", "coordinates": [ -75.740609, 37.801975 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 85158, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 483, "NESTS-ID": 85158, "ID": 550500484, "RARNUM": 55000351 }, "geometry": { "type": "Point", "coordinates": [ -75.740597, 37.801918 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 88909, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 484, "NESTS-ID": 88909, "ID": 550500485, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.721193, 37.775702 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 89166, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 485, "NESTS-ID": 89166, "ID": 550500486, "RARNUM": 55000348 }, "geometry": { "type": "Point", "coordinates": [ -75.755682, 37.806737 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 93255, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 486, "NESTS-ID": 93255, "ID": 550500487, "RARNUM": 55000120 }, "geometry": { "type": "Point", "coordinates": [ -75.755762, 37.806619 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 92987, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 487, "NESTS-ID": 92987, "ID": 550500488, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.771167, 37.802077 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 93257, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 488, "NESTS-ID": 93257, "ID": 550500489, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.777550, 37.783908 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 89297, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 489, "NESTS-ID": 89297, "ID": 550500490, "RARNUM": 55000347 }, "geometry": { "type": "Point", "coordinates": [ -75.801444, 37.778313 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 93256, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 490, "NESTS-ID": 93256, "ID": 550500491, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.796252, 37.777549 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 97637, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 491, "NESTS-ID": 97637, "ID": 550500492, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.996840, 37.846142 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 93416, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 492, "NESTS-ID": 93416, "ID": 550500493, "RARNUM": 55000337 }, "geometry": { "type": "Point", "coordinates": [ -75.993915, 37.831314 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 93287, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 493, "NESTS-ID": 93287, "ID": 550500494, "RARNUM": 55000338 }, "geometry": { "type": "Point", "coordinates": [ -75.980737, 37.831361 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 97613, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 494, "NESTS-ID": 97613, "ID": 550500495, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.994230, 37.827744 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 93525, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 495, "NESTS-ID": 93525, "ID": 550500496, "RARNUM": 55000344 }, "geometry": { "type": "Point", "coordinates": [ -75.895086, 37.806890 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 97611, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 496, "NESTS-ID": 97611, "ID": 550500497, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.897310, 37.802432 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 93524, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 497, "NESTS-ID": 93524, "ID": 550500498, "RARNUM": 55000343 }, "geometry": { "type": "Point", "coordinates": [ -75.895515, 37.799779 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 93288, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 498, "NESTS-ID": 93288, "ID": 550500499, "RARNUM": 55000345 }, "geometry": { "type": "Point", "coordinates": [ -75.893720, 37.798765 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 97903, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 499, "NESTS-ID": 97903, "ID": 550500500, "RARNUM": 55000327 }, "geometry": { "type": "Point", "coordinates": [ -76.000227, 37.860595 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 98280, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 500, "NESTS-ID": 98280, "ID": 550500501, "RARNUM": 55000289 }, "geometry": { "type": "Point", "coordinates": [ -76.246451, 37.867304 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 98656, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 501, "NESTS-ID": 98656, "ID": 550500502, "RARNUM": 55000285 }, "geometry": { "type": "Point", "coordinates": [ -76.480409, 37.872099 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 99025, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 502, "NESTS-ID": 99025, "ID": 550500503, "RARNUM": 55000260 }, "geometry": { "type": "Point", "coordinates": [ -76.561238, 37.836830 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 99393, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 503, "NESTS-ID": 99393, "ID": 550500504, "RARNUM": 55000257 }, "geometry": { "type": "Point", "coordinates": [ -76.652088, 37.844723 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 99388, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 504, "NESTS-ID": 99388, "ID": 550500505, "RARNUM": 55000272 }, "geometry": { "type": "Point", "coordinates": [ -76.669120, 37.750503 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 99732, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 505, "NESTS-ID": 99732, "ID": 550500506, "RARNUM": 55000272 }, "geometry": { "type": "Point", "coordinates": [ -76.869641, 37.846502 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 99730, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 506, "NESTS-ID": 99730, "ID": 550500507, "RARNUM": 55000260 }, "geometry": { "type": "Point", "coordinates": [ -76.770686, 37.833823 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 104114, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 507, "NESTS-ID": 104114, "ID": 550500508, "RARNUM": 55000249 }, "geometry": { "type": "Point", "coordinates": [ -75.324950, 37.993680 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 104118, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 508, "NESTS-ID": 104118, "ID": 550500509, "RARNUM": 55000248 }, "geometry": { "type": "Point", "coordinates": [ -75.321156, 37.993168 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 104120, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 509, "NESTS-ID": 104120, "ID": 550500510, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.288807, 37.977114 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 104442, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 510, "NESTS-ID": 104442, "ID": 550500511, "RARNUM": 55000125 }, "geometry": { "type": "Point", "coordinates": [ -75.323719, 37.973301 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 104119, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 511, "NESTS-ID": 104119, "ID": 550500512, "RARNUM": 55000224 }, "geometry": { "type": "Point", "coordinates": [ -75.295224, 37.966936 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 104441, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 512, "NESTS-ID": 104441, "ID": 550500513, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.335593, 37.963305 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 104120, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 513, "NESTS-ID": 104120, "ID": 550500514, "RARNUM": 55000420 }, "geometry": { "type": "Point", "coordinates": [ -75.318163, 37.960441 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 104443, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 514, "NESTS-ID": 104443, "ID": 550500515, "RARNUM": 55000126 }, "geometry": { "type": "Point", "coordinates": [ -75.336670, 37.950127 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 104125, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 515, "NESTS-ID": 104125, "ID": 550500516, "RARNUM": 55000241 }, "geometry": { "type": "Point", "coordinates": [ -75.363942, 37.949015 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 104152, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 516, "NESTS-ID": 104152, "ID": 550500517, "RARNUM": 55000245 }, "geometry": { "type": "Point", "coordinates": [ -75.357996, 37.931151 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 104445, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 517, "NESTS-ID": 104445, "ID": 550500518, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.361284, 37.905689 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 104444, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 518, "NESTS-ID": 104444, "ID": 550500519, "RARNUM": 55000125 }, "geometry": { "type": "Point", "coordinates": [ -75.363374, 37.904708 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 104183, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 519, "NESTS-ID": 104183, "ID": 550500520, "RARNUM": 55000221 }, "geometry": { "type": "Point", "coordinates": [ -75.351588, 37.872530 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109212, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 520, "NESTS-ID": 109212, "ID": 550500521, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.445148, 37.986573 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109167, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 521, "NESTS-ID": 109167, "ID": 550500522, "RARNUM": 55000370 }, "geometry": { "type": "Point", "coordinates": [ -75.424231, 37.955320 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109170, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 522, "NESTS-ID": 109170, "ID": 550500523, "RARNUM": 55000371 }, "geometry": { "type": "Point", "coordinates": [ -75.426111, 37.952898 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109163, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 523, "NESTS-ID": 109163, "ID": 550500524, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.375513, 37.947482 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109172, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 524, "NESTS-ID": 109172, "ID": 550500525, "RARNUM": 55000429 }, "geometry": { "type": "Point", "coordinates": [ -75.388628, 37.944627 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109179, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 525, "NESTS-ID": 109179, "ID": 550500526, "RARNUM": 55000405 }, "geometry": { "type": "Point", "coordinates": [ -75.398631, 37.942332 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109183, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 526, "NESTS-ID": 109183, "ID": 550500527, "RARNUM": 55000234 }, "geometry": { "type": "Point", "coordinates": [ -75.386811, 37.941866 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109187, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 527, "NESTS-ID": 109187, "ID": 550500528, "RARNUM": 55000428 }, "geometry": { "type": "Point", "coordinates": [ -75.384929, 37.940620 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109188, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 528, "NESTS-ID": 109188, "ID": 550500529, "RARNUM": 55000233 }, "geometry": { "type": "Point", "coordinates": [ -75.389664, 37.939468 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109190, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 529, "NESTS-ID": 109190, "ID": 550500530, "RARNUM": 55000205 }, "geometry": { "type": "Point", "coordinates": [ -75.404895, 37.939354 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109191, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 530, "NESTS-ID": 109191, "ID": 550500531, "RARNUM": 55000232 }, "geometry": { "type": "Point", "coordinates": [ -75.388074, 37.935823 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109192, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 531, "NESTS-ID": 109192, "ID": 550500532, "RARNUM": 55000426 }, "geometry": { "type": "Point", "coordinates": [ -75.402958, 37.935124 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109194, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 532, "NESTS-ID": 109194, "ID": 550500533, "RARNUM": 55000219 }, "geometry": { "type": "Point", "coordinates": [ -75.424196, 37.934392 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109196, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 533, "NESTS-ID": 109196, "ID": 550500534, "RARNUM": 55000427 }, "geometry": { "type": "Point", "coordinates": [ -75.409163, 37.933481 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109197, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 534, "NESTS-ID": 109197, "ID": 550500535, "RARNUM": 55000171 }, "geometry": { "type": "Point", "coordinates": [ -75.397644, 37.933376 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109181, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 535, "NESTS-ID": 109181, "ID": 550500536, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.420682, 37.933052 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109213, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 536, "NESTS-ID": 109213, "ID": 550500537, "RARNUM": 55000126 }, "geometry": { "type": "Point", "coordinates": [ -75.408918, 37.932710 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109215, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 537, "NESTS-ID": 109215, "ID": 550500538, "RARNUM": 55000432 }, "geometry": { "type": "Point", "coordinates": [ -75.388757, 37.928338 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109206, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 538, "NESTS-ID": 109206, "ID": 550500539, "RARNUM": 55000411 }, "geometry": { "type": "Point", "coordinates": [ -75.442088, 37.927746 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109207, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 539, "NESTS-ID": 109207, "ID": 550500540, "RARNUM": 55000424 }, "geometry": { "type": "Point", "coordinates": [ -75.426159, 37.925516 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109208, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 540, "NESTS-ID": 109208, "ID": 550500541, "RARNUM": 55000375 }, "geometry": { "type": "Point", "coordinates": [ -75.421935, 37.921935 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109209, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 541, "NESTS-ID": 109209, "ID": 550500542, "RARNUM": 55000426 }, "geometry": { "type": "Point", "coordinates": [ -75.403385, 37.921098 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109211, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 542, "NESTS-ID": 109211, "ID": 550500543, "RARNUM": 55000149 }, "geometry": { "type": "Point", "coordinates": [ -75.429128, 37.920485 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109212, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 543, "NESTS-ID": 109212, "ID": 550500544, "RARNUM": 55000423 }, "geometry": { "type": "Point", "coordinates": [ -75.414622, 37.918004 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109213, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 544, "NESTS-ID": 109213, "ID": 550500545, "RARNUM": 55000425 }, "geometry": { "type": "Point", "coordinates": [ -75.422603, 37.916957 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109215, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 545, "NESTS-ID": 109215, "ID": 550500546, "RARNUM": 55000422 }, "geometry": { "type": "Point", "coordinates": [ -75.429890, 37.912424 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109216, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 546, "NESTS-ID": 109216, "ID": 550500547, "RARNUM": 55000145 }, "geometry": { "type": "Point", "coordinates": [ -75.441436, 37.912066 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109217, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 547, "NESTS-ID": 109217, "ID": 550500548, "RARNUM": 55000419 }, "geometry": { "type": "Point", "coordinates": [ -75.381276, 37.911672 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109222, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 548, "NESTS-ID": 109222, "ID": 550500549, "RARNUM": 55000421 }, "geometry": { "type": "Point", "coordinates": [ -75.441483, 37.907703 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109160, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 549, "NESTS-ID": 109160, "ID": 550500550, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.378367, 37.907076 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109224, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 550, "NESTS-ID": 109224, "ID": 550500551, "RARNUM": 55000240 }, "geometry": { "type": "Point", "coordinates": [ -75.424259, 37.906505 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109225, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 551, "NESTS-ID": 109225, "ID": 550500552, "RARNUM": 55000252 }, "geometry": { "type": "Point", "coordinates": [ -75.413606, 37.902802 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109189, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 552, "NESTS-ID": 109189, "ID": 550500553, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.417819, 37.901778 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109162, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 553, "NESTS-ID": 109162, "ID": 550500554, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.400555, 37.897890 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109214, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 554, "NESTS-ID": 109214, "ID": 550500555, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.492005, 37.888730 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109170, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 555, "NESTS-ID": 109170, "ID": 550500556, "RARNUM": 55000225 }, "geometry": { "type": "Point", "coordinates": [ -75.413903, 37.886911 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109165, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 556, "NESTS-ID": 109165, "ID": 550500557, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.446828, 37.882000 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109226, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 557, "NESTS-ID": 109226, "ID": 550500558, "RARNUM": 55000406 }, "geometry": { "type": "Point", "coordinates": [ -75.422372, 37.876389 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 114021, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 558, "NESTS-ID": 114021, "ID": 550500559, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.690856, 37.932119 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 114041, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 559, "NESTS-ID": 114041, "ID": 550500560, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.724678, 37.912803 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 114068, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 560, "NESTS-ID": 114068, "ID": 550500561, "RARNUM": 55000061 }, "geometry": { "type": "Point", "coordinates": [ -75.691748, 37.910228 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 114022, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 561, "NESTS-ID": 114022, "ID": 550500562, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.684638, 37.893219 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109417, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 562, "NESTS-ID": 109417, "ID": 550500563, "RARNUM": 55000355 }, "geometry": { "type": "Point", "coordinates": [ -75.703488, 37.891182 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 109491, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 563, "NESTS-ID": 109491, "ID": 550500564, "RARNUM": 55000356 }, "geometry": { "type": "Point", "coordinates": [ -75.701388, 37.891060 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 118919, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 564, "NESTS-ID": 118919, "ID": 550500565, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -75.905011, 37.897183 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 114153, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 565, "NESTS-ID": 114153, "ID": 550500566, "RARNUM": 55000342 }, "geometry": { "type": "Point", "coordinates": [ -75.900796, 37.889106 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 119175, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 566, "NESTS-ID": 119175, "ID": 550500567, "RARNUM": 55000330 }, "geometry": { "type": "Point", "coordinates": [ -76.023248, 37.942030 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 119070, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 567, "NESTS-ID": 119070, "ID": 550500568, "RARNUM": 55000332 }, "geometry": { "type": "Point", "coordinates": [ -76.020949, 37.938439 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 119174, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 568, "NESTS-ID": 119174, "ID": 550500569, "RARNUM": 55000331 }, "geometry": { "type": "Point", "coordinates": [ -76.022570, 37.937004 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 118979, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 569, "NESTS-ID": 118979, "ID": 550500570, "RARNUM": 55000326 }, "geometry": { "type": "Point", "coordinates": [ -76.030788, 37.932347 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 119307, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 570, "NESTS-ID": 119307, "ID": 550500571, "RARNUM": 55000329 }, "geometry": { "type": "Point", "coordinates": [ -76.027814, 37.929448 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 119178, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 571, "NESTS-ID": 119178, "ID": 550500572, "RARNUM": 55000323 }, "geometry": { "type": "Point", "coordinates": [ -76.034255, 37.929319 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 118970, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 572, "NESTS-ID": 118970, "ID": 550500573, "RARNUM": 55000328 }, "geometry": { "type": "Point", "coordinates": [ -76.029030, 37.925092 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 119137, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 573, "NESTS-ID": 119137, "ID": 550500574, "RARNUM": 55000324 }, "geometry": { "type": "Point", "coordinates": [ -76.033401, 37.916039 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 119177, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 574, "NESTS-ID": 119177, "ID": 550500575, "RARNUM": 55000325 }, "geometry": { "type": "Point", "coordinates": [ -76.032216, 37.912751 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 119176, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 575, "NESTS-ID": 119176, "ID": 550500576, "RARNUM": 55000327 }, "geometry": { "type": "Point", "coordinates": [ -76.030363, 37.907339 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 119173, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 576, "NESTS-ID": 119173, "ID": 550500577, "RARNUM": 55000334 }, "geometry": { "type": "Point", "coordinates": [ -76.012536, 37.880749 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 119682, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 577, "NESTS-ID": 119682, "ID": 550500578, "RARNUM": 55000256 }, "geometry": { "type": "Point", "coordinates": [ -76.251917, 37.897350 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 120048, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 578, "NESTS-ID": 120048, "ID": 550500579, "RARNUM": 55000263 }, "geometry": { "type": "Point", "coordinates": [ -76.743117, 37.886512 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 120386, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 579, "NESTS-ID": 120386, "ID": 550500580, "RARNUM": 55000263 }, "geometry": { "type": "Point", "coordinates": [ -76.797607, 37.887446 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 120727, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 580, "NESTS-ID": 120727, "ID": 550500581, "RARNUM": 55000258 }, "geometry": { "type": "Point", "coordinates": [ -76.972028, 37.964307 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 120726, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 581, "NESTS-ID": 120726, "ID": 550500582, "RARNUM": 55000264 }, "geometry": { "type": "Point", "coordinates": [ -76.897815, 37.876737 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 121097, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 582, "NESTS-ID": 121097, "ID": 550500583, "RARNUM": 55000357 }, "geometry": { "type": "Point", "coordinates": [ -76.934232, 38.086565 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 121091, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 583, "NESTS-ID": 121091, "ID": 550500584, "RARNUM": 55000365 }, "geometry": { "type": "Point", "coordinates": [ -76.902943, 38.026185 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 121092, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 584, "NESTS-ID": 121092, "ID": 550500585, "RARNUM": 55000321 }, "geometry": { "type": "Point", "coordinates": [ -76.890818, 38.018991 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 121441, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 585, "NESTS-ID": 121441, "ID": 550500586, "RARNUM": 55000360 }, "geometry": { "type": "Point", "coordinates": [ -77.115633, 38.121830 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 121440, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 586, "NESTS-ID": 121440, "ID": 550500587, "RARNUM": 55000258 }, "geometry": { "type": "Point", "coordinates": [ -77.060187, 38.095556 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 121439, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 587, "NESTS-ID": 121439, "ID": 550500588, "RARNUM": 55000296 }, "geometry": { "type": "Point", "coordinates": [ -77.008680, 38.083107 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 121821, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 588, "NESTS-ID": 121821, "ID": 550500589, "RARNUM": 55000263 }, "geometry": { "type": "Point", "coordinates": [ -76.948706, 38.194386 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 122156, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 589, "NESTS-ID": 122156, "ID": 550500590, "RARNUM": 55000339 }, "geometry": { "type": "Point", "coordinates": [ -77.198599, 38.178264 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 122155, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 590, "NESTS-ID": 122155, "ID": 550500591, "RARNUM": 55000272 }, "geometry": { "type": "Point", "coordinates": [ -77.240829, 38.137004 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 122492, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 591, "NESTS-ID": 122492, "ID": 550500592, "RARNUM": 55000283 }, "geometry": { "type": "Point", "coordinates": [ -77.339270, 38.248677 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 122504, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 592, "NESTS-ID": 122504, "ID": 550500593, "RARNUM": 55000260 }, "geometry": { "type": "Point", "coordinates": [ -77.283240, 38.234692 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 122885, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 593, "NESTS-ID": 122885, "ID": 550500594, "RARNUM": 55000296 }, "geometry": { "type": "Point", "coordinates": [ -76.993167, 38.271360 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 123258, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 594, "NESTS-ID": 123258, "ID": 550500595, "RARNUM": 55000364 }, "geometry": { "type": "Point", "coordinates": [ -77.088286, 38.313418 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 123259, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 595, "NESTS-ID": 123259, "ID": 550500596, "RARNUM": 55000296 }, "geometry": { "type": "Point", "coordinates": [ -77.007251, 38.285049 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 128174, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 596, "NESTS-ID": 128174, "ID": 550500597, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.313617, 38.394538 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 128173, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 597, "NESTS-ID": 128173, "ID": 550500598, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.319848, 38.392332 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 128175, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 598, "NESTS-ID": 128175, "ID": 550500599, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.312497, 38.390085 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 133161, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 599, "NESTS-ID": 133161, "ID": 550500600, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.205364, 38.624835 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 128547, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 600, "NESTS-ID": 128547, "ID": 550500601, "RARNUM": 55000359 }, "geometry": { "type": "Point", "coordinates": [ -77.197781, 38.624288 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 133162, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 601, "NESTS-ID": 133162, "ID": 550500602, "RARNUM": 55000032 }, "geometry": { "type": "Point", "coordinates": [ -77.199279, 38.624181 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 133158, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 602, "NESTS-ID": 133158, "ID": 550500603, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.212389, 38.623574 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 128546, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 603, "NESTS-ID": 128546, "ID": 550500604, "RARNUM": 55000358 }, "geometry": { "type": "Point", "coordinates": [ -77.203255, 38.620693 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 133163, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 604, "NESTS-ID": 133163, "ID": 550500605, "RARNUM": 55000032 }, "geometry": { "type": "Point", "coordinates": [ -77.202898, 38.620279 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 133159, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 605, "NESTS-ID": 133159, "ID": 550500606, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.209649, 38.617987 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 133160, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 606, "NESTS-ID": 133160, "ID": 550500607, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.247192, 38.614149 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138230, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 607, "NESTS-ID": 138230, "ID": 550500608, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.250782, 38.607950 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138235, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 608, "NESTS-ID": 138235, "ID": 550500609, "RARNUM": 55000032 }, "geometry": { "type": "Point", "coordinates": [ -77.253884, 38.604529 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138229, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 609, "NESTS-ID": 138229, "ID": 550500610, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.257191, 38.585026 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138234, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 610, "NESTS-ID": 138234, "ID": 550500611, "RARNUM": 55000032 }, "geometry": { "type": "Point", "coordinates": [ -77.276360, 38.583583 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138228, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 611, "NESTS-ID": 138228, "ID": 550500612, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.299609, 38.548970 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138194, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 612, "NESTS-ID": 138194, "ID": 550500613, "RARNUM": 55000407 }, "geometry": { "type": "Point", "coordinates": [ -77.277446, 38.541373 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138236, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 613, "NESTS-ID": 138236, "ID": 550500614, "RARNUM": 55000032 }, "geometry": { "type": "Point", "coordinates": [ -77.303312, 38.540012 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138227, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 614, "NESTS-ID": 138227, "ID": 550500615, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.280257, 38.533413 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 133541, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 615, "NESTS-ID": 133541, "ID": 550500616, "RARNUM": 55000276 }, "geometry": { "type": "Point", "coordinates": [ -77.351859, 38.515028 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138225, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 616, "NESTS-ID": 138225, "ID": 550500617, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.299324, 38.509719 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 138226, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 617, "NESTS-ID": 138226, "ID": 550500618, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.299254, 38.504161 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 143396, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 618, "NESTS-ID": 143396, "ID": 550500619, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.114098, 38.695285 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 148645, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 619, "NESTS-ID": 148645, "ID": 550500620, "RARNUM": 55000032 }, "geometry": { "type": "Point", "coordinates": [ -77.174289, 38.692783 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 148648, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 620, "NESTS-ID": 148648, "ID": 550500621, "RARNUM": 55000032 }, "geometry": { "type": "Point", "coordinates": [ -77.156337, 38.662865 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 148649, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 621, "NESTS-ID": 148649, "ID": 550500622, "RARNUM": 55000032 }, "geometry": { "type": "Point", "coordinates": [ -77.192119, 38.661989 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 148651, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 622, "NESTS-ID": 148651, "ID": 550500623, "RARNUM": 55000032 }, "geometry": { "type": "Point", "coordinates": [ -77.213927, 38.661052 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 148646, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 623, "NESTS-ID": 148646, "ID": 550500624, "RARNUM": 55000032 }, "geometry": { "type": "Point", "coordinates": [ -77.166869, 38.658216 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 148654, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 624, "NESTS-ID": 148654, "ID": 550500625, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.194128, 38.650996 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 148664, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 625, "NESTS-ID": 148664, "ID": 550500626, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.232981, 38.649139 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 148650, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 626, "NESTS-ID": 148650, "ID": 550500627, "RARNUM": 55000032 }, "geometry": { "type": "Point", "coordinates": [ -77.191212, 38.646928 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 148663, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 627, "NESTS-ID": 148663, "ID": 550500628, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.237128, 38.646031 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 148647, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 628, "NESTS-ID": 148647, "ID": 550500629, "RARNUM": 55000032 }, "geometry": { "type": "Point", "coordinates": [ -77.139367, 38.646779 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 148661, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 629, "NESTS-ID": 148661, "ID": 550500630, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.226807, 38.641826 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 148662, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 630, "NESTS-ID": 148662, "ID": 550500631, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.237666, 38.638083 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 148652, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 631, "NESTS-ID": 148652, "ID": 550500632, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.162935, 38.629914 ] } }
+,
+{ "type": "Feature", "properties": { "ValueId": 148653, "PolyId": 0, "AREA": 0.000000, "PERIMETER": 0.000000, "NESTS#": 632, "NESTS-ID": 148653, "ID": 550500633, "RARNUM": 55000030 }, "geometry": { "type": "Point", "coordinates": [ -77.167348, 38.627122 ] } }
+
+]
+}
