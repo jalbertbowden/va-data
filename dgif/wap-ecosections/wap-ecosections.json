@@ -1,0 +1,1039 @@
+{
+  "metadata": {
+    "idinfo": {
+      "citation": {
+        "citeinfo": {
+          "origin": "Virginia Department of Game and Inland Fisheries",
+          "pubdate": "2005",
+          "title": "Wildlife Action Plan Ecosections",
+          "geoform": {
+            "-Sync": "TRUE",
+            "#text": "vector digital data"
+          },
+          "pubinfo": {
+            "pubplace": "Richmond, VA",
+            "publish": "Virginia Department of Game and Inland Fisheries"
+          },
+          "ftname": {
+            "-Sync": "TRUE",
+            "#text": "WAP_Sections"
+          },
+          "onlink": "http://www.dgif.virginia.gov/gis/gis-data.asp",
+          "lworkcit": {
+            "citeinfo": {
+              "origin": "Virginia Department of Game and Inland Fisheries",
+              "pubdate": "2005",
+              "title": "Virginia's Wildlife Action Plan",
+              "onlink": "http://www.bewildvirginia.org"
+            }
+          }
+        }
+      },
+      "descript": {
+        "abstract": "These data represent the ecoregions used in Virginia's Wildlife Action Plan. The units are a modified Bailey Ecoregions at the section level. The data were edit from sections provided by Key's et al 1995 Ecoregion Subsection data. The national scale Section level map was used to guide the grouping of subsections, specifically the delineation between northern and southern cumberland mountains.",
+        "purpose": "This dataset shows Virginia divided into ecoregions.  These data can be used to determine ecoregion members of any geographic feature in Virginia.",
+        "langdata": {
+          "-Sync": "TRUE",
+          "#text": "en"
+        }
+      },
+      "timeperd": {
+        "timeinfo": {
+          "sngdate": { "caldate": "2005" }
+        },
+        "current": "publication date"
+      },
+      "status": {
+        "progress": "Complete",
+        "update": "None planned"
+      },
+      "spdom": {
+        "bounding": {
+          "westbc": {
+            "-Sync": "TRUE",
+            "#text": "-83.836826"
+          },
+          "eastbc": {
+            "-Sync": "TRUE",
+            "#text": "-75.162286"
+          },
+          "northbc": {
+            "-Sync": "TRUE",
+            "#text": "39.461075"
+          },
+          "southbc": {
+            "-Sync": "TRUE",
+            "#text": "36.465080"
+          }
+        },
+        "lboundng": {
+          "leftbc": {
+            "-Sync": "TRUE",
+            "#text": "-373501.263733"
+          },
+          "rightbc": {
+            "-Sync": "TRUE",
+            "#text": "373577.803909"
+          },
+          "bottombc": {
+            "-Sync": "TRUE",
+            "#text": "60041.494078"
+          },
+          "topbc": {
+            "-Sync": "TRUE",
+            "#text": "384132.380599"
+          }
+        }
+      },
+      "keywords": {
+        "theme": {
+          "themekt": "N/A",
+          "themekey": [
+            "boundaries",
+            "Wildlife Action Plan",
+            "Comprehensive Wildlife Action Plan",
+            "ecoregion",
+            "Baileys ",
+            "ecological sections",
+            "physiographic",
+            "Wildlife",
+            "biota"
+          ]
+        },
+        "place": {
+          "placekey": [
+            "Virginia",
+            "USA",
+            "Commonwealth of Virginia"
+          ]
+        }
+      },
+      "accconst": "These data are available to public or private entities with permission by Virginia Department of Game and Inland Fisheries, Wildlife Diversity Division.",
+      "useconst": "Neither the VDGIF nor the contributors of data to VDGIF shall be held liable for any improper or incorrect use or application of the data provided, and assume no responsibility for the use or application of the data or information derived from interpretation of the data. In no event shall the VDGIF or its collaborators be liable for any direct, indirect, or incidental damages arising from the use or application of these data. This disclaimer of liability applies to any damages or injury, including but not limited to those caused by any failure of performance, error, omission, defect, delay in operation or transmission, computer virus, alteration, use, application, analysis, or interpretation of data. 
+
+Data are available by permission of the Virginia Department of Game and Inland Fisheries.  Use of data in publications, either digital or hardcopy, must be cited as follows:  Virginia's Ecoregions - Wildlife Action Plan.   2008.   Virginia Department of Game and Inland Fisheries.",
+      "native": {
+        "-Sync": "TRUE",
+        "#text": "Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.3.1.3000"
+      },
+      "natvform": {
+        "-Sync": "TRUE",
+        "#text": "Shapefile"
+      }
+    },
+    "dataqual": {
+      "complete": "No warranty, expressed or implied, is made regarding the accuracy, adequacy, completeness, reliability, or usefulness of any data provided. These data are provided on an \"as is\" basis. All warranties of any kind, express or implied, including but not limited to fitness for a particular use, freedom from computer viruses, and non-infringement of proprietary rights, are disclaimed. ",
+      "posacc": {
+        "horizpa": {
+          "qhorizpa": { "horizpav": "+/- 200 meters" }
+        },
+        "vertacc": { "vertaccr": "Not Applicable" }
+      },
+      "lineage": {
+        "srcinfo": {
+          "srccite": {
+            "citeinfo": {
+              "origin": "Keys et al. - USDA Forest Service",
+              "pubdate": "2000",
+              "title": "Ecological Units of the Eastern United States. First Approximation",
+              "geoform": "vector digital data",
+              "onlink": "http://www.srs.fs.fed.us/sustain/data/ecoregions/index.htm",
+              "lworkcit": {
+                "citeinfo": {
+                  "origin": "Robert Baily - USDA Forest Service",
+                  "pubdate": "1995",
+                  "title": "Ecoregions of the United States",
+                  "geoform": "map"
+                }
+              }
+            }
+          },
+          "typesrc": "digital data"
+        },
+        "procstep": [
+          {
+            "procdesc": "Ecoregion section boundaries were obtained from \"Ecological Units of the Eastern United States. First Approximation.\" CD-ROM Digital Data. USDA Forest Service. Geometronics Southern Region.  Sections were group together to represented the ecoregions that were appropriate to Virginia based on the Core Working Group of the Virginia Wildlife Action Plan
+",
+            "procdate": "2004"
+          },
+          {
+            "procdesc": {
+              "-Sync": "TRUE",
+              "#text": "Metadata imported."
+            },
+            "date": {
+              "-Sync": "TRUE",
+              "#text": "20030604"
+            },
+            "time": {
+              "-Sync": "TRUE",
+              "#text": "15505600"
+            }
+          },
+          {
+            "procdesc": {
+              "-Sync": "TRUE",
+              "#text": "Metadata imported."
+            },
+            "date": {
+              "-Sync": "TRUE",
+              "#text": "20080919"
+            },
+            "time": {
+              "-Sync": "TRUE",
+              "#text": "12113400"
+            }
+          }
+        ]
+      }
+    },
+    "spdoinfo": {
+      "direct": {
+        "-Sync": "TRUE",
+        "#text": "Vector"
+      },
+      "ptvctinf": {
+        "esriterm": {
+          "efeatyp": {
+            "-Sync": "TRUE",
+            "#text": "Simple"
+          },
+          "efeageom": {
+            "-code": "4",
+            "-Sync": "TRUE"
+          },
+          "esritopo": {
+            "-Sync": "TRUE",
+            "#text": "FALSE"
+          },
+          "efeacnt": {
+            "-Sync": "TRUE",
+            "#text": "6"
+          },
+          "spindex": {
+            "-Sync": "TRUE",
+            "#text": "FALSE"
+          },
+          "linrefer": {
+            "-Sync": "TRUE",
+            "#text": "FALSE"
+          }
+        }
+      }
+    },
+    "spref": {
+      "horizsys": {
+        "planar": {
+          "planci": {
+            "plance": {
+              "-Sync": "TRUE",
+              "#text": "coordinate pair"
+            },
+            "coordrep": {
+              "absres": {
+                "-Sync": "TRUE",
+                "#text": "0.000000"
+              },
+              "ordres": {
+                "-Sync": "TRUE",
+                "#text": "0.000000"
+              }
+            },
+            "plandu": {
+              "-Sync": "TRUE",
+              "#text": "meters"
+            }
+          }
+        },
+        "geodetic": {
+          "horizdn": {
+            "-Sync": "TRUE",
+            "#text": "North American Datum of 1983"
+          },
+          "ellips": {
+            "-Sync": "TRUE",
+            "#text": "Geodetic Reference System 80"
+          },
+          "semiaxis": {
+            "-Sync": "TRUE",
+            "#text": "6378137.000000"
+          },
+          "denflat": {
+            "-Sync": "TRUE",
+            "#text": "298.257222"
+          }
+        },
+        "cordsysn": {
+          "geogcsn": {
+            "-Sync": "TRUE",
+            "#text": "GCS_North_American_1983"
+          },
+          "projcsn": {
+            "-Sync": "TRUE",
+            "#text": "North_America_Lambert_Conformal_Conic"
+          }
+        }
+      }
+    },
+    "eainfo": {
+      "detailed": {
+        "-Name": "WAP_Ecosections",
+        "enttyp": {
+          "enttypl": {
+            "-Sync": "TRUE",
+            "#text": "WAP_Ecosections"
+          },
+          "enttypt": {
+            "-Sync": "TRUE",
+            "#text": "Feature Class"
+          },
+          "enttypc": {
+            "-Sync": "TRUE",
+            "#text": "6"
+          }
+        },
+        "attr": [
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "FID"
+            },
+            "attrdef": {
+              "-Sync": "TRUE",
+              "#text": "Internal feature number."
+            },
+            "attrdefs": {
+              "-Sync": "TRUE",
+              "#text": "ESRI"
+            },
+            "attrdomv": {
+              "udom": {
+                "-Sync": "TRUE",
+                "#text": "Sequential unique whole numbers that are automatically generated."
+              }
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "FID"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "OID"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "4"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "Shape"
+            },
+            "attrdef": {
+              "-Sync": "TRUE",
+              "#text": "Feature geometry."
+            },
+            "attrdefs": {
+              "-Sync": "TRUE",
+              "#text": "ESRI"
+            },
+            "attrdomv": {
+              "udom": {
+                "-Sync": "TRUE",
+                "#text": "Coordinates defining the features."
+              }
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "Shape"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Geometry"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "CWCS_eco"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "CWCS_eco"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "String"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "254"
+            },
+            "attrdef": "Name of ecorgion",
+            "attrdefs": "USDA Forest Service/VDGIF",
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "Cnt_CWCS_e"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "Cnt_CWCS_e"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Integer"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "9"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "9"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "Acreage"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "Acreage"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Double"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "19"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "Temp"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "Temp"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "SmallInteger"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "4"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "4"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          }
+        ]
+      }
+    },
+    "distinfo": {
+      "distliab": "The VDGIF provides these data on an as is basis. All warranties of any kind, express or implied, including but not limited to fitness for a particular use, freedom from computer viruses, and non-infringement of proprietary rights are disclaimed. Neither the VDGIF nor the contributors to the VDGIF Fish and Wildlife Information Service (FWIS) shall be held liable for any improper or incorrect use of the information contained herein and assume no responsibility for the use of the information. In no event shall the VDGIF or the contributors to the FWIS be liable for any direct, indirect, or incidental damages arising in any way out of the use of this service. This disclaimer of liability applies to any damages or injury, including but not limited to those caused by any failure of performance, error, omission, defect, delay in operation or transmission, computer virus, alteration or use of record.",
+      "stdorder": {
+        "digform": {
+          "digtinfo": {
+            "transize": "0.392",
+            "dssize": {
+              "-Sync": "TRUE",
+              "#text": "0.203"
+            }
+          }
+        }
+      },
+      "resdesc": {
+        "-Sync": "TRUE",
+        "#text": "Downloadable Data"
+      }
+    },
+    "metainfo": {
+      "metd": {
+        "-Sync": "TRUE",
+        "#text": "20100706"
+      },
+      "metstdn": {
+        "-Sync": "TRUE",
+        "#text": "FGDC Content Standards for Digital Geospatial Metadata"
+      },
+      "metstdv": {
+        "-Sync": "TRUE",
+        "#text": "FGDC-STD-001-1998"
+      },
+      "mettc": {
+        "-Sync": "TRUE",
+        "#text": "local time"
+      },
+      "metextns": [
+        { "metprof": "ESRI Metadata Profile" },
+        {
+          "onlink": "http://www.esri.com/metadata/esriprof80.html",
+          "metprof": "ESRI Metadata Profile"
+        }
+      ],
+      "langmeta": {
+        "-Sync": "TRUE",
+        "#text": "en"
+      }
+    },
+    "Esri": {
+      "CreaDate": "20080919",
+      "CreaTime": "12113400",
+      "SyncOnce": "FALSE",
+      "SyncDate": "20120706",
+      "SyncTime": "08153300",
+      "ModDate": "20120706",
+      "ModTime": "08153300",
+      "MetaID": "{CF939748-035C-419F-96A3-B20B50154C7C}",
+      "DataProperties": {
+        "lineage": {
+          "Process": [
+            {
+              "-ToolSource": "C:\\Program Files\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField",
+              "-Date": "20120426",
+              "-Time": "163540",
+              "#text": "CalculateField WAP_Ecosections Temp 1 VB #"
+            },
+            {
+              "-ToolSource": "C:\\Program Files\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField",
+              "-Date": "20120426",
+              "-Time": "163547",
+              "#text": "CalculateField WAP_Ecosections Temp 2 VB #"
+            },
+            {
+              "-ToolSource": "C:\\Program Files\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField",
+              "-Date": "20120426",
+              "-Time": "163554",
+              "#text": "CalculateField WAP_Ecosections Temp 3 VB #"
+            }
+          ]
+        },
+        "itemProps": {
+          "itemName": {
+            "-Sync": "TRUE",
+            "#text": "WAP_Ecosections"
+          },
+          "imsContentType": {
+            "-Sync": "TRUE",
+            "-export": "False",
+            "#text": "002"
+          },
+          "nativeExtBox": {
+            "westBL": {
+              "-Sync": "TRUE",
+              "#text": "-373501.263733"
+            },
+            "eastBL": {
+              "-Sync": "TRUE",
+              "#text": "373577.803909"
+            },
+            "southBL": {
+              "-Sync": "TRUE",
+              "#text": "60041.494078"
+            },
+            "northBL": {
+              "-Sync": "TRUE",
+              "#text": "384132.380599"
+            },
+            "exTypeCode": {
+              "-Sync": "TRUE",
+              "#text": "1"
+            }
+          },
+          "itemSize": {
+            "-Sync": "TRUE",
+            "#text": "0.203"
+          },
+          "itemLocation": {
+            "linkage": {
+              "-Sync": "TRUE",
+              "#text": "file://\\\\gis\\share\\data\\GIS\\Metadata\\TobeUploaded\\WAP_Ecosections.shp"
+            },
+            "protocol": {
+              "-Sync": "TRUE",
+              "#text": "Local Area Network"
+            }
+          }
+        },
+        "coordRef": {
+          "type": {
+            "-Sync": "TRUE",
+            "#text": "Projected"
+          },
+          "geogcsn": {
+            "-Sync": "TRUE",
+            "#text": "GCS_North_American_1983"
+          },
+          "csUnits": {
+            "-Sync": "TRUE",
+            "#text": "Linear Unit: Meter (1.000000)"
+          },
+          "projcsn": {
+            "-Sync": "TRUE",
+            "#text": "North_America_Lambert_Conformal_Conic"
+          },
+          "peXml": {
+            "-Sync": "TRUE",
+            "#text": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.0'><WKT>PROJCS[&quot;North_America_Lambert_Conformal_Conic&quot;,GEOGCS[&quot;GCS_North_American_1983&quot;,DATUM[&quot;D_North_American_1983&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Lambert_Conformal_Conic&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Central_Meridian&quot;,-79.5],PARAMETER[&quot;Standard_Parallel_1&quot;,37.0],PARAMETER[&quot;Standard_Parallel_2&quot;,39.5],PARAMETER[&quot;Latitude_Of_Origin&quot;,36.0],UNIT[&quot;Meter&quot;,1.0]]</WKT><XOrigin>-37232800</XOrigin><YOrigin>-28884600</YOrigin><XYScale>120957855.10008635</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision></ProjectedCoordinateSystem>"
+          }
+        }
+      },
+      "ArcGISFormat": "1.0",
+      "ArcGISProfile": "FGDC"
+    },
+    "dataIdInfo": {
+      "envirDesc": {
+        "-Sync": "TRUE",
+        "#text": "Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcGIS 10.0.4.4000"
+      },
+      "dataLang": {
+        "languageCode": {
+          "-Sync": "TRUE",
+          "-value": "en"
+        },
+        "countryCode": {
+          "-value": "US",
+          "-Sync": "TRUE"
+        }
+      },
+      "idCitation": {
+        "resTitle": {
+          "-Sync": "FALSE",
+          "#text": "Wildlife Action Plan Ecosections"
+        },
+        "presForm": {
+          "PresFormCd": {
+            "-Sync": "TRUE",
+            "-value": "005"
+          }
+        },
+        "citRespParty": {
+          "rpIndName": "Lenee Pennington",
+          "rpOrgName": "VDGIF",
+          "rpPosName": "Acting GIS Coordinator",
+          "role": {
+            "RoleCd": { "-value": "007" }
+          },
+          "rpCntInfo": {
+            "cntAddress": {
+              "-addressType": "both",
+              "delPoint": "4010 W Broad St",
+              "city": "Richmond",
+              "adminArea": "Va",
+              "postCode": "23230",
+              "eMailAdd": "lenee.pennington@dgif.virginia.gov",
+              "country": "UNITED STATES"
+            },
+            "cntPhone": {
+              "voiceNum": { "#text": "8043670058" }
+            },
+            "cntHours": "8:30-5:00"
+          }
+        }
+      },
+      "spatRpType": {
+        "SpatRepTypCd": {
+          "-Sync": "TRUE",
+          "-value": "001"
+        }
+      },
+      "dataExt": [
+        {
+          "geoEle": {
+            "GeoBndBox": {
+              "-esriExtentType": "native",
+              "westBL": {
+                "-Sync": "TRUE",
+                "#text": "-373501.263733"
+              },
+              "eastBL": {
+                "-Sync": "TRUE",
+                "#text": "373577.803909"
+              },
+              "northBL": {
+                "-Sync": "TRUE",
+                "#text": "384132.380599"
+              },
+              "southBL": {
+                "-Sync": "TRUE",
+                "#text": "60041.494078"
+              },
+              "exTypeCode": {
+                "-Sync": "TRUE",
+                "#text": "1"
+              }
+            }
+          }
+        },
+        {
+          "geoEle": {
+            "GeoBndBox": {
+              "-esriExtentType": "search",
+              "exTypeCode": {
+                "-Sync": "TRUE",
+                "#text": "1"
+              },
+              "westBL": {
+                "-Sync": "TRUE",
+                "#text": "-83.836826"
+              },
+              "eastBL": {
+                "-Sync": "TRUE",
+                "#text": "-75.162286"
+              },
+              "northBL": {
+                "-Sync": "TRUE",
+                "#text": "39.461075"
+              },
+              "southBL": {
+                "-Sync": "TRUE",
+                "#text": "36.465080"
+              }
+            }
+          }
+        }
+      ],
+      "geoBox": {
+        "-esriExtentType": "decdegrees",
+        "westBL": {
+          "-Sync": "TRUE",
+          "#text": "-83.836826"
+        },
+        "eastBL": {
+          "-Sync": "TRUE",
+          "#text": "-75.162286"
+        },
+        "northBL": {
+          "-Sync": "TRUE",
+          "#text": "39.461075"
+        },
+        "southBL": {
+          "-Sync": "TRUE",
+          "#text": "36.46508"
+        },
+        "exTypeCode": {
+          "-Sync": "TRUE",
+          "#text": "1"
+        }
+      },
+      "idPurp": "This dataset shows Virginia divided into ecoregions.  These data can be used to determine ecoregion members of any geographic feature in Virginia.",
+      "idAbs": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>These data represent the ecoregions used in Virginia's Wildlife Action Plan. The units are a modified Bailey Ecoregions at the section level. The data were edit from sections provided by Key's et al 1995 Ecoregion Subsection data. The national scale Section level map was used to guide the grouping of subsections, specifically the delineation between northern and southern cumberland mountains.</SPAN></P></DIV></DIV></DIV>",
+      "searchKeys": {
+        "keyword": [
+          "boundaries",
+          "Wildlife Action Plan",
+          "Comprehensive Wildlife Action Plan",
+          "ecoregion",
+          "Baileys",
+          "ecological sections",
+          "physiographic",
+          "Wildlife",
+          "biota"
+        ]
+      },
+      "resConst": {
+        "Consts": { "useLimit": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Neither the VDGIF nor the contributors of data to VDGIF shall be held liable for any improper or incorrect use or application of the data provided, and assume no responsibility for the use or application of the data or information derived from interpretation of the data. In no event shall the VDGIF or its collaborators be liable for any direct, indirect, or incidental damages arising from the use or application of these data. This disclaimer of liability applies to any damages or injury, including but not limited to those caused by any failure of performance, error, omission, defect, delay in operation or transmission, computer virus, alteration, use, application, analysis, or interpretation of data. Data are available by permission of the Virginia Department of Game and Inland Fisheries. Use of data in publications, either digital or hardcopy, must be cited as follows: Virginia's Ecoregions - Wildlife Action Plan. 2008. Virginia Department of Game and Inland Fisheries.</SPAN></P></DIV></DIV></DIV>" }
+      },
+      "dataChar": {
+        "CharSetCd": { "-value": "004" }
+      },
+      "idPoC": {
+        "rpIndName": "Lenee Pennington",
+        "rpOrgName": "VDGIF",
+        "rpPosName": "Acting GIS Coordinator",
+        "role": {
+          "RoleCd": { "-value": "001" }
+        },
+        "rpCntInfo": {
+          "cntAddress": {
+            "-addressType": "both",
+            "delPoint": "4010 W Broad St",
+            "city": "Richmond",
+            "adminArea": "Va",
+            "postCode": "23230",
+            "eMailAdd": "lenee.pennington@dgif.virginia.gov",
+            "country": "UNITED STATES"
+          },
+          "cntPhone": {
+            "voiceNum": { "#text": "8043670058" }
+          },
+          "cntHours": "8:30-5:00"
+        }
+      },
+      "resMaint": {
+        "maintFreq": {
+          "MaintFreqCd": { "-value": "009" }
+        }
+      },
+      "tpCat": [
+        {
+          "TopicCatCd": { "-value": "003" }
+        },
+        {
+          "TopicCatCd": { "-value": "007" }
+        }
+      ]
+    },
+    "mdLang": {
+      "languageCode": {
+        "-Sync": "TRUE",
+        "-value": "en"
+      },
+      "countryCode": {
+        "-value": "US",
+        "-Sync": "TRUE"
+      }
+    },
+    "mdStanName": {
+      "-Sync": "TRUE",
+      "#text": "ISO 19115 Geographic Information - Metadata"
+    },
+    "mdStanVer": {
+      "-Sync": "TRUE",
+      "#text": "DIS_ESRI1.0"
+    },
+    "mdChar": {
+      "CharSetCd": {
+        "-Sync": "TRUE",
+        "-value": "006"
+      }
+    },
+    "mdHrLv": {
+      "ScopeCd": {
+        "-Sync": "TRUE",
+        "-value": "005"
+      }
+    },
+    "mdHrLvName": {
+      "-Sync": "TRUE",
+      "#text": "dataset"
+    },
+    "distInfo": {
+      "distributor": {
+        "distorTran": {
+          "onLineSrc": {
+            "orDesc": {
+              "-Sync": "TRUE",
+              "#text": "002"
+            },
+            "linkage": {
+              "-Sync": "TRUE",
+              "#text": "file://\\\\gis\\share\\data\\GISData\\boundaries\\ecoregions\\WAP_Sections.shp"
+            },
+            "protocol": {
+              "-Sync": "TRUE",
+              "#text": "Local Area Network"
+            }
+          },
+          "transSize": {
+            "-Sync": "TRUE",
+            "#text": "0.203"
+          }
+        },
+        "distorFormat": {
+          "formatName": {
+            "-Sync": "TRUE",
+            "#text": "Shapefile"
+          }
+        }
+      },
+      "distFormat": {
+        "formatName": {
+          "-Sync": "TRUE",
+          "#text": "Shapefile"
+        }
+      },
+      "distTranOps": {
+        "transSize": {
+          "-Sync": "TRUE",
+          "#text": "0.203"
+        }
+      }
+    },
+    "refSysInfo": {
+      "RefSystem": {
+        "refSysID": {
+          "identCode": {
+            "-Sync": "TRUE",
+            "-value": "0",
+            "#text": "North_America_Lambert_Conformal_Conic"
+          }
+        }
+      }
+    },
+    "spatRepInfo": {
+      "VectSpatRep": {
+        "geometObjs": {
+          "-Name": "WAP_Ecosections",
+          "geoObjTyp": {
+            "GeoObjTypCd": {
+              "-value": "002",
+              "-Sync": "TRUE"
+            }
+          },
+          "geoObjCnt": {
+            "-Sync": "TRUE",
+            "#text": "6"
+          }
+        },
+        "topLvl": {
+          "TopoLevCd": {
+            "-value": "001",
+            "-Sync": "TRUE"
+          }
+        }
+      }
+    },
+    "mdDateSt": {
+      "-Sync": "TRUE",
+      "#text": "20120706"
+    },
+    "Binary": {
+      "Thumbnail": {
+        "Data": {
+          "-EsriPropertyType": "PictureX",
+          "#text": "/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKqz3Esd1HHEiuu0tIM89RjH/j3XrjqKmUlFXYFqimxyJKu5
+DkdPpTI7mCWQxpIpcfw9D/8AXp3QEtFFFMAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKK
+ACiiigAooqG4maIKEUPIxwFJwPck/wCe1KTUVdgSsQqljwAMmqce55HmYY342j0A6ZprKbpi06ME
+BwsTHj6kdCc9Pw7052LOYwduBlm9Ac9Pyry8XiFP3I7GkVbUhuHkEmy2O2Zhgt2H1H4/h+OCv2by
+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
+UUUUAFFFFABRRRQAUUUUAFFFFABRRRQB/9k="
+        }
+      }
+    },
+    "mdContact": {
+      "rpIndName": "Justin Ray",
+      "rpOrgName": "VDGIF",
+      "rpPosName": "GIS Database and Applications Specialist",
+      "role": {
+        "RoleCd": { "-value": "011" }
+      },
+      "rpCntInfo": {
+        "cntAddress": {
+          "-addressType": "both",
+          "delPoint": "4010 W Broad St",
+          "city": "Richmond",
+          "adminArea": "Va",
+          "postCode": "23230",
+          "eMailAdd": "justin.ray@dgif.virginia.gov",
+          "country": "UNITED STATES"
+        },
+        "cntPhone": {
+          "voiceNum": { "#text": "8043674370" }
+        },
+        "cntHours": "8:30-4:30"
+      }
+    },
+    "mdMaint": {
+      "maintFreq": {
+        "MaintFreqCd": { "-value": "009" }
+      }
+    },
+    "dqInfo": {
+      "dqScope": {
+        "scpLvl": {
+          "ScopeCd": { "-value": "005" }
+        }
+      }
+    }
+  }
+}

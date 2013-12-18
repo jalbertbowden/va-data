@@ -1,0 +1,1045 @@
+{
+  "metadata": {
+    "-xml:lang": "en",
+    "Esri": {
+      "CreaDate": "20120105",
+      "CreaTime": "12391000",
+      "SyncOnce": "FALSE",
+      "SyncDate": "20120706",
+      "SyncTime": "15375200",
+      "ModDate": "20120706",
+      "ModTime": "15375200",
+      "DataProperties": {
+        "lineage": {
+          "Process": [
+            {
+              "-ToolSource": "C:\\Program Files\\ArcGIS\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CopyFeatures",
+              "-Date": "20070702",
+              "-Time": "135244",
+              "#text": "CopyFeatures \"K:\\GISData\\covs17_83\\dgif features\\hatcheries1783.shp\" \"Database Connections\\mortond_appserv_fwisdev1_SDE.sde\\sde.DBO.hatcheries1783\" # 0 0 0"
+            },
+            {
+              "-Name": "Project_5",
+              "-ToolSource": "C:\\Program Files\\ArcGIS\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\Project",
+              "-Date": "20070816",
+              "-Time": "095410",
+              "#text": "Project \"Database Connections\\mortond_appserv_fwisdev1_SDE.sde\\sde.DBO.hatcheries1783\" \"Database Connections\\mortond_appserv_fwisdev_SDE.sde\\sde.DBO.DGIF_hatcheries_VAlambert\" PROJCS['Lambert_Conformal_Conic_Virginia',GEOGCS['GCS_North_American_1983',DATUM['D_North_American_1983',SPHEROID['GRS_1980',6378137.0,298.257222101]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Lambert_Conformal_Conic'],PARAMETER['False_Easting',0.0],PARAMETER['False_Northing',0.0],PARAMETER['Central_Meridian',-79.5],PARAMETER['Standard_Parallel_1',37.0],PARAMETER['Standard_Parallel_2',39.5],PARAMETER['Latitude_Of_Origin',36.0],UNIT['Meter',1.0]] # PROJCS['NAD_1983_UTM_Zone_17N',GEOGCS['GCS_North_American_1983',DATUM['D_North_American_1983',SPHEROID['GRS_1980',6378137.0,298.257222101]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Transverse_Mercator'],PARAMETER['False_Easting',500000.0],PARAMETER['False_Northing',0.0],PARAMETER['Central_Meridian',-81.0],PARAMETER['Scale_Factor',0.9996],PARAMETER['Latitude_Of_Origin',0.0],UNIT['Meter',1.0]]"
+            },
+            {
+              "-Name": "FeatureClassToFeatureClass_4",
+              "-ToolSource": "C:\\Program Files\\ArcGIS\\ArcToolbox\\Toolboxes\\Conversion Tools.tbx\\FeatureClassToFeatureClass",
+              "-Date": "20070817",
+              "-Time": "124219",
+              "#text": "FeatureClassToFeatureClass \"Database Connections\\mortond_appserv_fwisdev_SDE.sde\\sde.DBO.DGIF_hatcheries_VAlambert\" G:\\FWIS\\EnviroReview_MapService\\WERMS_shapefiles DGIF_hatcheries092001lam.shp # \"ID ID true true false 4 Long 0 10 ,First,#,Database Connections\\mortond_appserv_fwisdev_SDE.sde\\sde.DBO.DGIF_hatcheries_VAlambert,ID,-1,-1;NAME NAME true true false 50 Text 0 0 ,First,#,Database Connections\\mortond_appserv_fwisdev_SDE.sde\\sde.DBO.DGIF_hatcheries_VAlambert,NAME,-1,-1;X_COORD X_COORD true true false 8 Double 5 23 ,First,#,Database Connections\\mortond_appserv_fwisdev_SDE.sde\\sde.DBO.DGIF_hatcheries_VAlambert,X_COORD,-1,-1;Y_COORD Y_COORD true true false 8 Double 5 23 ,First,#,Database Connections\\mortond_appserv_fwisdev_SDE.sde\\sde.DBO.DGIF_hatcheries_VAlambert,Y_COORD,-1,-1\" # G:\\FWIS\\EnviroReview_MapService\\WERMS_shapefiles\\DGIF_hatcheries092001lam.shp"
+            }
+          ]
+        },
+        "itemProps": {
+          "itemLocation": {
+            "linkage": {
+              "-Sync": "TRUE",
+              "#text": "file://\\\\gis\\share\\data\\GISData\\DGIF_properties\\DGIF_hatcheries012012lam.shp"
+            },
+            "protocol": {
+              "-Sync": "TRUE",
+              "#text": "Local Area Network"
+            }
+          },
+          "itemName": {
+            "-Sync": "TRUE",
+            "#text": "DGIF_hatcheries012012lam"
+          },
+          "imsContentType": {
+            "-Sync": "TRUE",
+            "-export": "False",
+            "#text": "002"
+          },
+          "nativeExtBox": {
+            "westBL": {
+              "-Sync": "TRUE",
+              "#text": "-182156.212200"
+            },
+            "eastBL": {
+              "-Sync": "TRUE",
+              "#text": "226208.929800"
+            },
+            "southBL": {
+              "-Sync": "TRUE",
+              "#text": "86279.108200"
+            },
+            "northBL": {
+              "-Sync": "TRUE",
+              "#text": "328100.393500"
+            },
+            "exTypeCode": {
+              "-Sync": "TRUE",
+              "#text": "1"
+            }
+          },
+          "itemSize": {
+            "-Sync": "TRUE",
+            "#text": "0.000"
+          }
+        },
+        "copyHistory": {
+          "copy": {
+            "-source": "K:\\GISData\\DGIF_properties\\DGIF_hatcheries092001lam",
+            "-dest": "\\\\gis\\share\\data\\GISData\\DGIF_properties\\DGIF_hatcheries092001lamCopy",
+            "-date": "20120105",
+            "-time": "12391000"
+          }
+        },
+        "coordRef": {
+          "type": {
+            "-Sync": "TRUE",
+            "#text": "Projected"
+          },
+          "geogcsn": {
+            "-Sync": "TRUE",
+            "#text": "GCS_North_American_1983"
+          },
+          "csUnits": {
+            "-Sync": "TRUE",
+            "#text": "Linear Unit: Meter (1.000000)"
+          },
+          "projcsn": {
+            "-Sync": "TRUE",
+            "#text": "Lambert_Conformal_Conic_Virginia"
+          },
+          "peXml": {
+            "-Sync": "TRUE",
+            "#text": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.0'><WKT>PROJCS[&quot;Lambert_Conformal_Conic_Virginia&quot;,GEOGCS[&quot;GCS_North_American_1983&quot;,DATUM[&quot;D_North_American_1983&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Lambert_Conformal_Conic&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Central_Meridian&quot;,-79.5],PARAMETER[&quot;Standard_Parallel_1&quot;,37.0],PARAMETER[&quot;Standard_Parallel_2&quot;,39.5],PARAMETER[&quot;Latitude_Of_Origin&quot;,36.0],UNIT[&quot;Meter&quot;,1.0]]</WKT><XOrigin>-37232800</XOrigin><YOrigin>-28884600</YOrigin><XYScale>120957855.10008635</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision></ProjectedCoordinateSystem>"
+          }
+        }
+      },
+      "PublishStatus": "Published",
+      "ArcGISFormat": "1.0",
+      "ArcGISProfile": "FGDC"
+    },
+    "idinfo": {
+      "native": {
+        "-Sync": "TRUE",
+        "#text": "Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.4000"
+      },
+      "descript": {
+        "langdata": {
+          "-Sync": "TRUE",
+          "#text": "en"
+        },
+        "abstract": "This dataset contains point locations for Virginia Department of Game and Inland Fisheries' (VDGIF) fish cultural stations. The coverage includes all VDGIF owned hatcheries within Virginia. These point data were compiled by the VDGIF Fish and Wildlife Information Services (FWIS) from the VDGIF Capital Outlay database.",
+        "purpose": "To show the general location of VDGIF owned fish hatcheries at broad spatial scales."
+      },
+      "citation": {
+        "citeinfo": {
+          "pubdate": "Unpublished Material",
+          "title": "DGIF Hatcheries",
+          "ftname": {
+            "-Sync": "TRUE",
+            "#text": "DGIF_hatcheries092001lam"
+          },
+          "geoform": {
+            "-Sync": "TRUE",
+            "#text": "vector digital data"
+          },
+          "onlink": "http://www.dgif.virginia.gov/gis/gis-data.asp",
+          "pubinfo": { "publish": "VA Dept. Of Game and Inland Fisheries" }
+        }
+      },
+      "timeperd": {
+        "current": "publication date",
+        "timeinfo": {
+          "sngdate": { "caldate": "September 10, 2001" }
+        }
+      },
+      "status": {
+        "progress": "Complete",
+        "update": "As needed"
+      },
+      "spdom": {
+        "bounding": {
+          "westbc": {
+            "-Sync": "TRUE",
+            "#text": "-81.601467"
+          },
+          "eastbc": {
+            "-Sync": "TRUE",
+            "#text": "-76.890557"
+          },
+          "northbc": {
+            "-Sync": "TRUE",
+            "#text": "38.956323"
+          },
+          "southbc": {
+            "-Sync": "TRUE",
+            "#text": "36.749400"
+          }
+        },
+        "lboundng": {
+          "leftbc": {
+            "-Sync": "TRUE",
+            "#text": "-182156.212200"
+          },
+          "rightbc": {
+            "-Sync": "TRUE",
+            "#text": "226208.929800"
+          },
+          "bottombc": {
+            "-Sync": "TRUE",
+            "#text": "86279.108200"
+          },
+          "topbc": {
+            "-Sync": "TRUE",
+            "#text": "328100.393500"
+          }
+        }
+      },
+      "keywords": {
+        "theme": {
+          "themekt": "N/A",
+          "themekey": [
+            "structure",
+            "Fish",
+            "fish culture station",
+            "aquaculture",
+            "hatcheries",
+            "recreation"
+          ]
+        },
+        "place": {
+          "placekey": [
+            "Virginia",
+            "USA",
+            "Commonwealth of Virginia"
+          ],
+          "placekt": "none"
+        },
+        "temporal": {
+          "tempkt": "none",
+          "tempkey": "2001"
+        }
+      },
+      "accconst": "These data are available to public or private entities with permission by Virginia Department of Game and Inland Fisheries. ",
+      "useconst": "Neither the VDGIF nor the contributors of data to VDGIF shall be held liable for any improper or incorrect use or application of the data provided, and assume no responsibility for the use or application of the data or information derived from interpretation of the data. In no event shall the VDGIF or its collaborators be liable for any direct, indirect, or incidental damages arising from the use or application of these data. This disclaimer of liability applies to any damages or injury, including but not limited to those caused by any failure of performance, error, omission, defect, delay in operation or transmission, computer virus, alteration, use, application, analysis, or interpretation of data. 
+Use of data in publications, either digital or hardcopy, must be cited as follows:  VDGIF Fish Hatcheries.   2003.   Virginia Department of Game and Inland Fisheries.",
+      "natvform": {
+        "-Sync": "TRUE",
+        "#text": "Shapefile"
+      },
+      "datacred": "VDGIF Fish Hatcheries.   2003.   Virginia Department of Game and Inland Fisheries."
+    },
+    "metainfo": {
+      "langmeta": {
+        "-Sync": "TRUE",
+        "#text": "en"
+      },
+      "metstdn": {
+        "-Sync": "TRUE",
+        "#text": "FGDC Content Standards for Digital Geospatial Metadata"
+      },
+      "metstdv": {
+        "-Sync": "TRUE",
+        "#text": "FGDC-STD-001-1998"
+      },
+      "mettc": {
+        "-Sync": "TRUE",
+        "#text": "local time"
+      },
+      "metd": {
+        "-Sync": "TRUE",
+        "#text": "20110422"
+      }
+    },
+    "spdoinfo": {
+      "direct": {
+        "-Sync": "TRUE",
+        "#text": "Vector"
+      },
+      "ptvctinf": {
+        "esriterm": {
+          "efeatyp": {
+            "-Sync": "TRUE",
+            "#text": "Simple"
+          },
+          "efeageom": {
+            "-code": "1",
+            "-Sync": "TRUE"
+          },
+          "esritopo": {
+            "-Sync": "TRUE",
+            "#text": "FALSE"
+          },
+          "efeacnt": {
+            "-Sync": "TRUE",
+            "#text": "9"
+          },
+          "spindex": {
+            "-Sync": "TRUE",
+            "#text": "FALSE"
+          },
+          "linrefer": {
+            "-Sync": "TRUE",
+            "#text": "FALSE"
+          }
+        }
+      }
+    },
+    "spref": {
+      "horizsys": {
+        "cordsysn": {
+          "geogcsn": {
+            "-Sync": "TRUE",
+            "#text": "GCS_North_American_1983"
+          },
+          "projcsn": {
+            "-Sync": "TRUE",
+            "#text": "Lambert_Conformal_Conic_Virginia"
+          }
+        },
+        "planar": {
+          "planci": {
+            "plance": {
+              "-Sync": "TRUE",
+              "#text": "coordinate pair"
+            },
+            "plandu": {
+              "-Sync": "TRUE",
+              "#text": "meters"
+            },
+            "coordrep": {
+              "absres": {
+                "-Sync": "TRUE",
+                "#text": "0.000000"
+              },
+              "ordres": {
+                "-Sync": "TRUE",
+                "#text": "0.000000"
+              }
+            }
+          }
+        },
+        "geodetic": {
+          "horizdn": {
+            "-Sync": "TRUE",
+            "#text": "North American Datum of 1983"
+          },
+          "ellips": {
+            "-Sync": "TRUE",
+            "#text": "Geodetic Reference System 80"
+          },
+          "semiaxis": {
+            "-Sync": "TRUE",
+            "#text": "6378137.000000"
+          },
+          "denflat": {
+            "-Sync": "TRUE",
+            "#text": "298.257222"
+          }
+        }
+      },
+      "vertdef": {
+        "altsys": {
+          "altenc": {
+            "-Sync": "TRUE",
+            "#text": "Explicit elevation coordinate included with horizontal coordinates"
+          },
+          "altres": {
+            "-Sync": "TRUE",
+            "#text": "1.000000"
+          }
+        }
+      }
+    },
+    "eainfo": {
+      "detailed": {
+        "-Name": "DGIF_hatcheries012012lam",
+        "attr": [
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "X_COORD"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "X_COORD"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Double"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "19"
+            },
+            "attrdef": "UTM 17 easting (meters)",
+            "attrdefs": "ESRI",
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "18"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "5"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "Y_COORD"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "Y_COORD"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Double"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "19"
+            },
+            "attrdef": "UTM 17 northing (meters)",
+            "attrdefs": "ESRI",
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "18"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "5"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "Shape"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "Shape"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Geometry"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attrdef": {
+              "-Sync": "TRUE",
+              "#text": "Feature geometry."
+            },
+            "attrdefs": {
+              "-Sync": "TRUE",
+              "#text": "ESRI"
+            },
+            "attrdomv": {
+              "udom": {
+                "-Sync": "TRUE",
+                "#text": "Coordinates defining the features."
+              }
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "ID"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "ID"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Double"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "10"
+            },
+            "attrdef": "Internal ID number",
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "10"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "NAME"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "NAME"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "String"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "50"
+            },
+            "attrdef": "Name of the hatchery.",
+            "attrdefs": "VDGIF",
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "FID"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "FID"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "OID"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "4"
+            },
+            "attrdef": {
+              "-Sync": "TRUE",
+              "#text": "Internal feature number."
+            },
+            "attrdefs": {
+              "-Sync": "TRUE",
+              "#text": "ESRI"
+            },
+            "attrdomv": {
+              "udom": {
+                "-Sync": "TRUE",
+                "#text": "Sequential unique whole numbers that are automatically generated."
+              }
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "Species"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "Species"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "String"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "150"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "WaterType"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "WaterType"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "String"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "25"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          }
+        ],
+        "enttyp": {
+          "enttypl": {
+            "-Sync": "TRUE",
+            "#text": "DGIF_hatcheries012012lam"
+          },
+          "enttypt": {
+            "-Sync": "TRUE",
+            "#text": "Feature Class"
+          },
+          "enttypc": {
+            "-Sync": "TRUE",
+            "#text": "9"
+          }
+        }
+      }
+    },
+    "distinfo": {
+      "stdorder": {
+        "digform": {
+          "digtinfo": {
+            "transize": {
+              "-Sync": "TRUE",
+              "#text": "0.000"
+            },
+            "dssize": {
+              "-Sync": "TRUE",
+              "#text": "0.000"
+            }
+          }
+        }
+      },
+      "resdesc": {
+        "-Sync": "TRUE",
+        "#text": "Downloadable Data"
+      },
+      "distliab": "The VDGIF provides these data on an as is basis. All warranties of any kind, express or implied, including but not limited to fitness for a particular use, freedom from computer viruses, and non-infringement of proprietary rights are disclaimed. Neither the VDGIF nor the contributors to the VDGIF Fish and Wildlife Information Service (FWIS) shall be held liable for any improper or incorrect use of the information contained herein and assume no responsibility for the use of the information. In no event shall the VDGIF or the contributors to the FWIS be liable for any direct, indirect, or incidental damages arising in any way out of the use of this service. This disclaimer of liability applies to any damages or injury, including but not limited to those caused by any failure of performance, error, omission, defect, delay in operation or transmission, computer virus, alteration or use of record."
+    },
+    "Binary": {
+      "Thumbnail": {
+        "Data": {
+          "-EsriPropertyType": "PictureX",
+          "#text": "/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsK
+CwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQU
+FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9U6KK
+KACiiigAooooAKKKKACiiigAooooAKKKKACiiigAorB8eWfiHUPBWuW3hLULPSfE81nKmm31/AZo
+ILgqQjugIyAcevrhuht+GLfVrTw3pUOvXdtqGtx2sSX13ZwmGGacKBI6RlmKqWyQpJwD1oA06KKK
+ACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA
+KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAo
+oooAKKKKACiiigAooooAKKKKACiiigDjvin4S8SeM/DtrY+F/GNx4I1GLULW6k1G2s4rlpYI5VaW
+DbIMAOoIz27gglT2NFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUU
+UUAFFFFABRRRQBU1aC7utKvIbC6Swv5IXS3upIfOWGQqQrlMjeAcHbkZxjIrE+Gmj+JPD/gHQtO8
+Ya9F4o8T21qkeoaxBaC1S6lHVxGpwvpxjOM4XOB01FABRRRQAUUUUAFFFFABRRRQAVyfxU8Zap8P
+/AOr6/ovhXUfG2p2UavDoWlMi3FyS4UhS5xwCWOMnCnAJwK6yigCK1me4toZZIJLZ3QM0EpUvGSM
+lW2krkdDgkehNFS0UAFFFFABRRRQAUUUUAFcdP4I1eb4sWvi1fGOqRaJDpMmnP4UVIvsUszShxdF
+tu/eANvXpjBA3BuxooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiii
+gAopFcMWAIJU4IB6HGf60tABRRRQAUUUUAFFFFABRRUV0ksltMsEiwzshEcjpvCNjglcjIB7ZGfW
+gCWiuT+FeheKvDXgHSNN8beJIfF3ie3jZbzWbeyWzS4JclT5SkgYUquRjO3OBmusoAKKKKACiiig
+AooooAKKKKACiiigArjtL+Kekat8U9c8AQ2uqprWj6fb6lcXEunypZPFMzqgjnI2MwKHIB9QCSkg
+TsHUOhU5wRjgkH865D4U/Da3+E3gyDw5ba1rfiCKGeef7f4gvmvLtzLK0hDSHGQN2Bx0Hrk0AdhR
+RRQBx/hT4U+HfBfjXxf4r0uC5j1rxXNBPqkst3LKkjQx+XHtjZiqALn7oHX0AA7CiigAooooAKKK
+KACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoooo
+AKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP/2Q=="
+        }
+      }
+    },
+    "dataqual": {
+      "complete": "No warranty, expressed or implied, is made regarding the accuracy, adequacy, completeness, reliability, or usefulness of any data provided. These data are provided on an \"as is\" basis. All warranties of any kind, express or implied, including but not limited to fitness for a particular use, freedom from computer viruses, and non-infringement of proprietary rights, are disclaimed. Data are added and changed periodically, and data may become out-of-date quickly. It is recommended that the user not let a significant period of time elapse between obtaining and using the data. ",
+      "posacc": {
+        "horizpa": { "horizpar": "+/- 100 meters" },
+        "vertacc": {
+          "vertaccr": "Not Applicable 
+"
+        }
+      },
+      "lineage": {
+        "procstep": [
+          { "procdesc": "Fish hatcheries were digitized from known spatial locations using digital topographic maps (1:24,000 DRGs), aerial photography, and employee knowledge." },
+          {
+            "procdesc": {
+              "-Sync": "TRUE",
+              "#text": "Dataset copied."
+            },
+            "srcused": {
+              "-Sync": "TRUE",
+              "#text": "K:\\GISData\\SppObs\\WERMS_shapefiles\\DGIF_hatcheries092001lam"
+            },
+            "date": {
+              "-Sync": "TRUE",
+              "#text": "20080912"
+            },
+            "time": {
+              "-Sync": "TRUE",
+              "#text": "14320100"
+            }
+          }
+        ]
+      }
+    },
+    "dataIdInfo": {
+      "envirDesc": {
+        "-Sync": "TRUE",
+        "#text": "Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcGIS 10.0.4.4000"
+      },
+      "dataLang": {
+        "languageCode": {
+          "-Sync": "TRUE",
+          "-value": "en"
+        },
+        "countryCode": {
+          "-value": "US",
+          "-Sync": "TRUE"
+        }
+      },
+      "idCitation": {
+        "resTitle": {
+          "-Sync": "FALSE",
+          "#text": "DGIF Hatcheries"
+        },
+        "presForm": {
+          "PresFormCd": {
+            "-Sync": "TRUE",
+            "-value": "005"
+          }
+        },
+        "citRespParty": {
+          "rpIndName": "Lenee Pennington",
+          "rpOrgName": "VDGIF",
+          "rpPosName": "Acting GIS Coordinator",
+          "role": {
+            "RoleCd": { "-value": "007" }
+          },
+          "rpCntInfo": {
+            "cntAddress": {
+              "-addressType": "both",
+              "delPoint": "4010 W Broad St",
+              "city": "Richmond",
+              "adminArea": "Va",
+              "postCode": "23230",
+              "eMailAdd": "lenee.pennington@dgif.virginia.gov",
+              "country": "UNITED STATES"
+            },
+            "cntPhone": {
+              "voiceNum": { "#text": "8043670058" }
+            },
+            "cntHours": "8:30-5:00"
+          }
+        }
+      },
+      "spatRpType": {
+        "SpatRepTypCd": {
+          "-Sync": "TRUE",
+          "-value": "001"
+        }
+      },
+      "dataExt": [
+        {
+          "geoEle": {
+            "GeoBndBox": {
+              "-esriExtentType": "native",
+              "westBL": {
+                "-Sync": "TRUE",
+                "#text": "-182156.2122"
+              },
+              "eastBL": {
+                "-Sync": "TRUE",
+                "#text": "226208.9298"
+              },
+              "northBL": {
+                "-Sync": "TRUE",
+                "#text": "328100.3935"
+              },
+              "southBL": {
+                "-Sync": "TRUE",
+                "#text": "86279.1082"
+              },
+              "exTypeCode": {
+                "-Sync": "TRUE",
+                "#text": "1"
+              }
+            }
+          }
+        },
+        {
+          "geoEle": {
+            "GeoBndBox": {
+              "-esriExtentType": "search",
+              "exTypeCode": {
+                "-Sync": "TRUE",
+                "#text": "1"
+              },
+              "westBL": {
+                "-Sync": "TRUE",
+                "#text": "-81.601467"
+              },
+              "eastBL": {
+                "-Sync": "TRUE",
+                "#text": "-76.890557"
+              },
+              "northBL": {
+                "-Sync": "TRUE",
+                "#text": "38.956323"
+              },
+              "southBL": {
+                "-Sync": "TRUE",
+                "#text": "36.749400"
+              }
+            }
+          }
+        }
+      ],
+      "geoBox": {
+        "-esriExtentType": "decdegrees",
+        "westBL": {
+          "-Sync": "TRUE",
+          "#text": "-81.601467"
+        },
+        "eastBL": {
+          "-Sync": "TRUE",
+          "#text": "-76.890557"
+        },
+        "northBL": {
+          "-Sync": "TRUE",
+          "#text": "38.956323"
+        },
+        "southBL": {
+          "-Sync": "TRUE",
+          "#text": "36.7494"
+        },
+        "exTypeCode": {
+          "-Sync": "TRUE",
+          "#text": "1"
+        }
+      },
+      "idPurp": "To show the general location of VDGIF owned fish hatcheries at broad spatial scales.",
+      "idAbs": "<DIV STYLE=\"text-align:Left;\"><DIV><P><SPAN>This dataset contains point locations for Virginia Department of Game and Inland Fisheries' (VDGIF) fish cultural stations. The coverage includes all VDGIF owned hatcheries within Virginia. These point data were compiled by the VDGIF Fish and Wildlife Information Services (FWIS) from the VDGIF Capital Outlay database.</SPAN></P></DIV></DIV>",
+      "searchKeys": {
+        "keyword": [
+          "structure",
+          "Fish",
+          "fish culture station",
+          "aquaculture",
+          "hatcheries",
+          "recreation"
+        ]
+      },
+      "resConst": {
+        "Consts": { "useLimit": "<DIV STYLE=\"text-align:Left;\"><DIV><P><SPAN>Neither the VDGIF nor the contributors of data to VDGIF shall be held liable for any improper or incorrect use or application of the data provided, and assume no responsibility for the use or application of the data or information derived from interpretation of the data. In no event shall the VDGIF or its collaborators be liable for any direct, indirect, or incidental damages arising from the use or application of these data. This disclaimer of liability applies to any damages or injury, including but not limited to those caused by any failure of performance, error, omission, defect, delay in operation or transmission, computer virus, alteration, use, application, analysis, or interpretation of data. Use of data in publications, either digital or hardcopy, must be cited as follows: VDGIF Fish Hatcheries. 2012. Virginia Department of Game and Inland Fisheries.</SPAN></P></DIV></DIV>" }
+      },
+      "dataChar": {
+        "CharSetCd": { "-value": "004" }
+      },
+      "idPoC": {
+        "rpIndName": "Lenee Pennington",
+        "rpOrgName": "VDGIF",
+        "rpPosName": "Acting GIS Coordinator",
+        "role": {
+          "RoleCd": { "-value": "001" }
+        },
+        "rpCntInfo": {
+          "cntAddress": {
+            "-addressType": "both",
+            "delPoint": "4010 W Broad St",
+            "city": "Richmond",
+            "adminArea": "Va",
+            "postCode": "23230",
+            "eMailAdd": "lenee.pennington@dgif.virginia.gov",
+            "country": "UNITED STATES"
+          },
+          "cntPhone": {
+            "voiceNum": { "#text": "8043670058" }
+          },
+          "cntHours": "8:30-5:00"
+        }
+      },
+      "resMaint": {
+        "maintFreq": {
+          "MaintFreqCd": { "-value": "009" }
+        }
+      },
+      "tpCat": {
+        "TopicCatCd": { "-value": "002" }
+      }
+    },
+    "mdLang": {
+      "languageCode": {
+        "-Sync": "TRUE",
+        "-value": "en"
+      },
+      "countryCode": {
+        "-value": "US",
+        "-Sync": "TRUE"
+      }
+    },
+    "mdStanName": {
+      "-Sync": "TRUE",
+      "#text": "ISO 19115 Geographic Information - Metadata"
+    },
+    "mdStanVer": {
+      "-Sync": "TRUE",
+      "#text": "DIS_ESRI1.0"
+    },
+    "mdChar": {
+      "CharSetCd": {
+        "-Sync": "TRUE",
+        "-value": "004"
+      }
+    },
+    "mdHrLv": {
+      "ScopeCd": {
+        "-Sync": "TRUE",
+        "-value": "005"
+      }
+    },
+    "mdHrLvName": {
+      "-Sync": "TRUE",
+      "#text": "dataset"
+    },
+    "distInfo": {
+      "distributor": {
+        "distorTran": {
+          "onLineSrc": {
+            "orDesc": {
+              "-Sync": "TRUE",
+              "#text": "002"
+            },
+            "linkage": {
+              "-Sync": "TRUE",
+              "#text": "file://\\\\GIS\\Share\\Data\\GISData\\DGIF_properties\\DGIF_hatcheries092001lam.shp"
+            },
+            "protocol": {
+              "-Sync": "TRUE",
+              "#text": "Local Area Network"
+            }
+          },
+          "transSize": {
+            "-Sync": "TRUE",
+            "#text": "0.000"
+          }
+        },
+        "distorFormat": {
+          "formatName": {
+            "-Sync": "TRUE",
+            "#text": "Shapefile"
+          }
+        }
+      },
+      "distFormat": {
+        "formatName": {
+          "-Sync": "TRUE",
+          "#text": "Shapefile"
+        }
+      },
+      "distTranOps": {
+        "transSize": {
+          "-Sync": "TRUE",
+          "#text": "0.000"
+        }
+      }
+    },
+    "refSysInfo": {
+      "RefSystem": {
+        "refSysID": {
+          "identCode": {
+            "-Sync": "TRUE",
+            "-value": "0",
+            "#text": "Lambert_Conformal_Conic_Virginia"
+          }
+        }
+      }
+    },
+    "spatRepInfo": {
+      "VectSpatRep": {
+        "geometObjs": {
+          "-Name": "DGIF_hatcheries012012lam",
+          "geoObjTyp": {
+            "GeoObjTypCd": {
+              "-value": "004",
+              "-Sync": "TRUE"
+            }
+          },
+          "geoObjCnt": {
+            "-Sync": "TRUE",
+            "#text": "9"
+          }
+        },
+        "topLvl": {
+          "TopoLevCd": {
+            "-value": "001",
+            "-Sync": "TRUE"
+          }
+        }
+      }
+    },
+    "mdDateSt": {
+      "-Sync": "TRUE",
+      "#text": "20120706"
+    },
+    "mdFileID": {
+      "-Sync": "TRUE",
+      "#text": "{342855E2-7121-45AF-BE80-476F5B2D2B8A}"
+    },
+    "mdContact": {
+      "rpIndName": "Justin Ray",
+      "rpOrgName": "VDGIF",
+      "rpPosName": "GIS Database and Applications Specialist",
+      "role": {
+        "RoleCd": { "-value": "011" }
+      },
+      "rpCntInfo": {
+        "cntAddress": {
+          "-addressType": "both",
+          "delPoint": "4010 W Broad St",
+          "city": "Richmond",
+          "adminArea": "Va",
+          "postCode": "23230",
+          "eMailAdd": "justin.ray@dgif.virginia.gov",
+          "country": "UNITED STATES"
+        },
+        "cntPhone": {
+          "voiceNum": { "#text": "8043674370" }
+        },
+        "cntHours": "8:30-4:30"
+      }
+    },
+    "mdMaint": {
+      "maintFreq": {
+        "MaintFreqCd": { "-value": "009" }
+      }
+    },
+    "dqInfo": {
+      "dqScope": {
+        "scpLvl": {
+          "ScopeCd": { "-value": "005" }
+        }
+      }
+    }
+  }
+}

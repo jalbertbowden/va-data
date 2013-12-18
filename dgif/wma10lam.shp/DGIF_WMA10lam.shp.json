@@ -1,0 +1,1258 @@
+{
+  "metadata": {
+    "idinfo": {
+      "citation": {
+        "citeinfo": {
+          "origin": "Virginia Department of Game and Inland Fisheries",
+          "pubdate": "Unpublished Material",
+          "title": "DGIF Wildlife Management Areas",
+          "geoform": {
+            "-Sync": "TRUE",
+            "#text": "vector digital data"
+          },
+          "pubinfo": {
+            "pubplace": "Richmond, VA",
+            "publish": "Virginia Department of Game and Inland Fisheries"
+          },
+          "ftname": {
+            "-Sync": "TRUE",
+            "#text": "DGIF_WMA10lam"
+          },
+          "onlink": "http://www.dgif.virginia.gov/gis/gis-data.asp"
+        }
+      },
+      "descript": {
+        "abstract": "This dataset contains boundary information for Virginia Department of Game and Inland Fisheries' (VDGIF) Wildlife Management Areas (WMA). The coverage includes all WMAs within Virginia. These data are formatted as an ArcView shapefile compiled by the VDGIF Fish and Wildlife Information Services (FWIS) from the VDGIF Capital Outlay database. These data are presented as polygons of each site boundary.",
+        "purpose": "This dataset shows boundary location of Virginia Department of Game and Inland Fisheries' Wildlife Management Areas.",
+        "langdata": {
+          "-Sync": "TRUE",
+          "#text": "en"
+        }
+      },
+      "timeperd": {
+        "timeinfo": {
+          "sngdate": { "caldate": "11/7/2011" }
+        },
+        "current": "publication date"
+      },
+      "status": {
+        "progress": "Complete",
+        "update": "As needed"
+      },
+      "spdom": {
+        "bounding": {
+          "westbc": {
+            "-Sync": "TRUE",
+            "#text": "-82.188338"
+          },
+          "eastbc": {
+            "-Sync": "TRUE",
+            "#text": "-75.575384"
+          },
+          "northbc": {
+            "-Sync": "TRUE",
+            "#text": "39.201007"
+          },
+          "southbc": {
+            "-Sync": "TRUE",
+            "#text": "36.530231"
+          }
+        },
+        "lboundng": {
+          "leftbc": {
+            "-Sync": "TRUE",
+            "#text": "-232262.753502"
+          },
+          "rightbc": {
+            "-Sync": "TRUE",
+            "#text": "339180.691379"
+          },
+          "bottombc": {
+            "-Sync": "TRUE",
+            "#text": "65799.966492"
+          },
+          "topbc": {
+            "-Sync": "TRUE",
+            "#text": "355260.914039"
+          }
+        }
+      },
+      "keywords": {
+        "theme": {
+          "themekt": "N/A",
+          "themekey": [
+            "boundaries",
+            "Management Areas",
+            "recreation",
+            "public lands",
+            "hunting",
+            "fishing",
+            "Wildlife management",
+            "recreation",
+            "Wildlife"
+          ]
+        },
+        "place": {
+          "placekey": [
+            "Virginia",
+            "USA",
+            "Commonwealth of Virginia"
+          ]
+        }
+      },
+      "accconst": "These data are available to public or private entities with permission by Virginia Department of Game and Inland Fisheries.",
+      "useconst": "Neither the VDGIF nor the contributors of data to VDGIF shall be held liable for any improper or incorrect use or application of the data provided, and assume no responsibility for the use or application of the data or information derived from interpretation of the data. In no event shall the VDGIF or its collaborators be liable for any direct, indirect, or incidental damages arising from the use or application of these data. This disclaimer of liability applies to any damages or injury, including but not limited to those caused by any failure of performance, error, omission, defect, delay in operation or transmission, computer virus, alteration, use, application, analysis, or interpretation of data. 
+
+Data are available by permission of the Virginia Department of Game and Inland Fisheries.  Use of data in publications, either digital or hardcopy, must be cited as follows:  DGIF_WMA10lam.   2011.   Virginia Department of Game and Inland Fisheries.",
+      "native": {
+        "-Sync": "TRUE",
+        "#text": "Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.4000"
+      },
+      "natvform": {
+        "-Sync": "TRUE",
+        "#text": "Shapefile"
+      }
+    },
+    "dataqual": {
+      "logic": "The boundaries of each wildlife management area are defined to the best of our current knowledge.  Exact boundary definition is not known for some areas of some WMAs.",
+      "complete": "No warranty, expressed or implied, is made regarding the accuracy, adequacy, completeness, reliability, or usefulness of any data provided. These data are provided on an \"as is\" basis. All warranties of any kind, express or implied, including but not limited to fitness for a particular use, freedom from computer viruses, and non-infringement of proprietary rights, are disclaimed. Data are added and changed periodically, and data may become out-of-date quickly. It is recommended that the user not let a significant period of time elapse between obtaining and using the data. ",
+      "posacc": {
+        "horizpa": {
+          "qhorizpa": { "horizpav": "+/- 50 meters" }
+        },
+        "vertacc": { "vertaccr": "Not Applicable" }
+      },
+      "lineage": {
+        "srcinfo": {
+          "srcscale": "24000",
+          "typesrc": "paper"
+        },
+        "procstep": [
+          { "procdesc": "Boundary information was gathered from multiple sources as deemed necessary.  Ground survey information was used where available.  Most boundaries were drawn on 1:24000 scale USGS topographic maps according to the best available information.  The boundaries were then digitized from these paper maps.  Newer WMAs were on-screen digitized using USGS Digital Raster Graphics or from actual survey data." },
+          {
+            "procdesc": {
+              "-Sync": "TRUE",
+              "#text": "Dataset copied."
+            },
+            "srcused": {
+              "-Sync": "TRUE",
+              "#text": "K:\\GISData\\DGIF_properties\\DGIF_WMA09lam"
+            },
+            "procdate": {
+              "-Sync": "TRUE",
+              "#text": "20111005"
+            },
+            "proctime": {
+              "-Sync": "TRUE",
+              "#text": "15370600"
+            }
+          }
+        ]
+      }
+    },
+    "spdoinfo": {
+      "direct": {
+        "-Sync": "TRUE",
+        "#text": "Vector"
+      },
+      "ptvctinf": {
+        "esriterm": {
+          "-Name": "DGIF_WMA10lam",
+          "efeatyp": {
+            "-Sync": "TRUE",
+            "#text": "Simple"
+          },
+          "efeageom": {
+            "-code": "4",
+            "-Sync": "TRUE",
+            "#text": "Polygon"
+          },
+          "esritopo": {
+            "-Sync": "TRUE",
+            "#text": "FALSE"
+          },
+          "efeacnt": {
+            "-Sync": "TRUE",
+            "#text": "102"
+          },
+          "spindex": {
+            "-Sync": "TRUE",
+            "#text": "FALSE"
+          },
+          "linrefer": {
+            "-Sync": "TRUE",
+            "#text": "FALSE"
+          }
+        },
+        "sdtsterm": {
+          "-Name": "DGIF_WMA10lam",
+          "sdtstype": {
+            "-Sync": "TRUE",
+            "#text": "G-polygon"
+          },
+          "ptvctcnt": {
+            "-Sync": "TRUE",
+            "#text": "102"
+          }
+        }
+      }
+    },
+    "spref": {
+      "horizsys": {
+        "planar": {
+          "planci": {
+            "plance": {
+              "-Sync": "TRUE",
+              "#text": "coordinate pair"
+            },
+            "coordrep": {
+              "absres": {
+                "-Sync": "TRUE",
+                "#text": "0.000000"
+              },
+              "ordres": {
+                "-Sync": "TRUE",
+                "#text": "0.000000"
+              }
+            },
+            "plandu": {
+              "-Sync": "TRUE",
+              "#text": "meters"
+            }
+          },
+          "mapproj": {
+            "mapprojn": {
+              "-Sync": "TRUE",
+              "#text": "Lambert Conformal Conic"
+            },
+            "lambertc": {
+              "stdparll": [
+                {
+                  "-Sync": "TRUE",
+                  "#text": "37.000000"
+                },
+                {
+                  "-Sync": "TRUE",
+                  "#text": "39.500000"
+                }
+              ],
+              "longcm": {
+                "-Sync": "TRUE",
+                "#text": "-79.500000"
+              },
+              "latprjo": {
+                "-Sync": "TRUE",
+                "#text": "36.000000"
+              },
+              "feast": {
+                "-Sync": "TRUE",
+                "#text": "0.000000"
+              },
+              "fnorth": {
+                "-Sync": "TRUE",
+                "#text": "0.000000"
+              }
+            }
+          }
+        },
+        "geodetic": {
+          "horizdn": {
+            "-Sync": "TRUE",
+            "#text": "North American Datum of 1983"
+          },
+          "ellips": {
+            "-Sync": "TRUE",
+            "#text": "Geodetic Reference System 80"
+          },
+          "semiaxis": {
+            "-Sync": "TRUE",
+            "#text": "6378137.000000"
+          },
+          "denflat": {
+            "-Sync": "TRUE",
+            "#text": "298.257222"
+          }
+        },
+        "cordsysn": {
+          "geogcsn": {
+            "-Sync": "TRUE",
+            "#text": "GCS_North_American_1983"
+          },
+          "projcsn": {
+            "-Sync": "TRUE",
+            "#text": "Lambert_Conformal_Conic_Virginia"
+          }
+        }
+      }
+    },
+    "eainfo": {
+      "detailed": {
+        "-Name": "DGIF_WMA10lam",
+        "enttyp": {
+          "enttypl": {
+            "-Sync": "TRUE",
+            "#text": "DGIF_WMA10lam"
+          },
+          "enttypt": {
+            "-Sync": "TRUE",
+            "#text": "Feature Class"
+          },
+          "enttypc": {
+            "-Sync": "TRUE",
+            "#text": "102"
+          }
+        },
+        "attr": [
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "FID"
+            },
+            "attrdef": {
+              "-Sync": "TRUE",
+              "#text": "Internal feature number."
+            },
+            "attrdefs": {
+              "-Sync": "TRUE",
+              "#text": "ESRI"
+            },
+            "attrdomv": {
+              "udom": {
+                "-Sync": "TRUE",
+                "#text": "Sequential unique whole numbers that are automatically generated."
+              }
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "FID"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "OID"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "4"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "Shape"
+            },
+            "attrdef": {
+              "-Sync": "TRUE",
+              "#text": "Feature geometry."
+            },
+            "attrdefs": {
+              "-Sync": "TRUE",
+              "#text": "ESRI"
+            },
+            "attrdomv": {
+              "udom": {
+                "-Sync": "TRUE",
+                "#text": "Coordinates defining the features."
+              }
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "Shape"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Geometry"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "AREA"
+            },
+            "attrdef": "area in square meters",
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "AREA"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Number"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "19"
+            },
+            "atnumdec": {
+              "-Sync": "TRUE",
+              "#text": "3"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "PERIMETER"
+            },
+            "attrdef": "perimeter of polygon in meters",
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "PERIMETER"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Number"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "19"
+            },
+            "atnumdec": {
+              "-Sync": "TRUE",
+              "#text": "6"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "WMA_NAME"
+            },
+            "attrdef": "Name of Wildlife Management Area",
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "WMA_NAME"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "String"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "40"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "HECTARES"
+            },
+            "attrdef": "area in hectares",
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "HECTARES"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Number"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "19"
+            },
+            "atnumdec": {
+              "-Sync": "TRUE",
+              "#text": "3"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "ACRES"
+            },
+            "attrdef": "area in acres",
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "ACRES"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Number"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "19"
+            },
+            "atnumdec": {
+              "-Sync": "TRUE",
+              "#text": "3"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "area_m2"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "area_m2"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Number"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "9"
+            },
+            "attrdef": "calculated GIS area in square meters"
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "Origin"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "Origin"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "String"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "50"
+            },
+            "attrdef": "Where the WMA boundary File was Obtained From"
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "DateAdded"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "DateAdded"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Date"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "8"
+            },
+            "attrdef": "Date boundary was added to database",
+            "attrdefs": "VDGIF"
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "Number"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "Number"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Number"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "4"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "X"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "X"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Number"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "9"
+            },
+            "attrdef": " X centroid in UTM zone17 NAD83 meters"
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "Y"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "Y"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Number"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "9"
+            },
+            "attrdef": "Y Centroid in UTM zone17 NAD83 meters"
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "Date_Aquir"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "Date_Aquir"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "String"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "15"
+            },
+            "attrdef": "Date Property was Aquired"
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "URL"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "URL"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "String"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "150"
+            },
+            "attrdef": "Website link."
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "Region"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "Region"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Number"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "4"
+            },
+            "attrdef": "DGIF Region in which the WMA is within."
+          }
+        ]
+      }
+    },
+    "distinfo": {
+      "distliab": "The VDGIF provides these data on an as is basis. All warranties of any kind, express or implied, including but not limited to fitness for a particular use, freedom from computer viruses, and non-infringement of proprietary rights are disclaimed. Neither the VDGIF nor the contributors to the VDGIF Fish and Wildlife Information Service (FWIS) shall be held liable for any improper or incorrect use of the information contained herein and assume no responsibility for the use of the information. In no event shall the VDGIF or the contributors to the FWIS be liable for any direct, indirect, or incidental damages arising in any way out of the use of this service. This disclaimer of liability applies to any damages or injury, including but not limited to those caused by any failure of performance, error, omission, defect, delay in operation or transmission, computer virus, alteration or use of record.",
+      "stdorder": {
+        "digform": {
+          "digtinfo": {
+            "transize": "0.392",
+            "dssize": {
+              "-Sync": "TRUE",
+              "#text": "0.350"
+            }
+          }
+        }
+      },
+      "resdesc": {
+        "-Sync": "TRUE",
+        "#text": "Downloadable Data"
+      }
+    },
+    "metainfo": {
+      "metd": {
+        "-Sync": "TRUE",
+        "#text": "20120705"
+      },
+      "metstdn": {
+        "-Sync": "TRUE",
+        "#text": "FGDC Content Standards for Digital Geospatial Metadata"
+      },
+      "metstdv": {
+        "-Sync": "TRUE",
+        "#text": "FGDC-STD-001-1998"
+      },
+      "mettc": {
+        "-Sync": "TRUE",
+        "#text": "local time"
+      },
+      "metextns": [
+        { "metprof": "ESRI Metadata Profile" },
+        {
+          "onlink": "http://www.esri.com/metadata/esriprof80.html",
+          "metprof": "ESRI Metadata Profile"
+        },
+        {
+          "onlink": {
+            "-Sync": "TRUE",
+            "#text": "http://www.esri.com/metadata/esriprof80.html"
+          },
+          "metprof": {
+            "-Sync": "TRUE",
+            "#text": "ESRI Metadata Profile"
+          }
+        }
+      ],
+      "langmeta": {
+        "-Sync": "TRUE",
+        "#text": "en"
+      }
+    },
+    "Esri": {
+      "CreaDate": "20111107",
+      "CreaTime": "12155800",
+      "SyncOnce": "FALSE",
+      "SyncDate": "20120705",
+      "SyncTime": "15145700",
+      "ModDate": "20120705",
+      "ModTime": "15145700",
+      "PublishStatus": "Published",
+      "MetaID": "{2847E183-DFDE-4FF7-9D17-02721580ADE1}",
+      "ArcGISFormat": "1.0",
+      "PublishedDocID": "{625F74DC-B440-4E41-82F8-DEC74A373FA9}",
+      "DataProperties": {
+        "itemProps": {
+          "itemName": {
+            "-Sync": "TRUE",
+            "#text": "DGIF_WMA10lam"
+          },
+          "imsContentType": {
+            "-Sync": "TRUE",
+            "-export": "False",
+            "#text": "002"
+          },
+          "nativeExtBox": {
+            "westBL": {
+              "-Sync": "TRUE",
+              "#text": "-232262.753502"
+            },
+            "eastBL": {
+              "-Sync": "TRUE",
+              "#text": "339180.691379"
+            },
+            "southBL": {
+              "-Sync": "TRUE",
+              "#text": "65799.966492"
+            },
+            "northBL": {
+              "-Sync": "TRUE",
+              "#text": "355260.914039"
+            },
+            "exTypeCode": {
+              "-Sync": "TRUE",
+              "#text": "1"
+            }
+          },
+          "itemSize": {
+            "-Sync": "TRUE",
+            "#text": "0.350"
+          },
+          "itemLocation": {
+            "linkage": {
+              "-Sync": "TRUE",
+              "#text": "file://\\\\gis\\share\\data\\GISData\\DGIF_properties\\DGIF_WMA10lam.shp"
+            },
+            "protocol": {
+              "-Sync": "TRUE",
+              "#text": "Local Area Network"
+            }
+          }
+        },
+        "coordRef": {
+          "type": {
+            "-Sync": "TRUE",
+            "#text": "Projected"
+          },
+          "geogcsn": {
+            "-Sync": "TRUE",
+            "#text": "GCS_North_American_1983"
+          },
+          "csUnits": {
+            "-Sync": "TRUE",
+            "#text": "Linear Unit: Meter (1.000000)"
+          },
+          "projcsn": {
+            "-Sync": "TRUE",
+            "#text": "Lambert_Conformal_Conic_Virginia"
+          },
+          "peXml": {
+            "-Sync": "TRUE",
+            "#text": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.0'><WKT>PROJCS[&quot;Lambert_Conformal_Conic_Virginia&quot;,GEOGCS[&quot;GCS_North_American_1983&quot;,DATUM[&quot;D_North_American_1983&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Lambert_Conformal_Conic&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Central_Meridian&quot;,-79.5],PARAMETER[&quot;Standard_Parallel_1&quot;,37.0],PARAMETER[&quot;Standard_Parallel_2&quot;,39.5],PARAMETER[&quot;Latitude_Of_Origin&quot;,36.0],UNIT[&quot;Meter&quot;,1.0]]</WKT><XOrigin>-37232800</XOrigin><YOrigin>-28884600</YOrigin><XYScale>120957855.10008635</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision></ProjectedCoordinateSystem>"
+          }
+        }
+      },
+      "ArcGISProfile": "FGDC"
+    },
+    "dataIdInfo": {
+      "envirDesc": {
+        "-Sync": "TRUE",
+        "#text": "Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.4000"
+      },
+      "dataLang": {
+        "languageCode": {
+          "-Sync": "TRUE",
+          "-value": "en"
+        },
+        "countryCode": {
+          "-value": "US",
+          "-Sync": "TRUE"
+        }
+      },
+      "idCitation": {
+        "resTitle": {
+          "-Sync": "FALSE",
+          "#text": "DGIF Wildlife Management Areas"
+        },
+        "presForm": {
+          "PresFormCd": {
+            "-Sync": "TRUE",
+            "-value": "005"
+          }
+        },
+        "resAltTitle": "DGIF WMAs",
+        "citRespParty": {
+          "rpIndName": "Lenee Pennington",
+          "rpOrgName": "VDGIF",
+          "rpPosName": "Acting GIS Coordinator",
+          "role": {
+            "RoleCd": { "-value": "007" }
+          },
+          "rpCntInfo": {
+            "cntAddress": {
+              "-addressType": "both",
+              "delPoint": "4010 W Broad St",
+              "city": "Richmond",
+              "adminArea": "Va",
+              "postCode": "23230",
+              "eMailAdd": "lenee.pennington@dgif.virginia.gov",
+              "country": "UNITED STATES"
+            },
+            "cntPhone": {
+              "voiceNum": { "#text": "8043670058" }
+            },
+            "cntHours": "8:30-5:00"
+          }
+        }
+      },
+      "spatRpType": {
+        "SpatRepTypCd": {
+          "-Sync": "TRUE",
+          "-value": "001"
+        }
+      },
+      "dataExt": [
+        {
+          "geoEle": {
+            "GeoBndBox": {
+              "-esriExtentType": "native",
+              "westBL": {
+                "-Sync": "TRUE",
+                "#text": "-232262.753502"
+              },
+              "eastBL": {
+                "-Sync": "TRUE",
+                "#text": "339180.691379"
+              },
+              "northBL": {
+                "-Sync": "TRUE",
+                "#text": "355260.914039"
+              },
+              "southBL": {
+                "-Sync": "TRUE",
+                "#text": "65799.966492"
+              },
+              "exTypeCode": {
+                "-Sync": "TRUE",
+                "#text": "1"
+              }
+            }
+          }
+        },
+        {
+          "geoEle": {
+            "GeoBndBox": {
+              "-esriExtentType": "search",
+              "exTypeCode": {
+                "-Sync": "TRUE",
+                "#text": "1"
+              },
+              "westBL": {
+                "-Sync": "TRUE",
+                "#text": "-82.188338"
+              },
+              "eastBL": {
+                "-Sync": "TRUE",
+                "#text": "-75.575384"
+              },
+              "northBL": {
+                "-Sync": "TRUE",
+                "#text": "39.201007"
+              },
+              "southBL": {
+                "-Sync": "TRUE",
+                "#text": "36.530231"
+              }
+            }
+          }
+        }
+      ],
+      "geoBox": {
+        "-esriExtentType": "decdegrees",
+        "westBL": {
+          "-Sync": "TRUE",
+          "#text": "-82.188338"
+        },
+        "eastBL": {
+          "-Sync": "TRUE",
+          "#text": "-75.575384"
+        },
+        "northBL": {
+          "-Sync": "TRUE",
+          "#text": "39.201007"
+        },
+        "southBL": {
+          "-Sync": "TRUE",
+          "#text": "36.530231"
+        },
+        "exTypeCode": {
+          "-Sync": "TRUE",
+          "#text": "1"
+        }
+      },
+      "idPurp": "This dataset shows boundary location of Virginia Department of Game and Inland Fisheries' Wildlife Management Areas.",
+      "idAbs": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>This dataset contains boundary information for Virginia Department of Game and Inland Fisheries' (VDGIF) Wildlife Management Areas (WMA). The coverage includes all WMAs within Virginia. These data are formatted as an ArcView shapefile compiled by the VDGIF Fish and Wildlife Information Services (FWIS) from the VDGIF Capital Outlay database. These data are presented as polygons of each site boundary.</SPAN></P></DIV></DIV></DIV>",
+      "searchKeys": {
+        "keyword": [
+          "boundaries",
+          "Management Areas",
+          "recreation",
+          "public lands",
+          "hunting",
+          "fishing",
+          "Wildlife management",
+          "recreation",
+          "Wildlife"
+        ]
+      },
+      "resConst": {
+        "Consts": { "useLimit": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Neither the VDGIF nor the contributors of data to VDGIF shall be held liable for any improper or incorrect use or application of the data provided, and assume no responsibility for the use or application of the data or information derived from interpretation of the data. In no event shall the VDGIF or its collaborators be liable for any direct, indirect, or incidental damages arising from the use or application of these data. This disclaimer of liability applies to any damages or injury, including but not limited to those caused by any failure of performance, error, omission, defect, delay in operation or transmission, computer virus, alteration, use, application, analysis, or interpretation of data. Data are available by permission of the Virginia Department of Game and Inland Fisheries. Use of data in publications, either digital or hardcopy, must be cited as follows: DGIF WMAs. 2012. Virginia Department of Game and Inland Fisheries.</SPAN></P></DIV></DIV></DIV>" }
+      },
+      "dataChar": {
+        "CharSetCd": { "-value": "004" }
+      },
+      "idPoC": [
+        {
+          "rpIndName": "Lenee Pennington",
+          "rpOrgName": "Virginia Department of Game and Inland Fisheries",
+          "rpPosName": "Acting GIS Coordinator",
+          "role": {
+            "RoleCd": { "-value": "001" }
+          },
+          "rpCntInfo": {
+            "cntAddress": {
+              "-addressType": "both",
+              "delPoint": "4010 W Broad St",
+              "city": "Richmond",
+              "adminArea": "Virginia",
+              "postCode": "23230",
+              "eMailAdd": "lenee.pennington@dgif.virginia.gov",
+              "country": "UNITED STATES"
+            },
+            "cntPhone": {
+              "voiceNum": { "#text": "8043670058" }
+            },
+            "cntHours": "8:30-5:00"
+          }
+        },
+        {
+          "-Sync": "TRUE",
+          "rpIndName": {
+            "-Sync": "TRUE",
+            "#text": "Lenee Pennington"
+          },
+          "rpOrgName": {
+            "-Sync": "TRUE",
+            "#text": "VDGIF"
+          },
+          "rpPosName": {
+            "-Sync": "TRUE",
+            "#text": "Acting GIS Coordinator"
+          },
+          "rpCntInfo": {
+            "cntPhone": {
+              "voiceNum": {
+                "-Sync": "TRUE",
+                "#text": "8043670058"
+              }
+            },
+            "cntAddress": {
+              "delPoint": {
+                "-Sync": "TRUE",
+                "#text": "4010 W Broad St"
+              },
+              "city": {
+                "-Sync": "TRUE",
+                "#text": "Richmond"
+              },
+              "adminArea": {
+                "-Sync": "TRUE",
+                "#text": "Va"
+              },
+              "postCode": {
+                "-Sync": "TRUE",
+                "#text": "23230"
+              },
+              "country": {
+                "-Sync": "TRUE",
+                "#text": "UNITED STATES"
+              },
+              "eMailAdd": {
+                "-Sync": "TRUE",
+                "#text": "lenee.pennington@dgif.virginia.gov"
+              }
+            },
+            "cntHours": {
+              "-Sync": "TRUE",
+              "#text": "8:30-5:00"
+            }
+          },
+          "role": {
+            "RoleCd": {
+              "-Sync": "TRUE",
+              "-value": "007"
+            }
+          }
+        }
+      ],
+      "resMaint": {
+        "maintFreq": {
+          "MaintFreqCd": { "-value": "009" }
+        }
+      },
+      "tpCat": {
+        "TopicCatCd": { "-value": "003" }
+      }
+    },
+    "mdLang": {
+      "languageCode": {
+        "-Sync": "TRUE",
+        "-value": "en"
+      },
+      "countryCode": {
+        "-value": "US",
+        "-Sync": "TRUE"
+      }
+    },
+    "mdStanName": {
+      "-Sync": "TRUE",
+      "#text": "ISO 19115 Geographic Information - Metadata"
+    },
+    "mdStanVer": {
+      "-Sync": "TRUE",
+      "#text": "DIS_ESRI1.0"
+    },
+    "mdChar": {
+      "CharSetCd": {
+        "-Sync": "TRUE",
+        "-value": "004"
+      }
+    },
+    "mdHrLv": {
+      "ScopeCd": {
+        "-Sync": "TRUE",
+        "-value": "005"
+      }
+    },
+    "mdHrLvName": {
+      "-Sync": "TRUE",
+      "#text": "dataset"
+    },
+    "distInfo": {
+      "distributor": {
+        "distorTran": {
+          "onLineSrc": {
+            "orDesc": {
+              "-Sync": "TRUE",
+              "#text": "002"
+            },
+            "linkage": {
+              "-Sync": "TRUE",
+              "#text": "file://\\\\GIS\\Share\\Data\\GISData\\DGIF_properties\\DGIF_WMA10lam.shp"
+            },
+            "protocol": {
+              "-Sync": "TRUE",
+              "#text": "Local Area Network"
+            }
+          },
+          "transSize": {
+            "-Sync": "TRUE",
+            "#text": "0.350"
+          }
+        },
+        "distorFormat": {
+          "formatName": {
+            "-Sync": "TRUE",
+            "#text": "Shapefile"
+          }
+        }
+      },
+      "distFormat": {
+        "formatName": {
+          "-Sync": "TRUE",
+          "#text": "Shapefile"
+        }
+      },
+      "distTranOps": {
+        "transSize": {
+          "-Sync": "TRUE",
+          "#text": "0.350"
+        }
+      }
+    },
+    "refSysInfo": {
+      "RefSystem": {
+        "refSysID": {
+          "identCode": {
+            "-Sync": "TRUE",
+            "-value": "0",
+            "#text": "Lambert_Conformal_Conic_Virginia"
+          }
+        }
+      }
+    },
+    "spatRepInfo": {
+      "VectSpatRep": {
+        "topLvl": {
+          "TopoLevCd": {
+            "-value": "001",
+            "-Sync": "TRUE"
+          }
+        },
+        "geometObjs": {
+          "-Name": "DGIF_WMA10lam",
+          "geoObjTyp": {
+            "GeoObjTypCd": {
+              "-Sync": "TRUE",
+              "-value": "001"
+            }
+          },
+          "geoObjCnt": {
+            "-Sync": "TRUE",
+            "#text": "102"
+          }
+        }
+      }
+    },
+    "mdDateSt": {
+      "-Sync": "TRUE",
+      "#text": "20120705"
+    },
+    "mdFileID": {
+      "-Sync": "TRUE",
+      "#text": "{625F74DC-B440-4E41-82F8-DEC74A373FA9}"
+    },
+    "Binary": {
+      "Thumbnail": {
+        "Data": {
+          "-EsriPropertyType": "PictureX",
+          "#text": "/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKQZxyAPoaWoTLL9tEQhPk+WWMueN2QAv5ZP5UATUUUUAFFFFA
+BRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRR0oAKKrWV7FfwmWHJj3EK3Zx6
+j26/lVmgBCwBAJ5PSlqFblTePbFHV1XeCcYYe3Pb3qUKFGFAAznigBaKKKACiiigAooooAKKKKAC
+iiigAooooAKKKKACiiigAoqnqWoJp1qJX5LOEUc8k/T2B+tXAcjNAGbolxJc6f5ksxlbew3fw/8A
+ATgZHvzznnitKq93dLZwbypZmYIiDgux6Cm2EEsELmZ90srmRvRSf4R7DpSAtUyWMSxtGxYBhglW
+IP4EdKfRTAigtobWMxwRqiFmcgerHJP5mpaKKACiio5jMNnkhD8437j/AA98e9ACrKjKpDDDHC54
+yfT9D+VPpCqsQSAcHIyOhpaACiiigAoopjzRRsivIqs5wgJ5Y+1AD6KKKACiiigAooooAKKKKACi
+iigBCoYYYAjOeaGOFJwTgdB3paZN5hgkEJUS7TsLjIDY4z7UAU4dLhS9F67PJNghTJjKg/Qc9SPY
+VfqG0g+zWyRFy7DJdz/ExOSfbJJ47VNSSS2AKKKiVhBHGkswZz8oZyAXP+NMB0cscyb4pFdMkblO
+RkHB/UEU+gADoKhmuY4JIUcNmZ9i4XIBwTz+VAE1FFFABRRRQAUUUUAFQXNpBdiMTRq3luJEJGcE
+Gp6KACiiigAooooAKKKKACiiigAooooAgt7qO63mMPtU43MuA30qeiigAooooAKrXCs91aqbRJog
+xcyMRmFgPlIB65yRkdKs0jbtp243Y4z0zQAtNkQSRshLAMCMqcEfQjpTLcTi2j+0lDPtHmGMHbu7
+4z2qWgBsSeVEkYZm2qF3Mck47k9zTqKKAEJABJ6CqyXIju0s2M0jshlErKNuM9MjHP4dBVqigAoq
+KNZhNMZJA0bEeWoGNowM59ec1LQAVHBPHcxeZE25MkZxjpT2BZGAYqSMBh296jtrdLW2jgQkqi4y
+ep9zQBLRRRQAVVF9BM1xDbzxmeEHcGzhT7+2atUUAZNgt/cyrdyXDpC3PlkDBHbAxkA9eeeK1qKK
+SVgK97cvawh47aW4JYDbFjI9+amjZ2jVpECORyoOcfjTqjllMWz9277mC/Lj5fc+1MCSiiigAoqr
+ZWZs43Vriacu5bdK2cD0FTSW8M0kbyRq7RnKFhnafUUASUUjLvRlyRkYyDgimQwpbwRwpnZGoUZO
+TgUASUUUUAFFMeWOIoJJFQu21dxxuPoPU8Gn0AFFFFAAc4460yFZFgjWZw8gUB2AwGPc4p9FADXX
+fGy7mXcCNy9R7ihAVRVZizAYLEYz706o5JfLljDMio+VBZsEt2A/Dd+VAElFR3E6W0DzSZ2IMsR2
+HrUgIIyDkGgAooooAKKKKACiiigAprxRyhRIivtYMNwzgjofrTqKACiiigAooooAKKKKACiiigAw
+DjI6dKKKKACiiigAooooAKayI+3eqttO5cjOD6inUUABAIIIyDRRRQAUUUUAFFFFABRRRQAUUUUA
+FFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAH//2Q=="
+        }
+      }
+    },
+    "mdContact": {
+      "rpIndName": "Justin Ray",
+      "rpOrgName": "Virginia Department of Game and Inland Fisheries",
+      "rpPosName": "GIS Database and Applications Specialist",
+      "role": {
+        "RoleCd": { "-value": "011" }
+      },
+      "rpCntInfo": {
+        "cntAddress": {
+          "-addressType": "both",
+          "delPoint": "4010 W Broad St",
+          "city": "Richmond",
+          "adminArea": "Va",
+          "postCode": "23230",
+          "eMailAdd": "justin.ray@dgif.virginia.gov",
+          "country": "UNITED STATES"
+        },
+        "cntPhone": {
+          "voiceNum": { "#text": "8043674370" }
+        },
+        "cntHours": "8:30-4:30"
+      }
+    },
+    "mdMaint": {
+      "maintFreq": {
+        "MaintFreqCd": { "-value": "009" }
+      }
+    },
+    "dqInfo": {
+      "dqScope": {
+        "scpLvl": {
+          "ScopeCd": { "-value": "005" }
+        }
+      }
+    }
+  }
+}

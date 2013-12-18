@@ -1,0 +1,1100 @@
+{
+  "metadata": {
+    "idinfo": {
+      "citation": {
+        "citeinfo": {
+          "origin": "Virginia Department of Game and Inland Fisheries",
+          "pubdate": "2011",
+          "title": "Stocked Trout Lakes",
+          "geoform": {
+            "-Sync": "TRUE",
+            "#text": "vector digital data"
+          },
+          "onlink": "http://www.dgif.virginia.gov/fishing/stocking/",
+          "ftname": {
+            "-Sync": "TRUE",
+            "#text": "StockedTroutLakes"
+          },
+          "pubinfo": {
+            "pubplace": "4010 W Broad St, Richmond, Va, 23230",
+            "publish": "Virginia Department of Game and Inland Fisheries"
+          }
+        }
+      },
+      "descript": {
+        "abstract": "This dataset contains the Designated Stocked Trout Waters (Catchable Trout Stocking Program) in Virginia for public use. While many of these locations are lakes, reservoirs, or ponds, some may represent single stocking locations on streams. These data are formatted as an ArcView shapefile and were compiled by the Virginia Department of Game and Inland Fisheries (VDGIF). These data are presented as points. Rainbow, Brown, and Brook Trout represent the species being stocked. This data does not supercede physical signage at the locations indicated. This data is to be used as a guide, not for official use, and this data is not considered to be an official boundary of the stocked trout waters.",
+        "purpose": "To show locations for publicly accessible trout fishing based on VDGIF stocking.",
+        "langdata": {
+          "-Sync": "TRUE",
+          "#text": "en"
+        }
+      },
+      "timeperd": {
+        "timeinfo": {
+          "sngdate": { "caldate": "2011" }
+        },
+        "current": "Current"
+      },
+      "status": {
+        "progress": "Complete",
+        "update": "Annually"
+      },
+      "spdom": {
+        "bounding": {
+          "westbc": {
+            "-Sync": "TRUE",
+            "#text": "-82.572602"
+          },
+          "eastbc": {
+            "-Sync": "TRUE",
+            "#text": "-75.979141"
+          },
+          "northbc": {
+            "-Sync": "TRUE",
+            "#text": "39.290766"
+          },
+          "southbc": {
+            "-Sync": "TRUE",
+            "#text": "36.502212"
+          }
+        },
+        "lboundng": {
+          "leftbc": {
+            "-Sync": "TRUE",
+            "#text": "364360.795925"
+          },
+          "rightbc": {
+            "-Sync": "TRUE",
+            "#text": "933759.228786"
+          },
+          "bottombc": {
+            "-Sync": "TRUE",
+            "#text": "4050570.874970"
+          },
+          "topbc": {
+            "-Sync": "TRUE",
+            "#text": "4349043.980953"
+          }
+        }
+      },
+      "keywords": {
+        "theme": {
+          "themekt": "ESRI ArcIMS Topic Categories",
+          "themekey": [
+            "Biota",
+            "Trout",
+            "Fishing",
+            "Access",
+            "Stocked",
+            "Inland Fisheries"
+          ]
+        },
+        "place": {
+          "placekey": [
+            "Virginia",
+            "US"
+          ]
+        }
+      },
+      "accconst": "These data are available to public or private entities with permission of the Virginia Department of Game and Inland Fisheries (VDGIF).",
+      "useconst": "
+Neither the VDGIF nor the contributors of data to VDGIF shall be held liable for any improper or incorrect use or application of the data provided, and assume no responsibility for the use or application of the data or information derived from interpretation of the data. In no event shall the VDGIF or its collaborators be liable for any direct, indirect, or incidental damages arising from the use or application of these data. This disclaimer of liability applies to any damages or injury, including but not limited to those caused by any failure of performance, error, omission, defect, delay in operation or transmission, computer virus, alteration, use, application, analysis, or interpretation of data.
+
+This data does not supercede physical signage at the locations indicated.  This data is to be used as a guide, not for official use, and this data is not considered to be an official boundary of the stocked trout waters.
+",
+      "datacred": "Use of data in publications, either digital or hardcopy, must be cited as follows: Trout Stocked Lakes. 2011. Virginia Department of Game and Inland Fisheries.",
+      "native": {
+        "-Sync": "TRUE",
+        "#text": "Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.4000"
+      },
+      "crossref": {
+        "citeinfo": {
+          "origin": "Virginia Department of Game and Inland Fisheries",
+          "pubdate": "2011"
+        }
+      },
+      "natvform": {
+        "-Sync": "TRUE",
+        "#text": "Shapefile"
+      }
+    },
+    "dataqual": {
+      "complete": "No warranty, expressed or implied, is made regarding the accuracy, adequacy, completeness, reliability, or usefulness of any data provided. These data are provided on an \"as is\" basis. All warranties of any kind, express or implied, including but not limited to fitness for a particular use, freedom from computer viruses, and non-infringement of proprietary rights, are disclaimed. Data are added and changed periodically, and data may become out-of-date quickly. It is recommended that the user not let a significant period of time elapse between obtaining and using the data. Data was comprised using the most current reports of VDGIF biologists . These listings are subject to frequent and unanounced changes, which may affect stocking status.",
+      "lineage": {
+        "procstep": [
+          {
+            "procdesc": "GPS coordinates were provided by VDGIF field biologists.  Points do not represent centroids of lakes, or public access points.  They are simply a location point for the lake and should not be replied upon for accuracy.  The data was then confirmed by the biologists as accurate, and attribute data was provided by the biologists.  The trout stocking regulations from VDGIF were also used to verify attribute accuracy.",
+            "procdate": "20110207",
+            "proctime": "09460700"
+          },
+          {
+            "procdesc": {
+              "-Sync": "TRUE",
+              "#text": "Metadata imported."
+            },
+            "srcused": {
+              "-Sync": "TRUE",
+              "#text": "C:\\DOCUME~1\\rec08141\\LOCALS~1\\Temp\\xml35B.tmp"
+            },
+            "procdate": {
+              "-Sync": "TRUE",
+              "#text": "20110309"
+            },
+            "proctime": {
+              "-Sync": "TRUE",
+              "#text": "16061800"
+            }
+          },
+          {
+            "procdesc": {
+              "-Sync": "TRUE",
+              "#text": "Dataset copied."
+            },
+            "srcused": {
+              "-Sync": "TRUE",
+              "#text": "K:\\projects_public\\Justin_Ray\\Trout\\StockedTroutLakes"
+            },
+            "procdate": {
+              "-Sync": "TRUE",
+              "#text": "20110321"
+            },
+            "proctime": {
+              "-Sync": "TRUE",
+              "#text": "09522700"
+            }
+          }
+        ]
+      }
+    },
+    "spdoinfo": {
+      "direct": {
+        "-Sync": "TRUE",
+        "#text": "Vector"
+      },
+      "ptvctinf": {
+        "esriterm": {
+          "efeatyp": {
+            "-Sync": "TRUE",
+            "#text": "Simple"
+          },
+          "efeageom": {
+            "-code": "1",
+            "-Sync": "TRUE"
+          },
+          "esritopo": {
+            "-Sync": "TRUE",
+            "#text": "FALSE"
+          },
+          "efeacnt": {
+            "-Sync": "TRUE",
+            "#text": "41"
+          },
+          "spindex": {
+            "-Sync": "TRUE",
+            "#text": "TRUE"
+          },
+          "linrefer": {
+            "-Sync": "TRUE",
+            "#text": "FALSE"
+          }
+        }
+      }
+    },
+    "spref": {
+      "horizsys": {
+        "planar": {
+          "planci": {
+            "plance": {
+              "-Sync": "TRUE",
+              "#text": "coordinate pair"
+            },
+            "coordrep": {
+              "absres": {
+                "-Sync": "TRUE",
+                "#text": "0.000000"
+              },
+              "ordres": {
+                "-Sync": "TRUE",
+                "#text": "0.000000"
+              }
+            },
+            "plandu": {
+              "-Sync": "TRUE",
+              "#text": "meters"
+            }
+          }
+        },
+        "geodetic": {
+          "horizdn": {
+            "-Sync": "TRUE",
+            "#text": "North American Datum of 1983"
+          },
+          "ellips": {
+            "-Sync": "TRUE",
+            "#text": "Geodetic Reference System 80"
+          },
+          "semiaxis": {
+            "-Sync": "TRUE",
+            "#text": "6378137.000000"
+          },
+          "denflat": {
+            "-Sync": "TRUE",
+            "#text": "298.257222"
+          }
+        },
+        "cordsysn": {
+          "geogcsn": {
+            "-Sync": "TRUE",
+            "#text": "GCS_North_American_1983"
+          },
+          "projcsn": {
+            "-Sync": "TRUE",
+            "#text": "NAD_1983_UTM_Zone_17N"
+          }
+        }
+      }
+    },
+    "eainfo": {
+      "detailed": {
+        "-Name": "StockedTroutLakes",
+        "enttyp": {
+          "enttypl": {
+            "-Sync": "TRUE",
+            "#text": "StockedTroutLakes"
+          },
+          "enttypt": {
+            "-Sync": "TRUE",
+            "#text": "Feature Class"
+          },
+          "enttypc": {
+            "-Sync": "TRUE",
+            "#text": "41"
+          }
+        },
+        "attr": [
+          {
+            "attrlabl": "FID",
+            "attrdef": "Internal feature number.",
+            "attrdefs": "ESRI",
+            "attrdomv": { "udom": "Sequential unique whole numbers that are automatically generated." },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "FID"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "OID"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "4"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": "Shape",
+            "attrdef": "Feature geometry.",
+            "attrdefs": "ESRI",
+            "attrdomv": { "udom": "Coordinates defining the features." },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "Shape"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Geometry"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": "Designatio",
+            "attrdef": "Trout stocking designation.  Put and Take (PNT), Delayed Harvest (DH), Special Regulations (SR), Feefishing (FF), Urban (U).",
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "Designatio"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "String"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "254"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "WATER"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "WATER"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "String"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "254"
+            },
+            "attrdef": "Waterbody name",
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": "County",
+            "attrdef": "County where the majority of the feature is located.",
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "COUNTY"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "String"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "254"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "Notes"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "Notes"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "String"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "254"
+            },
+            "attrdef": "Notes from the biologists and fishing regulations.",
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": "BrookTrout",
+            "attrdef": "Brook trout stocked.  Y = Stocked.  M = May be stocked.  Null = Not stocked.  %s = percent of the total stocked trout.",
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "BrookTrout"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "String"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "5"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": "RainbowTrt",
+            "attrdef": "Rainbow trout stocked.  Y = Stocked.  M = May be stocked.  Null = Not stocked.  %s = percent of the total stocked trout.",
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "RainbowTrt"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "String"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "5"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": "BrownTrout",
+            "attrdef": "Brown trout stocked.  Y = Stocked.  M = May be stocked.  Null = Not stocked.  %s = percent of the total stocked trout.",
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "BrownTrout"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "String"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "5"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": "Category",
+            "attrdef": "Trout stocking category. A = stocked 8 times between October 1 and May 30. B = 5 times. C = 3 times.",
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "Category"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "String"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "5"
+            },
+            "attrdefs": "2011 Virginia Fishing Regulations",
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": "Heritage",
+            "attrdef": "If the reach is a Heritage Day water.  http://www.dgif.virginia.gov/fishing/trout/trout-heritage-day/",
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "Heritage"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "String"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "5"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": "NatForest",
+            "attrdef": "If the reach lies within a National Forest.  National Forest permit required.",
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "NatForest"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "String"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "5"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          }
+        ]
+      },
+      "overview": { "dsoverv": "This dataset gives spatial representation to the streams listed in the 2011 Virginia Fishing Regulations.  Please refer to these regulations for detailed information concerning regulations, stocking information, access, and more.  The comments field does not include all of the regulations which apply to the listed waterbodies." }
+    },
+    "distinfo": {
+      "resdesc": "Downloadable Data",
+      "distliab": "The VDGIF provides these data on an as is basis. All warranties of any kind, express or implied, including but not limited to fitness for a particular use, freedom from computer viruses, and non-infringement of proprietary rights are disclaimed. Neither the VDGIF nor the contributors to the VDGIF Fish and Wildlife Information Service (FWIS) shall be held liable for any improper or incorrect use of the information contained herein and assume no responsibility for the use of the information. In no event shall the VDGIF or the contributors to the FWIS be liable for any direct, indirect, or incidental damages arising in any way out of the use of this service. This disclaimer of liability applies to any damages or injury, including but not limited to those caused by any failure of performance, error, omission, defect, delay in operation or transmission, computer virus, alteration or use of record.",
+      "stdorder": {
+        "digform": {
+          "digtinfo": {
+            "transize": "0.631",
+            "dssize": {
+              "-Sync": "TRUE",
+              "#text": "0.001"
+            }
+          }
+        }
+      }
+    },
+    "metainfo": {
+      "metd": {
+        "-Sync": "TRUE",
+        "#text": "20110321"
+      },
+      "metstdn": {
+        "-Sync": "TRUE",
+        "#text": "FGDC Content Standards for Digital Geospatial Metadata"
+      },
+      "metstdv": {
+        "-Sync": "TRUE",
+        "#text": "FGDC-STD-001-1998"
+      },
+      "mettc": {
+        "-Sync": "TRUE",
+        "#text": "local time"
+      },
+      "metextns": {
+        "onlink": "http://www.esri.com/metadata/esriprof80.html",
+        "metprof": "ESRI Metadata Profile"
+      },
+      "langmeta": {
+        "-Sync": "TRUE",
+        "#text": "en"
+      }
+    },
+    "Esri": {
+      "CreaDate": "20110321",
+      "CreaTime": "09522700",
+      "SyncOnce": "FALSE",
+      "SyncDate": "20120705",
+      "SyncTime": "11535000",
+      "ModDate": "20120705",
+      "ModTime": "12132900",
+      "PublishStatus": "Published",
+      "MetaID": "{842533FB-180D-4F45-B297-7DB11B191BBF}",
+      "DataProperties": {
+        "itemProps": {
+          "itemName": {
+            "-Sync": "TRUE",
+            "#text": "StockedTroutLakes"
+          },
+          "imsContentType": {
+            "-Sync": "TRUE",
+            "-export": "False",
+            "#text": "002"
+          },
+          "nativeExtBox": {
+            "westBL": {
+              "-Sync": "TRUE",
+              "#text": "364360.795925"
+            },
+            "eastBL": {
+              "-Sync": "TRUE",
+              "#text": "933759.228786"
+            },
+            "southBL": {
+              "-Sync": "TRUE",
+              "#text": "4050570.874970"
+            },
+            "northBL": {
+              "-Sync": "TRUE",
+              "#text": "4349043.980953"
+            },
+            "exTypeCode": {
+              "-Sync": "TRUE",
+              "#text": "1"
+            }
+          },
+          "itemSize": {
+            "-Sync": "TRUE",
+            "#text": "0.001"
+          },
+          "itemLocation": {
+            "linkage": {
+              "-Sync": "TRUE",
+              "#text": "file://\\\\gis\\share\\data\\GISData\\FaunalFeatures\\StockedTrout\\StockedTroutLakes.shp"
+            },
+            "protocol": {
+              "-Sync": "TRUE",
+              "#text": "Local Area Network"
+            }
+          }
+        },
+        "coordRef": {
+          "type": {
+            "-Sync": "TRUE",
+            "#text": "Projected"
+          },
+          "geogcsn": {
+            "-Sync": "TRUE",
+            "#text": "GCS_North_American_1983"
+          },
+          "csUnits": {
+            "-Sync": "TRUE",
+            "#text": "Linear Unit: Meter (1.000000)"
+          },
+          "projcsn": {
+            "-Sync": "TRUE",
+            "#text": "NAD_1983_UTM_Zone_17N"
+          },
+          "peXml": {
+            "-Sync": "TRUE",
+            "#text": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.0'><WKT>PROJCS[&quot;NAD_1983_UTM_Zone_17N&quot;,GEOGCS[&quot;GCS_North_American_1983&quot;,DATUM[&quot;D_North_American_1983&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Transverse_Mercator&quot;],PARAMETER[&quot;False_Easting&quot;,500000.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Central_Meridian&quot;,-81.0],PARAMETER[&quot;Scale_Factor&quot;,0.9996],PARAMETER[&quot;Latitude_Of_Origin&quot;,0.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,26917]]</WKT><XOrigin>-5120900</XOrigin><YOrigin>-9998100</YOrigin><XYScale>450445547.3910538</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>26917</WKID></ProjectedCoordinateSystem>"
+          }
+        }
+      },
+      "ArcGISFormat": "1.0",
+      "ArcGISProfile": "FGDC"
+    },
+    "dataIdInfo": {
+      "envirDesc": {
+        "-Sync": "TRUE",
+        "#text": "Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcGIS 10.0.4.4000"
+      },
+      "dataLang": {
+        "languageCode": { "-Sync": "TRUE" },
+        "countryCode": {
+          "-value": "US",
+          "-Sync": "TRUE"
+        }
+      },
+      "idCitation": {
+        "resTitle": {
+          "-Sync": "FALSE",
+          "#text": "Stocked Trout Lakes"
+        },
+        "presForm": {
+          "PresFormCd": {
+            "-Sync": "TRUE",
+            "-value": "005"
+          }
+        },
+        "otherCitDet": "Use of data in publications, either digital or hardcopy, must be cited as follows: Trout Stocked Lakes. 2012. Virginia Department of Game and Inland Fisheries.",
+        "citRespParty": {
+          "rpIndName": "Lenee Pennington",
+          "rpOrgName": "VDGIF",
+          "rpPosName": "Acting GIS Coordinator",
+          "role": {
+            "RoleCd": { "-value": "007" }
+          },
+          "rpCntInfo": {
+            "cntAddress": {
+              "-addressType": "both",
+              "delPoint": "4010 W Broad St",
+              "city": "Richmond",
+              "adminArea": "Va",
+              "postCode": "23230",
+              "eMailAdd": "lenee.pennington@dgif.virginia.gov",
+              "country": "UNITED STATES"
+            },
+            "cntPhone": {
+              "voiceNum": { "#text": "8043670058" }
+            },
+            "cntHours": "8:30-5:00"
+          }
+        }
+      },
+      "spatRpType": {
+        "SpatRepTypCd": {
+          "-Sync": "TRUE",
+          "-value": "001"
+        }
+      },
+      "dataExt": [
+        {
+          "geoEle": {
+            "GeoBndBox": {
+              "-esriExtentType": "native",
+              "westBL": {
+                "-Sync": "TRUE",
+                "#text": "364360.795925"
+              },
+              "eastBL": {
+                "-Sync": "TRUE",
+                "#text": "933759.228786"
+              },
+              "northBL": {
+                "-Sync": "TRUE",
+                "#text": "4349043.980953"
+              },
+              "southBL": {
+                "-Sync": "TRUE",
+                "#text": "4050570.87497"
+              },
+              "exTypeCode": {
+                "-Sync": "TRUE",
+                "#text": "1"
+              }
+            }
+          }
+        },
+        {
+          "geoEle": {
+            "GeoBndBox": {
+              "-esriExtentType": "search",
+              "exTypeCode": {
+                "-Sync": "TRUE",
+                "#text": "1"
+              },
+              "westBL": {
+                "-Sync": "TRUE",
+                "#text": "-82.572602"
+              },
+              "eastBL": {
+                "-Sync": "TRUE",
+                "#text": "-75.979141"
+              },
+              "northBL": {
+                "-Sync": "TRUE",
+                "#text": "39.290766"
+              },
+              "southBL": {
+                "-Sync": "TRUE",
+                "#text": "36.502212"
+              }
+            }
+          }
+        }
+      ],
+      "geoBox": {
+        "-esriExtentType": "decdegrees",
+        "westBL": {
+          "-Sync": "TRUE",
+          "#text": "-82.572602"
+        },
+        "eastBL": {
+          "-Sync": "TRUE",
+          "#text": "-75.979141"
+        },
+        "northBL": {
+          "-Sync": "TRUE",
+          "#text": "39.290766"
+        },
+        "southBL": {
+          "-Sync": "TRUE",
+          "#text": "36.502212"
+        },
+        "exTypeCode": {
+          "-Sync": "TRUE",
+          "#text": "1"
+        }
+      },
+      "idPurp": "To show locations for publicly accessible trout fishing based on VDGIF stocking.",
+      "idAbs": "<DIV STYLE=\"text-align:Left;\"><DIV><P><SPAN>This dataset contains the Designated Stocked Trout Waters (Catchable Trout Stocking Program) in Virginia for public use. While many of these locations are lakes, reservoirs, or ponds, some may represent single stocking locations on streams. These data are formatted as an ArcView shapefile and were compiled by the Virginia Department of Game and Inland Fisheries (VDGIF). These data are presented as points. Rainbow, Brown, and Brook Trout represent the species being stocked. This data does not supercede physical signage at the locations indicated. This data is to be used as a guide, not for official use, and this data is not considered to be an official boundary of the stocked trout waters.</SPAN></P></DIV></DIV>",
+      "searchKeys": {
+        "keyword": [
+          "Biota",
+          "Trout",
+          "Fishing",
+          "Access",
+          "Stocked",
+          "Inland Fisheries"
+        ]
+      },
+      "resConst": {
+        "Consts": { "useLimit": "<DIV STYLE=\"text-align:Left;\"><DIV><P><SPAN>Neither the VDGIF nor the contributors of data to VDGIF shall be held liable for any improper or incorrect use or application of the data provided, and assume no responsibility for the use or application of the data or information derived from interpretation of the data. In no event shall the VDGIF or its collaborators be liable for any direct, indirect, or incidental damages arising from the use or application of these data. This disclaimer of liability applies to any damages or injury, including but not limited to those caused by any failure of performance, error, omission, defect, delay in operation or transmission, computer virus, alteration, use, application, analysis, or interpretation of data. This data does not supercede physical signage at the locations indicated. This data is to be used as a guide, not for official use, and this data is not considered to be an official boundary of the stocked trout waters.</SPAN></P></DIV></DIV>" }
+      },
+      "dataChar": {
+        "CharSetCd": { "-value": "004" }
+      },
+      "idPoC": {
+        "rpIndName": "Justin Ray",
+        "rpOrgName": "VDGIF",
+        "rpPosName": "GIS Database and Applications Specialist",
+        "role": {
+          "RoleCd": { "-value": "001" }
+        },
+        "rpCntInfo": {
+          "cntAddress": {
+            "-addressType": "both",
+            "delPoint": "4010 W Broad St",
+            "city": "Richmond",
+            "adminArea": "Va",
+            "postCode": "23230",
+            "eMailAdd": "justin.ray@dgif.virginia.gov",
+            "country": "UNITED STATES"
+          },
+          "cntPhone": {
+            "voiceNum": { "#text": "8043674370" }
+          },
+          "cntHours": "8:30-4:30"
+        }
+      },
+      "resMaint": {
+        "maintFreq": {
+          "MaintFreqCd": { "-value": "008" }
+        }
+      },
+      "tpCat": [
+        {
+          "TopicCatCd": { "-value": "002" }
+        },
+        {
+          "TopicCatCd": { "-value": "012" }
+        }
+      ]
+    },
+    "mdLang": {
+      "languageCode": { "-Sync": "TRUE" },
+      "countryCode": {
+        "-value": "US",
+        "-Sync": "TRUE"
+      }
+    },
+    "mdStanName": {
+      "-Sync": "TRUE",
+      "#text": "ISO 19115 Geographic Information - Metadata"
+    },
+    "mdStanVer": {
+      "-Sync": "TRUE",
+      "#text": "DIS_ESRI1.0"
+    },
+    "mdChar": {
+      "CharSetCd": {
+        "-Sync": "TRUE",
+        "-value": "006"
+      }
+    },
+    "mdHrLv": {
+      "ScopeCd": {
+        "-Sync": "TRUE",
+        "-value": "005"
+      }
+    },
+    "mdHrLvName": {
+      "-Sync": "TRUE",
+      "#text": "dataset"
+    },
+    "distInfo": {
+      "distributor": {
+        "distorTran": {
+          "onLineSrc": {
+            "orDesc": {
+              "-Sync": "TRUE",
+              "#text": "002"
+            },
+            "linkage": {
+              "-Sync": "TRUE",
+              "#text": "file://\\\\GIS\\Share\\Data\\GISData\\FaunalFeatures\\StockedTrout\\StockedTroutLakes"
+            },
+            "protocol": {
+              "-Sync": "TRUE",
+              "#text": "Local Area Network"
+            }
+          },
+          "transSize": {
+            "-Sync": "TRUE",
+            "#text": "0.001"
+          }
+        },
+        "distorFormat": {
+          "formatName": {
+            "-Sync": "TRUE",
+            "#text": "Shapefile"
+          }
+        }
+      },
+      "distFormat": {
+        "formatName": {
+          "-Sync": "TRUE",
+          "#text": "Shapefile"
+        }
+      },
+      "distTranOps": {
+        "transSize": {
+          "-Sync": "TRUE",
+          "#text": "0.001"
+        }
+      }
+    },
+    "refSysInfo": {
+      "RefSystem": {
+        "refSysID": {
+          "identCode": {
+            "-Sync": "TRUE",
+            "-value": "26917",
+            "#text": "NAD_1983_UTM_Zone_17N"
+          },
+          "idCodeSpace": {
+            "-Sync": "TRUE",
+            "#text": "EPSG"
+          },
+          "idVersion": {
+            "-Sync": "TRUE",
+            "#text": "7.4.1"
+          }
+        }
+      }
+    },
+    "spatRepInfo": {
+      "VectSpatRep": {
+        "geometObjs": {
+          "-Name": "StockedTroutLakes",
+          "geoObjTyp": {
+            "GeoObjTypCd": {
+              "-value": "004",
+              "-Sync": "TRUE"
+            }
+          },
+          "geoObjCnt": {
+            "-Sync": "TRUE",
+            "#text": "41"
+          }
+        },
+        "topLvl": {
+          "TopoLevCd": {
+            "-value": "001",
+            "-Sync": "TRUE"
+          }
+        }
+      }
+    },
+    "mdDateSt": {
+      "-Sync": "TRUE",
+      "#text": "20120705"
+    },
+    "mdFileID": {
+      "-Sync": "TRUE",
+      "#text": "{3CF8936A-D677-4212-868B-DAD9ECD73BA0}"
+    },
+    "Binary": {
+      "Thumbnail": {
+        "Data": {
+          "-EsriPropertyType": "PictureX",
+          "#text": "/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsK
+CwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQU
+FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9U6KK
+KACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoooo
+AKKKKACiiigAooooAKKKKACiiigAooooA4Wx8eXPiH4rXvh/Q7vRb3SdBt2j8QxtLKNQtLyVYpbR
+UXZ5bRtEZSx3ZztA6EHuqy/E2vWnhDw5q2uXcVxJaafbS3k6WVu88zrGhYhI0BZ2wuAoBJ4FWdJ1
+OLWtKs9QgSZILuFJ40uYXhlVWUMA8bgMjYPKsAQeCARQBbooooAKKKKACiiigAooooAKKKKACiii
+gAooooAKKKKACiiigAooooAKiurgWltLOySOsSFykSF3YAZwFHJPoB1qDWbyfTtIvru1tG1C5ggk
+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"
+        }
+      }
+    },
+    "mdContact": {
+      "rpIndName": "Justin Ray",
+      "rpOrgName": "VDGIF",
+      "rpPosName": "GIS Database and Applications Specialist",
+      "role": {
+        "RoleCd": { "-value": "011" }
+      },
+      "rpCntInfo": {
+        "cntAddress": {
+          "-addressType": "both",
+          "delPoint": "4010 W Broad St",
+          "city": "Richmond",
+          "adminArea": "Va",
+          "postCode": "23230",
+          "eMailAdd": "justin.ray@dgif.virginia.gov",
+          "country": "UNITED STATES"
+        },
+        "cntPhone": {
+          "voiceNum": { "#text": "8043674370" }
+        },
+        "cntHours": "8:30-4:30"
+      }
+    },
+    "mdMaint": {
+      "maintFreq": {
+        "MaintFreqCd": { "-value": "009" }
+      }
+    },
+    "dqInfo": {
+      "dqScope": {
+        "scpLvl": {
+          "ScopeCd": { "-value": "005" }
+        }
+      }
+    }
+  }
+}

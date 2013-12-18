@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Vic Thomas", "Descriptio": "" }, "geometry": { "type": "Point", "coordinates": [ -78.940720, 37.037807, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Buller", "Descriptio": "" }, "geometry": { "type": "Point", "coordinates": [ -81.539978, 36.759206, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Marion", "Descriptio": "" }, "geometry": { "type": "Point", "coordinates": [ -81.476620, 36.824038, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Coursey Springs", "Descriptio": "" }, "geometry": { "type": "Point", "coordinates": [ -79.582166, 38.178423, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Front Royal", "Descriptio": "" }, "geometry": { "type": "Point", "coordinates": [ -78.293327, 38.950180, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "King and Queen", "Descriptio": "" }, "geometry": { "type": "Point", "coordinates": [ -76.932712, 37.740805, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Montebello", "Descriptio": "" }, "geometry": { "type": "Point", "coordinates": [ -79.130516, 37.843655, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Paint Bank", "Descriptio": "" }, "geometry": { "type": "Point", "coordinates": [ -80.244489, 37.553589, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wytheville", "Descriptio": "" }, "geometry": { "type": "Point", "coordinates": [ -80.898445, 36.933356, 0.000000 ] } }
+
+]
+}

@@ -1,0 +1,1235 @@
+{
+  "metadata": {
+    "idinfo": {
+      "citation": {
+        "citeinfo": {
+          "origin": "Virginia Department of Game and Inland Fisheries",
+          "pubdate": "Unpublished Material",
+          "title": "DGIF Regional Boundaries",
+          "geoform": {
+            "-Sync": "TRUE",
+            "#text": "vector digital data"
+          },
+          "pubinfo": {
+            "pubplace": "Richmond, VA",
+            "publish": "Virginia Dept. of Game and Inland Fisheries"
+          },
+          "onlink": "http://www.dgif.virginia.gov/gis/gis-data.asp",
+          "ftname": {
+            "-Sync": "TRUE",
+            "#text": "DGIF_Regional_Boundaries_111810"
+          }
+        }
+      },
+      "descript": {
+        "abstract": "This spatial dataset defines the administrative boundaries of the Virginia Department of Game and Inland Fisheries' (VDGIF) regions.",
+        "purpose": "This dataset was created to map VDGIF regions.",
+        "langdata": {
+          "-Sync": "TRUE",
+          "#text": "en"
+        }
+      },
+      "timeperd": {
+        "timeinfo": {
+          "sngdate": { "caldate": "2010" }
+        },
+        "current": "publication date"
+      },
+      "status": {
+        "progress": "Complete",
+        "update": "None planned"
+      },
+      "spdom": {
+        "bounding": {
+          "westbc": {
+            "-Sync": "TRUE",
+            "#text": "-83.781691"
+          },
+          "eastbc": {
+            "-Sync": "TRUE",
+            "#text": "-75.068202"
+          },
+          "northbc": {
+            "-Sync": "TRUE",
+            "#text": "39.496185"
+          },
+          "southbc": {
+            "-Sync": "TRUE",
+            "#text": "36.409482"
+          }
+        },
+        "lboundng": {
+          "leftbc": {
+            "-Sync": "TRUE",
+            "#text": "260687.567987"
+          },
+          "rightbc": {
+            "-Sync": "TRUE",
+            "#text": "1011323.530274"
+          },
+          "bottombc": {
+            "-Sync": "TRUE",
+            "#text": "4044493.337706"
+          },
+          "topbc": {
+            "-Sync": "TRUE",
+            "#text": "4371841.070499"
+          }
+        }
+      },
+      "keywords": {
+        "theme": {
+          "themekt": "N/A",
+          "themekey": [
+            "boundaries",
+            "regions",
+            "Virginia Game Department",
+            "VDGIF"
+          ]
+        },
+        "place": {
+          "placekey": [
+            "Virginia",
+            "USA"
+          ]
+        }
+      },
+      "accconst": "These data are available to public or private entities with permission of the Virginia Department of Game and Inland Fisheries, Bureau of Wildlife Resources.",
+      "useconst": "Neither the VDGIF nor the contributors of data to VDGIF shall be held liable for any improper or incorrect use or application of the data provided, and assume no responsibility for the use or application of the data or information derived from interpretation of the data. In no event shall the VDGIF or its collaborators be liable for any direct, indirect, or incidental damages arising from the use or application of these data. This disclaimer of liability applies to any damages or injury, including but not limited to those caused by any failure of performance, error, omission, defect, delay in operation or transmission, computer virus, alteration, use, application, analysis, or interpretation of data.
+
+Data are available by permission of the Virginia Department of Game and Inland Fisheries.  Use of data in publications, either digital or hardcopy, must be cited as follows:  DGIF_Regional_Boundaries.  2010.   Virginia Department of Game and Inland Fisheries.",
+      "native": {
+        "-Sync": "TRUE",
+        "#text": "Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.4000"
+      },
+      "natvform": {
+        "-Sync": "TRUE",
+        "#text": "Shapefile"
+      }
+    },
+    "dataqual": {
+      "complete": "No warranty, expressed or implied, is made regarding the accuracy, adequacy, completeness, reliability, or usefulness of any data provided. These data are provided on an \"as is\" basis. All warranties of any kind, express or implied, including but not limited to fitness for a particular use, freedom from computer viruses, and non-infringement of proprietary rights, are disclaimed. Data are added and changed periodically, and data may become out-of-date quickly. It is recommended that the user not let a significant period of time elapse between obtaining and using the data.",
+      "lineage": {
+        "srcinfo": { "srcscale": "24000" },
+        "procstep": [
+          { "procdesc": "These region boundaries were selected from a GIS coverage of Virginia Counties, created at 1:24,000 scale." },
+          {
+            "procdesc": "Metadata imported.",
+            "srcused": "D:\\TEMP\\xml2E.tmp"
+          },
+          { "procdesc": "Dataset copied." },
+          {
+            "procdesc": {
+              "-Sync": "TRUE",
+              "#text": "Metadata imported."
+            },
+            "srcused": {
+              "-Sync": "TRUE",
+              "#text": "C:\\DOCUME~1\\rec08141\\LOCALS~1\\Temp\\xml279.tmp"
+            },
+            "procdate": {
+              "-Sync": "TRUE",
+              "#text": "20110422"
+            },
+            "proctime": {
+              "-Sync": "TRUE",
+              "#text": "12242400"
+            }
+          }
+        ]
+      }
+    },
+    "spdoinfo": {
+      "direct": {
+        "-Sync": "TRUE",
+        "#text": "Vector"
+      },
+      "ptvctinf": {
+        "esriterm": {
+          "efeatyp": {
+            "-Sync": "TRUE",
+            "#text": "Simple"
+          },
+          "efeageom": {
+            "-code": "4",
+            "-Sync": "TRUE"
+          },
+          "esritopo": {
+            "-Sync": "TRUE",
+            "#text": "FALSE"
+          },
+          "efeacnt": {
+            "-Sync": "TRUE",
+            "#text": "4"
+          },
+          "spindex": {
+            "-Sync": "TRUE",
+            "#text": "TRUE"
+          },
+          "linrefer": {
+            "-Sync": "TRUE",
+            "#text": "FALSE"
+          }
+        }
+      }
+    },
+    "spref": {
+      "horizsys": {
+        "planar": {
+          "planci": {
+            "plance": {
+              "-Sync": "TRUE",
+              "#text": "coordinate pair"
+            },
+            "coordrep": {
+              "absres": {
+                "-Sync": "TRUE",
+                "#text": "0.000000"
+              },
+              "ordres": {
+                "-Sync": "TRUE",
+                "#text": "0.000000"
+              }
+            },
+            "plandu": {
+              "-Sync": "TRUE",
+              "#text": "meters"
+            }
+          }
+        },
+        "geodetic": {
+          "horizdn": {
+            "-Sync": "TRUE",
+            "#text": "North American Datum of 1983"
+          },
+          "ellips": {
+            "-Sync": "TRUE",
+            "#text": "Geodetic Reference System 80"
+          },
+          "semiaxis": {
+            "-Sync": "TRUE",
+            "#text": "6378137.000000"
+          },
+          "denflat": {
+            "-Sync": "TRUE",
+            "#text": "298.257222"
+          }
+        },
+        "cordsysn": {
+          "geogcsn": {
+            "-Sync": "TRUE",
+            "#text": "GCS_North_American_1983"
+          },
+          "projcsn": {
+            "-Sync": "TRUE",
+            "#text": "NAD_1983_UTM_Zone_17N"
+          }
+        }
+      }
+    },
+    "eainfo": {
+      "detailed": {
+        "-Name": "DGIF_Regional_Boundaries_111810",
+        "enttyp": {
+          "enttypl": {
+            "-Sync": "TRUE",
+            "#text": "DGIF_Regional_Boundaries_111810"
+          },
+          "enttypt": {
+            "-Sync": "TRUE",
+            "#text": "Feature Class"
+          },
+          "enttypc": {
+            "-Sync": "TRUE",
+            "#text": "4"
+          }
+        },
+        "attr": [
+          {
+            "attrlabl": "FID",
+            "attrdef": "Internal feature number.",
+            "attrdefs": "ESRI",
+            "attrdomv": { "udom": "Sequential unique whole numbers that are automatically generated." },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "FID"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "OID"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "4"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": "Shape",
+            "attrdef": "Feature geometry.",
+            "attrdefs": "ESRI",
+            "attrdomv": { "udom": "Coordinates defining the features." },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "Shape"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Geometry"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": "AREA",
+            "attrdef": "Area in square meters",
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "AREA"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Double"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "19"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": "PERIMETER",
+            "attrdef": "Length of perimeter in meters",
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "PERIMETER"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Double"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "19"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "BVA04_"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "BVA04_"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Integer"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "9"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "9"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "BVA04_ID"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "BVA04_ID"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Integer"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "9"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "9"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "FIPS"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "FIPS"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "SmallInteger"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "3"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "3"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "FIPS2"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "FIPS2"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "SmallInteger"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "3"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "3"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "JURIS"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "JURIS"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "String"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "17"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "Acres"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "Acres"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Double"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "19"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "Hectares"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "Hectares"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Double"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "19"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "County_Nam"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "County_Nam"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "String"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "50"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "City_Numbe"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "City_Numbe"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "SmallInteger"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "2"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "2"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "Area_meter"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "Area_meter"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "Double"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "19"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "temp"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "temp"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "SmallInteger"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "4"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "4"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "Duplicate"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "Duplicate"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "String"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "5"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "FIPStxt"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "FIPStxt"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "String"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "3"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          },
+          {
+            "attrlabl": {
+              "-Sync": "TRUE",
+              "#text": "DGIFreg3"
+            },
+            "attalias": {
+              "-Sync": "TRUE",
+              "#text": "DGIFreg3"
+            },
+            "attrtype": {
+              "-Sync": "TRUE",
+              "#text": "SmallInteger"
+            },
+            "attwidth": {
+              "-Sync": "TRUE",
+              "#text": "4"
+            },
+            "atprecis": {
+              "-Sync": "TRUE",
+              "#text": "4"
+            },
+            "attscale": {
+              "-Sync": "TRUE",
+              "#text": "0"
+            }
+          }
+        ]
+      }
+    },
+    "distinfo": {
+      "resdesc": "Downloadable Data",
+      "distliab": "The VDGIF provides these data on an as is basis. All warranties of any kind, express or implied, including but not limited to fitness for a particular use, freedom from computer viruses, and non-infringement of proprietary rights are disclaimed. Neither the VDGIF nor the contributors to the VDGIF Fish and Wildlife Information Service (FWIS) shall be held liable for any improper or incorrect use of the information contained herein and assume no responsibility for the use of the information. In no event shall the VDGIF or the contributors to the FWIS be liable for any direct, indirect, or incidental damages arising in any way out of the use of this service. This disclaimer of liability applies to any damages or injury, including but not limited to those caused by any failure of performance, error, omission, defect, delay in operation or transmission, computer virus, alteration or use of record.",
+      "stdorder": {
+        "digform": {
+          "digtinfo": {
+            "transize": "0.654",
+            "dssize": {
+              "-Sync": "TRUE",
+              "#text": "0.908"
+            }
+          }
+        }
+      }
+    },
+    "metainfo": {
+      "metd": {
+        "-Sync": "TRUE",
+        "#text": "20110422"
+      },
+      "metstdn": {
+        "-Sync": "TRUE",
+        "#text": "FGDC Content Standards for Digital Geospatial Metadata"
+      },
+      "metstdv": {
+        "-Sync": "TRUE",
+        "#text": "FGDC-STD-001-1998"
+      },
+      "mettc": {
+        "-Sync": "TRUE",
+        "#text": "local time"
+      },
+      "metextns": [
+        {
+          "onlink": "http://www.esri.com/metadata/esriprof80.html",
+          "metprof": "ESRI Metadata Profile"
+        },
+        {
+          "onlink": "http://www.esri.com/metadata/esriprof80.html",
+          "metprof": "ESRI Metadata Profile"
+        }
+      ],
+      "langmeta": {
+        "-Sync": "TRUE",
+        "#text": "en"
+      }
+    },
+    "Esri": {
+      "MetaID": "{C1C2148E-4F21-46CB-B4E4-61D830904C3A}",
+      "CreaDate": "20110422",
+      "CreaTime": "12281300",
+      "SyncOnce": "FALSE",
+      "SyncDate": "20120705",
+      "SyncTime": "09084500",
+      "ModDate": "20120705",
+      "ModTime": "9175500",
+      "PublishedDocID": "{8F7D50DE-09E7-4D1A-83AB-DC5783ADA5FA}",
+      "PublishStatus": "Published",
+      "DataProperties": {
+        "itemProps": {
+          "itemName": {
+            "-Sync": "TRUE",
+            "#text": "DGIF_Regional_Boundaries_111810"
+          },
+          "imsContentType": {
+            "-Sync": "TRUE",
+            "-export": "False",
+            "#text": "002"
+          },
+          "nativeExtBox": {
+            "westBL": {
+              "-Sync": "TRUE",
+              "#text": "260687.567987"
+            },
+            "eastBL": {
+              "-Sync": "TRUE",
+              "#text": "1011323.530274"
+            },
+            "southBL": {
+              "-Sync": "TRUE",
+              "#text": "4044493.337706"
+            },
+            "northBL": {
+              "-Sync": "TRUE",
+              "#text": "4371841.070499"
+            },
+            "exTypeCode": {
+              "-Sync": "TRUE",
+              "#text": "1"
+            }
+          },
+          "itemSize": {
+            "-Sync": "TRUE",
+            "#text": "0.908"
+          },
+          "itemLocation": {
+            "linkage": {
+              "-Sync": "TRUE",
+              "#text": "file://\\\\gis\\share\\data\\GISData\\boundaries\\DGIF_Regional_Boundaries_111810.shp"
+            },
+            "protocol": {
+              "-Sync": "TRUE",
+              "#text": "Local Area Network"
+            }
+          }
+        },
+        "coordRef": {
+          "type": {
+            "-Sync": "TRUE",
+            "#text": "Projected"
+          },
+          "geogcsn": {
+            "-Sync": "TRUE",
+            "#text": "GCS_North_American_1983"
+          },
+          "csUnits": {
+            "-Sync": "TRUE",
+            "#text": "Linear Unit: Meter (1.000000)"
+          },
+          "projcsn": {
+            "-Sync": "TRUE",
+            "#text": "NAD_1983_UTM_Zone_17N"
+          },
+          "peXml": {
+            "-Sync": "TRUE",
+            "#text": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.0'><WKT>PROJCS[&quot;NAD_1983_UTM_Zone_17N&quot;,GEOGCS[&quot;GCS_North_American_1983&quot;,DATUM[&quot;D_North_American_1983&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Transverse_Mercator&quot;],PARAMETER[&quot;False_Easting&quot;,500000.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Central_Meridian&quot;,-81.0],PARAMETER[&quot;Scale_Factor&quot;,0.9996],PARAMETER[&quot;Latitude_Of_Origin&quot;,0.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,26917]]</WKT><XOrigin>-5120900</XOrigin><YOrigin>-9998100</YOrigin><XYScale>450445547.3910538</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>26917</WKID></ProjectedCoordinateSystem>"
+          }
+        }
+      },
+      "ArcGISFormat": "1.0",
+      "ArcGISProfile": "FGDC"
+    },
+    "dataIdInfo": {
+      "envirDesc": {
+        "-Sync": "TRUE",
+        "#text": "Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcGIS 10.0.4.4000"
+      },
+      "dataLang": {
+        "languageCode": { "-Sync": "TRUE" },
+        "countryCode": {
+          "-value": "US",
+          "-Sync": "TRUE"
+        }
+      },
+      "idCitation": {
+        "resTitle": {
+          "-Sync": "FALSE",
+          "#text": "DGIF Regional Boundaries"
+        },
+        "presForm": {
+          "PresFormCd": {
+            "-Sync": "TRUE",
+            "-value": "005"
+          }
+        },
+        "citRespParty": {
+          "rpIndName": "Lenee Pennington",
+          "rpOrgName": "VDGIF",
+          "rpPosName": "Acting GIS Coordinator",
+          "role": {
+            "RoleCd": { "-value": "007" }
+          },
+          "rpCntInfo": {
+            "cntAddress": {
+              "-addressType": "both",
+              "delPoint": "4010 W Broad St",
+              "city": "Richmond",
+              "adminArea": "Va",
+              "postCode": "23230",
+              "eMailAdd": "lenee.pennington@dgif.virginia.gov",
+              "country": "UNITED STATES"
+            },
+            "cntPhone": {
+              "voiceNum": { "#text": "8043670058" }
+            },
+            "cntHours": "8:30-5:00"
+          }
+        }
+      },
+      "spatRpType": {
+        "SpatRepTypCd": {
+          "-Sync": "TRUE",
+          "-value": "001"
+        }
+      },
+      "dataExt": [
+        {
+          "geoEle": {
+            "GeoBndBox": {
+              "-esriExtentType": "native",
+              "westBL": {
+                "-Sync": "TRUE",
+                "#text": "260687.567987"
+              },
+              "eastBL": {
+                "-Sync": "TRUE",
+                "#text": "1011323.530274"
+              },
+              "northBL": {
+                "-Sync": "TRUE",
+                "#text": "4371841.070499"
+              },
+              "southBL": {
+                "-Sync": "TRUE",
+                "#text": "4044493.337706"
+              },
+              "exTypeCode": {
+                "-Sync": "TRUE",
+                "#text": "1"
+              }
+            }
+          }
+        },
+        {
+          "geoEle": {
+            "GeoBndBox": {
+              "-esriExtentType": "search",
+              "exTypeCode": {
+                "-Sync": "TRUE",
+                "#text": "1"
+              },
+              "westBL": {
+                "-Sync": "TRUE",
+                "#text": "-83.781691"
+              },
+              "eastBL": {
+                "-Sync": "TRUE",
+                "#text": "-75.068202"
+              },
+              "northBL": {
+                "-Sync": "TRUE",
+                "#text": "39.496185"
+              },
+              "southBL": {
+                "-Sync": "TRUE",
+                "#text": "36.409482"
+              }
+            }
+          }
+        }
+      ],
+      "geoBox": {
+        "-esriExtentType": "decdegrees",
+        "westBL": {
+          "-Sync": "TRUE",
+          "#text": "-83.781691"
+        },
+        "eastBL": {
+          "-Sync": "TRUE",
+          "#text": "-75.068202"
+        },
+        "northBL": {
+          "-Sync": "TRUE",
+          "#text": "39.496185"
+        },
+        "southBL": {
+          "-Sync": "TRUE",
+          "#text": "36.409482"
+        },
+        "exTypeCode": {
+          "-Sync": "TRUE",
+          "#text": "1"
+        }
+      },
+      "idPurp": "This dataset was created to map VDGIF regions.",
+      "idAbs": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>This spatial dataset defines the administrative boundaries of the Virginia Department of Game and Inland Fisheries' (VDGIF) regions.</SPAN></P></DIV></DIV></DIV>",
+      "searchKeys": {
+        "keyword": [
+          "boundaries",
+          "regions",
+          "Virginia Game Department",
+          "VDGIF"
+        ]
+      },
+      "resConst": {
+        "Consts": { "useLimit": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Neither the VDGIF nor the contributors of data to VDGIF shall be held liable for any improper or incorrect use or application of the data provided, and assume no responsibility for the use or application of the data or information derived from interpretation of the data. In no event shall the VDGIF or its collaborators be liable for any direct, indirect, or incidental damages arising from the use or application of these data. This disclaimer of liability applies to any damages or injury, including but not limited to those caused by any failure of performance, error, omission, defect, delay in operation or transmission, computer virus, alteration, use, application, analysis, or interpretation of data. Data are available by permission of the Virginia Department of Game and Inland Fisheries. Use of data in publications, either digital or hardcopy, must be cited as follows: DGIF Regional Boundaries. 2012. Virginia Department of Game and Inland Fisheries.</SPAN></P></DIV></DIV></DIV>" }
+      },
+      "dataChar": {
+        "CharSetCd": { "-value": "004" }
+      },
+      "idPoC": {
+        "rpIndName": "Lenee Pennington",
+        "rpOrgName": "VDGIF",
+        "rpPosName": "Acting GIS Coordinator",
+        "role": {
+          "RoleCd": { "-value": "001" }
+        },
+        "rpCntInfo": {
+          "cntAddress": {
+            "-addressType": "both",
+            "delPoint": "4010 W Broad St",
+            "city": "Richmond",
+            "adminArea": "Va",
+            "postCode": "23230",
+            "eMailAdd": "lenee.pennington@dgif.virginia.gov",
+            "country": "UNITED STATES"
+          },
+          "cntPhone": {
+            "voiceNum": { "#text": "8043670058" }
+          },
+          "cntHours": "8:30-5:00"
+        }
+      },
+      "resMaint": {
+        "maintFreq": {
+          "MaintFreqCd": { "-value": "011" }
+        }
+      },
+      "tpCat": {
+        "TopicCatCd": { "-value": "003" }
+      }
+    },
+    "mdLang": {
+      "languageCode": { "-Sync": "TRUE" },
+      "countryCode": {
+        "-value": "US",
+        "-Sync": "TRUE"
+      }
+    },
+    "mdStanName": {
+      "-Sync": "TRUE",
+      "#text": "ISO 19115 Geographic Information - Metadata"
+    },
+    "mdStanVer": {
+      "-Sync": "TRUE",
+      "#text": "DIS_ESRI1.0"
+    },
+    "mdChar": {
+      "CharSetCd": {
+        "-Sync": "TRUE",
+        "-value": "006"
+      }
+    },
+    "mdHrLv": {
+      "ScopeCd": {
+        "-Sync": "TRUE",
+        "-value": "005"
+      }
+    },
+    "mdHrLvName": {
+      "-Sync": "TRUE",
+      "#text": "dataset"
+    },
+    "distInfo": {
+      "distributor": {
+        "distorTran": {
+          "onLineSrc": {
+            "orDesc": {
+              "-Sync": "TRUE",
+              "#text": "002"
+            },
+            "linkage": {
+              "-Sync": "TRUE",
+              "#text": "file://\\\\GIS\\Share\\Data\\GISData\\boundaries\\DGIF_Regional_Boundaries_111810.shp"
+            },
+            "protocol": {
+              "-Sync": "TRUE",
+              "#text": "Local Area Network"
+            }
+          },
+          "transSize": {
+            "-Sync": "TRUE",
+            "#text": "0.908"
+          }
+        },
+        "distorFormat": {
+          "formatName": {
+            "-Sync": "TRUE",
+            "#text": "Shapefile"
+          }
+        }
+      },
+      "distFormat": {
+        "formatName": {
+          "-Sync": "TRUE",
+          "#text": "Shapefile"
+        }
+      },
+      "distTranOps": {
+        "transSize": {
+          "-Sync": "TRUE",
+          "#text": "0.908"
+        }
+      }
+    },
+    "refSysInfo": {
+      "RefSystem": {
+        "refSysID": {
+          "identCode": {
+            "-Sync": "TRUE",
+            "-value": "26917",
+            "#text": "NAD_1983_UTM_Zone_17N"
+          },
+          "idCodeSpace": {
+            "-Sync": "TRUE",
+            "#text": "EPSG"
+          },
+          "idVersion": {
+            "-Sync": "TRUE",
+            "#text": "7.4.1"
+          }
+        }
+      }
+    },
+    "spatRepInfo": {
+      "VectSpatRep": {
+        "geometObjs": {
+          "-Name": "DGIF_Regional_Boundaries_111810",
+          "geoObjTyp": {
+            "GeoObjTypCd": {
+              "-value": "002",
+              "-Sync": "TRUE"
+            }
+          },
+          "geoObjCnt": {
+            "-Sync": "TRUE",
+            "#text": "4"
+          }
+        },
+        "topLvl": {
+          "TopoLevCd": {
+            "-value": "001",
+            "-Sync": "TRUE"
+          }
+        }
+      }
+    },
+    "mdDateSt": {
+      "-Sync": "TRUE",
+      "#text": "20120705"
+    },
+    "Binary": {
+      "Thumbnail": {
+        "Data": {
+          "-EsriPropertyType": "PictureX",
+          "#text": "/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKpi8cXEwZA0KPsDICSPlByR35JHHT88TKcY/EwLlFMMsYhM
+24GPbu3DkY9aSKeOYkITkdQQQR+B+hp3WwElFFFMAooooAKKKKACiiigAooooAKKKKACiiigAooo
+oAKKKKACiiigAooqvcXDxSKkcXmHG5+cYHt7k/yNKUlFXYEk8ywQmQgnkAAdyTgD8zVaCMxxANjc
+SWbHTJJJ/U01IvMkFxMCZOSoY58sHsPfHWpq8jFYhVHyx2RpFWImhBwqnam4MygcEg5/DmhlZLqO
+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"
+        }
+      }
+    },
+    "mdContact": {
+      "rpIndName": "Justin Ray",
+      "rpOrgName": "VDGIF",
+      "rpPosName": "GIS Database and Applications Specialist",
+      "role": {
+        "RoleCd": { "-value": "011" }
+      },
+      "rpCntInfo": {
+        "cntAddress": {
+          "-addressType": "both",
+          "delPoint": "4010 W Broad St",
+          "city": "Richmond",
+          "adminArea": "Va",
+          "postCode": "23230",
+          "eMailAdd": "justin.ray@dgif.virginia.gov",
+          "country": "UNITED STATES"
+        },
+        "cntPhone": {
+          "voiceNum": { "#text": "8043674370" }
+        },
+        "cntHours": "8:30-4:30"
+      }
+    },
+    "mdMaint": {
+      "maintFreq": {
+        "MaintFreqCd": { "-value": "009" }
+      }
+    },
+    "dqInfo": {
+      "dqScope": {
+        "scpLvl": {
+          "ScopeCd": { "-value": "005" }
+        }
+      }
+    }
+  }
+}
