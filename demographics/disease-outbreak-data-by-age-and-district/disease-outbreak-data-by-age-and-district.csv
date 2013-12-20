@@ -1,0 +1,653 @@
+,,,,
+,,,EVENTNAME,CAMPYLOBACT
+,,,,
+,,,,
+,AGEGROUP,,,
+DISTRICT,00-04 YRS,05-09 YRS  ,10-14 YRS,15-19 YRS
+----------------,+-----------,------------,----------,-----------
+ALEXANDRIA,|          0,1,0,0
+ALLEGHANY,|          1,1,0,1
+ARLINGTON,|          2,0,2,0
+CENTRAL SHENAND,|          7,3,2,5
+CENTRAL VIRGINI,|          5,3,3,4
+CHESAPEAKE,|          1,1,0,1
+CHESTERFIELD,|          1,1,1,3
+CRATER,|          1,0,0,1
+CUMBERLAND PLAT,|          3,1,1,0
+EASTERN SHORE,|          1,0,0,0
+FAIRFAX,|          3,3,2,1
+HAMPTON,|          1,0,0,0
+HANOVER,|          3,0,1,0
+HENRICO,|          1,0,4,1
+LENOWISCO,|          7,0,3,1
+LORD FAIRFAX,|          8,2,3,2
+LOUDOUN,|          1,0,0,1
+MOUNT ROGERS,|          4,1,1,0
+NEW RIVER,|          0,0,1,2
+NORFOLK,|          4,2,0,0
+PENINSULA,|          0,1,0,0
+PIEDMONT,|          1,2,0,1
+PITTSYL/DANVILL,|          1,0,0,0
+PORTSMOUTH,|          1,0,0,0
+PRINCE WILLIAM,|          3,1,0,0
+RAPPAHAN/RAPIDA,|          1,0,1,0
+RAPPAHANNOCK,|          1,0,3,0
+RICHMOND CITY,|          2,1,0,0
+ROANOKE CITY,|          0,0,1,0
+SOUTHSIDE,|          0,0,0,0
+THOMAS JEFFERSO,|          3,2,0,0
+THREE RIVERS,|          1,0,1,2
+VIRGINIA BEACH,|          9,0,0,3
+WEST PIEDMONT,|          1,0,0,0
+WEST TIDEWATER,|          0,1,0,0
+----------------,+-----------,------------,----------,-----------
+Total,|         78,27,30,29
+,,,,
+,,,,
+,,,EVENTNAME,Err:509
+,AGEGROUP,,,
+DISTRICT,00-04 YRS,05-09 YRS  ,10-14 YRS,15-19 YRS
+----------------,+-----------,------------,----------,-----------
+ALEXANDRIA,|          1,0,0,0
+ALLEGHANY,|          1,0,0,0
+ARLINGTON,|          1,0,0,0
+CENTRAL SHENAND,|          1,1,0,1
+CENTRAL VIRGINI,|          0,0,0,0
+CHESAPEAKE,|          0,1,0,0
+CHESTERFIELD,|          1,2,0,0
+CRATER,|          0,0,0,0
+CUMBERLAND PLAT,|          0,0,0,0
+EASTERN SHORE,|          0,0,0,0
+FAIRFAX,|          3,0,0,1
+HAMPTON,|          0,0,0,0
+HANOVER,|          1,0,0,0
+HENRICO,|          0,0,0,0
+LENOWISCO,|          1,0,0,0
+LORD FAIRFAX,|          1,0,0,0
+LOUDOUN,|          2,0,0,0
+MOUNT ROGERS,|          3,1,1,1
+NEW RIVER,|          1,0,0,0
+NORFOLK,|          0,0,0,1
+PENINSULA,|          1,0,0,0
+PIEDMONT,|          0,0,0,0
+PITTSYL/DANVILL,|          0,0,0,0
+PORTSMOUTH,|          0,0,0,0
+PRINCE WILLIAM,|          6,0,2,0
+RAPPAHAN/RAPIDA,|          0,0,0,0
+RAPPAHANNOCK,|          0,0,0,0
+RICHMOND CITY,|          0,1,1,0
+ROANOKE CITY,|          2,0,0,0
+SOUTHSIDE,|          0,0,0,0
+THOMAS JEFFERSO,|          0,0,0,0
+THREE RIVERS,|          0,0,0,0
+VIRGINIA BEACH,|          1,0,0,0
+WEST PIEDMONT,|          0,0,2,0
+WEST TIDEWATER,|          0,0,0,0
+----------------,+-----------,------------,----------,-----------
+Total,|         27,6,6,4
+,,,,
+,,,,
+,,,,
+,,,EVENTNAME,WEST NILE VIRUS
+,AGEGROUP,,,
+DISTRICT,00-04 YRS,05-09 YRS  ,10-14 YRS,15-19 YRS
+----------------,+-----------,------------,----------,-----------
+ALEXANDRIA,|          0,0,0,0
+ALLEGHANY,|          0,0,0,0
+ARLINGTON,|          1,0,0,0
+CENTRAL SHENAND,|          0,0,0,0
+CENTRAL VIRGINI,|          0,0,0,0
+CHESAPEAKE,|          0,0,0,0
+CHESTERFIELD,|          0,0,0,0
+CRATER,|          0,0,0,0
+CUMBERLAND PLAT,|          0,0,0,0
+EASTERN SHORE,|          0,0,0,0
+FAIRFAX,|          1,0,0,0
+HAMPTON,|          0,0,0,0
+HANOVER,|          0,0,0,0
+HENRICO,|          0,0,0,0
+LENOWISCO,|          0,0,0,0
+LORD FAIRFAX,|          0,0,0,0
+LOUDOUN,|          0,0,0,0
+MOUNT ROGERS,|          0,0,0,0
+NEW RIVER,|          0,0,0,0
+NORFOLK,|          0,0,0,0
+PENINSULA,|          0,0,0,0
+PIEDMONT,|          0,0,0,0
+PITTSYL/DANVILL,|          0,0,0,0
+PORTSMOUTH,|          0,0,0,0
+PRINCE WILLIAM,|          0,0,0,0
+RAPPAHAN/RAPIDA,|          0,0,0,0
+RAPPAHANNOCK,|          0,0,0,0
+RICHMOND CITY,|          0,0,0,0
+ROANOKE CITY,|          0,0,0,0
+SOUTHSIDE,|          0,0,0,0
+THOMAS JEFFERSO,|          0,0,0,0
+THREE RIVERS,|          0,0,0,0
+VIRGINIA BEACH,|          0,0,0,0
+WEST PIEDMONT,|          0,0,0,0
+WEST TIDEWATER,|          0,0,0,0
+----------------,+-----------,------------,----------,-----------
+Total,|          2,0,0,0
+,,,,
+,,,,
+,,,EVENTNAME,GIARDIA
+,AGEGROUP,,,
+DISTRICT,00-04 YRS,05-09 YRS  ,10-14 YRS,15-19 YRS
+----------------,+-----------,------------,----------,-----------
+ALEXANDRIA,|          1,0,1,0
+ALLEGHANY,|          0,1,1,0
+ARLINGTON,|          8,1,0,0
+CENTRAL SHENAND,|          0,3,1,0
+CENTRAL VIRGINI,|          0,0,0,1
+CHESAPEAKE,|          1,0,0,0
+CHESTERFIELD,|          1,0,2,1
+CRATER,|          1,0,0,0
+CUMBERLAND PLAT,|          0,0,1,1
+EASTERN SHORE,|          1,0,0,0
+FAIRFAX,|         19,10,2,3
+HAMPTON,|          0,0,0,0
+HANOVER,|          1,2,0,0
+HENRICO,|         10,3,1,0
+LENOWISCO,|          1,0,0,0
+LORD FAIRFAX,|          6,1,2,0
+LOUDOUN,|          4,2,3,1
+MOUNT ROGERS,|          1,0,2,0
+NEW RIVER,|          1,0,2,0
+NORFOLK,|          0,0,0,0
+PENINSULA,|          2,4,3,1
+PIEDMONT,|          0,0,1,0
+PITTSYL/DANVILL,|          0,0,0,0
+PORTSMOUTH,|          1,0,0,0
+PRINCE WILLIAM,|          3,1,0,0
+RAPPAHAN/RAPIDA,|          1,2,0,0
+RAPPAHANNOCK,|          4,3,0,0
+RICHMOND CITY,|          0,1,1,0
+ROANOKE CITY,|          3,2,3,3
+SOUTHSIDE,|          0,0,0,0
+THOMAS JEFFERSO,|          2,4,0,0
+THREE RIVERS,|          1,0,0,0
+VIRGINIA BEACH,|          7,3,0,0
+WEST PIEDMONT,|          1,0,0,0
+WEST TIDEWATER,|          0,0,0,0
+----------------,+-----------,------------,----------,-----------
+Total,|         81,43,26,11
+,,,,
+,,,,
+,,,EVENTNAME,H FLU INVSI
+,AGEGROUP,,,
+DISTRICT,00-04 YRS,05-09 YRS  ,10-14 YRS,15-19 YRS
+----------------,+-----------,------------,----------,-----------
+ALEXANDRIA,|          0,0,0,0
+ALLEGHANY,|          0,0,0,0
+ARLINGTON,|          0,0,0,0
+CENTRAL SHENAND,|          0,0,0,0
+CENTRAL VIRGINI,|          0,0,0,0
+CHESAPEAKE,|          0,0,0,0
+CHESTERFIELD,|          0,0,0,0
+CRATER,|          1,0,0,0
+CUMBERLAND PLAT,|          0,0,0,0
+EASTERN SHORE,|          0,0,0,0
+FAIRFAX,|          1,0,0,0
+HAMPTON,|          0,0,0,0
+HANOVER,|          0,0,0,0
+HENRICO,|          0,0,0,0
+LENOWISCO,|          0,0,0,0
+LORD FAIRFAX,|          2,0,0,0
+LOUDOUN,|          0,0,0,0
+MOUNT ROGERS,|          0,0,0,0
+NEW RIVER,|          0,0,0,0
+NORFOLK,|          0,0,0,0
+PENINSULA,|          0,0,0,0
+PIEDMONT,|          0,0,0,0
+PITTSYL/DANVILL,|          0,0,0,0
+PORTSMOUTH,|          0,0,0,0
+PRINCE WILLIAM,|          0,0,0,0
+RAPPAHAN/RAPIDA,|          0,0,0,0
+RAPPAHANNOCK,|          1,0,0,0
+RICHMOND CITY,|          0,0,0,0
+ROANOKE CITY,|          0,0,0,0
+SOUTHSIDE,|          0,0,0,0
+THOMAS JEFFERSO,|          0,0,0,0
+THREE RIVERS,|          0,1,0,0
+VIRGINIA BEACH,|          0,0,0,0
+WEST PIEDMONT,|          0,0,0,0
+WEST TIDEWATER,|          0,0,0,0
+----------------,+-----------,------------,----------,-----------
+Total,|          5,1,0,0
+,,,,
+,,,,
+,,,EVENTNAME,HEPATITIS A
+,AGEGROUP,,,
+DISTRICT,00-04 YRS,05-09 YRS  ,10-14 YRS,15-19 YRS
+----------------,+-----------,------------,----------,-----------
+ALEXANDRIA,|          0,0,0,0
+ALLEGHANY,|          0,0,0,0
+ARLINGTON,|          1,2,2,2
+CENTRAL SHENAND,|          0,0,0,1
+CENTRAL VIRGINI,|          0,0,0,0
+CHESAPEAKE,|          0,0,1,0
+CHESTERFIELD,|          3,1,0,0
+CRATER,|          0,0,0,1
+CUMBERLAND PLAT,|          0,0,0,0
+EASTERN SHORE,|          0,0,0,0
+FAIRFAX,|          2,4,1,1
+HAMPTON,|          0,0,0,0
+HANOVER,|          0,0,0,0
+HENRICO,|          0,0,0,1
+LENOWISCO,|          0,0,0,0
+LORD FAIRFAX,|          0,0,0,0
+LOUDOUN,|          0,0,0,0
+MOUNT ROGERS,|          0,0,1,0
+NEW RIVER,|          0,0,0,0
+NORFOLK,|          0,0,0,0
+PENINSULA,|          0,0,0,0
+PIEDMONT,|          0,0,0,0
+PITTSYL/DANVILL,|          0,0,0,0
+PORTSMOUTH,|          0,0,0,0
+PRINCE WILLIAM,|          0,0,0,0
+RAPPAHAN/RAPIDA,|          0,0,0,0
+RAPPAHANNOCK,|          0,0,0,0
+RICHMOND CITY,|          0,0,0,0
+ROANOKE CITY,|          0,0,0,0
+SOUTHSIDE,|          0,0,0,0
+THOMAS JEFFERSO,|          0,0,0,0
+THREE RIVERS,|          0,0,0,0
+VIRGINIA BEACH,|          2,0,0,1
+WEST PIEDMONT,|          0,0,1,0
+WEST TIDEWATER,|          0,0,0,0
+----------------,+-----------,------------,----------,-----------
+Total,|          8,7,6,7
+,,,,
+,,,,
+,,,EVENTNAME,HEPATITIS B
+,AGEGROUP,,,
+DISTRICT,00-04 YRS,05-09 YRS  ,10-14 YRS,15-19 YRS
+----------------,+-----------,------------,----------,-----------
+ALEXANDRIA,|          0,0,0,0
+ALLEGHANY,|          0,0,0,0
+ARLINGTON,|          0,0,0,0
+CENTRAL SHENAND,|          0,0,0,1
+CENTRAL VIRGINI,|          0,0,0,0
+CHESAPEAKE,|          0,0,0,0
+CHESTERFIELD,|          0,0,0,1
+CRATER,|          0,0,0,0
+CUMBERLAND PLAT,|          0,0,0,0
+EASTERN SHORE,|          0,0,0,0
+FAIRFAX,|          0,0,0,0
+HAMPTON,|          0,0,0,1
+HANOVER,|          0,0,0,0
+HENRICO,|          0,0,0,0
+LENOWISCO,|          0,0,0,0
+LORD FAIRFAX,|          0,0,0,0
+LOUDOUN,|          0,0,0,1
+MOUNT ROGERS,|          0,0,0,0
+NEW RIVER,|          0,0,0,1
+NORFOLK,|          0,0,0,3
+PENINSULA,|          0,0,0,1
+PIEDMONT,|          0,0,0,0
+PITTSYL/DANVILL,|          0,0,0,0
+PORTSMOUTH,|          0,0,0,0
+PRINCE WILLIAM,|          0,0,0,0
+RAPPAHAN/RAPIDA,|          0,0,0,0
+RAPPAHANNOCK,|          0,0,0,0
+RICHMOND CITY,|          0,0,0,0
+ROANOKE CITY,|          0,0,0,1
+SOUTHSIDE,|          0,0,0,0
+THOMAS JEFFERSO,|          0,0,0,1
+THREE RIVERS,|          0,0,0,0
+VIRGINIA BEACH,|          0,0,0,0
+WEST PIEDMONT,|          0,0,0,0
+WEST TIDEWATER,|          0,0,0,0
+----------------,+-----------,------------,----------,-----------
+Total,|          0,0,0,11
+,,,,
+,,,,
+,,,,
+,,,EVENTNAME,LYME DISEAS
+,AGEGROUP,,,
+DISTRICT,00-04 YRS,05-09 YRS  ,10-14 YRS,15-19 YRS
+----------------,+-----------,------------,----------,-----------
+ALEXANDRIA,0,0,0,1
+ALLEGHANY,|          0,0,0,0
+ARLINGTON,|          0,0,0,0
+CENTRAL SHENAND,|          0,0,0,0
+CENTRAL VIRGINI,|          0,0,0,0
+CHESAPEAKE,|          0,0,0,0
+CHESTERFIELD,|          0,0,1,0
+CRATER,|          0,0,0,0
+CUMBERLAND PLAT,|          0,0,0,0
+EASTERN SHORE,|          0,2,0,0
+FAIRFAX,|          2,9,5,1
+HAMPTON,|          0,0,0,0
+HANOVER,|          0,0,0,0
+HENRICO,|          0,1,0,0
+LENOWISCO,|          0,0,0,0
+LORD FAIRFAX,|          0,0,0,0
+LOUDOUN,|          7,9,7,3
+MOUNT ROGERS,|          0,0,0,0
+NEW RIVER,|          0,0,0,0
+NORFOLK,|          0,0,0,0
+PENINSULA,|          0,0,1,0
+PIEDMONT,|          0,1,0,0
+PITTSYL/DANVILL,|          0,0,0,0
+PORTSMOUTH,|          0,0,0,0
+PRINCE WILLIAM,|          2,3,2,0
+RAPPAHAN/RAPIDA,|          0,0,1,0
+RAPPAHANNOCK,|          0,2,2,2
+RICHMOND CITY,|          0,0,0,2
+ROANOKE CITY,|          0,0,0,0
+SOUTHSIDE,|          0,0,0,0
+THOMAS JEFFERSO,|          1,0,0,1
+THREE RIVERS,|          0,0,0,0
+VIRGINIA BEACH,|          0,0,0,0
+WEST PIEDMONT,|          0,0,0,0
+WEST TIDEWATER,|          0,0,0,0
+----------------,+-----------,------------,----------,-----------
+Total,|         12,27,19,10
+,,,,
+,,,,
+,,,,
+,,EVEN,TNAME =MEN,INGOCOCCAL I
+,AGEGROUP,,,
+DISTRICT,00-04 YRS,05-09 YRS  ,10-14 YRS,15-19 YRS
+----------------,+-----------,------------,----------,-----------
+ALEXANDRIA,|          0,0,0,0
+ALLEGHANY,|          0,0,0,0
+ARLINGTON,|          1,0,0,0
+CENTRAL SHENAND,|          0,0,0,0
+CENTRAL VIRGINI,|          3,0,0,0
+CHESAPEAKE,|          0,0,0,0
+CHESTERFIELD,|          1,0,0,0
+CRATER,|          0,1,0,1
+CUMBERLAND PLAT,|          2,0,0,0
+EASTERN SHORE,|          0,0,0,0
+FAIRFAX,|          2,0,0,0
+HAMPTON,|          0,0,0,1
+HANOVER,|          0,0,0,0
+HENRICO,|          0,0,0,0
+LENOWISCO,|          0,0,0,0
+LORD FAIRFAX,|          0,0,0,0
+LOUDOUN,|          0,0,0,1
+MOUNT ROGERS,|          0,0,0,0
+NEW RIVER,|          1,0,0,1
+NORFOLK,|          0,0,0,0
+PENINSULA,|          1,0,0,0
+PIEDMONT,|          0,0,0,0
+PITTSYL/DANVILL,|          0,0,0,0
+PORTSMOUTH,|          1,0,1,0
+PRINCE WILLIAM,|          0,0,0,0
+RAPPAHAN/RAPIDA,|          1,0,0,0
+RAPPAHANNOCK,|          0,0,1,1
+RICHMOND CITY,|          0,0,0,0
+ROANOKE CITY,|          1,0,0,0
+SOUTHSIDE,|          0,0,0,0
+THOMAS JEFFERSO,|          0,0,0,0
+THREE RIVERS,|          1,0,0,0
+VIRGINIA BEACH,|          1,0,0,0
+WEST PIEDMONT,|          0,0,0,0
+WEST TIDEWATER,|          0,0,0,0
+----------------,+-----------,------------,----------,-----------
+Total,|         16,1,2,5
+,,,,
+,,,,
+,,,,
+,,,EVENTNAME,MUMPS
+,AGEGROUP,,,
+DISTRICT,00-04 YRS,05-09 YRS  ,10-14 YRS,15-19 YRS
+----------------,+-----------,------------,----------,-----------
+ALEXANDRIA,|          0,0,0,0
+ALLEGHANY,|          0,0,0,0
+ARLINGTON,|          0,0,0,0
+CENTRAL SHENAND,|          0,0,0,0
+CENTRAL VIRGINI,|          0,0,0,0
+CHESAPEAKE,|          0,0,0,0
+CHESTERFIELD,|          0,0,0,0
+CRATER,|          0,0,0,0
+CUMBERLAND PLAT,|          0,0,0,0
+EASTERN SHORE,|          0,0,0,0
+FAIRFAX,|          0,0,0,0
+HAMPTON,|          0,0,0,0
+HANOVER,|          0,0,0,0
+HENRICO,|          0,0,0,0
+LENOWISCO,|          0,0,0,0
+LORD FAIRFAX,|          0,0,0,0
+LOUDOUN,|          0,0,0,0
+MOUNT ROGERS,|          0,0,0,0
+NEW RIVER,|          0,0,0,0
+NORFOLK,|          0,0,0,0
+PENINSULA,|          0,0,0,0
+PIEDMONT,|          0,0,0,0
+PITTSYL/DANVILL,|          0,0,0,0
+PORTSMOUTH,|          0,0,0,0
+PRINCE WILLIAM,|          0,0,0,0
+RAPPAHAN/RAPIDA,|          0,0,0,0
+RAPPAHANNOCK,|          0,0,0,0
+RICHMOND CITY,|          0,0,0,0
+ROANOKE CITY,|          0,0,0,0
+SOUTHSIDE,|          1,0,0,0
+THOMAS JEFFERSO,|          1,0,0,0
+THREE RIVERS,|          0,0,0,0
+VIRGINIA BEACH,|          0,0,0,0
+WEST PIEDMONT,|          0,0,0,0
+WEST TIDEWATER,|          0,0,0,0
+----------------,+-----------,------------,----------,-----------
+Total,|          2,0,0,0
+,,,,
+,,,,
+,,,,
+,,,EVENTNAME,PERTUSSIS
+,AGEGROUP,,,
+DISTRICT,00-04 YRS,05-09 YRS  ,10-14 YRS,15-19 YRS
+----------------,+-----------,------------,----------,-----------
+ALEXANDRIA,|          2,0,1,0
+ALLEGHANY,|          0,0,0,0
+ARLINGTON,|          0,0,0,0
+CENTRAL SHENAND,|          6,3,4,4
+CENTRAL VIRGINI,|          0,0,3,0
+CHESAPEAKE,|          0,0,0,0
+CHESTERFIELD,|          7,0,3,0
+CRATER,|          1,0,1,0
+CUMBERLAND PLAT,|          0,0,0,0
+EASTERN SHORE,|          0,0,0,0
+FAIRFAX,|          2,1,3,0
+HAMPTON,|          0,0,0,0
+HANOVER,|          0,0,0,0
+HENRICO,|          1,2,1,0
+LENOWISCO,|          0,1,0,1
+LORD FAIRFAX,|          0,0,0,0
+LOUDOUN,|          0,0,0,0
+MOUNT ROGERS,|          2,0,0,0
+NEW RIVER,|          1,0,0,0
+NORFOLK,|          6,0,0,0
+PENINSULA,|          0,0,0,0
+PIEDMONT,|          0,0,0,0
+PITTSYL/DANVILL,|          0,0,0,0
+PORTSMOUTH,|          1,0,0,0
+PRINCE WILLIAM,|          1,0,0,0
+RAPPAHAN/RAPIDA,|          1,0,2,0
+RAPPAHANNOCK,|          4,0,0,0
+RICHMOND CITY,|          4,0,0,0
+ROANOKE CITY,|          0,0,0,0
+SOUTHSIDE,|          2,0,0,0
+THOMAS JEFFERSO,|         13,4,29,11
+THREE RIVERS,|          0,0,0,0
+VIRGINIA BEACH,|         10,0,0,0
+WEST PIEDMONT,|          0,0,0,0
+WEST TIDEWATER,|          1,0,0,0
+----------------,+-----------,------------,----------,-----------
+Total,|         65,11,47,16
+,,,,
+,,,,
+,,,,
+,,,EVENTNAME,SALMONELLOS
+,AGEGROUP,,,
+DISTRICT,00-04 YRS,05-09 YRS  ,10-14 YRS,15-19 YRS
+----------------,+-----------,------------,----------,-----------
+ALEXANDRIA,|          3,1,1,1
+ALLEGHANY,|          6,2,2,0
+ARLINGTON,|         16,0,1,1
+CENTRAL SHENAND,|         11,7,3,2
+CENTRAL VIRGINI,|         13,3,4,3
+CHESAPEAKE,|         15,2,1,2
+CHESTERFIELD,|         18,8,4,4
+CRATER,|          9,3,1,0
+CUMBERLAND PLAT,|          4,0,0,0
+EASTERN SHORE,|         12,3,0,0
+FAIRFAX,|         42,17,10,8
+HAMPTON,|          3,1,0,2
+HANOVER,|          6,1,1,0
+HENRICO,|          8,8,5,4
+LENOWISCO,|          4,1,0,1
+LORD FAIRFAX,|          6,4,4,2
+LOUDOUN,|         10,4,2,0
+MOUNT ROGERS,|         11,0,2,2
+NEW RIVER,|          4,1,1,2
+NORFOLK,|          4,4,0,1
+PENINSULA,|         13,3,0,1
+PIEDMONT,|         12,3,1,1
+PITTSYL/DANVILL,|          3,2,3,0
+PORTSMOUTH,|          1,0,0,0
+PRINCE WILLIAM,|         12,3,2,4
+RAPPAHAN/RAPIDA,|          2,1,2,0
+RAPPAHANNOCK,|         15,3,6,1
+RICHMOND CITY,|         15,1,0,9
+ROANOKE CITY,|          6,3,1,0
+SOUTHSIDE,|          5,1,2,0
+THOMAS JEFFERSO,|          2,4,0,2
+THREE RIVERS,|         12,1,0,0
+VIRGINIA BEACH,|         23,9,3,5
+WEST PIEDMONT,|          2,2,0,1
+WEST TIDEWATER,|          6,3,2,2
+----------------,+-----------,------------,----------,-----------
+Total,|        334,109,64,61
+,,,,
+,,,,
+,,,EVENTNAME,SHIGELLOSIS
+,AGEGROUP,,,
+DISTRICT,00-04 YRS,05-09 YRS  ,10-14 YRS,15-19 YRS
+----------------,+-----------,------------,----------,-----------
+ALEXANDRIA,|          1,0,0,0
+ALLEGHANY,|          3,1,0,0
+ARLINGTON,|          4,2,0,0
+CENTRAL SHENAND,|          2,1,1,0
+CENTRAL VIRGINI,|          3,2,0,1
+CHESAPEAKE,|         14,11,2,1
+CHESTERFIELD,|         20,25,5,0
+CRATER,|         16,11,0,0
+CUMBERLAND PLAT,|          0,0,0,0
+EASTERN SHORE,|          7,2,1,0
+FAIRFAX,|          7,9,3,3
+HAMPTON,|          3,3,0,0
+HANOVER,|          7,24,2,2
+HENRICO,|         20,7,2,0
+LENOWISCO,|          0,1,0,0
+LORD FAIRFAX,|          1,0,0,0
+LOUDOUN,|          3,2,0,0
+MOUNT ROGERS,|          1,1,1,2
+NEW RIVER,|          1,0,0,0
+NORFOLK,|         48,29,9,0
+PENINSULA,|         22,21,4,4
+PIEDMONT,|         15,11,2,4
+PITTSYL/DANVILL,|          1,1,0,0
+PORTSMOUTH,|         16,8,5,1
+PRINCE WILLIAM,|          2,3,0,0
+RAPPAHAN/RAPIDA,|          0,0,0,0
+RAPPAHANNOCK,|          3,10,0,0
+RICHMOND CITY,|         23,18,12,5
+ROANOKE CITY,|          1,0,1,0
+SOUTHSIDE,|          3,5,1,0
+THOMAS JEFFERSO,|          3,1,1,0
+THREE RIVERS,|          4,13,1,2
+VIRGINIA BEACH,|         45,71,6,3
+WEST PIEDMONT,|          1,1,0,0
+WEST TIDEWATER,|         11,12,2,2
+----------------,+-----------,------------,----------,-----------
+Total,|        311,306,61,30
+,,,,
+,,,,
+,,EVENTNAM,E =GROUP A,STREP INVAS
+,AGEGROUP,,,
+DISTRICT,00-04 YRS,05-09 YRS  ,10-14 YRS,15-19 YRS
+----------------,+-----------,------------,----------,-----------
+ALEXANDRIA,|          0,0,0,0
+ALLEGHANY,|          0,0,0,0
+ARLINGTON,|          0,0,0,0
+CENTRAL SHENAND,|          0,0,0,0
+CENTRAL VIRGINI,|          0,0,0,0
+CHESAPEAKE,|          0,0,0,0
+CHESTERFIELD,|          1,0,0,0
+CRATER,|          0,0,0,0
+CUMBERLAND PLAT,|          0,0,0,0
+EASTERN SHORE,|          0,0,0,0
+FAIRFAX,|          0,0,0,0
+HAMPTON,|          0,0,0,0
+HANOVER,|          0,0,0,1
+HENRICO,|          0,0,0,0
+LENOWISCO,|          0,0,0,0
+LORD FAIRFAX,|          0,0,0,0
+LOUDOUN,|          0,0,0,0
+MOUNT ROGERS,|          1,0,0,0
+NEW RIVER,|          0,0,0,0
+NORFOLK,|          0,0,0,0
+PENINSULA,|          0,0,0,0
+PIEDMONT,|          0,0,0,0
+PITTSYL/DANVILL,|          0,0,0,0
+PORTSMOUTH,|          0,1,0,0
+PRINCE WILLIAM,|          0,0,0,0
+RAPPAHAN/RAPIDA,|          0,1,0,0
+RAPPAHANNOCK,|          0,0,0,0
+RICHMOND CITY,|          0,0,0,0
+ROANOKE CITY,|          0,0,0,0
+SOUTHSIDE,|          0,0,0,0
+THOMAS JEFFERSO,|          0,0,0,0
+THREE RIVERS,|          0,0,0,0
+VIRGINIA BEACH,|          0,0,0,0
+WEST PIEDMONT,|          0,0,0,0
+WEST TIDEWATER,|          1,0,0,0
+----------------,+-----------,------------,----------,-----------
+Total,|          3,2,0,1
+,,,,
+,,,,
+,,,,
+,EVE,NTNAME =STRE,"P PNEU,INV",ASIVE <5 YRS
+,AGEGROUP,,,
+DISTRICT,00-04 YRS,05-09 YRS  ,10-14 YRS,15-19 YRS
+----------------,+-----------,------------,----------,-----------
+ALEXANDRIA,|          0,0,0,0
+ALLEGHANY,|          0,0,0,0
+ARLINGTON,|          0,0,0,0
+CENTRAL SHENAND,|          0,0,0,0
+CENTRAL VIRGINI,|          1,0,0,0
+CHESAPEAKE,|          1,0,0,0
+CHESTERFIELD,|          2,0,0,0
+CRATER,|          0,0,0,0
+CUMBERLAND PLAT,|          0,0,0,0
+EASTERN SHORE,|          0,0,0,0
+FAIRFAX,|          0,0,0,0
+HAMPTON,|          0,0,0,0
+HANOVER,|          0,0,0,0
+HENRICO,|          0,0,0,0
+LENOWISCO,|          0,0,0,0
+LORD FAIRFAX,|          0,0,0,0
+LOUDOUN,|          1,0,0,0
+MOUNT ROGERS,|          0,0,0,0
+NEW RIVER,|          0,0,0,0
+NORFOLK,|          4,0,0,0
+PENINSULA,|          1,0,0,0
+PIEDMONT,|          0,0,0,0
+PITTSYL/DANVILL,|          0,0,0,0
+PORTSMOUTH,|          0,0,0,0
+PRINCE WILLIAM,|          0,0,0,0
+RAPPAHAN/RAPIDA,|          0,0,0,0
+RAPPAHANNOCK,|          0,0,0,0
+RICHMOND CITY,|          1,0,0,0
+ROANOKE CITY,|          2,0,0,0
+SOUTHSIDE,|          0,0,0,0
+THOMAS JEFFERSO,|          2,0,0,0
+THREE RIVERS,|          0,0,0,0
+VIRGINIA BEACH,|          5,0,0,0
+WEST PIEDMONT,|          0,0,0,0
+WEST TIDEWATER,|          0,0,0,0
+----------------,+-----------,------------,----------,-----------
+Total,|         20,0,0,0

@@ -1,0 +1,4566 @@
+[
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"EVENTNAME",
+    "FIELD5":"CAMPYLOBACT"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"AGEGROUP",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"DISTRICT",
+    "FIELD2":"00-04 YRS",
+    "FIELD3":"05-09 YRS  ",
+    "FIELD4":"10-14 YRS",
+    "FIELD5":"15-19 YRS"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"ALEXANDRIA",
+    "FIELD2":"|          0",
+    "FIELD3":"1",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ALLEGHANY",
+    "FIELD2":"|          1",
+    "FIELD3":"1",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"ARLINGTON",
+    "FIELD2":"|          2",
+    "FIELD3":"0",
+    "FIELD4":"2",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CENTRAL SHENAND",
+    "FIELD2":"|          7",
+    "FIELD3":"3",
+    "FIELD4":"2",
+    "FIELD5":"5"
+  },
+  {
+    "FIELD1":"CENTRAL VIRGINI",
+    "FIELD2":"|          5",
+    "FIELD3":"3",
+    "FIELD4":"3",
+    "FIELD5":"4"
+  },
+  {
+    "FIELD1":"CHESAPEAKE",
+    "FIELD2":"|          1",
+    "FIELD3":"1",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"CHESTERFIELD",
+    "FIELD2":"|          1",
+    "FIELD3":"1",
+    "FIELD4":"1",
+    "FIELD5":"3"
+  },
+  {
+    "FIELD1":"CRATER",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"CUMBERLAND PLAT",
+    "FIELD2":"|          3",
+    "FIELD3":"1",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"EASTERN SHORE",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"FAIRFAX",
+    "FIELD2":"|          3",
+    "FIELD3":"3",
+    "FIELD4":"2",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"HAMPTON",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HANOVER",
+    "FIELD2":"|          3",
+    "FIELD3":"0",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HENRICO",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"4",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"LENOWISCO",
+    "FIELD2":"|          7",
+    "FIELD3":"0",
+    "FIELD4":"3",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"LORD FAIRFAX",
+    "FIELD2":"|          8",
+    "FIELD3":"2",
+    "FIELD4":"3",
+    "FIELD5":"2"
+  },
+  {
+    "FIELD1":"LOUDOUN",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"MOUNT ROGERS",
+    "FIELD2":"|          4",
+    "FIELD3":"1",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"NEW RIVER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"1",
+    "FIELD5":"2"
+  },
+  {
+    "FIELD1":"NORFOLK",
+    "FIELD2":"|          4",
+    "FIELD3":"2",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PENINSULA",
+    "FIELD2":"|          0",
+    "FIELD3":"1",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PIEDMONT",
+    "FIELD2":"|          1",
+    "FIELD3":"2",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"PITTSYL/DANVILL",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PORTSMOUTH",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PRINCE WILLIAM",
+    "FIELD2":"|          3",
+    "FIELD3":"1",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHAN/RAPIDA",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHANNOCK",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"3",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RICHMOND CITY",
+    "FIELD2":"|          2",
+    "FIELD3":"1",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ROANOKE CITY",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"SOUTHSIDE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"THOMAS JEFFERSO",
+    "FIELD2":"|          3",
+    "FIELD3":"2",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"THREE RIVERS",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"1",
+    "FIELD5":"2"
+  },
+  {
+    "FIELD1":"VIRGINIA BEACH",
+    "FIELD2":"|          9",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"3"
+  },
+  {
+    "FIELD1":"WEST PIEDMONT",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"WEST TIDEWATER",
+    "FIELD2":"|          0",
+    "FIELD3":"1",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"Total",
+    "FIELD2":"|         78",
+    "FIELD3":"27",
+    "FIELD4":"30",
+    "FIELD5":"29"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"EVENTNAME",
+    "FIELD5":"Err:509"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"AGEGROUP",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"DISTRICT",
+    "FIELD2":"00-04 YRS",
+    "FIELD3":"05-09 YRS  ",
+    "FIELD4":"10-14 YRS",
+    "FIELD5":"15-19 YRS"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"ALEXANDRIA",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ALLEGHANY",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ARLINGTON",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CENTRAL SHENAND",
+    "FIELD2":"|          1",
+    "FIELD3":"1",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"CENTRAL VIRGINI",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CHESAPEAKE",
+    "FIELD2":"|          0",
+    "FIELD3":"1",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CHESTERFIELD",
+    "FIELD2":"|          1",
+    "FIELD3":"2",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CRATER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CUMBERLAND PLAT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"EASTERN SHORE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"FAIRFAX",
+    "FIELD2":"|          3",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"HAMPTON",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HANOVER",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HENRICO",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LENOWISCO",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LORD FAIRFAX",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LOUDOUN",
+    "FIELD2":"|          2",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"MOUNT ROGERS",
+    "FIELD2":"|          3",
+    "FIELD3":"1",
+    "FIELD4":"1",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"NEW RIVER",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"NORFOLK",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"PENINSULA",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PIEDMONT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PITTSYL/DANVILL",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PORTSMOUTH",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PRINCE WILLIAM",
+    "FIELD2":"|          6",
+    "FIELD3":"0",
+    "FIELD4":"2",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHAN/RAPIDA",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHANNOCK",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RICHMOND CITY",
+    "FIELD2":"|          0",
+    "FIELD3":"1",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ROANOKE CITY",
+    "FIELD2":"|          2",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"SOUTHSIDE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"THOMAS JEFFERSO",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"THREE RIVERS",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"VIRGINIA BEACH",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"WEST PIEDMONT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"2",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"WEST TIDEWATER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"Total",
+    "FIELD2":"|         27",
+    "FIELD3":"6",
+    "FIELD4":"6",
+    "FIELD5":"4"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"EVENTNAME",
+    "FIELD5":"WEST NILE VIRUS"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"AGEGROUP",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"DISTRICT",
+    "FIELD2":"00-04 YRS",
+    "FIELD3":"05-09 YRS  ",
+    "FIELD4":"10-14 YRS",
+    "FIELD5":"15-19 YRS"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"ALEXANDRIA",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ALLEGHANY",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ARLINGTON",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CENTRAL SHENAND",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CENTRAL VIRGINI",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CHESAPEAKE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CHESTERFIELD",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CRATER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CUMBERLAND PLAT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"EASTERN SHORE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"FAIRFAX",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HAMPTON",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HANOVER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HENRICO",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LENOWISCO",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LORD FAIRFAX",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LOUDOUN",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"MOUNT ROGERS",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"NEW RIVER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"NORFOLK",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PENINSULA",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PIEDMONT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PITTSYL/DANVILL",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PORTSMOUTH",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PRINCE WILLIAM",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHAN/RAPIDA",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHANNOCK",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RICHMOND CITY",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ROANOKE CITY",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"SOUTHSIDE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"THOMAS JEFFERSO",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"THREE RIVERS",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"VIRGINIA BEACH",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"WEST PIEDMONT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"WEST TIDEWATER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"Total",
+    "FIELD2":"|          2",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"EVENTNAME",
+    "FIELD5":"GIARDIA"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"AGEGROUP",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"DISTRICT",
+    "FIELD2":"00-04 YRS",
+    "FIELD3":"05-09 YRS  ",
+    "FIELD4":"10-14 YRS",
+    "FIELD5":"15-19 YRS"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"ALEXANDRIA",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ALLEGHANY",
+    "FIELD2":"|          0",
+    "FIELD3":"1",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ARLINGTON",
+    "FIELD2":"|          8",
+    "FIELD3":"1",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CENTRAL SHENAND",
+    "FIELD2":"|          0",
+    "FIELD3":"3",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CENTRAL VIRGINI",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"CHESAPEAKE",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CHESTERFIELD",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"2",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"CRATER",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CUMBERLAND PLAT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"1",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"EASTERN SHORE",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"FAIRFAX",
+    "FIELD2":"|         19",
+    "FIELD3":"10",
+    "FIELD4":"2",
+    "FIELD5":"3"
+  },
+  {
+    "FIELD1":"HAMPTON",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HANOVER",
+    "FIELD2":"|          1",
+    "FIELD3":"2",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HENRICO",
+    "FIELD2":"|         10",
+    "FIELD3":"3",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LENOWISCO",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LORD FAIRFAX",
+    "FIELD2":"|          6",
+    "FIELD3":"1",
+    "FIELD4":"2",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LOUDOUN",
+    "FIELD2":"|          4",
+    "FIELD3":"2",
+    "FIELD4":"3",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"MOUNT ROGERS",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"2",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"NEW RIVER",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"2",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"NORFOLK",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PENINSULA",
+    "FIELD2":"|          2",
+    "FIELD3":"4",
+    "FIELD4":"3",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"PIEDMONT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PITTSYL/DANVILL",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PORTSMOUTH",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PRINCE WILLIAM",
+    "FIELD2":"|          3",
+    "FIELD3":"1",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHAN/RAPIDA",
+    "FIELD2":"|          1",
+    "FIELD3":"2",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHANNOCK",
+    "FIELD2":"|          4",
+    "FIELD3":"3",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RICHMOND CITY",
+    "FIELD2":"|          0",
+    "FIELD3":"1",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ROANOKE CITY",
+    "FIELD2":"|          3",
+    "FIELD3":"2",
+    "FIELD4":"3",
+    "FIELD5":"3"
+  },
+  {
+    "FIELD1":"SOUTHSIDE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"THOMAS JEFFERSO",
+    "FIELD2":"|          2",
+    "FIELD3":"4",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"THREE RIVERS",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"VIRGINIA BEACH",
+    "FIELD2":"|          7",
+    "FIELD3":"3",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"WEST PIEDMONT",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"WEST TIDEWATER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"Total",
+    "FIELD2":"|         81",
+    "FIELD3":"43",
+    "FIELD4":"26",
+    "FIELD5":"11"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"EVENTNAME",
+    "FIELD5":"H FLU INVSI"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"AGEGROUP",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"DISTRICT",
+    "FIELD2":"00-04 YRS",
+    "FIELD3":"05-09 YRS  ",
+    "FIELD4":"10-14 YRS",
+    "FIELD5":"15-19 YRS"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"ALEXANDRIA",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ALLEGHANY",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ARLINGTON",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CENTRAL SHENAND",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CENTRAL VIRGINI",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CHESAPEAKE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CHESTERFIELD",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CRATER",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CUMBERLAND PLAT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"EASTERN SHORE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"FAIRFAX",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HAMPTON",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HANOVER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HENRICO",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LENOWISCO",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LORD FAIRFAX",
+    "FIELD2":"|          2",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LOUDOUN",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"MOUNT ROGERS",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"NEW RIVER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"NORFOLK",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PENINSULA",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PIEDMONT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PITTSYL/DANVILL",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PORTSMOUTH",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PRINCE WILLIAM",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHAN/RAPIDA",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHANNOCK",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RICHMOND CITY",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ROANOKE CITY",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"SOUTHSIDE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"THOMAS JEFFERSO",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"THREE RIVERS",
+    "FIELD2":"|          0",
+    "FIELD3":"1",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"VIRGINIA BEACH",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"WEST PIEDMONT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"WEST TIDEWATER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"Total",
+    "FIELD2":"|          5",
+    "FIELD3":"1",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"EVENTNAME",
+    "FIELD5":"HEPATITIS A"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"AGEGROUP",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"DISTRICT",
+    "FIELD2":"00-04 YRS",
+    "FIELD3":"05-09 YRS  ",
+    "FIELD4":"10-14 YRS",
+    "FIELD5":"15-19 YRS"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"ALEXANDRIA",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ALLEGHANY",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ARLINGTON",
+    "FIELD2":"|          1",
+    "FIELD3":"2",
+    "FIELD4":"2",
+    "FIELD5":"2"
+  },
+  {
+    "FIELD1":"CENTRAL SHENAND",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"CENTRAL VIRGINI",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CHESAPEAKE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CHESTERFIELD",
+    "FIELD2":"|          3",
+    "FIELD3":"1",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CRATER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"CUMBERLAND PLAT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"EASTERN SHORE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"FAIRFAX",
+    "FIELD2":"|          2",
+    "FIELD3":"4",
+    "FIELD4":"1",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"HAMPTON",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HANOVER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HENRICO",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"LENOWISCO",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LORD FAIRFAX",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LOUDOUN",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"MOUNT ROGERS",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"NEW RIVER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"NORFOLK",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PENINSULA",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PIEDMONT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PITTSYL/DANVILL",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PORTSMOUTH",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PRINCE WILLIAM",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHAN/RAPIDA",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHANNOCK",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RICHMOND CITY",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ROANOKE CITY",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"SOUTHSIDE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"THOMAS JEFFERSO",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"THREE RIVERS",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"VIRGINIA BEACH",
+    "FIELD2":"|          2",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"WEST PIEDMONT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"WEST TIDEWATER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"Total",
+    "FIELD2":"|          8",
+    "FIELD3":"7",
+    "FIELD4":"6",
+    "FIELD5":"7"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"EVENTNAME",
+    "FIELD5":"HEPATITIS B"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"AGEGROUP",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"DISTRICT",
+    "FIELD2":"00-04 YRS",
+    "FIELD3":"05-09 YRS  ",
+    "FIELD4":"10-14 YRS",
+    "FIELD5":"15-19 YRS"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"ALEXANDRIA",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ALLEGHANY",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ARLINGTON",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CENTRAL SHENAND",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"CENTRAL VIRGINI",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CHESAPEAKE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CHESTERFIELD",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"CRATER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CUMBERLAND PLAT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"EASTERN SHORE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"FAIRFAX",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HAMPTON",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"HANOVER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HENRICO",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LENOWISCO",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LORD FAIRFAX",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LOUDOUN",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"MOUNT ROGERS",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"NEW RIVER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"NORFOLK",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"3"
+  },
+  {
+    "FIELD1":"PENINSULA",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"PIEDMONT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PITTSYL/DANVILL",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PORTSMOUTH",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PRINCE WILLIAM",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHAN/RAPIDA",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHANNOCK",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RICHMOND CITY",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ROANOKE CITY",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"SOUTHSIDE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"THOMAS JEFFERSO",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"THREE RIVERS",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"VIRGINIA BEACH",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"WEST PIEDMONT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"WEST TIDEWATER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"Total",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"11"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"EVENTNAME",
+    "FIELD5":"LYME DISEAS"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"AGEGROUP",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"DISTRICT",
+    "FIELD2":"00-04 YRS",
+    "FIELD3":"05-09 YRS  ",
+    "FIELD4":"10-14 YRS",
+    "FIELD5":"15-19 YRS"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"ALEXANDRIA",
+    "FIELD2":"0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"ALLEGHANY",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ARLINGTON",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CENTRAL SHENAND",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CENTRAL VIRGINI",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CHESAPEAKE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CHESTERFIELD",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CRATER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CUMBERLAND PLAT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"EASTERN SHORE",
+    "FIELD2":"|          0",
+    "FIELD3":"2",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"FAIRFAX",
+    "FIELD2":"|          2",
+    "FIELD3":"9",
+    "FIELD4":"5",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"HAMPTON",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HANOVER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HENRICO",
+    "FIELD2":"|          0",
+    "FIELD3":"1",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LENOWISCO",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LORD FAIRFAX",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LOUDOUN",
+    "FIELD2":"|          7",
+    "FIELD3":"9",
+    "FIELD4":"7",
+    "FIELD5":"3"
+  },
+  {
+    "FIELD1":"MOUNT ROGERS",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"NEW RIVER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"NORFOLK",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PENINSULA",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PIEDMONT",
+    "FIELD2":"|          0",
+    "FIELD3":"1",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PITTSYL/DANVILL",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PORTSMOUTH",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PRINCE WILLIAM",
+    "FIELD2":"|          2",
+    "FIELD3":"3",
+    "FIELD4":"2",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHAN/RAPIDA",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHANNOCK",
+    "FIELD2":"|          0",
+    "FIELD3":"2",
+    "FIELD4":"2",
+    "FIELD5":"2"
+  },
+  {
+    "FIELD1":"RICHMOND CITY",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"2"
+  },
+  {
+    "FIELD1":"ROANOKE CITY",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"SOUTHSIDE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"THOMAS JEFFERSO",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"THREE RIVERS",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"VIRGINIA BEACH",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"WEST PIEDMONT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"WEST TIDEWATER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"Total",
+    "FIELD2":"|         12",
+    "FIELD3":"27",
+    "FIELD4":"19",
+    "FIELD5":"10"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"EVEN",
+    "FIELD4":"TNAME =MEN",
+    "FIELD5":"INGOCOCCAL I"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"AGEGROUP",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"DISTRICT",
+    "FIELD2":"00-04 YRS",
+    "FIELD3":"05-09 YRS  ",
+    "FIELD4":"10-14 YRS",
+    "FIELD5":"15-19 YRS"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"ALEXANDRIA",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ALLEGHANY",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ARLINGTON",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CENTRAL SHENAND",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CENTRAL VIRGINI",
+    "FIELD2":"|          3",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CHESAPEAKE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CHESTERFIELD",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CRATER",
+    "FIELD2":"|          0",
+    "FIELD3":"1",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"CUMBERLAND PLAT",
+    "FIELD2":"|          2",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"EASTERN SHORE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"FAIRFAX",
+    "FIELD2":"|          2",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HAMPTON",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"HANOVER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HENRICO",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LENOWISCO",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LORD FAIRFAX",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LOUDOUN",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"MOUNT ROGERS",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"NEW RIVER",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"NORFOLK",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PENINSULA",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PIEDMONT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PITTSYL/DANVILL",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PORTSMOUTH",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PRINCE WILLIAM",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHAN/RAPIDA",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHANNOCK",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"1",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"RICHMOND CITY",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ROANOKE CITY",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"SOUTHSIDE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"THOMAS JEFFERSO",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"THREE RIVERS",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"VIRGINIA BEACH",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"WEST PIEDMONT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"WEST TIDEWATER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"Total",
+    "FIELD2":"|         16",
+    "FIELD3":"1",
+    "FIELD4":"2",
+    "FIELD5":"5"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"EVENTNAME",
+    "FIELD5":"MUMPS"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"AGEGROUP",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"DISTRICT",
+    "FIELD2":"00-04 YRS",
+    "FIELD3":"05-09 YRS  ",
+    "FIELD4":"10-14 YRS",
+    "FIELD5":"15-19 YRS"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"ALEXANDRIA",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ALLEGHANY",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ARLINGTON",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CENTRAL SHENAND",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CENTRAL VIRGINI",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CHESAPEAKE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CHESTERFIELD",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CRATER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CUMBERLAND PLAT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"EASTERN SHORE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"FAIRFAX",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HAMPTON",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HANOVER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HENRICO",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LENOWISCO",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LORD FAIRFAX",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LOUDOUN",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"MOUNT ROGERS",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"NEW RIVER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"NORFOLK",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PENINSULA",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PIEDMONT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PITTSYL/DANVILL",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PORTSMOUTH",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PRINCE WILLIAM",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHAN/RAPIDA",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHANNOCK",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RICHMOND CITY",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ROANOKE CITY",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"SOUTHSIDE",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"THOMAS JEFFERSO",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"THREE RIVERS",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"VIRGINIA BEACH",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"WEST PIEDMONT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"WEST TIDEWATER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"Total",
+    "FIELD2":"|          2",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"EVENTNAME",
+    "FIELD5":"PERTUSSIS"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"AGEGROUP",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"DISTRICT",
+    "FIELD2":"00-04 YRS",
+    "FIELD3":"05-09 YRS  ",
+    "FIELD4":"10-14 YRS",
+    "FIELD5":"15-19 YRS"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"ALEXANDRIA",
+    "FIELD2":"|          2",
+    "FIELD3":"0",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ALLEGHANY",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ARLINGTON",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CENTRAL SHENAND",
+    "FIELD2":"|          6",
+    "FIELD3":"3",
+    "FIELD4":"4",
+    "FIELD5":"4"
+  },
+  {
+    "FIELD1":"CENTRAL VIRGINI",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"3",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CHESAPEAKE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CHESTERFIELD",
+    "FIELD2":"|          7",
+    "FIELD3":"0",
+    "FIELD4":"3",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CRATER",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CUMBERLAND PLAT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"EASTERN SHORE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"FAIRFAX",
+    "FIELD2":"|          2",
+    "FIELD3":"1",
+    "FIELD4":"3",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HAMPTON",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HANOVER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HENRICO",
+    "FIELD2":"|          1",
+    "FIELD3":"2",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LENOWISCO",
+    "FIELD2":"|          0",
+    "FIELD3":"1",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"LORD FAIRFAX",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LOUDOUN",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"MOUNT ROGERS",
+    "FIELD2":"|          2",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"NEW RIVER",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"NORFOLK",
+    "FIELD2":"|          6",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PENINSULA",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PIEDMONT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PITTSYL/DANVILL",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PORTSMOUTH",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PRINCE WILLIAM",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHAN/RAPIDA",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"2",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHANNOCK",
+    "FIELD2":"|          4",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RICHMOND CITY",
+    "FIELD2":"|          4",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ROANOKE CITY",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"SOUTHSIDE",
+    "FIELD2":"|          2",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"THOMAS JEFFERSO",
+    "FIELD2":"|         13",
+    "FIELD3":"4",
+    "FIELD4":"29",
+    "FIELD5":"11"
+  },
+  {
+    "FIELD1":"THREE RIVERS",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"VIRGINIA BEACH",
+    "FIELD2":"|         10",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"WEST PIEDMONT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"WEST TIDEWATER",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"Total",
+    "FIELD2":"|         65",
+    "FIELD3":"11",
+    "FIELD4":"47",
+    "FIELD5":"16"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"EVENTNAME",
+    "FIELD5":"SALMONELLOS"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"AGEGROUP",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"DISTRICT",
+    "FIELD2":"00-04 YRS",
+    "FIELD3":"05-09 YRS  ",
+    "FIELD4":"10-14 YRS",
+    "FIELD5":"15-19 YRS"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"ALEXANDRIA",
+    "FIELD2":"|          3",
+    "FIELD3":"1",
+    "FIELD4":"1",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"ALLEGHANY",
+    "FIELD2":"|          6",
+    "FIELD3":"2",
+    "FIELD4":"2",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ARLINGTON",
+    "FIELD2":"|         16",
+    "FIELD3":"0",
+    "FIELD4":"1",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"CENTRAL SHENAND",
+    "FIELD2":"|         11",
+    "FIELD3":"7",
+    "FIELD4":"3",
+    "FIELD5":"2"
+  },
+  {
+    "FIELD1":"CENTRAL VIRGINI",
+    "FIELD2":"|         13",
+    "FIELD3":"3",
+    "FIELD4":"4",
+    "FIELD5":"3"
+  },
+  {
+    "FIELD1":"CHESAPEAKE",
+    "FIELD2":"|         15",
+    "FIELD3":"2",
+    "FIELD4":"1",
+    "FIELD5":"2"
+  },
+  {
+    "FIELD1":"CHESTERFIELD",
+    "FIELD2":"|         18",
+    "FIELD3":"8",
+    "FIELD4":"4",
+    "FIELD5":"4"
+  },
+  {
+    "FIELD1":"CRATER",
+    "FIELD2":"|          9",
+    "FIELD3":"3",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CUMBERLAND PLAT",
+    "FIELD2":"|          4",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"EASTERN SHORE",
+    "FIELD2":"|         12",
+    "FIELD3":"3",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"FAIRFAX",
+    "FIELD2":"|         42",
+    "FIELD3":"17",
+    "FIELD4":"10",
+    "FIELD5":"8"
+  },
+  {
+    "FIELD1":"HAMPTON",
+    "FIELD2":"|          3",
+    "FIELD3":"1",
+    "FIELD4":"0",
+    "FIELD5":"2"
+  },
+  {
+    "FIELD1":"HANOVER",
+    "FIELD2":"|          6",
+    "FIELD3":"1",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HENRICO",
+    "FIELD2":"|          8",
+    "FIELD3":"8",
+    "FIELD4":"5",
+    "FIELD5":"4"
+  },
+  {
+    "FIELD1":"LENOWISCO",
+    "FIELD2":"|          4",
+    "FIELD3":"1",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"LORD FAIRFAX",
+    "FIELD2":"|          6",
+    "FIELD3":"4",
+    "FIELD4":"4",
+    "FIELD5":"2"
+  },
+  {
+    "FIELD1":"LOUDOUN",
+    "FIELD2":"|         10",
+    "FIELD3":"4",
+    "FIELD4":"2",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"MOUNT ROGERS",
+    "FIELD2":"|         11",
+    "FIELD3":"0",
+    "FIELD4":"2",
+    "FIELD5":"2"
+  },
+  {
+    "FIELD1":"NEW RIVER",
+    "FIELD2":"|          4",
+    "FIELD3":"1",
+    "FIELD4":"1",
+    "FIELD5":"2"
+  },
+  {
+    "FIELD1":"NORFOLK",
+    "FIELD2":"|          4",
+    "FIELD3":"4",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"PENINSULA",
+    "FIELD2":"|         13",
+    "FIELD3":"3",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"PIEDMONT",
+    "FIELD2":"|         12",
+    "FIELD3":"3",
+    "FIELD4":"1",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"PITTSYL/DANVILL",
+    "FIELD2":"|          3",
+    "FIELD3":"2",
+    "FIELD4":"3",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PORTSMOUTH",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PRINCE WILLIAM",
+    "FIELD2":"|         12",
+    "FIELD3":"3",
+    "FIELD4":"2",
+    "FIELD5":"4"
+  },
+  {
+    "FIELD1":"RAPPAHAN/RAPIDA",
+    "FIELD2":"|          2",
+    "FIELD3":"1",
+    "FIELD4":"2",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHANNOCK",
+    "FIELD2":"|         15",
+    "FIELD3":"3",
+    "FIELD4":"6",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"RICHMOND CITY",
+    "FIELD2":"|         15",
+    "FIELD3":"1",
+    "FIELD4":"0",
+    "FIELD5":"9"
+  },
+  {
+    "FIELD1":"ROANOKE CITY",
+    "FIELD2":"|          6",
+    "FIELD3":"3",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"SOUTHSIDE",
+    "FIELD2":"|          5",
+    "FIELD3":"1",
+    "FIELD4":"2",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"THOMAS JEFFERSO",
+    "FIELD2":"|          2",
+    "FIELD3":"4",
+    "FIELD4":"0",
+    "FIELD5":"2"
+  },
+  {
+    "FIELD1":"THREE RIVERS",
+    "FIELD2":"|         12",
+    "FIELD3":"1",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"VIRGINIA BEACH",
+    "FIELD2":"|         23",
+    "FIELD3":"9",
+    "FIELD4":"3",
+    "FIELD5":"5"
+  },
+  {
+    "FIELD1":"WEST PIEDMONT",
+    "FIELD2":"|          2",
+    "FIELD3":"2",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"WEST TIDEWATER",
+    "FIELD2":"|          6",
+    "FIELD3":"3",
+    "FIELD4":"2",
+    "FIELD5":"2"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"Total",
+    "FIELD2":"|        334",
+    "FIELD3":"109",
+    "FIELD4":"64",
+    "FIELD5":"61"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"EVENTNAME",
+    "FIELD5":"SHIGELLOSIS"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"AGEGROUP",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"DISTRICT",
+    "FIELD2":"00-04 YRS",
+    "FIELD3":"05-09 YRS  ",
+    "FIELD4":"10-14 YRS",
+    "FIELD5":"15-19 YRS"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"ALEXANDRIA",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ALLEGHANY",
+    "FIELD2":"|          3",
+    "FIELD3":"1",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ARLINGTON",
+    "FIELD2":"|          4",
+    "FIELD3":"2",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CENTRAL SHENAND",
+    "FIELD2":"|          2",
+    "FIELD3":"1",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CENTRAL VIRGINI",
+    "FIELD2":"|          3",
+    "FIELD3":"2",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"CHESAPEAKE",
+    "FIELD2":"|         14",
+    "FIELD3":"11",
+    "FIELD4":"2",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"CHESTERFIELD",
+    "FIELD2":"|         20",
+    "FIELD3":"25",
+    "FIELD4":"5",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CRATER",
+    "FIELD2":"|         16",
+    "FIELD3":"11",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CUMBERLAND PLAT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"EASTERN SHORE",
+    "FIELD2":"|          7",
+    "FIELD3":"2",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"FAIRFAX",
+    "FIELD2":"|          7",
+    "FIELD3":"9",
+    "FIELD4":"3",
+    "FIELD5":"3"
+  },
+  {
+    "FIELD1":"HAMPTON",
+    "FIELD2":"|          3",
+    "FIELD3":"3",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HANOVER",
+    "FIELD2":"|          7",
+    "FIELD3":"24",
+    "FIELD4":"2",
+    "FIELD5":"2"
+  },
+  {
+    "FIELD1":"HENRICO",
+    "FIELD2":"|         20",
+    "FIELD3":"7",
+    "FIELD4":"2",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LENOWISCO",
+    "FIELD2":"|          0",
+    "FIELD3":"1",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LORD FAIRFAX",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LOUDOUN",
+    "FIELD2":"|          3",
+    "FIELD3":"2",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"MOUNT ROGERS",
+    "FIELD2":"|          1",
+    "FIELD3":"1",
+    "FIELD4":"1",
+    "FIELD5":"2"
+  },
+  {
+    "FIELD1":"NEW RIVER",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"NORFOLK",
+    "FIELD2":"|         48",
+    "FIELD3":"29",
+    "FIELD4":"9",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PENINSULA",
+    "FIELD2":"|         22",
+    "FIELD3":"21",
+    "FIELD4":"4",
+    "FIELD5":"4"
+  },
+  {
+    "FIELD1":"PIEDMONT",
+    "FIELD2":"|         15",
+    "FIELD3":"11",
+    "FIELD4":"2",
+    "FIELD5":"4"
+  },
+  {
+    "FIELD1":"PITTSYL/DANVILL",
+    "FIELD2":"|          1",
+    "FIELD3":"1",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PORTSMOUTH",
+    "FIELD2":"|         16",
+    "FIELD3":"8",
+    "FIELD4":"5",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"PRINCE WILLIAM",
+    "FIELD2":"|          2",
+    "FIELD3":"3",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHAN/RAPIDA",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHANNOCK",
+    "FIELD2":"|          3",
+    "FIELD3":"10",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RICHMOND CITY",
+    "FIELD2":"|         23",
+    "FIELD3":"18",
+    "FIELD4":"12",
+    "FIELD5":"5"
+  },
+  {
+    "FIELD1":"ROANOKE CITY",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"SOUTHSIDE",
+    "FIELD2":"|          3",
+    "FIELD3":"5",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"THOMAS JEFFERSO",
+    "FIELD2":"|          3",
+    "FIELD3":"1",
+    "FIELD4":"1",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"THREE RIVERS",
+    "FIELD2":"|          4",
+    "FIELD3":"13",
+    "FIELD4":"1",
+    "FIELD5":"2"
+  },
+  {
+    "FIELD1":"VIRGINIA BEACH",
+    "FIELD2":"|         45",
+    "FIELD3":"71",
+    "FIELD4":"6",
+    "FIELD5":"3"
+  },
+  {
+    "FIELD1":"WEST PIEDMONT",
+    "FIELD2":"|          1",
+    "FIELD3":"1",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"WEST TIDEWATER",
+    "FIELD2":"|         11",
+    "FIELD3":"12",
+    "FIELD4":"2",
+    "FIELD5":"2"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"Total",
+    "FIELD2":"|        311",
+    "FIELD3":"306",
+    "FIELD4":"61",
+    "FIELD5":"30"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"EVENTNAM",
+    "FIELD4":"E =GROUP A",
+    "FIELD5":"STREP INVAS"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"AGEGROUP",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"DISTRICT",
+    "FIELD2":"00-04 YRS",
+    "FIELD3":"05-09 YRS  ",
+    "FIELD4":"10-14 YRS",
+    "FIELD5":"15-19 YRS"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"ALEXANDRIA",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ALLEGHANY",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ARLINGTON",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CENTRAL SHENAND",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CENTRAL VIRGINI",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CHESAPEAKE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CHESTERFIELD",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CRATER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CUMBERLAND PLAT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"EASTERN SHORE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"FAIRFAX",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HAMPTON",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HANOVER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"HENRICO",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LENOWISCO",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LORD FAIRFAX",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LOUDOUN",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"MOUNT ROGERS",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"NEW RIVER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"NORFOLK",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PENINSULA",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PIEDMONT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PITTSYL/DANVILL",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PORTSMOUTH",
+    "FIELD2":"|          0",
+    "FIELD3":"1",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PRINCE WILLIAM",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHAN/RAPIDA",
+    "FIELD2":"|          0",
+    "FIELD3":"1",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHANNOCK",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RICHMOND CITY",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ROANOKE CITY",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"SOUTHSIDE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"THOMAS JEFFERSO",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"THREE RIVERS",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"VIRGINIA BEACH",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"WEST PIEDMONT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"WEST TIDEWATER",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"Total",
+    "FIELD2":"|          3",
+    "FIELD3":"2",
+    "FIELD4":"0",
+    "FIELD5":"1"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"EVE",
+    "FIELD3":"NTNAME =STRE",
+    "FIELD4":"P PNEU,INV",
+    "FIELD5":"ASIVE <5 YRS"
+  },
+  {
+    "FIELD1":"",
+    "FIELD2":"AGEGROUP",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "FIELD1":"DISTRICT",
+    "FIELD2":"00-04 YRS",
+    "FIELD3":"05-09 YRS  ",
+    "FIELD4":"10-14 YRS",
+    "FIELD5":"15-19 YRS"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"ALEXANDRIA",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ALLEGHANY",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ARLINGTON",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CENTRAL SHENAND",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CENTRAL VIRGINI",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CHESAPEAKE",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CHESTERFIELD",
+    "FIELD2":"|          2",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CRATER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"CUMBERLAND PLAT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"EASTERN SHORE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"FAIRFAX",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HAMPTON",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HANOVER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"HENRICO",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LENOWISCO",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LORD FAIRFAX",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"LOUDOUN",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"MOUNT ROGERS",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"NEW RIVER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"NORFOLK",
+    "FIELD2":"|          4",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PENINSULA",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PIEDMONT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PITTSYL/DANVILL",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PORTSMOUTH",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"PRINCE WILLIAM",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHAN/RAPIDA",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RAPPAHANNOCK",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"RICHMOND CITY",
+    "FIELD2":"|          1",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"ROANOKE CITY",
+    "FIELD2":"|          2",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"SOUTHSIDE",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"THOMAS JEFFERSO",
+    "FIELD2":"|          2",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"THREE RIVERS",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"VIRGINIA BEACH",
+    "FIELD2":"|          5",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"WEST PIEDMONT",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"WEST TIDEWATER",
+    "FIELD2":"|          0",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  },
+  {
+    "FIELD1":"----------------",
+    "FIELD2":"+-----------",
+    "FIELD3":"------------",
+    "FIELD4":"----------",
+    "FIELD5":"-----------"
+  },
+  {
+    "FIELD1":"Total",
+    "FIELD2":"|         20",
+    "FIELD3":"0",
+    "FIELD4":"0",
+    "FIELD5":"0"
+  }
+]

@@ -1,0 +1,3213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+<name></name>
+<description></description>
+<Point><coordinates>CAMPYLOBACT,EVENTNAME,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description>AGEGROUP</description>
+</Placemark>
+<Placemark>
+<name>DISTRICT</name>
+<description>00-04 YRS</description>
+<Point><coordinates>15-19 YRS,10-14 YRS,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALEXANDRIA</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALLEGHANY</name>
+<description>|          1</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ARLINGTON</name>
+<description>|          2</description>
+<Point><coordinates>0,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL SHENAND</name>
+<description>|          7</description>
+<Point><coordinates>5,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL VIRGINI</name>
+<description>|          5</description>
+<Point><coordinates>4,3,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESAPEAKE</name>
+<description>|          1</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESTERFIELD</name>
+<description>|          1</description>
+<Point><coordinates>3,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CRATER</name>
+<description>|          1</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CUMBERLAND PLAT</name>
+<description>|          3</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>EASTERN SHORE</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>FAIRFAX</name>
+<description>|          3</description>
+<Point><coordinates>1,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HAMPTON</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HANOVER</name>
+<description>|          3</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HENRICO</name>
+<description>|          1</description>
+<Point><coordinates>1,4,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LENOWISCO</name>
+<description>|          7</description>
+<Point><coordinates>1,3,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LORD FAIRFAX</name>
+<description>|          8</description>
+<Point><coordinates>2,3,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LOUDOUN</name>
+<description>|          1</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>MOUNT ROGERS</name>
+<description>|          4</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NEW RIVER</name>
+<description>|          0</description>
+<Point><coordinates>2,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NORFOLK</name>
+<description>|          4</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PENINSULA</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PIEDMONT</name>
+<description>|          1</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PITTSYL/DANVILL</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PORTSMOUTH</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PRINCE WILLIAM</name>
+<description>|          3</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHAN/RAPIDA</name>
+<description>|          1</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHANNOCK</name>
+<description>|          1</description>
+<Point><coordinates>0,3,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RICHMOND CITY</name>
+<description>|          2</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ROANOKE CITY</name>
+<description>|          0</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SOUTHSIDE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THOMAS JEFFERSO</name>
+<description>|          3</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THREE RIVERS</name>
+<description>|          1</description>
+<Point><coordinates>2,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>VIRGINIA BEACH</name>
+<description>|          9</description>
+<Point><coordinates>3,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST PIEDMONT</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST TIDEWATER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Total</name>
+<description>|         78</description>
+<Point><coordinates>29,30,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+<Point><coordinates>Err:509,EVENTNAME,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>AGEGROUP</description>
+</Placemark>
+<Placemark>
+<name>DISTRICT</name>
+<description>00-04 YRS</description>
+<Point><coordinates>15-19 YRS,10-14 YRS,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALEXANDRIA</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALLEGHANY</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ARLINGTON</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL SHENAND</name>
+<description>|          1</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL VIRGINI</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESAPEAKE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESTERFIELD</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CRATER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CUMBERLAND PLAT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>EASTERN SHORE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>FAIRFAX</name>
+<description>|          3</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HAMPTON</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HANOVER</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HENRICO</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LENOWISCO</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LORD FAIRFAX</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LOUDOUN</name>
+<description>|          2</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>MOUNT ROGERS</name>
+<description>|          3</description>
+<Point><coordinates>1,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NEW RIVER</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NORFOLK</name>
+<description>|          0</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PENINSULA</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PIEDMONT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PITTSYL/DANVILL</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PORTSMOUTH</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PRINCE WILLIAM</name>
+<description>|          6</description>
+<Point><coordinates>0,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHAN/RAPIDA</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHANNOCK</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RICHMOND CITY</name>
+<description>|          0</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ROANOKE CITY</name>
+<description>|          2</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SOUTHSIDE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THOMAS JEFFERSO</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THREE RIVERS</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>VIRGINIA BEACH</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST PIEDMONT</name>
+<description>|          0</description>
+<Point><coordinates>0,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST TIDEWATER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Total</name>
+<description>|         27</description>
+<Point><coordinates>4,6,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+<Point><coordinates>WEST NILE VIRUS,EVENTNAME,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>AGEGROUP</description>
+</Placemark>
+<Placemark>
+<name>DISTRICT</name>
+<description>00-04 YRS</description>
+<Point><coordinates>15-19 YRS,10-14 YRS,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALEXANDRIA</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALLEGHANY</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ARLINGTON</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL SHENAND</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL VIRGINI</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESAPEAKE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESTERFIELD</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CRATER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CUMBERLAND PLAT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>EASTERN SHORE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>FAIRFAX</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HAMPTON</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HANOVER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HENRICO</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LENOWISCO</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LORD FAIRFAX</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LOUDOUN</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>MOUNT ROGERS</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NEW RIVER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NORFOLK</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PENINSULA</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PIEDMONT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PITTSYL/DANVILL</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PORTSMOUTH</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PRINCE WILLIAM</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHAN/RAPIDA</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHANNOCK</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RICHMOND CITY</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ROANOKE CITY</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SOUTHSIDE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THOMAS JEFFERSO</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THREE RIVERS</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>VIRGINIA BEACH</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST PIEDMONT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST TIDEWATER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Total</name>
+<description>|          2</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+<Point><coordinates>GIARDIA,EVENTNAME,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>AGEGROUP</description>
+</Placemark>
+<Placemark>
+<name>DISTRICT</name>
+<description>00-04 YRS</description>
+<Point><coordinates>15-19 YRS,10-14 YRS,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALEXANDRIA</name>
+<description>|          1</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALLEGHANY</name>
+<description>|          0</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ARLINGTON</name>
+<description>|          8</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL SHENAND</name>
+<description>|          0</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL VIRGINI</name>
+<description>|          0</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESAPEAKE</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESTERFIELD</name>
+<description>|          1</description>
+<Point><coordinates>1,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CRATER</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CUMBERLAND PLAT</name>
+<description>|          0</description>
+<Point><coordinates>1,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>EASTERN SHORE</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>FAIRFAX</name>
+<description>|         19</description>
+<Point><coordinates>3,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HAMPTON</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HANOVER</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HENRICO</name>
+<description>|         10</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LENOWISCO</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LORD FAIRFAX</name>
+<description>|          6</description>
+<Point><coordinates>0,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LOUDOUN</name>
+<description>|          4</description>
+<Point><coordinates>1,3,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>MOUNT ROGERS</name>
+<description>|          1</description>
+<Point><coordinates>0,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NEW RIVER</name>
+<description>|          1</description>
+<Point><coordinates>0,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NORFOLK</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PENINSULA</name>
+<description>|          2</description>
+<Point><coordinates>1,3,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PIEDMONT</name>
+<description>|          0</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PITTSYL/DANVILL</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PORTSMOUTH</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PRINCE WILLIAM</name>
+<description>|          3</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHAN/RAPIDA</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHANNOCK</name>
+<description>|          4</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RICHMOND CITY</name>
+<description>|          0</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ROANOKE CITY</name>
+<description>|          3</description>
+<Point><coordinates>3,3,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SOUTHSIDE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THOMAS JEFFERSO</name>
+<description>|          2</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THREE RIVERS</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>VIRGINIA BEACH</name>
+<description>|          7</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST PIEDMONT</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST TIDEWATER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Total</name>
+<description>|         81</description>
+<Point><coordinates>11,26,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+<Point><coordinates>H FLU INVSI,EVENTNAME,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>AGEGROUP</description>
+</Placemark>
+<Placemark>
+<name>DISTRICT</name>
+<description>00-04 YRS</description>
+<Point><coordinates>15-19 YRS,10-14 YRS,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALEXANDRIA</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALLEGHANY</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ARLINGTON</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL SHENAND</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL VIRGINI</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESAPEAKE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESTERFIELD</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CRATER</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CUMBERLAND PLAT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>EASTERN SHORE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>FAIRFAX</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HAMPTON</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HANOVER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HENRICO</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LENOWISCO</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LORD FAIRFAX</name>
+<description>|          2</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LOUDOUN</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>MOUNT ROGERS</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NEW RIVER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NORFOLK</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PENINSULA</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PIEDMONT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PITTSYL/DANVILL</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PORTSMOUTH</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PRINCE WILLIAM</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHAN/RAPIDA</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHANNOCK</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RICHMOND CITY</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ROANOKE CITY</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SOUTHSIDE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THOMAS JEFFERSO</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THREE RIVERS</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>VIRGINIA BEACH</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST PIEDMONT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST TIDEWATER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Total</name>
+<description>|          5</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+<Point><coordinates>HEPATITIS A,EVENTNAME,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>AGEGROUP</description>
+</Placemark>
+<Placemark>
+<name>DISTRICT</name>
+<description>00-04 YRS</description>
+<Point><coordinates>15-19 YRS,10-14 YRS,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALEXANDRIA</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALLEGHANY</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ARLINGTON</name>
+<description>|          1</description>
+<Point><coordinates>2,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL SHENAND</name>
+<description>|          0</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL VIRGINI</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESAPEAKE</name>
+<description>|          0</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESTERFIELD</name>
+<description>|          3</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CRATER</name>
+<description>|          0</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CUMBERLAND PLAT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>EASTERN SHORE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>FAIRFAX</name>
+<description>|          2</description>
+<Point><coordinates>1,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HAMPTON</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HANOVER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HENRICO</name>
+<description>|          0</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LENOWISCO</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LORD FAIRFAX</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LOUDOUN</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>MOUNT ROGERS</name>
+<description>|          0</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NEW RIVER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NORFOLK</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PENINSULA</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PIEDMONT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PITTSYL/DANVILL</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PORTSMOUTH</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PRINCE WILLIAM</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHAN/RAPIDA</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHANNOCK</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RICHMOND CITY</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ROANOKE CITY</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SOUTHSIDE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THOMAS JEFFERSO</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THREE RIVERS</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>VIRGINIA BEACH</name>
+<description>|          2</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST PIEDMONT</name>
+<description>|          0</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST TIDEWATER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Total</name>
+<description>|          8</description>
+<Point><coordinates>7,6,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+<Point><coordinates>HEPATITIS B,EVENTNAME,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>AGEGROUP</description>
+</Placemark>
+<Placemark>
+<name>DISTRICT</name>
+<description>00-04 YRS</description>
+<Point><coordinates>15-19 YRS,10-14 YRS,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALEXANDRIA</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALLEGHANY</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ARLINGTON</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL SHENAND</name>
+<description>|          0</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL VIRGINI</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESAPEAKE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESTERFIELD</name>
+<description>|          0</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CRATER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CUMBERLAND PLAT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>EASTERN SHORE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>FAIRFAX</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HAMPTON</name>
+<description>|          0</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HANOVER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HENRICO</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LENOWISCO</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LORD FAIRFAX</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LOUDOUN</name>
+<description>|          0</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>MOUNT ROGERS</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NEW RIVER</name>
+<description>|          0</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NORFOLK</name>
+<description>|          0</description>
+<Point><coordinates>3,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PENINSULA</name>
+<description>|          0</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PIEDMONT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PITTSYL/DANVILL</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PORTSMOUTH</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PRINCE WILLIAM</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHAN/RAPIDA</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHANNOCK</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RICHMOND CITY</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ROANOKE CITY</name>
+<description>|          0</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SOUTHSIDE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THOMAS JEFFERSO</name>
+<description>|          0</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THREE RIVERS</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>VIRGINIA BEACH</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST PIEDMONT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST TIDEWATER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Total</name>
+<description>|          0</description>
+<Point><coordinates>11,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+<Point><coordinates>LYME DISEAS,EVENTNAME,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>AGEGROUP</description>
+</Placemark>
+<Placemark>
+<name>DISTRICT</name>
+<description>00-04 YRS</description>
+<Point><coordinates>15-19 YRS,10-14 YRS,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALEXANDRIA</name>
+<description>0</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALLEGHANY</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ARLINGTON</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL SHENAND</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL VIRGINI</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESAPEAKE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESTERFIELD</name>
+<description>|          0</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CRATER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CUMBERLAND PLAT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>EASTERN SHORE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>FAIRFAX</name>
+<description>|          2</description>
+<Point><coordinates>1,5,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HAMPTON</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HANOVER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HENRICO</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LENOWISCO</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LORD FAIRFAX</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LOUDOUN</name>
+<description>|          7</description>
+<Point><coordinates>3,7,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>MOUNT ROGERS</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NEW RIVER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NORFOLK</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PENINSULA</name>
+<description>|          0</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PIEDMONT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PITTSYL/DANVILL</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PORTSMOUTH</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PRINCE WILLIAM</name>
+<description>|          2</description>
+<Point><coordinates>0,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHAN/RAPIDA</name>
+<description>|          0</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHANNOCK</name>
+<description>|          0</description>
+<Point><coordinates>2,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RICHMOND CITY</name>
+<description>|          0</description>
+<Point><coordinates>2,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ROANOKE CITY</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SOUTHSIDE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THOMAS JEFFERSO</name>
+<description>|          1</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THREE RIVERS</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>VIRGINIA BEACH</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST PIEDMONT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST TIDEWATER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Total</name>
+<description>|         12</description>
+<Point><coordinates>10,19,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+<Point><coordinates>INGOCOCCAL I,TNAME =MEN,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>AGEGROUP</description>
+</Placemark>
+<Placemark>
+<name>DISTRICT</name>
+<description>00-04 YRS</description>
+<Point><coordinates>15-19 YRS,10-14 YRS,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALEXANDRIA</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALLEGHANY</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ARLINGTON</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL SHENAND</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL VIRGINI</name>
+<description>|          3</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESAPEAKE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESTERFIELD</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CRATER</name>
+<description>|          0</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CUMBERLAND PLAT</name>
+<description>|          2</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>EASTERN SHORE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>FAIRFAX</name>
+<description>|          2</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HAMPTON</name>
+<description>|          0</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HANOVER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HENRICO</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LENOWISCO</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LORD FAIRFAX</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LOUDOUN</name>
+<description>|          0</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>MOUNT ROGERS</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NEW RIVER</name>
+<description>|          1</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NORFOLK</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PENINSULA</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PIEDMONT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PITTSYL/DANVILL</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PORTSMOUTH</name>
+<description>|          1</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PRINCE WILLIAM</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHAN/RAPIDA</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHANNOCK</name>
+<description>|          0</description>
+<Point><coordinates>1,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RICHMOND CITY</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ROANOKE CITY</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SOUTHSIDE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THOMAS JEFFERSO</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THREE RIVERS</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>VIRGINIA BEACH</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST PIEDMONT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST TIDEWATER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Total</name>
+<description>|         16</description>
+<Point><coordinates>5,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+<Point><coordinates>MUMPS,EVENTNAME,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>AGEGROUP</description>
+</Placemark>
+<Placemark>
+<name>DISTRICT</name>
+<description>00-04 YRS</description>
+<Point><coordinates>15-19 YRS,10-14 YRS,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALEXANDRIA</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALLEGHANY</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ARLINGTON</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL SHENAND</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL VIRGINI</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESAPEAKE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESTERFIELD</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CRATER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CUMBERLAND PLAT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>EASTERN SHORE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>FAIRFAX</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HAMPTON</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HANOVER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HENRICO</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LENOWISCO</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LORD FAIRFAX</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LOUDOUN</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>MOUNT ROGERS</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NEW RIVER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NORFOLK</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PENINSULA</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PIEDMONT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PITTSYL/DANVILL</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PORTSMOUTH</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PRINCE WILLIAM</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHAN/RAPIDA</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHANNOCK</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RICHMOND CITY</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ROANOKE CITY</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SOUTHSIDE</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THOMAS JEFFERSO</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THREE RIVERS</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>VIRGINIA BEACH</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST PIEDMONT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST TIDEWATER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Total</name>
+<description>|          2</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+<Point><coordinates>PERTUSSIS,EVENTNAME,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>AGEGROUP</description>
+</Placemark>
+<Placemark>
+<name>DISTRICT</name>
+<description>00-04 YRS</description>
+<Point><coordinates>15-19 YRS,10-14 YRS,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALEXANDRIA</name>
+<description>|          2</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALLEGHANY</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ARLINGTON</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL SHENAND</name>
+<description>|          6</description>
+<Point><coordinates>4,4,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL VIRGINI</name>
+<description>|          0</description>
+<Point><coordinates>0,3,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESAPEAKE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESTERFIELD</name>
+<description>|          7</description>
+<Point><coordinates>0,3,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CRATER</name>
+<description>|          1</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CUMBERLAND PLAT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>EASTERN SHORE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>FAIRFAX</name>
+<description>|          2</description>
+<Point><coordinates>0,3,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HAMPTON</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HANOVER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HENRICO</name>
+<description>|          1</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LENOWISCO</name>
+<description>|          0</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LORD FAIRFAX</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LOUDOUN</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>MOUNT ROGERS</name>
+<description>|          2</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NEW RIVER</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NORFOLK</name>
+<description>|          6</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PENINSULA</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PIEDMONT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PITTSYL/DANVILL</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PORTSMOUTH</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PRINCE WILLIAM</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHAN/RAPIDA</name>
+<description>|          1</description>
+<Point><coordinates>0,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHANNOCK</name>
+<description>|          4</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RICHMOND CITY</name>
+<description>|          4</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ROANOKE CITY</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SOUTHSIDE</name>
+<description>|          2</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THOMAS JEFFERSO</name>
+<description>|         13</description>
+<Point><coordinates>11,29,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THREE RIVERS</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>VIRGINIA BEACH</name>
+<description>|         10</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST PIEDMONT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST TIDEWATER</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Total</name>
+<description>|         65</description>
+<Point><coordinates>16,47,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+<Point><coordinates>SALMONELLOS,EVENTNAME,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>AGEGROUP</description>
+</Placemark>
+<Placemark>
+<name>DISTRICT</name>
+<description>00-04 YRS</description>
+<Point><coordinates>15-19 YRS,10-14 YRS,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALEXANDRIA</name>
+<description>|          3</description>
+<Point><coordinates>1,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALLEGHANY</name>
+<description>|          6</description>
+<Point><coordinates>0,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ARLINGTON</name>
+<description>|         16</description>
+<Point><coordinates>1,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL SHENAND</name>
+<description>|         11</description>
+<Point><coordinates>2,3,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL VIRGINI</name>
+<description>|         13</description>
+<Point><coordinates>3,4,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESAPEAKE</name>
+<description>|         15</description>
+<Point><coordinates>2,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESTERFIELD</name>
+<description>|         18</description>
+<Point><coordinates>4,4,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CRATER</name>
+<description>|          9</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CUMBERLAND PLAT</name>
+<description>|          4</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>EASTERN SHORE</name>
+<description>|         12</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>FAIRFAX</name>
+<description>|         42</description>
+<Point><coordinates>8,10,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HAMPTON</name>
+<description>|          3</description>
+<Point><coordinates>2,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HANOVER</name>
+<description>|          6</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HENRICO</name>
+<description>|          8</description>
+<Point><coordinates>4,5,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LENOWISCO</name>
+<description>|          4</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LORD FAIRFAX</name>
+<description>|          6</description>
+<Point><coordinates>2,4,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LOUDOUN</name>
+<description>|         10</description>
+<Point><coordinates>0,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>MOUNT ROGERS</name>
+<description>|         11</description>
+<Point><coordinates>2,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NEW RIVER</name>
+<description>|          4</description>
+<Point><coordinates>2,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NORFOLK</name>
+<description>|          4</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PENINSULA</name>
+<description>|         13</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PIEDMONT</name>
+<description>|         12</description>
+<Point><coordinates>1,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PITTSYL/DANVILL</name>
+<description>|          3</description>
+<Point><coordinates>0,3,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PORTSMOUTH</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PRINCE WILLIAM</name>
+<description>|         12</description>
+<Point><coordinates>4,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHAN/RAPIDA</name>
+<description>|          2</description>
+<Point><coordinates>0,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHANNOCK</name>
+<description>|         15</description>
+<Point><coordinates>1,6,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RICHMOND CITY</name>
+<description>|         15</description>
+<Point><coordinates>9,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ROANOKE CITY</name>
+<description>|          6</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SOUTHSIDE</name>
+<description>|          5</description>
+<Point><coordinates>0,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THOMAS JEFFERSO</name>
+<description>|          2</description>
+<Point><coordinates>2,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THREE RIVERS</name>
+<description>|         12</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>VIRGINIA BEACH</name>
+<description>|         23</description>
+<Point><coordinates>5,3,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST PIEDMONT</name>
+<description>|          2</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST TIDEWATER</name>
+<description>|          6</description>
+<Point><coordinates>2,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Total</name>
+<description>|        334</description>
+<Point><coordinates>61,64,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+<Point><coordinates>SHIGELLOSIS,EVENTNAME,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>AGEGROUP</description>
+</Placemark>
+<Placemark>
+<name>DISTRICT</name>
+<description>00-04 YRS</description>
+<Point><coordinates>15-19 YRS,10-14 YRS,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALEXANDRIA</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALLEGHANY</name>
+<description>|          3</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ARLINGTON</name>
+<description>|          4</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL SHENAND</name>
+<description>|          2</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL VIRGINI</name>
+<description>|          3</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESAPEAKE</name>
+<description>|         14</description>
+<Point><coordinates>1,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESTERFIELD</name>
+<description>|         20</description>
+<Point><coordinates>0,5,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CRATER</name>
+<description>|         16</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CUMBERLAND PLAT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>EASTERN SHORE</name>
+<description>|          7</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>FAIRFAX</name>
+<description>|          7</description>
+<Point><coordinates>3,3,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HAMPTON</name>
+<description>|          3</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HANOVER</name>
+<description>|          7</description>
+<Point><coordinates>2,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HENRICO</name>
+<description>|         20</description>
+<Point><coordinates>0,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LENOWISCO</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LORD FAIRFAX</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LOUDOUN</name>
+<description>|          3</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>MOUNT ROGERS</name>
+<description>|          1</description>
+<Point><coordinates>2,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NEW RIVER</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NORFOLK</name>
+<description>|         48</description>
+<Point><coordinates>0,9,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PENINSULA</name>
+<description>|         22</description>
+<Point><coordinates>4,4,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PIEDMONT</name>
+<description>|         15</description>
+<Point><coordinates>4,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PITTSYL/DANVILL</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PORTSMOUTH</name>
+<description>|         16</description>
+<Point><coordinates>1,5,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PRINCE WILLIAM</name>
+<description>|          2</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHAN/RAPIDA</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHANNOCK</name>
+<description>|          3</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RICHMOND CITY</name>
+<description>|         23</description>
+<Point><coordinates>5,12,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ROANOKE CITY</name>
+<description>|          1</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SOUTHSIDE</name>
+<description>|          3</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THOMAS JEFFERSO</name>
+<description>|          3</description>
+<Point><coordinates>0,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THREE RIVERS</name>
+<description>|          4</description>
+<Point><coordinates>2,1,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>VIRGINIA BEACH</name>
+<description>|         45</description>
+<Point><coordinates>3,6,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST PIEDMONT</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST TIDEWATER</name>
+<description>|         11</description>
+<Point><coordinates>2,2,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Total</name>
+<description>|        311</description>
+<Point><coordinates>30,61,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+<Point><coordinates>STREP INVAS,E =GROUP A,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>AGEGROUP</description>
+</Placemark>
+<Placemark>
+<name>DISTRICT</name>
+<description>00-04 YRS</description>
+<Point><coordinates>15-19 YRS,10-14 YRS,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALEXANDRIA</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALLEGHANY</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ARLINGTON</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL SHENAND</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL VIRGINI</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESAPEAKE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESTERFIELD</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CRATER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CUMBERLAND PLAT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>EASTERN SHORE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>FAIRFAX</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HAMPTON</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HANOVER</name>
+<description>|          0</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HENRICO</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LENOWISCO</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LORD FAIRFAX</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LOUDOUN</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>MOUNT ROGERS</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NEW RIVER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NORFOLK</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PENINSULA</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PIEDMONT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PITTSYL/DANVILL</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PORTSMOUTH</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PRINCE WILLIAM</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHAN/RAPIDA</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHANNOCK</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RICHMOND CITY</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ROANOKE CITY</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SOUTHSIDE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THOMAS JEFFERSO</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THREE RIVERS</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>VIRGINIA BEACH</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST PIEDMONT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST TIDEWATER</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Total</name>
+<description>|          3</description>
+<Point><coordinates>1,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description>EVE</description>
+<Point><coordinates>ASIVE <5 YRS,P PNEU,INV,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description>AGEGROUP</description>
+</Placemark>
+<Placemark>
+<name>DISTRICT</name>
+<description>00-04 YRS</description>
+<Point><coordinates>15-19 YRS,10-14 YRS,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALEXANDRIA</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ALLEGHANY</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ARLINGTON</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL SHENAND</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CENTRAL VIRGINI</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESAPEAKE</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CHESTERFIELD</name>
+<description>|          2</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CRATER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>CUMBERLAND PLAT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>EASTERN SHORE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>FAIRFAX</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HAMPTON</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HANOVER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HENRICO</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LENOWISCO</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LORD FAIRFAX</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LOUDOUN</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>MOUNT ROGERS</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NEW RIVER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>NORFOLK</name>
+<description>|          4</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PENINSULA</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PIEDMONT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PITTSYL/DANVILL</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PORTSMOUTH</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PRINCE WILLIAM</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHAN/RAPIDA</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RAPPAHANNOCK</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RICHMOND CITY</name>
+<description>|          1</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ROANOKE CITY</name>
+<description>|          2</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SOUTHSIDE</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THOMAS JEFFERSO</name>
+<description>|          2</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>THREE RIVERS</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>VIRGINIA BEACH</name>
+<description>|          5</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST PIEDMONT</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WEST TIDEWATER</name>
+<description>|          0</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>----------------</name>
+<description>+-----------</description>
+<Point><coordinates>-----------,----------,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Total</name>
+<description>|         20</description>
+<Point><coordinates>0,0,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>
