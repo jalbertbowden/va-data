@@ -1,0 +1,1595 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2008,
+                    2007,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "State",
+                "description": "2000-2002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.16,
+                    8.19,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "United States..................",
+                "description": "7.69"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4,
+                    10.44,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Alabama.....................",
+                "description": "9.75"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.84,
+                    5.84,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Alaska......................",
+                "description": "5.71"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.08,
+                    7.08,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Arizona.....................",
+                "description": "6.91"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.99,
+                    9.1,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Arkansas....................",
+                "description": "8.64"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8,
+                    6.83,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  California..................",
+                "description": "6.29"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.81,
+                    8.9,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Colorado....................",
+                "description": "8.60"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.02,
+                    8.05,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Connecticut.................",
+                "description": "7.52"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.68,
+                    8.8,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Delaware....................",
+                "description": "9.29"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.33,
+                    10.62,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  District of Columbia........",
+                "description": "11.85"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.73,
+                    8.72,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Florida.....................",
+                "description": "8.18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.57,
+                    9.51,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Georgia.....................",
+                "description": "8.79"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.29,
+                    8.17,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Hawaii......................",
+                "description": "7.98"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.59,
+                    6.51,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Idaho.......................",
+                "description": "6.41"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.34,
+                    8.41,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Illinois....................",
+                "description": "8.04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.24,
+                    8.4,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Indiana.....................",
+                "description": "7.54"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.78,
+                    6.74,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Iowa........................",
+                "description": "6.39"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.19,
+                    7.18,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Kansas......................",
+                "description": "6.96"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.06,
+                    9.13,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Kentucky....................",
+                "description": "8.38"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73,
+                    10.9,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Louisiana...................",
+                "description": "10.40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.43,
+                    6.44,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Maine.......................",
+                "description": "6.12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.05,
+                    9.15,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Maryland....................",
+                "description": "8.88"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.76,
+                    7.81,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Massachusetts...............",
+                "description": "7.26"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.45,
+                    8.44,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Michigan....................",
+                "description": "7.94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.44,
+                    6.53,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Minnesota...................",
+                "description": "6.23"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.05,
+                    12.11,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Mississippi.................",
+                "description": "10.82"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.15,
+                    8.03,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Missouri....................",
+                "description": "7.74"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.31,
+                    7.21,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Montana.....................",
+                "description": "6.65"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.09,
+                    7.06,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Nebraska....................",
+                "description": "6.88"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.13,
+                    8.12,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Nevada......................",
+                "description": "7.44"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.76,
+                    6.56,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  New Hampshire...............",
+                "description": "6.40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.33,
+                    8.41,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  New Jersey..................",
+                "description": "7.89"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5,
+                    8.52,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  New Mexico..................",
+                "description": "7.99"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.21,
+                    8.18,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  New York....................",
+                "description": "7.76"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.07,
+                    9.12,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  North Carolina..............",
+                "description": "8.90"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.62,
+                    6.49,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  North Dakota................",
+                "description": "6.28"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.58,
+                    8.64,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Ohio........................",
+                "description": "8.07"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.35,
+                    8.28,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Oklahoma....................",
+                "description": "7.75"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.21,
+                    6.13,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Oregon......................",
+                "description": "5.65"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.33,
+                    8.36,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Pennsylvania................",
+                "description": "7.93"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.87,
+                    7.98,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Rhode Island................",
+                "description": "7.47"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.92,
+                    10,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  South Carolina..............",
+                "description": "9.74"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.38,
+                    6.43,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  South Dakota................",
+                "description": "6.58"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.13,
+                    9.27,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Tennessee...................",
+                "description": "9.20"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.45,
+                    8.44,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Texas.......................",
+                "description": "7.54"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.93,
+                    6.82,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Utah........................",
+                "description": "6.48"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.62,
+                    6.63,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Vermont.....................",
+                "description": "6.15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.29,
+                    8.41,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Virginia....................",
+                "description": "7.90"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.31,
+                    6.3,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Washington..................",
+                "description": "5.75"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.31,
+                    9.42,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  West Virginia...............",
+                "description": "8.60"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.05,
+                    7.03,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Wisconsin...................",
+                "description": "6.58"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.56,
+                    8.61,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Wyoming.....................",
+                "description": "8.35"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2008,
+                    2007,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "State",
+                "description": "2000-2002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.96,
+                    6.94,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "United States..................",
+                "description": "6.48"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.44,
+                    6.63,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Alabama.....................",
+                "description": "6.95"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.14,
+                    6.98,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Alaska......................",
+                "description": "6.07"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.76,
+                    6.67,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Arizona.....................",
+                "description": "6.56"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.51,
+                    6.41,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Arkansas....................",
+                "description": "5.79"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.14,
+                    6.19,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  California..................",
+                "description": "5.66"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.38,
+                    8.49,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Colorado....................",
+                "description": "8.33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.37,
+                    8.28,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Connecticut.................",
+                "description": "8.25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.56,
+                    7.14,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Delaware....................",
+                "description": "6.81"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.72,
+                    6.89,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  District of Columbia........",
+                "description": "8.04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.13,
+                    7.14,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Florida.....................",
+                "description": "6.61"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.54,
+                    6.39,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Georgia.....................",
+                "description": "5.77"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.64,
+                    8.37,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Hawaii......................",
+                "description": "8.00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.47,
+                    7.28,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Idaho.......................",
+                "description": "6.95"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.7,
+                    6.71,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Illinois....................",
+                "description": "6.31"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.68,
+                    6.92,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Indiana.....................",
+                "description": "6.09"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.49,
+                    6.26,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Iowa........................",
+                "description": "6.01"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3,
+                    6.06,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Kansas......................",
+                "description": "5.93"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.71,
+                    6.82,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Kentucky....................",
+                "description": "7.73"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.99,
+                    6.87,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Louisiana...................",
+                "description": "6.56"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    8.44,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Maine.......................",
+                "description": "*6.03"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9,
+                    6.97,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Maryland....................",
+                "description": "6.73"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.45,
+                    8.32,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Massachusetts...............",
+                "description": "8.37"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.78,
+                    6.83,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Michigan....................",
+                "description": "6.26"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.84,
+                    5.8,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Minnesota...................",
+                "description": "6.02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.85,
+                    6.86,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Mississippi.................",
+                "description": "6.61"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.57,
+                    6.23,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Missouri....................",
+                "description": "6.18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.43,
+                    7.49,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Montana.....................",
+                "description": "7.44"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6,
+                    6.76,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Nebraska....................",
+                "description": "6.30"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.83,
+                    6.73,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Nevada......................",
+                "description": "6.34"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.35,
+                    7.44,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  New Hampshire...............",
+                "description": "4.84"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.31,
+                    7.42,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  New Jersey..................",
+                "description": "7.15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.54,
+                    8.59,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  New Mexico..................",
+                "description": "8.13"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.81,
+                    7.78,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  New York....................",
+                "description": "7.38"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.28,
+                    6.35,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  North Carolina..............",
+                "description": "6.13"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.59,
+                    7.02,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  North Dakota................",
+                "description": "*8.10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.49,
+                    7.75,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Ohio........................",
+                "description": "7.20"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.71,
+                    6.49,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Oklahoma....................",
+                "description": "6.41"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.04,
+                    5.97,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Oregon......................",
+                "description": "5.54"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.79,
+                    8.9,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Pennsylvania................",
+                "description": "8.97"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.99,
+                    7.92,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Rhode Island................",
+                "description": "7.20"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.54,
+                    6.57,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  South Carolina..............",
+                "description": "6.87"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.85,
+                    7.11,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  South Dakota................",
+                "description": "6.89"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.28,
+                    6.3,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Tennessee...................",
+                "description": "6.28"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.64,
+                    7.59,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Texas.......................",
+                "description": "6.88"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.48,
+                    7.44,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Utah........................",
+                "description": "7.20"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Vermont.....................",
+                "description": "*"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.39,
+                    6.39,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Virginia....................",
+                "description": "6.07"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1,
+                    5.89,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Washington..................",
+                "description": "5.31"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  West Virginia...............",
+                "description": "*"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.06,
+                    6.26,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Wisconsin...................",
+                "description": "6.13"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.59,
+                    8.87,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "  Wyoming.....................",
+                "description": "8.81"
+            }
+        }
+    ]
+}

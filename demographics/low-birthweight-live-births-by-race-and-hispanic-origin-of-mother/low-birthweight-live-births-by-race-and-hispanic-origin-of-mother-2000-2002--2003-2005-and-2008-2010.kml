@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>(Data are based on birth certificates)</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>State</name>
+<description>2000-2002</description>
+<Point><coordinates>2008-2010,2007-2009,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>United States..................</name>
+<description>7.69</description>
+<Point><coordinates>8.16,8.19,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>  Alabama.....................</name>
+<description>9.75</description>
+<Point><coordinates>10.40,10.44,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Alaska......................</name>
+<description>5.71</description>
+<Point><coordinates>5.84,5.84,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Arizona.....................</name>
+<description>6.91</description>
+<Point><coordinates>7.08,7.08,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Arkansas....................</name>
+<description>8.64</description>
+<Point><coordinates>8.99,9.10,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  California..................</name>
+<description>6.29</description>
+<Point><coordinates>6.80,6.83,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Colorado....................</name>
+<description>8.60</description>
+<Point><coordinates>8.81,8.90,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Connecticut.................</name>
+<description>7.52</description>
+<Point><coordinates>8.02,8.05,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Delaware....................</name>
+<description>9.29</description>
+<Point><coordinates>8.68,8.80,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  District of Columbia........</name>
+<description>11.85</description>
+<Point><coordinates>10.33,10.62,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Florida.....................</name>
+<description>8.18</description>
+<Point><coordinates>8.73,8.72,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>  Georgia.....................</name>
+<description>8.79</description>
+<Point><coordinates>9.57,9.51,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Hawaii......................</name>
+<description>7.98</description>
+<Point><coordinates>8.29,8.17,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Idaho.......................</name>
+<description>6.41</description>
+<Point><coordinates>6.59,6.51,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Illinois....................</name>
+<description>8.04</description>
+<Point><coordinates>8.34,8.41,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Indiana.....................</name>
+<description>7.54</description>
+<Point><coordinates>8.24,8.40,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Iowa........................</name>
+<description>6.39</description>
+<Point><coordinates>6.78,6.74,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Kansas......................</name>
+<description>6.96</description>
+<Point><coordinates>7.19,7.18,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Kentucky....................</name>
+<description>8.38</description>
+<Point><coordinates>9.06,9.13,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Louisiana...................</name>
+<description>10.40</description>
+<Point><coordinates>10.73,10.90,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Maine.......................</name>
+<description>6.12</description>
+<Point><coordinates>6.43,6.44,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>  Maryland....................</name>
+<description>8.88</description>
+<Point><coordinates>9.05,9.15,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Massachusetts...............</name>
+<description>7.26</description>
+<Point><coordinates>7.76,7.81,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Michigan....................</name>
+<description>7.94</description>
+<Point><coordinates>8.45,8.44,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Minnesota...................</name>
+<description>6.23</description>
+<Point><coordinates>6.44,6.53,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Mississippi.................</name>
+<description>10.82</description>
+<Point><coordinates>12.05,12.11,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Missouri....................</name>
+<description>7.74</description>
+<Point><coordinates>8.15,8.03,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Montana.....................</name>
+<description>6.65</description>
+<Point><coordinates>7.31,7.21,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Nebraska....................</name>
+<description>6.88</description>
+<Point><coordinates>7.09,7.06,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Nevada......................</name>
+<description>7.44</description>
+<Point><coordinates>8.13,8.12,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  New Hampshire...............</name>
+<description>6.40</description>
+<Point><coordinates>6.76,6.56,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>  New Jersey..................</name>
+<description>7.89</description>
+<Point><coordinates>8.33,8.41,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  New Mexico..................</name>
+<description>7.99</description>
+<Point><coordinates>8.50,8.52,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  New York....................</name>
+<description>7.76</description>
+<Point><coordinates>8.21,8.18,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  North Carolina..............</name>
+<description>8.90</description>
+<Point><coordinates>9.07,9.12,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  North Dakota................</name>
+<description>6.28</description>
+<Point><coordinates>6.62,6.49,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Ohio........................</name>
+<description>8.07</description>
+<Point><coordinates>8.58,8.64,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Oklahoma....................</name>
+<description>7.75</description>
+<Point><coordinates>8.35,8.28,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Oregon......................</name>
+<description>5.65</description>
+<Point><coordinates>6.21,6.13,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Pennsylvania................</name>
+<description>7.93</description>
+<Point><coordinates>8.33,8.36,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Rhode Island................</name>
+<description>7.47</description>
+<Point><coordinates>7.87,7.98,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>  South Carolina..............</name>
+<description>9.74</description>
+<Point><coordinates>9.92,10.00,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  South Dakota................</name>
+<description>6.58</description>
+<Point><coordinates>6.38,6.43,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Tennessee...................</name>
+<description>9.20</description>
+<Point><coordinates>9.13,9.27,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Texas.......................</name>
+<description>7.54</description>
+<Point><coordinates>8.45,8.44,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Utah........................</name>
+<description>6.48</description>
+<Point><coordinates>6.93,6.82,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Vermont.....................</name>
+<description>6.15</description>
+<Point><coordinates>6.62,6.63,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Virginia....................</name>
+<description>7.90</description>
+<Point><coordinates>8.29,8.41,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Washington..................</name>
+<description>5.75</description>
+<Point><coordinates>6.31,6.30,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  West Virginia...............</name>
+<description>8.60</description>
+<Point><coordinates>9.31,9.42,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Wisconsin...................</name>
+<description>6.58</description>
+<Point><coordinates>7.05,7.03,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Wyoming.....................</name>
+<description>8.35</description>
+<Point><coordinates>8.56,8.61,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>State</name>
+<description>2000-2002</description>
+<Point><coordinates>2008-2010,2007-2009,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>United States..................</name>
+<description>6.48</description>
+<Point><coordinates>6.96,6.94,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>  Alabama.....................</name>
+<description>6.95</description>
+<Point><coordinates>6.44,6.63,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Alaska......................</name>
+<description>6.07</description>
+<Point><coordinates>7.14,6.98,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Arizona.....................</name>
+<description>6.56</description>
+<Point><coordinates>6.76,6.67,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Arkansas....................</name>
+<description>5.79</description>
+<Point><coordinates>6.51,6.41,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  California..................</name>
+<description>5.66</description>
+<Point><coordinates>6.14,6.19,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Colorado....................</name>
+<description>8.33</description>
+<Point><coordinates>8.38,8.49,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Connecticut.................</name>
+<description>8.25</description>
+<Point><coordinates>8.37,8.28,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Delaware....................</name>
+<description>6.81</description>
+<Point><coordinates>6.56,7.14,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  District of Columbia........</name>
+<description>8.04</description>
+<Point><coordinates>6.72,6.89,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Florida.....................</name>
+<description>6.61</description>
+<Point><coordinates>7.13,7.14,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>  Georgia.....................</name>
+<description>5.77</description>
+<Point><coordinates>6.54,6.39,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Hawaii......................</name>
+<description>8.00</description>
+<Point><coordinates>8.64,8.37,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Idaho.......................</name>
+<description>6.95</description>
+<Point><coordinates>7.47,7.28,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Illinois....................</name>
+<description>6.31</description>
+<Point><coordinates>6.70,6.71,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Indiana.....................</name>
+<description>6.09</description>
+<Point><coordinates>6.68,6.92,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Iowa........................</name>
+<description>6.01</description>
+<Point><coordinates>6.49,6.26,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Kansas......................</name>
+<description>5.93</description>
+<Point><coordinates>6.30,6.06,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Kentucky....................</name>
+<description>7.73</description>
+<Point><coordinates>6.71,6.82,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Louisiana...................</name>
+<description>6.56</description>
+<Point><coordinates>6.99,6.87,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Maine.......................</name>
+<description>*6.03</description>
+<Point><coordinates>*7.47,8.44,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>  Maryland....................</name>
+<description>6.73</description>
+<Point><coordinates>6.90,6.97,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Massachusetts...............</name>
+<description>8.37</description>
+<Point><coordinates>8.45,8.32,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Michigan....................</name>
+<description>6.26</description>
+<Point><coordinates>6.78,6.83,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Minnesota...................</name>
+<description>6.02</description>
+<Point><coordinates>5.84,5.80,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Mississippi.................</name>
+<description>6.61</description>
+<Point><coordinates>6.85,6.86,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Missouri....................</name>
+<description>6.18</description>
+<Point><coordinates>6.57,6.23,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Montana.....................</name>
+<description>7.44</description>
+<Point><coordinates>6.43,7.49,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Nebraska....................</name>
+<description>6.30</description>
+<Point><coordinates>6.60,6.76,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Nevada......................</name>
+<description>6.34</description>
+<Point><coordinates>6.83,6.73,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  New Hampshire...............</name>
+<description>4.84</description>
+<Point><coordinates>8.35,7.44,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>  New Jersey..................</name>
+<description>7.15</description>
+<Point><coordinates>7.31,7.42,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  New Mexico..................</name>
+<description>8.13</description>
+<Point><coordinates>8.54,8.59,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  New York....................</name>
+<description>7.38</description>
+<Point><coordinates>7.81,7.78,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  North Carolina..............</name>
+<description>6.13</description>
+<Point><coordinates>6.28,6.35,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  North Dakota................</name>
+<description>*8.10</description>
+<Point><coordinates>7.59,7.02,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Ohio........................</name>
+<description>7.20</description>
+<Point><coordinates>7.49,7.75,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Oklahoma....................</name>
+<description>6.41</description>
+<Point><coordinates>6.71,6.49,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Oregon......................</name>
+<description>5.54</description>
+<Point><coordinates>6.04,5.97,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Pennsylvania................</name>
+<description>8.97</description>
+<Point><coordinates>8.79,8.90,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Rhode Island................</name>
+<description>7.20</description>
+<Point><coordinates>7.99,7.92,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>  South Carolina..............</name>
+<description>6.87</description>
+<Point><coordinates>6.54,6.57,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  South Dakota................</name>
+<description>6.89</description>
+<Point><coordinates>6.85,7.11,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Tennessee...................</name>
+<description>6.28</description>
+<Point><coordinates>6.28,6.30,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Texas.......................</name>
+<description>6.88</description>
+<Point><coordinates>7.64,7.59,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Utah........................</name>
+<description>7.20</description>
+<Point><coordinates>7.48,7.44,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Vermont.....................</name>
+<description>*</description>
+<Point><coordinates>*,*,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Virginia....................</name>
+<description>6.07</description>
+<Point><coordinates>6.39,6.39,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Washington..................</name>
+<description>5.31</description>
+<Point><coordinates>6.10,5.89,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  West Virginia...............</name>
+<description>*</description>
+<Point><coordinates>*5.81,*6.17,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Wisconsin...................</name>
+<description>6.13</description>
+<Point><coordinates>6.06,6.26,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>  Wyoming.....................</name>
+<description>8.81</description>
+<Point><coordinates>9.59,8.87,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>*Percentages preceded by an asterisk are based on fewer than 50 births.</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>Percentages not shown are based on fewer than 20 births.</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>1Excludes live births with unknown birthweight.</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>2Persons of Hispanic origin may be of any race.</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>See Appendix II, Hispanic origin.</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>3Includes persons of Hispanic and non-Hispanic origin.</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>NOTES: For information on very low birthweight live births by state, see Table I-10 in</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>Martin JA, Hamilton BE, Ventura SJ, Osterman MJK, Wilson EC, Mathews TJ. </name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>Births: Final data for 2010. National vital statistics</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>reports; vol 61 no 1. Hyattsville, MD:</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>NCHS. 2012; Available from: http://www.cdc.gov/nchs/data/nvsr/nvsr61/nvsr61_01.pdf.</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>Starting with 2003 data, some states reported multiple-race data.</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>The multiple-race data for these states were bridged to the single-race categories</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>of the 1977 Office of Management and Budget standards for comparability with other states. See Appendix II, Race.</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>SOURCE: CDC/NCHS,</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>National Vital Statistics System, public-use and nonpublic-use Birth File.</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>Martin JA, Hamilton BE, Ventura SJ, Osterman MJK, Wilson EC, Mathews TJ. </name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>Births: Final data for 2010. National vital statistics</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>reports; vol 61 no 1. Hyattsville, MD:</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>NCHS. 2012; Available from: http://www.cdc.gov/nchs/data/nvsr/nvsr61/nvsr61_01.pdf.</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>See Appendix I, National Vital Statistics System (NVSS).</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>Health, United States, 2012</name>
+<description></description>
+</Placemark>
+</Document>
+</kml>
