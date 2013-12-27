@@ -1,0 +1,890 @@
+Page 1 of 11
+
+Nature Conservancy Managed Preserves and Lands
+
+
+
+
+
+Shapefile
+
+
+Thumbnail Not
+
+
+Available
+
+
+
+
+
+Tags
+
+
+environment, boundaries, planning, biota
+
+
+
+
+
+Summary
+
+
+Statewide GIS coverage of Conservation Lands in Virginia to serve as a land conservation planning tool.
+
+
+
+
+
+Description
+
+
+This dataset contains the boundaries for lands of conservation and recreational interest in Virginia. The Conservation Lands Database is constantly being edited and updated. Data is released to the public quarterly and posted to the download section of the website: http://www.dcr.virginia.gov/natural_heritage/cldownload.shtmlConservation Easement boundaries must be requested directly via email: david.boyd@dcr.virginia.gov Credits VA-DCR, Natural Heritage
+
+
+
+
+
+Use limitations
+
+
+The re-distribution of this dataset for profit is prohidited.
+
+
+
+
+
+Extent
+
+
+West -83.675418
+
+
+
+
+East -75.228964
+
+North 39.324936
+
+
+
+
+South 36.541001
+
+
+
+
+
+Scale Range
+
+
+There is no scale range for this item.
+
+ArcGIS Metadata ►
+
+
+
+
+
+Topics and Keywords
+
+
+►
+
+THEMES OR CATEGORIES OF THE RESOURCE biota, environment, planningCadastre, boundaries
+
+* CONTENT TYPE Downloadable Data
+
+THEME KEYWORDS environment, biota, boundaries, planningCadastre THESAURUS
+
+►
+
+TITLE ISO 19115 Topic Categories Hide Thesaurus ▲
+
+
+
+
+THEME KEYWORDS environment, boundaries, biota, planning Hide Topics and Keywords ▲
+
+file://C:\Documents and Settings\gsd12929\Local Settings\Temp\arc82C\tmp852.tmp.htm 9/23/2013
+
+Page 2 of 11
+
+
+
+
+
+Citation
+
+
+►
+
+TITLE Nature Conservancy Managed Preserves and Lands PUBLICATION DATE 20130923 00:00:00
+
+
+
+PRESENTATION FORMATS digital map FGDC GEOSPATIAL PRESENTATION FORMAT vector digital data OTHER CITATION DETAILS The Conservation Lands Database is constantly being edited and updated. Data is released to the public quarterly and posted to the download section of the website.
+
+Hide Citation ▲
+
+
+
+
+
+Citation Contacts
+
+
+►
+
+RESPONSIBLE PARTY
+
+ORGANIZATION'S NAME David Boyd
+
+CONTACT'S ROLE publisher
+
+
+
+Hide Citation Contacts ▲
+
+
+
+
+
+Resource Details
+
+
+►
+
+DATASET LANGUAGES English (UNITED STATES)
+
+SPATIAL REPRESENTATION TYPE vector
+
+* PROCESSING ENVIRONMENT Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; Esri ArcGIS
+
+10.1.1.3143
+
+
+
+CREDITS
+
+VA-DCR, Natural Heritage
+
+ARCGIS ITEM PROPERTIES
+
+* NAME tnc
+
+* SIZE 1.423
+
+* LOCATION file://\\coveneg20-nas01\shared\DIVWRK\DNH\DNHGIS\Public_Lands\weblands\2013-09-23\tnc.shp * ACCESS PROTOCOL Local Area Network Hide Resource Details ▲
+
+
+
+
+
+Extents
+
+
+►
+
+EXTENT
+
+GEOGRAPHIC EXTENT
+
+BOUNDING RECTANGLE
+
+EXTENT TYPE Extent used for searching WEST LONGITUDE -83.675418
+
+EAST LONGITUDE -75.228964
+
+SOUTH LATITUDE 36.541001
+
+NORTH LATITUDE 39.324936
+
+
+
+file://C:\Documents and Settings\gsd12929\Local Settings\Temp\arc82C\tmp852.tmp.htm 9/23/2013
+
+Page 3 of 11
+
+EXTENT
+
+GEOGRAPHIC EXTENT
+
+BOUNDING RECTANGLE
+
+EXTENT TYPE Extent used for searching * WEST LONGITUDE -83.304238
+
+* EAST LONGITUDE -75.540905
+
+* NORTH LATITUDE 39.177625
+
+* SOUTH LATITUDE 36.562621
+
+* EXTENT CONTAINS THE RESOURCE Yes
+
+EXTENT IN THE ITEM'S COORDINATE SYSTEM
+
+* WEST LONGITUDE -83.304238
+
+* EAST LONGITUDE -75.540905
+
+* SOUTH LATITUDE 36.562621
+
+* NORTH LATITUDE 39.177625
+
+* EXTENT CONTAINS THE RESOURCE Yes Hide Extents ▲
+
+
+
+
+
+Resource Points of Contact
+
+
+►
+
+POINT OF CONTACT
+
+INDIVIDUAL'S NAME Davisd Boyd
+
+ORGANIZATION'S NAME VA-DCR, Natural Heritage CONTACT'S POSITION Conservation Lands GIS Planner CONTACT'S ROLE point of contact
+
+Hide Resource Points of Contact ▲
+
+
+
+
+
+Resource Constraints
+
+
+►
+
+CONSTRAINTS
+
+LIMITATIONS OF USE
+
+The re-distribution of this dataset for profit is prohidited.
+
+Hide Resource Constraints ▲
+
+
+
+
+
+Spatial Reference
+
+
+►
+
+ARCGIS COORDINATE SYSTEM
+
+* TYPE Geographic
+
+* GEOGRAPHIC COORDINATE REFERENCE GCS_North_American_1983
+
+* COORDINATE REFERENCE DETAILS
+
+GEOGRAPHIC COORDINATE SYSTEM
+
+WELL-KNOWN IDENTIFIER 4269
+
+X ORIGIN -400
+
+Y ORIGIN -400
+
+XY SCALE 11258999068426.238
+
+Z ORIGIN -100000
+
+Z SCALE 10000
+
+M ORIGIN -100000
+
+file://C:\Documents and Settings\gsd12929\Local Settings\Temp\arc82C\tmp852.tmp.htm 9/23/2013
+
+Page 4 of 11
+
+M SCALE 10000
+
+XY TOLERANCE 8.9831528411952133e-009
+
+Z TOLERANCE 0.001
+
+M TOLERANCE 0.001
+
+HIGH PRECISION true
+
+LEFT LONGITUDE -180
+
+LATEST WELL-KNOWN IDENTIFIER 4269
+
+WELL-KNOWN TEXT GEOGCS["GCS_North_American_1983",DATUM
+
+["D_North_American_1983",SPHEROID["GRS_1980",6378137.0,298.257222101]],PRIMEM
+
+["Greenwich",0.0],UNIT["Degree",0.0174532925199433],AUTHORITY["EPSG",4269]]
+
+
+
+REFERENCE SYSTEM IDENTIFIER
+
+* VALUE 4269
+
+* CODESPACE EPSG
+
+* VERSION 7.11.2
+
+
+
+Hide Spatial Reference ▲
+
+
+
+
+
+Spatial Data Properties
+
+
+►
+
+VECTOR
+
+►
+
+* LEVEL OF TOPOLOGY FOR THIS DATASET geometry only GEOMETRIC OBJECTS
+
+FEATURE CLASS NAME tnc
+
+* OBJECT TYPE composite * OBJECT COUNT 238
+
+Hide Vector ▲
+
+
+
+
+ARCGIS FEATURE CLASS PROPERTIES
+
+►
+
+FEATURE CLASS NAME tnc
+
+* FEATURE TYPE Simple
+
+* GEOMETRY TYPE Polygon
+
+* HAS TOPOLOGY FALSE
+
+* FEATURE COUNT 238
+
+* SPATIAL INDEX FALSE
+
+* LINEAR REFERENCING FALSE
+
+Hide ArcGIS Feature Class Properties ▲
+
+
+
+Hide Spatial Data Properties ▲
+
+
+
+
+
+Distribution
+
+
+►
+
+DISTRIBUTION FORMAT
+
+* NAME Shapefile
+
+
+
+TRANSFER OPTIONS
+
+* TRANSFER SIZE 1.423
+
+
+
+file://C:\Documents and Settings\gsd12929\Local Settings\Temp\arc82C\tmp852.tmp.htm 9/23/2013
+
+Page 5 of 11
+
+Hide Distribution ▲
+
+
+
+
+
+Fields
+
+
+►
+
+DETAILS FOR OBJECT tnc ►
+
+* TYPE Feature Class
+
+* ROW COUNT 238
+
+
+
+FIELD MANAME ►
+
+* ALIAS MANAME
+
+* DATA TYPE String
+
+* WIDTH 47
+
+* PRECISION 0
+
+* SCALE 0
+
+FIELD DESCRIPTION
+
+Managed Area Name - conservation land name DESCRIPTION SOURCE
+
+VA-DCR - Division of Natural Heritage Hide Field MANAME ▲
+
+
+
+FIELD MAAGENCY ►
+
+* ALIAS MAAGENCY
+
+* DATA TYPE String
+
+* WIDTH 40
+
+* PRECISION 0
+
+* SCALE 0
+
+FIELD DESCRIPTION
+
+Land management entity responsible for managing the conservation values of the land DESCRIPTION SOURCE
+
+VA-DCR - Division of Natural Heritage Hide Field MAAGENCY ▲
+
+
+
+FIELD LANDLINK ►
+
+* ALIAS LANDLINK
+
+* DATA TYPE String
+
+* WIDTH 94
+
+* PRECISION 0
+
+* SCALE 0
+
+FIELD DESCRIPTION
+
+Web link to more information about a conservation land or land management organization DESCRIPTION SOURCE
+
+VA-DCR - Division of Natural Heritage Hide Field LANDLINK ▲
+
+
+
+FIELD BNDACCURAC
+
+►
+
+* ALIAS BNDACCURAC
+
+* DATA TYPE String
+
+* WIDTH 19
+
+file://C:\Documents and Settings\gsd12929\Local Settings\Temp\arc82C\tmp852.tmp.htm 9/23/2013
+
+Page 6 of 11
+
+* PRECISION 0
+
+* SCALE 0
+
+FIELD DESCRIPTION
+
+Description of boundary accuracy LIST OF VALUES
+
+VALUE 1:100,000
+
+DESCRIPTION Created at a scale smaller than 1:100,000
+
+ENUMERATED DOMAIN VALUE DEFINITION SOURCE VA-DCR - Division of Natural Heritage VALUE 1:24,000
+
+DESCRIPTION Created at a scale smaller than 1:24,000
+
+ENUMERATED DOMAIN VALUE DEFINITION SOURCE VA-DCR - Division of Natural Heritage VALUE platbp DESCRIPTION Boundary delineated from a georeferenced plat ENUMERATED DOMAIN VALUE DEFINITION SOURCE VA-DCR - Division of Natural Heritage VALUE digbp DESCRIPTION Digitized from a plat and transformed to best possible control points ENUMERATED DOMAIN VALUE DEFINITION SOURCE VA-DCR - Division of Natural Heritage VALUE cogo DESCRIPTION Boundary created using coordinate geometry measurements on a deed or survey ENUMERATED DOMAIN VALUE DEFINITION SOURCE VA-DCR - Division of Natural Heritage VALUE dwgbp DESCRIPTION AutoCAD file georeferenced to best possible points ENUMERATED DOMAIN VALUE DEFINITION SOURCE VA-DCR - Division of Natural Heritage VALUE cadshp DESCRIPTION DXF file converted to a shapeefile ENUMERATED DOMAIN VALUE DEFINITION SOURCE VA-DCR - Division of Natural Heritage VALUE unknown DESCRIPTION Method of boundary delineation unknown ENUMERATED DOMAIN VALUE DEFINITION SOURCE VA-DCR - Division of Natural Heritage VALUE digvbmp DESCRIPTION Boundary delineated using map reference and guided by VBMP imagery ENUMERATED DOMAIN VALUE DEFINITION SOURCE VA-DCR - Division of Natural Heritage VALUE cadbp DESCRIPTION AutoCAD file georeferenced to GPS control points ENUMERATED DOMAIN VALUE DEFINITION SOURCE VA-DCR - Division of Natural Heritage VALUE digquad DESCRIPTION Digitized from a USGS delineated boundary on a Digital Raster Graphic ENUMERATED DOMAIN VALUE DEFINITION SOURCE VA-DCR - Division of Natural Heritage VALUE scrdig file://C:\Documents and Settings\gsd12929\Local Settings\Temp\arc82C\tmp852.tmp.htm 9/23/2013
+
+Page 7 of 11
+
+DESCRIPTION Head up digitized against DRG or VBMP imagery using a non-georeferenced mapping source ENUMERATED DOMAIN VALUE DEFINITION SOURCE VA-DCR - Division of Natural Heritage VALUE 1:12,000
+
+DESCRIPTION Created at a scale smaller than 1:12,000
+
+ENUMERATED DOMAIN VALUE DEFINITION SOURCE VA-DCR - Division of Natural Heritage VALUE survq DESCRIPTION Boundary extracted directly from survey data ENUMERATED DOMAIN VALUE DEFINITION SOURCE VA-DCR - Division of Natural Heritage VALUE parcelq DESCRIPTION Boundary derived from jurisdictional parcel data ENUMERATED DOMAIN VALUE DEFINITION SOURCE VA-DCR - Division of Natural Heritage VALUE deed DESCRIPTION Boundary delineated using description in a deed ENUMERATED DOMAIN VALUE DEFINITION SOURCE VA-DCR - Division of Natural Heritage VALUE diggps DESCRIPTION Boundary generated from varied sources and georeferenced to GPS control points ENUMERATED DOMAIN VALUE DEFINITION SOURCE VA-DCR - Division of Natural Heritage Hide Field BNDACCURAC ▲
+
+
+
+FIELD Shape
+
+►
+
+* ALIAS Shape
+
+* DATA TYPE Geometry
+
+* WIDTH 0
+
+* PRECISION 0
+
+* SCALE 0
+
+FIELD DESCRIPTION
+
+Feature geometry.
+
+DESCRIPTION SOURCE
+
+ESRI
+
+DESCRIPTION OF VALUES Coordinates defining the features.
+
+
+
+Hide Field Shape ▲
+
+
+
+FIELD PUBACCESS
+
+►
+
+* ALIAS PUBACCESS
+
+* DATA TYPE String
+
+* WIDTH 35
+
+* PRECISION 0
+
+* SCALE 0
+
+FIELD DESCRIPTION
+
+Public access to the property as reported or assumed by VA-DCR
+
+DESCRIPTION SOURCE
+
+VA-DCR - Division of Natural Heritage file://C:\Documents and Settings\gsd12929\Local Settings\Temp\arc82C\tmp852.tmp.htm 9/23/2013
+
+Page 8 of 11
+
+Hide Field PUBACCESS ▲
+
+
+
+FIELD MALEVEL
+
+►
+
+* ALIAS MALEVEL
+
+* DATA TYPE String
+
+* WIDTH 9
+
+* PRECISION 0
+
+* SCALE 0
+
+FIELD DESCRIPTION
+
+Management agency level for the conservation land DESCRIPTION SOURCE
+
+VA-DCR - Division of Natural Heritage LIST OF VALUES
+
+VALUE Federal
+
+DESCRIPTION Federal agency or entity manages the conservation land ENUMERATED DOMAIN VALUE DEFINITION SOURCE VA-DCR - Division of Natural Heritage VALUE State DESCRIPTION State agency or entity manages the conservation land ENUMERATED DOMAIN VALUE DEFINITION SOURCE VA-DCR - Division of Natural Heritage VALUE VOF
+
+DESCRIPTION Virginia Outdoors Foundation manages or hold an easement over the conservation land ENUMERATED DOMAIN VALUE DEFINITION SOURCE VA-DCR - Division of Natural Heritage VALUE Local DESCRIPTION Local or regional entity manages the conservation land ENUMERATED DOMAIN VALUE DEFINITION SOURCE VA-DCR - Division of Natural Heritage VALUE Private DESCRIPTION Private entity manages the conservation land ENUMERATED DOMAIN VALUE DEFINITION SOURCE VA-DCR - Division of Natural Heritage Hide Field MALEVEL ▲
+
+
+
+
+FIELD BNDORIGIN
+
+►
+
+* ALIAS BNDORIGIN
+
+* DATA TYPE String
+
+* WIDTH 35
+
+* PRECISION 0
+
+* SCALE 0
+
+FIELD DESCRIPTION
+
+Origin of the GIS bloundary
+
+DESCRIPTION SOURCE
+
+VA-DCR - Division of Natural Heritage Hide Field BNDORIGIN ▲
+
+
+
+
+file://C:\Documents and Settings\gsd12929\Local Settings\Temp\arc82C\tmp852.tmp.htm 9/23/2013
+
+Page 9 of 11
+
+FIELD GISACRE
+
+►
+
+* ALIAS GISACRE
+
+* DATA TYPE Double
+
+* WIDTH 19
+
+* PRECISION 18
+
+* SCALE 2
+
+FIELD DESCRIPTION
+
+GIS acreage calculated in the VA Lambert projection DESCRIPTION SOURCE
+
+VA-DCR - Division of Natural Heritage Hide Field GISACRE ▲
+
+
+
+FIELD OWNER
+
+►
+
+* ALIAS OWNER
+
+* DATA TYPE String
+
+* WIDTH 42
+
+* PRECISION 0
+
+* SCALE 0
+
+FIELD DESCRIPTION
+
+Property owner
+
+DESCRIPTION SOURCE
+
+VA-DCR - Division of Natural Heritage Hide Field OWNER ▲
+
+
+
+FIELD TOTALACRE
+
+►
+
+* ALIAS TOTALACRE
+
+* DATA TYPE Double
+
+* WIDTH 19
+
+* PRECISION 18
+
+* SCALE 2
+
+FIELD DESCRIPTION
+
+Documented acreage for the complete conservatiion land unit, including all tracts or polygons DESCRIPTION SOURCE
+
+VA-DCR - Division of Natural Heritage Hide Field TOTALACRE ▲
+
+
+
+FIELD MATYPE
+
+►
+
+* ALIAS MATYPE
+
+* DATA TYPE String
+
+* WIDTH 32
+
+* PRECISION 0
+
+* SCALE 0
+
+FIELD DESCRIPTION
+
+Managed Area Type - category of land DESCRIPTION SOURCE
+
+VA-DCR - Division of Natural Heritage Hide Field MATYPE ▲
+
+file://C:\Documents and Settings\gsd12929\Local Settings\Temp\arc82C\tmp852.tmp.htm 9/23/2013
+
+Page 10 of 11
+
+
+
+FIELD LABEL ►
+
+* ALIAS LABEL
+
+* DATA TYPE String
+
+* WIDTH 60
+
+* PRECISION 0
+
+* SCALE 0
+
+FIELD DESCRIPTION
+
+The official name for the complete conservation land. Used in cartography.
+
+DESCRIPTION SOURCE
+
+VA-DCR - Division of Natural Heritage Hide Field LABEL ▲
+
+
+
+FIELD FID ►
+
+* ALIAS FID
+
+* DATA TYPE OID
+
+* WIDTH 4
+
+* PRECISION 0
+
+* SCALE 0
+
+FIELD DESCRIPTION
+
+Internal feature number.
+
+DESCRIPTION SOURCE
+
+ESRI
+
+DESCRIPTION OF VALUES Sequential unique whole numbers that are automatically generated.
+
+Hide Field FID ▲
+
+
+
+
+FIELD TRACTACRE
+
+►
+
+* ALIAS TRACTACRE
+
+* DATA TYPE Double
+
+* WIDTH 19
+
+* PRECISION 18
+
+* SCALE 2
+
+FIELD DESCRIPTION
+
+Documented acreage for a conservation land tract or polygon. If not available, gisacre is used DESCRIPTION SOURCE
+
+VA-DCR - Division of Natural Heritage Hide Field TRACTACRE ▲
+
+
+
+Hide Details for object tnc ▲
+
+Hide Fields ▲
+
+
+
+
+
+Metadata Details
+
+
+►
+
+METADATA LANGUAGE English (UNITED STATES)
+
+file://C:\Documents and Settings\gsd12929\Local Settings\Temp\arc82C\tmp852.tmp.htm 9/23/2013
+
+Page 11 of 11
+
+SCOPE OF THE DATA DESCRIBED BY THE METADATA dataset SCOPE NAME * dataset
+
+* LAST UPDATE 2013-09-23
+
+
+
+ARCGIS METADATA PROPERTIES
+
+METADATA FORMAT ArcGIS 1.0
+
+METADATA STYLE FGDC CSDGM Metadata STANDARD OR PROFILE USED TO EDIT METADATA FGDC
+
+
+
+CREATED IN ARCGIS FOR THE ITEM 2013-06-25 16:32:16
+
+LAST MODIFIED IN ARCGIS FOR THE ITEM 2013-09-23 17:36:21
+
+
+
+AUTOMATIC UPDATES
+
+HAVE BEEN PERFORMED Yes
+
+LAST UPDATE 2013-09-23 17:36:21
+
+
+
+Hide Metadata Details ▲
+
+
+
+
+
+Metadata Contacts
+
+
+►
+
+METADATA CONTACT
+
+INDIVIDUAL'S NAME David Boyd
+
+ORGANIZATION'S NAME VA-DCR, Natural Heritage CONTACT'S POSITION Conservation Lands GIS Planner CONTACT'S ROLE point of contact
+
+Hide Metadata Contacts ▲
+
+FGDC Metadata (read-only) ▼
+
+file://C:\Documents and Settings\gsd12929\Local Settings\Temp\arc82C\tmp852.tmp.htm 9/23/2013
+
+
+
+
+
