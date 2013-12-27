@@ -1,0 +1,558 @@
+Virginia's Scenic Rivers - Designated, Qualifying, and Worthy of Further Study
+
+Table of Contents
+
+Identification Information
+
+Data Quality Information
+
+Spatial Data Organization Information
+
+Spatial Reference Information
+
+Entity and Attribute Information
+
+Distribution Information
+
+
+
+
+
+Metadata Reference Information
+
+
+IDENTIFICATION_INFORMATION
+
+
+Citation:
+
+Citation_Information:
+
+Originator: Virginia Dept of Conservation and Recreation - DSWC
+
+Originator: USGS
+
+Publication_Date: 20120917
+
+Title: Virginia's Scenic Rivers - Designated, Qualifying, and Worthy of Further Study Edition: 1.1
+
+Geospatial_Data_Presentation_Form: Map Publication_Information:
+
+Publication_Place: Richmond, Virginia Publisher: Virginia Department of Conservation and Recreation Other_Citation_Details: Online_Linkage:
+
+Larger_Work_Citation:
+
+Citation_Information:
+
+Originator:
+
+Publication_Date:
+
+Title:
+
+Publication_Information:
+
+Publication_Place:
+
+Publisher:
+
+Online_Linkage:
+
+Description:
+
+Abstract:
+
+This data set contains the river segments and bodies of water which have been either accepted into the scenic rivers program, qualify after evaluation for acceptance but have not yet joined the program, and those that are worthy of further study to determine suitability. The linework is from the standard USGS 1:100,000 DLGs of hydrology, 1995 US Census Tiger files, and EPA Stream Reach dataset.
+
+Additional arcs were digitized against VBMP basemap imagery.
+
+
+
+Purpose:
+
+The Scenic Rivers Act of 1970 was passed to protect and preserve certain rivers or sections of rivers possessing natural or pastoral beauty. The DCR Dept of Planning and Recreation Resources (DPRR) works with citizens and local governments to study potential rivers, evaluates proposed rivers, reviews and comments on permit applications regarding impacts to scenic rivers, expands the information base about these rivers, and assists local governments to protect these rivers.
+
+Supplemental_Information:
+
+The Scenic Rivers dataset was developed to serve as a thematic layer on maps appearing in the Virginia Outdoors Plan. The original dataset was developed in ArcInfo and was further edited for the 2007 plan using ArcView 3.3 and ArcMAP 9.
+
+Time_Period_of_Content:
+
+Time_Period_Information:
+
+Range_of_Dates/Times:
+
+Beginning_Date: 1996
+
+Ending_Date: most recent Va Outdoors Plan Currentness_Reference: 2012
+
+Status:
+
+Progress: Complete
+
+Maintenance_and_Update_Frequency: As needed Spatial_Domain:
+
+Bounding_Coordinates:
+
+West_Bounding_Coordinate: -83.6755
+
+East_Bounding_Coordinate: -74.9792
+
+North_Bounding_Coordinate: 38.9351
+
+South_Bounding_Coordinate: 36.6007
+
+Keywords:
+
+Theme:
+
+Theme_Keyword_Thesaurus: None Theme_Keyword: scenic
+
+Theme_Keyword: scenic river
+
+Theme_Keyword: river
+
+Theme_Keyword: stream
+
+Theme_Keyword: DCR
+
+Theme_Keyword: VOP
+
+Theme_Keyword: virginia outdoors plan Theme_Keyword: Virginia
+
+Theme_Keyword: recreation
+
+Theme_Keyword: preservation
+
+Theme_Keyword: hydrology
+
+Place:
+
+Place_Keyword_Thesaurus: None Place_Keyword: virginia
+
+Access_Constraints:
+
+Use_Constraints:
+
+Point_of_Contact:
+
+Contact_Information:
+
+Contact_Organization_Primary:
+
+Contact_Organization: Va Department of Conservation and Recreation Contact_Person: David Boyd Contact_Position: Conservation Lands GIS Planner Contact_Address: Address_Type: mailing and physical address Address: 217 Governor Street City: Richmond
+
+State_or_Province: VA
+
+Postal_Code: 23219
+
+Country: USA
+
+Contact_Voice_Telephone: 804-371-4801
+
+Contact_Facsimile_Telephone: 804-371-2674
+
+Contact_Electronic_Mail_Address: david.boyd@dcr.virginia.gov Hours_of_Service: 8:00-5:00
+
+Native_Data_Set_Environment:
+
+ArcView shapefile format
+
+
+
+
+
+Top
+
+
+DATA_QUALITY_INFORMATION
+
+
+Attribute_Accuracy:
+
+Attribute_Accuracy_Report:
+
+The assigning of scenic river designation to the proper portion of the predefined hydrology data set as found in this data set has been done by the state agency with the authority and resources to do so. The DCR Department of Planning and Recreation Resources has received a set of maps showing the location and extent of these scenic rivers and river segments for the purposes of a review of the product. No problems have been noted to date. The coding is, therefore, considered correct and absolute for the stated scale. Quality control was performed in 2002 to weed out duplicate arcs and verify segment name labels. Complete dataset was updated 2012.
+
+Logical_Consistency_Report:
+
+All arcs in this data set are either scenic river segments or are used to define scenic river areal units. There are no other arcs or polygons.
+
+Completeness_Report:
+
+This data set is complete in its representation of two of the levels of scenic river status for Virginia as found in the 2007
+
+Virginia Outdoors Plan - the legislatively designated scenic river components and the desirable/qualifying but not yet designated components. It does not include, by request of the DPRR, potential components proposed by citizen input as identified in the 2007
+
+Virginia Outdoors Plan. It may well require updating after the next Virginia Outdoors Plan publication or draft publication.
+
+Positional_Accuracy:
+
+Horizontal_Positional_Accuracy:
+
+Horizontal_Positional_Accuracy_Report: The horizontal accuracy can be determined by considering the lowest common denominator of all source datasets. These include 1:100,000 scale DLG's (original dataset used), 1995
+
+US Census Tiger files, and EPA Stream Reach files (supplemented original data in 2002). This dataset was created as a reference dataset and no tests have been performed to quantify horizontal accuracy.
+
+Vertical_Positional_Accuracy:
+
+Vertical_Positional_Accuracy_Report: N/A
+
+Lineage:
+
+Source_Information:
+
+Source_Citation:
+
+Citation_Information:
+
+Originator: Virginia Dept of Conservation and Recreation -
+
+DSWC
+
+Publication_Date: 20120917
+
+Title: Virginia's Scenic Rivers - Designated, Qualifying, and Worthy of Further Study Edition: 1.1
+
+Geospatial_Data_Presentation_Form: map Publication_Information:
+
+Publication_Place: Richmond, Virginia Publisher: Virginia Department of Conservation and Recreation Other_Citation_Details:
+
+Online_Linkage:
+
+Larger_Work_Citation:
+
+Citation_Information:
+
+Originator:
+
+Publication_Date:
+
+Title:
+
+Publication_Information: Publication_Place:
+
+Publisher:
+
+Online_Linkage:
+
+Source_Scale_Denominator:
+
+Type_of_Source_Media:
+
+Source_Time_Period_of_Content:
+
+Time_Period_Information:
+
+Range_of_Dates/Times:
+
+Beginning_Date: 1996
+
+Ending_Date: 20120917
+
+Source_Currentness_Reference: most recent Va Outdoors Plan Source_Citation_Abbreviation: DLG, Tiger, USGS reach Source_Contribution: Source_Information:
+
+Source_Citation:
+
+Citation_Information:
+
+Originator: Virginia Dept of Conservation and Recreation -
+
+DSWC
+
+Publication_Date: 20120917
+
+Title: Virginia's Scenic Rivers - Designated, Qualifying, and Worthy of Further Study Edition: 1.1
+
+Geospatial_Data_Presentation_Form: map Publication_Information:
+
+Publication_Place: Richmond, Virginia Publisher: Virginia Department of Conservation and Recreation Other_Citation_Details:
+
+Online_Linkage:
+
+Larger_Work_Citation:
+
+Citation_Information:
+
+Originator:
+
+Publication_Date:
+
+Title:
+
+Publication_Information: Publication_Place:
+
+Publisher:
+
+Online_Linkage:
+
+Source_Scale_Denominator:
+
+Type_of_Source_Media:
+
+Source_Time_Period_of_Content:
+
+Time_Period_Information:
+
+Range_of_Dates/Times:
+
+Beginning_Date: 1996
+
+Ending_Date: 20120917
+
+Source_Currentness_Reference: most recent Va Outdoors Plan Source_Citation_Abbreviation: DLG, Tiger, USGS reach Source_Contribution: Process_Step:
+
+Process_Description:
+
+Attribute Tagging - arcs of a 1:100,000 base hydrology data set which represented linear water features which are designated scenic were coded with a scenic river indicator and named.
+
+Source_Used_Citation_Abbreviation: DLG, TIGER, USGS Reach Process_Date: 2002
+
+Source_Produced_Citation_Abbreviation: Process_Contact:
+
+Contact_Information:
+
+Contact_Person_Primary:
+
+Contact_Organization: Va Department of Conservation and Recreation Contact_Person: David Boyd Contact_Position: Conservation Lands GIS Planner Contact_Address: Address_Type: mailing and physical address Address: 217 Governor Street City: Richmond
+
+State_or_Province: VA
+
+Postal_Code: 23219
+
+Country: USA
+
+Contact_Voice_Telephone: 804-371-4801
+
+Contact_Facsimile_Telephone: 804-371-2674
+
+Contact_Electronic_Mail_Address: david.boyd@dcr.virginia.gov Hours_of_Service: 8:00-5:00
+
+
+
+
+
+Top
+
+
+SPATIAL_DATA_ORGANIZATION_INFORMATION
+
+
+Direct_Spatial_Reference_Method: Vector Point_and_Vector_Object_Information: SDTS_Terms_Description:
+
+SDTS_Point_and_Vector_Object_Type: Complete Chain Point_and_Vector_Object_Count: 3751
+
+
+
+Spatial_Reference_Information:
+
+Horizontal_Coordinate_System_Definition: Planar:
+
+Map_Projection:
+
+Map_Projection_Name: Decimal Degrees (Unprojected) Map_Projection_Parameters: Standard_Parallel:
+
+Standard_Parallel:
+
+Longitude_of_Central_Meridian: Latitude_of_Projection_Origin: False_Easting: 0.00000
+
+False_Northing: 0.00000
+
+Planar_Coordinate_Information:
+
+Planar_Coordinate_Encoding_Method: Coordinate pair Coordinate_Representation: Abscissa_Resolution: 0.0
+
+Ordinate_Resolution: 0.0
+
+Planar_Distance_Units: Meters Geodetic_Model:
+
+Horizontal_Datum_Name: North American Datum of 1983
+
+Ellipsoid_Name: GRS 1980
+
+Semi-major_Axis:
+
+Denominator_of_Flattening_Ratio:
+
+
+
+
+
+Top
+
+
+ENTITY_AND_ATTRIBUTE_INFORMATION
+
+
+Detailed_Description:
+
+Entity_Type:
+
+Entity_Type_Label: scenicrivers.dbf Entity_Type_Definition: Shapefile Attribute Table Entity_Type_Definition_Source: None Attribute:
+
+Attribute_Label: Name
+
+Attribute_Definition: name of river segment Attribute_Definition_Source: VA DCR
+
+Attribute_Domain_Values:
+
+Unrepresentable_Domain: Character Field
+
+Attribute:
+
+Attribute_Label: Status
+
+Attribute_Definition: designation status Attribute_Definition_Source: VA DCR
+
+Attribute_Domain_Values:
+
+Enumerated_Domain:
+
+Enumerated_Domain_Value: Designated Enumerated_Domain_Value_Definition: Legislatively designated components Attribute_Domain_Values:
+
+Enumerated_Domain:
+
+Enumerated_Domain_Value: Qualified Enumerated_Domain_Value_Definition: Evaluated and found worthy of designation Attribute_Domain_Values:
+
+Enumerated_Domain:
+
+Enumerated_Domain_Value: Potential Enumerated_Domain_Value_Definition: Identified as being worthy of further study
+
+Overview_Description:
+
+Entity_and_Attribute_Overview:
+
+The arcs representing scenic rivers are coded with either DESIGNATED, QUALIFIED or WORTHY indicating designated or qualified segments, and those worthy of further study.
+
+Water bodies that are scenic have the same codes. Names were assigned using Va DCR PRR staff and in some cases USGS
+
+DRG labels.
+
+Entity_and_Attribute_Detail_Citation:
+
+
+
+
+
+Top
+
+
+DISTRIBUTION_INFORMATION
+
+
+Distributor:
+
+Contact_Information:
+
+Contact_Organization_Primary:
+
+Contact_Organization: Virginia Dept. of Conservation & Recreation - DNH
+
+Contact_Person: David Boyd Contact_Position: Conservation Lands GIS Planner Contact_Address: Address_Type: mailing and physical address Address:
+
+City: Richmond
+
+State_or_Province: Virginia Postal_Code: 23219
+
+Country: USA
+
+Contact_Voice_Telephone: 804 371 4801
+
+Contact_Facsimile_Telephone: 804 371 2674
+
+Contact_Electronic_Mail_Address: david.boyd@dcr.virginia.gov Hours_of_Service: 8:00-5:00
+
+Resource_Description:
+
+Scenic Rivers of Virginia
+
+Distribution_Liability:
+
+Although all data referred to in this documentation have been used by the VADCR, no warranty, expressed or implied, is made by the VADCR, or the original data sources as to the accuracy of the data. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the VADCR in the use of these data. Users must assume responsibility to determine the use of these data.
+
+The boundaries are not to be used for a LEGAL definition of these areas. Please contact the proper management agency with questions concerning land management and policies.
+
+Standard_Order_Process:
+
+Digital_Form:
+
+Digital_Transfer_Information:
+
+Format_Name: ArcView Shapefile
+
+Format_Version_Number: ArcView Shapefile Transfer_Size:
+
+Digital_Transfer_Option:
+
+Online_Option:
+
+Computer_Contact_Information: Network_Address:
+
+Network_Resource_Name:
+
+Access_Instructions:
+
+Email distribution contact above, or download via DCR
+
+website
+
+Online_Computer_and_Operating_System: Offline_Option:
+
+Offline_Media:
+
+Recording_Format:
+
+Compatibility_Information: for any windows/dos PC
+
+Fees: none
+
+Ordering_Instructions: download via DCR’s Conservation Lands Website Custom_Order_Process:
+
+If you cannot use this layer in the stated projection and datum, and you cannot reproject it yourself, it can be requested from DCR in another projection. Likewise, it can be provided in formats other than an ARC/INFO export file. Any variance from the standard form as described in this file, however, will mean a delay in the distribution.
+
+
+
+
+
+Top
+
+
+METADATA_REFERENCE_INFORMATION
+
+
+Metadata_Date: 20121221
+
+Metadata_Review_Date: 20121221
+
+Metadata_Contact:
+
+Contact_Information:
+
+Contact_Organization_Primary:
+
+Contact_Organization: Va Department of Conservation and Recreation Contact_Person: David Boyd Contact_Position: Conservation Lands GIS Planner Contact_Address: Address_Type: Mailing and physical address Address: 217 Governor Street City: Richmond
+
+State_or_Province: VA
+
+Postal_Code: 23219
+
+Country: USA
+
+Contact_Voice_Telephone: 804-371-4801
+
+Contact_Facsimile_Telephone: 804-371-2674
+
+Contact_Electronic_Mail_Address: david.boyd@dcr.virginia.gov Hours_of_Service: 8:00-5:00
+
+Metadata_Standard_Name: FGDC Content Standard for Digital Geospatial Metadata Metadata_Standard_Version: FGDC-STD-001-1998
+
+
+
+
+
+Top
+
+
+
+
+
