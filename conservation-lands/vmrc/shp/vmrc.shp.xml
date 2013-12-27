@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>VA-DCR, Natural Heritage</origin>
+				<pubdate>12/20/2006</pubdate>
+				<title Sync="TRUE">vmrc</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<othercit>The Conservation Lands Database is  constantly being added to and updated.  Data is released to the public quarterly and posted to the download section of the website.</othercit>
+				<onlink Sync="TRUE">\\DCRFP12\VOL1\SHARED\DNH\DNHGIS\Public_Lands\weblands\2006-12-15\vmrc.shp</onlink>
+				<ftname Sync="TRUE">vmrc</ftname>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This dataset contains the boundaries for state owned tidal lands.</abstract>
+			<purpose>Statewide GIS coverage of state owned tidal lands.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>12/20/06</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>updates ongoing</current>
+		</timeperd>
+		<status>
+			<progress>ongoing</progress>
+			<update>Quarterly</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-76.012489</westbc>
+				<eastbc Sync="TRUE">-75.318555</eastbc>
+				<northbc Sync="TRUE">37.962677</northbc>
+				<southbc Sync="TRUE">37.152935</southbc>
+			</bounding>
+			<lboundng>
+				<leftbc Sync="TRUE">-76.012489</leftbc>
+				<rightbc Sync="TRUE">-75.318555</rightbc>
+				<topbc Sync="TRUE">37.962677</topbc>
+				<bottombc Sync="TRUE">37.152935</bottombc>
+			</lboundng>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>REQUIRED: Reference to a formally registered thesaurus or a similar authoritative source of theme keywords.</themekt>
+				<themekey>lands</themekey>
+				<themekey>protected</themekey><themekey>wildlife</themekey><themekey>recreation</themekey><themekey>preserve</themekey><themekey>forest</themekey><themekey>natural</themekey></theme>
+			<place><placekey>virginia</placekey></place></keywords>
+		<accconst>None.</accconst>
+		<useconst>None.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>David Boyd</cntper>
+					<cntorg>VA-DCR, Natural Heritage</cntorg>
+				</cntperp>
+				<cntpos>Conservation Lands GIS Planner</cntpos>
+				<cntvoice>804-371-4801</cntvoice>
+				<cntfax>804-371-2674</cntfax>
+				<cntemail>david.boyd@dcr.virginia.gov</cntemail>
+				<hours>8-5 M-F</hours>
+				<cntinst>Please contact VA-DCR if you have comments about the database, data to provide, corrections to make, or any other input.  We appreciate you assistance in keeping our database up to date. </cntinst>
+			</cntinfo>
+		</ptcontac>
+		<datacred>VA DCR - Division of Natural Heritage</datacred>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.780</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+	</idinfo>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="vmrc">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">106</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="vmrc">
+				<efeatyp Sync="TRUE">Simple</efeatyp>
+				<esritopo Sync="TRUE">FALSE</esritopo>
+				<linrefer Sync="TRUE">FALSE</linrefer>
+				<spindex Sync="TRUE">FALSE</spindex>
+				<efeageom Sync="TRUE">Polygon</efeageom>
+				<efeacnt Sync="TRUE">106</efeacnt>
+			</esriterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres Sync="TRUE">0.000000</latres>
+				<longres Sync="TRUE">0.000000</longres>
+				<geogunit Sync="TRUE">Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1927</horizdn>
+				<ellips Sync="TRUE">Clarke 1866</ellips>
+				<semiaxis Sync="TRUE">6378206.400000</semiaxis>
+				<denflat Sync="TRUE">294.978698</denflat>
+			</geodetic>
+			<cordsysn>
+				<geogcsn Sync="TRUE">GCS_Assumed_Geographic_1</geogcsn>
+			</cordsysn>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="vmrc">
+			<enttyp>
+				<enttypl Sync="TRUE">vmrc</enttypl>
+				<enttypc Sync="TRUE">106</enttypc>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+			</enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attalias Sync="TRUE">FID</attalias>
+				<attrtype Sync="TRUE">OID</attrtype>
+				<attscale Sync="TRUE">0</attscale>
+				<attwidth Sync="TRUE">4</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attalias Sync="TRUE">Shape</attalias>
+				<attrtype Sync="TRUE">Geometry</attrtype>
+				<attscale Sync="TRUE">0</attscale>
+				<attwidth Sync="TRUE">0</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">LABEL</attrlabl>
+				<attalias Sync="TRUE">LABEL</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">54</attwidth>
+				<attrdef>The official and complete name the complete conservation land</attrdef><attrdefs>VA DCR - Division of Natural Heritage</attrdefs><attrdomv><udom>Coordinates defining the features.</udom></attrdomv></attr>
+			<attr>
+				<attrlabl Sync="TRUE">BNDACCURAC</attrlabl>
+				<attalias Sync="TRUE">BNDACCURAC</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">94</attwidth>
+				<attrdefs>VA DCR - Division of Natural Heritage</attrdefs><attrdef>Description of boundary creation/accuracy</attrdef><attrdomv><edom><edomv>1:100000</edomv><edomvd>created to be used at a scale smaller than 1:100,000</edomvd><edomvds>VA DCR - Division of Natural Heritage</edomvds></edom><edom><edomv>1:24000</edomv><edomvd>Created to be used at a scale smaller than 1:24,000</edomvd><edomvds>VA DCR - Division of Natural Heritage</edomvds></edom><edom><edomv>1:12000</edomv><edomvd>Created to be used at a scale smaller than 1:12,000</edomvd><edomvds>VA DCR - Division of Natural Heritage </edomvds></edom><edom><edomv>Cogo</edomv><edomvd>Boundary created using coordinate geometry measurements on a deed or survey</edomvd><edomvds>VA DCR - Division of Natural Heritage</edomvds></edom><edom><edomv>digbp</edomv><edomvd>Digitized from a plat and transformed to best possible control points</edomvd><edomvds>VA DCR - Division of Natural Heritage</edomvds></edom><edom><edomv>digquad</edomv><edomvd>Digitized from a USGS delineated boundary on a Digital Raster Graphic</edomvd><edomvds>VA DCR - Division of Natural Heritage</edomvds></edom><edom><edomv>scrdig</edomv><edomvd>Head up digitized against DRG or VBMP imagery using a non-georeferenced mapping source</edomvd><edomvds>VA DCR - Division of Natural Heritage</edomvds></edom><edom><edomv>survq</edomv><edomvd>Boundary originated from surveyor digital data - high precision</edomvd><edomvds>VA DCR - Division of Natural Heritage</edomvds></edom><edom><edomv>unknown</edomv><edomvd>Boundary obtained from an outside source and the method creation is unknown</edomvd><edomvds>VA DCR - Division of Natural Heritage</edomvds></edom><edom><edomv>diggps</edomv><edomvd>Boundary generated from varied sources and georeferenced to GPS control points</edomvd><edomvds>VA DCR - Division of Natural Heritage</edomvds></edom><edom><edomv>dwgbp</edomv><edomvd>AutoCAD file georeferenced to best possible points</edomvd><edomvds>VA DCR - Division of Natural Heritage</edomvds></edom><edom><edomv>dxfbp</edomv><edomvd>DXF file georeferenced to best possible points</edomvd><edomvds>VA DCR - Division of Natural Heritage</edomvds></edom><edom><edomv>dxfgps</edomv><edomvds>VA DCR - Division of Natural Heritage</edomvds><edomvd>AutoCAD file georeferenced to GPS control points</edomvd></edom><edom><edomv>dxfshp</edomv><edomvd>DXF file converted to a shapeefile</edomvd><edomvds>VA DCR - Division of Natural Heritage</edomvds></edom></attrdomv></attr>
+			<attr>
+				<attrlabl Sync="TRUE">LANDLINK</attrlabl>
+				<attalias Sync="TRUE">LANDLINK</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">40</attwidth>
+				<attrdefs>VA DCR - Division of Natural Heritage</attrdefs><attrdomv><udom>Coordinates defining the features.</udom></attrdomv><attrdef>Web link to more information about a conservation land or land management organization</attrdef></attr>
+			<attr>
+				<attrlabl Sync="TRUE">MAAGENCY</attrlabl>
+				<attalias Sync="TRUE">MAAGENCY</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">32</attwidth>
+				<attrdefs>VA DCR - Division of Natural Heritage</attrdefs><attrdomv><udom>Coordinates defining the features.</udom></attrdomv><attrdef>Land management entity responsible for managing the conservation values of the land</attrdef></attr>
+			<attr>
+				<attrlabl Sync="TRUE">MATYPE</attrlabl>
+				<attalias Sync="TRUE">MATYPE</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">47</attwidth>
+				<attrdefs>VA DCR - Division of Natural Heritage</attrdefs><attrdomv><edom><edomv>cogo</edomv><edomvd>Boundary created using coordinate geometry pulled from a deed or survey</edomvd><edomvds>VA DCR - Division of Natural Heritage</edomvds></edom></attrdomv><attrdef>Managed Area Type - category of land</attrdef></attr>
+			<attr>
+				<attrlabl Sync="TRUE">MANAME</attrlabl>
+				<attalias Sync="TRUE">MANAME</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">12</attwidth>
+				<attrdefs>VA DCR - Division of Natural Heritage</attrdefs><attrdomv><udom>Coordinates defining the features.</udom></attrdomv><attrdef>Managed Area Name - conservation land name</attrdef><atnumdec Sync="TRUE">2</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">TOTALACRE</attrlabl>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attalias Sync="TRUE">TOTALACRE</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">12</attwidth>
+				<attrdefs>VA DCR - Division of Natural Heritage</attrdefs><attrdef>Documented acreage for the complete conservatiion land unit</attrdef><attrdomv><udom>Coordinates defining the features.</udom></attrdomv></attr>
+			<attr>
+				<attrlabl Sync="TRUE">TRACTACRE</attrlabl>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attalias Sync="TRUE">TRACTACRE</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">9</attwidth>
+				<attrdefs>VA DCR - Division of Natural Heritage</attrdefs><attrdef>Documented acreage for a conservation land tract, if not available gisacre is used</attrdef></attr>
+			<attr>
+				<attrlabl Sync="TRUE">GISACRE</attrlabl>
+				<attalias Sync="TRUE">GISACRE</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">9</attwidth>
+				<attrdefs>VA DCR - Division of Natural Heritage</attrdefs><attrdef>GIS acreage calculated in the VA Lambert projection</attrdef></attr>
+			<attr>
+				<attrlabl Sync="TRUE">MALEVEL</attrlabl>
+				<attalias Sync="TRUE">MALEVEL</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">42</attwidth>
+				<attrdefs>VA DCR - Division of Natural Heritage</attrdefs><attrdomv><edom><edomv>State</edomv><edomvd>State agency manages the conservation land</edomvd><edomvds>VA DCR - Division of Natural Heritage</edomvds></edom><edom><edomv>Federal</edomv><edomvds>VA DCR - Division of Natural Heritage</edomvds><edomvd>Federal agency manages the conservation land</edomvd></edom><edom><edomv>Local</edomv><edomvds>VA DCR - Division of Natural Heritage</edomvds><edomvd>Local government manages the conservation land - local parks</edomvd></edom><edom><edomv>Private</edomv><edomvds>VA DCR - Division of Natural Heritage</edomvds><edomvd>Private organization or group manages the conservation land</edomvd></edom><edom><edomv>VOF</edomv><edomvds>VA DCR - Division of Natural Heritage</edomvds><edomvd>Virginia Outdoors Foundation managed easements or owned properties</edomvd></edom></attrdomv><attrdef>Management Level for the conservation land</attrdef></attr>
+			<attr>
+				<attrlabl Sync="TRUE">OWNER</attrlabl>
+				<attalias Sync="TRUE">OWNER</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">17</attwidth>
+				<attrdefs>VA DCR - Division of Natural Heritage</attrdefs><attrdef>Owner of the conservation land</attrdef><attrdomv><udom>Coordinates defining the features.</udom></attrdomv></attr>
+			<attr>
+				<attrlabl Sync="TRUE">ORIGFORMAT</attrlabl>
+				<attalias Sync="TRUE">ORIGFORMAT</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">35</attwidth>
+				<attrdefs>VA DCR - Division of Natural Heritage</attrdefs><attrdef>Original format in which DCR originally received the boundary</attrdef><attrdomv><edom><edomv>Heritage Map</edomv><edomvd>Boundary extracted from VA-DCR DNH map</edomvd><edomvds>VA DCR - Division of Natural Heritage</edomvds></edom><edom><edomv>USGS quad</edomv><edomvds>VA DCR - Division of Natural Heritage</edomvds><edomvd>Boundary digitized from a USGS topographic map land ownership boundary</edomvd></edom><edom><edomv>coverage</edomv><edomvds>VA DCR - Division of Natural Heritage</edomvds><edomvd>ArcINFO coverage</edomvd></edom><edom><edomv>deed</edomv><edomvds>VA DCR - Division of Natural Heritage</edomvds><edomvd>Extracted from deed metes and bounds description</edomvd></edom><edom><edomv>dgn</edomv><edomvds>VA DCR - Division of Natural Heritage</edomvds><edomvd>Microstation CAD file</edomvd></edom><edom><edomv>dwg</edomv><edomvds>VA DCR - Division of Natural Heritage</edomvds><edomvd>AutoCAD file</edomvd></edom><edom><edomv>dxf</edomv><edomvds>VA DCR - Division of Natural Heritage</edomvds><edomvd>CAD interchange file</edomvd></edom><edom><edomv>general map</edomv><edomvds>VA DCR - Division of Natural Heritage</edomvds><edomvd>General map showing approximated boundary</edomvd></edom><edom><edomv>geodatabase</edomv><edomvds>VA DCR - Division of Natural Heritage</edomvds><edomvd>ArcGIS Geodatabase</edomvd></edom><edom><edomv>handdrawn map</edomv><edomvds>VA DCR - Division of Natural Heritage</edomvds><edomvd>Hand delineated boundary</edomvd></edom><edom><edomv>image map</edomv><edomvds>VA DCR - Division of Natural Heritage</edomvds><edomvd>Map in image format</edomvd></edom><edom><edomv>paper map</edomv><edomvds>VA DCR - Division of Natural Heritage</edomvds><edomvd>General paper map</edomvd></edom><edom><edomv>plat</edomv><edomvds>VA DCR - Division of Natural Heritage</edomvds><edomvd>Survey plat map</edomvd></edom><edom><edomv>shapefile</edomv><edomvds>VA DCR - Division of Natural Heritage</edomvds><edomvd>ArcView shapefile</edomvd></edom><edom><edomv>survey map</edomv><edomvds>VA DCR - Division of Natural Heritage</edomvds><edomvd>Map created by a surveyor (not an official plat)</edomvd></edom><edom><edomv>tax map</edomv><edomvds>VA DCR - Division of Natural Heritage</edomvds><edomvd>Map used by jurisdiction for tax purposes </edomvd></edom><edom><edomv>unknown</edomv><edomvds>VA DCR - Division of Natural Heritage</edomvds><edomvd>Original format unknown</edomvd></edom><edom><edomv>website map</edomv><edomvds>VA DCR - Division of Natural Heritage</edomvds><edomvd>ArcIMS site with property boundaries</edomvd></edom></attrdomv></attr>
+			<attr>
+				<attrlabl Sync="TRUE">BNDORIGIN</attrlabl>
+				<attalias Sync="TRUE">BNDORIGIN</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">35</attwidth>
+				<attrdefs>VA DCR - Division of Natural Heritage</attrdefs><attrdef>Original source of the boundary</attrdef><attrdomv><udom>Coordinates defining the features.</udom></attrdomv></attr>
+			<attr>
+				<attrlabl Sync="TRUE">PUBACCESS</attrlabl>
+				<attalias Sync="TRUE">PUBACCESS</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<attrdefs>VA DCR - Division of Natural Heritage</attrdefs><attrdomv><edom><edomv>open</edomv><edomvd>open to the public</edomvd><edomvds>VA DCR - Division of Natural Heritage</edomvds></edom><edom><edomv>closed</edomv><edomvd>closed to the public</edomvd><edomvds>VA DCR - Division of Natural Heritage</edomvds></edom><edom><edomv>seasonal</edomv><edomvd>open seasonally, possibly with restrictions</edomvd><edomvds>VA DCR - Division of Natural Heritage</edomvds></edom><edom><edomv>restricted</edomv><edomvd>access is restricted to protect natural resources</edomvd><edomvds>VA DCR - Division of Natural Heritage</edomvds></edom></attrdomv><attrdef>Public access for conservation land</attrdef></attr>
+		</detailed>
+		<overview><dsoverv>The Department of Conservation and Recreation has developed a statewide "Conservation Lands" database.  This database includes mapped boundaries and certain characteristics of public and certain private lands in Virginia that have potential significance for serving a variety of conservation, recreation, and open-space roles.  Included are many federal and state lands, parks and undeveloped or partially-developed lands owned by localities, lands owned as preserves by non-profit conservation organizations such as The Nature Conservancy, and conservation easements held by the Virginia Outdoors Foundation, land trusts and others.  Digital boundaries were collected from the landowner or managing agency when available; DCR Natural Heritage Program staff delineated unmapped boundaries using the best available sources.  This Geographic Information System (GIS) is in ArcView shapefile format and can be viewed, queried and manipulated using appropriate GIS software.
+
+The Conservation Lands Database is designed to meet the Commonwealth's need for a comprehensive GIS data layer identifying Virginia's "conservation lands".  State resource agencies, universities, land trusts, conservation organizations, and regional and local governments will find it invaluable for conservation and recreation planning.  This database will also serve agencies with economic development interests including the Virginia Economic Development Partnership, planning district commissions, and localities.
+</dsoverv></overview></eainfo>
+	<distinfo>
+		<resdesc>Virginia's Conservation Lands Database</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize Sync="TRUE">1.170</transize>
+					<dssize Sync="TRUE">1.170</dssize>
+				</digtinfo>
+			</digform>
+		</stdorder>
+		<distliab>Although all data referred to in this documentation have been used by the VADCR, no warranty, expressed or implied, is made by the VADCR, or the original data sources as to the accuracy of the data. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the  VADCR in the use of these data. Users must assume responsibility to determine the use of these data. The boundaries are not to be used for a LEGAL definition of these areas. Please contact the proper management agency with questions concerning land management and policies. Contact the original data provider for original metadata or questions about the placement and creation of boundary lines. The re-distribution of this dataset for profit is prohibited.  </distliab><custom>Download at:  http://www.dcr.virginia.gov/dnh/conslandindex.htm</custom></distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20070110</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>REQUIRED: The organization responsible for the metadata information.</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>REQUIRED: The mailing and/or physical address for the organization or individual.</addrtype>
+					<city>REQUIRED: The city of the address.</city>
+					<state>REQUIRED: The state or province of the address.</state>
+					<postal>REQUIRED: The ZIP or other postal code of the address.</postal>
+				</cntaddr>
+				<cntvoice>REQUIRED: The telephone number by which individuals can speak to the organization or individual.</cntvoice>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<langmeta Sync="TRUE">en</langmeta>
+		<metrd>20070105</metrd><metfrd>20080105</metfrd><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<dataIdInfo>
+		<envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.780</envirDesc>
+		<dataLang>
+			<languageCode Sync="TRUE" value="en"></languageCode>
+		</dataLang>
+		<geoBox esriExtentType="decdegrees">
+			<westBL Sync="TRUE">-76.012489</westBL>
+			<eastBL Sync="TRUE">-75.318555</eastBL>
+			<northBL Sync="TRUE">37.962677</northBL>
+			<southBL Sync="TRUE">37.152935</southBL>
+			<exTypeCode Sync="TRUE">1</exTypeCode>
+		</geoBox>
+		<idCitation>
+			<resTitle Sync="TRUE">vmrc</resTitle>
+			<presForm>
+				<PresFormCd Sync="TRUE" value="005"></PresFormCd>
+			</presForm>
+		</idCitation>
+		<spatRpType>
+			<SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd>
+		</spatRpType>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox esriExtentType="native">
+					<westBL Sync="TRUE">-76.012489</westBL>
+					<northBL Sync="TRUE">37.962677</northBL>
+					<southBL Sync="TRUE">37.152935</southBL>
+					<eastBL Sync="TRUE">-75.318555</eastBL>
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+				</GeoBndBox>
+			</geoEle>
+		</dataExt>
+	</dataIdInfo>
+	<distInfo>
+		<distributor>
+			<distorTran>
+				<onLineSrc>
+					<orDesc Sync="TRUE">002</orDesc>
+					<protocol Sync="TRUE">Local Area Network</protocol>
+					<linkage Sync="TRUE">file://\\DCRFP12\VOL1\SHARED\DNH\DNHGIS\Public_Lands\weblands\2006-12-15\vmrc.shp</linkage>
+				</onLineSrc>
+				<transSize Sync="TRUE">1.170</transSize>
+			</distorTran>
+			<distorFormat>
+				<formatName Sync="TRUE">Shapefile</formatName>
+			</distorFormat>
+		</distributor>
+	</distInfo>
+	<Esri>
+		<ModDate>20070110</ModDate>
+		<ModTime>16290400</ModTime>
+		<SyncDate>20070110</SyncDate>
+		<SyncOnce>FALSE</SyncOnce>
+		<SyncTime>16282500</SyncTime>
+		<CreaDate>20070110</CreaDate>
+		<CreaTime>16282500</CreaTime>
+		<MetaID>{97085BF1-AC74-45F7-A11B-ADD227294F1C}</MetaID></Esri>
+	<mdChar>
+		<CharSetCd Sync="TRUE" value="004"></CharSetCd>
+	</mdChar>
+	<mdDateSt Sync="TRUE">20070110</mdDateSt>
+	<mdHrLv>
+		<ScopeCd Sync="TRUE" value="005"></ScopeCd>
+	</mdHrLv>
+	<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+	<mdLang>
+		<languageCode Sync="TRUE" value="en"></languageCode>
+	</mdLang>
+	<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+	<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+	<refSysInfo>
+		<RefSystem>
+			<refSysID>
+				<identCode Sync="TRUE">GCS_Assumed_Geographic_1</identCode>
+			</refSysID>
+		</RefSystem>
+	</refSysInfo>
+	<spatRepInfo>
+		<VectSpatRep>
+			<topLvl>
+				<TopoLevCd Sync="TRUE" value="001"></TopoLevCd>
+			</topLvl>
+			<geometObjs Name="vmrc"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">106</geoObjCnt></geometObjs></VectSpatRep>
+	</spatRepInfo>
+	<dataqual><lineage><procstep><procdesc>All digital boundaries were geo-referenced (if necessary) and projected to decimal degrees/geographic, NAD83. Attributes were standardized and new fields were added.  Refer to original datasets for the original attributes.
+No boundaries received in digital format were corrected to eliminate overlap with other holdings, etc. Any maniipulation to existing boundaries is described in the lineage section. DCR ownership boundaries were digitized using best available sources. Please see bndorigin and bndaccuracy attribute fields for more detailed information per boundary. </procdesc><srcused Sync="TRUE">C:\DOCUME~1\dboyd\LOCALS~1\Temp\xmlB0.tmp</srcused><date Sync="TRUE">20061219</date><time Sync="TRUE">14174300</time><procsv>ArcView 3.3</procsv><procdate>Not complete</procdate></procstep><srcinfo><srctime><srccurr>publication date</srccurr></srctime></srcinfo><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">I:\DNHGIS\Public_Lands\weblands\2006-12-15\conslands.shp.xml</srcused><date Sync="TRUE">20070110</date><time Sync="TRUE">16282500</time></procstep></lineage><logic>The Conservation Lands database iincludes property boundaries created by DCR and a variety of other sources.  Source boundaries are not edge matched unless they are created by DCR.  Polygon overlap and other toplogical inconsistencies are likely.  Please reference the boundary accuracy assessment code if overlap is of particular concern in an area of interest.</logic><complete>Contains Conservation Lands in Virginia</complete><attracc><attraccr>This dataset is a work in progress and represents our most up to date attribute information.</attraccr></attracc><posacc><horizpa><horizpar>This layer should meet National Map Accuracy Standards for 1:24000 Digital Raster Graphics (DRG). Thus, mapped
+features should be within 12.2 meters of the true locations for about 90% of the features tested. </horizpar></horizpa><vertacc><vertaccr>This layer should meet National Map Accuracy Standards for 1:24000 Digital Raster Graphics (DRG). Thus, mapped
+features should be within 12.2 meters of the true locations for about 90% of the features tested. </vertaccr></vertacc></posacc></dataqual></metadata>
