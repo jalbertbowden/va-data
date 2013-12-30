@@ -1,0 +1,244 @@
+DP02: SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,,,,,,,,,
+2008-2012 American Community Survey 5-Year Estimates,,,,,,,,,,,,
+,"Supporting documentation on code lists, subject definitions, data accuracy, and statistical testing can be found on the American Community Survey website in the Data and Documentation section.
+
+Sample size and data quality measures (including coverage rates, allocation rates, and response rates) can be found on the American Community Survey website in the Methodology section.
+
+",,,,,,,,,,,
+,,,,,,,,,,,,
+,"Although the American Community Survey (ACS) produces population, demographic and housing unit estimates, it is the Census Bureau's Population Estimates Program that produces and disseminates the official estimates of the population for the nation, states, counties, cities and towns and estimates of housing units for states and counties.
+
+",,,,,,,,,,,
+,,,,,,,,,,,,
+Subject,,,United States,,,,,,Virginia,,,
+,,,Estimate,,,Margin of Error,Percent,Percent Margin of Error,Estimate,Margin of Error,Percent,Percent Margin of Error
+HOUSEHOLDS BY TYPE,,,,,,,,,,,,
+    Total households,,,"115,226,802",,,"+/-238,575","115,226,802",(X),"3,006,219","+/-8,230","3,006,219",(X)
+  Family households (families),,,"76,595,548",,,"+/-218,967",66.5%,+/-0.1,"2,025,903","+/-7,717",67.4%,+/-0.2
+      With own children under 18 years,,,"34,484,648",,,"+/-184,418",29.9%,+/-0.1,"906,443","+/-6,479",30.2%,+/-0.2
+    Married-couple family,,,"56,428,122",,,"+/-278,062",49.0%,+/-0.1,"1,536,475","+/-9,450",51.1%,+/-0.2
+      With own children under 18 years,,,"23,426,943",,,"+/-213,888",20.3%,+/-0.1,"643,555","+/-7,528",21.4%,+/-0.2
+"    Male householder, no wife present, family",,,"5,346,139",,,"+/-33,892",4.6%,+/-0.1,"124,183","+/-2,396",4.1%,+/-0.1
+      With own children under 18 years,,,"2,595,537",,,"+/-17,251",2.3%,+/-0.1,"59,203","+/-1,737",2.0%,+/-0.1
+"    Female householder, no husband present, family",,,"14,821,287",,,"+/-39,699",12.9%,+/-0.1,"365,245","+/-4,024",12.1%,+/-0.1
+      With own children under 18 years,,,"8,462,168",,,"+/-25,154",7.3%,+/-0.1,"203,685","+/-3,294",6.8%,+/-0.1
+  Nonfamily households,,,"38,631,254",,,"+/-40,816",33.5%,+/-0.1,"980,316","+/-5,399",32.6%,+/-0.2
+    Householder living alone,,,"31,631,926",,,"+/-69,391",27.5%,+/-0.1,"795,232","+/-5,760",26.5%,+/-0.2
+      65 years and over,,,"11,087,417",,,"+/-112,237",9.6%,+/-0.1,"261,661","+/-4,206",8.7%,+/-0.1
+,,,,,,,,,,,,
+  Households with one or more people under 18 years,,,"38,324,455",,,"+/-180,621",33.3%,+/-0.1,"1,004,290","+/-6,415",33.4%,+/-0.2
+  Households with one or more people 65 years and over,,,"28,676,599",,,"+/-99,018",24.9%,+/-0.1,"704,363","+/-3,598",23.4%,+/-0.1
+,,,,,,,,,,,,
+  Average household size,,,2.61,,,+/-0.01,(X),(X),2.59,+/-0.01,(X),(X)
+  Average family size,,,3.21,,,+/-0.01,(X),(X),3.13,+/-0.01,(X),(X)
+,,,,,,,,,,,,
+RELATIONSHIP,,,,,,,,,,,,
+    Population in households,,,"301,123,130",,,*****,"301,123,130",(X),"7,773,620",*****,"7,773,620",(X)
+  Householder,,,"115,226,802",,,"+/-238,575",38.3%,+/-0.1,"3,006,219","+/-8,230",38.7%,+/-0.1
+  Spouse,,,"56,394,920",,,"+/-274,191",18.7%,+/-0.1,"1,535,775","+/-10,074",19.8%,+/-0.1
+  Child,,,"91,891,950",,,"+/-77,288",30.5%,+/-0.1,"2,290,014","+/-6,547",29.5%,+/-0.1
+  Other relatives,,,"20,735,185",,,"+/-241,346",6.9%,+/-0.1,"497,786","+/-9,686",6.4%,+/-0.1
+  Nonrelatives,,,"16,874,273",,,"+/-207,976",5.6%,+/-0.1,"443,826","+/-8,354",5.7%,+/-0.1
+    Unmarried partner,,,"6,680,331",,,"+/-20,946",2.2%,+/-0.1,"149,110","+/-2,439",1.9%,+/-0.1
+,,,,,,,,,,,,
+MARITAL STATUS,,,,,,,,,,,,
+    Males 15 years and over,,,"120,789,875",,,"+/-6,933","120,789,875",(X),"3,152,284","+/-1,078","3,152,284",(X)
+  Never married,,,"42,377,084",,,"+/-158,587",35.1%,+/-0.1,"1,073,162","+/-6,818",34.0%,+/-0.2
+"  Now married, except separated",,,"61,730,928",,,"+/-244,173",51.1%,+/-0.2,"1,669,687","+/-9,518",53.0%,+/-0.3
+  Separated,,,"2,202,348",,,"+/-18,732",1.8%,+/-0.1,"71,143","+/-2,308",2.3%,+/-0.1
+  Widowed,,,"3,052,335",,,"+/-12,753",2.5%,+/-0.1,"73,136","+/-1,726",2.3%,+/-0.1
+  Divorced,,,"11,427,180",,,"+/-76,454",9.5%,+/-0.1,"265,156","+/-3,844",8.4%,+/-0.1
+,,,,,,,,,,,,
+    Females 15 years and over,,,"127,252,362",,,"+/-5,344","127,252,362",(X),"3,331,360","+/-1,142","3,331,360",(X)
+  Never married,,,"36,577,855",,,"+/-121,685",28.7%,+/-0.1,"933,141","+/-5,493",28.0%,+/-0.2
+"  Now married, except separated",,,"60,367,016",,,"+/-194,055",47.4%,+/-0.2,"1,640,109","+/-8,096",49.2%,+/-0.2
+  Separated,,,"3,190,130",,,"+/-24,442",2.5%,+/-0.1,"95,208","+/-2,474",2.9%,+/-0.1
+  Widowed,,,"11,886,647",,,"+/-24,085",9.3%,+/-0.1,"290,621","+/-2,945",8.7%,+/-0.1
+  Divorced,,,"15,230,714",,,"+/-70,847",12.0%,+/-0.1,"372,281","+/-4,181",11.2%,+/-0.1
+,,,,,,,,,,,,
+FERTILITY,,,,,,,,,,,,
+    Number of women 15 to 50 years old who had a birth in the past 12 months,,,"4,278,307",,,"+/-24,203","4,278,307",(X),"109,017","+/-2,294","109,017",(X)
+"  Unmarried women (widowed, divorced, and never married)",,,"1,497,060",,,"+/-10,428",35.0%,+/-0.3,"33,521","+/-1,439",30.7%,+/-1.1
+"    Per 1,000 unmarried women",,,37,,,+/-1,(X),(X),32,+/-1,(X),(X)
+"  Per 1,000 women 15 to 50 years old",,,56,,,+/-1,(X),(X),54,+/-1,(X),(X)
+"    Per 1,000 women 15 to 19 years old",,,26,,,+/-1,(X),(X),19,+/-2,(X),(X)
+"    Per 1,000 women 20 to 34 years old",,,100,,,+/-1,(X),(X),97,+/-2,(X),(X)
+"    Per 1,000 women 35 to 50 years old",,,25,,,+/-1,(X),(X),25,+/-1,(X),(X)
+,,,,,,,,,,,,
+GRANDPARENTS,,,,,,,,,,,,
+    Number of grandparents living with own grandchildren under 18 years,,,"6,850,491",,,"+/-30,643","6,850,491",(X),"171,029","+/-3,000","171,029",(X)
+  Responsible for grandchildren,,,"2,723,744",,,"+/-13,858",39.8%,+/-0.2,"66,751","+/-2,300",39.0%,+/-1.1
+    Years responsible for grandchildren,,,,,,,,,,,,
+      Less than 1 year,,,"600,275",,,"+/-6,274",8.8%,+/-0.1,"13,785","+/-1,115",8.1%,+/-0.6
+      1 or 2 years,,,"649,621",,,"+/-6,245",9.5%,+/-0.1,"15,396","+/-1,100",9.0%,+/-0.6
+      3 or 4 years,,,"449,204",,,"+/-5,439",6.6%,+/-0.1,"11,426",+/-960,6.7%,+/-0.6
+      5 or more years,,,"1,024,644",,,"+/-8,839",15.0%,+/-0.1,"26,144","+/-1,315",15.3%,+/-0.7
+,,,,,,,,,,,,
+    Number of grandparents responsible for own grandchildren under 18 years,,,"2,723,744",,,"+/-13,858","2,723,744",(X),"66,751","+/-2,300","66,751",(X)
+  Who are female,,,"1,707,078",,,"+/-9,179",62.7%,+/-0.1,"41,219","+/-1,496",61.8%,+/-0.8
+  Who are married,,,"1,923,900",,,"+/-12,488",70.6%,+/-0.2,"48,330","+/-2,149",72.4%,+/-1.5
+,,,,,,,,,,,,
+SCHOOL ENROLLMENT,,,,,,,,,,,,
+    Population 3 years and over enrolled in school,,,"82,291,141",,,"+/-95,754","82,291,141",(X),"2,122,388","+/-6,728","2,122,388",(X)
+"  Nursery school, preschool",,,"5,021,959",,,"+/-31,095",6.1%,+/-0.1,"128,208","+/-2,496",6.0%,+/-0.1
+  Kindergarten,,,"4,181,673",,,"+/-14,511",5.1%,+/-0.1,"105,260","+/-2,097",5.0%,+/-0.1
+  Elementary school (grades 1-8),,,"32,724,227",,,"+/-23,764",39.8%,+/-0.1,"815,844","+/-3,000",38.4%,+/-0.2
+  High school (grades 9-12),,,"17,279,629",,,"+/-20,031",21.0%,+/-0.1,"426,809","+/-2,826",20.1%,+/-0.1
+  College or graduate school,,,"23,083,653",,,"+/-70,088",28.1%,+/-0.1,"646,267","+/-5,867",30.4%,+/-0.2
+,,,,,,,,,,,,
+EDUCATIONAL ATTAINMENT,,,,,,,,,,,,
+    Population 25 years and over,,,"204,336,017",,,"+/-15,340","204,336,017",(X),"5,356,571","+/-1,682","5,356,571",(X)
+  Less than 9th grade,,,"12,358,853",,,"+/-61,323",6.0%,+/-0.1,"283,428","+/-4,051",5.3%,+/-0.1
+"  9th to 12th grade, no diploma",,,"16,820,966",,,"+/-68,390",8.2%,+/-0.1,"415,628","+/-5,387",7.8%,+/-0.1
+  High school graduate (includes equivalency),,,"57,706,852",,,"+/-158,081",28.2%,+/-0.1,"1,352,347","+/-8,640",25.2%,+/-0.2
+"  Some college, no degree",,,"43,508,315",,,"+/-42,142",21.3%,+/-0.1,"1,080,148","+/-6,916",20.2%,+/-0.1
+  Associate's degree,,,"15,736,009",,,"+/-37,747",7.7%,+/-0.1,"367,443","+/-4,026",6.9%,+/-0.1
+  Bachelor's degree,,,"36,529,875",,,"+/-132,111",17.9%,+/-0.1,"1,085,567","+/-9,142",20.3%,+/-0.2
+  Graduate or professional degree,,,"21,675,147",,,"+/-127,862",10.6%,+/-0.1,"772,010","+/-7,594",14.4%,+/-0.1
+,,,,,,,,,,,,
+  Percent high school graduate or higher,,,(X),,,(X),85.7%,+/-0.1,(X),(X),86.9%,+/-0.1
+  Percent bachelor's degree or higher,,,(X),,,(X),28.5%,+/-0.1,(X),(X),34.7%,+/-0.2
+,,,,,,,,,,,,
+VETERAN STATUS,,,,,,,,,,,,
+    Civilian population 18 years and over,,,"234,029,580",,,"+/-8,207","234,029,580",(X),"6,044,223","+/-2,457","6,044,223",(X)
+  Civilian veterans,,,"21,853,912",,,"+/-27,512",9.3%,+/-0.1,"734,151","+/-4,491",12.1%,+/-0.1
+,,,,,,,,,,,,
+DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,,,,,,,,,
+    Total Civilian Noninstitutionalized Population,,,"303,984,241",,,"+/-10,092","303,984,241",(X),"7,788,504","+/-2,267","7,788,504",(X)
+  With a disability,,,"36,551,038",,,"+/-73,000",12.0%,+/-0.1,"848,692","+/-5,780",10.9%,+/-0.1
+,,,,,,,,,,,,
+    Under 18 years,,,"73,835,298",,,"+/-6,591","73,835,298",(X),"1,845,142",+/-792,"1,845,142",(X)
+  With a disability,,,"2,952,899",,,"+/-13,703",4.0%,+/-0.1,"66,678","+/-1,912",3.6%,+/-0.1
+,,,,,,,,,,,,
+    18 to 64 years,,,"190,790,030",,,"+/-9,626","190,790,030",(X),"4,982,213","+/-2,762","4,982,213",(X)
+  With a disability,,,"19,128,854",,,"+/-58,927",10.0%,+/-0.1,"446,467","+/-4,342",9.0%,+/-0.1
+,,,,,,,,,,,,
+    65 years and over,,,"39,358,913",,,"+/-5,341","39,358,913",(X),"961,149",+/-896,"961,149",(X)
+  With a disability,,,"14,469,285",,,"+/-21,455",36.8%,+/-0.1,"335,547","+/-2,960",34.9%,+/-0.3
+,,,,,,,,,,,,
+RESIDENCE 1 YEAR AGO,,,,,,,,,,,,
+    Population 1 year and over,,,"305,340,618",,,"+/-15,176","305,340,618",(X),"7,916,839","+/-1,869","7,916,839",(X)
+  Same house,,,"258,887,555",,,"+/-288,909",84.8%,+/-0.1,"6,701,730","+/-14,590",84.7%,+/-0.2
+  Different house in the U.S.,,,"44,633,635",,,"+/-280,192",14.6%,+/-0.1,"1,157,130","+/-14,417",14.6%,+/-0.2
+    Same county,,,"27,998,595",,,"+/-209,077",9.2%,+/-0.1,"524,517","+/-9,334",6.6%,+/-0.1
+    Different county,,,"16,635,040",,,"+/-83,396",5.4%,+/-0.1,"632,613","+/-8,670",8.0%,+/-0.1
+      Same state,,,"9,661,677",,,"+/-57,608",3.2%,+/-0.1,"374,699","+/-7,222",4.7%,+/-0.1
+      Different state,,,"6,973,363",,,"+/-37,548",2.3%,+/-0.1,"257,914","+/-5,944",3.3%,+/-0.1
+  Abroad,,,"1,819,428",,,"+/-16,896",0.6%,+/-0.1,"57,979","+/-2,769",0.7%,+/-0.1
+,,,,,,,,,,,,
+PLACE OF BIRTH,,,,,,,,,,,,
+    Total population,,,"309,138,711",,,*****,"309,138,711",(X),"8,014,955",*****,"8,014,955",(X)
+  Native,,,"269,354,406",,,"+/-104,868",87.1%,+/-0.1,"7,121,778","+/-6,612",88.9%,+/-0.1
+    Born in United States,,,"265,096,271",,,"+/-103,382",85.8%,+/-0.1,"6,987,969","+/-7,161",87.2%,+/-0.1
+      State of residence,,,"181,504,577",,,"+/-78,089",58.7%,+/-0.1,"3,992,070","+/-11,274",49.8%,+/-0.1
+      Different state,,,"83,591,694",,,"+/-78,009",27.0%,+/-0.1,"2,995,899","+/-11,383",37.4%,+/-0.1
+"    Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)",,,"4,258,135",,,"+/-16,981",1.4%,+/-0.1,"133,809","+/-3,353",1.7%,+/-0.1
+  Foreign born,,,"39,784,305",,,"+/-104,903",12.9%,+/-0.1,"893,177","+/-6,612",11.1%,+/-0.1
+,,,,,,,,,,,,
+U.S. CITIZENSHIP STATUS,,,,,,,,,,,,
+    Foreign-born population,,,"39,784,305",,,"+/-104,903","39,784,305",(X),"893,177","+/-6,612","893,177",(X)
+  Naturalized U.S. citizen,,,"17,639,207",,,"+/-36,472",44.3%,+/-0.2,"412,407","+/-4,537",46.2%,+/-0.5
+  Not a U.S. citizen,,,"22,145,098",,,"+/-120,180",55.7%,+/-0.2,"480,770","+/-7,026",53.8%,+/-0.5
+,,,,,,,,,,,,
+YEAR OF ENTRY,,,,,,,,,,,,
+    Population born outside the United States,,,"44,042,440",,,"+/-103,417","44,042,440",(X),"1,026,986","+/-7,161","1,026,986",(X)
+,,,,,,,,,,,,
+    Native,,,"4,258,135",,,"+/-16,981","4,258,135",(X),"133,809","+/-3,353","133,809",(X)
+  Entered 2010 or later,,,"105,690",,,"+/-3,485",2.5%,+/-0.1,"3,189",+/-473,2.4%,+/-0.3
+  Entered before 2010,,,"4,152,445",,,"+/-16,284",97.5%,+/-0.1,"130,620","+/-3,228",97.6%,+/-0.3
+,,,,,,,,,,,,
+    Foreign born,,,"39,784,305",,,"+/-104,903","39,784,305",(X),"893,177","+/-6,612","893,177",(X)
+  Entered 2010 or later,,,"1,086,664",,,"+/-12,388",2.7%,+/-0.1,"30,158","+/-2,062",3.4%,+/-0.2
+  Entered before 2010,,,"38,697,641",,,"+/-101,599",97.3%,+/-0.1,"863,019","+/-6,290",96.6%,+/-0.2
+,,,,,,,,,,,,
+WORLD REGION OF BIRTH OF FOREIGN BORN,,,,,,,,,,,,
+"    Foreign-born population, excluding population born at sea",,,"39,784,145",,,"+/-104,900","39,784,145",(X),"893,165","+/-6,610","893,165",(X)
+  Europe,,,"4,830,862",,,"+/-19,127",12.1%,+/-0.1,"100,439","+/-2,640",11.2%,+/-0.3
+  Asia,,,"11,341,138",,,"+/-34,621",28.5%,+/-0.1,"367,938","+/-3,352",41.2%,+/-0.3
+  Africa,,,"1,581,968",,,"+/-14,433",4.0%,+/-0.1,"81,067","+/-2,896",9.1%,+/-0.3
+  Oceania,,,"225,497",,,"+/-4,398",0.6%,+/-0.1,"3,385",+/-386,0.4%,+/-0.1
+  Latin America,,,"20,987,884",,,"+/-65,342",52.8%,+/-0.1,"324,858","+/-3,847",36.4%,+/-0.3
+  Northern America,,,"816,796",,,"+/-7,300",2.1%,+/-0.1,"15,478",+/-932,1.7%,+/-0.1
+,,,,,,,,,,,,
+LANGUAGE SPOKEN AT HOME,,,,,,,,,,,,
+    Population 5 years and over,,,"289,000,827",,,"+/-3,697","289,000,827",(X),"7,507,254",+/-735,"7,507,254",(X)
+  English only,,,"229,616,064",,,"+/-109,315",79.5%,+/-0.1,"6,403,732","+/-7,043",85.3%,+/-0.1
+  Language other than English,,,"59,384,763",,,"+/-108,208",20.5%,+/-0.1,"1,103,522","+/-6,974",14.7%,+/-0.1
+"      Speak English less than ""very well""",,,"25,081,122",,,"+/-69,800",8.7%,+/-0.1,"424,444","+/-5,276",5.7%,+/-0.1
+    Spanish,,,"36,836,280",,,"+/-61,755",12.7%,+/-0.1,"496,145","+/-4,046",6.6%,+/-0.1
+"      Speak English less than ""very well""",,,"16,386,716",,,"+/-41,430",5.7%,+/-0.1,"220,143","+/-3,492",2.9%,+/-0.1
+    Other Indo-European languages,,,"10,686,130",,,"+/-38,096",3.7%,+/-0.1,"254,835","+/-5,561",3.4%,+/-0.1
+"      Speak English less than ""very well""",,,"3,426,941",,,"+/-24,367",1.2%,+/-0.1,"64,299","+/-2,423",0.9%,+/-0.1
+    Asian and Pacific Islander languages,,,"9,348,644",,,"+/-27,104",3.2%,+/-0.1,"260,364","+/-3,974",3.5%,+/-0.1
+"      Speak English less than ""very well""",,,"4,492,696",,,"+/-17,822",1.6%,+/-0.1,"111,530","+/-2,285",1.5%,+/-0.1
+    Other languages,,,"2,513,709",,,"+/-18,740",0.9%,+/-0.1,"92,178","+/-3,582",1.2%,+/-0.1
+"      Speak English less than ""very well""",,,"774,769",,,"+/-9,674",0.3%,+/-0.1,"28,472","+/-1,581",0.4%,+/-0.1
+,,,,,,,,,,,,
+ANCESTRY,,,,,,,,,,,,
+    Total population,,,"309,138,711",,,*****,"309,138,711",(X),"8,014,955",*****,"8,014,955",(X)
+  American,,,"20,775,461",,,"+/-45,958",6.7%,+/-0.1,"882,965","+/-11,680",11.0%,+/-0.1
+  Arab,,,"1,646,808",,,"+/-18,400",0.5%,+/-0.1,"60,074","+/-3,333",0.7%,+/-0.1
+  Czech,,,"1,543,224",,,"+/-10,124",0.5%,+/-0.1,"23,234","+/-1,330",0.3%,+/-0.1
+  Danish,,,"1,392,161",,,"+/-12,510",0.5%,+/-0.1,"18,972","+/-1,058",0.2%,+/-0.1
+  Dutch,,,"4,665,736",,,"+/-18,344",1.5%,+/-0.1,"84,182","+/-2,662",1.1%,+/-0.1
+  English,,,"26,360,639",,,"+/-64,183",8.5%,+/-0.1,"906,212","+/-9,154",11.3%,+/-0.1
+  French (except Basque),,,"8,902,996",,,"+/-29,988",2.9%,+/-0.1,"162,680","+/-3,213",2.0%,+/-0.1
+  French Canadian,,,"2,052,405",,,"+/-15,618",0.7%,+/-0.1,"32,951","+/-1,841",0.4%,+/-0.1
+  German,,,"48,478,298",,,"+/-56,777",15.7%,+/-0.1,"984,088","+/-9,221",12.3%,+/-0.1
+  Greek,,,"1,308,335",,,"+/-12,258",0.4%,+/-0.1,"35,298","+/-1,623",0.4%,+/-0.1
+  Hungarian,,,"1,485,671",,,"+/-10,241",0.5%,+/-0.1,"28,708","+/-1,292",0.4%,+/-0.1
+  Irish,,,"35,107,290",,,"+/-60,072",11.4%,+/-0.1,"837,877","+/-7,640",10.5%,+/-0.1
+  Italian,,,"17,496,924",,,"+/-38,407",5.7%,+/-0.1,"324,867","+/-4,806",4.1%,+/-0.1
+  Lithuanian,,,"684,939",,,"+/-7,159",0.2%,+/-0.1,"14,063","+/-1,032",0.2%,+/-0.1
+  Norwegian,,,"4,514,318",,,"+/-23,990",1.5%,+/-0.1,"49,767","+/-1,976",0.6%,+/-0.1
+  Polish,,,"9,670,197",,,"+/-34,497",3.1%,+/-0.1,"156,201","+/-3,172",1.9%,+/-0.1
+  Portuguese,,,"1,409,262",,,"+/-10,300",0.5%,+/-0.1,"15,933","+/-1,166",0.2%,+/-0.1
+  Russian,,,"3,013,959",,,"+/-15,994",1.0%,+/-0.1,"55,772","+/-2,144",0.7%,+/-0.1
+  Scotch-Irish,,,"3,317,115",,,"+/-15,546",1.1%,+/-0.1,"142,552","+/-3,244",1.8%,+/-0.1
+  Scottish,,,"5,580,121",,,"+/-20,631",1.8%,+/-0.1,"184,398","+/-3,618",2.3%,+/-0.1
+  Slovak,,,"769,697",,,"+/-7,564",0.2%,+/-0.1,"15,709","+/-1,018",0.2%,+/-0.1
+  Subsaharan African,,,"2,886,972",,,"+/-27,517",0.9%,+/-0.1,"164,378","+/-5,354",2.1%,+/-0.1
+  Swedish,,,"4,155,453",,,"+/-20,126",1.3%,+/-0.1,"59,598","+/-2,336",0.7%,+/-0.1
+  Swiss,,,"967,123",,,"+/-9,224",0.3%,+/-0.1,"21,084","+/-1,411",0.3%,+/-0.1
+  Ukrainian,,,"960,902",,,"+/-9,336",0.3%,+/-0.1,"19,549","+/-1,230",0.2%,+/-0.1
+  Welsh,,,"1,861,429",,,"+/-11,634",0.6%,+/-0.1,"56,053","+/-2,484",0.7%,+/-0.1
+  West Indian (excluding Hispanic origin groups),,,"2,646,303",,,"+/-18,730",0.9%,+/-0.1,"38,818","+/-2,419",0.5%,+/-0.1
+,"Data are based on a sample and are subject to sampling variability. The degree of uncertainty for an estimate arising from sampling variability is represented through the use of a margin of error. The value shown here is the 90 percent margin of error. The margin of error can be interpreted roughly as providing a 90 percent probability that the interval defined by the estimate minus the margin of error and the estimate plus the margin of error (the lower and upper confidence bounds) contains the true value. In addition to sampling variability, the ACS estimates are subject to nonsampling error (for a discussion of nonsampling variability, see Accuracy of the Data). The effect of nonsampling error is not represented in these tables.
+
+",,,,,,,,,,,
+,,,,,,,,,,,,
+,"Fertility data are not available for certain geographic areas due to problems with data collection. See Errata Note #92 for details.
+
+",,,,,,,,,,,
+,,,,,,,,,,,,
+,"The Census Bureau introduced a new set of disability questions in the 2008 ACS questionnaire. Accordingly, comparisons of disability data from 2008 or later with data from prior years are not recommended. For more information on these questions and their evaluation in the 2006 ACS Content Test, see the Evaluation Report Covering Disability.
+
+",,,,,,,,,,,
+,,,,,,,,,,,,
+,While the 2008-2012 American Community Survey (ACS) data generally reflect the December 2009 Office of Management and Budget (OMB) definitions of metropolitan and micropolitan ,,,,,,,,,,,
+,,,,,,,,,,,,
+,"statistical areas; in certain instances the names, codes, and boundaries of the principal cities shown in ACS tables may differ from the OMB definitions due to differences in the effective dates of the geographic entities.
+
+",,,,,,,,,,,
+,,,,,,,,,,,,
+,"Estimates of urban and rural population, housing units, and characteristics reflect boundaries of urban areas defined based on Census 2000 data. Boundaries for urban areas have not been updated since Census 2000. As a result, data for urban and rural areas from the ACS do not necessarily reflect the results of ongoing urbanization.
+
+",,,,,,,,,,,
+,,,,,,,,,,,,
+,"Source: U.S. Census Bureau, 2008-2012 American Community Survey
+
+",,,,,,,,,,,
+,,,,,,,,,,,,
+,"Explanation of Symbols:
+
+    1.  An '**' entry in the margin of error column indicates that either no sample observations or too few sample observations were available to compute a standard error and thus the margin of error. A statistical test is not appropriate.
+    2.  An '-' entry in the estimate column indicates that either no sample observations or too few sample observations were available to compute an estimate, or a ratio of medians cannot be calculated because one or both of the median estimates falls in the lowest interval or upper interval of an open-ended distribution.
+    3.  An '-' following a median estimate means the median falls in the lowest interval of an open-ended distribution.
+    4.  An '+' following a median estimate means the median falls in the upper interval of an open-ended distribution.
+    5.  An '***' entry in the margin of error column indicates that the median falls in the lowest interval or upper interval of an open-ended distribution. A statistical test is not appropriate.
+    6.  An '*****' entry in the margin of error column indicates that the estimate is controlled. A statistical test for sampling variability is not appropriate.
+    7.  An 'N' entry in the estimate and margin of error columns indicates that data for this geographic area cannot be displayed because the number of sample cases is too small.
+    8.  An '(X)' means that the estimate is not applicable or not available.
+
+
+",,,,,,,,,,,
