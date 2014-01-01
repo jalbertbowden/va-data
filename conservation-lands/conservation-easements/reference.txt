@@ -1,0 +1,2 @@
+Conservation Easement data. 
+Co-held easements are mapped with two overlapping polygons. To remove these duplicates, select polygons with totalacre = 0 and delete them. 
