@@ -1,0 +1,635 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "VAHU5": "AO-A", "HUC_10": "0204030305", "UNITACRES": 74589.839865, "STATES": "MD,VA", "HU_10_DS": "0204030306", "HU_10_NAME": "Lower Chincoteague Bay", "HU_10_MOD": "NM", "HU_10_TYPE": "M", "PC_10_WATE": 46 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "AO-B", "HUC_10": "0204030306", "UNITACRES": 50644.970238, "STATES": "MD,VA", "HU_10_DS": "OCEAN", "HU_10_NAME": "Atlantic Ocean-Assateague Island-Fenwick Island", "HU_10_MOD": "NM", "HU_10_TYPE": "W", "PC_10_WATE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "AO-C", "HUC_10": "0204030401", "UNITACRES": 88636.283467, "STATES": "VA", "HU_10_DS": "0204030404", "HU_10_NAME": "Burtons Bay-Metompkin Bay", "HU_10_MOD": "NM", "HU_10_TYPE": "M", "PC_10_WATE": 20 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "AO-D", "HUC_10": "0204030402", "UNITACRES": 107691.123843, "STATES": "VA", "HU_10_DS": "0204030404", "HU_10_NAME": "Hog Island Bay-Machipongo River", "HU_10_MOD": "NM", "HU_10_TYPE": "M", "PC_10_WATE": 40 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "AO-E", "HUC_10": "0204030403", "UNITACRES": 92430.136522, "STATES": "VA", "HU_10_DS": "0204030404", "HU_10_NAME": "Cobb Bay-Magothy Bay", "HU_10_MOD": "NM", "HU_10_TYPE": "M", "PC_10_WATE": 54 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "AO-F", "HUC_10": "0204030404", "UNITACRES": 144578.036765, "STATES": "VA", "HU_10_DS": "OCEAN", "HU_10_NAME": "Atlantic Ocean-Parramore Island", "HU_10_MOD": "NM", "HU_10_TYPE": "W", "PC_10_WATE": 98 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "AO-G", "HUC_10": "0204030405", "UNITACRES": 42941.464979, "STATES": "VA", "HU_10_DS": "OCEAN", "HU_10_NAME": "Atlantic Ocean-Rudee Inlet", "HU_10_MOD": "NM", "HU_10_TYPE": "W", "PC_10_WATE": 91 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "AO-H", "HUC_10": "0301020517", "UNITACRES": 43913.736692, "STATES": "NC,VA", "HU_10_DS": "OCEAN", "HU_10_NAME": "Atlantic Ocean-Bodie Island-Sand Ridge", "HU_10_MOD": "NM", "HU_10_TYPE": "W", "PC_10_WATE": 97 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "AS-A", "HUC_10": "0301020506", "UNITACRES": 106323.425430, "STATES": "NC,VA", "HU_10_DS": "0301020507", "HU_10_NAME": "Lake Drummond-Dismal Swamp Canal", "HU_10_MOD": "DD\/IT", "HU_10_TYPE": "U", "PC_10_WATE": 8 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "AS-B", "HUC_10": "0301020511", "UNITACRES": 70729.907356, "STATES": "NC,VA", "HU_10_DS": "0301020512", "HU_10_NAME": "Northwest River", "HU_10_MOD": "DD", "HU_10_TYPE": "S", "PC_10_WATE": 3 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "AS-C", "HUC_10": "0301020512", "UNITACRES": 105644.232319, "STATES": "NC,VA", "HU_10_DS": "0301020513", "HU_10_NAME": "North Landing River", "HU_10_MOD": "DD", "HU_10_TYPE": "S", "PC_10_WATE": 4 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "AS-D", "HUC_10": "0301020513", "UNITACRES": 65384.575514, "STATES": "NC,VA", "HU_10_DS": "0301020514", "HU_10_NAME": "Currituck Sound", "HU_10_MOD": "DD", "HU_10_TYPE": "W", "PC_10_WATE": 39 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "BS-A", "HUC_10": "0507020101", "UNITACRES": 29806.645779, "STATES": "VA,WV", "HU_10_DS": "0507020102", "HU_10_NAME": "Dry Fork", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "BS-B", "HUC_10": "0507020103", "UNITACRES": 62606.020678, "STATES": "KY,VA,WV", "HU_10_DS": "0507020105", "HU_10_NAME": "Tug Fork-Knox Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "BS-C", "HUC_10": "0507020201", "UNITACRES": 151251.175051, "STATES": "VA", "HU_10_DS": "0507020202", "HU_10_NAME": "Levisa Fork-Dismal Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "BS-D", "HUC_10": "0507020202", "UNITACRES": 45751.712238, "STATES": "KY,VA", "HU_10_DS": "0507020207", "HU_10_NAME": "Levisa Fork-Fishtrap Lake", "HU_10_MOD": "MA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "BS-E", "HUC_10": "0507020203", "UNITACRES": 68159.001336, "STATES": "VA", "HU_10_DS": "0507020204", "HU_10_NAME": "McClure River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "BS-F", "HUC_10": "0507020204", "UNITACRES": 124687.623825, "STATES": "VA", "HU_10_DS": "0507020207", "HU_10_NAME": "Russell Fork-Lick Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "BS-G", "HUC_10": "0507020205", "UNITACRES": 143949.357588, "STATES": "VA", "HU_10_DS": "0507020207", "HU_10_NAME": "Pound River-Cranes Nest River", "HU_10_MOD": "KA\/MA", "HU_10_TYPE": "S", "PC_10_WATE": 2 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "BS-H", "HUC_10": "0507020207", "UNITACRES": 13023.876900, "STATES": "KY,VA", "HU_10_DS": "0507020302", "HU_10_NAME": "Levisa Fork-Russell Fork", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CB-A", "HUC_10": "0208010201", "UNITACRES": 108361.285346, "STATES": "MD,VA", "HU_10_DS": "0208010100", "HU_10_NAME": "Lower Chesapeake Bay-Great Wicomico River", "HU_10_MOD": "NM", "HU_10_TYPE": "F", "PC_10_WATE": 26 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CB-B", "HUC_10": "0208010202", "UNITACRES": 89959.942763, "STATES": "VA", "HU_10_DS": "0208010203", "HU_10_NAME": "Dragon Swamp", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CB-C", "HUC_10": "0208010203", "UNITACRES": 75932.343681, "STATES": "VA", "HU_10_DS": "0208010100", "HU_10_NAME": "Lower Chesapeake Bay-Piankatank River", "HU_10_MOD": "NM", "HU_10_TYPE": "F", "PC_10_WATE": 27 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CB-D", "HUC_10": "0208010204", "UNITACRES": 155407.810873, "STATES": "VA", "HU_10_DS": "0208010100", "HU_10_NAME": "Lower Chesapeake Bay-Mobjack Bay", "HU_10_MOD": "NM", "HU_10_TYPE": "F", "PC_10_WATE": 33 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CB-E", "HUC_10": "0208010801", "UNITACRES": 85752.538810, "STATES": "VA", "HU_10_DS": "0208010100", "HU_10_NAME": "Lower Chesapeake Bay-Back River", "HU_10_MOD": "NM", "HU_10_TYPE": "F", "PC_10_WATE": 30 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CB-F", "HUC_10": "0208010802", "UNITACRES": 61245.460192, "STATES": "VA", "HU_10_DS": "0208010100", "HU_10_NAME": "Lower Chesapeake Bay-Lynnhaven River", "HU_10_MOD": "NM", "HU_10_TYPE": "F", "PC_10_WATE": 14 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CB-G", "HUC_10": "0208011006", "UNITACRES": 59201.280852, "STATES": "MD,VA", "HU_10_DS": "0208010100", "HU_10_NAME": "Lower Tangier Sound", "HU_10_MOD": "NM", "HU_10_TYPE": "W", "PC_10_WATE": 95 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CB-H", "HUC_10": "0208011103", "UNITACRES": 204.284054, "STATES": "MD,VA", "HU_10_DS": "0208011104", "HU_10_NAME": "Pocomoke River-Dividing Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 21 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CB-I", "HUC_10": "0208011104", "UNITACRES": 28797.195434, "STATES": "MD,VA", "HU_10_DS": "0208011105", "HU_10_NAME": "Pocomoke River-Pitts Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 3 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CB-J", "HUC_10": "0208011105", "UNITACRES": 12010.369100, "STATES": "MD,VA", "HU_10_DS": "0208011107", "HU_10_NAME": "Pocomoke Sound-Marumsco Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 68 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CB-K", "HUC_10": "0208011106", "UNITACRES": 62511.958979, "STATES": "VA", "HU_10_DS": "0208011107", "HU_10_NAME": "Pocomoke Sound-Messongo Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "F", "PC_10_WATE": 29 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CB-L", "HUC_10": "0208011107", "UNITACRES": 83003.845761, "STATES": "MD,VA", "HU_10_DS": "0208010100", "HU_10_NAME": "Pocomoke Sound-Deep Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "W", "PC_10_WATE": 68 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CB-M", "HUC_10": "0208011108", "UNITACRES": 91620.394788, "STATES": "VA", "HU_10_DS": "0208010100", "HU_10_NAME": "Lower Chesapeake Bay-Pungoteague Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "F", "PC_10_WATE": 28 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CB-N", "HUC_10": "0208011109", "UNITACRES": 54913.289587, "STATES": "VA", "HU_10_DS": "0208010100", "HU_10_NAME": "Lower Chesapeake Bay-Cherrystone Inlet", "HU_10_MOD": "NM", "HU_10_TYPE": "F", "PC_10_WATE": 30 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CB-O", "HUC_10": "0208010100", "UNITACRES": 684864.632508, "STATES": "MD,VA", "HU_10_DS": "0204030405", "HU_10_NAME": "Lower Chesapeake Bay", "HU_10_MOD": "NM", "HU_10_TYPE": "W", "PC_10_WATE": 100 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CL-A", "HUC_10": "0301020301", "UNITACRES": 58291.388794, "STATES": "NC,VA", "HU_10_DS": "0301020302", "HU_10_NAME": "Somerton Creek", "HU_10_MOD": "OT", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CL-B", "HUC_10": "0301020302", "UNITACRES": 1253.919410, "STATES": "NC,VA", "HU_10_DS": "0301020306", "HU_10_NAME": "Chowan River-Sarem Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CL-C", "HUC_10": "0301020305", "UNITACRES": 3190.840882, "STATES": "NC,VA", "HU_10_DS": "0301020306", "HU_10_NAME": "Bennetts Creek-Merchants Millpond", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CM-A", "HUC_10": "0301020401", "UNITACRES": 66876.770890, "STATES": "VA", "HU_10_DS": "0301020403", "HU_10_NAME": "South Meherrin River-Middle Meherrin River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CM-B", "HUC_10": "0301020402", "UNITACRES": 98395.877553, "STATES": "VA", "HU_10_DS": "0301020403", "HU_10_NAME": "North Meherrin River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CM-C", "HUC_10": "0301020403", "UNITACRES": 80921.332377, "STATES": "VA", "HU_10_DS": "0301020404", "HU_10_NAME": "Meherrin River-Flat Rock Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CM-D", "HUC_10": "0301020404", "UNITACRES": 117729.077121, "STATES": "VA", "HU_10_DS": "0301020406", "HU_10_NAME": "Meherrin River-Stony Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CM-E", "HUC_10": "0301020405", "UNITACRES": 54280.870463, "STATES": "VA", "HU_10_DS": "0301020406", "HU_10_NAME": "Great Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CM-F", "HUC_10": "0301020406", "UNITACRES": 99242.786781, "STATES": "VA", "HU_10_DS": "0301020409", "HU_10_NAME": "Meherrin River-Reedy Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CM-G", "HUC_10": "0301020407", "UNITACRES": 123453.722406, "STATES": "NC,VA", "HU_10_DS": "0301020409", "HU_10_NAME": "Fontaine Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CM-H", "HUC_10": "0301020409", "UNITACRES": 73049.693704, "STATES": "NC,VA", "HU_10_DS": "0301020302", "HU_10_NAME": "Meherrin River-Tarrara Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CU-A", "HUC_10": "0301020101", "UNITACRES": 120313.035173, "STATES": "VA", "HU_10_DS": "0301020102", "HU_10_NAME": "Nottoway River-Little Nottoway River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CU-B", "HUC_10": "0301020102", "UNITACRES": 80229.392636, "STATES": "VA", "HU_10_DS": "0301020103", "HU_10_NAME": "Nottoway River-Tommeheton Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CU-C", "HUC_10": "0301020103", "UNITACRES": 98514.604810, "STATES": "VA", "HU_10_DS": "0301020104", "HU_10_NAME": "Nottoway River-Sturgeon Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CU-D", "HUC_10": "0301020104", "UNITACRES": 74722.988203, "STATES": "VA", "HU_10_DS": "0301020108", "HU_10_NAME": "Nottoway River-Buckskin Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CU-E", "HUC_10": "0301020105", "UNITACRES": 82449.540042, "STATES": "VA", "HU_10_DS": "0301020106", "HU_10_NAME": "Stony Creek-Butterwood Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CU-F", "HUC_10": "0301020106", "UNITACRES": 74636.018189, "STATES": "VA", "HU_10_DS": "0301020108", "HU_10_NAME": "Stony Creek-Sappony Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CU-G", "HUC_10": "0301020107", "UNITACRES": 80885.974759, "STATES": "VA", "HU_10_DS": "0301020108", "HU_10_NAME": "Rowanty Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CU-H", "HUC_10": "0301020108", "UNITACRES": 72161.965194, "STATES": "VA", "HU_10_DS": "0301020109", "HU_10_NAME": "Nottoway River-Joseph Swamp", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CU-I", "HUC_10": "0301020109", "UNITACRES": 97968.649099, "STATES": "VA", "HU_10_DS": "0301020112", "HU_10_NAME": "Nottoway River-Raccoon Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CU-J", "HUC_10": "0301020110", "UNITACRES": 139829.409583, "STATES": "VA", "HU_10_DS": "0301020112", "HU_10_NAME": "Three Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CU-K", "HUC_10": "0301020111", "UNITACRES": 69172.542278, "STATES": "VA", "HU_10_DS": "0301020112", "HU_10_NAME": "Assamoosick Swamp", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CU-L", "HUC_10": "0301020112", "UNITACRES": 111251.928463, "STATES": "NC,VA", "HU_10_DS": "0301020302", "HU_10_NAME": "Nottoway River-Mill Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CU-M", "HUC_10": "0301020201", "UNITACRES": 77286.683955, "STATES": "VA", "HU_10_DS": "0301020202", "HU_10_NAME": "Blackwater Swamp", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CU-N", "HUC_10": "0301020202", "UNITACRES": 104743.085014, "STATES": "VA", "HU_10_DS": "0301020203", "HU_10_NAME": "Blackwater River-Cypress Swamp", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CU-O", "HUC_10": "0301020203", "UNITACRES": 120513.044393, "STATES": "VA", "HU_10_DS": "0301020205", "HU_10_NAME": "Blackwater River-Rattlesnake Swamp", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CU-P", "HUC_10": "0301020204", "UNITACRES": 66090.823297, "STATES": "VA", "HU_10_DS": "0301020205", "HU_10_NAME": "Seacock Swamp", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "CU-Q", "HUC_10": "0301020205", "UNITACRES": 105055.483720, "STATES": "NC,VA", "HU_10_DS": "0301020302", "HU_10_NAME": "Blackwater River-Kingsale Swamp", "HU_10_MOD": "OT", "HU_10_TYPE": "S", "PC_10_WATE": 2 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JA-A", "HUC_10": "0208020701", "UNITACRES": 74184.459138, "STATES": "VA", "HU_10_DS": "0208020702", "HU_10_NAME": "Buffalo Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JA-B", "HUC_10": "0208020702", "UNITACRES": 125571.940746, "STATES": "VA", "HU_10_DS": "0208020704", "HU_10_NAME": "Appomattox River-Vaughans Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JA-C", "HUC_10": "0208020703", "UNITACRES": 99204.524187, "STATES": "VA", "HU_10_DS": "0208020704", "HU_10_NAME": "Bush River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JA-D", "HUC_10": "0208020704", "UNITACRES": 101656.923190, "STATES": "VA", "HU_10_DS": "0208020706", "HU_10_NAME": "Appomattox River-Big Guinea Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JA-E", "HUC_10": "0208020705", "UNITACRES": 90385.557349, "STATES": "VA", "HU_10_DS": "0208020706", "HU_10_NAME": "Flat Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JA-F", "HUC_10": "0208020706", "UNITACRES": 112185.960755, "STATES": "VA", "HU_10_DS": "0208020708", "HU_10_NAME": "Appomattox River-Rocky Ford Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JA-G", "HUC_10": "0208020707", "UNITACRES": 131387.933889, "STATES": "VA", "HU_10_DS": "0208020708", "HU_10_NAME": "Deep Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JA-H", "HUC_10": "0208020708", "UNITACRES": 119255.633511, "STATES": "VA", "HU_10_DS": "0208020710", "HU_10_NAME": "Appomattox River-Lake Chesdin", "HU_10_MOD": "DM", "HU_10_TYPE": "S", "PC_10_WATE": 4 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JA-I", "HUC_10": "0208020709", "UNITACRES": 116348.372620, "STATES": "VA", "HU_10_DS": "0208020710", "HU_10_NAME": "Swift Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 2 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JA-J", "HUC_10": "0208020710", "UNITACRES": 60391.937254, "STATES": "VA", "HU_10_DS": "0208020602", "HU_10_NAME": "Appomattox River-Ashton Creek", "HU_10_MOD": "DM", "HU_10_TYPE": "S", "PC_10_WATE": 3 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JL-A", "HUC_10": "0208020601", "UNITACRES": 151456.488483, "STATES": "VA", "HU_10_DS": "0208020602", "HU_10_NAME": "James River-Falling Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 4 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JL-B", "HUC_10": "0208020602", "UNITACRES": 102322.167901, "STATES": "VA", "HU_10_DS": "0208020603", "HU_10_NAME": "James River-Herring Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 11 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JL-C", "HUC_10": "0208020603", "UNITACRES": 72745.594065, "STATES": "VA", "HU_10_DS": "0208020607", "HU_10_NAME": "James River-Upper Chippokes Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 11 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JL-D", "HUC_10": "0208020604", "UNITACRES": 68063.663753, "STATES": "VA", "HU_10_DS": "0208020605", "HU_10_NAME": "Upper Chickahominy River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JL-E", "HUC_10": "0208020605", "UNITACRES": 126170.194407, "STATES": "VA", "HU_10_DS": "0208020606", "HU_10_NAME": "Middle Chickahominy River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 2 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JL-F", "HUC_10": "0208020606", "UNITACRES": 106348.674432, "STATES": "VA", "HU_10_DS": "0208020607", "HU_10_NAME": "Lower Chickahominy River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 9 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JL-G", "HUC_10": "0208020607", "UNITACRES": 83663.870360, "STATES": "VA", "HU_10_DS": "0208020608", "HU_10_NAME": "James River-Powhatan Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 28 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JL-H", "HUC_10": "0208020608", "UNITACRES": 73056.151522, "STATES": "VA", "HU_10_DS": "0208020609", "HU_10_NAME": "James River-Lawnes Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 46 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JL-I", "HUC_10": "0208020609", "UNITACRES": 138635.815941, "STATES": "VA", "HU_10_DS": "0208020803", "HU_10_NAME": "James River-Pagan River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 24 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JL-J", "HUC_10": "0208020801", "UNITACRES": 143711.019518, "STATES": "VA", "HU_10_DS": "0208020803", "HU_10_NAME": "Nansemond River", "HU_10_MOD": "DD", "HU_10_TYPE": "S", "PC_10_WATE": 9 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JL-K", "HUC_10": "0208020802", "UNITACRES": 128748.908881, "STATES": "VA", "HU_10_DS": "0208020803", "HU_10_NAME": "Elizabeth River", "HU_10_MOD": "DD\/IT", "HU_10_TYPE": "S", "PC_10_WATE": 8 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JL-L", "HUC_10": "0208020803", "UNITACRES": 50849.962078, "STATES": "VA", "HU_10_DS": "0208010100", "HU_10_NAME": "Hampton Roads", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 53 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JM-A", "HUC_10": "0208020301", "UNITACRES": 63023.472165, "STATES": "VA", "HU_10_DS": "0208020303", "HU_10_NAME": "James River-Reed Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JM-B", "HUC_10": "0208020302", "UNITACRES": 68387.351681, "STATES": "VA", "HU_10_DS": "0208020303", "HU_10_NAME": "Pedlar River", "HU_10_MOD": "DM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JM-C", "HUC_10": "0208020303", "UNITACRES": 142827.707254, "STATES": "VA", "HU_10_DS": "0208020304", "HU_10_NAME": "James River-Harris Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 3 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JM-D", "HUC_10": "0208020304", "UNITACRES": 128647.797977, "STATES": "VA", "HU_10_DS": "0208020308", "HU_10_NAME": "James River-Wreck Island Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 2 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JM-E", "HUC_10": "0208020305", "UNITACRES": 113309.972204, "STATES": "VA", "HU_10_DS": "0208020307", "HU_10_NAME": "Upper Tye River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JM-F", "HUC_10": "0208020306", "UNITACRES": 98256.049331, "STATES": "VA", "HU_10_DS": "0208020307", "HU_10_NAME": "Buffalo River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JM-G", "HUC_10": "0208020307", "UNITACRES": 56014.095515, "STATES": "VA", "HU_10_DS": "0208020308", "HU_10_NAME": "Lower Tye River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JM-H", "HUC_10": "0208020308", "UNITACRES": 90425.282441, "STATES": "VA", "HU_10_DS": "0208020311", "HU_10_NAME": "James River-David Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 3 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JM-I", "HUC_10": "0208020309", "UNITACRES": 92919.282765, "STATES": "VA", "HU_10_DS": "0208020310", "HU_10_NAME": "Upper Rockfish River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JM-J", "HUC_10": "0208020310", "UNITACRES": 65459.252355, "STATES": "VA", "HU_10_DS": "0208020311", "HU_10_NAME": "Lower Rockfish River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JM-K", "HUC_10": "0208020311", "UNITACRES": 74533.265182, "STATES": "VA", "HU_10_DS": "0208020315", "HU_10_NAME": "James River-Ballinger Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 2 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JM-L", "HUC_10": "0208020312", "UNITACRES": 88182.581736, "STATES": "VA", "HU_10_DS": "0208020315", "HU_10_NAME": "Hardware River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JM-M", "HUC_10": "0208020313", "UNITACRES": 96488.765653, "STATES": "VA", "HU_10_DS": "0208020314", "HU_10_NAME": "Upper Slate River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JM-N", "HUC_10": "0208020314", "UNITACRES": 60503.824749, "STATES": "VA", "HU_10_DS": "0208020315", "HU_10_NAME": "Lower Slate River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JM-O", "HUC_10": "0208020315", "UNITACRES": 55891.575074, "STATES": "VA", "HU_10_DS": "0208020504", "HU_10_NAME": "James River-Bear Garden Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 2 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JM-P", "HUC_10": "0208020501", "UNITACRES": 72105.764889, "STATES": "VA", "HU_10_DS": "0208020504", "HU_10_NAME": "Byrd Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JM-Q", "HUC_10": "0208020502", "UNITACRES": 112744.463293, "STATES": "VA", "HU_10_DS": "0208020503", "HU_10_NAME": "Upper Willis River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JM-R", "HUC_10": "0208020503", "UNITACRES": 65475.108097, "STATES": "VA", "HU_10_DS": "0208020504", "HU_10_NAME": "Lower Willis River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JM-S", "HUC_10": "0208020504", "UNITACRES": 102958.651317, "STATES": "VA", "HU_10_DS": "0208020505", "HU_10_NAME": "James River-Deep Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 2 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JM-T", "HUC_10": "0208020505", "UNITACRES": 102270.422901, "STATES": "VA", "HU_10_DS": "0208020506", "HU_10_NAME": "James River-Lickinghole Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 4 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JM-U", "HUC_10": "0208020506", "UNITACRES": 149172.756285, "STATES": "VA", "HU_10_DS": "0208020601", "HU_10_NAME": "James River-Tuckahoe Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 2 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JR-A", "HUC_10": "0208020401", "UNITACRES": 112954.455286, "STATES": "VA", "HU_10_DS": "0208020402", "HU_10_NAME": "Mechums River-Moormans River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JR-B", "HUC_10": "0208020402", "UNITACRES": 58239.197918, "STATES": "VA", "HU_10_DS": "0208020404", "HU_10_NAME": "South Fork Rivanna River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JR-C", "HUC_10": "0208020403", "UNITACRES": 113227.388611, "STATES": "VA", "HU_10_DS": "0208020404", "HU_10_NAME": "North Fork Rivanna River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JR-D", "HUC_10": "0208020404", "UNITACRES": 123533.744330, "STATES": "VA", "HU_10_DS": "0208020405", "HU_10_NAME": "Rivanna River-Mechunk Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JR-E", "HUC_10": "0208020405", "UNITACRES": 83629.002981, "STATES": "VA", "HU_10_DS": "0208020504", "HU_10_NAME": "Rivanna River-Cunningham Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JU-A", "HUC_10": "0208020101", "UNITACRES": 101385.374122, "STATES": "VA", "HU_10_DS": "0208020102", "HU_10_NAME": "Upper Jackson River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JU-B", "HUC_10": "0208020102", "UNITACRES": 119286.389100, "STATES": "VA", "HU_10_DS": "0208020105", "HU_10_NAME": "Middle Jackson River-Back Creek", "HU_10_MOD": "DM", "HU_10_TYPE": "S", "PC_10_WATE": 6 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JU-C", "HUC_10": "0208020103", "UNITACRES": 88453.444992, "STATES": "VA,WV", "HU_10_DS": "0208020105", "HU_10_NAME": "Dunlap Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JU-D", "HUC_10": "0208020104", "UNITACRES": 82847.703934, "STATES": "VA,WV", "HU_10_DS": "0208020105", "HU_10_NAME": "Potts Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JU-E", "HUC_10": "0208020105", "UNITACRES": 138502.491086, "STATES": "VA", "HU_10_DS": "0208020109", "HU_10_NAME": "Lower Jackson River", "HU_10_MOD": "DM\/KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JU-F", "HUC_10": "0208020106", "UNITACRES": 118867.455896, "STATES": "VA", "HU_10_DS": "0208020107", "HU_10_NAME": "Upper Cowpasture River", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JU-G", "HUC_10": "0208020107", "UNITACRES": 92535.445698, "STATES": "VA", "HU_10_DS": "0208020108", "HU_10_NAME": "Middle Cowpasture River", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JU-H", "HUC_10": "0208020108", "UNITACRES": 85271.830572, "STATES": "VA", "HU_10_DS": "0208020109", "HU_10_NAME": "Lower Cowpasture River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JU-I", "HUC_10": "0208020109", "UNITACRES": 55074.216455, "STATES": "VA", "HU_10_DS": "0208020114", "HU_10_NAME": "James River-Mill Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JU-J", "HUC_10": "0208020110", "UNITACRES": 71514.498318, "STATES": "VA", "HU_10_DS": "0208020112", "HU_10_NAME": "Upper Craig Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JU-K", "HUC_10": "0208020111", "UNITACRES": 67182.088900, "STATES": "VA", "HU_10_DS": "0208020112", "HU_10_NAME": "Johns Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JU-L", "HUC_10": "0208020112", "UNITACRES": 99401.658401, "STATES": "VA", "HU_10_DS": "0208020114", "HU_10_NAME": "Lower Craig Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JU-M", "HUC_10": "0208020113", "UNITACRES": 73910.645951, "STATES": "VA", "HU_10_DS": "0208020114", "HU_10_NAME": "Catawba Creek", "HU_10_MOD": "KA\/MA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JU-N", "HUC_10": "0208020114", "UNITACRES": 81959.219531, "STATES": "VA", "HU_10_DS": "0208020115", "HU_10_NAME": "James River-Looney Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JU-O", "HUC_10": "0208020115", "UNITACRES": 91593.416577, "STATES": "VA", "HU_10_DS": "0208020301", "HU_10_NAME": "James River-Cedar Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JU-P", "HUC_10": "0208020201", "UNITACRES": 150982.544370, "STATES": "VA", "HU_10_DS": "0208020202", "HU_10_NAME": "Calfpasture River", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JU-Q", "HUC_10": "0208020202", "UNITACRES": 114648.651463, "STATES": "VA", "HU_10_DS": "0208020203", "HU_10_NAME": "Upper Maury River-Little Calfpasture River", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 2 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JU-R", "HUC_10": "0208020203", "UNITACRES": 72050.970458, "STATES": "VA", "HU_10_DS": "0208020205", "HU_10_NAME": "Middle Maury River", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JU-S", "HUC_10": "0208020204", "UNITACRES": 75872.891031, "STATES": "VA", "HU_10_DS": "0208020205", "HU_10_NAME": "South River", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "JU-T", "HUC_10": "0208020205", "UNITACRES": 122853.160483, "STATES": "VA", "HU_10_DS": "0208020301", "HU_10_NAME": "Lower Maury River", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "NE-A", "HUC_10": "0505000101", "UNITACRES": 25111.288769, "STATES": "NC,TN,VA", "HU_10_DS": "0505000103", "HU_10_NAME": "North Fork New River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "NE-B", "HUC_10": "0505000103", "UNITACRES": 89625.511623, "STATES": "NC,VA", "HU_10_DS": "0505000104", "HU_10_NAME": "New River-Fox Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "NE-C", "HUC_10": "0505000104", "UNITACRES": 46207.391636, "STATES": "NC,VA", "HU_10_DS": "0505000105", "HU_10_NAME": "New River-Little River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 2 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "NE-D", "HUC_10": "0505000105", "UNITACRES": 71677.565947, "STATES": "VA", "HU_10_DS": "0505000106", "HU_10_NAME": "New River-Elk Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "NE-E", "HUC_10": "0505000106", "UNITACRES": 75094.339999, "STATES": "NC,VA", "HU_10_DS": "0505000107", "HU_10_NAME": "New River-Chestnut Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 3 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "NE-F", "HUC_10": "0505000107", "UNITACRES": 78601.915251, "STATES": "VA", "HU_10_DS": "0505000111", "HU_10_NAME": "New River-Crooked Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "NE-G", "HUC_10": "0505000108", "UNITACRES": 88885.983143, "STATES": "VA", "HU_10_DS": "0505000111", "HU_10_NAME": "Cripple Creek", "HU_10_MOD": "KA\/MA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "NE-H", "HUC_10": "0505000109", "UNITACRES": 88860.052074, "STATES": "VA", "HU_10_DS": "0505000110", "HU_10_NAME": "Upper Reed Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "NE-I", "HUC_10": "0505000110", "UNITACRES": 85105.465458, "STATES": "VA", "HU_10_DS": "0505000111", "HU_10_NAME": "Lower Reed Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "NE-J", "HUC_10": "0505000111", "UNITACRES": 53472.444434, "STATES": "VA", "HU_10_DS": "0505000115", "HU_10_NAME": "New River-Shorts Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 2 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "NE-K", "HUC_10": "0505000112", "UNITACRES": 53293.723983, "STATES": "VA", "HU_10_DS": "0505000115", "HU_10_NAME": "Little Reed Island Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "NE-L", "HUC_10": "0505000113", "UNITACRES": 66280.481974, "STATES": "VA", "HU_10_DS": "0505000114", "HU_10_NAME": "Upper Big Reed Island Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "NE-M", "HUC_10": "0505000114", "UNITACRES": 110589.582892, "STATES": "VA", "HU_10_DS": "0505000115", "HU_10_NAME": "Lower Big Reed Island Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "NE-N", "HUC_10": "0505000115", "UNITACRES": 113100.904151, "STATES": "VA", "HU_10_DS": "0505000118", "HU_10_NAME": "New River-Peak Creek", "HU_10_MOD": "DM\/KA", "HU_10_TYPE": "S", "PC_10_WATE": 5 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "NE-O", "HUC_10": "0505000116", "UNITACRES": 111742.166354, "STATES": "VA", "HU_10_DS": "0505000117", "HU_10_NAME": "Upper Little River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "NE-P", "HUC_10": "0505000117", "UNITACRES": 113288.823887, "STATES": "VA", "HU_10_DS": "0505000118", "HU_10_NAME": "Lower Little River", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "NE-Q", "HUC_10": "0505000118", "UNITACRES": 129575.025022, "STATES": "VA", "HU_10_DS": "0505000203", "HU_10_NAME": "New River-Back Creek", "HU_10_MOD": "DM\/KA", "HU_10_TYPE": "S", "PC_10_WATE": 2 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "NE-R", "HUC_10": "0505000201", "UNITACRES": 115206.307407, "STATES": "VA", "HU_10_DS": "0505000202", "HU_10_NAME": "Walker Creek-Kimberling Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "NE-S", "HUC_10": "0505000202", "UNITACRES": 84731.158266, "STATES": "VA", "HU_10_DS": "0505000203", "HU_10_NAME": "Walker Creek-Little Walker Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "NE-T", "HUC_10": "0505000203", "UNITACRES": 125158.277644, "STATES": "VA,WV", "HU_10_DS": "0505000206", "HU_10_NAME": "New River-Sinking Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "NE-U", "HUC_10": "0505000204", "UNITACRES": 72272.406806, "STATES": "VA", "HU_10_DS": "0505000205", "HU_10_NAME": "Wolf Creek-Hunting Camp Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "NE-V", "HUC_10": "0505000205", "UNITACRES": 80584.267337, "STATES": "VA", "HU_10_DS": "0505000206", "HU_10_NAME": "Wolf Creek-Clear Fork", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "NE-W", "HUC_10": "0505000206", "UNITACRES": 28245.468428, "STATES": "VA,WV", "HU_10_DS": "0505000210", "HU_10_NAME": "New River-East River", "HU_10_MOD": "KA\/OT", "HU_10_TYPE": "S", "PC_10_WATE": 3 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "NE-X", "HUC_10": "0505000209", "UNITACRES": 52357.422720, "STATES": "VA,WV", "HU_10_DS": "0505000210", "HU_10_NAME": "Bluestone River", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "NE-Y", "HUC_10": "0505000210", "UNITACRES": 4272.198886, "STATES": "VA,WV", "HU_10_DS": "0505000402", "HU_10_NAME": "New River-Bluestone Lake", "HU_10_MOD": "RS", "HU_10_TYPE": "S", "PC_10_WATE": 9 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PL-A", "HUC_10": "0207000802", "UNITACRES": 23786.176373, "STATES": "MD,VA,WV", "HU_10_DS": "0207000804", "HU_10_NAME": "Potomac River-Piney Run", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PL-B", "HUC_10": "0207000803", "UNITACRES": 59176.969381, "STATES": "VA", "HU_10_DS": "0207000804", "HU_10_NAME": "Catoctin Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PL-C", "HUC_10": "0207000804", "UNITACRES": 27255.844725, "STATES": "MD,VA", "HU_10_DS": "0207000809", "HU_10_NAME": "Potomac River-Tuscarora Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PL-D", "HUC_10": "0207000805", "UNITACRES": 107842.904633, "STATES": "VA", "HU_10_DS": "0207000807", "HU_10_NAME": "Upper Goose Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PL-E", "HUC_10": "0207000806", "UNITACRES": 62672.571147, "STATES": "VA", "HU_10_DS": "0207000807", "HU_10_NAME": "North Fork Goose Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PL-F", "HUC_10": "0207000807", "UNITACRES": 76690.674627, "STATES": "VA", "HU_10_DS": "0207000809", "HU_10_NAME": "Lower Goose Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 2 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PL-G", "HUC_10": "0207000809", "UNITACRES": 69741.334796, "STATES": "MD,VA", "HU_10_DS": "0207000810", "HU_10_NAME": "Potomac River-Broad Run", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PL-H", "HUC_10": "0207000810", "UNITACRES": 56586.780052, "STATES": "MD,VA", "HU_10_DS": "0207001001", "HU_10_NAME": "Potomac River-Difficult Run", "HU_10_MOD": "DM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PL-I", "HUC_10": "0207001001", "UNITACRES": 14891.114398, "STATES": "DC,MD,VA", "HU_10_DS": "0207001003", "HU_10_NAME": "Potomac River-Rock Creek", "HU_10_MOD": "DM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PL-J", "HUC_10": "0207001003", "UNITACRES": 63302.272742, "STATES": "DC,MD,VA", "HU_10_DS": "0207001008", "HU_10_NAME": "Potomac River-Cameron Run", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 3 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PL-K", "HUC_10": "0207001004", "UNITACRES": 59474.626660, "STATES": "VA", "HU_10_DS": "0207001008", "HU_10_NAME": "Pohick Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 4 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PL-L", "HUC_10": "0207001005", "UNITACRES": 88697.088270, "STATES": "VA", "HU_10_DS": "0207001008", "HU_10_NAME": "Broad Run", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PL-M", "HUC_10": "0207001006", "UNITACRES": 125378.113976, "STATES": "VA", "HU_10_DS": "0207001008", "HU_10_NAME": "Cedar Run", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PL-N", "HUC_10": "0207001007", "UNITACRES": 124038.040892, "STATES": "VA", "HU_10_DS": "0207001008", "HU_10_NAME": "Bull Run", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PL-O", "HUC_10": "0207001008", "UNITACRES": 80771.224326, "STATES": "MD,VA", "HU_10_DS": "0207001101", "HU_10_NAME": "Potomac River-Occoquan River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 9 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PL-P", "HUC_10": "0207001101", "UNITACRES": 66814.420856, "STATES": "MD,VA", "HU_10_DS": "0207001102", "HU_10_NAME": "Potomac River-Quantico Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 4 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PL-Q", "HUC_10": "0207001102", "UNITACRES": 123030.491274, "STATES": "MD,VA", "HU_10_DS": "0207001103", "HU_10_NAME": "Potomac River-Potomac Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 4 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PL-R", "HUC_10": "0207001103", "UNITACRES": 14507.907697, "STATES": "MD,VA", "HU_10_DS": "0207001110", "HU_10_NAME": "Potomac River-Nanjemoy Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PL-S", "HUC_10": "0207001106", "UNITACRES": 85295.575073, "STATES": "MD,VA", "HU_10_DS": "0207001110", "HU_10_NAME": "Potomac River-Machodoc Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "F", "PC_10_WATE": 4 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PL-T", "HUC_10": "0207001108", "UNITACRES": 139066.185608, "STATES": "MD,VA", "HU_10_DS": "0207001110", "HU_10_NAME": "Potomac River-Nomini Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "F", "PC_10_WATE": 11 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PL-U", "HUC_10": "0207001110", "UNITACRES": 2192.765864, "STATES": "MD,VA", "HU_10_DS": "0208010100", "HU_10_NAME": "Potomac River-0207001110", "HU_10_MOD": "NM", "HU_10_TYPE": "W", "PC_10_WATE": 99 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PS-A", "HUC_10": "0207000501", "UNITACRES": 108891.305186, "STATES": "VA", "HU_10_DS": "0207000503", "HU_10_NAME": "Upper Middle River", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PS-B", "HUC_10": "0207000502", "UNITACRES": 68729.805662, "STATES": "VA", "HU_10_DS": "0207000503", "HU_10_NAME": "Christians Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PS-C", "HUC_10": "0207000503", "UNITACRES": 61664.840919, "STATES": "VA", "HU_10_DS": "0207000506", "HU_10_NAME": "Lower Middle River", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PS-D", "HUC_10": "0207000504", "UNITACRES": 111682.059966, "STATES": "VA", "HU_10_DS": "0207000506", "HU_10_NAME": "Upper North River", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PS-E", "HUC_10": "0207000505", "UNITACRES": 76853.529801, "STATES": "VA", "HU_10_DS": "0207000506", "HU_10_NAME": "Dry River", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PS-F", "HUC_10": "0207000506", "UNITACRES": 96345.809416, "STATES": "VA", "HU_10_DS": "0207000508", "HU_10_NAME": "Lower North River", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PS-G", "HUC_10": "0207000507", "UNITACRES": 149894.383127, "STATES": "VA", "HU_10_DS": "0207000508", "HU_10_NAME": "South River", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PS-H", "HUC_10": "0207000508", "UNITACRES": 142758.046939, "STATES": "VA", "HU_10_DS": "0207000509", "HU_10_NAME": "South Fork Shenandoah River-Naked Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PS-I", "HUC_10": "0207000509", "UNITACRES": 139328.341596, "STATES": "VA", "HU_10_DS": "0207000510", "HU_10_NAME": "South Fork Shenandoah River-Hawksbill Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 2 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PS-J", "HUC_10": "0207000510", "UNITACRES": 113856.400190, "STATES": "VA", "HU_10_DS": "0207000701", "HU_10_NAME": "South Fork Shenandoah River-Gooney Run", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 2 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PS-K", "HUC_10": "0207000601", "UNITACRES": 122511.448719, "STATES": "VA,WV", "HU_10_DS": "0207000603", "HU_10_NAME": "North Fork Shenandoah River-Shoemaker River", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PS-L", "HUC_10": "0207000602", "UNITACRES": 67322.037503, "STATES": "VA", "HU_10_DS": "0207000603", "HU_10_NAME": "Smith Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PS-M", "HUC_10": "0207000603", "UNITACRES": 141586.815372, "STATES": "VA", "HU_10_DS": "0207000605", "HU_10_NAME": "North Fork Shenandoah River-Linville Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PS-N", "HUC_10": "0207000604", "UNITACRES": 72545.241545, "STATES": "VA", "HU_10_DS": "0207000605", "HU_10_NAME": "Stony Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PS-O", "HUC_10": "0207000605", "UNITACRES": 78341.756166, "STATES": "VA", "HU_10_DS": "0207000607", "HU_10_NAME": "North Fork Shenandoah River-Narrow Passage Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PS-P", "HUC_10": "0207000606", "UNITACRES": 100640.847580, "STATES": "VA", "HU_10_DS": "0207000607", "HU_10_NAME": "Cedar Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PS-Q", "HUC_10": "0207000607", "UNITACRES": 68067.733810, "STATES": "VA", "HU_10_DS": "0207000701", "HU_10_NAME": "North Fork Shenandoah River-Passage Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PS-R", "HUC_10": "0207000701", "UNITACRES": 105209.991813, "STATES": "VA", "HU_10_DS": "0207000702", "HU_10_NAME": "Shenandoah River-Crooked Run", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PS-S", "HUC_10": "0207000702", "UNITACRES": 53385.452093, "STATES": "VA,WV", "HU_10_DS": "0207000703", "HU_10_NAME": "Shenandoah River-Long Marsh Run", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PS-T", "HUC_10": "0207000703", "UNITACRES": 508.198963, "STATES": "VA,WV", "HU_10_DS": "0207000802", "HU_10_NAME": "Shenandoah River-Bullskin Run", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PU-A", "HUC_10": "0207000101", "UNITACRES": 24020.759411, "STATES": "VA,WV", "HU_10_DS": "0207000103", "HU_10_NAME": "North Fork South Branch Potomac River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PU-B", "HUC_10": "0207000103", "UNITACRES": 37889.760222, "STATES": "VA,WV", "HU_10_DS": "0207000106", "HU_10_NAME": "Upper South Branch Potomac River", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PU-C", "HUC_10": "0207000105", "UNITACRES": 7111.848067, "STATES": "VA,WV", "HU_10_DS": "0207000106", "HU_10_NAME": "South Fork South Branch Potomac River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PU-D", "HUC_10": "0207000305", "UNITACRES": 35.445443, "STATES": "VA,WV", "HU_10_DS": "0207000307", "HU_10_NAME": "Lost River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PU-E", "HUC_10": "0207000402", "UNITACRES": 12954.798746, "STATES": "VA,WV", "HU_10_DS": "0207000405", "HU_10_NAME": "Sleepy Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PU-F", "HUC_10": "0207000404", "UNITACRES": 107329.795503, "STATES": "VA,WV", "HU_10_DS": "0207000405", "HU_10_NAME": "Back Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "PU-G", "HUC_10": "0207000409", "UNITACRES": 96898.290186, "STATES": "VA,WV", "HU_10_DS": "0207000411", "HU_10_NAME": "Opequon Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RA-A", "HUC_10": "0208010301", "UNITACRES": 79162.566146, "STATES": "VA", "HU_10_DS": "0208010302", "HU_10_NAME": "Rappahannock River-Thumb Run", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RA-B", "HUC_10": "0208010302", "UNITACRES": 84702.448137, "STATES": "VA", "HU_10_DS": "0208010306", "HU_10_NAME": "Rappahannock River-Carter Run", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RA-C", "HUC_10": "0208010303", "UNITACRES": 100345.349210, "STATES": "VA", "HU_10_DS": "0208010304", "HU_10_NAME": "Thornton River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RA-D", "HUC_10": "0208010304", "UNITACRES": 123913.764797, "STATES": "VA", "HU_10_DS": "0208010306", "HU_10_NAME": "Hazel River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RA-E", "HUC_10": "0208010305", "UNITACRES": 58267.139188, "STATES": "VA", "HU_10_DS": "0208010306", "HU_10_NAME": "Mountain Run", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RA-F", "HUC_10": "0208010306", "UNITACRES": 105097.926203, "STATES": "VA", "HU_10_DS": "0208010401", "HU_10_NAME": "Rappahannock River-Marsh Run", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RA-G", "HUC_10": "0208010307", "UNITACRES": 80796.075895, "STATES": "VA", "HU_10_DS": "0208010308", "HU_10_NAME": "Rapidan River-Conway River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RA-H", "HUC_10": "0208010308", "UNITACRES": 76561.441481, "STATES": "VA", "HU_10_DS": "0208010310", "HU_10_NAME": "Rapidan River-Blue Run", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RA-I", "HUC_10": "0208010309", "UNITACRES": 124241.819935, "STATES": "VA", "HU_10_DS": "0208010310", "HU_10_NAME": "Robinson River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RA-J", "HUC_10": "0208010310", "UNITACRES": 68346.935284, "STATES": "VA", "HU_10_DS": "0208010311", "HU_10_NAME": "Rapidan River-Cedar Run", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RA-K", "HUC_10": "0208010311", "UNITACRES": 94892.739182, "STATES": "VA", "HU_10_DS": "0208010401", "HU_10_NAME": "Rapidan River-Mine Run", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RA-L", "HUC_10": "0208010401", "UNITACRES": 103475.571036, "STATES": "VA", "HU_10_DS": "0208010402", "HU_10_NAME": "Rappahannock River-Massaponax Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RA-M", "HUC_10": "0208010402", "UNITACRES": 90703.875131, "STATES": "VA", "HU_10_DS": "0208010403", "HU_10_NAME": "Rappahannock River-Mill Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 3 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RA-N", "HUC_10": "0208010403", "UNITACRES": 121717.382022, "STATES": "VA", "HU_10_DS": "0208010404", "HU_10_NAME": "Rappahannock River-Occupacia Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 12 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RA-O", "HUC_10": "0208010404", "UNITACRES": 143720.736486, "STATES": "VA", "HU_10_DS": "0208010405", "HU_10_NAME": "Rappahannock River-Cat Point Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 8 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RA-P", "HUC_10": "0208010405", "UNITACRES": 87507.397689, "STATES": "VA", "HU_10_DS": "0208010406", "HU_10_NAME": "Rappahannock River-Totuskey Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 15 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RA-Q", "HUC_10": "0208010406", "UNITACRES": 90374.151138, "STATES": "VA", "HU_10_DS": "0208010407", "HU_10_NAME": "Rappahannock River-Lancaster Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 31 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RA-R", "HUC_10": "0208010407", "UNITACRES": 102296.640841, "STATES": "VA", "HU_10_DS": "0208010100", "HU_10_NAME": "Rappahannock River-Corrotoman River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 32 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RD-A", "HUC_10": "0301010301", "UNITACRES": 76637.507851, "STATES": "NC,VA", "HU_10_DS": "0301010303", "HU_10_NAME": "Dan River-Little Dan River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RD-B", "HUC_10": "0301010304", "UNITACRES": 153644.946976, "STATES": "NC,VA", "HU_10_DS": "0301010305", "HU_10_NAME": "Mayo River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RD-C", "HUC_10": "0301010305", "UNITACRES": 5721.678481, "STATES": "NC,VA", "HU_10_DS": "0301010309", "HU_10_NAME": "Dan River-Matrimony Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RD-D", "HUC_10": "0301010306", "UNITACRES": 137176.161064, "STATES": "VA", "HU_10_DS": "0301010307", "HU_10_NAME": "Upper Smith River", "HU_10_MOD": "DM", "HU_10_TYPE": "S", "PC_10_WATE": 3 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RD-E", "HUC_10": "0301010307", "UNITACRES": 67333.958224, "STATES": "VA", "HU_10_DS": "0301010308", "HU_10_NAME": "Middle Smith River", "HU_10_MOD": "DM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RD-F", "HUC_10": "0301010308", "UNITACRES": 141868.401016, "STATES": "NC,VA", "HU_10_DS": "0301010309", "HU_10_NAME": "Lower Smith River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RD-G", "HUC_10": "0301010309", "UNITACRES": 49810.375938, "STATES": "NC,VA", "HU_10_DS": "0301010310", "HU_10_NAME": "Dan River-Cascade Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 2 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RD-H", "HUC_10": "0301010310", "UNITACRES": 97933.142228, "STATES": "VA", "HU_10_DS": "0301010401", "HU_10_NAME": "Dan River-Wolf Island Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RD-I", "HUC_10": "0301010401", "UNITACRES": 52854.452078, "STATES": "NC,VA", "HU_10_DS": "0301010403", "HU_10_NAME": "Dan River-Hogans Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RD-J", "HUC_10": "0301010402", "UNITACRES": 280.507082, "STATES": "NC,VA", "HU_10_DS": "0301010403", "HU_10_NAME": "Country Line Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RD-K", "HUC_10": "0301010403", "UNITACRES": 114526.725306, "STATES": "NC,VA", "HU_10_DS": "0301010404", "HU_10_NAME": "Dan River-Birch Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RD-L", "HUC_10": "0301010404", "UNITACRES": 76782.776143, "STATES": "VA", "HU_10_DS": "0301010407", "HU_10_NAME": "Dan River-Lawsons Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RD-M", "HUC_10": "0301010501", "UNITACRES": 88695.843494, "STATES": "VA", "HU_10_DS": "0301010502", "HU_10_NAME": "Banister River-Cherrystone Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RD-N", "HUC_10": "0301010502", "UNITACRES": 148900.407570, "STATES": "VA", "HU_10_DS": "0301010504", "HU_10_NAME": "Banister River-Stinking River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RD-O", "HUC_10": "0301010503", "UNITACRES": 63496.748752, "STATES": "VA", "HU_10_DS": "0301010504", "HU_10_NAME": "Sandy Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RD-P", "HUC_10": "0301010504", "UNITACRES": 80831.430990, "STATES": "VA", "HU_10_DS": "0301010407", "HU_10_NAME": "Banister River-Terrible Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RD-Q", "HUC_10": "0301010405", "UNITACRES": 36.576139, "STATES": "NC,VA", "HU_10_DS": "0301010406", "HU_10_NAME": "Hyco Lake", "HU_10_MOD": "DM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RD-R", "HUC_10": "0301010406", "UNITACRES": 58324.682419, "STATES": "NC,VA", "HU_10_DS": "0301010407", "HU_10_NAME": "Hyco River", "HU_10_MOD": "DM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RD-S", "HUC_10": "0301010407", "UNITACRES": 60637.402251, "STATES": "NC,VA", "HU_10_DS": "0301010209", "HU_10_NAME": "Dan River\/John H Kerr Reservoir-Aarons Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 7 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RL-A", "HUC_10": "0301010208", "UNITACRES": 26781.700607, "STATES": "NC,VA", "HU_10_DS": "0301010209", "HU_10_NAME": "John H Kerr Reservoir-Grassy Creek", "HU_10_MOD": "RS", "HU_10_TYPE": "S", "PC_10_WATE": 13 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RL-B", "HUC_10": "0301010209", "UNITACRES": 50372.394028, "STATES": "NC,VA", "HU_10_DS": "0301010210", "HU_10_NAME": "Roanoke River\/John H Kerr Reservoir-Butcher Creek", "HU_10_MOD": "RS", "HU_10_TYPE": "S", "PC_10_WATE": 18 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RL-C", "HUC_10": "0301010210", "UNITACRES": 29408.763120, "STATES": "NC,VA", "HU_10_DS": "0301010602", "HU_10_NAME": "Roanoke River\/John H Kerr Reservoir-Nutbush Creek", "HU_10_MOD": "DM\/RS", "HU_10_TYPE": "S", "PC_10_WATE": 49 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RL-D", "HUC_10": "0301010601", "UNITACRES": 70498.973802, "STATES": "VA", "HU_10_DS": "0301010602", "HU_10_NAME": "Allen Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RL-E", "HUC_10": "0301010602", "UNITACRES": 72525.703820, "STATES": "NC,VA", "HU_10_DS": "0301010603", "HU_10_NAME": "Roanoke River\/Upper Lake Gaston", "HU_10_MOD": "DM\/RS", "HU_10_TYPE": "S", "PC_10_WATE": 3 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RL-F", "HUC_10": "0301010603", "UNITACRES": 55088.222854, "STATES": "NC,VA", "HU_10_DS": "0301010604", "HU_10_NAME": "Roanoke River\/Middle Lake Gaston", "HU_10_MOD": "RS", "HU_10_TYPE": "S", "PC_10_WATE": 6 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RL-G", "HUC_10": "0301010604", "UNITACRES": 17822.513495, "STATES": "NC,VA", "HU_10_DS": "0301010701", "HU_10_NAME": "Roanoke River\/Lower Lake Gaston-Roanoke R\/Roanoke Rapids Lake", "HU_10_MOD": "DM\/RS", "HU_10_TYPE": "S", "PC_10_WATE": 6 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RU-A", "HUC_10": "0301010101", "UNITACRES": 88685.016206, "STATES": "VA", "HU_10_DS": "0301010103", "HU_10_NAME": "South Fork Roanoke River", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RU-B", "HUC_10": "0301010102", "UNITACRES": 74024.855655, "STATES": "VA", "HU_10_DS": "0301010103", "HU_10_NAME": "North Fork Roanoke River", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RU-C", "HUC_10": "0301010103", "UNITACRES": 59394.315305, "STATES": "VA", "HU_10_DS": "0301010104", "HU_10_NAME": "Roanoke River-Mason Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RU-D", "HUC_10": "0301010104", "UNITACRES": 143472.032966, "STATES": "VA", "HU_10_DS": "0301010107", "HU_10_NAME": "Roanoke River-Tinker Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RU-E", "HUC_10": "0301010105", "UNITACRES": 104701.014186, "STATES": "VA", "HU_10_DS": "0301010106", "HU_10_NAME": "Upper Blackwater River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RU-F", "HUC_10": "0301010106", "UNITACRES": 73238.736612, "STATES": "VA", "HU_10_DS": "0301010107", "HU_10_NAME": "Lower Blackwater River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 10 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RU-G", "HUC_10": "0301010107", "UNITACRES": 106935.087739, "STATES": "VA", "HU_10_DS": "0301010113", "HU_10_NAME": "Roanoke River-Smith Mountain Lake", "HU_10_MOD": "DM", "HU_10_TYPE": "S", "PC_10_WATE": 12 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RU-H", "HUC_10": "0301010108", "UNITACRES": 132094.216295, "STATES": "VA", "HU_10_DS": "0301010110", "HU_10_NAME": "Upper Pigg River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RU-I", "HUC_10": "0301010109", "UNITACRES": 66088.549879, "STATES": "VA", "HU_10_DS": "0301010110", "HU_10_NAME": "Snow Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RU-J", "HUC_10": "0301010110", "UNITACRES": 52884.619587, "STATES": "VA", "HU_10_DS": "0301010113", "HU_10_NAME": "Lower Pigg River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RU-K", "HUC_10": "0301010111", "UNITACRES": 101781.929125, "STATES": "VA", "HU_10_DS": "0301010112", "HU_10_NAME": "Upper Goose Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RU-L", "HUC_10": "0301010112", "UNITACRES": 63064.670440, "STATES": "VA", "HU_10_DS": "0301010113", "HU_10_NAME": "Lower Goose Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RU-M", "HUC_10": "0301010113", "UNITACRES": 87797.772395, "STATES": "VA", "HU_10_DS": "0301010201", "HU_10_NAME": "Roanoke River-Leesville Lake", "HU_10_MOD": "DM", "HU_10_TYPE": "S", "PC_10_WATE": 4 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RU-N", "HUC_10": "0301010114", "UNITACRES": 154139.531621, "STATES": "VA", "HU_10_DS": "0301010115", "HU_10_NAME": "Upper Big Otter River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RU-O", "HUC_10": "0301010115", "UNITACRES": 93902.118779, "STATES": "VA", "HU_10_DS": "0301010201", "HU_10_NAME": "Lower Big Otter River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RU-P", "HUC_10": "0301010201", "UNITACRES": 138828.161998, "STATES": "VA", "HU_10_DS": "0301010204", "HU_10_NAME": "Roanoke River-Seneca Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 2 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RU-Q", "HUC_10": "0301010202", "UNITACRES": 151307.623197, "STATES": "VA", "HU_10_DS": "0301010204", "HU_10_NAME": "Falling River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RU-R", "HUC_10": "0301010203", "UNITACRES": 95465.688435, "STATES": "VA", "HU_10_DS": "0301010204", "HU_10_NAME": "Cub Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RU-S", "HUC_10": "0301010204", "UNITACRES": 124405.185509, "STATES": "VA", "HU_10_DS": "0301010206", "HU_10_NAME": "Roanoke River-Turnip Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RU-T", "HUC_10": "0301010205", "UNITACRES": 140370.915035, "STATES": "VA", "HU_10_DS": "0301010206", "HU_10_NAME": "Roanoke Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RU-U", "HUC_10": "0301010206", "UNITACRES": 86997.767465, "STATES": "VA", "HU_10_DS": "0301010207", "HU_10_NAME": "Roanoke River-Difficult Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 3 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "RU-V", "HUC_10": "0301010207", "UNITACRES": 77677.765342, "STATES": "VA", "HU_10_DS": "0301010209", "HU_10_NAME": "Roanoke River\/John H Kerr Reservoir-Bluestone Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 4 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "TC-A", "HUC_10": "0601020501", "UNITACRES": 143459.871227, "STATES": "VA", "HU_10_DS": "0601020503", "HU_10_NAME": "Clinch River-Indian Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "TC-B", "HUC_10": "0601020502", "UNITACRES": 79657.271427, "STATES": "VA", "HU_10_DS": "0601020503", "HU_10_NAME": "Little River", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "TC-C", "HUC_10": "0601020503", "UNITACRES": 85335.813894, "STATES": "VA", "HU_10_DS": "0601020504", "HU_10_NAME": "Clinch River-Big Cedar Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "TC-D", "HUC_10": "0601020504", "UNITACRES": 121141.137796, "STATES": "VA", "HU_10_DS": "0601020506", "HU_10_NAME": "Clinch River-Dumps Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "TC-E", "HUC_10": "0601020505", "UNITACRES": 64172.011014, "STATES": "VA", "HU_10_DS": "0601020506", "HU_10_NAME": "Guest River", "HU_10_MOD": "MA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "TC-F", "HUC_10": "0601020506", "UNITACRES": 138926.594590, "STATES": "VA", "HU_10_DS": "0601020508", "HU_10_NAME": "Clinch River-Stony Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "TC-G", "HUC_10": "0601020507", "UNITACRES": 85365.122964, "STATES": "VA", "HU_10_DS": "0601020508", "HU_10_NAME": "Copper Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "TC-H", "HUC_10": "0601020508", "UNITACRES": 87518.334280, "STATES": "TN,VA", "HU_10_DS": "0601020510", "HU_10_NAME": "Clinch River-North Fork Clinch River", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "TH-A", "HUC_10": "0601010201", "UNITACRES": 90092.141527, "STATES": "VA", "HU_10_DS": "0601010202", "HU_10_NAME": "South Fork Holston River-Rowland Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "TH-B", "HUC_10": "0601010202", "UNITACRES": 49450.382956, "STATES": "TN,VA", "HU_10_DS": "0601010204", "HU_10_NAME": "South Fork Holston River-Laurel Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "TH-C", "HUC_10": "0601010203", "UNITACRES": 154666.889251, "STATES": "VA", "HU_10_DS": "0601010204", "HU_10_NAME": "Middle Fork Holston River", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "TH-D", "HUC_10": "0601010204", "UNITACRES": 52023.654160, "STATES": "TN,VA", "HU_10_DS": "0601010206", "HU_10_NAME": "South Holston River-South Holston Lake", "HU_10_MOD": "DM\/KA", "HU_10_TYPE": "S", "PC_10_WATE": 3 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "TH-E", "HUC_10": "0601010205", "UNITACRES": 33354.992929, "STATES": "TN,VA", "HU_10_DS": "0601010206", "HU_10_NAME": "Beaver Creek", "HU_10_MOD": "KA\/RS", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "TH-F", "HUC_10": "0601010206", "UNITACRES": 8667.422448, "STATES": "TN,VA", "HU_10_DS": "0601010207", "HU_10_NAME": "South Fork Holston River-Boone Lake", "HU_10_MOD": "DM\/KA\/RS", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "TH-G", "HUC_10": "0601010207", "UNITACRES": 9105.482008, "STATES": "TN,VA", "HU_10_DS": "0601010401", "HU_10_NAME": "South Fork Holston River-Fort Patrick Henry Lake", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "TH-H", "HUC_10": "0601010101", "UNITACRES": 124925.063771, "STATES": "VA", "HU_10_DS": "0601010102", "HU_10_NAME": "North Fork Holston River-Laurel Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "TH-I", "HUC_10": "0601010102", "UNITACRES": 120619.638210, "STATES": "VA", "HU_10_DS": "0601010103", "HU_10_NAME": "North Fork Holston River-Tumbling Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 2 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "TH-J", "HUC_10": "0601010103", "UNITACRES": 121784.991266, "STATES": "TN,VA", "HU_10_DS": "0601010104", "HU_10_NAME": "North Fork Holston River-Abrams Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "TH-K", "HUC_10": "0601010104", "UNITACRES": 81534.119571, "STATES": "TN,VA", "HU_10_DS": "0601010401", "HU_10_NAME": "North Fork Holston River-Big Moccasin Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "TH-L", "HUC_10": "0601010401", "UNITACRES": 2.693144, "STATES": "TN,VA", "HU_10_DS": "0601010402", "HU_10_NAME": "Holston River-Big Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "TP-A", "HUC_10": "0601020601", "UNITACRES": 98201.698641, "STATES": "VA", "HU_10_DS": "0601020602", "HU_10_NAME": "Powell River-South Fork Powell River", "HU_10_MOD": "KA\/MA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "TP-B", "HUC_10": "0601020602", "UNITACRES": 87167.023418, "STATES": "VA", "HU_10_DS": "0601020603", "HU_10_NAME": "Powell River-North Fork Powell River", "HU_10_MOD": "KA\/MA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "TP-C", "HUC_10": "0601020603", "UNITACRES": 132722.319713, "STATES": "TN,VA", "HU_10_DS": "0601020604", "HU_10_NAME": "Powell River-Wallen Creek", "HU_10_MOD": "KA", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "TP-D", "HUC_10": "0601020604", "UNITACRES": 35156.834126, "STATES": "TN,VA", "HU_10_DS": "0601020511", "HU_10_NAME": "Powell River-Norris Lake", "HU_10_MOD": "KA\/RS", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "YA-A", "HUC_10": "0304010107", "UNITACRES": 2052.162615, "STATES": "NC,VA", "HU_10_DS": "0304010110", "HU_10_NAME": "Fisher River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "YA-B", "HUC_10": "0304010108", "UNITACRES": 73755.200854, "STATES": "NC,VA", "HU_10_DS": "0304010109", "HU_10_NAME": "Upper Ararat River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "YO-A", "HUC_10": "0208010601", "UNITACRES": 83755.294764, "STATES": "VA", "HU_10_DS": "0208010602", "HU_10_NAME": "Upper South Anna River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "YO-B", "HUC_10": "0208010602", "UNITACRES": 103062.998080, "STATES": "VA", "HU_10_DS": "0208010603", "HU_10_NAME": "Middle South Anna River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "YO-C", "HUC_10": "0208010603", "UNITACRES": 111756.730748, "STATES": "VA", "HU_10_DS": "0208010609", "HU_10_NAME": "Lower South Anna River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "YO-D", "HUC_10": "0208010604", "UNITACRES": 84873.156745, "STATES": "VA", "HU_10_DS": "0208010606", "HU_10_NAME": "North Anna River-Gold Mine Creek", "HU_10_MOD": "RS", "HU_10_TYPE": "S", "PC_10_WATE": 4 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "YO-E", "HUC_10": "0208010605", "UNITACRES": 78474.904891, "STATES": "VA", "HU_10_DS": "0208010606", "HU_10_NAME": "Pamunkey Creek", "HU_10_MOD": "RS", "HU_10_TYPE": "S", "PC_10_WATE": 2 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "YO-F", "HUC_10": "0208010606", "UNITACRES": 55148.768649, "STATES": "VA", "HU_10_DS": "0208010608", "HU_10_NAME": "North Anna River\/Lake Anna", "HU_10_MOD": "DM\/RS", "HU_10_TYPE": "S", "PC_10_WATE": 17 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "YO-G", "HUC_10": "0208010607", "UNITACRES": 75742.518409, "STATES": "VA", "HU_10_DS": "0208010608", "HU_10_NAME": "Little River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "YO-H", "HUC_10": "0208010608", "UNITACRES": 86060.157394, "STATES": "VA", "HU_10_DS": "0208010609", "HU_10_NAME": "North Anna River-Northeast Creek", "HU_10_MOD": "DM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "YO-I", "HUC_10": "0208010609", "UNITACRES": 89122.393271, "STATES": "VA", "HU_10_DS": "0208010610", "HU_10_NAME": "Upper Pamunkey River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "YO-J", "HUC_10": "0208010610", "UNITACRES": 103210.070092, "STATES": "VA", "HU_10_DS": "0208010611", "HU_10_NAME": "Middle Pamunkey River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "YO-K", "HUC_10": "0208010611", "UNITACRES": 70783.994727, "STATES": "VA", "HU_10_DS": "0208010701", "HU_10_NAME": "Lower Pamunkey River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 9 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "YO-L", "HUC_10": "0208010501", "UNITACRES": 106015.338760, "STATES": "VA", "HU_10_DS": "0208010502", "HU_10_NAME": "Poni River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "YO-M", "HUC_10": "0208010502", "UNITACRES": 114815.528893, "STATES": "VA", "HU_10_DS": "0208010503", "HU_10_NAME": "Mattaponi River-Matta River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "YO-N", "HUC_10": "0208010503", "UNITACRES": 74137.194751, "STATES": "VA", "HU_10_DS": "0208010505", "HU_10_NAME": "Mattaponi River-Polecat Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 1 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "YO-O", "HUC_10": "0208010504", "UNITACRES": 87720.520184, "STATES": "VA", "HU_10_DS": "0208010505", "HU_10_NAME": "Maracossic Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 0 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "YO-P", "HUC_10": "0208010505", "UNITACRES": 108216.833467, "STATES": "VA", "HU_10_DS": "0208010506", "HU_10_NAME": "Mattaponi River-Chapel Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 3 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "YO-Q", "HUC_10": "0208010506", "UNITACRES": 92101.139793, "STATES": "VA", "HU_10_DS": "0208010701", "HU_10_NAME": "Mattaponi River-Garnetts Creek", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 3 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "YO-R", "HUC_10": "0208010701", "UNITACRES": 93339.703084, "STATES": "VA", "HU_10_DS": "0208010702", "HU_10_NAME": "Upper York River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 15 }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "VAHU5": "YO-S", "HUC_10": "0208010702", "UNITACRES": 93456.516897, "STATES": "VA", "HU_10_DS": "0208010100", "HU_10_NAME": "Lower York River", "HU_10_MOD": "NM", "HU_10_TYPE": "S", "PC_10_WATE": 35 }, "geometry": null }
+
+]
+}
