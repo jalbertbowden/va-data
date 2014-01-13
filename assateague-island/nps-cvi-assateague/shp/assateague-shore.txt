@@ -1,0 +1,662 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Elizabeth Pendleton
+      Publication_Date: 2005
+      Title: asis_shore - Coastal Vulnrability (CVI) dataset for Assateague Island National Seashore
+      Edition: 1.1
+      Geospatial_Data_Presentation_Form: vector digital data
+      Series_Information:
+        Series_Name: Open-File Report
+        Issue_Identification: 2004-1040
+      Publication_Information:
+        Publication_Place: Woods Hole Science Center, Woods Hole, MA
+        Publisher: U.S. Geological Survey, Coastal and Marine Geology Program
+      Online_Linkage: http://coastalmap.marine.usgs.gov/GISdata/nps-cvi/asis/asis_shore.zip
+      Online_Linkage: http://woodshole.er.usgs.gov/project-pages/nps-cvi/parks/asis.htm
+      Online_Linkage: http://woodshole.er.usgs.gov/project-pages/nps-cvi/
+      Larger_Work_Citation:
+        Citation_Information:
+          Originator: Elizabeth A. Pendleton
+          Originator: E. Robert Thieler
+          Originator: S. Jeffress Williams
+          Publication_Date: 2004
+          Title: COASTAL VULNERABILITY ASSESSMENT OF ASSATEAGUE ISLAND NATIONAL SEASHORE (ASIS)TO SEA-LEVEL RISE
+          Edition: 1.0
+          Series_Information:
+            Series_Name: Open-File Report
+            Issue_Identification: 2004-1040
+          Publication_Information:
+            Publication_Place: Woods Hole Science Center, Woods Hole, MA
+            Publisher: U.S. Geological Survey, Coastal and Marine Geology Program
+          Online_Linkage: http://pubs.usgs.gov/of/2004/1040/
+  Description:
+    Abstract: A coastal vulnerability index (CVI) was used to map the relative vulnerability of the coast to future sea-level rise within Assateague Island National Seashore in Maryland and Virginia. The CVI ranks the following in terms of their physical contribution to sea-level rise-related coastal change: geomorphology, regional coastal slope, rate of relative sea-level rise, historical shoreline change rates, mean tidal range and mean significant wave height. The rankings for each input variable were combined and an index value calculated for 1-minute grid cells covering the park. The CVI highlights those regions where the physical effects of sea-level rise might be the greatest. This approach combines the coastal system's susceptibility to change with its natural ability to adapt to changing environmental conditions, yielding a quantitative, although relative, measure of the park's natural vulnerability to the effects of sea-level rise. The CVI and the data contained within this dataset provide an objective technique for evaluation and long-term planning by scientists and park managers.
+    Purpose: This shapefile contains geologic, physical process, and coastal vulnerability information for Assateague Island National Seashore collected by a number of organizations, and compiled by the U.S. Geological Survey, Woods Hole Science Center. This dataset allows the user to view variables that affect coastal vulnerability in a Geographic Information System.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 2004
+    Currentness_Reference: publication date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -75.404485
+      East_Bounding_Coordinate: -75.095680
+      North_Bounding_Coordinate: 38.325298
+      South_Bounding_Coordinate: 37.858662
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: General
+      Theme_Keyword: U.S. Geological Survey
+      Theme_Keyword: USGS
+      Theme_Keyword: Coastal and Marine Geology Program
+      Theme_Keyword: CMGP
+      Theme_Keyword: Woods Hole Science Center
+      Theme_Keyword: National Park Service
+      Theme_Keyword: NPS
+      Theme_Keyword: coastal vulnerability
+      Theme_Keyword: sea-level rise
+      Theme_Keyword: CVI
+      Theme_Keyword: coastal geomorphology
+      Theme_Keyword: shoreline change rate
+      Theme_Keyword: regional coastal slope
+      Theme_Keyword: regional sea-level rise rate
+      Theme_Keyword: mean significant wave height
+      Theme_Keyword: mean tidal range
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: oceans and estuaries
+      Theme_Keyword: geoscientificInformation
+      Theme_Keyword: environment
+    Place:
+      Place_Keyword_Thesaurus: General
+      Place_Keyword: Assateague Island National Seashore
+      Place_Keyword: Assateague Island
+      Place_Keyword: Maryland
+      Place_Keyword: Virginia
+      Place_Keyword: Northeast barrier islands
+      Place_Keyword: Chincoteague Bay
+      Place_Keyword: Ocean City Inlet
+      Place_Keyword: Delmarva Peninsula
+  Access_Constraints: None
+  Use_Constraints: Public domain data are freely redistributable with proper metadata and source attribution. Please recognize the U.S. Geological Survey (USGS) as the originator of this dataset.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: E. Robert Thieler
+        Contact_Organization: U.S. Geological Survey
+      Contact_Position: Research Geologist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Road
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+        Country: USA
+      Contact_Voice_Telephone: (508) 548-8700 x2350
+      Contact_Facsimile_Telephone: (508) 457-2310
+      Contact_Electronic_Mail_Address: rthieler@usgs.gov
+  Browse_Graphic:
+    Browse_Graphic_File_Name: http://coastalmap.marine.usgs.gov/GISdata/nps-cvi/asis/asis_cvi-thumb.gif
+    Browse_Graphic_File_Description: Thumbnail image showing data layer extent and Coastal Change Potential Index.
+    Browse_Graphic_File_Type: GIF
+  Browse_Graphic:
+    Browse_Graphic_File_Name: http://coastalmap.marine.usgs.gov/GISdata/nps-cvi/asis/asis_cvi.jpg
+    Browse_Graphic_File_Description: Image showing data layer extent and Coastal Change Potential Index.
+    Browse_Graphic_File_Type: JPEG
+  Data_Set_Credit: The U.S. Geological Survey must be referenced as the originator of the dataset in any future products or research derived from these data.
+  Native_Data_Set_Environment: Microsoft Windows 2000 Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 8.2.0.700
+  Cross_Reference:
+    Citation_Information:
+      Originator: Erika Hammar-Klose
+      Originator: E. Robert Thieler
+      Publication_Date: 2001
+      Title: Coastal Vulnerability to Sea-Level Rise: A prelminary Database for the U.S. Atlantic, Pacific, and Gulf of Mexico Coasts
+      Edition: 1.0
+      Series_Information:
+        Series_Name: Digital Data Series
+        Issue_Identification: 68
+      Publication_Information:
+        Publication_Place: Woods Hole Science Center, Woods Hole, MA
+        Publisher: U.S. Geological Survey, Coastal and Marine Geology Program
+      Online_Linkage: http://pubs.usgs.gov/dds/dds68/
+  Cross_Reference:
+    Citation_Information:
+      Originator: Robert A. Morton
+      Originator: Tara L. Miller
+      Originator: Laura J. Moore
+      Publication_Date: 2004
+      Title: National Assessment of Shoreline Change: Part 1, Historical Shoreline Changes and Associated Coastal Land Loss Along the U.S. Gulf of Mexico
+      Edition: 1.0
+      Series_Information:
+        Series_Name: Open-File Report
+        Issue_Identification: 1043
+      Publication_Information:
+        Publication_Place: Center for Coastal & Watershed Studies, St. Petersburg, FL
+        Publisher: U.S. Geological Survey, Coastal and Marine Geology Program
+      Online_Linkage: http://pubs.usgs.gov/of/2004/1043/
+  Cross_Reference:
+    Citation_Information:
+      Originator: Tara L. Miller
+      Originator: Robert A. Morton
+      Originator: Asbury H. Sallenger
+      Originator: Laura J. Moore
+      Publication_Date: 2004
+      Title: The National Assessment of Shoreline Change: A GIS Compilation of Vector Shorelines and Associated Shoreline Change Data for the U.S. Gulf of Mexico
+      Edition: 1.0
+      Series_Information:
+        Series_Name: Open-File Report
+        Issue_Identification: 1089
+      Publication_Information:
+        Publication_Place: Center for Coastal & Watershed Studies, St. Petersburg, FL
+        Publisher: U.S. Geological Survey, Coastal and Marine Geology Program
+      Online_Linkage: http://pubs.usgs.gov/of/2004/1089/
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: The attributes in this dataset are based on A Coastal Hazards Database for the U.S. Gulf Coast (Gornitz, V. and White, T. W. 1992. ORNL/CDIAC-60, NDP-043B. Oak Ridge National Laboratory, Oak Ridge, Tennessee) updated with data from more recent sources. The data has gone through a series of QA/QC procedures, and is therefore believed to accurately reflect the data gathered in the Coastal Vulnerability to Sea-Level Rise Study.
+  Logical_Consistency_Report: No additional checks for topological consistency were performed on this data.
+  Completeness_Report: This data set is part of a series of data sets that are published for coastal National Parks within the US and territories.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: none
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: none
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Oceanic and Atmospheric Administration NOAA
+          Originator: Strategic Environmental Assessments (SEA) Division
+          Originator: Office of Ocean Resources Conservation and Assessment (ORCA)
+          Publication_Date: Unknown
+          Publication_Time: 1988-1992
+          Title: NOAA's Medium Resolution Digital Vector Shoreline
+          Geospatial_Data_Presentation_Form: vector digital data
+          Series_Information:
+            Series_Name: NOAA's Medium Resolution Digital Vector Shoreline
+          Publication_Information:
+            Publication_Place: Silver Spring, Maryland
+            Publisher: NOAA
+          Online_Linkage: http://sposerver.nos.noaa.gov/projects/shoreline/shoreline.html
+      Source_Scale_Denominator: ~1:70,000
+      Type_of_Source_Media: disc
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1988
+            Ending_Date: 1992
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: NOAA's Medium Resolution Digital Vector Shoreline
+      Source_Contribution: NOAA's Medium Resolution Digital Vector Shoreline provided a basemap to which we could join data in 1 minute shore segments for each of the attributes: geomorphology, rate of shoreline change, regional coastal slope, rate of relative sea-level rise, mean significant wave height, mean tidal range, and coastal vulnerability index.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: NOAA's National Geophysical Data Center
+          Publication_Date: 2002
+          Publication_Time: Unknown
+          Title: NGDC Coastal Relief Model
+          Edition: volume 2
+          Geospatial_Data_Presentation_Form: raster digital data
+          Online_Linkage: http://www.ngdc.noaa.gov/mgg/coastal/coastal.html
+      Source_Scale_Denominator: 90-meter grid
+      Type_of_Source_Media: CD-ROM
+      Source_Citation_Abbreviation: NGDC Coastal Relief Model
+      Source_Contribution: The coastal relief model data provided a grid of topographic and bathymetric elevations extending 10 km landward and seaward of the present-day shoreline and were used to calculate regional coastal slope.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Tara Miller
+          Originator: Robert Morton
+          Publication_Date: Unpublished Material
+          Title: National Assessment of Shoreline Change Project
+          Online_Linkage: http://coastal.er.usgs.gov/shoreline-change/
+          Online_Linkage: http://www.mgs.md.gov/
+      Source_Scale_Denominator: unknown
+      Type_of_Source_Media: disc
+      Source_Citation_Abbreviation: USGS National Assessment of Coastal Change Program
+      Source_Contribution: Historical Shorelines for the Maryland and Virginia coast were provided by the National Assessment of Coastal Change Hazards Program. These shorelines were used to derive the rate of shoreline change variable
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Maryland Department of Natural Resources and the GIS Center at Radford University
+          Publication_Date: Unknown
+          Title: Orthophotos
+          Geospatial_Data_Presentation_Form: raster digital data
+          Online_Linkage: http://dnrweb.dnr.state.md.us/gis/data/data.asp
+          Online_Linkage: http://www.radford.edu/~geoserve/doqq/doqq_va_1_01.htm
+      Source_Scale_Denominator: 1-meter
+      Type_of_Source_Media: online
+      Source_Citation_Abbreviation: Orthophotos from the Maryland Department of Natural Resources and the GIS Center at Radford University
+      Source_Contribution: These aerial photos provided the basis for the interpretation of the geomorphology variable
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Chris Zervas
+          Publication_Date: 2001
+          Publication_Time: Unknown
+          Title: Sea Level Variations of the United States 1854-1999
+          Geospatial_Data_Presentation_Form: document
+          Online_Linkage: http://www.co-ops.nos.noaa.gov/publications/techrpt36doc.pdf
+      Source_Scale_Denominator: unknown
+      Type_of_Source_Media: paper
+      Source_Citation_Abbreviation: NOAA Technical Report NOS CO-OPS 36: Sea Level Variations of the United States 1854-1999
+      Source_Contribution: This report provided regional sea-level rise rates that were used to define the value of the sea-level rise rate variable
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: J.M. Hubertz
+          Originator: E.F. Thompson
+          Originator: H.V. Want
+          Publication_Date: 1996
+          Publication_Time: Unknown
+          Title: North Atlantic Region Wave Information Study Data  (Phase II)
+          Geospatial_Data_Presentation_Form: tabular digital data
+          Online_Linkage: http://frf.usace.army.mil/wis/
+      Source_Scale_Denominator: unknown
+      Type_of_Source_Media: disc
+      Source_Citation_Abbreviation: North Atlantic Region WIS Data
+      Source_Contribution: This dataset provided mean significant wave height values for the wave energy variable
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: NOAA/NOS CO-OPS
+          Publication_Date: Unknown
+          Title: NOAA/NOS CO-OPS Historical Water Level Station Index
+          Geospatial_Data_Presentation_Form: tabular digital data
+          Online_Linkage: http://www.co-ops.nos.noaa.gov/usmap.html
+      Source_Scale_Denominator: unknown
+      Type_of_Source_Media: online
+      Source_Citation_Abbreviation: NOAA/NOS CO-OPS Historical Water Level Station Index
+      Source_Contribution: The water level stations provided the values for the mean tidal range variable.
+    Process_Step:
+      Process_Description: The NOAA medium resolution vector shoreline was imported into ArcGIS then the shoreline was divided into 1 minute segments so that a field for each shoreline variable (geomorphology, rate of shoreline change, regional coastal slope, rate of relative sea-level rise, mean significant wave height, mean tidal range, and coastal vulnerability index) could be created, defined and associated with each shoreline segment.
+      Process_Date: 2004
+      Source_Produced_Citation_Abbreviation: asisshr.dbf
+      Source_Produced_Citation_Abbreviation: asisshr.shp
+      Source_Produced_Citation_Abbreviation: asisshr.shx
+      Source_Produced_Citation_Abbreviation: asisshr.prj
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: E. Robert Thieler
+            Contact_Organization: U.S. Geological Survey
+          Contact_Position: Research Geologist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 384 Woods Hole Road
+            City: Woods Hole
+            State_or_Province: MA
+            Postal_Code: 02543-1598
+            Country: USA
+          Contact_Voice_Telephone: (508) 548-8700 x2350
+          Contact_Facsimile_Telephone: (508) 457-2310
+          Contact_Electronic_Mail_Address: rthieler@usgs.gov
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: String
+      Point_and_Vector_Object_Count: 47
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.000000
+      Longitude_Resolution: 0.000000
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: asis_shore
+      Entity_Type_Definition: Shapefile Attribute Table
+      Entity_Type_Definition_Source: ESRI
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: ID
+      Attribute_Definition: segment name
+      Attribute_Definition_Source: U.S. Geological Survey (USGS)
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 46
+          Attribute_Units_of_Measure: integer count
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: GRIDCODE
+      Attribute_Definition: grid cell used to divide shoreline into 1-min segments
+      Attribute_Definition_Source: generated
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 21
+          Range_Domain_Maximum: 34
+          Attribute_Units_of_Measure: integer count
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: wave
+      Attribute_Definition: mean signficant wave height (meters)
+      Attribute_Definition_Source: U.S. Geological Survey (USGS)
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1.2
+          Range_Domain_Maximum: 1.3
+          Attribute_Units_of_Measure: meters
+          Attribute_Measurement_Resolution: .1
+    Attribute:
+      Attribute_Label: tide
+      Attribute_Definition: mean tidal range (meters)
+      Attribute_Definition_Source: U.S. Geological Survey (USGS)
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1.042
+          Range_Domain_Maximum: 1.042
+          Attribute_Units_of_Measure: meters
+          Attribute_Measurement_Resolution: .001
+    Attribute:
+      Attribute_Label: slr
+      Attribute_Definition: relative sea-level rise rate (mm/yr)
+      Attribute_Definition_Source: U.S. Geological Survey (USGS)
+      Attribute_Domain_Values:
+        Range_Domain:
+          Attribute_Units_of_Measure: mm/year
+          Attribute_Measurement_Resolution: .01
+    Attribute:
+      Attribute_Label: geo
+      Attribute_Definition: Geomorphology ranking
+      Attribute_Definition_Source: U.S. Geological Survey (USGS)
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 5
+          Attribute_Units_of_Measure: integer count
+          Attribute_Measurement_Resolution: 1
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: Very Low: Rocky cliffed coasts, Fjords
+          Enumerated_Domain_Value_Definition_Source: USGS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 2
+          Enumerated_Domain_Value_Definition: Low; Medium cliffs, Indented coasts
+          Enumerated_Domain_Value_Definition_Source: USGS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 3
+          Enumerated_Domain_Value_Definition: Medium; Low cliffs, Glacial drift, Alluvial plains
+          Enumerated_Domain_Value_Definition_Source: USGS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 4
+          Enumerated_Domain_Value_Definition: High; Cobble Beaches, Estuary, Lagoon
+          Enumerated_Domain_Value_Definition_Source: USGS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 5
+          Enumerated_Domain_Value_Definition: Very High; Barrier beaches, Sand beaches, Salt marsh, Mud flats, Deltas, Mangrove, Coral reefs
+          Enumerated_Domain_Value_Definition_Source: USGS
+    Attribute:
+      Attribute_Label: chan
+      Attribute_Definition: historical shoreline change rate (m/yr)
+      Attribute_Definition_Source: U.S. Geological Survey (USGS)
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -5.55
+          Range_Domain_Maximum: 30.3
+          Attribute_Units_of_Measure: meters per year
+          Attribute_Measurement_Resolution: .001
+    Attribute:
+      Attribute_Label: slope
+      Attribute_Definition: regional coastal slope (%)
+      Attribute_Definition_Source: U.S. Geological Survey (USGS)
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.358
+          Range_Domain_Maximum: 0.5355
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: .0001
+    Attribute:
+      Attribute_Label: rchan
+      Attribute_Definition: relative risk ranking for historical shoreline change
+      Attribute_Definition_Source: U.S. Geological Survey (USGS)
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 5
+          Attribute_Units_of_Measure: integer count
+          Attribute_Measurement_Resolution: 1
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: > + 2.0 m/year
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey (USGS)
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 2
+          Enumerated_Domain_Value_Definition: +1.0 - +2.0 m/year
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey (USGS)
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 3
+          Enumerated_Domain_Value_Definition: +1 - -1 m/year
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey (USGS)
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 4
+          Enumerated_Domain_Value_Definition: -1 - -2 m/year
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey (USGS)
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 5
+          Enumerated_Domain_Value_Definition: < -2 m/year
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey (USGS)
+    Attribute:
+      Attribute_Label: rslope
+      Attribute_Definition: relative risk ranking for regional coastal slope
+      Attribute_Definition_Source: U.S. Geological Survey (USGS)
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 5
+          Attribute_Units_of_Measure: integer count
+          Attribute_Measurement_Resolution: 1
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: > 1.20 %
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey (USGS)
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 2
+          Enumerated_Domain_Value_Definition: 1.20 - 0.90 %
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey (USGS)
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 3
+          Enumerated_Domain_Value_Definition: 0.90 - 0.60 %
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey (USGS)
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 4
+          Enumerated_Domain_Value_Definition: 0.60 - 0.30 %
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey (USGS)
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 5
+          Enumerated_Domain_Value_Definition: < 0.30 %
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey (USGS)
+    Attribute:
+      Attribute_Label: rslr
+      Attribute_Definition: relative risk ranking for relative sea-level rise
+      Attribute_Definition_Source: U.S. Geological Survey (USGS)
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 5
+          Attribute_Units_of_Measure: integer count
+          Attribute_Measurement_Resolution: 1
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: < 1.8 mm/year
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey (USGS)
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 2
+          Enumerated_Domain_Value_Definition: 1.81 - 2.5 mm/year
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey (USGS)
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 3
+          Enumerated_Domain_Value_Definition: 2.51 - 3.0 mm/year
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey (USGS)
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 4
+          Enumerated_Domain_Value_Definition: 3.01 - 3.4 mm/year
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey (USGS)
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 5
+          Enumerated_Domain_Value_Definition: > 3.4 mm/year
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey (USGS)
+    Attribute:
+      Attribute_Label: rwave
+      Attribute_Definition: relative risk ranking for mean significant wave height
+      Attribute_Definition_Source: U.S. Geological Survey (USGS)
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 5
+          Attribute_Units_of_Measure: integer count
+          Attribute_Measurement_Resolution: 1
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: < 0.55 m
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey (USGS)
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 2
+          Enumerated_Domain_Value_Definition: 0.55 - 0.85 m
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey (USGS)
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 3
+          Enumerated_Domain_Value_Definition: 0.85 - 1.05 m
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey (USGS)
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 4
+          Enumerated_Domain_Value_Definition: 1.05 - 1.25 m
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey (USGS)
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 5
+          Enumerated_Domain_Value_Definition: > 1.25 m
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey (USGS)
+    Attribute:
+      Attribute_Label: rtide
+      Attribute_Definition: relative risk ranking for mean tidal range
+      Attribute_Definition_Source: U.S. Geological Survey (USGS)
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 5
+          Attribute_Units_of_Measure: integer count
+          Attribute_Measurement_Resolution: 1
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: > 6 m
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey (USGS)
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 2
+          Enumerated_Domain_Value_Definition: 4 - 6 m
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey (USGS)
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 3
+          Enumerated_Domain_Value_Definition: 2 - 4 m
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey (USGS)
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 4
+          Enumerated_Domain_Value_Definition: 1- 2 m
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey (USGS)
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 5
+          Enumerated_Domain_Value_Definition: < 1 m
+          Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey (USGS)
+    Attribute:
+      Attribute_Label: RCVI
+      Attribute_Definition: Relative Coastal Vulnerability Index
+      Attribute_Definition_Source: U.S. Geological Survey (USGS)
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 14.61
+          Range_Domain_Maximum: 32.66
+          Attribute_Measurement_Resolution: .01
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological Survey
+        Contact_Person: E. Robert Thieler
+      Contact_Position: Research Geologist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Road
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+        Country: USA
+      Contact_Voice_Telephone: (508) 548-8700 x2350
+      Contact_Facsimile_Telephone: (508) 457-2310
+      Contact_Electronic_Mail_Address: rthieler@usgs.gov
+  Resource_Description: Downloadable Data
+  Distribution_Liability:
+    Although this derived data set has been used by the USGS, no warranty, expressed or implied, is made by the USGS as to the accuracy of the data and/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the USGS in the use of these data or related materials.
+    	
+    Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: Shapefile
+        Format_Specification: ESRI shapefile format
+        Format_Information_Content: Compressed archive file contain the shapefile elements and metadata.
+        File_Decompression_Technique: zip archive
+        Transfer_Size: 0.054
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://coastalmap.marine.usgs.gov/GISdata/nps-cvi/asis/asis_shore.zip
+          Access_Instructions: Data may be downloaded via the World Wide Web (WWW).
+    Fees: None
+  Technical_Prerequisites: The data are available in the ESRI shapefile format. The user must have Environmental Systems Research Institute's (ESRI) ArcView 3.0 or greater or ArcGIS software to read and process the data file. In lieu of Arcview, the user may utilize another GIS application package capable of importing the data. A free GIS data viewer, ArcExplorer, is available from the ESRI website at www.esri.com/software/arcexplorer/download4.html
+  Available_Time_Period:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 2005
+Metadata_Reference_Information:
+  Metadata_Date: 20050211
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological Survey
+        Contact_Person: E. Robert Thieler
+      Contact_Position: Research Geologist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Road
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+        Country: USA
+      Contact_Voice_Telephone: (508) 548-8700 x2350
+      Contact_Facsimile_Telephone: (508) 457-2310
+      Contact_Electronic_Mail_Address: rthieler@usgs.gov
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Access_Constraints: None
+  Metadata_Use_Constraints: None
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile
