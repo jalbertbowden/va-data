@@ -1,0 +1,295 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Assateague Island National Seashore
+      Publication_Date: 1999
+      Title: 1998 Assateague Island National Seashore NPS Boundary
+      Geospatial_Data_Presentation_Form: vector digital data
+      Online_Linkage: http://science.nature.nps.gov/nrdata
+  Description:
+    Abstract: This dataset is based off of the 1972 map boundary delineating the legal boundary of Assateague Island National Seashore (ASIS).This dataset originated from an ARC/INFO vector coverage.  It portrays updated shorelines as well as acreage, perimeter, area, and hectares of all parcels of land.
+    Purpose: To identify the current boundaries of Assateague Island National Seashore due to westward island migration over a 26 year period.  This dataset is used for legal purposes even though the 1972 file is the boundary that Congress approved and recognizes.
+    Supplemental_Information: This dataset is based off of the 1972 boundary file.  It was updated by taking precise measurements of the current (1998) shorelines and comparing them with the 1972 shorelines.  This procedure is explained in greater detail in the Process Steps.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 1998
+        Time_of_Day: unknown
+    Currentness_Reference: ground condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -75.418468
+      East_Bounding_Coordinate: -75.083559
+      North_Bounding_Coordinate: 38.327165
+      South_Bounding_Coordinate: 37.844997
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: ASIS
+      Theme_Keyword: Geographic Information System
+      Theme_Keyword: information resources
+      Theme_Keyword: data management
+      Theme_Keyword: Shoreline
+      Theme_Keyword: Congressional Boundary
+    Theme:
+      Theme_Keyword_Thesaurus: National Park Service Theme Category Thesaurus
+      Theme_Keyword: Boundary
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: boundaries
+    Place:
+      Place_Keyword_Thesaurus: Geographic Names Information System
+      Place_Keyword: North America
+      Place_Keyword: Maryland
+      Place_Keyword: Virginia
+      Place_Keyword: Worcester County
+      Place_Keyword: Accomack County
+    Place:
+      Place_Keyword_Thesaurus: National Park System Unit Name Thesaurus
+      Place_Keyword: Assateague Island National Seashore
+    Place:
+      Place_Keyword_Thesaurus: National Park System Unit Code Thesaurus
+      Place_Keyword: ASIS
+  Access_Constraints: None
+  Use_Constraints: None
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Assateague Island National Seashore
+      Contact_Position: GIS Specialist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 7206 National Seashore Lane
+        City: Berlin
+        State_or_Province: MD
+        Postal_Code: 21811
+        Country: USA
+      Contact_Voice_Telephone: 410-641-1443
+      Contact_Facsimile_Telephone: 410-641-1099
+      Contact_Electronic_Mail_Address: asis_gis@nps.gov
+      Hours_of_Service: Mon thru Fri 8:00am-4:30pm EST
+  Data_Set_Credit: GIS Specialist
+  Security_Information:
+    Security_Classification: Unclassified
+  Native_Data_Set_Environment: Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.722
+  Cross_Reference:
+    Citation_Information:
+      Originator: Assateague Island National Seashore
+      Publication_Date: 1999
+      Title: Metadata for 1998 Assateague Island National Seashore NPS Boundary
+      Geospatial_Data_Presentation_Form: vector digital data
+      Online_Linkage: http://nrdata.nps.gov/ASIS/ASISdata/ASIS_1998_NPS_Bndy.xml
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: unknown
+  Logical_Consistency_Report: No topology exists for this dataset
+  Completeness_Report: This dataset shows Assateague Island National Seashore Boundary as it existed in 1998.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: unknown
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: unknown
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Assateague Island National Seashore
+          Publication_Date: 1999
+          Title: 1998 Assateague Island National Seashore NPS Boundary
+          Geospatial_Data_Presentation_Form: vector digital data
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1999
+        Source_Currentness_Reference: ground condition
+    Process_Step:
+      Process_Description: The mdbound ArcInfo coverage polygon vertices were moved using ArcView 3.0a to reflect the changes in the island coastline between 1972 and 1998.  This step involved measuring the distance between the 1972 coastline and the 1998 coastline every 500 meters  from the northern tip south to the route 611 bridge and averaging the changes within the two sections of greatest change on the north end.  The sisbnd72 ArcInfo coverage was then copied to a new coverage and the vertices moved westward either 1) the average change in the coastline measured of the west coast of ASIS, or 2) to the Federal Channel, whichever was closer.  A few vertices were added to the asisbnd98 coverage to ensure that the new boundary remained parallel to the coastline at the areas of extreme change.
+      Process_Date: Unknown
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Assateague Island National Seashore
+          Contact_Position: GIS Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 7206 National Seashore Lane
+            City: Berlin
+            State_or_Province: MD
+            Postal_Code: 21811
+            Country: USA
+          Contact_Voice_Telephone: 410-641-1443
+          Contact_Facsimile_Telephone: 410-641-1099
+          Contact_Electronic_Mail_Address: asis_gis@nps.gov
+          Hours_of_Service: Mon thru Fri 8:00am-4:30pm EST
+    Process_Step:
+      Process_Description: Hawth's tools were used for creating Area and Perimeter in Metric.  The field calculator was used to determine Acreage and Hectares.
+      Process_Date: 200606
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Assateague Island National Seashore
+          Contact_Position: GIS Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 7206 National Seashore Lane
+            City: Berlin
+            State_or_Province: Maryland
+            Postal_Code: 21811
+            Country: United States
+          Contact_Voice_Telephone: 410-641-1443
+          Contact_Facsimile_Telephone: 410-641-1099
+          Contact_Electronic_Mail_Address: asis_gis@nps.gov
+          Hours_of_Service: 8:00am-4:30pm
+  Cloud_Cover: none
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: G-polygon
+      Point_and_Vector_Object_Count: 1
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Grid_Coordinate_System:
+        Grid_Coordinate_System_Name: Universal Transverse Mercator
+        Universal_Transverse_Mercator:
+          UTM_Zone_Number: 18
+          Transverse_Mercator:
+            Scale_Factor_at_Central_Meridian: 0.999600
+            Longitude_of_Central_Meridian: -75.000000
+            Latitude_of_Projection_Origin: 0.000000
+            False_Easting: 500000.000000
+            False_Northing: 0.000000
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: coordinate pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 0.000128
+          Ordinate_Resolution: 0.000128
+        Planar_Distance_Units: meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: ASIS_1998_NPS_Bndy
+      Entity_Type_Definition: Boundary of Assateague Island National Seashore
+      Entity_Type_Definition_Source: ASIS
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: AREA
+      Attribute_Definition: Area of feature in sqaure meters
+      Attribute_Definition_Source: ASIS
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 202140253.135
+          Range_Domain_Maximum: 202140253.135
+          Attribute_Units_of_Measure: square meters
+    Attribute:
+      Attribute_Label: PERIMETER
+      Attribute_Definition: Perimeter of feature in meters
+      Attribute_Definition_Source: ASIS
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 130102.284284
+          Range_Domain_Maximum: 130102.284284
+          Attribute_Units_of_Measure: meters
+    Attribute:
+      Attribute_Label: Acreage
+      Attribute_Definition: Acreage of Features
+      Attribute_Definition_Source: ASIS
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 49949.944266
+          Range_Domain_Maximum: 49949.944266
+          Attribute_Units_of_Measure: acres
+    Attribute:
+      Attribute_Label: Hectares
+      Attribute_Definition: Feature Measured in hectares
+      Attribute_Definition_Source: ASIS
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 20214.025314
+          Range_Domain_Maximum: 20214.025314
+          Attribute_Units_of_Measure: Hectares
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Assateague Island National Seashore
+      Contact_Position: GIS Specialist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 7206 National Seashore Lane
+        City: Berlin
+        State_or_Province: Maryland
+        Postal_Code: 21811
+        Country: United States
+      Contact_Voice_Telephone: 410-641-1443
+      Contact_Facsimile_Telephone: 410-641-1099
+      Contact_Electronic_Mail_Address: asis_gis@nps.gov
+      Hours_of_Service: 8:00am-4:30pm
+  Resource_Description: Downloadable Data
+  Distribution_Liability: The National Park Service shall not be held liable for improper or incorrect use of the data described and/or contained herein. These data and related graphics (i.e. "GIF or JPG" format files) are not legal documents and are not intended to be used as such. The information contained in these data is dynamic and may change over time. The data are not better than the original sources from which they were derived. It is the responsibility of the data user to use the data appropriately and consistent within the limitations of geospatial data in general and these data in particular. The related graphics are intended to aid the data user in acquiring relevant data; it is not appropriate to use the related graphics as data. The National Park Service gives no warranty, expressed or implied, as to the accuracy, reliability, or completeness of these data. It is strongly recommended that these data are directly acquired from an NPS server and not indirectly through other sources which may have changed the data in some way. Although these data have been processed successfully on computer systems at the National Park Service , no warranty expressed or implied is made regarding the utility of the data on other systems for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of the data and aggregate use with other data.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: shp
+        Transfer_Size: 0.017
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://nrdata.nps.gov/ASIS/ASISdata/ASIS_1998_NPS_Bndy.zip
+    Fees: None
+  Available_Time_Period:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: unknown
+        Time_of_Day: unknown
+Metadata_Reference_Information:
+  Metadata_Date: 20060626
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Assateague Island National Seashore
+      Contact_Position: GIS Specialist
+      Contact_Address:
+        Address_Type: mailing and physical address.
+        Address: 7206 National Seashore Lane
+        City: Berlin
+        State_or_Province: MD
+        Postal_Code: 21811
+        Country: USA
+      Contact_Voice_Telephone: 410-641-1443.
+      Contact_Facsimile_Telephone: 410-641-1099
+      Contact_Electronic_Mail_Address: asis_gis@nps.gov
+      Hours_of_Service: Mon thru Fri 8:00am-4:30pm EST
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Access_Constraints: none
+  Metadata_Use_Constraints: none
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile
+  Metadata_Extensions:
+    Online_Linkage: http://nrdata.nps.gov/profiles/nps_profile.xml
+    Profile_Name: NPS Metadata Profile
