@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>NOAA, National Geodetic Survey</origin>
+<pubdate>2004</pubdate>
+<title>Horizontal and Vertical Geodetic Control Data for the Unites States.</title>
+<edition>latest available</edition>
+<geoform>Diagram</geoform>
+<serinfo>
+<sername>N/A</sername>
+<issue>N/A</issue>
+</serinfo>
+<pubinfo>
+<pubplace>NOAA Campus, Silver Spring, MD</pubplace>
+<publish>NOAA, National Geodetic Survey</publish>
+</pubinfo>
+<othercit>
+Questions concerning this data
+may be addressed to
+NGS Information Services Branch
+EMail - ngs.software@noaa.gov
+Phone - 301-713-3242
+</othercit>
+<onlink>&lt;http://www.ngs.noaa.gov/cgi-bin/datasheet.prl&gt;</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>
+This data contains a set of geodetic control stations
+maintained by the National Geodetic Survey.
+Each geodetic control station in this dataset
+has either a precise Latitude/Longitude used
+for horizontal control or a precise Orthometric Height
+used for vertical control, or both.
+
+The National Geodetic Survey (NGS) serves
+as the Nation's depository for geodetic data. The NGS
+distributes geodetic data worldwide to a variety of
+users. These geodetic data include the final results
+of geodetic surveys, software programs to format,
+compute, verify, and adjust original survey
+observations or to convert values from one geodetic
+datum to another, and publications that describe how to
+obtain and use Geodetic Data products and services.
+</abstract>
+<purpose>
+Provide a base of reference for latitude, longitude and height
+throughout the United States.
+</purpose>
+</descript>
+<timeperd>
+<timeinfo>
+<sngdate>
+<caldate>20131215</caldate>
+</sngdate>
+</timeinfo>
+<current>retrieval date</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>Continually</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-75.2</westbc>
+<eastbc>-83.7</eastbc>
+<northbc>39.4</northbc>
+<southbc>36.5</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>geodesy</themekt>
+<themekey>
+NSRS, geodetic, horizontal control,
+vertical control, ellipsoid height, benchmark,
+orthometric height, latitude, longitude
+</themekey>
+</theme>
+<place>
+<placekt>None</placekt>
+<placekey>The geographic limits of USA including trust Territories</placekey>
+</place>
+<stratum>
+<stratkt>N/A</stratkt>
+<stratkey>N/A</stratkey>
+</stratum>
+<temporal>
+<tempkt>N/A</tempkt>
+<tempkey>N/A</tempkey>
+</temporal>
+</keywords>
+<accconst>
+Geodetic Data are in the public
+domain, not restricted from access or distribution.
+</accconst>
+<useconst>
+Not restricted; Geodetic Data,
+including software were developed and compiled with
+U.S. Government funding; no proprietary rights may be
+attached to them nor may they be sold to the U.S.
+Government as part of any procurement of ADP products
+or services.
+</useconst>
+<ptcontac>
+<cntinfo>
+<cntperp>
+<cntper>NGS Information Services Branch</cntper>
+<cntorg>NOAA, National Geodetic Survey</cntorg>
+</cntperp>
+<cntpos>IT Specialist</cntpos>
+<cntaddr>
+<addrtype>Mailing and Physical Address</addrtype>
+<address>
+SSMC2/9152
+1315 East-west Highway
+</address>
+<city>Silver Spring</city>
+<state>MD</state>
+<postal>20910</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>301-713-3242</cntvoice>
+<cntfax>301-713-4172</cntfax>
+<cntemail>ngs.software@noaa.gov</cntemail>
+<hours>8:30am to 5:00pm EST</hours>
+<cntinst>Prefer EMail</cntinst>
+</cntinfo>
+</ptcontac>
+<datacred>
+NOAA, National Geodetic Survey and
+cooperating organizations
+</datacred>
+<secinfo>
+<secsys>DOD</secsys>
+<secclass>unclassified</secclass>
+<sechandl>none</sechandl>
+</secinfo>
+<native>
+The data was extracted from NGS datasheets which
+are available at &lt;http://www.ngs.noaa.gov/cgi-bin/datasheet.prl&gt;
+The NGS datasheet is a text document which summarizes
+key geodetic information stored in the NGS database.
+</native>
+</idinfo>
+<dataqual>
+<attracc>
+<attraccr>
+Horizontal control stations (those with precise Latitude, Longitude)
+were established in accordance with FGDC publications
+"Standards and Specifications for Geodetic Accuracy Standards"
+and "Geometric Geodetic Accuracy Standards and Specifications for
+Using GPS Relative Positioning Techniques"
+The final Latitude, Longitude of these stations were determined
+by a least squares adjustments of the horizontal observations.
+Horizontal control station have Latitude, Longitudes displayed
+to 5 places and are identified by attribute POS_SRCE = 'ADJUSTED'
+
+Lesser quality Latitude, Longitudes may also be preset in the dataset.
+These are identified by a POS_SRCE attributes
+HD_HELD1, HD_HELD2, or SCALED.
+These lesser quality positions are described at:
+&lt;http://www.ngs.noaa.gov/cgi-bin/ds_lookup.prl?Item=SCALED&gt;
+
+Vertical control stations (those with precise Orthometric Heights)
+were established in accordance with FGDC publications
+"Standards and Specifications for Geodetic Accuracy Standards"
+The final Orthometric Height of these stations were in most cases
+determined by a least squares adjustments of the vertical observations
+but in some cases may have been keyed from old survey documents.
+Vertical control stations have Orthometric Heights displayed
+to 2 or 3 places and are identified by attribute ELEV_SRCE of
+ADJUSTED, ADJ UNCH, POSTED,READJUST,N HEIGHT,RESET,COMPUTED
+
+Lesser quality Orthometric Heights may also be preset in the dataset.
+These are identified by a ELEV_SRCE attributes
+GPS_OBS, VERT_ANG, H_LEVEL, VERTCON, SCALED.
+These lesser quality orthometric heights are described at:
+&lt;http://www.ngs.noaa.gov/cgi-bin/ds_lookup.prl?Item=SCALED&gt;
+
+IMPORTANT - Control stations do not always have both precise
+Latitude, Longitude AND precise Orthometric Height.
+A horizontal control station may have a orthometric
+height associated with it which is of non geodetic quality.
+These types of heights are displayed to 0, 1, or 2 decimal
+places.  Worst case being off by +/- 1 meter.
+LIKEWISE - A Vertical control station may have a Latitude, Longitude
+associated with it which is of non geodetic quality.
+These types of Latitude, Longitudes are displayed to 0, 1 or 2 decimal
+places.  Worst case being off by +/- 180 meter.
+Refer to &lt;http://www.ngs.noaa.gov/cgi-bin/ds_lookup.prl?Item=SCALED&gt;
+for a description of the various type of methods used in determining
+the Latitude, Longitude, and Orthometric Height.
+
+Attribute POS_CHECK and ELEV_CHECK indicate whether or not
+an observational check was made to the position and/or orthometric height.
+Care should be taken when using "No Check" coordinates.
+
+If attribute ELEV_SRCE = 'VERTCON' then the Orthometric Height was
+determined by applying NGS program VERTCON to an Old NGVD 29 height.
+In most areas VERTCON gives results to +/- 2 cm.
+See &lt;http://www.ngs.noaa.gov/TOOLS/Vertcon/vertcon.html&gt; for a more
+detailed explanation of VERTCON accuracy.
+
+Ellipsoid Heights are also present in the dataset.
+The ellipsoid heights consist of those determined using a precise
+geoid model, which are displayed to 2 decimal places and are considered
+good to +/- .005 meters, and those displayed to 1 decimal place and are considered
+only good to +/- .5 meters
+</attraccr>
+<qattracc>
+<attraccv>95 percent confidence level for geodetic quality data.</attraccv>
+<attracce>
+Geodetic Data are continuously being processed;
+their standards and specifications are being reviewed for next
+publication release. "Standards and Specifications for Geodetic Control Networks",
+1984 and "Geometric Geodetic Accuracy Standards
+and Specifications for Using GPS Relative
+Positioning Techniques," FGCS (formally FGCC)
+publication version 5.0 1989, are most current
+published documents.
+</attracce>
+</qattracc>
+</attracc>
+<logic>
+FGCS sponsored testing in cooperation with equipment
+manufacturers and National Institutes of Standards
+and Technology, Gaithersburg, MD 20850
+</logic>
+<complete>
+This dataset DOES NOT include destroyed marks.
+All other non-publishable marks are NOT included.
+Non-publishable criteria is available at
+&lt;http://www.ngs.noaa.gov/cgi-bin/craigs_lib.prl?HELP_NONPUB=1&gt;
+</complete>
+<posacc>
+<horizpa>
+<horizpar>
+The description of tests are explained in "Geometric
+Geodetic Accuracy Standards and Specifications For
+Using GPS Relative Positioning Techniques," FGCS
+(formally FGCC) publication version 5.0, 1989.
+</horizpar>
+<qhorizpa>
+<horizpav>.05 meters for highest order of accuracy</horizpav>
+<horizpae>
+Horizontal positional accuracy statements pertain
+to horizontal control stations only.
+i.e. Those with geodetic quality Latitude, Longitudes.
+Positional Accuracy explanation contained in
+"Geometric Geodetic Accuracy Standards and
+Specifications For Using GPS Relative Positioning
+Techniques," FGCS (formally FGCC) publication
+version 5.0, 1989, (See table 1, p6).
+with the exception of Order A and Order B which
+have an accuracy of as described at:
+&lt;http://www.ngs.noaa.gov/cgi-bin/ds_lookup.prl?Item=HORZ%20ORDER&gt;
+</horizpae>
+</qhorizpa>
+</horizpa>
+<vertacc>
+<vertaccr>
+The description of tests are explained in "Geometric Geodetic
+Accuracy Standards and Specifications for Using
+GPS Relative Positioning Techniques," FGCS
+(formally FGCC) publication version 5.0, 1989,
+(See table 1, p6).
+</vertaccr>
+<qvertpa>
+<vertaccv>.05 meter for highest order of accuracy</vertaccv>
+<vertacce>
+Vertical positional accuracy statements pertain
+to vertical control stations only.
+i.e. Those with geodetic quality Orthometric Heights.
+Orthometric Height accuracy explanation is contained in
+FGDC publication "Standards and Specifications for Geodetic Control Networks"
+with the exception of vertical control of class 0
+POSTED and READJUSTED Heights which are described at:
+&lt;http://www.ngs.noaa.gov/cgi-bin/ds_lookup.prl?Item=VERT%20ORDER&gt;
+
+Ellipsoid height accuracy explanation contained in
+"Geometric Geodetic Accuracy Standards and
+Specifications for Using GPS Relative Positioning
+Techniques," FGCS (formally FGCC) publication
+version 5.0, 1989. (see table 1, p6).
+The accuracies for ellipsoid heights are described at:
+&lt;http://www.ngs.noaa.gov/cgi-bin/ds_lookup.prl?Item=ELLP%20ORDER&gt;
+</vertacce>
+</qvertpa>
+</vertacc>
+</posacc>
+<lineage>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>NOAA, National Geodetic Survey</origin>
+<pubdate>20131215</pubdate>
+<title>
+"Input Formats and Specifications of the
+National Geodetic Survey Data Base" published by
+FGCS (formally FGCC)
+</title>
+<edition>latest available</edition>
+<geoform>diagram</geoform>
+<serinfo>
+<sername>N/A</sername>
+<issue>N/A</issue>
+</serinfo>
+<pubinfo>
+<pubplace>NOAA Campus, Silver Spring, MD</pubplace>
+<publish>NOAA, National Geodetic Survey</publish>
+</pubinfo>
+<othercit>N/A</othercit>
+<onlink>&lt;http://www.ngs.noaa.gov/FGCS/BlueBook/&gt;</onlink>
+</citeinfo>
+</srccite>
+<typesrc>paper, Web</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>1994</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>publication date</srccurr>
+</srctime>
+<srccitea>Blue Book</srccitea>
+<srccontr>
+The geodetic data must be
+submitted in the digital formats specified in the
+FGCS (formally FGCC) publication "Input Formats
+and Specifications of the National Geodetic Survey
+Data Base" which describes the formats and
+procedures for submission of data for adjustment
+and assimilation into the National Geodetic Survey
+Data Base. Separate volumes of this publication
+refer to horizontal (volume 1), vertical (volume
+2), and gravity (volume 3) control, and are
+available from NOAA, National Geodetic Survey,
+1315 East-West Hwy, Code N/CGS1, Silver Spring,
+MD, 20910 (1-301-713-3242). Note guidelines for
+submission of three-dimensional Global Positioning
+System (GPS) relative positioning data are
+contained in annex L to volume 1.
+</srccontr>
+</srcinfo>
+<procstep>
+<procdesc>
+The National Geodetic Survey
+produces geodetic data. Geodetic data comprise
+the results of geodetic surveys to determine,
+among other things, latitude, longitude, height,
+scale, and orientation control. The National
+Geodetic Survey original field survey project
+observations and final reports are accessioned
+into records system of the National Archives and
+Records Administration of the U.S.A. These
+surveys provide information valuable for a variety
+of uses in the mapping, charting and surveying
+community.
+
+The NGS' final product is the geodetic data sheet.
+Geodetic data sheets are comprehensive summaries
+of all published information for a given
+geodetic reference point, including:
+the geographic position and/or height based on the
+current reference datum, condition of the survey
+mark when it was last visited, a description of
+where the point is located and how to reach it,
+and an explanation of the terms used in the data
+sheet. In support of these geodetic data, the NGS
+provides software, publications, and various user
+services, including geodetic advisor program,
+instrument calibration, surveying standards, and
+technical workshops.
+
+This dataset contains certain information extracted
+from the above mentioned data sheet.
+</procdesc>
+<srcused>Geodetic Data</srcused>
+<procdate>Not complete</procdate>
+<srcprod>NOAA, National Geodetic Survey and cooperating organizations.</srcprod>
+<proccont>
+<cntinfo>
+<cntperp>
+<cntper>NGS Information Services Branch</cntper>
+</cntperp>
+<cntpos>IT Specialist</cntpos>
+<cntaddr>
+<addrtype>Mailing and Physical Address</addrtype>
+<address>
+SSMC2/9152
+1315 East-west Highway
+</address>
+<city>Silver Spring</city>
+<state>MD</state>
+<postal>20910</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>301-713-3242</cntvoice>
+<cntfax>301-713-4172</cntfax>
+<cntemail>ngs.software@noaa.gov</cntemail>
+<hours>8:30am to 5:00pm EST</hours>
+<cntinst>Prefer EMail</cntinst>
+</cntinfo>
+</proccont>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<indspref>
+Geodetic Data- horizontal positional datum
+conversion, use program NADCON (version 2.1)
+
+Geodetic Data - vertical positional datum
+conversion, use program VERTCON (version 2.0)
+
+These programs provide indirect spatial reference
+data and are available from NOAA, National
+Geodetic Survey at
+&lt;http://www.ngs.noaa.gov/PC_PROD/pc_prod.shtml&gt;
+</indspref>
+<direct>point</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>point</sdtstype>
+<ptvctcnt>1,500,000</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<geograph>
+<latres>0.00001</latres>
+<longres>0.00001</longres>
+<geogunit>degrees, minutes, and decimal seconds</geogunit>
+</geograph>
+<geodetic>
+<horizdn>North American Datum of 1983 (NAD 83)</horizdn>
+<ellips>Geodetic Reference System 80 (GRS80)</ellips>
+<semiaxis>6378137</semiaxis>
+<denflat>298.26</denflat>
+</geodetic>
+</horizsys>
+<vertdef>
+<altsys>
+<altdatum>
+North American Vertical Datum of 1988 (NAVD 88),
+including Ellipsoidal and Orthometric
+Heights.
+</altdatum>
+<altres>.01</altres>
+<altunits>meters</altunits>
+<altenc>implicit coordinate</altenc>
+</altsys>
+<depthsys>
+<depthdn>the local surface</depthdn>
+<depthres>.01</depthres>
+<depthdu>meters</depthdu>
+<depthem>implicit coordinate</depthem>
+</depthsys>
+</vertdef>
+</spref>
+<eainfo>
+<overview>
+<eaover>
+
+The current attributes and their meaning are shown below.
+
+#FeatureId
+Temporary unique ID assigned to this station.
+
+DATA_DATE-
+The date when this information was retrieved from the NGS database.
+
+DATA_SRCE-
+Data Source where the information for the mark came from.
+You should use this link to obtain a full datasheet for the mark
+or obtain the datasheets from &lt;http://www.ngs.noaa.gov/cgi-bin/datasheet.prl&gt;
+if you intend to use the data for survey control.
+
+DEC_LONG-
+Decimal equivalent of the LONGITUDE
+Always displayed to 10 decimal places, but you should
+see POS_SRCE and POS_ORDER to determine the true accuracy.
+
+DEC_LAT-
+Decimal equivalent of the LATITUDE
+
+PID-
+Permanent Identifier assigned by NGS to each mark
+
+NAME-
+Station Name (a.k.a. Designation)
+
+STATE-
+State Code
+
+COUNTY-
+County Name
+
+QUAD-
+USGS Topographic Quad Map Name
+
+LATITUDE-
+Latitude in Deg-Min-Sec format
+
+LONGITUDE-
+Longitude in Deg-Min-Sec format
+
+POS_DATUM-
+Datum of the LATITUDE,LONGITUDE
+Should always be NAD83
+
+DATUM_TAG-
+Datum Tag of the LATITUDE,LONGITUDE
+NAD83 (1986) indicates positions on the NAD83 datum for the
+North American Adjustment, completed in 1986.
+NAD83 (nnnn) indicates positions on the NAD83 datum for the
+North American Adjustment, but readjusted to a State High
+Accuracy Reference Network (HARN) on the date shown in (nnnn).
+NAD83 (CORS) indicates positions which are part of the CORS
+network.
+
+POS_SRCE-
+Position Source for the LATITUDE,LONGITUDE
+
+ADJUSTED = Least squares adjustment.
+(Lat,Lon Rounded to 5 decimal places.)
+
+HD_HELD1 = Differentially corrected hand held GPS observations.
+(Lat,Lon Rounded to 2 decimal places.)
+
+HD_HELD2 = Autonomous hand held GPS observations.
+(Lat,Lon Rounded to 1 decimal places.)
+
+SCALED   = Scaled from a topographic map.
+(Lat,Lon Rounded to 0 decimal places.)
+ELEVATION-
+Present if available.
+The Orthometric Height in METERS indicating the height above the Geoid.
+
+ELEV_DATUM-
+Datum of the ELEVATION
+
+ELEV_SRCE-
+Elevation Source for the ELEVATION
+
+ADJUSTED = Direct Digital Output from Least Squares Adjustment
+of Precise Leveling.
+(Rounded to 3 decimal places.)
+
+ADJ UNCH = Manually Entered (and NOT verified) Output of
+Least Squares Adjustment of Precise Leveling.
+(Rounded to 3 decimal places.)
+
+POSTED   = Pre-1991 Precise Leveling Adjusted to
+the NAVD 88 Network After Completion of
+the NAVD 88 General Adjustment of 1991.
+(Rounded to 3 decimal places.)
+
+READJUST = Precise Leveling Readjusted as Required
+by Crustal Motion or Other Cause.
+(Rounded to 2 decimal places.)
+
+N HEIGHT = Computed from Precise Leveling Connected
+at Only One Published Bench Mark.
+(Rounded to 2 decimal places.)
+
+RESET    = Reset Computation of Precise Leveling.
+(Rounded to 2 decimal places.)
+
+COMPUTED = Computed from Precise Leveling Using
+Non-rigorous Adjustment Technique.
+(Rounded to 2 decimal places.)
+
+LEVELING = Precise Leveling Performed by Horizontal
+Field Party.
+(Rounded to 2 decimal places.)
+
+H LEVEL  = Level between control points not connected
+to bench mark.
+(Rounded to 1 decimal places.)
+
+GPS OBS  = Computed from GPS Observations.
+(Rounded to 1 decimal places.)
+
+VERT ANG = Computed from Vertical Angle Observations.
+(Rounded to 1 decimal place;
+If No Check, to 0 decimal places.)
+
+SCALED   = Scaled from a Topographic Map.
+(Rounded to 0 decimal places.)
+
+U HEIGHT = Unvalidated height from precise leveling
+connected at only one NSRS point.
+(Rounded to 2 decimal places.)
+
+VERTCON  = The NAVD 88 height was computed by applying the
+VERTCON shift value to the NGVD 29 height.
+(Rounded to 0 decimal places.)
+
+ELLIP_HT-
+Present if available.
+The ellipsoid height in METERS referenced to GRS80 ellipsoid.
+
+ELLIP_SRCE-
+Ellipsoid Ht Source for the ELLIP_HT
+Should always be GPS_OBS when present.
+
+POS_ORDER-
+Order of accuracy for the LATITUDE,LONGITUDE
+Should be one of the following-
+A,B,1,2,3
+
+Order and class for Orders 1, 2, and 3
+are defined in the Federal Geodetic Control Committee publication
+"Standards and Specifications for Geodetic Control Networks".
+
+In addition-
+Order A stations have a relative accuracy of
+5 mm +/- 1-10,000,000 relative to other A-order stations.
+
+Order B stations have a relative accuracy of
+8 mm +/- 1- 1,000,000 relative to other A- and B-order stations.
+
+POS_CHECK-
+Y=Observational Check was made for the position,
+N=NO Observational Check was made for the positions
+ELEV_ORDER-
+Order of accuracy for the ELEVATION
+Should be 1,2, or 3 for Vertical Control Stations.
+Will be blank for stations used for Horizontal Control only.
+
+Also see attribute DIST_RATE which is used for some
+vertical control stations.
+
+Elevation order and class for 1, 2, and 3
+are defined in the Federal Geodetic Control
+Committee publication "Standards and Specifications for Geodetic
+Control Networks".  In addition-
+
+Vertical control which were determined only for the purpose of
+supplying a height for Horizontal Distance Reductions are
+assigned an order of 3.
+
+Class 0 is used for special cases of
+orthometric vertical control as follows-
+
+Vertical Order/Class               Tolerance Factor
+--------------------               ----------------
+1    class 0                   2.0 mm or less
+2    class 0                   8.4 mm or less
+3    class 0                  12.0 mm or less
+
+ELEV_CLASS-
+Should be 0, 1, or 2
+See details under ELEV_ORDER
+
+ELEV_CHECK-
+Y=Observational Check was made for the orthometric height,
+N=NO Observational Check was made for the orthometric heights
+VERTCONED-
+Y=Orthometric Height was determined by applying VERTCON
+to an old NGVD 29 height.
+N=Orthometric Height determined by observations.
+DIST_RATE-
+Distribution rate for POSTED and READJUSTED benchmarks
+which do not have an Order and Class are as follows
+"Posted bench marks" are vertical control points in the NGS data
+base which were excluded from the NAVD 88 general adjustment.
+Some of the bench marks were excluded due to large adjustment
+residuals, possibly caused by vertical movement of the bench marks
+during the time interval between different leveling epochs.
+Adjusted NAVD 88 are computed for posted bench marks by
+supplemental adjustments.
+
+A range of mean distribution rate corrections is listed for each
+posted bench mark in the data portion of the publication.
+A summary table of the mean distribution rates and their codes is
+listed below.  The mean distribution rate corrections which were
+applied to the original leveling observations is a good
+indication of the usefulness of the posted bench marks' adjusted
+NAVD 88 heights.
+
+Distribution                     Distribution
+Rate Code                      Rate Correction
+------------                    ---------------
+"a"                        0.0 thru 1.0 mm/km
+"b"                        1.1 thru 2.0   "
+"c"                        2.1 thru 3.0   "
+"d"                        3.1 thru 4.0   "
+"e"                        4.1 thru 8.0   "
+"f"                        greater than 8.0 mm/km
+
+POSTED BENCH MARKS SHOULD BE USED WITH CAUTION.  As is the case for
+all leveling projects, the mandatory FGCS check leveling two-mark or
+three-mark tie procedure will usually detect any isolated movement
+(or other problem) at an individual bench mark.  Of course, regional
+movement affecting all the marks equally is not detected by the two-
+or three-mark tie procedure.
+
+ELLP_ORDER-
+Order of accuracy for the ELLIP_HT
+Should be 1,2,3,4, or 5 if present.
+
+The following ellipsoid height order and class relative accuracy
+standards have not yet been adopted by the Federal Geodetic
+Control Subcommittee, but are currently in use by NGS-
+
+Ellipsoid Height                    Maximum Height
+Classification                   Difference Accuracy
+------------------                 -------------------
+1      class 1                  0.5 (mm)/sqrt(km)
+1      class 2                  0.7
+2     class 1                  1.0
+2     class 2                  1.3
+3      class 1                  2.0
+3      class 2                  3.0
+4     class 1                  6.0
+4     class 2                 15.0
+5      class 1                 30.0
+5      class 2                 60.0
+
+The ellipsoid height difference accuracy (b) is computed from a
+a minimally constrained correctly weighted least squares adjustment
+by-
+b = s / sqrt(d)
+
+where
+b = height difference accuracy
+s = propagated standard deviation of ellipsoid height
+difference in millimeters between control points
+obtained from the least squares adjustment.
+d = horizontal distance between control points in kilometers
+
+ELLP_class-
+Class of accuracy for ELLIP_HT
+Should be 1 or 2
+See details under ELLP_ORDER
+
+FIRST_RECV-
+Date when the station was first monumented
+or in the case of landmarks, first observed.
+
+LAST_RECV-
+Date when the station was last recovered.
+
+LAST_COND-
+Last recovered condition of the mark.
+Should be one of the following-
+MONUMENTED
+FIRST OBSERVED
+GOOD
+POOR
+MARK NOT FOUND
+SEE DESCRIPTION
+DESTROYED
+
+LAST_RECBY-
+Agency who reported the last condition of the mark.
+
+STABILITY-
+The stability of the mark may have 1 of 4 codes as indicated below-
+A = MOST RELIABLE AND EXPECTED TO HOLD POSITION/ELEVATION WELL
+B = PROBABLY HOLD POSITION/ELEVATION WELL
+C = MAY HOLD, BUT OF TYPE COMMONLY SUBJECT TO SURFACE MOTION
+- E.G. FROST HEAVE, ETC
+D = MARK OF QUESTIONABLE OR UNKNOWN STABILITY
+</eaover>
+<eadetcit>
+All values were obtained from the NGA Datasheet
+available at &lt;http://www.ngs.noaa.gov/cgi-bin/datasheet.prl&gt;
+</eadetcit>
+</overview>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntperp>
+<cntper>NGS Information Services Branch</cntper>
+<cntorg>NOAA, National Geodetic Survey</cntorg>
+</cntperp>
+<cntpos>IT Specialist</cntpos>
+<cntaddr>
+<addrtype>Mailing and Physical Address</addrtype>
+<address>
+SSMC2/9152
+1315 East-west Highway
+</address>
+<city>Silver Spring</city>
+<state>MD</state>
+<postal>20910</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>301-713-3242</cntvoice>
+<cntfax>301-713-4172</cntfax>
+<cntemail>ngs.software@noaa.gov</cntemail>
+<hours>8:30am to 5:00pm EST</hours>
+<cntinst>Prefer EMail</cntinst>
+</cntinfo>
+</distrib>
+<resdesc>Datasheet Shapefile</resdesc>
+<distliab>The distributor does not assume liability</distliab>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>ShapeFile</formname>
+<formvern>0.3.0</formvern>
+<formverd>1999</formverd>
+<filedec>Download options include PC Zip and Unix compressed tar</filedec>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>&lt;http://www.ngs.noaa.gov/cgi-bin/datasheet.prl?Explain=ShapeFiles&gt;</networkr>
+</networka>
+</computer>
+<accinstr>Distributed through http://www.ngs.noaa.gov/cgi-bin/datasheet.prl</accinstr>
+<oncomp>SUN Solaris</oncomp>
+</onlinopt>
+</digtopt>
+</digform>
+<fees>free if you retrieve it yourself</fees>
+</stdorder>
+</distinfo>
+<metainfo>
+<metd>20040129</metd>
+<metc>
+<cntinfo>
+<cntperp>
+<cntper>NGS Information Services Branch</cntper>
+<cntorg>NOAA, National Geodetic Survey</cntorg>
+</cntperp>
+<cntpos>IT Specialist</cntpos>
+<cntaddr>
+<addrtype>Mailing and Physical Address</addrtype>
+<address>
+SSMC2/9152
+1315 East-west Highway
+</address>
+<city>Silver Spring</city>
+<state>MD</state>
+<postal>20910</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>301-713-3242</cntvoice>
+<cntfax>301-713-4172</cntfax>
+<cntemail>ngs.software@noaa.gov</cntemail>
+<hours>8:30am to 5:00pm EST</hours>
+<cntinst>Prefer EMail</cntinst>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+<metac>
+Geodetic Data are in the public domain, not restricted
+from access or distribution.
+</metac>
+<metuc>
+not restricted;
+Geodetic Data, including software were developed
+and compiled with U.S. Government funding; no
+proprietary rights may be attached to them nor may
+they be sold to the U.S. Government as part of any
+procurement of ADP products or services.
+</metuc>
+<metsi>
+<metscs>DOD</metscs>
+<metsc>unclassified</metsc>
+<metshd>none</metshd>
+</metsi>
+<metextns>
+<onlink>N/A</onlink>
+<metprof>N/A</metprof>
+</metextns>
+</metainfo>
+</metadata>
