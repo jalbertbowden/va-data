@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="metadata" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="citeinfo">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="origin" type="xs:string" minOccurs="0" />
+        <xs:element name="pubdate" type="xs:string" minOccurs="0" />
+        <xs:element name="title" type="xs:string" minOccurs="0" />
+        <xs:element name="edition" type="xs:string" minOccurs="0" />
+        <xs:element name="geoform" type="xs:string" minOccurs="0" />
+        <xs:element name="serinfo" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="sername" type="xs:string" minOccurs="0" />
+              <xs:element name="issue" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="pubinfo" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="pubplace" type="xs:string" minOccurs="0" />
+              <xs:element name="publish" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="timeinfo">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="mdattim" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="sngdate" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="caldate" type="xs:string" minOccurs="0" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="cntinfo">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="cntpos" type="xs:string" minOccurs="0" />
+        <xs:element name="cntvoice" type="xs:string" minOccurs="0" />
+        <xs:element name="cntfax" type="xs:string" minOccurs="0" />
+        <xs:element name="cntemail" type="xs:string" minOccurs="0" />
+        <xs:element name="hours" type="xs:string" minOccurs="0" />
+        <xs:element name="cntperp" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="cntper" type="xs:string" minOccurs="0" />
+              <xs:element name="cntorg" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="cntaddr" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="addrtype" type="xs:string" minOccurs="0" />
+              <xs:element name="address" type="xs:string" minOccurs="0" />
+              <xs:element name="city" type="xs:string" minOccurs="0" />
+              <xs:element name="state" type="xs:string" minOccurs="0" />
+              <xs:element name="postal" type="xs:string" minOccurs="0" />
+              <xs:element name="country" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="cntorgp" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="cntorg" type="xs:string" minOccurs="0" />
+              <xs:element name="cntper" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="metadata" msdata:IsDataSet="true" msdata:Locale="en-US">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="citeinfo" />
+        <xs:element ref="timeinfo" />
+        <xs:element ref="cntinfo" />
+        <xs:element name="idinfo">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="accconst" type="xs:string" minOccurs="0" />
+              <xs:element name="useconst" type="xs:string" minOccurs="0" />
+              <xs:element name="datacred" type="xs:string" minOccurs="0" />
+              <xs:element name="native" type="xs:string" minOccurs="0" />
+              <xs:element name="citation" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element ref="citeinfo" minOccurs="0" maxOccurs="unbounded" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="descript" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="abstract" type="xs:string" minOccurs="0" />
+                    <xs:element name="purpose" type="xs:string" minOccurs="0" />
+                    <xs:element name="supplinf" type="xs:string" minOccurs="0" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="timeperd" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="current" type="xs:string" minOccurs="0" />
+                    <xs:element ref="timeinfo" minOccurs="0" maxOccurs="unbounded" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="status" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="progress" type="xs:string" minOccurs="0" />
+                    <xs:element name="update" type="xs:string" minOccurs="0" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="keywords" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="theme" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="themekt" type="xs:string" minOccurs="0" />
+                          <xs:element name="themekey" nillable="true" minOccurs="0" maxOccurs="unbounded">
+                            <xs:complexType>
+                              <xs:simpleContent msdata:ColumnName="themekey_Text" msdata:Ordinal="0">
+                                <xs:extension base="xs:string">
+                                </xs:extension>
+                              </xs:simpleContent>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="place" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="placekt" type="xs:string" minOccurs="0" />
+                          <xs:element name="placekey" nillable="true" minOccurs="0" maxOccurs="unbounded">
+                            <xs:complexType>
+                              <xs:simpleContent msdata:ColumnName="placekey_Text" msdata:Ordinal="0">
+                                <xs:extension base="xs:string">
+                                </xs:extension>
+                              </xs:simpleContent>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="stratum" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="stratkt" type="xs:string" minOccurs="0" />
+                          <xs:element name="stratkey" type="xs:string" minOccurs="0" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="temporal" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="tempkt" type="xs:string" minOccurs="0" />
+                          <xs:element name="tempkey" type="xs:string" minOccurs="0" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="ptcontac" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element ref="cntinfo" minOccurs="0" maxOccurs="unbounded" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="secinfo" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="secsys" type="xs:string" minOccurs="0" />
+                    <xs:element name="secclass" type="xs:string" minOccurs="0" />
+                    <xs:element name="sechandl" type="xs:string" minOccurs="0" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="spdom" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="bounding" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="westbc" type="xs:string" minOccurs="0" />
+                          <xs:element name="eastbc" type="xs:string" minOccurs="0" />
+                          <xs:element name="northbc" type="xs:string" minOccurs="0" />
+                          <xs:element name="southbc" type="xs:string" minOccurs="0" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="crossref" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element ref="citeinfo" minOccurs="0" maxOccurs="unbounded" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dataqual">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="logic" type="xs:string" minOccurs="0" />
+              <xs:element name="complete" type="xs:string" minOccurs="0" />
+              <xs:element name="attracc" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="attraccr" type="xs:string" minOccurs="0" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="posacc" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="horizpa" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="horizpar" type="xs:string" minOccurs="0" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="vertacc" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="vertaccr" type="xs:string" minOccurs="0" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="lineage" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="procstep" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="procdesc" type="xs:string" minOccurs="0" />
+                          <xs:element name="procdate" type="xs:string" minOccurs="0" />
+                          <xs:element name="proccont" minOccurs="0" maxOccurs="unbounded">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element ref="cntinfo" minOccurs="0" maxOccurs="unbounded" />
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="spdoinfo">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="indspref" type="xs:string" minOccurs="0" />
+              <xs:element name="direct" type="xs:string" minOccurs="0" />
+              <xs:element name="rastinfo" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="rasttype" type="xs:string" minOccurs="0" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="spref">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="horizsys" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="planar" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="gridsys" minOccurs="0" maxOccurs="unbounded">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element name="gridsysn" type="xs:string" minOccurs="0" />
+                                <xs:element name="utm" minOccurs="0" maxOccurs="unbounded">
+                                  <xs:complexType>
+                                    <xs:sequence>
+                                      <xs:element name="utmzone" type="xs:string" minOccurs="0" />
+                                      <xs:element name="transmer" minOccurs="0" maxOccurs="unbounded">
+                                        <xs:complexType>
+                                          <xs:sequence>
+                                            <xs:element name="sfctrmer" type="xs:string" minOccurs="0" />
+                                            <xs:element name="longcm" type="xs:string" minOccurs="0" />
+                                            <xs:element name="latprjo" type="xs:string" minOccurs="0" />
+                                            <xs:element name="feast" type="xs:string" minOccurs="0" />
+                                            <xs:element name="fnorth" type="xs:string" minOccurs="0" />
+                                          </xs:sequence>
+                                        </xs:complexType>
+                                      </xs:element>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                          <xs:element name="planci" minOccurs="0" maxOccurs="unbounded">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element name="plance" type="xs:string" minOccurs="0" />
+                                <xs:element name="plandu" type="xs:string" minOccurs="0" />
+                                <xs:element name="coordrep" minOccurs="0" maxOccurs="unbounded">
+                                  <xs:complexType>
+                                    <xs:sequence>
+                                      <xs:element name="absres" type="xs:string" minOccurs="0" />
+                                      <xs:element name="ordres" type="xs:string" minOccurs="0" />
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="geodetic" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="horizdn" type="xs:string" minOccurs="0" />
+                          <xs:element name="ellips" type="xs:string" minOccurs="0" />
+                          <xs:element name="semiaxis" type="xs:string" minOccurs="0" />
+                          <xs:element name="denflat" type="xs:string" minOccurs="0" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="vertdef" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="altsys" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="altdatum" type="xs:string" minOccurs="0" />
+                          <xs:element name="altres" type="xs:string" minOccurs="0" />
+                          <xs:element name="altunits" type="xs:string" minOccurs="0" />
+                          <xs:element name="altenc" type="xs:string" minOccurs="0" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="eainfo">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="overview" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="eaover" type="xs:string" minOccurs="0" />
+                    <xs:element name="eadetcit" type="xs:string" minOccurs="0" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="distinfo">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="resdesc" type="xs:string" minOccurs="0" />
+              <xs:element name="distliab" type="xs:string" minOccurs="0" />
+              <xs:element name="custom" type="xs:string" minOccurs="0" />
+              <xs:element name="distrib" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element ref="cntinfo" minOccurs="0" maxOccurs="unbounded" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="stdorder" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="fees" type="xs:string" minOccurs="0" />
+                    <xs:element name="ordering" type="xs:string" minOccurs="0" />
+                    <xs:element name="turnarnd" type="xs:string" minOccurs="0" />
+                    <xs:element name="digform" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="digtinfo" minOccurs="0" maxOccurs="unbounded">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element name="formname" type="xs:string" minOccurs="0" />
+                                <xs:element name="formspec" type="xs:string" minOccurs="0" />
+                                <xs:element name="formvern" type="xs:string" minOccurs="0" />
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                          <xs:element name="digtopt" minOccurs="0" maxOccurs="unbounded">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element name="offoptn" minOccurs="0" maxOccurs="unbounded">
+                                  <xs:complexType>
+                                    <xs:sequence>
+                                      <xs:element name="offmedia" type="xs:string" minOccurs="0" />
+                                      <xs:element name="recfmt" type="xs:string" minOccurs="0" />
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="availabl" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element ref="timeinfo" minOccurs="0" maxOccurs="unbounded" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="metainfo">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="metd" type="xs:string" minOccurs="0" />
+              <xs:element name="metstdn" type="xs:string" minOccurs="0" />
+              <xs:element name="metstdv" type="xs:string" minOccurs="0" />
+              <xs:element name="mettc" type="xs:string" minOccurs="0" />
+              <xs:element name="metc" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element ref="cntinfo" minOccurs="0" maxOccurs="unbounded" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="metextns" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="onlink" type="xs:string" minOccurs="0" />
+                    <xs:element name="metprof" type="xs:string" minOccurs="0" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
