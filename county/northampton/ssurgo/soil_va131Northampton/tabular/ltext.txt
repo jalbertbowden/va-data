@@ -1,0 +1,24 @@
+03/03/2006|"Edit notes"|||"changed RV to ""yes"" in Geomorphic Component Landform"|"10872"|"25433"
+05/30/2006|"Edit notes"|"bulletin 430-5-7"|"other data"|"populate data in accordance with National Bulletin 430-5-7
+
+data elements populated are as follows:
+
+Component	Aspect Counter Clockwise
+Component	Aspect Representative
+Component	Aspect Clockwise
+Component	Geomorphic Description RV=yes
+Component	Three Dimensional Surface Morphometry
+Component	Two Dimensional Surface Morphometry
+Component	Slope Shape Surface Morphometry
+Component	Parent Material Group
+Component	Parent Material
+Horizon		Designate Master O horizons
+Horizon		CaCO3 (populated with 0 if NULL - L,RV,H)
+Horizon		Gypsum (populated with 0 if NULL - L,RV,H)
+Horizon		SAR (populated with 0 if NUL - L,RV,H)
+Horizon		EC (populated with 0 if NULL - L,RV,H)
+Horizon		pH CaCl2 (populate for organic soils - L,RV,H)
+Horizon		Structure Group (surface horizon only)
+Horizon		Structure (grade, size, type)
+Legend		Area Overlap (populated MLRA within survey area)
+Legend		Mapunit Overlap (populated mapunits and acres within MLRA)"|"10872"|"25966"
