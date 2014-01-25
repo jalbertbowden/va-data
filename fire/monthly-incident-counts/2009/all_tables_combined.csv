@@ -1,0 +1,2342 @@
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,
+Report Parameters:,Report Parameters:,,,,,
+Report Period:,2009,Version: Both,Status: All,Released: All,Sort by:,FDID
+Report Filters:,No Filters Applied,,,,,
+,"NOTE: Report Filter Groups are applied to the report SQL as ""AND"" conditions (i.e. Group 1 AND Group 2 AND Group 3 etc...)","NOTE: Report Filter Groups are applied to the report SQL as ""AND"" conditions (i.e. Group 1 AND Group 2 AND Group 3 etc...)","NOTE: Report Filter Groups are applied to the report SQL as ""AND"" conditions (i.e. Group 1 AND Group 2 AND Group 3 etc...)","NOTE: Report Filter Groups are applied to the report SQL as ""AND"" conditions (i.e. Group 1 AND Group 2 AND Group 3 etc...)","NOTE: Report Filter Groups are applied to the report SQL as ""AND"" conditions (i.e. Group 1 AND Group 2 AND Group 3 etc...)","NOTE: Report Filter Groups are applied to the report SQL as ""AND"" conditions (i.e. Group 1 AND Group 2 AND Group 3 etc...)"
+Activity:,Show only FDIDs with Activity,,,,,
+State:,VA,,,,,
+Report FDIDs:,All,,,,,
+Page 1 of 82,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,3/5/10 7:50:21 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+00101,NEW CHURCH VOL. FIRE DEPT.,NEW CHURCH VOL. FIRE DEPT.,NEW CHURCH VOL. FIRE DEPT.,,,,,,,,,,
+Count,10,7,4,6,8,16,12,16,6,9,8,9,111
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,9,1,3,4,5,2,8,3,4,3,4,9,55
+00102,GREENBACKVILLE VOL. FIRE,GREENBACKVILLE VOL. FIRE,GREENBACKVILLE VOL. FIRE,,,,,,,,,,
+Count,9,15,9,2,2,3,4,5,4,0,1,2,56
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,6,5,2,4,3,2,4,0,1,2,2,6,37
+00103,CHINCOTEAGUE VOL. FIRE DEPT.,CHINCOTEAGUE VOL. FIRE DEPT.,CHINCOTEAGUE VOL. FIRE DEPT.,,,,,,,,,,
+Count,47,32,56,66,65,60,90,91,63,58,53,42,723
+Exposures,0,1,0,0,0,0,0,0,0,0,0,0,1
+Aid Given,10,7,7,3,7,4,11,8,4,3,5,1,70
+00104,ATLANTIC VOL. FIRE DEPT.,ATLANTIC VOL. FIRE DEPT.,,,,,,,,,,,
+Count,8,5,12,14,12,13,22,11,11,14,15,12,149
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,13,12,12,12,17,14,32,21,23,23,15,24,218
+00105,SAXIS VOL. FIRE DEPT.,SAXIS VOL. FIRE DEPT.,,,,,,,,,,,
+Count,2,1,1,2,0,0,3,1,0,1,3,4,18
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,2,2,2,1,1,1,2,1,1,2,3,20
+00106,BLOXOM VOL. FIRE DEPT.,BLOXOM VOL. FIRE DEPT.,,,,,,,,,,,
+Count,14,6,11,13,12,4,9,8,6,8,8,5,104
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,8,8,9,2,4,3,2,5,7,5,2,5,60
+Page 2 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:21 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+00107,"Parksley Vol. Fire Co., Inc.","Parksley Vol. Fire Co., Inc.",,,,,,,,,,,
+Count,15,12,18,12,10,13,13,16,21,18,11,15,174
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,7,4,2,4,0,2,5,10,6,6,4,5,55
+00110,MELFA VOL. FIRE DEPT.,MELFA VOL. FIRE DEPT.,,,,,,,,,,,
+Count,6,8,9,6,6,6,11,10,6,5,7,11,91
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,9,2,4,3,1,5,5,1,3,5,1,1,40
+00111,WACHAPREAGUE VOL. FIRE,WACHAPREAGUE VOL. FIRE,WACHAPREAGUE VOL. FIRE,,,,,,,,,,
+Count,2,1,2,1,0,2,6,2,1,2,4,1,24
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,7,3,4,1,3,5,4,1,3,2,4,1,38
+00112,PAINTER VOL. FIRE DEPT.,PAINTER VOL. FIRE DEPT.,,,,,,,,,,,
+Count,10,7,8,3,5,9,10,10,10,8,9,7,96
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,5,4,7,1,2,5,6,3,4,5,7,3,52
+00118,ONLEY VOL. FIRE DEPT.,ONLEY VOL. FIRE DEPT.,,,,,,,,,,,
+Count,2,4,3,1,2,4,4,2,5,1,4,3,35
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,7,5,7,3,0,1,4,7,2,3,7,6,52
+00121,TANGIER VOL. FIRE DEPT.,TANGIER VOL. FIRE DEPT.,,,,,,,,,,,
+Count,1,1,3,6,12,2,3,10,7,9,4,5,63
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+Page 3 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:21 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+00300,Albemarle Co.Fire Rescue,Albemarle Co.Fire Rescue,,,,,,,,,,,
+Count,614,480,549,528,528,636,566,540,516,521,521,531,"6,530"
+Exposures,0,1,0,0,0,0,0,0,0,0,0,0,1
+Aid Given,37,18,15,12,17,27,18,16,13,29,17,12,231
+00501,BOILING SPRINGS VOL. FIRE,BOILING SPRINGS VOL. FIRE,BOILING SPRINGS VOL. FIRE,,,,,,,,,,
+Count,12,9,12,12,11,12,16,16,11,14,14,12,151
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,1,1,1,0,0,1,1,0,0,5
+00502,DUNLAP VOL. FIRE DEPT.,DUNLAP VOL. FIRE DEPT.,,,,,,,,,,,
+Count,2,5,6,0,0,2,0,1,0,0,0,0,16
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,1,1,0,0,0,0,0,0,0,0,0,5
+00503,FALLING SPRING VOL. FIRE DEPT,FALLING SPRING VOL. FIRE DEPT,FALLING SPRING VOL. FIRE DEPT,,,,,,,,,,
+Count,5,9,3,5,5,5,4,5,3,8,5,5,62
+Exposures,0,0,0,0,0,0,0,4,0,0,0,0,4
+Aid Given,3,0,0,3,0,1,0,0,0,2,5,2,16
+00504,IRON GATE VOL. FIRE DEPT.,IRON GATE VOL. FIRE DEPT.,IRON GATE VOL. FIRE DEPT.,,,,,,,,,,
+Count,1,3,1,7,4,0,2,1,2,0,0,2,23
+Exposures,0,1,0,0,0,0,0,0,0,0,0,0,1
+Aid Given,1,24,14,6,1,1,3,1,1,1,0,2,55
+00505,SELMA VOL. FIRE DEPT.,SELMA VOL. FIRE DEPT.,,,,,,,,,,,
+Count,6,2,2,3,7,3,5,5,5,5,6,10,59
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,5,7,4,5,6,5,3,8,1,2,5,4,55
+Page 4 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:21 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+00506,SHARON VOL. FIRE DEPT.,SHARON VOL. FIRE DEPT.,,,,,,,,,,,
+Count,8,5,2,5,5,6,4,7,4,0,9,10,65
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,2,2,3,3,0,1,2,0,2,2,4,22
+00701,AMELIA CO. VOL. FIRE DEPT.,AMELIA CO. VOL. FIRE DEPT.,AMELIA CO. VOL. FIRE DEPT.,,,,,,,,,,
+Count,12,20,23,7,12,9,16,14,9,24,8,13,167
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,2,0,3,1,1,4,5,2,3,2,2,26
+00702,MANNBORO VOL. FIRE DEPT.,MANNBORO VOL. FIRE DEPT.,MANNBORO VOL. FIRE DEPT.,,,,,,,,,,
+Count,16,20,5,7,1,13,7,7,14,10,5,9,114
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,1,8,1,2,1,2,1,2,3,1,0,22
+00703,JETERSVILLE VOL. FIRE DEPT.,JETERSVILLE VOL. FIRE DEPT.,JETERSVILLE VOL. FIRE DEPT.,,,,,,,,,,
+Count,4,4,4,3,2,1,5,5,3,6,3,8,48
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,5,5,2,3,2,4,7,0,3,0,1,34
+00705,PAINVILLE VOL. FIRE DEPT.,PAINVILLE VOL. FIRE DEPT.,,,,,,,,,,,
+Count,5,5,3,2,2,5,8,7,4,12,10,6,69
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,1,1,1,1,0,1,1,0,2,1,1,12
+00901,AMHERST VOL. FIRE DEPT.,AMHERST VOL. FIRE DEPT.,,,,,,,,,,,
+Count,19,9,18,16,7,12,9,12,11,13,12,21,159
+Exposures,1,0,0,0,0,0,0,0,0,0,0,0,1
+Aid Given,9,11,8,8,6,4,9,3,1,4,7,6,76
+Page 5 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:21 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+00902,MONELISON VOLUNTEER FIRE,MONELISON VOLUNTEER FIRE,MONELISON VOLUNTEER FIRE,,,,,,,,,,
+Count,41,39,21,35,34,30,38,22,30,27,24,29,370
+Exposures,0,0,0,0,0,2,0,1,0,0,0,0,3
+Aid Given,13,3,6,3,6,2,4,1,2,4,4,5,53
+01101,APPOMATTOX VOL. FIRE DEPT.,APPOMATTOX VOL. FIRE DEPT.,APPOMATTOX VOL. FIRE DEPT.,,,,,,,,,,
+Count,32,30,34,20,13,21,21,23,24,21,18,32,289
+Exposures,0,1,1,0,0,0,0,0,0,0,0,1,3
+Aid Given,2,1,7,1,1,1,2,3,1,0,1,1,21
+01300,ARLINGTON CO. FIRE DEPT.,ARLINGTON CO. FIRE DEPT.,ARLINGTON CO. FIRE DEPT.,,,,,,,,,,
+Count,"2,020","1,691","1,792","1,745","1,976","2,036","2,009","1,947","1,859","2,009","1,757","1,940","22,781"
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,234,181,185,150,144,158,209,163,143,204,182,181,"2,134"
+01502,DEERFIELD VOL. FIRE DEPT.,DEERFIELD VOL. FIRE DEPT.,DEERFIELD VOL. FIRE DEPT.,,,,,,,,,,
+Count,10,18,11,9,7,15,13,10,18,5,12,7,135
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+01503,MIDDLEBROOK VOL. FIRE DEPT.,MIDDLEBROOK VOL. FIRE DEPT.,MIDDLEBROOK VOL. FIRE DEPT.,,,,,,,,,,
+Count,19,24,22,16,27,22,19,22,28,27,18,32,276
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,1,2,4,4,2,0,6,1,1,1,1,25
+01504,CHURCHVILLE VOL. FIRE DEPT.,CHURCHVILLE VOL. FIRE DEPT.,CHURCHVILLE VOL. FIRE DEPT.,,,,,,,,,,
+Count,50,49,37,51,53,52,55,53,54,45,42,48,589
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,8,6,2,0,0,1,4,3,2,3,1,32
+Page 6 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:21 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+01505,WEYERS CAVE VOL. FIRE DEPT.,WEYERS CAVE VOL. FIRE DEPT.,WEYERS CAVE VOL. FIRE DEPT.,,,,,,,,,,
+Count,46,46,47,53,39,42,55,51,68,33,16,0,496
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,16,9,9,11,5,6,6,10,3,3,2,0,80
+01506,VERONA FIRE DEPARTMENT,VERONA FIRE DEPARTMENT,VERONA FIRE DEPARTMENT,,,,,,,,,,
+Count,57,54,63,49,57,75,71,50,64,62,55,65,722
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,4,2,1,2,0,1,4,3,1,0,2,6,26
+01507,STUARTS DRAFT VOL. FIRE,STUARTS DRAFT VOL. FIRE,,,,,,,,,,,
+Count,81,67,55,56,53,54,67,55,44,55,51,60,698
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,20,16,12,13,16,12,15,22,7,15,16,28,192
+01508,CRAIGSVILLE VOL. FIRE DEPT.,CRAIGSVILLE VOL. FIRE DEPT.,CRAIGSVILLE VOL. FIRE DEPT.,,,,,,,,,,
+Count,17,11,14,8,25,11,5,6,9,8,15,12,141
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,0,0,0,0,2,0,0,2,0,0,0,6
+01509,DOOMS VOL. FIRE DEPT.,DOOMS VOL. FIRE DEPT.,,,,,,,,,,,
+Count,70,46,64,64,53,61,58,60,56,53,55,76,716
+Exposures,0,1,0,0,0,0,0,0,0,0,0,0,1
+Aid Given,6,7,8,4,2,5,10,5,4,10,9,10,80
+01510,AUGUSTA COUNTY FIRE,AUGUSTA COUNTY FIRE,,,,,,,,,,,
+Count,91,75,120,93,78,93,89,90,93,108,116,129,"1,175"
+Exposures,2,0,0,0,0,0,0,0,0,0,0,0,2
+Aid Given,26,32,42,33,31,24,32,22,23,7,11,29,312
+Page 7 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:22 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+01511,PRESTON L. YANCEY VOL. FIRE,PRESTON L. YANCEY VOL. FIRE,PRESTON L. YANCEY VOL. FIRE,,,,,,,,,,
+Count,66,59,85,41,56,63,61,73,52,61,51,106,774
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,4,9,11,4,1,3,2,7,2,4,5,4,56
+01514,SWOOPE VOL. FIRE DEPT.,SWOOPE VOL. FIRE DEPT.,,,,,,,,,,,
+Count,42,34,26,24,28,24,23,33,28,26,23,18,329
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,10,3,3,3,1,4,2,4,3,10,5,8,56
+01518,NEW HOPE,,,,,,,,,,,,
+Count,12,14,21,16,16,15,18,13,20,19,23,13,200
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,4,8,3,0,2,0,2,1,0,2,2,3,27
+01519,DOOMS/WILSON VOL.FIRE DEPT.,DOOMS/WILSON VOL.FIRE DEPT.,DOOMS/WILSON VOL.FIRE DEPT.,,,,,,,,,,
+Count,16,7,11,12,6,8,16,14,8,13,13,29,153
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,10,12,15,5,3,5,13,10,2,2,8,7,92
+01521,MT SOLON,,,,,,,,,,,,
+Count,32,23,22,25,31,28,15,30,23,28,20,24,301
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,4,0,0,0,0,1,3,1,1,1,2,16
+01702,HOT SPRINGS VOL. FIRE & RESC.,HOT SPRINGS VOL. FIRE & RESC.,HOT SPRINGS VOL. FIRE & RESC.,,,,,,,,,,
+Count,11,8,7,6,13,7,7,9,5,6,16,10,105
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,0,0,1,0,0,2,1,0,1,0,1,7
+Page 8 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:22 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+01901,BOONSBORO VOL. FIRE DEPT.,BOONSBORO VOL. FIRE DEPT.,BOONSBORO VOL. FIRE DEPT.,,,,,,,,,,
+Count,2,9,5,6,4,3,5,8,8,5,4,6,65
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,3,4,0,0,2,0,0,1,2,1,0,13
+01902,FOREST VOL. FIRE DEPT.,FOREST VOL. FIRE DEPT.,,,,,,,,,,,
+Count,73,26,31,40,31,29,39,22,24,37,27,35,414
+Exposures,1,0,0,0,0,0,0,0,0,0,0,0,1
+Aid Given,17,10,9,6,9,9,9,7,2,5,14,7,104
+01903,HARDY VOL. FIRE DEPT.,HARDY VOL. FIRE DEPT.,,,,,,,,,,,
+Count,6,5,7,9,10,8,1,7,5,5,3,11,77
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,5,4,1,0,0,1,0,2,3,1,1,0,18
+01904,HUDDLESTON VOL. FIRE DEPT.,HUDDLESTON VOL. FIRE DEPT.,HUDDLESTON VOL. FIRE DEPT.,,,,,,,,,,
+Count,12,9,6,1,2,3,4,3,10,6,1,4,61
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,4,2,0,0,0,0,0,0,1,1,0,1,9
+01905,MONETA FIRE DEPARTMENT,MONETA FIRE DEPARTMENT,MONETA FIRE DEPARTMENT,,,,,,,,,,
+Count,16,15,21,20,18,29,22,26,20,22,23,18,250
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,5,9,3,4,4,3,3,1,1,2,0,2,37
+01907,MONTVALE VOL. FIRE DEPT.,MONTVALE VOL. FIRE DEPT.,MONTVALE VOL. FIRE DEPT.,,,,,,,,,,
+Count,19,7,8,8,8,11,5,9,9,8,9,12,113
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,6,5,1,1,2,3,1,3,2,2,4,2,32
+Page 9 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:22 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+01908,STEWARTSVILLE VOL. FIRE,STEWARTSVILLE VOL. FIRE,,,,,,,,,,,
+Count,30,23,2,16,16,18,24,14,6,0,18,18,185
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,5,5,1,2,0,0,0,3,1,0,0,2,19
+01910,BIG ISLAND VOL. FIRE DEPT.,BIG ISLAND VOL. FIRE DEPT.,BIG ISLAND VOL. FIRE DEPT.,,,,,,,,,,
+Count,6,11,14,12,5,11,10,4,8,6,9,12,108
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,1,0,1,1,3,2,0,2,2,2,2,17
+01911,SAUNDERS VOL. FIRE DEPT.,SAUNDERS VOL. FIRE DEPT.,SAUNDERS VOL. FIRE DEPT.,,,,,,,,,,
+Count,4,5,6,3,2,1,5,3,2,4,1,0,36
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,2,2,4,2,3,2,2,2,1,1,0,24
+01912,Shady Grove Vol. Fire & Rescue,Shady Grove Vol. Fire & Rescue,Shady Grove Vol. Fire & Rescue,,,,,,,,,,
+Count,14,11,14,4,7,5,5,2,3,3,5,5,78
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,2,3,0,0,2,0,2,0,2,0,1,14
+02101,BLAND CO. VOL. FIRE DEPT.,BLAND CO. VOL. FIRE DEPT.,BLAND CO. VOL. FIRE DEPT.,,,,,,,,,,
+Count,5,4,4,3,1,3,1,2,0,4,2,8,37
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,5,2,1,2,1,1,0,0,1,1,0,14
+02102,CERES VOL. FIRE DEPT.,CERES VOL. FIRE DEPT.,,,,,,,,,,,
+Count,0,1,1,0,0,1,0,0,1,0,2,0,6
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+Page 10 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:23 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+02103,ROCKY GAP VOL. FIRE DEPT.,ROCKY GAP VOL. FIRE DEPT.,ROCKY GAP VOL. FIRE DEPT.,,,,,,,,,,
+Count,0,3,1,0,1,0,0,1,1,1,1,1,10
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,1,1,0,0,0,0,0,0,0,0,0,3
+02105,HOLLYBROOK-MECHANICSBURG,HOLLYBROOK-MECHANICSBURG,HOLLYBROOK-MECHANICSBURG,,,,,,,,,,
+Count,0,1,0,0,0,0,0,0,0,0,1,1,3
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,3,3,1,1,0,0,0,0,1,1,1,11
+02106,Little Creek Vol. Fire Dept.,Little Creek Vol. Fire Dept.,,,,,,,,,,,
+Count,0,1,0,0,0,0,1,0,0,0,0,0,2
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+02301,Blue Ridge Volunterr Fire Dept,Blue Ridge Volunterr Fire Dept,Blue Ridge Volunterr Fire Dept,,,,,,,,,,
+Count,8,18,15,8,7,6,3,5,9,8,12,20,119
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,5,3,2,6,4,5,1,2,4,3,5,42
+02302,TROUTVILLE FIRE DEPARTMENT,TROUTVILLE FIRE DEPARTMENT,TROUTVILLE FIRE DEPARTMENT,,,,,,,,,,
+Count,23,18,17,23,24,19,22,16,25,22,29,26,264
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,16,18,10,10,11,23,10,15,11,14,17,12,167
+02303,BUCHANAN VOL. FIRE DEPT.,BUCHANAN VOL. FIRE DEPT.,BUCHANAN VOL. FIRE DEPT.,,,,,,,,,,
+Count,10,9,14,18,19,11,9,20,15,9,20,0,154
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,3,2,0,0,1,2,2,0,0,1,0,12
+Page 11 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:23 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+02305,EAGLE ROCK VOL. FIRE DEPT.,EAGLE ROCK VOL. FIRE DEPT.,EAGLE ROCK VOL. FIRE DEPT.,,,,,,,,,,
+Count,6,7,5,6,6,7,2,3,7,8,7,6,70
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,4,2,3,5,10,5,4,6,1,4,1,1,46
+02306,GLEN WILTON VOL. FIRE DEPT.,GLEN WILTON VOL. FIRE DEPT.,GLEN WILTON VOL. FIRE DEPT.,,,,,,,,,,
+Count,6,6,4,9,9,8,4,3,5,7,6,3,70
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,4,8,2,3,4,12,2,5,4,4,4,3,55
+02501,ALBERTA VOL. FIRE DEPT.,ALBERTA VOL. FIRE DEPT.,,,,,,,,,,,
+Count,44,37,40,1,0,0,0,0,0,0,0,0,122
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,4,9,0,0,0,0,0,0,0,0,0,14
+02502,Brodnax Vol. Fire Dept.,Brodnax Vol. Fire Dept.,,,,,,,,,,,
+Count,11,3,3,7,2,2,0,6,4,1,6,9,54
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,1,1,0,1,0,0,1,0,1,1,0,8
+02503,DOLPHIN VOL. FIRE DEPT.,DOLPHIN VOL. FIRE DEPT.,,,,,,,,,,,
+Count,2,7,5,3,4,0,7,9,6,2,5,5,55
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,3,5,6,2,0,2,3,6,5,6,8,48
+02504,EBONY VOL. FIRE DEPT.,EBONY VOL. FIRE DEPT.,,,,,,,,,,,
+Count,2,5,4,1,2,5,5,4,4,4,2,4,42
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,4,2,0,1,2,0,1,1,0,1,1,1,14
+Page 12 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:23 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+02505,Gasburg Volunteer Fire Departm,Gasburg Volunteer Fire Departm,Gasburg Volunteer Fire Departm,,,,,,,,,,
+Count,5,6,2,2,1,4,5,4,3,4,0,4,40
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,4,6,4,1,2,1,6,1,0,5,4,2,36
+02506,Lawrenceville Vol. Fire Dept.,Lawrenceville Vol. Fire Dept.,,,,,,,,,,,
+Count,16,22,35,37,30,28,32,35,26,33,41,29,364
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,4,2,2,4,1,2,2,1,4,2,3,5,32
+02507,TRIPLET VOL. FIRE DEPT.,TRIPLET VOL. FIRE DEPT.,,,,,,,,,,,
+Count,3,4,4,2,3,2,3,1,2,3,2,2,31
+Exposures,0,0,0,0,0,0,0,0,0,1,0,0,1
+Aid Given,0,0,0,0,0,0,0,0,1,0,1,1,3
+02701,GRUNDY VOL. FIRE DEPT.,GRUNDY VOL. FIRE DEPT.,,,,,,,,,,,
+Count,9,4,7,18,12,7,13,5,5,8,5,5,98
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,1,0,0,1,1,0,0,0,0,3
+02702,"OAKWOOD VOL. FIRE DEPT., INC.","OAKWOOD VOL. FIRE DEPT., INC.","OAKWOOD VOL. FIRE DEPT., INC.",,,,,,,,,,
+Count,4,6,5,1,9,3,4,2,6,3,1,4,48
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,1,0,0,1,0,0,0,0,2
+02703,WHITEWOOD VOL. FIRE DEPT.,WHITEWOOD VOL. FIRE DEPT.,WHITEWOOD VOL. FIRE DEPT.,,,,,,,,,,
+Count,1,1,0,0,0,1,0,1,0,1,0,1,6
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,1,1,0,0,0,0,0,0,2
+Page 13 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:24 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+02704,COUNCIL VOL. FIRE DEPT.,COUNCIL VOL. FIRE DEPT.,,,,,,,,,,,
+Count,5,1,3,3,4,5,3,3,2,3,0,0,32
+Exposures,1,0,0,1,0,0,0,0,0,1,0,0,3
+Aid Given,0,1,1,0,0,0,0,0,0,0,0,0,2
+02706,KNOX,CREEK VOL. FIRE DEPT.,CREEK VOL. FIRE DEPT.,,,,,,,,,,
+Count,5,9,4,5,0,2,5,3,3,4,1,2,43
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+02707,RUSSELL PRATER FIRE DEPT.,RUSSELL PRATER FIRE DEPT.,RUSSELL PRATER FIRE DEPT.,,,,,,,,,,
+Count,10,19,17,7,1,2,10,2,4,0,0,1,73
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,2,0,0,0,0,0,0,0,0,0,0,2
+02708,SLATE CREEK VOL. FIRE DEPT.,SLATE CREEK VOL. FIRE DEPT.,SLATE CREEK VOL. FIRE DEPT.,,,,,,,,,,
+Count,3,4,7,4,4,2,2,0,1,1,1,9,38
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,0,0,4,1,1,1,1,0,1,0,1,13
+02901,Arvonia vfd,,,,,,,,,,,,
+Count,13,9,8,5,4,13,1,6,9,10,7,7,92
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,5,6,4,1,1,2,4,2,2,4,4,38
+02902,DILLWYN VOL. FIRE DEPT.,DILLWYN VOL. FIRE DEPT.,,,,,,,,,,,
+Count,12,17,21,14,13,9,0,9,10,12,12,10,139
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,4,0,1,0,0,1,0,0,0,0,0,0,6
+Page 14 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:24 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+02904,TOGA VOL. FIRE DEPT.,TOGA VOL. FIRE DEPT.,,,,,,,,,,,
+Count,2,11,5,11,2,1,2,9,4,5,3,0,55
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,2,0,4,3,3,2,3,3,2,2,3,27
+03110,ALTAVISTA VOL. FIRE,ALTAVISTA VOL. FIRE,,,,,,,,,,,
+Count,26,15,12,17,8,12,17,17,14,18,20,22,198
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+03111,BROOKNEAL VOL. FIRE DEPT.,BROOKNEAL VOL. FIRE DEPT.,BROOKNEAL VOL. FIRE DEPT.,,,,,,,,,,
+Count,14,13,10,3,8,10,13,12,12,7,16,7,125
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,0,1,0,1,0,1,2,1,0,0,1,9
+03112,BROOKVILLE VOL. FIRE DEPT.,BROOKVILLE VOL. FIRE DEPT.,BROOKVILLE VOL. FIRE DEPT.,,,,,,,,,,
+Count,54,35,36,25,20,15,19,22,15,26,37,23,327
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,8,4,5,3,6,4,4,3,3,4,4,4,52
+03113,CONCORD VOL. FIRE DEPT.,CONCORD VOL. FIRE DEPT.,,,,,,,,,,,
+Count,23,24,25,18,9,11,17,15,12,11,33,23,221
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,3,1,1,0,3,3,1,1,1,1,0,15
+03114,GLADYS VOL. FIRE DEPT.,GLADYS VOL. FIRE DEPT.,,,,,,,,,,,
+Count,13,14,11,5,5,4,6,8,6,8,5,8,93
+Exposures,1,0,0,0,0,0,0,0,0,0,0,0,1
+Aid Given,1,1,0,0,0,0,0,0,1,0,1,2,6
+Page 15 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:25 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+03115,LYN-DAN HEIGHTS VOL. FIRE,LYN-DAN HEIGHTS VOL. FIRE,LYN-DAN HEIGHTS VOL. FIRE,,,,,,,,,,
+Count,25,23,26,26,26,9,23,20,24,25,36,31,294
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,3,1,0,1,2,4,4,0,3,4,1,24
+03116,RUSTBURG VOL. FIRE DEPT.,RUSTBURG VOL. FIRE DEPT.,RUSTBURG VOL. FIRE DEPT.,,,,,,,,,,
+Count,25,17,22,12,17,14,14,18,10,13,27,21,210
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,6,2,0,1,2,2,2,0,6,3,3,27
+03117,EVINGTON VOL. FIRE DEPT.,EVINGTON VOL. FIRE DEPT.,,,,,,,,,,,
+Count,25,17,19,17,15,19,18,21,15,14,23,23,226
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,6,1,1,6,3,2,4,1,3,2,6,1,36
+03305,FROG LEVEL VOL. FIRE DEPT.,FROG LEVEL VOL. FIRE DEPT.,FROG LEVEL VOL. FIRE DEPT.,,,,,,,,,,
+Count,1,13,17,13,5,9,11,25,18,12,11,0,135
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,8,7,4,4,9,5,3,5,4,5,0,55
+03501,CANA VOLUNTEER FIRE,CANA VOLUNTEER FIRE,,,,,,,,,,,
+Count,23,25,24,14,16,21,20,10,14,24,16,19,226
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,7,3,6,4,1,1,5,0,1,1,2,34
+03502,HILLSVILLE VOL. FIRE DEPT.,HILLSVILLE VOL. FIRE DEPT.,HILLSVILLE VOL. FIRE DEPT.,,,,,,,,,,
+Count,27,25,38,37,22,18,18,27,17,13,14,26,282
+Exposures,0,2,0,0,0,0,0,0,0,0,0,0,2
+Aid Given,2,1,0,1,2,1,1,0,1,0,1,0,10
+Page 16 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:25 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+03503,LAUREL FORK VOL. FIRE DEPT.,LAUREL FORK VOL. FIRE DEPT.,LAUREL FORK VOL. FIRE DEPT.,,,,,,,,,,
+Count,4,11,3,5,5,3,5,0,2,5,0,8,51
+Exposures,0,1,0,0,0,0,0,0,0,0,0,0,1
+Aid Given,6,1,2,3,0,0,0,0,0,0,3,1,16
+03601,CHARLES CITY VOL.FIRE/EMS,CHARLES CITY VOL.FIRE/EMS,CHARLES CITY VOL.FIRE/EMS,,,,,,,,,,
+Count,16,21,17,16,15,10,8,14,7,8,0,0,132
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,0,0,1,0,0,1,0,0,0,0,0,3
+03701,BACON DISTRICT VOL. FIRE,BACON DISTRICT VOL. FIRE,BACON DISTRICT VOL. FIRE,,,,,,,,,,
+Count,9,5,22,1,4,7,13,2,5,13,10,12,103
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,5,1,2,1,0,1,2,1,2,2,2,0,19
+03702,CHARLOTTE CT. HOUSE VFD.,CHARLOTTE CT. HOUSE VFD.,CHARLOTTE CT. HOUSE VFD.,,,,,,,,,,
+Count,3,6,8,6,0,6,3,3,14,19,16,24,108
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,2,3,3,1,0,4,3,1,1,0,1,21
+03704,Drakes Branch Vol. Fire Dept.,Drakes Branch Vol. Fire Dept.,Drakes Branch Vol. Fire Dept.,,,,,,,,,,
+Count,4,2,12,5,4,3,9,4,4,3,1,5,56
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,6,6,3,3,1,8,6,1,2,2,0,40
+03707,RED HOUSE VOL. FIRE DEPT.,RED HOUSE VOL. FIRE DEPT.,RED HOUSE VOL. FIRE DEPT.,,,,,,,,,,
+Count,8,2,8,1,6,7,3,2,2,1,2,4,46
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,1,0,0,0,1,0,0,2
+Page 17 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:25 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+04100,Chesterfield Fire & EMS,Chesterfield Fire & EMS,,,,,,,,,,,
+Count,"2,625","2,256","2,599","2,395","2,531","2,550","2,603","2,595","2,342","2,612","2,514","2,441","30,063"
+Exposures,0,2,5,2,2,1,8,0,0,0,0,0,20
+Aid Given,7,9,4,3,3,1,4,5,3,3,2,8,52
+04301,John H Enders Fire and Rescue,John H Enders Fire and Rescue,John H Enders Fire and Rescue,,,,,,,,,,
+Count,21,21,16,14,10,17,18,20,11,12,14,15,189
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,8,17,9,6,7,7,5,2,5,2,2,7,77
+04304,Boyce Volunteer Fire Company,Boyce Volunteer Fire Company,Boyce Volunteer Fire Company,,,,,,,,,,
+Count,25,31,23,16,19,24,26,14,34,32,0,0,244
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,13,18,12,10,9,18,17,12,9,9,0,0,127
+04306,SHENANDOAH FARMS VOL FIRE,SHENANDOAH FARMS VOL FIRE,SHENANDOAH FARMS VOL FIRE,,,,,,,,,,
+Count,25,20,20,7,13,6,13,13,10,5,5,7,144
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,7,9,3,5,3,4,3,2,3,3,4,2,48
+04308,Blue Ridge Fire and Rescue,Blue Ridge Fire and Rescue,,,,,,,,,,,
+Count,11,10,11,11,8,11,11,12,13,9,13,10,130
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,14,23,15,11,10,20,19,17,19,9,23,26,206
+04502,PAINT BANK VOL. FIRE DEPT.,PAINT BANK VOL. FIRE DEPT.,PAINT BANK VOL. FIRE DEPT.,,,,,,,,,,
+Count,2,6,5,1,8,3,2,4,4,6,1,6,48
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,3,3,0,2,0,1,0,1,0,0,0,13
+Page 18 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:25 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+04503,SIMMONSVILLE VOL. FIRE DEPT.,SIMMONSVILLE VOL. FIRE DEPT.,SIMMONSVILLE VOL. FIRE DEPT.,,,,,,,,,,
+Count,5,3,4,2,0,6,3,4,4,6,4,3,44
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,2,0,0,0,0,1,0,0,0,1,0,5
+04504,NEW CASTLE VOL. FIRE DEPT.,NEW CASTLE VOL. FIRE DEPT.,NEW CASTLE VOL. FIRE DEPT.,,,,,,,,,,
+Count,12,13,10,12,9,8,6,8,10,10,0,0,98
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+04702,CULPEPER COUNTY VOL FIRE,CULPEPER COUNTY VOL FIRE,CULPEPER COUNTY VOL FIRE,,,,,,,,,,
+Count,73,61,51,60,59,53,76,57,50,45,57,35,677
+Exposures,0,0,0,0,0,0,1,0,0,0,0,0,1
+Aid Given,5,13,9,8,7,7,3,7,7,2,9,6,83
+04703,RICHARDSVILLE VOL. FIRE DEPT.,RICHARDSVILLE VOL. FIRE DEPT.,RICHARDSVILLE VOL. FIRE DEPT.,,,,,,,,,,
+Count,5,4,4,3,4,7,8,4,0,5,1,1,46
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,2,3,0,2,1,0,2,0,2,2,14
+04704,SALEM VOL. FIRE DEPT.,SALEM VOL. FIRE DEPT.,,,,,,,,,,,
+Count,21,23,6,10,4,6,2,13,9,12,9,5,120
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,5,0,3,9,11,9,1,5,6,0,10,7,66
+04705,RAPIDAN VOL. FIRE DEPT.,RAPIDAN VOL. FIRE DEPT.,,,,,,,,,,,
+Count,0,8,2,1,2,0,0,0,0,0,0,0,13
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,2,0,0,0,1,0,0,0,0,0,1,5
+Page 19 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:26 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+04706,LITTLE FORK VFD & RESCUE CO.,LITTLE FORK VFD & RESCUE CO.,LITTLE FORK VFD & RESCUE CO.,,,,,,,,,,
+Count,19,14,14,16,11,15,20,13,15,17,20,17,191
+Exposures,0,0,0,1,0,0,0,0,0,0,0,0,1
+Aid Given,6,2,2,5,2,7,4,0,2,3,3,4,40
+04707,REVA VOL. FIRE & RESCUE DEPT.,REVA VOL. FIRE & RESCUE DEPT.,REVA VOL. FIRE & RESCUE DEPT.,,,,,,,,,,
+Count,6,18,8,0,0,0,0,0,0,0,0,0,32
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,11,6,5,0,0,0,0,0,0,0,0,0,22
+04901,CARTERSVILLE VOL. FIRE DEPT.,CARTERSVILLE VOL. FIRE DEPT.,CARTERSVILLE VOL. FIRE DEPT.,,,,,,,,,,
+Count,2,3,5,3,3,3,4,4,2,4,2,2,37
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,4,1,2,0,0,0,0,1,0,0,0,0,8
+04903,Randolph District VFD,Randolph District VFD,,,,,,,,,,,
+Count,5,0,1,3,0,0,0,0,0,0,0,0,9
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+05101,Clintwood Vol. Fire Dept.,Clintwood Vol. Fire Dept.,,,,,,,,,,,
+Count,21,11,15,24,15,19,16,17,16,12,12,13,191
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,1,0,1,2,2,0,1,0,2,1,10
+05102,Haysi VFD,,,,,,,,,,,,
+Count,5,4,5,4,3,6,3,1,3,2,3,2,41
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,1,0,0,1,0,0,0,0,0,0,2
+Page 20 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:26 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+05103,Clinchco Vol. Fire Department,Clinchco Vol. Fire Department,Clinchco Vol. Fire Department,,,,,,,,,,
+Count,4,1,5,0,7,1,0,0,6,9,0,17,50
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,1,0,0,1,0,0,0,0,0,2,4
+05300,Dinwiddie County Fire & EMS,Dinwiddie County Fire & EMS,Dinwiddie County Fire & EMS,,,,,,,,,,
+Count,1,4,5,5,1,2,6,0,2,1,3,1,31
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,6,4,4,4,6,1,3,5,4,5,11,56
+05301,Dinwiddie Vol. Fire & Rescue,Dinwiddie Vol. Fire & Rescue,Dinwiddie Vol. Fire & Rescue,,,,,,,,,,
+Count,39,21,25,9,25,11,27,16,21,12,67,40,313
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,0,2,0,2,0,0,1,5,4,12,2,29
+05302,FORD VOL. FIRE DEPT.,FORD VOL. FIRE DEPT.,,,,,,,,,,,
+Count,27,26,30,26,29,28,34,28,20,21,14,15,298
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,6,5,2,2,1,2,1,1,2,1,2,0,25
+05303,McKenney Vol. Fire Dept.,McKenney Vol. Fire Dept.,,,,,,,,,,,
+Count,1,2,6,10,7,9,8,2,1,2,2,7,57
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,3,0,0,0,2,0,0,1,4,10
+05304,NAMOZINE VOL. FIRE & RES,NAMOZINE VOL. FIRE & RES,NAMOZINE VOL. FIRE & RES,,,,,,,,,,
+Count,68,51,73,42,77,52,55,57,63,60,60,67,725
+Exposures,0,0,0,0,0,2,0,0,0,0,0,0,2
+Aid Given,5,10,5,7,3,11,5,2,3,5,9,5,70
+Page 21 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:26 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+05305,OLD HICKORY VOL. FIRE DEPT.,OLD HICKORY VOL. FIRE DEPT.,OLD HICKORY VOL. FIRE DEPT.,,,,,,,,,,
+Count,3,5,3,2,4,2,5,1,5,8,5,3,46
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,6,7,2,0,2,7,1,4,5,1,1,3,39
+05701,TAPPAHANNOCK-ESSEX VOL.,TAPPAHANNOCK-ESSEX VOL.,TAPPAHANNOCK-ESSEX VOL.,,,,,,,,,,
+Count,32,21,20,12,19,11,23,22,13,23,33,24,253
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+05900,FAIRFAX COUNTY FIRE AND,FAIRFAX COUNTY FIRE AND,FAIRFAX COUNTY FIRE AND,,,,,,,,,,
+Count,"6,871","5,867","6,268","6,073","6,224","6,581","6,451","6,616","6,349","7,000","6,315","7,053","77,668"
+Exposures,17,4,3,3,1,5,0,0,0,1,0,0,34
+Aid Given,305,243,248,248,304,308,336,347,373,428,407,420,"3,967"
+06100,Fauquier Co. Dept of Fire/EMS,Fauquier Co. Dept of Fire/EMS,Fauquier Co. Dept of Fire/EMS,,,,,,,,,,
+Count,12,23,14,15,13,9,16,8,3,0,0,0,113
+Exposures,0,0,0,0,0,0,1,1,0,0,0,0,2
+Aid Given,0,2,0,4,1,0,3,2,5,0,0,0,17
+06101,Warrenton,Volunteer Fire Comp,Volunteer Fire Comp,,,,,,,,,,
+Count,93,99,68,83,66,68,94,89,83,95,61,95,994
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,18,8,14,18,15,17,15,18,10,16,18,20,187
+06102,Remington Fire and Rescue,Remington Fire and Rescue,,,,,,,,,,,
+Count,0,0,0,36,35,29,11,42,14,0,0,0,167
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,9,4,4,0,2,2,0,0,0,21
+Page 22 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:26 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+06103,Marshall Fire Dept,Marshall Fire Dept,,,,,,,,,,,
+Count,50,39,31,31,34,29,22,37,31,0,0,0,304
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,4,4,2,3,4,3,6,3,2,0,0,0,31
+06104,The Plains Fire and Rescue Dep,The Plains Fire and Rescue Dep,The Plains Fire and Rescue Dep,,,,,,,,,,
+Count,21,13,19,18,12,19,19,17,0,0,0,0,138
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+06108,Goldvein Fire Dept,Goldvein Fire Dept,,,,,,,,,,,
+Count,15,8,17,0,0,0,1,1,0,0,0,0,42
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,2,0,0,0,0,0,0,0,0,0,0,5
+06110,New Baltimore Fire and Rescue,New Baltimore Fire and Rescue,New Baltimore Fire and Rescue,,,,,,,,,,
+Count,1,3,12,15,19,17,9,14,8,16,25,22,161
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,1,1,0,1,2,0,0,0,0,0,5
+06111,Orlean Fire and Rescue Dept,Orlean Fire and Rescue Dept,Orlean Fire and Rescue Dept,,,,,,,,,,
+Count,14,9,8,8,6,5,12,5,7,0,0,0,74
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,3,0,4,2,2,0,3,3,0,0,0,20
+06113,Lois Fire Dept,,,,,,,,,,,,
+Count,26,20,20,31,14,15,0,0,0,0,0,0,126
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,8,9,0,6,4,2,0,0,0,0,0,0,29
+Page 23 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:27 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+06301,Floyd Co. Vol. Fire Dept. #1,Floyd Co. Vol. Fire Dept. #1,,,,,,,,,,,
+Count,9,8,8,7,16,6,9,9,6,10,10,11,109
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,6,1,1,0,1,0,1,0,0,0,2,15
+06302,Floyd Co. Vol. Fire Dept. #2,Floyd Co. Vol. Fire Dept. #2,,,,,,,,,,,
+Count,8,12,11,5,3,1,3,4,6,3,3,4,63
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,2,1,5,0,0,0,0,0,0,1,1,13
+06303,Floyd Co. Vol. Fire Dept. #3,Floyd Co. Vol. Fire Dept. #3,,,,,,,,,,,
+Count,10,9,6,6,12,8,7,8,4,7,7,15,99
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,2,1,0,1,0,0,0,0,0,0,0,4
+06304,Floyd Co. Vol. Fire Dept. #4,Floyd Co. Vol. Fire Dept. #4,,,,,,,,,,,
+Count,4,5,2,4,6,2,0,2,1,6,2,3,37
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,2,3,2,0,0,0,0,0,0,0,0,7
+06700,Frankllin County Emerg Srvs.,Frankllin County Emerg Srvs.,Frankllin County Emerg Srvs.,,,,,,,,,,
+Count,25,14,8,7,3,3,4,3,5,2,5,3,82
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,0,1,5,5,4,3,4,1,1,3,4,34
+06701,Boones Mill Vol. Fire Dept.,Boones Mill Vol. Fire Dept.,,,,,,,,,,,
+Count,16,13,14,14,13,9,17,7,12,10,13,12,150
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,1,0,0,1,0,0,0,0,1,0,1,4
+Page 24 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:27 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+06702,BURNT CHIMNEY VOL. FIRE DEPT.,BURNT CHIMNEY VOL. FIRE DEPT.,BURNT CHIMNEY VOL. FIRE DEPT.,,,,,,,,,,
+Count,3,0,2,0,0,0,0,0,0,0,0,0,5
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,13,18,10,21,12,16,12,7,13,8,7,16,153
+06703,CALLAWAY VOL. FIRE DEPT.,CALLAWAY VOL. FIRE DEPT.,CALLAWAY VOL. FIRE DEPT.,,,,,,,,,,
+Count,0,5,4,6,3,3,4,2,1,1,0,3,32
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,1,1,0,1,1,2,0,1,0,0,1,8
+06704,FERRUM VOL. FIRE DEPT.,FERRUM VOL. FIRE DEPT.,,,,,,,,,,,
+Count,12,8,5,2,7,4,6,4,6,10,10,5,79
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,1,3,3,1,5,2,0,2,2,5,3,28
+06705,FORK MOUNTAIN VOL. FIRE,FORK MOUNTAIN VOL. FIRE,,,,,,,,,,,
+Count,6,3,5,8,2,2,3,1,2,5,4,5,46
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,1,2,3,2,0,1,0,1,1,4,2,18
+06706,Glade Hill Fire Dept.,Glade Hill Fire Dept.,,,,,,,,,,,
+Count,5,5,6,5,2,7,3,8,7,6,7,9,70
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,9,6,3,4,5,3,1,4,3,5,4,50
+06707,ROCKY MOUNT FIRE,ROCKY MOUNT FIRE,,,,,,,,,,,
+Count,21,17,14,18,29,26,25,16,16,24,26,20,252
+Exposures,0,0,0,0,0,1,0,0,0,0,0,0,1
+Aid Given,0,0,0,0,0,0,0,0,1,0,4,1,6
+Page 25 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:27 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+06708,SCRUGGS VOL. FIRE DEPT.,SCRUGGS VOL. FIRE DEPT.,,,,,,,,,,,
+Count,13,16,8,19,8,10,8,6,6,8,1,6,109
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,7,3,4,1,2,1,2,1,1,2,1,2,27
+06709,Smith Mountain Dock & Lodge,Smith Mountain Dock & Lodge,Smith Mountain Dock & Lodge,,,,,,,,,,
+Count,20,9,13,14,34,52,63,0,0,0,0,0,205
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,1,4,5,4,7,10,0,0,0,0,0,32
+06710,SNOW CREEK VOL. FIRE DEPT.,SNOW CREEK VOL. FIRE DEPT.,SNOW CREEK VOL. FIRE DEPT.,,,,,,,,,,
+Count,10,6,4,6,6,5,5,3,8,3,0,5,61
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,1,1,3,1,1,0,0,0,2,1,0,13
+06900,Frederick County Fire and Resc,Frederick County Fire and Resc,Frederick County Fire and Resc,,,,,,,,,,
+Count,9,8,4,1,3,3,1,2,1,1,3,0,36
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,6,7,9,7,5,9,8,3,6,5,3,3,71
+06911,Stephens City,,,,,,,,,,,,
+Count,185,150,169,180,163,165,202,228,357,330,272,346,"2,747"
+Exposures,0,0,2,0,0,0,0,0,0,0,0,0,2
+Aid Given,12,21,15,10,10,14,13,9,15,16,11,12,158
+06912,Middletown,,,,,,,,,,,,
+Count,31,29,46,30,28,36,33,38,21,35,30,24,381
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,20,28,26,15,22,14,18,19,13,14,15,15,219
+Page 26 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:27 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+06913,Clearbrook,,,,,,,,,,,,
+Count,74,89,112,72,96,81,88,59,59,71,74,64,939
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,13,20,10,10,7,12,11,4,5,7,6,6,111
+06914,GORE VOL. FIRE DEPT.,GORE VOL. FIRE DEPT.,,,,,,,,,,,
+Count,18,11,17,17,7,9,17,14,12,23,12,17,174
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,1,8,2,1,2,1,0,5,1,2,2,28
+06915,Round Hill,,,,,,,,,,,,
+Count,72,78,67,63,67,61,84,80,69,89,89,64,883
+Exposures,0,0,0,0,0,0,1,0,0,0,0,0,1
+Aid Given,6,7,6,9,13,4,2,10,6,5,3,5,76
+06916,Gainesboro,,,,,,,,,,,,
+Count,39,42,36,27,55,24,41,33,33,39,30,32,431
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,11,15,12,11,9,2,4,4,1,1,2,2,74
+06917,STAR TANNERY VOL. FIRE DEPT.,STAR TANNERY VOL. FIRE DEPT.,STAR TANNERY VOL. FIRE DEPT.,,,,,,,,,,
+Count,8,7,4,11,2,10,6,8,9,4,2,8,79
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,5,1,1,0,1,0,4,1,1,3,2,20
+06918,Greenwood,,,,,,,,,,,,
+Count,137,129,156,134,161,145,154,121,142,161,151,138,"1,729"
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,7,22,9,9,15,11,5,5,2,7,4,3,99
+Page 27 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:28 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+06919,North Mountain,,,,,,,,,,,,
+Count,31,36,17,26,22,30,22,25,20,25,25,26,305
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,1,2,2,2,1,0,0,1,1,0,0,11
+06920,Reynolds Store,,,,,,,,,,,,
+Count,18,32,20,20,14,14,14,18,9,14,15,17,205
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,9,7,11,14,2,4,1,5,12,5,5,7,82
+06921,Millwood Station,,,,,,,,,,,,
+Count,55,49,46,55,74,53,74,49,53,58,52,58,676
+Exposures,0,0,0,0,0,0,1,0,0,0,0,0,1
+Aid Given,13,10,6,5,8,6,1,8,8,14,14,12,105
+07110,EGGLESTON VOL. FIRE DEPT.,EGGLESTON VOL. FIRE DEPT.,EGGLESTON VOL. FIRE DEPT.,,,,,,,,,,
+Count,1,7,3,4,3,0,1,2,1,2,2,3,29
+Exposures,0,0,0,1,0,0,0,0,0,0,0,0,1
+Aid Given,2,1,0,1,0,1,1,1,0,0,0,0,7
+07120,GLEN LYN VOL. FIRE DEPT.,GLEN LYN VOL. FIRE DEPT.,,,,,,,,,,,
+Count,10,23,16,0,0,1,0,0,0,0,0,0,50
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,1,1,0,0,0,0,0,0,0,0,0,2
+07130,NARROWS VOL. FIRE DEPT.,NARROWS VOL. FIRE DEPT.,,,,,,,,,,,
+Count,5,5,8,4,10,9,7,3,10,3,4,8,76
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+Page 28 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:28 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+07140,NEWPORT VOL. FIRE DEPT.,NEWPORT VOL. FIRE DEPT.,,,,,,,,,,,
+Count,5,5,3,1,2,2,3,3,0,0,0,0,24
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,1,0,1,0,0,1,0,0,0,0,0,6
+07160,PEMBROKE VOL. FIRE DEPT.,PEMBROKE VOL. FIRE DEPT.,PEMBROKE VOL. FIRE DEPT.,,,,,,,,,,
+Count,5,6,13,5,8,10,7,4,5,3,2,7,75
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,0,1,1,0,0,0,1,0,0,0,0,6
+07170,POPLAR HILL VOL. FIRE DEPT.,POPLAR HILL VOL. FIRE DEPT.,POPLAR HILL VOL. FIRE DEPT.,,,,,,,,,,
+Count,1,0,0,1,1,0,0,0,0,0,0,0,3
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,1,0,0,0,0,0,0,0,1
+07180,RICH CREEK VOL. FIRE DEPT.,RICH CREEK VOL. FIRE DEPT.,RICH CREEK VOL. FIRE DEPT.,,,,,,,,,,
+Count,5,5,4,1,5,3,3,9,6,3,1,4,49
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,1,1,0,1,0,0,2,0,2,1,1,9
+07301,Abingdon Vol. Fire & Rescue,Abingdon Vol. Fire & Rescue,Abingdon Vol. Fire & Rescue,,,,,,,,,,
+Count,121,127,120,155,126,136,112,132,123,130,130,136,"1,548"
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,1,8,6,4,6,4,3,2,2,2,10,51
+07310,Gloucester Vol. Fire & Rescue,Gloucester Vol. Fire & Rescue,Gloucester Vol. Fire & Rescue,,,,,,,,,,
+Count,65,68,48,78,46,50,50,59,46,62,60,77,709
+Exposures,0,0,0,0,0,0,0,0,0,0,0,1,1
+Aid Given,1,7,4,1,2,1,2,0,0,1,2,4,25
+Page 29 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:28 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+07500,Goochand Co. Fire/Rescue Dept.,Goochand Co. Fire/Rescue Dept.,Goochand Co. Fire/Rescue Dept.,,,,,,,,,,
+Count,69,67,97,70,59,73,42,45,35,28,22,49,656
+Exposures,0,0,1,0,0,0,0,0,0,0,0,0,1
+Aid Given,0,2,1,2,0,0,0,0,1,0,0,0,6
+07701,ELK CREEK VOL. FIRE DEPT.,ELK CREEK VOL. FIRE DEPT.,ELK CREEK VOL. FIRE DEPT.,,,,,,,,,,
+Count,1,4,3,3,1,4,1,4,1,0,4,3,29
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,1,0,0,0,0,0,0,0,0,0,1
+07702,FRIES VOL. FIRE DEPT.,FRIES VOL. FIRE DEPT.,,,,,,,,,,,
+Count,4,2,3,3,3,7,1,3,1,4,1,6,38
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+07703,INDEPENDENCE VOL. FIRE DEPT.,INDEPENDENCE VOL. FIRE DEPT.,INDEPENDENCE VOL. FIRE DEPT.,,,,,,,,,,
+Count,8,11,11,4,9,10,2,5,5,2,2,9,78
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,2,0,0,0,0,0,0,0,0,2
+07706,RUGBY FIRE DEPT.,RUGBY FIRE DEPT.,,,,,,,,,,,
+Count,2,3,2,4,1,3,5,1,1,3,5,8,38
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,1,0,0,0,0,0,2,0,0,3
+07901,RUCKERSVILLE VOL. FIRE DEPT.,RUCKERSVILLE VOL. FIRE DEPT.,RUCKERSVILLE VOL. FIRE DEPT.,,,,,,,,,,
+Count,64,57,43,43,52,52,33,30,25,42,35,0,476
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,11,1,0,0,0,0,0,0,0,6,4,0,22
+Page 30 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:28 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+07902,Stanardsville Vol. Fire Co.,Stanardsville Vol. Fire Co.,,,,,,,,,,,
+Count,2,0,0,0,0,0,0,0,0,0,0,0,2
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,4,0,0,0,0,0,0,0,0,0,0,0,4
+07903,"DYKE VOL. FIRE DEPT., INC.","DYKE VOL. FIRE DEPT., INC.","DYKE VOL. FIRE DEPT., INC.",,,,,,,,,,
+Count,9,4,4,4,7,7,3,4,3,7,8,5,65
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,22,17,8,10,3,13,1,5,12,11,17,13,132
+08301,CLOVER VOL. FIRE DEPT.,CLOVER VOL. FIRE DEPT.,,,,,,,,,,,
+Count,7,11,8,9,5,11,11,9,8,16,9,10,114
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,1,0,0,1,0,1,0,0,0,1,1,8
+08302,CLUSTER SPRINGS VOL. FIRE,CLUSTER SPRINGS VOL. FIRE,CLUSTER SPRINGS VOL. FIRE,,,,,,,,,,
+Count,12,10,12,15,6,10,15,12,5,11,6,10,124
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,0,1,0,0,0,0,1,0,2,1,0,6
+08303,HALIFAX VOL. FIRE DEPT.,HALIFAX VOL. FIRE DEPT.,,,,,,,,,,,
+Count,18,25,24,18,16,32,24,20,20,21,29,21,268
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,5,3,0,3,0,0,3,0,2,3,6,27
+08304,LIBERTY VOL. FIRE DEPT.,LIBERTY VOL. FIRE DEPT.,,,,,,,,,,,
+Count,3,0,1,1,3,0,1,3,1,4,0,2,19
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,2,2,0,0,1,0,0,2,1,5,0,15
+Page 31 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:29 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+08305,MIDWAY VOL. FIRE DEPT.,MIDWAY VOL. FIRE DEPT.,,,,,,,,,,,
+Count,2,1,1,2,1,0,1,2,3,2,2,1,18
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,4,0,0,0,0,0,0,0,0,0,0,4
+08306,NORTH HALIFAX VOL. FIRE DEPT.,NORTH HALIFAX VOL. FIRE DEPT.,NORTH HALIFAX VOL. FIRE DEPT.,,,,,,,,,,
+Count,38,36,45,33,34,37,38,46,36,37,31,48,459
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,2,0,0,0,0,0,0,0,1,1,0,4
+08307,OAK LEVEL VOL. FIRE DEPT.,OAK LEVEL VOL. FIRE DEPT.,OAK LEVEL VOL. FIRE DEPT.,,,,,,,,,,
+Count,14,13,10,4,14,15,17,9,11,11,15,11,144
+Exposures,0,0,0,0,0,0,0,1,0,0,0,0,1
+Aid Given,1,0,0,0,0,0,0,0,0,1,2,0,4
+08308,SCOTTSBURG VOL. FIRE DEPT.,SCOTTSBURG VOL. FIRE DEPT.,SCOTTSBURG VOL. FIRE DEPT.,,,,,,,,,,
+Count,4,1,0,0,0,0,1,2,0,0,1,2,11
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,0,0,0,0,0,0,0,0,0,0,0,2
+08309,TRIANGLE VOL. FIRE DEPT.,TRIANGLE VOL. FIRE DEPT.,,,,,,,,,,,
+Count,10,6,10,4,7,4,7,6,3,5,9,6,77
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,2,2,1,0,0,0,2,1,2,2,0,14
+08310,TURBEVILLE VOL. FIRE DEPT.,TURBEVILLE VOL. FIRE DEPT.,TURBEVILLE VOL. FIRE DEPT.,,,,,,,,,,
+Count,13,13,11,11,18,11,15,16,15,20,14,15,172
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,2,2,1,0,0,1,0,0,0,0,1,7
+Page 32 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:29 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+08311,VIRGILINA VOL. FIRE DEPT.,VIRGILINA VOL. FIRE DEPT.,,,,,,,,,,,
+Count,14,16,13,10,8,9,21,10,14,11,15,10,151
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,2,0,0,0,0,1,2,0,2,2,0,10
+08501,ASHLAND VOL. FIRE DEPT.,ASHLAND VOL. FIRE DEPT.,,,,,,,,,,,
+Count,150,131,146,124,145,158,144,148,104,135,120,131,"1,636"
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,14,9,4,10,8,13,10,11,5,6,12,7,109
+08502,BEAVERDAM VOL. FIRE DEPT.,BEAVERDAM VOL. FIRE DEPT.,BEAVERDAM VOL. FIRE DEPT.,,,,,,,,,,
+Count,26,18,16,19,19,0,12,18,8,3,9,12,160
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,4,2,4,1,5,0,2,2,0,0,0,2,22
+08503,EASTERN HANOVER VOL FIRE,EASTERN HANOVER VOL FIRE,EASTERN HANOVER VOL FIRE,,,,,,,,,,
+Count,45,24,64,34,41,43,33,49,38,42,43,62,518
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,14,9,16,8,20,16,13,5,13,10,16,6,146
+08504,DOSWELL VOL. FIRE DEPT.,DOSWELL VOL. FIRE DEPT.,,,,,,,,,,,
+Count,45,19,38,31,30,28,33,39,11,23,34,44,375
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,17,8,6,6,12,18,18,9,6,7,9,10,126
+08505,HANOVER COURTHOUSE VOL,HANOVER COURTHOUSE VOL,HANOVER COURTHOUSE VOL,,,,,,,,,,
+Count,17,17,37,13,15,6,6,9,4,10,2,5,141
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,28,13,6,12,10,3,10,12,12,10,10,5,131
+Page 33 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:29 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+08506,HENRY VOL. FIRE DEPT.,HENRY VOL. FIRE DEPT.,,,,,,,,,,,
+Count,106,79,119,75,67,91,80,81,56,80,114,89,"1,037"
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,9,3,12,6,7,4,6,16,8,10,13,11,105
+08507,MECHANICSVILLE VOL. FIRE,MECHANICSVILLE VOL. FIRE,MECHANICSVILLE VOL. FIRE,,,,,,,,,,
+Count,146,115,192,127,126,160,135,136,91,100,141,151,"1,620"
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,24,4,13,13,8,20,14,6,6,11,10,9,138
+08508,MONTPELIER VOL. FIRE DEPT.,MONTPELIER VOL. FIRE DEPT.,MONTPELIER VOL. FIRE DEPT.,,,,,,,,,,
+Count,49,46,64,45,47,53,52,38,29,60,41,43,567
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,8,0,1,0,4,2,4,4,3,1,1,3,31
+08509,ROCKVILLE VOL. FIRE DEPT.,ROCKVILLE VOL. FIRE DEPT.,ROCKVILLE VOL. FIRE DEPT.,,,,,,,,,,
+Count,23,18,26,15,17,18,16,23,24,21,24,21,246
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,4,5,4,4,3,1,0,2,1,1,3,0,28
+08510,CHICKAHOMINY FIRE DEPT.,CHICKAHOMINY FIRE DEPT.,,,,,,,,,,,
+Count,84,55,79,56,68,77,76,85,68,81,83,52,864
+Exposures,0,4,0,0,0,0,0,0,0,0,0,0,4
+Aid Given,19,11,22,21,17,21,12,14,14,21,16,20,208
+08511,FARRINGTON FIRE DEPARTMENT,FARRINGTON FIRE DEPARTMENT,FARRINGTON FIRE DEPARTMENT,,,,,,,,,,
+Count,28,28,36,26,29,19,16,21,16,15,27,15,276
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,9,8,6,4,8,1,3,2,3,0,3,1,48
+Page 34 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:30 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+08512,BLACK CREEK FIRE DEPT.,BLACK CREEK FIRE DEPT.,,,,,,,,,,,
+Count,20,20,41,21,22,23,22,13,15,12,21,8,238
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,11,5,10,13,9,10,9,8,11,8,7,10,111
+08700,HENRICO DIVISION OF FIRE,HENRICO DIVISION OF FIRE,HENRICO DIVISION OF FIRE,,,,,,,,,,
+Count,"3,183","2,795","3,290","3,099","3,113","3,008","3,071","3,083","2,853","3,182","2,948","3,297","36,922"
+Exposures,2,4,5,3,5,0,9,3,0,0,0,1,32
+Aid Given,13,11,8,6,9,15,10,10,12,10,11,9,124
+08900,Henry County Public Safety,Henry County Public Safety,,,,,,,,,,,
+Count,0,0,0,0,0,0,1,0,0,0,0,0,1
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,2,4,4,4,1,2,2,4,3,4,0,33
+08901,AXTON VOL. FIRE DEPT.,AXTON VOL. FIRE DEPT.,,,,,,,,,,,
+Count,23,10,17,5,12,10,6,13,8,7,6,8,125
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,4,0,0,1,1,0,0,0,2,0,1,9
+08902,BASSETT VOLUNTEER FIRE,BASSETT VOLUNTEER FIRE,BASSETT VOLUNTEER FIRE,,,,,,,,,,
+Count,37,24,24,17,17,25,18,22,15,26,10,20,255
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,4,0,1,0,1,2,2,0,0,3,2,4,19
+08903,COLLINSVILLE VOL. FIRE DEPT.,COLLINSVILLE VOL. FIRE DEPT.,COLLINSVILLE VOL. FIRE DEPT.,,,,,,,,,,
+Count,31,25,21,17,26,22,24,16,20,17,28,26,273
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,3,0,3,7,0,3,3,2,4,3,3,34
+Page 35 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:30 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+08904,DYER'S STORE VOL. FIRE DEPT.,DYER'S STORE VOL. FIRE DEPT.,DYER'S STORE VOL. FIRE DEPT.,,,,,,,,,,
+Count,3,7,2,3,3,0,0,0,0,0,0,0,18
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,6,2,3,1,0,0,0,0,0,0,0,0,12
+08905,Fieldale Fire Department,Fieldale Fire Department,,,,,,,,,,,
+Count,10,10,9,7,5,8,3,3,2,7,4,0,68
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,0,0,1,2,5,0,0,1,1,2,0,13
+08906,HORSEPASTURE VOL. FIRE DEPT.,HORSEPASTURE VOL. FIRE DEPT.,HORSEPASTURE VOL. FIRE DEPT.,,,,,,,,,,
+Count,19,9,8,4,6,8,1,3,6,12,10,9,95
+Exposures,0,0,0,0,0,0,0,0,1,0,0,0,1
+Aid Given,2,3,0,1,1,0,0,0,2,3,3,1,16
+08908,RIDGEWAY VOL. FIRE DEPT.,RIDGEWAY VOL. FIRE DEPT.,RIDGEWAY VOL. FIRE DEPT.,,,,,,,,,,
+Count,25,32,32,37,16,21,25,26,15,25,31,27,312
+Exposures,0,0,0,0,0,0,0,1,0,0,0,0,1
+Aid Given,8,2,3,1,3,6,2,2,4,3,1,2,37
+09101,HIGHLAND CO. VOL. FIRE DEPT.,HIGHLAND CO. VOL. FIRE DEPT.,HIGHLAND CO. VOL. FIRE DEPT.,,,,,,,,,,
+Count,1,6,3,3,1,4,3,3,6,5,1,3,39
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,0,1,0,0,0,0,0,0,0,0,1,3
+09301,Carrollton Vol. Fire Dept.,Carrollton Vol. Fire Dept.,,,,,,,,,,,
+Count,65,55,66,67,67,62,74,59,53,69,69,65,771
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,0,2,2,3,0,0,3,0,0,1,0,12
+Page 36 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:30 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+09303,Smithfield Vol. Fire Dept.,Smithfield Vol. Fire Dept.,,,,,,,,,,,
+Count,37,43,29,41,40,37,0,0,0,0,0,0,227
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,3,0,0,0,0,0,0,0,0,0,0,3
+09304,Windsor Vol. Fire Dept.,Windsor Vol. Fire Dept.,,,,,,,,,,,
+Count,23,11,24,19,23,18,24,10,20,20,13,14,219
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,2,0,2,1,1,3,0,4,0,0,0,15
+09305,Rushmere Vol. Fire Dept.,Rushmere Vol. Fire Dept.,,,,,,,,,,,
+Count,0,0,0,2,2,5,0,2,1,3,7,0,22
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,1,1,0,0,0,0,0,0,1,3
+09500,James City Co. Fire Department,James City Co. Fire Department,James City Co. Fire Department,,,,,,,,,,
+Count,593,574,636,662,660,630,707,659,643,647,692,652,"7,755"
+Exposures,0,2,0,0,0,0,0,1,0,1,0,0,4
+Aid Given,38,45,62,54,63,56,91,69,52,46,67,66,709
+09701,CENTRAL KING & QUEEN VOL.,CENTRAL KING & QUEEN VOL.,CENTRAL KING & QUEEN VOL.,,,,,,,,,,
+Count,4,1,2,3,0,1,3,1,0,0,0,0,15
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,1,0,1,0,0,1,0,0,0,0,0,3
+09702,LOWER KING & QUEEN VFD,LOWER KING & QUEEN VFD,LOWER KING & QUEEN VFD,,,,,,,,,,
+Count,2,4,6,2,5,4,4,10,3,4,5,6,55
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,0,0,2,1,1,1,0,1,0,2,0,9
+Page 37 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:30 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+09703,UPPER KING & QUEEN VOL. FIRE,UPPER KING & QUEEN VOL. FIRE,UPPER KING & QUEEN VOL. FIRE,,,,,,,,,,
+Count,7,4,8,5,3,4,4,5,3,4,2,3,52
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,0,0,0,0,0,2,0,0,1,0,0,5
+09704,WALKERTON VOL. FIRE DEPT.,WALKERTON VOL. FIRE DEPT.,WALKERTON VOL. FIRE DEPT.,,,,,,,,,,
+Count,6,13,8,9,6,8,6,9,5,5,5,3,83
+Exposures,0,0,1,0,0,0,0,0,0,0,0,0,1
+Aid Given,2,3,1,5,2,3,3,1,0,2,2,0,24
+09900,KING GEORGE EMERGENCY,KING GEORGE EMERGENCY,KING GEORGE EMERGENCY,,,,,,,,,,
+Count,63,69,99,100,82,98,81,63,60,75,56,65,911
+Exposures,0,2,1,0,0,0,1,0,0,1,0,0,5
+Aid Given,6,8,6,6,9,2,3,5,2,5,9,0,61
+10101,KING WILLIAM VOL. FIRE DEPT.,KING WILLIAM VOL. FIRE DEPT.,KING WILLIAM VOL. FIRE DEPT.,,,,,,,,,,
+Count,9,5,7,12,8,10,13,15,41,36,29,21,206
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,3,0,0,0,0,0,0,0,0,0,0,3
+10103,WEST POINT VOL. FIRE DEPT.,WEST POINT VOL. FIRE DEPT.,WEST POINT VOL. FIRE DEPT.,,,,,,,,,,
+Count,0,0,0,0,0,0,1,0,8,0,0,0,9
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+10104,MANGOHICK VOL. FIRE DEPT.,MANGOHICK VOL. FIRE DEPT.,MANGOHICK VOL. FIRE DEPT.,,,,,,,,,,
+Count,2,6,8,13,2,0,0,0,0,0,3,1,35
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,4,3,3,1,0,0,0,0,0,2,0,13
+Page 38 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:30 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+10308,KILMARNOCK VOL. FIRE DEPT.,KILMARNOCK VOL. FIRE DEPT.,KILMARNOCK VOL. FIRE DEPT.,,,,,,,,,,
+Count,9,8,15,5,0,0,0,0,0,0,0,0,37
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,5,2,0,2,0,0,0,0,0,0,0,0,9
+10501,JONESVILLE VOL. FIRE DEPT.,JONESVILLE VOL. FIRE DEPT.,JONESVILLE VOL. FIRE DEPT.,,,,,,,,,,
+Count,7,2,10,8,8,4,1,8,5,7,6,6,72
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,1,1,0,2
+10503,PENNINGTON GAP VOL. FIRE,PENNINGTON GAP VOL. FIRE,PENNINGTON GAP VOL. FIRE,,,,,,,,,,
+Count,9,7,4,4,6,10,5,3,0,0,0,0,48
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,2,0,1,2,1,1,0,0,0,0,0,10
+10504,Thomas Walker Vol Fire Dept #1,Thomas Walker Vol Fire Dept #1,Thomas Walker Vol Fire Dept #1,,,,,,,,,,
+Count,0,3,3,6,3,2,8,4,6,3,2,2,42
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,0,2,2,1,0,0,0,0,0,1,0,8
+10505,DRYDEN VOL. FIRE DEPT.,DRYDEN VOL. FIRE DEPT.,,,,,,,,,,,
+Count,0,0,1,1,2,0,0,0,0,0,0,0,4
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+10508,Thomas Walker Vol Fire Dept #2,Thomas Walker Vol Fire Dept #2,Thomas Walker Vol Fire Dept #2,,,,,,,,,,
+Count,1,0,1,2,1,0,0,0,0,0,1,0,6
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,1,1,1,0,3,0,3,0,0,1,10
+Page 39 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:31 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+10700,Loudoun Co. Fire & Rescue,Loudoun Co. Fire & Rescue,,,,,,,,,,,
+Count,0,0,0,0,0,0,1,134,161,200,170,168,834
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,1,17,17,14,19,19,87
+10701,Leesburg Vol. Fire Company,Leesburg Vol. Fire Company,,,,,,,,,,,
+Count,192,130,170,159,141,175,169,142,125,119,127,130,"1,779"
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,7,8,2,3,8,5,4,4,5,5,4,11,66
+10702,PURCELLVILLE VOL. FIRE DEPT.,PURCELLVILLE VOL. FIRE DEPT.,PURCELLVILLE VOL. FIRE DEPT.,,,,,,,,,,
+Count,0,47,49,35,34,41,29,31,30,2,31,47,376
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,7,17,8,13,4,5,6,3,2,10,13,89
+10703,MIDDLEBURG VOL. FIRE DEPT.,MIDDLEBURG VOL. FIRE DEPT.,MIDDLEBURG VOL. FIRE DEPT.,,,,,,,,,,
+Count,8,7,13,11,11,11,19,10,12,5,10,5,122
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,12,6,6,4,5,3,7,5,3,1,4,3,59
+10704,ROUND HILL VOL. FIRE DEPT.,ROUND HILL VOL. FIRE DEPT.,ROUND HILL VOL. FIRE DEPT.,,,,,,,,,,
+Count,11,7,13,2,13,25,17,9,11,10,11,9,138
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,2,1,2,8,1,0,1,1,1,5,6,30
+10705,HAMILTON VOL. FIRE DEPT.,HAMILTON VOL. FIRE DEPT.,,,,,,,,,,,
+Count,0,0,0,0,0,0,0,2,0,0,0,0,2
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+Page 40 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:31 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+10706,ASHBURN FIRE & RESCUE,ASHBURN FIRE & RESCUE,,,,,,,,,,,
+Count,516,385,419,405,420,416,378,295,276,303,328,337,"4,478"
+Exposures,0,0,0,0,3,0,0,0,0,0,0,0,3
+Aid Given,37,33,33,22,26,28,29,32,19,27,23,32,341
+10707,ALDIE VOL. FIRE DEPT.,ALDIE VOL. FIRE DEPT.,,,,,,,,,,,
+Count,16,8,17,13,16,8,23,19,15,12,14,13,174
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,9,6,10,2,9,2,0,4,4,6,2,10,64
+10708,Philomont Vol. Fire Dept.,Philomont Vol. Fire Dept.,,,,,,,,,,,
+Count,11,8,7,2,5,3,6,5,4,5,0,6,62
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,5,4,0,0,2,1,0,1,1,0,0,0,14
+10709,ARCOLA-PLEASANT VAL. FIRE,ARCOLA-PLEASANT VAL. FIRE,ARCOLA-PLEASANT VAL. FIRE,,,,,,,,,,
+Count,111,77,82,95,91,65,80,42,82,70,87,77,959
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+10710,LUCKETTS VOL. FIRE DEPT.,LUCKETTS VOL. FIRE DEPT.,LUCKETTS VOL. FIRE DEPT.,,,,,,,,,,
+Count,20,16,17,11,9,22,13,8,11,4,5,23,159
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,6,15,19,8,18,13,10,5,7,8,9,11,129
+10711,STERLING PARK VOL. FIRE DEPT.,STERLING PARK VOL. FIRE DEPT.,STERLING PARK VOL. FIRE DEPT.,,,,,,,,,,
+Count,352,216,260,255,261,270,305,254,213,282,255,287,"3,210"
+Exposures,0,0,0,3,0,0,0,0,0,0,0,0,3
+Aid Given,3,7,3,8,10,6,4,7,2,7,3,4,64
+Page 41 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:31 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+10712,LOVETTSVILLE VOL. FIRE DEPT.,LOVETTSVILLE VOL. FIRE DEPT.,LOVETTSVILLE VOL. FIRE DEPT.,,,,,,,,,,
+Count,0,0,0,4,0,0,0,0,0,0,7,4,15
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,1,0,0,0,0,0,0,4,0,5
+10716,NEERSVILLE VOL. VOL. FIRE,NEERSVILLE VOL. VOL. FIRE,NEERSVILLE VOL. VOL. FIRE,,,,,,,,,,
+Count,13,13,16,10,19,13,14,20,8,10,3,13,152
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,7,21,10,4,6,3,4,2,1,5,2,6,71
+10901,BUMPASS VOL. FIRE DEPT.,BUMPASS VOL. FIRE DEPT.,,,,,,,,,,,
+Count,4,4,9,10,7,9,4,3,6,5,7,7,75
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,6,11,7,7,4,2,5,3,2,6,2,8,63
+10902,HOLLY GROVE FIRE DEPT.,HOLLY GROVE FIRE DEPT.,,,,,,,,,,,
+Count,7,14,16,11,7,2,6,10,4,0,0,0,77
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,7,13,7,2,4,1,6,3,1,0,0,0,44
+10903,LOCUST CREEK VOL. FIRE DEPT.,LOCUST CREEK VOL. FIRE DEPT.,LOCUST CREEK VOL. FIRE DEPT.,,,,,,,,,,
+Count,19,23,32,24,24,17,35,25,15,25,23,25,287
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,13,9,4,3,0,0,1,0,0,0,0,0,30
+10904,LOUISA VOL. FIRE DEPT.,LOUISA VOL. FIRE DEPT.,,,,,,,,,,,
+Count,25,25,22,16,18,31,14,24,13,28,35,27,278
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,19,20,23,13,16,24,13,25,10,10,15,32,220
+Page 42 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:31 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+10905,MINERAL VOL. FIRE DEPT.,MINERAL VOL. FIRE DEPT.,,,,,,,,,,,
+Count,26,29,39,21,22,24,18,8,27,26,40,44,324
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,11,20,10,11,5,9,5,7,9,13,14,17,131
+10906,Trevilians Volunteer Fire Dep.,Trevilians Volunteer Fire Dep.,Trevilians Volunteer Fire Dep.,,,,,,,,,,
+Count,8,6,0,0,0,0,0,0,0,0,0,0,14
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,5,8,0,0,0,0,0,0,0,0,0,0,13
+10907,ZION CROSSROADS VOL. F. D.,ZION CROSSROADS VOL. F. D.,ZION CROSSROADS VOL. F. D.,,,,,,,,,,
+Count,4,2,5,5,0,0,0,0,0,0,0,0,16
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,8,9,10,17,0,0,0,0,0,0,0,0,44
+11101,KENBRIDGE VOL. FIRE DEPT.,KENBRIDGE VOL. FIRE DEPT.,KENBRIDGE VOL. FIRE DEPT.,,,,,,,,,,
+Count,13,5,6,7,5,4,15,9,8,8,9,13,102
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,1,0,0,0,1,1,0,1,0,0,1,5
+11103,VICTORIA FIRE & RESCUE INC.,VICTORIA FIRE & RESCUE INC.,VICTORIA FIRE & RESCUE INC.,,,,,,,,,,
+Count,57,58,80,65,57,66,60,0,0,0,0,65,508
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,5,6,8,8,9,9,9,0,0,0,0,7,61
+11301,MADISON FIRE DEPARTMENT,MADISON FIRE DEPARTMENT,MADISON FIRE DEPARTMENT,,,,,,,,,,
+Count,44,41,33,25,26,30,30,18,28,31,29,40,375
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+Page 43 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:31 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+11501,MATHEWS VOL. FIRE DEPT.,MATHEWS VOL. FIRE DEPT.,MATHEWS VOL. FIRE DEPT.,,,,,,,,,,
+Count,22,14,20,19,25,19,17,9,24,14,22,18,223
+Exposures,0,0,0,0,1,0,0,0,1,0,0,0,2
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+11702,Buckhorn Volunteer Fire Depart,Buckhorn Volunteer Fire Depart,Buckhorn Volunteer Fire Depart,,,,,,,,,,
+Count,4,7,2,3,2,0,1,5,0,1,3,1,29
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,2,0,1,0,0,1,3,1,1,1,2,14
+11703,CHASE CITY VOL. FIRE DEPT.,CHASE CITY VOL. FIRE DEPT.,CHASE CITY VOL. FIRE DEPT.,,,,,,,,,,
+Count,19,17,12,17,17,21,18,16,16,21,15,10,199
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,2,5,2,4,1,2,1,4,3,3,4,33
+11704,CLARKSVILLE VOL. FIRE DEPT.,CLARKSVILLE VOL. FIRE DEPT.,CLARKSVILLE VOL. FIRE DEPT.,,,,,,,,,,
+Count,11,25,16,13,11,10,10,4,10,15,15,14,154
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,2,0,1,1,3,0,0,0,2,1,2,14
+11705,LaCrosse Volunteer Fire Depart,LaCrosse Volunteer Fire Depart,LaCrosse Volunteer Fire Depart,,,,,,,,,,
+Count,13,8,6,7,11,5,8,4,9,14,7,10,102
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,15,7,11,7,8,2,13,6,1,7,8,8,93
+11706,PALMER SPRINGS VOL. FIRE,PALMER SPRINGS VOL. FIRE,PALMER SPRINGS VOL. FIRE,,,,,,,,,,
+Count,3,5,2,3,0,2,2,2,1,0,1,3,24
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,3,0,2,0,0,0,2,0,3,2,0,13
+Page 44 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:31 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+11707,SOUTH HILL VOL. FIRE DEPT.,SOUTH HILL VOL. FIRE DEPT.,SOUTH HILL VOL. FIRE DEPT.,,,,,,,,,,
+Count,34,27,31,33,32,24,47,27,21,27,28,51,382
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,9,6,1,3,5,0,3,1,1,0,2,3,34
+11708,LAKE GASTON VOL. FIRE DEPT.,LAKE GASTON VOL. FIRE DEPT.,LAKE GASTON VOL. FIRE DEPT.,,,,,,,,,,
+Count,0,5,2,3,1,4,6,5,2,4,1,1,34
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,3,0,0,1,2,2,0,1,0,1,2,12
+11901,HARTFIELD VOL. FIRE DEPT.,HARTFIELD VOL. FIRE DEPT.,HARTFIELD VOL. FIRE DEPT.,,,,,,,,,,
+Count,2,7,5,0,1,3,7,7,3,6,5,5,51
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+11902,LOWER MIDDLESEX VOL. FIRE,LOWER MIDDLESEX VOL. FIRE,LOWER MIDDLESEX VOL. FIRE,,,,,,,,,,
+Count,4,6,5,2,4,3,5,0,0,5,5,1,40
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,2,1,0,0,0,1,0,1,1,0,0,6
+11903,MIDDLESEX VOL. FIRE DEPT.,MIDDLESEX VOL. FIRE DEPT.,MIDDLESEX VOL. FIRE DEPT.,,,,,,,,,,
+Count,11,7,6,10,4,14,11,8,6,5,9,8,99
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,2,1,2,0,1,0,0,0,0,0,0,6
+12102,Blacksburg Fire Department,Blacksburg Fire Department,,,,,,,,,,,
+Count,83,88,80,94,79,69,66,92,106,96,81,76,"1,010"
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,0,3,0,0,0,0,0,0,0,1,0,5
+Page 45 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:32 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+12103,CHRISTIANSBURG FIRE,CHRISTIANSBURG FIRE,,,,,,,,,,,
+Count,85,78,64,45,0,0,0,0,0,0,50,85,407
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,1,0,0,0,0,0,0,0,0,0,1,3
+12104,Elliston Volunteer Fire Depart,Elliston Volunteer Fire Depart,Elliston Volunteer Fire Depart,,,,,,,,,,
+Count,19,17,30,14,10,14,18,10,16,16,9,20,193
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,7,14,14,13,8,7,8,12,5,6,6,13,113
+12106,RINER VOL. FIRE DEPT.,RINER VOL. FIRE DEPT.,,,,,,,,,,,
+Count,14,19,10,6,13,9,8,11,13,12,5,19,139
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,1,0,0,1,0,0,1,0,0,0,0,4
+12501,LOVINGSTON VOL. FIRE DEPT.,LOVINGSTON VOL. FIRE DEPT.,LOVINGSTON VOL. FIRE DEPT.,,,,,,,,,,
+Count,22,21,12,21,16,28,11,19,9,13,16,20,208
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,5,5,3,6,2,7,3,1,1,5,4,2,44
+12502,PINEY RIVER VOL. FIRE DEPT.,PINEY RIVER VOL. FIRE DEPT.,PINEY RIVER VOL. FIRE DEPT.,,,,,,,,,,
+Count,7,18,7,13,6,10,7,10,3,13,10,9,113
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,4,2,0,2,1,2,2,1,0,4,0,1,19
+12503,FABER VOL. FIRE DEPT.,FABER VOL. FIRE DEPT.,,,,,,,,,,,
+Count,3,10,3,3,3,0,7,3,7,8,2,0,49
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,5,13,2,1,2,0,2,6,4,2,2,0,39
+Page 46 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:32 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+12504,GLADSTONE VOL. FIRE DEPT.,GLADSTONE VOL. FIRE DEPT.,GLADSTONE VOL. FIRE DEPT.,,,,,,,,,,
+Count,13,3,5,4,4,2,3,3,2,5,2,2,48
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,3,2,1,1,1,0,2,0,3,1,2,18
+12505,ROCKFISH VALLEY VOL. FIRE,ROCKFISH VALLEY VOL. FIRE,ROCKFISH VALLEY VOL. FIRE,,,,,,,,,,
+Count,18,13,16,9,10,4,8,6,8,8,11,9,120
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,10,1,0,0,0,0,0,2,0,1,0,0,14
+12506,Station 2 (Valley),Station 2 (Valley),,,,,,,,,,,
+Count,28,22,11,7,1,7,14,13,15,8,12,17,155
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,12,12,5,7,1,3,3,8,7,7,5,7,77
+12507,MONTEBELLO VOL. FIRE DEPT.,MONTEBELLO VOL. FIRE DEPT.,MONTEBELLO VOL. FIRE DEPT.,,,,,,,,,,
+Count,8,10,5,8,7,11,8,6,8,11,9,4,95
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+12700,New Kent Co. Dept. Fire/Rescue,New Kent Co. Dept. Fire/Rescue,New Kent Co. Dept. Fire/Rescue,,,,,,,,,,
+Count,120,127,158,134,163,190,201,150,195,180,153,141,"1,912"
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,1,2,1,5,0,4,2,5,4,6,4,36
+13113,"Community Fire Company, Inc.","Community Fire Company, Inc.","Community Fire Company, Inc.",,,,,,,,,,
+Count,86,85,113,122,97,117,94,98,98,106,95,93,"1,204"
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,4,5,4,2,2,2,2,0,2,4,3,3,33
+Page 47 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:32 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+13115,CAPE CHARLES VOL. FIRE DEPT.,CAPE CHARLES VOL. FIRE DEPT.,CAPE CHARLES VOL. FIRE DEPT.,,,,,,,,,,
+Count,1,0,7,3,4,2,1,1,5,1,5,1,31
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,7,8,6,7,6,5,11,8,6,5,6,8,83
+13116,"Northampton Fire & Rescue, Inc","Northampton Fire & Rescue, Inc","Northampton Fire & Rescue, Inc",,,,,,,,,,
+Count,8,5,13,11,9,10,13,12,9,9,16,2,117
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,6,3,4,1,3,2,5,2,2,1,3,3,35
+13117,EASTVILLE VOL. FIRE CO. INC.,EASTVILLE VOL. FIRE CO. INC.,EASTVILLE VOL. FIRE CO. INC.,,,,,,,,,,
+Count,2,5,5,3,11,2,12,8,5,5,8,4,70
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,13,9,9,11,8,14,12,6,2,5,12,9,110
+13302,CALLAO VOL. FIRE DEPT.,CALLAO VOL. FIRE DEPT.,,,,,,,,,,,
+Count,9,12,25,11,9,11,16,14,11,8,11,11,148
+Exposures,8,12,0,0,3,0,0,0,0,0,0,0,23
+Aid Given,4,10,4,3,1,2,1,3,5,2,6,6,47
+13303,FAIRFIELD VOL. FIRE DEPT.,FAIRFIELD VOL. FIRE DEPT.,,,,,,,,,,,
+Count,18,9,13,9,13,12,12,14,5,9,15,12,141
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,1,1,1,1,0,0,1,2,0,0,0,9
+13504,BLACKSTONE VOL. FIRE DEPT.,BLACKSTONE VOL. FIRE DEPT.,BLACKSTONE VOL. FIRE DEPT.,,,,,,,,,,
+Count,40,21,20,24,12,15,10,15,20,20,14,13,224
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,2,1,1,0,0,1,3,0,1,0,0,11
+Page 48 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:32 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+13700,County of Orange Fire & EMS,County of Orange Fire & EMS,County of Orange Fire & EMS,,,,,,,,,,
+Count,199,212,228,195,169,141,111,145,198,252,184,218,"2,252"
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,4,4,2,4,0,3,1,1,1,3,1,2,26
+13702,GORDONSVILLE VOL. FIRE DEPT.,GORDONSVILLE VOL. FIRE DEPT.,GORDONSVILLE VOL. FIRE DEPT.,,,,,,,,,,
+Count,15,16,6,10,9,9,4,11,2,12,6,16,116
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,25,23,24,20,16,23,20,13,16,14,15,30,239
+13703,LAKE OF THE WOODS VOL. FIRE,LAKE OF THE WOODS VOL. FIRE,LAKE OF THE WOODS VOL. FIRE,,,,,,,,,,
+Count,32,20,28,20,32,31,24,23,18,26,22,37,313
+Exposures,0,1,0,0,0,0,0,0,0,0,0,0,1
+Aid Given,10,7,9,8,2,8,0,5,3,1,4,2,59
+13705,ORANGE VOL. FIRE CO.,ORANGE VOL. FIRE CO.,,,,,,,,,,,
+Count,39,53,42,28,26,49,34,28,33,38,49,0,419
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,22,24,18,11,4,9,10,9,6,12,5,0,130
+13901,LURAY VOL. FIRE DEPT.,LURAY VOL. FIRE DEPT.,,,,,,,,,,,
+Count,15,5,1,0,3,0,0,0,2,2,0,1,29
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,0,0,0,0,0,0,0,0,0,0,0,1
+13902,SHENANDOAH VOL. FIRE DEPT.,SHENANDOAH VOL. FIRE DEPT.,SHENANDOAH VOL. FIRE DEPT.,,,,,,,,,,
+Count,18,24,11,22,25,30,16,21,15,23,12,14,231
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,7,3,2,3,1,0,2,2,2,5,3,32
+Page 49 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:33 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+13903,STANLEY VOL. FIRE DEPT.,STANLEY VOL. FIRE DEPT.,,,,,,,,,,,
+Count,39,34,39,40,28,62,31,28,53,42,31,43,470
+Exposures,0,0,0,1,0,0,0,0,0,0,0,0,1
+Aid Given,7,1,3,1,7,3,3,3,1,3,3,1,36
+14101,ARARAT VOL. FIRE DEPT.,ARARAT VOL. FIRE DEPT.,,,,,,,,,,,
+Count,11,7,11,14,5,11,8,9,17,5,4,6,108
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,1,1,2,2,0,2,1,0,0,0,0,11
+14104,MEADOWS OF DAN VOL. FIRE,MEADOWS OF DAN VOL. FIRE,MEADOWS OF DAN VOL. FIRE,,,,,,,,,,
+Count,4,0,3,3,3,2,8,2,1,4,1,3,34
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,3,2,5,0,8,1,3,1,0,3,26
+14105,MOOREFIELD STORE VOL. FIRE,MOOREFIELD STORE VOL. FIRE,MOOREFIELD STORE VOL. FIRE,,,,,,,,,,
+Count,1,5,0,1,4,3,3,2,0,4,2,0,25
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,4,1,2,1,1,1,3,0,1,0,0,1,15
+14106,STUART VOL. FIRE DEPT.,STUART VOL. FIRE DEPT.,,,,,,,,,,,
+Count,19,19,18,18,24,33,31,22,28,23,11,25,271
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,5,5
+14107,PATRICK-HENRY VOL. FIRE DEPT.,PATRICK-HENRY VOL. FIRE DEPT.,PATRICK-HENRY VOL. FIRE DEPT.,,,,,,,,,,
+Count,24,34,39,27,29,40,28,39,9,24,31,32,356
+Exposures,2,0,0,0,0,0,0,0,0,0,0,0,2
+Aid Given,3,1,0,2,2,1,1,0,1,3,1,3,18
+Page 50 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:33 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+14108,WOOLWINE VOL. FIRE DEPT.,WOOLWINE VOL. FIRE DEPT.,WOOLWINE VOL. FIRE DEPT.,,,,,,,,,,
+Count,2,5,7,14,2,6,8,1,7,4,5,11,72
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,2,1,0,1,0,0,0,0,1,1,0,7
+14109,FAIRYSTONE VOL. FIRE DEPT.,FAIRYSTONE VOL. FIRE DEPT.,FAIRYSTONE VOL. FIRE DEPT.,,,,,,,,,,
+Count,5,3,4,5,11,11,14,11,13,10,12,5,104
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,0,0,3,1,2,0,0,0,2,1,2,12
+14110,PATRICK SPRINGS FIRE DEPT.,PATRICK SPRINGS FIRE DEPT.,PATRICK SPRINGS FIRE DEPT.,,,,,,,,,,
+Count,3,6,3,12,11,13,16,10,11,8,14,5,112
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,4,5,2,3,3,1,2,1,0,2,0,1,24
+14301,RICEVILLE/JAVA,RICEVILLE/JAVA,,,,,,,,,,,
+Count,1,4,13,6,7,4,1,4,7,7,2,3,59
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,1,0,1,1,0,1,0,0,0,0,4
+14302,HURT Volunteer Fire Department,HURT Volunteer Fire Department,HURT Volunteer Fire Department,,,,,,,,,,
+Count,12,12,15,9,15,10,13,18,9,10,21,10,154
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,5,1,2,1,0,0,4,2,0,2,3,3,23
+14303,RENAN,,,,,,,,,,,,
+Count,4,3,9,6,3,2,8,5,4,1,4,2,51
+Exposures,0,0,0,0,0,0,0,0,0,0,0,2,2
+Aid Given,2,0,0,0,1,0,0,0,0,0,0,4,7
+Page 51 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:34 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+14305,TUNSTALL VOL. FIRE & RESCUE,TUNSTALL VOL. FIRE & RESCUE,TUNSTALL VOL. FIRE & RESCUE,,,,,,,,,,
+Count,37,28,41,41,34,40,37,35,49,42,25,46,455
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,5,5,5,9,3,7,7,9,6,7,3,69
+14306,MOUNT HERMON,MOUNT HERMON,,,,,,,,,,,
+Count,45,26,71,36,27,33,27,35,31,37,39,42,449
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,11,5,2,6,0,0,2,2,0,7,0,2,37
+14307,MOUNT CROSS,,,,,,,,,,,,
+Count,30,19,22,26,29,25,33,31,28,22,28,34,327
+Exposures,0,0,0,0,0,0,0,1,0,0,0,0,1
+Aid Given,1,2,2,0,1,0,1,1,2,3,0,1,14
+14308,Climax Vol. Fire Dept.,Climax Vol. Fire Dept.,,,,,,,,,,,
+Count,9,9,6,13,12,13,9,12,9,6,15,5,118
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,5,0,2,2,0,0,2,1,0,2,3,20
+14309,RINGGOLD,,,,,,,,,,,,
+Count,72,55,61,57,55,65,22,59,68,59,42,47,662
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,5,5,1,2,1,0,1,2,2,5,0,2,26
+14310,BACHELORS HALL,BACHELORS HALL,,,,,,,,,,,
+Count,4,7,11,5,5,2,7,1,4,4,11,8,69
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,2,4,2,2,2,3,1,2,3,8,5,35
+Page 52 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:34 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+14311,CHATHAM,,,,,,,,,,,,
+Count,31,20,31,16,18,25,12,17,18,20,17,26,251
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,3,1,1,2,2,3,1,0,2,0,3,20
+14312,GRETNA,,,,,,,,,,,,
+Count,16,13,29,10,15,18,16,12,8,10,19,22,188
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,4,11,2,3,5,1,2,1,2,1,2,1,35
+14313,BROSVILLE COMMUNITY,BROSVILLE COMMUNITY,,,,,,,,,,,
+Count,55,53,55,45,53,43,42,29,42,52,39,42,550
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,8,3,2,3,3,2,3,2,4,2,3,37
+14315,Blairs Vol. Fire Department,Blairs Vol. Fire Department,,,,,,,,,,,
+Count,55,60,72,60,49,41,69,51,52,58,52,48,667
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,5,2,0,1,1,2,3,4,2,3,6,30
+14316,CALLANDS,,,,,,,,,,,,
+Count,4,7,9,0,0,0,0,0,0,0,0,0,20
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+14318,Cascade,,,,,,,,,,,,
+Count,15,9,14,7,6,11,8,6,10,6,7,6,105
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,2,1,2,2,0,0,0,1,1,2,1,13
+Page 53 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:34 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+14319,KENTUCK VOL. FIRE DEPT.,KENTUCK VOL. FIRE DEPT.,,,,,,,,,,,
+Count,19,19,16,21,15,19,17,20,24,22,12,14,218
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,3,0,2,2,2,3,1,2,5,2,3,28
+14320,KEELING VOL. FIRE DEPT.,KEELING VOL. FIRE DEPT.,,,,,,,,,,,
+Count,9,9,17,7,9,13,7,12,15,8,18,13,137
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,4,1,0,3,2,1,1,0,3,0,3,19
+14321,LAUREL GROVE,,,,,,,,,,,,
+Count,22,26,24,12,14,12,12,16,11,18,17,18,202
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,0,0,1,0,0,0,1,0,0,0,2,7
+14501,POWHATAN CO. VOL. FIRE DEPT.,POWHATAN CO. VOL. FIRE DEPT.,POWHATAN CO. VOL. FIRE DEPT.,,,,,,,,,,
+Count,60,44,87,69,64,54,60,61,38,65,51,30,683
+Exposures,1,1,4,0,0,0,0,0,0,0,0,0,6
+Aid Given,16,3,3,3,3,3,1,2,1,2,2,4,43
+14502,HUGUENOT VOL. FIRE DEPT.,HUGUENOT VOL. FIRE DEPT.,HUGUENOT VOL. FIRE DEPT.,,,,,,,,,,
+Count,45,35,20,25,20,20,28,34,15,21,18,23,304
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,15,11,2,8,1,1,2,9,3,5,5,4,66
+14503,MACON FIRE DEPT.,MACON FIRE DEPT.,,,,,,,,,,,
+Count,8,7,13,4,4,9,6,7,3,2,1,6,70
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,4,2,5,6,1,0,2,0,1,2,0,1,24
+Page 54 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:35 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+14504,FINE CREEK VOL. FIRE DEPT.,FINE CREEK VOL. FIRE DEPT.,FINE CREEK VOL. FIRE DEPT.,,,,,,,,,,
+Count,41,36,43,41,26,33,32,36,26,28,39,25,406
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,4,3,2,1,4,2,1,5,0,1,2,3,28
+14505,DEEP CREEK VOL. FIRE DEPT.,DEEP CREEK VOL. FIRE DEPT.,DEEP CREEK VOL. FIRE DEPT.,,,,,,,,,,
+Count,6,7,13,16,7,9,21,11,5,11,9,18,133
+Exposures,0,0,0,0,0,0,0,0,0,0,0,3,3
+Aid Given,13,8,11,4,11,9,5,4,1,7,6,12,91
+14701,FARMVILLE VOL. FIRE DEPT.,FARMVILLE VOL. FIRE DEPT.,FARMVILLE VOL. FIRE DEPT.,,,,,,,,,,
+Count,26,25,44,29,23,23,14,15,18,16,21,13,267
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,5,2,11,1,4,6,6,1,2,10,4,2,54
+14702,HAMPDEN-SYDNEY VOL. FIRE,HAMPDEN-SYDNEY VOL. FIRE,HAMPDEN-SYDNEY VOL. FIRE,,,,,,,,,,
+Count,6,5,16,7,4,3,6,7,2,0,0,0,56
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,8,4,3,6,3,8,3,3,1,0,0,0,39
+14703,DARLINGTON HEIGHTS VOL. F.D.,DARLINGTON HEIGHTS VOL. F.D.,DARLINGTON HEIGHTS VOL. F.D.,,,,,,,,,,
+Count,4,2,2,3,0,2,0,2,2,1,2,3,23
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,2,1,4,0,1,2,2,0,2,0,2,18
+14704,PROSPECT VOL. FIRE DEPT.,PROSPECT VOL. FIRE DEPT.,PROSPECT VOL. FIRE DEPT.,,,,,,,,,,
+Count,6,14,10,3,3,10,2,5,8,5,7,7,80
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,1,2,1,1,0,1,2,3,4,2,2,20
+Page 55 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:35 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+14900,PRINCE GEORGE FIRE & EMS,PRINCE GEORGE FIRE & EMS,PRINCE GEORGE FIRE & EMS,,,,,,,,,,
+Count,87,103,115,84,81,81,91,80,73,85,73,105,"1,058"
+Exposures,0,1,0,1,0,0,0,0,0,0,0,0,2
+Aid Given,5,2,9,4,3,7,5,2,4,4,1,0,46
+15301,PRINCE WILLIAM FIRE & RESCUE,PRINCE WILLIAM FIRE & RESCUE,PRINCE WILLIAM FIRE & RESCUE,,,,,,,,,,
+Count,"2,153","1,759","1,937","1,957","1,977","1,986",839,499,488,517,474,514,"15,100"
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,8,6,7,21
+15500,Pulaski Co. Emergency Mgmt,Pulaski Co. Emergency Mgmt,Pulaski Co. Emergency Mgmt,,,,,,,,,,
+Count,0,0,0,2,2,2,1,1,2,1,1,4,16
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,0,0,2,3,3,4,3,1,2,2,7,29
+15501,DRAPER VOL. FIRE DEPT.,DRAPER VOL. FIRE DEPT.,,,,,,,,,,,
+Count,8,5,6,6,7,11,6,4,3,9,6,20,91
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,0,0,0,0,1,0,0,0,2,0,1,5
+15502,Dublin Volunteer Fire Departme,Dublin Volunteer Fire Departme,Dublin Volunteer Fire Departme,,,,,,,,,,
+Count,28,16,21,19,29,21,20,24,24,22,12,31,267
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,2,0,1,0,0,0,0,0,0,0,1,4
+15504,HIWASSEE VOL. FIRE DEPT.,HIWASSEE VOL. FIRE DEPT.,,,,,,,,,,,
+Count,3,1,0,5,0,0,3,4,4,2,1,2,25
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,1,0,0,0,0,0,0,0,0,1
+Page 56 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:35 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+15505,NEWBERN VOL. FIRE DEPT.,NEWBERN VOL. FIRE DEPT.,NEWBERN VOL. FIRE DEPT.,,,,,,,,,,
+Count,7,6,10,3,2,12,5,9,12,7,9,7,89
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,2,0,1,3,0,1,0,0,1,0,0,11
+15506,PULASKI FIRE DEPARTMENT,PULASKI FIRE DEPARTMENT,PULASKI FIRE DEPARTMENT,,,,,,,,,,
+Count,23,26,21,32,31,35,27,18,16,23,17,30,299
+Exposures,0,0,0,0,1,0,0,0,0,0,0,0,1
+Aid Given,0,0,0,1,0,0,0,2,0,0,1,0,4
+15507,SNOWVILLE FIRE DEPT.,SNOWVILLE FIRE DEPT.,,,,,,,,,,,
+Count,2,2,5,3,8,2,7,5,4,7,2,4,51
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,1,2,0,0,0,0,1,1,1,0,0,6
+15508,TWIN COMMUNITY VOL. FIRE,TWIN COMMUNITY VOL. FIRE,TWIN COMMUNITY VOL. FIRE,,,,,,,,,,
+Count,5,1,5,5,8,5,8,5,6,4,5,3,60
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+15701,Washington Vol. Fire Dept.,Washington Vol. Fire Dept.,,,,,,,,,,,
+Count,16,16,25,16,29,19,24,16,21,17,18,21,238
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,41,31,39,39,40,34,30,37,43,38,28,35,435
+15702,Sperryville Volunteer Fire Dep,Sperryville Volunteer Fire Dep,Sperryville Volunteer Fire Dep,,,,,,,,,,
+Count,6,6,11,5,7,7,7,9,6,3,3,4,74
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,7,10,10,6,10,3,3,3,7,11,4,6,80
+Page 57 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:36 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+15703,AMISSVILLE VOLUNTEER FIRE &,AMISSVILLE VOLUNTEER FIRE &,AMISSVILLE VOLUNTEER FIRE &,,,,,,,,,,
+Count,33,22,36,45,29,31,21,25,21,17,15,28,323
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,23,8,9,17,25,18,13,5,11,12,12,19,172
+15704,FLINT HILL VOL. FIRE DEPT.,FLINT HILL VOL. FIRE DEPT.,,,,,,,,,,,
+Count,8,6,6,7,10,7,2,2,5,7,8,9,77
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,9,4,3,7,0,5,1,2,6,2,2,5,46
+15705,CASTLETON VOL. FIRE DEPT.,CASTLETON VOL. FIRE DEPT.,CASTLETON VOL. FIRE DEPT.,,,,,,,,,,
+Count,4,7,7,2,4,2,0,4,4,5,2,1,42
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,3,2,1,2,1,0,0,1,1,0,0,12
+15706,CHESTER GAP VOL. FIRE DEPT.,CHESTER GAP VOL. FIRE DEPT.,CHESTER GAP VOL. FIRE DEPT.,,,,,,,,,,
+Count,8,1,4,2,10,1,0,4,7,13,9,25,84
+Exposures,0,0,0,0,0,0,0,0,0,1,0,0,1
+Aid Given,34,18,25,6,13,3,6,7,8,13,12,16,161
+15901,RICHMOND CO. VOL. FIRE DEPT.,RICHMOND CO. VOL. FIRE DEPT.,RICHMOND CO. VOL. FIRE DEPT.,,,,,,,,,,
+Count,11,9,1,0,0,0,5,4,1,2,3,3,39
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,1,0,0,0,3,1,5
+16100,Roanoke County Fire & Rescue,Roanoke County Fire & Rescue,Roanoke County Fire & Rescue,,,,,,,,,,
+Count,947,808,908,906,928,940,942,884,872,939,818,"1,038","10,930"
+Exposures,2,0,0,0,1,0,0,1,0,0,1,0,5
+Aid Given,26,22,23,21,19,28,14,21,6,11,9,17,217
+Page 58 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:36 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+16102,VINTON VOL. FIRE DEPT.,VINTON VOL. FIRE DEPT.,,,,,,,,,,,
+Count,10,11,8,12,3,9,0,9,6,5,6,8,87
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+16112,READ MT. VFD STATION #12,READ MT. VFD STATION #12,,,,,,,,,,,
+Count,50,44,56,47,54,50,50,59,63,46,58,0,577
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,43,28,26,24,30,31,29,17,24,23,31,0,306
+16301,EFFINGER VOL. FIRE DEPT.,EFFINGER VOL. FIRE DEPT.,,,,,,,,,,,
+Count,3,0,4,0,1,0,1,0,1,0,2,1,13
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,0,1,0,0,0,0,0,0,2,3,0,9
+16302,GLASGOW VOL. FIRE DEPT.,GLASGOW VOL. FIRE DEPT.,,,,,,,,,,,
+Count,11,7,10,11,9,12,3,7,12,7,7,14,110
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,14,12,12,8,12,8,12,3,7,6,11,16,121
+16303,GOSHEN VOL. FIRE DEPT.,GOSHEN VOL. FIRE DEPT.,,,,,,,,,,,
+Count,9,9,7,8,9,18,6,4,4,4,9,5,92
+Exposures,1,0,0,0,0,0,0,0,0,0,0,0,1
+Aid Given,8,5,4,2,2,2,5,2,0,2,4,3,39
+16304,KERRS CREEK VOL. FIRE DEPT.,KERRS CREEK VOL. FIRE DEPT.,KERRS CREEK VOL. FIRE DEPT.,,,,,,,,,,
+Count,15,13,0,8,5,0,0,0,14,12,0,0,67
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,6,11,0,8,6,0,0,0,1,4,0,0,36
+Page 59 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:36 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+16305,RAPHINE VOLUNTEER FIRE,RAPHINE VOLUNTEER FIRE,RAPHINE VOLUNTEER FIRE,,,,,,,,,,
+Count,62,20,38,26,35,42,0,0,0,0,0,0,223
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,6,3,7,3,3,0,0,0,0,0,0,25
+16306,ROCKBRIDGE-BATHS VOL FIRE,ROCKBRIDGE-BATHS VOL FIRE,ROCKBRIDGE-BATHS VOL FIRE,,,,,,,,,,
+Count,14,8,2,5,11,9,7,6,4,9,7,9,91
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,6,2,2,0,3,6,2,1,1,2,1,4,30
+16307,SOUTH RIVER VOLUNTEER FIRE,SOUTH RIVER VOLUNTEER FIRE,SOUTH RIVER VOLUNTEER FIRE,,,,,,,,,,
+Count,28,17,27,32,31,36,33,36,30,22,20,33,345
+Exposures,0,0,0,0,0,0,0,0,0,0,1,0,1
+Aid Given,14,6,8,7,11,7,11,11,2,7,10,17,111
+16309,NATURAL BRIDGE VOL. FIRE,NATURAL BRIDGE VOL. FIRE,NATURAL BRIDGE VOL. FIRE,,,,,,,,,,
+Count,34,25,37,28,47,38,44,33,27,28,40,51,432
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,8,6,3,2,4,3,1,1,5,4,4,4,45
+16500,Headquarters Rockingham County,Headquarters Rockingham County,Headquarters Rockingham County,,,,,,,,,,
+Count,68,61,73,71,63,54,85,38,29,31,12,7,592
+Exposures,0,0,1,0,1,1,0,0,0,0,0,1,4
+Aid Given,14,16,10,15,13,17,11,8,13,4,10,14,145
+16501,SINGERS GLEN VOL. FIRE CO.,SINGERS GLEN VOL. FIRE CO.,SINGERS GLEN VOL. FIRE CO.,,,,,,,,,,
+Count,15,9,10,15,9,16,9,15,8,12,9,8,135
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,3,3,2,3,1,4,4,1,1,1,2,1,26
+Page 60 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:36 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+16502,BERGTON VOL. FIRE CO.,BERGTON VOL. FIRE CO.,,,,,,,,,,,
+Count,8,6,12,4,5,9,5,7,2,3,7,5,73
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,0,1,0,0,2,0,0,0,1,0,1,7
+16503,Elkton Fire Company,Elkton Fire Company,,,,,,,,,,,
+Count,90,95,41,57,41,30,78,23,33,36,29,48,601
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,15,27,5,2,5,3,11,3,0,2,6,1,80
+16505,Broadway Vol. Fire Dept.,Broadway Vol. Fire Dept.,,,,,,,,,,,
+Count,51,52,51,54,38,48,46,43,48,52,40,66,589
+Exposures,0,0,3,0,0,3,0,0,0,0,0,0,6
+Aid Given,2,5,5,6,10,10,5,7,3,11,6,15,85
+16506,TIMBERVILLE VOL. FIRE DEPT.,TIMBERVILLE VOL. FIRE DEPT.,TIMBERVILLE VOL. FIRE DEPT.,,,,,,,,,,
+Count,16,8,21,17,18,13,23,8,13,16,10,26,189
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,12,12,7,9,7,7,5,3,0,4,7,7,80
+16508,MCGAHEYSVILLE VOL. FIRE,MCGAHEYSVILLE VOL. FIRE,MCGAHEYSVILLE VOL. FIRE,,,,,,,,,,
+Count,87,66,44,40,37,41,40,51,37,42,25,51,561
+Exposures,0,1,0,0,0,0,0,0,1,0,0,0,2
+Aid Given,25,30,15,15,13,18,17,24,18,18,8,15,216
+16515,Bridgewater Fire Company,Bridgewater Fire Company,,,,,,,,,,,
+Count,72,67,51,64,72,57,74,60,59,54,35,61,726
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,14,10,12,14,5,9,10,11,7,6,6,11,115
+Page 61 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:37 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+16517,Cloverhill Fire and Rescue,Cloverhill Fire and Rescue,,,,,,,,,,,
+Count,43,48,37,48,37,39,40,38,51,35,30,54,500
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,9,4,2,3,5,2,9,4,2,9,2,5,56
+16520,Grottoes Fire Company,Grottoes Fire Company,,,,,,,,,,,
+Count,48,61,56,45,58,68,42,56,41,38,40,66,619
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,14,8,8,8,12,9,7,2,7,5,2,7,89
+16544,Hose Company No. 4,Hose Company No. 4,,,,,,,,,,,
+Count,97,84,92,96,81,106,97,103,84,91,111,131,"1,173"
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,27,31,32,46,31,32,37,36,29,37,30,38,406
+16703,HONAKER VOL. FIRE DEPT.,HONAKER VOL. FIRE DEPT.,,,,,,,,,,,
+Count,1,0,0,0,0,0,10,0,8,10,16,13,58
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+16706,COPPER CREEK-MOCCASIN VFD,COPPER CREEK-MOCCASIN VFD,COPPER CREEK-MOCCASIN VFD,,,,,,,,,,
+Count,5,4,7,7,9,7,4,6,9,5,7,8,78
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,0,0,2,0,0,0,0,0,0,0,0,3
+16707,"Castlewood Fire & Rescue, Inc.","Castlewood Fire & Rescue, Inc.","Castlewood Fire & Rescue, Inc.",,,,,,,,,,
+Count,3,1,1,0,2,1,1,0,0,0,0,0,9
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+Page 62 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:37 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+16901,Duffield Fire & Rescue,Duffield Fire & Rescue,,,,,,,,,,,
+Count,8,10,9,8,9,10,6,7,6,5,3,16,97
+Exposures,0,0,0,0,0,0,0,1,0,0,1,0,2
+Aid Given,0,0,0,0,0,0,0,0,2,1,0,0,3
+16903,Gate City,,,,,,,,,,,,
+Count,9,3,15,8,3,17,16,7,8,18,12,23,139
+Exposures,0,0,0,3,0,0,0,0,0,0,0,0,3
+Aid Given,4,5,8,1,1,0,0,3,1,1,1,5,30
+16905,Nickelsville Fire,,,,,,,,,,,,
+Count,0,0,1,2,0,3,0,1,1,1,0,2,11
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,2,0,0,1,1,0,0,0,0,1,5
+16906,Weber City Fire,,,,,,,,,,,,
+Count,8,10,16,9,10,9,10,2,11,4,0,2,91
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,0,1,2,1,3,0,0,0,0,0,1,9
+16907,Ft. Blackmore Fire,Ft. Blackmore Fire,,,,,,,,,,,
+Count,3,2,2,2,3,1,0,0,1,1,1,8,24
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,0,5,0,1,2,0,1,0,0,1,2,13
+17109,TOMS BROOK,,,,,,,,,,,,
+Count,32,40,52,15,13,25,21,28,11,17,6,18,278
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,3,4,5,0,4,1,3,5,9,2,6,44
+Page 63 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:37 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+17112,WOODSTOCK FIRE DEPT.,WOODSTOCK FIRE DEPT.,,,,,,,,,,,
+Count,41,29,30,37,29,41,29,48,32,48,34,39,437
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,11,19,8,5,5,9,5,8,4,3,1,14,92
+17114,FORT VALLEY VOL. FIRE DEPT.,FORT VALLEY VOL. FIRE DEPT.,FORT VALLEY VOL. FIRE DEPT.,,,,,,,,,,
+Count,12,10,9,11,10,11,7,7,5,4,4,13,103
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,1,1,1,1,1,0,2,1,0,1,0,9
+17115,Edinburg Fire Department,Edinburg Fire Department,,,,,,,,,,,
+Count,13,18,11,18,15,13,7,10,8,9,19,23,164
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,8,5,4,2,2,9,4,3,7,7,3,9,63
+17151,STRASBURG VOL. FIRE DEPT.,STRASBURG VOL. FIRE DEPT.,STRASBURG VOL. FIRE DEPT.,,,,,,,,,,
+Count,33,36,22,20,21,18,26,28,23,28,28,34,317
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,10,14,14,6,5,12,14,19,3,6,1,0,104
+17301,ADWOLFE VOL. FIRE DEPT.,ADWOLFE VOL. FIRE DEPT.,,,,,,,,,,,
+Count,9,9,7,4,12,14,14,9,4,7,5,25,119
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,0,1,0,0,0,0,0,0,0,0,1,3
+17302,ATKINS VOL. FIRE DEPT.,ATKINS VOL. FIRE DEPT.,,,,,,,,,,,
+Count,4,2,5,5,9,6,8,6,5,4,3,7,64
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,1,0,0,0,0,0,0,1
+Page 64 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:37 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+17303,CHILHOWIE FIRE DEPARTMENT,CHILHOWIE FIRE DEPARTMENT,CHILHOWIE FIRE DEPARTMENT,,,,,,,,,,
+Count,79,65,77,65,80,97,67,67,84,75,68,85,909
+Exposures,0,0,0,2,0,0,0,0,0,0,0,0,2
+Aid Given,0,1,1,0,2,0,0,0,2,1,0,2,9
+17304,MARION VOL. FIRE DEPT.,MARION VOL. FIRE DEPT.,,,,,,,,,,,
+Count,9,12,13,9,37,20,20,25,19,17,21,19,221
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,1,0,0,0,1,0,0,0,0,0,2
+17306,SALTVILLE VOL. FIRE DEPT.,SALTVILLE VOL. FIRE DEPT.,SALTVILLE VOL. FIRE DEPT.,,,,,,,,,,
+Count,8,4,3,0,0,0,0,0,8,3,0,0,26
+Exposures,0,0,0,0,0,0,0,0,1,1,0,0,2
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+17307,SUGAR GROVE VOL. FIRE DEPT.,SUGAR GROVE VOL. FIRE DEPT.,SUGAR GROVE VOL. FIRE DEPT.,,,,,,,,,,
+Count,5,3,4,1,0,2,2,1,1,0,0,2,21
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+17502,BRANCHVILLE VOL. FIRE DEPT.,BRANCHVILLE VOL. FIRE DEPT.,BRANCHVILLE VOL. FIRE DEPT.,,,,,,,,,,
+Count,2,1,0,0,0,5,2,0,1,2,1,0,14
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,2,0,2,1,0,0,1,0,1,4,1,12
+17504,COURTLAND VOL. FIRE DEPT.,COURTLAND VOL. FIRE DEPT.,COURTLAND VOL. FIRE DEPT.,,,,,,,,,,
+Count,20,10,10,7,9,12,10,12,10,10,10,6,126
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,5,2,1,5,1,2,4,0,0,0,0,2,22
+Page 65 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:37 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+17507,NEWSOMS VOL. FIRE DEPT.,NEWSOMS VOL. FIRE DEPT.,,,,,,,,,,,
+Count,2,3,6,12,10,5,6,7,8,4,8,14,85
+Exposures,0,1,0,0,0,0,0,0,0,0,0,0,1
+Aid Given,1,4,2,1,0,1,1,1,0,0,0,0,11
+17508,SEDLEY VOL. FIRE DEPT.,SEDLEY VOL. FIRE DEPT.,,,,,,,,,,,
+Count,2,5,8,9,6,5,16,5,11,14,10,6,97
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,0,0,2,2,5,3,2,1,0,3,0,20
+17700,SPOTSYLVANIA FIRE & RESCUE,SPOTSYLVANIA FIRE & RESCUE,SPOTSYLVANIA FIRE & RESCUE,,,,,,,,,,
+Count,"1,291","1,180","1,300","1,316","1,281","1,340","1,166","1,289","1,180","1,210","1,109","1,106","14,768"
+Exposures,0,0,3,3,4,6,0,1,0,0,0,0,17
+Aid Given,43,23,55,32,49,49,39,28,21,37,32,28,436
+17900,Stafford Co. Fire & Rescue,Stafford Co. Fire & Rescue,,,,,,,,,,,
+Count,"1,135","1,013","1,151","1,039","1,088","1,125",781,"1,063",911,"1,007","1,006","1,141","12,460"
+Exposures,0,0,0,0,0,0,0,0,0,1,0,0,1
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+18101,CLAREMONT VOL. FIRE DEPT.,CLAREMONT VOL. FIRE DEPT.,CLAREMONT VOL. FIRE DEPT.,,,,,,,,,,
+Count,2,2,5,9,5,3,4,5,6,4,3,5,53
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,2,0,2,0,0,2,0,0,0,1,2,9
+18102,DENDRON FIRE VOL. FIRE DEPT.,DENDRON FIRE VOL. FIRE DEPT.,DENDRON FIRE VOL. FIRE DEPT.,,,,,,,,,,
+Count,5,2,4,3,7,7,7,3,5,7,2,3,55
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,4,2,6,1,0,0,0,0,0,1,0,15
+Page 66 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:37 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+18103,SURRY VOL. FIRE DEPT.,SURRY VOL. FIRE DEPT.,,,,,,,,,,,
+Count,17,17,17,20,27,17,15,18,15,11,22,17,213
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,2,0,2,1,3,0,0,0,0,8
+18301,JARRATT VOL. FIRE DEPT.,JARRATT VOL. FIRE DEPT.,,,,,,,,,,,
+Count,23,23,19,21,20,16,31,30,17,23,17,21,261
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,0,4,1,0,0,0,0,0,0,0,0,7
+18302,STONY CREEK VOL. FIRE DEPT.,STONY CREEK VOL. FIRE DEPT.,STONY CREEK VOL. FIRE DEPT.,,,,,,,,,,
+Count,7,10,8,12,12,8,17,10,11,2,7,13,117
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,3,0,1,2,0,0,0,0,1,0,0,9
+18303,WAKEFIELD VOL. FIRE DEPT.,WAKEFIELD VOL. FIRE DEPT.,WAKEFIELD VOL. FIRE DEPT.,,,,,,,,,,
+Count,9,11,6,2,6,8,5,8,9,5,3,0,72
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,5,5,6,2,3,4,3,2,2,2,6,0,40
+18304,WAVERLY VOL. FIRE DEPT.,WAVERLY VOL. FIRE DEPT.,,,,,,,,,,,
+Count,8,12,11,6,11,12,8,10,6,6,7,8,105
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,1,2,1,0,1,0,1,1,2,1,0,11
+18501,Abbs Valley-Bossievain VFD,Abbs Valley-Bossievain VFD,,,,,,,,,,,
+Count,1,5,4,2,2,8,3,3,4,3,4,8,47
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,0,1,3,1,2,3,4,4,4,1,2,26
+Page 67 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:38 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+18502,BLUEFIELD VOL. FIRE DEPT.,BLUEFIELD VOL. FIRE DEPT.,BLUEFIELD VOL. FIRE DEPT.,,,,,,,,,,
+Count,31,27,27,27,27,21,30,17,28,34,35,62,366
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,3,2,0,0,0,0,0,1,0,2,3,11
+18505,RICHLANDS VOL. FIRE DEPT.,RICHLANDS VOL. FIRE DEPT.,RICHLANDS VOL. FIRE DEPT.,,,,,,,,,,
+Count,37,29,32,40,52,37,40,50,31,49,42,59,498
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,1,0,1,0,0,0,0,0,2,0,4
+18506,TAZEWELL CO. VOL. FIRE DEPT.,TAZEWELL CO. VOL. FIRE DEPT.,TAZEWELL CO. VOL. FIRE DEPT.,,,,,,,,,,
+Count,121,7,6,4,8,5,11,8,5,8,8,18,209
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,7,2,0,1,0,2,0,1,0,3,3,2,21
+18507,TOWN OF TAZEWELL FIRE DEPT.,TOWN OF TAZEWELL FIRE DEPT.,TOWN OF TAZEWELL FIRE DEPT.,,,,,,,,,,
+Count,5,14,9,5,14,11,16,14,6,9,15,37,155
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,0,1,0,0,1,0,0,2,0,1,7,13
+18511,TANNERSVILLE VOL. FIRE DEPT.,TANNERSVILLE VOL. FIRE DEPT.,TANNERSVILLE VOL. FIRE DEPT.,,,,,,,,,,
+Count,0,2,0,0,0,1,0,2,1,0,0,0,6
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+18512,CLEARFORK VOL. FIRE DEPT.,CLEARFORK VOL. FIRE DEPT.,CLEARFORK VOL. FIRE DEPT.,,,,,,,,,,
+Count,1,2,0,4,2,0,0,0,0,0,0,0,9
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+Page 68 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:38 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+18700,Warren Co. Fire & Rescue,Warren Co. Fire & Rescue,,,,,,,,,,,
+Count,58,46,42,47,47,58,45,49,41,56,76,62,627
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,24,26,21,18,36,26,18,29,16,25,26,29,294
+18701,FRONT ROYAL VOL. FIRE DEPT.,FRONT ROYAL VOL. FIRE DEPT.,FRONT ROYAL VOL. FIRE DEPT.,,,,,,,,,,
+Count,200,143,163,137,185,166,163,144,146,148,102,94,"1,791"
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,69,70,67,32,55,49,34,33,18,21,12,5,465
+18702,RIVERMONT FIRE DEPT.,RIVERMONT FIRE DEPT.,,,,,,,,,,,
+Count,22,17,36,12,27,20,29,22,20,24,29,25,283
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,27,26,51,22,11,12,13,20,16,34,29,32,293
+18703,SOUTH WARREN VOL. FIRE DEPT.,SOUTH WARREN VOL. FIRE DEPT.,SOUTH WARREN VOL. FIRE DEPT.,,,,,,,,,,
+Count,11,28,35,18,17,24,16,19,18,32,24,33,275
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,4,0,1,0,0,0,0,1,0,0,0,7
+18704,SHENANDOAH SHORES FIRE,SHENANDOAH SHORES FIRE,SHENANDOAH SHORES FIRE,,,,,,,,,,
+Count,15,8,9,0,0,1,9,10,6,7,12,4,81
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,8,2,2,0,3,10,11,14,9,15,16,18,108
+18705,FORTSMOUTH FIRE DEPT.,FORTSMOUTH FIRE DEPT.,,,,,,,,,,,
+Count,29,19,24,17,19,24,13,23,17,10,21,13,229
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,20,11,23,11,23,16,11,12,8,15,14,18,182
+Page 69 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:38 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+18706,LINDEN VOL. FIRE DEPT.,LINDEN VOL. FIRE DEPT.,,,,,,,,,,,
+Count,17,18,22,11,18,26,20,30,37,19,30,39,287
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,15,8,15,15,15,11,19,22,17,13,17,15,182
+18707,N. WARREN CO FIRE & RESCUE,N. WARREN CO FIRE & RESCUE,N. WARREN CO FIRE & RESCUE,,,,,,,,,,
+Count,23,25,20,26,23,18,14,25,21,21,34,24,274
+Exposures,0,0,1,0,0,0,0,0,0,0,0,0,1
+Aid Given,20,19,22,17,17,16,14,16,14,27,22,29,233
+19104,GLADE SPRING VOL. FIRE DEPT.,GLADE SPRING VOL. FIRE DEPT.,GLADE SPRING VOL. FIRE DEPT.,,,,,,,,,,
+Count,19,19,12,11,7,14,7,15,9,14,9,13,149
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,2,1,1,0,0,0,0,0,0,0,0,5
+19105,MEADOWVIEW VOL. FIRE DEPT.,MEADOWVIEW VOL. FIRE DEPT.,MEADOWVIEW VOL. FIRE DEPT.,,,,,,,,,,
+Count,8,13,19,8,7,19,14,18,12,18,0,28,164
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,2,1,0,1,0,0,0,0,0,1,1,7
+19107,GREEN SPRING VOL. FIRE DEPT.,GREEN SPRING VOL. FIRE DEPT.,GREEN SPRING VOL. FIRE DEPT.,,,,,,,,,,
+Count,11,17,4,8,8,14,5,15,4,8,10,21,125
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,2,1,1,0,0,0,1,0,0,0,0,5
+19110,WASHINGTON CO. VOL. FIRE,WASHINGTON CO. VOL. FIRE,WASHINGTON CO. VOL. FIRE,,,,,,,,,,
+Count,15,11,17,17,14,20,18,23,20,12,20,31,218
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,1,0,0,0,0,0,1,0,0,1,3
+Page 70 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:39 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+19112,BRUMLEY GAP VOL. FIRE DEPT.,BRUMLEY GAP VOL. FIRE DEPT.,BRUMLEY GAP VOL. FIRE DEPT.,,,,,,,,,,
+Count,9,1,11,3,11,8,4,9,5,6,2,10,79
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,1,1,0,1,0,3
+19120,Abingdon Vol. Fire Dept.,Abingdon Vol. Fire Dept.,,,,,,,,,,,
+Count,37,24,39,29,31,50,42,38,37,31,29,95,482
+Exposures,0,1,0,0,0,0,0,0,0,0,0,0,1
+Aid Given,2,1,1,1,0,1,2,1,1,0,2,2,14
+19301,COLONIAL BEACH VOL. FIRE,COLONIAL BEACH VOL. FIRE,COLONIAL BEACH VOL. FIRE,,,,,,,,,,
+Count,43,32,50,32,32,34,38,43,45,48,25,57,479
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,2,14,1,2,6,5,3,4,1,0,4,1,43
+19302,COPLE DISTRICT VOL. FIRE DEPT.,COPLE DISTRICT VOL. FIRE DEPT.,COPLE DISTRICT VOL. FIRE DEPT.,,,,,,,,,,
+Count,12,32,12,16,19,21,25,58,19,26,29,29,298
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,1,0,0,2,1,0,0,0,0,0,4
+19303,OAK GROVE VOLUNTEER FIRE,OAK GROVE VOLUNTEER FIRE,OAK GROVE VOLUNTEER FIRE,,,,,,,,,,
+Count,13,31,25,25,21,25,18,16,21,28,23,38,284
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,8,9,9,4,6,5,3,11,4,2,1,0,62
+19304,WESTMORELAND VOL. FIRE,WESTMORELAND VOL. FIRE,WESTMORELAND VOL. FIRE,,,,,,,,,,
+Count,13,19,13,19,10,6,14,14,16,16,11,16,167
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,4,0,0,0,1,2,0,1,0,0,0,8
+Page 71 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:39 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+19501,VALLEY VOL. FIRE DEPT.,VALLEY VOL. FIRE DEPT.,,,,,,,,,,,
+Count,26,37,32,24,33,28,29,25,22,27,21,21,325
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+19516,Coeburn Vol. Fire Department,Coeburn Vol. Fire Department,Coeburn Vol. Fire Department,,,,,,,,,,
+Count,1,0,0,0,0,0,0,0,0,0,0,0,1
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+19550,BIG STONE GAP VOL. FIRE DEPT.,BIG STONE GAP VOL. FIRE DEPT.,BIG STONE GAP VOL. FIRE DEPT.,,,,,,,,,,
+Count,14,8,9,6,5,10,14,9,10,7,11,12,115
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,1,3,4,2,2,1,1,1,2,0,1,18
+19570,POUND VOL. FIRE DEPT.,POUND VOL. FIRE DEPT.,,,,,,,,,,,
+Count,5,1,2,6,3,5,2,5,4,5,6,2,46
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+19580,SAINT PAUL VOL. FIRE DEPT.,SAINT PAUL VOL. FIRE DEPT.,SAINT PAUL VOL. FIRE DEPT.,,,,,,,,,,
+Count,3,9,2,4,3,8,2,3,2,4,7,0,47
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,1,2,1,0,0,0,0,0,1,0,0,5
+19590,WISE VOL. FIRE DEPT.,WISE VOL. FIRE DEPT.,,,,,,,,,,,
+Count,5,3,3,1,5,2,0,0,0,0,0,0,19
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+Page 72 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:39 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+19701,BARREN SPRINGS VOL. FIRE,BARREN SPRINGS VOL. FIRE,BARREN SPRINGS VOL. FIRE,,,,,,,,,,
+Count,5,6,5,1,4,4,3,14,7,2,2,7,60
+Exposures,1,0,0,0,0,0,0,0,0,0,0,0,1
+Aid Given,0,0,0,1,0,1,0,0,1,0,0,0,3
+19702,IVANHOE VOL. FIRE DEPT.,IVANHOE VOL. FIRE DEPT.,,,,,,,,,,,
+Count,9,9,11,5,4,4,3,2,11,7,4,6,75
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,1,0,0,0,0,0,0,0,1,1,3
+19703,MAX MEADOWS VOL. FIRE DEPT.,MAX MEADOWS VOL. FIRE DEPT.,MAX MEADOWS VOL. FIRE DEPT.,,,,,,,,,,
+Count,18,13,19,8,19,21,19,13,13,9,15,16,183
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,2,0,1,0,1,0,0,0,0,0,0,4
+19704,RURAL RETREAT VOL. FIRE,RURAL RETREAT VOL. FIRE,,,,,,,,,,,
+Count,8,9,8,13,8,12,11,11,19,6,3,15,123
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,1,1,0,0,0,0,0,2
+19705,SPEEDWELL VOL. FIRE DEPT.,SPEEDWELL VOL. FIRE DEPT.,SPEEDWELL VOL. FIRE DEPT.,,,,,,,,,,
+Count,5,4,2,0,2,6,2,2,3,2,0,2,30
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,2,0,0,0,0,0,0,0,0,1,0,3
+19706,WYTHEVILLE,,,,,,,,,,,,
+Count,19,9,10,11,18,20,17,14,12,13,6,15,164
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,1,0,0,1
+Page 73 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:40 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+19900,COUNTY OF YORK,COUNTY OF YORK,,,,,,,,,,,
+Count,614,595,645,659,718,659,703,646,647,692,783,632,"7,993"
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,40,56,70,64,61,74,83,71,65,60,60,68,772
+51000,Alexandria Fire Department,Alexandria Fire Department,,,,,,,,,,,
+Count,"1,578","1,302","1,463","1,437","1,592","1,505","1,461","1,461","1,320","1,498","1,367","1,478","17,462"
+Exposures,0,0,0,0,1,2,0,2,0,0,0,0,5
+Aid Given,4,0,0,0,0,0,0,1,0,0,0,1,6
+51500,Bedford Vol. Fire Department,Bedford Vol. Fire Department,Bedford Vol. Fire Department,,,,,,,,,,
+Count,92,62,73,58,66,64,54,63,62,65,70,65,794
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,19,17,8,9,13,12,9,10,4,7,9,16,133
+52000,MAIN STATION,,,,,,,,,,,,
+Count,170,144,179,194,175,198,173,178,182,153,147,186,"2,079"
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,13,19,13,6,16,17,14,20,10,8,14,17,167
+53000,Buena Vista Fire Department,Buena Vista Fire Department,Buena Vista Fire Department,,,,,,,,,,
+Count,19,8,15,17,18,18,17,18,17,18,16,18,199
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,13,20,19,13,16,15,11,18,12,21,10,17,185
+54000,Charlottesville Fire Dept.,Charlottesville Fire Dept.,,,,,,,,,,,
+Count,372,286,356,377,333,316,324,358,350,372,315,368,"4,127"
+Exposures,0,0,2,0,6,0,0,0,2,0,0,0,10
+Aid Given,0,1,0,0,0,0,1,3,1,0,0,0,6
+Page 74 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:40 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+55000,Chesapeake Fire Department,Chesapeake Fire Department,Chesapeake Fire Department,,,,,,,,,,
+Count,"2,021","1,889","2,169","1,957","2,148","2,080","2,040","2,122","1,983","2,209","2,056","2,109","24,783"
+Exposures,5,8,2,1,1,2,4,4,3,1,0,0,31
+Aid Given,7,4,9,7,8,6,3,5,8,5,5,4,71
+56000,CLIFTON FORGE FIRE DEPT.,CLIFTON FORGE FIRE DEPT.,CLIFTON FORGE FIRE DEPT.,,,,,,,,,,
+Count,12,15,9,7,12,8,5,6,9,6,14,26,129
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,5,3,2,5,2,1,0,2,1,1,3,6,31
+57000,Fire Administration,Fire Administration,,,,,,,,,,,
+Count,360,360,410,365,376,336,350,353,347,360,322,362,"4,301"
+Exposures,0,0,0,0,0,0,0,1,0,0,0,0,1
+Aid Given,22,34,33,16,23,24,23,20,14,19,20,17,265
+58000,Covington Fire Department,Covington Fire Department,,,,,,,,,,,
+Count,14,27,19,17,11,11,17,21,11,11,10,16,185
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,6,8,2,7,3,2,2,4,1,3,1,4,43
+59000,Danville Fire Department,Danville Fire Department,,,,,,,,,,,
+Count,440,355,460,422,489,179,405,467,551,536,458,495,"5,257"
+Exposures,1,0,0,1,0,1,0,1,0,0,0,2,6
+Aid Given,0,1,0,2,0,0,0,0,0,0,0,0,3
+59500,Emporia Fire Department,Emporia Fire Department,,,,,,,,,,,
+Count,45,26,26,26,18,24,34,27,21,19,24,20,310
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,1,0,0,1,1,1,0,1,2,0,0,7
+Page 75 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:40 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+60000,FAIRFAX CITY FIRE DEPARTMENT,FAIRFAX CITY FIRE DEPARTMENT,FAIRFAX CITY FIRE DEPARTMENT,,,,,,,,,,
+Count,253,269,239,219,246,236,228,289,271,305,255,271,"3,081"
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,66,51,53,62,68,61,42,194,169,218,213,233,"1,430"
+62000,Franklin Fire & Rescue Dept.,Franklin Fire & Rescue Dept.,Franklin Fire & Rescue Dept.,,,,,,,,,,
+Count,124,122,170,181,168,165,156,186,88,55,49,49,"1,513"
+Exposures,0,0,0,1,0,0,0,0,0,0,0,0,1
+Aid Given,6,0,5,10,10,3,8,7,4,5,1,2,61
+62001,HUNTERDALE VOL FIRE DEPT,HUNTERDALE VOL FIRE DEPT,HUNTERDALE VOL FIRE DEPT,,,,,,,,,,
+Count,8,10,2,7,18,10,8,3,2,0,0,6,74
+Exposures,0,0,0,0,0,0,0,1,0,0,0,0,1
+Aid Given,37,29,32,34,23,19,27,33,22,1,27,42,326
+63000,Fredericksburg Fire Department,Fredericksburg Fire Department,Fredericksburg Fire Department,,,,,,,,,,
+Count,232,193,233,229,274,312,252,268,233,252,220,241,"2,939"
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,13,1,6,8,4,12,16,22,19,15,12,17,145
+64000,Galax Vol. Fire Department,Galax Vol. Fire Department,,,,,,,,,,,
+Count,31,22,23,19,16,18,12,14,20,13,16,22,226
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,4,3,2,4,4,0,2,2,5,3,7,37
+65000,Administration,,,,,,,,,,,,
+Count,"1,782","1,744","1,995","1,861","1,958","1,902","2,041","1,928","1,769","1,962","1,923","1,867","22,732"
+Exposures,0,0,2,0,0,1,0,0,1,0,1,0,5
+Aid Given,1,3,4,7,2,4,7,2,4,2,12,2,50
+Page 76 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:41 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+66000,Harrisonburg Fire Department,Harrisonburg Fire Department,Harrisonburg Fire Department,,,,,,,,,,
+Count,371,338,353,393,314,337,315,352,333,434,355,345,"4,240"
+Exposures,1,1,0,0,0,0,1,1,0,0,0,0,4
+Aid Given,22,14,18,21,12,12,9,20,10,6,9,14,167
+67000,Hopewell Fire Dept.,Hopewell Fire Dept.,,,,,,,,,,,
+Count,259,247,244,250,209,237,238,215,210,250,236,216,"2,811"
+Exposures,0,5,3,0,0,1,0,0,0,0,1,0,10
+Aid Given,8,9,7,5,5,4,4,2,4,3,1,0,52
+68000,Lynchburg Fire Department,Lynchburg Fire Department,,,,,,,,,,,
+Count,551,462,525,484,463,520,439,487,470,501,447,488,"5,837"
+Exposures,0,0,2,0,0,0,0,0,0,0,0,0,2
+Aid Given,0,0,0,1,2,1,0,2,1,0,0,2,9
+68301,Manassas Vol. Fire Department,Manassas Vol. Fire Department,Manassas Vol. Fire Department,,,,,,,,,,
+Count,107,73,73,96,93,112,132,131,121,123,98,122,"1,281"
+Exposures,0,0,0,1,0,2,0,0,0,0,0,0,3
+Aid Given,79,49,54,50,53,64,70,53,43,47,36,70,668
+68509,Manassas Park Fire Department,Manassas Park Fire Department,Manassas Park Fire Department,,,,,,,,,,
+Count,103,76,89,81,89,86,83,83,72,82,75,74,993
+Exposures,0,0,0,0,0,1,0,0,0,0,2,0,3
+Aid Given,91,78,82,93,112,106,97,85,83,96,73,105,"1,101"
+69000,Martinsville Fire Department,Martinsville Fire Department,Martinsville Fire Department,,,,,,,,,,
+Count,223,180,247,235,263,187,223,232,219,230,232,249,"2,720"
+Exposures,0,0,0,0,1,0,0,0,0,0,1,0,2
+Aid Given,7,0,4,5,10,13,4,9,10,11,7,10,90
+Page 77 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:41 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+70001,Newport News Fire Department,Newport News Fire Department,Newport News Fire Department,,,,,,,,,,
+Count,"2,274","2,108","2,239","2,243","2,395","2,339","2,360","2,297","2,216","2,306","2,322","2,207","27,306"
+Exposures,8,8,14,10,2,0,2,3,1,1,2,2,53
+Aid Given,5,11,9,4,12,14,12,9,11,4,7,0,98
+71000,Norfolk Fire-Rescue,Norfolk Fire-Rescue,,,,,,,,,,,
+Count,"2,016","1,869","2,128","2,069","2,139","2,108","2,124","2,204","1,952","1,967","2,182","2,103","24,861"
+Exposures,0,4,1,1,0,0,2,0,0,0,0,2,10
+Aid Given,0,0,2,0,0,0,3,2,0,0,1,0,8
+72000,Norton Fire Department,Norton Fire Department,,,,,,,,,,,
+Count,16,10,5,14,13,11,8,14,8,18,5,20,142
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+73000,Petersburg Fire and Rescue,Petersburg Fire and Rescue,,,,,,,,,,,
+Count,314,291,314,283,294,334,325,288,279,288,268,323,"3,601"
+Exposures,0,0,4,0,0,0,0,0,0,1,0,0,5
+Aid Given,10,9,14,8,7,6,9,4,2,2,10,4,85
+73500,Poquoson Fire/Rescue,Poquoson Fire/Rescue,,,,,,,,,,,
+Count,25,53,30,42,46,71,82,75,56,89,138,94,801
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,1,1,0,0,0,0,0,0,0,2,0,4
+74000,Portsmouth Fire Department,Portsmouth Fire Department,,,,,,,,,,,
+Count,"1,376","1,217","1,423","1,396","1,426","1,421","1,416","1,414","1,310","1,375","1,506","1,356","16,636"
+Exposures,0,0,0,1,0,0,1,0,0,0,1,0,3
+Aid Given,1,5,1,2,1,3,0,3,1,2,1,4,24
+Page 78 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:41 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+75000,Radford Fire Department,Radford Fire Department,,,,,,,,,,,
+Count,38,28,48,40,39,30,40,33,36,1,28,35,396
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,1,0,2,0,0,0,3
+76000,Richmond Fire & Emergency Serv,Richmond Fire & Emergency Serv,Richmond Fire & Emergency Serv,,,,,,,,,,
+Count,"2,530","2,254","2,595","2,380","2,470","2,476","2,504","2,502","2,248","2,603","2,475","2,447","29,484"
+Exposures,2,4,3,6,4,2,0,1,1,0,0,5,28
+Aid Given,1,2,1,3,4,1,2,2,2,2,1,3,24
+77000,Roanoke Dept. of Fire-EMS,Roanoke Dept. of Fire-EMS,,,,,,,,,,,
+Count,"1,942","1,707","1,887","1,886","1,954","2,000","2,013","2,062","1,869","1,972","1,818","1,981","23,091"
+Exposures,0,4,0,2,1,1,2,0,2,0,1,0,13
+Aid Given,20,17,17,15,15,13,11,16,14,22,14,17,191
+77500,Salem Fire Department,Salem Fire Department,,,,,,,,,,,
+Count,203,174,216,224,189,238,230,218,227,228,185,204,"2,536"
+Exposures,0,0,1,0,0,0,0,0,0,0,0,0,1
+Aid Given,4,2,2,1,2,4,1,2,5,1,2,5,31
+78000,SOUTH BOSTON FIRE DEPT.,SOUTH BOSTON FIRE DEPT.,SOUTH BOSTON FIRE DEPT.,,,,,,,,,,
+Count,123,127,147,119,145,143,135,150,135,140,122,149,"1,635"
+Exposures,2,0,0,0,0,0,0,0,0,0,0,0,2
+Aid Given,1,2,2,1,0,1,0,1,1,3,5,1,18
+79000,Staunton Fire Department,Staunton Fire Department,,,,,,,,,,,
+Count,188,159,171,165,172,187,182,178,180,161,182,194,"2,119"
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,31,19,23,22,15,10,17,17,11,17,8,20,210
+Page 79 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:42 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+80000,Suffolk Fire Department,Suffolk Fire Department,,,,,,,,,,,
+Count,989,829,"1,005",980,"1,038",965,989,906,922,"1,003",881,901,"11,408"
+Exposures,3,1,1,2,2,7,0,0,0,4,0,0,20
+Aid Given,2,2,4,4,1,5,0,6,6,1,5,5,41
+80001,CHUCKATUCK VOLUNTEER FIRE,CHUCKATUCK VOLUNTEER FIRE,CHUCKATUCK VOLUNTEER FIRE,,,,,,,,,,
+Count,6,7,7,3,4,7,7,5,6,4,7,4,67
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,1,0,1,0,1,1,1,0,0,0,5
+80002,DRIVER VOLUNTEER FIRE,DRIVER VOLUNTEER FIRE,,,,,,,,,,,
+Count,13,8,2,3,3,7,2,2,3,5,2,3,53
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,1,0,0,0,0,0,0,0,0,0,0,0,1
+80003,HOLLAND VOLUNTEER FIRE,HOLLAND VOLUNTEER FIRE,HOLLAND VOLUNTEER FIRE,,,,,,,,,,
+Count,1,0,1,0,0,0,0,0,1,3,0,0,6
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,7,9,12,7,10,10,18,13,12,12,9,12,131
+80004,WHALEYVILLE VOLUNTEER FIRE,WHALEYVILLE VOLUNTEER FIRE,WHALEYVILLE VOLUNTEER FIRE,,,,,,,,,,
+Count,0,1,0,0,4,2,0,0,0,3,1,0,11
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,9,9,5,11,5,3,8,5,3,7,2,4,71
+81000,Virginia Beach Fire Department,Virginia Beach Fire Department,Virginia Beach Fire Department,,,,,,,,,,
+Count,"2,145","2,105","2,335","2,284","2,443","2,460","2,551","2,474","2,263","2,414","2,587","2,395","28,456"
+Exposures,4,1,2,2,1,2,2,5,4,2,1,1,27
+Aid Given,1,3,0,5,1,0,5,2,2,3,4,1,27
+Page 80 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:42 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+82000,Waynesboro Fire Department,Waynesboro Fire Department,Waynesboro Fire Department,,,,,,,,,,
+Count,198,133,151,140,168,175,155,193,163,164,187,205,"2,032"
+Exposures,0,1,1,1,1,1,0,0,0,0,0,0,5
+Aid Given,10,2,5,3,0,3,1,2,3,5,8,11,53
+83000,Williamsburg,Fire Department,Fire Department,,,,,,,,,,
+Count,197,175,222,196,208,171,232,233,255,267,233,220,"2,609"
+Exposures,0,0,0,0,0,0,2,0,0,0,0,0,2
+Aid Given,29,37,35,32,44,44,54,45,40,44,40,43,487
+84000,Public Safety Building,Public Safety Building,,,,,,,,,,,
+Count,407,380,442,427,467,455,404,394,382,413,383,403,"4,957"
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,48,38,38,38,40,45,50,22,20,27,36,20,422
+92002,Metro. Washington Airports Aut,Metro. Washington Airports Aut,Metro. Washington Airports Aut,,,,,,,,,,
+Count,352,299,365,381,358,392,395,449,368,412,323,430,"4,524"
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,67,81,82,86,80,78,94,84,88,96,94,87,"1,017"
+92005,RIA ARFF STATION,RIA ARFF STATION,,,,,,,,,,,
+Count,37,50,53,30,40,32,41,46,16,12,43,33,433
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,1,0,0,1,0,0,0,1,3
+92007,Shenandoah Valley Airport Fire,Shenandoah Valley Airport Fire,Shenandoah Valley Airport Fire,,,,,,,,,,
+Count,0,0,3,0,0,0,0,0,0,0,0,0,3
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+Page 81 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,,3/5/10 7:50:42 AM
+Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,Monthly Incident Counts,,,,,,,
+Report Period:,Report Period:,2009,,,,,,,,,,,
+FDID,,FD Name,,,,,,,,,,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+92008,Lynchburg Regional Airport,Lynchburg Regional Airport,,,,,,,,,,,
+Count,2,1,4,4,6,0,2,5,1,3,2,4,34
+Exposures,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aid Given,0,0,0,0,0,0,0,0,0,0,0,0,0
+Grand Totals,Grand Totals,,,,,,,,,,,,
+Count,"56,909","50,262","56,183","53,340","55,066","55,332","53,898","53,679","50,306","54,248","51,819","54,460","645,502"
+Exposures,66,81,69,53,42,44,38,35,18,17,13,21,497
+Aid Given,"3,456","3,186","2,973",4,"2,707","2,716","2,771","2,769","2,400","2,823","2,796","3,106","34,352"
+Page 82 of 82,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,3/5/10 7:50:43 AM,3/5/10 7:50:43 AM
