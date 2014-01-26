@@ -1,0 +1,44 @@
+Summary By Incident Type,,,,
+Report Parameters:,,,,
+Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,,,
+State: VA,Version: All,Status: All,Released: All,
+Report Filters:,,,,
+,"NOTE: Report Filter Groups are applied to the report SQL as ""AND"" conditions (i.e. Group 1 AND Group2 and Group 3 etc...)","NOTE: Report Filter Groups are applied to the report SQL as ""AND"" conditions (i.e. Group 1 AND Group2 and Group 3 etc...)","NOTE: Report Filter Groups are applied to the report SQL as ""AND"" conditions (i.e. Group 1 AND Group2 and Group 3 etc...)","NOTE: Report Filter Groups are applied to the report SQL as ""AND"" conditions (i.e. Group 1 AND Group2 and Group 3 etc...)"
+Report FDIDs: All,,,,
+,,*Data from deactivated fire depts within the list was not included in the report.,*Data from deactivated fire depts within the list was not included in the report.,*Data from deactivated fire depts within the list was not included in the report.
+Page 1 of 2,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,Fri Mar 11 09:42:02 EST 2011
+Summary By Incident Type,,,,,,,,,
+,,,,All Selected Fire Departments,All Selected Fire Departments,All Selected Fire Departments,All Selected Fire Departments,,
+Report Period: From 01/01/2010 to 12/31/2010,,,,,,,,,
+,,,Mutual,Mutual,Mutual,,,,
+Calls By Incident Type,,,,,,,,,
+,,Percent Of,Aid,Aid,Aid,Other Aid,Invalid Aid,,Total
+FIRES,Frequency,Total Calls,None,Given,Received,Given,Flag,Exposures,Incidents
+"Building Fires (110-118, 120-123) ..............","10,111",1.54 %,"7,522","4,619","2,507",8,74,261,"14,991"
+Vehicle Fires (130-138) .............................,"4,475",0.68 %,"4,106",450,362,3,4,127,"5,052"
+"Other Fires (100, 140-173) ........................","13,649",2.08 %,"12,483","1,803","1,144",20,2,58,"15,510"
+Total Fires ................................................,"28,235",4.30 %,"24,111","6,872","4,013",31,80,446,"35,553"
+"Pressure Ruptures, Explosion, Overheat (200-251)","1,452",0.22 %,"1,329",76,117,6,0,0,"1,528"
+RESCUE CALLS,,,,,,,,,
+Emergency Medical Treatment (300-323),"425,059",64.78 %,"412,776","14,143","11,803",464,16,0,"439,202"
+All Others (331-381) .................................,"5,636",0.86 %,"5,223",504,395,13,5,0,"6,140"
+Total Rescue Calls .....................................,"430,695",65.64 %,"417,999","14,647","12,198",477,21,0,"445,342"
+Hazardous Condition Calls (400-482) .......................,"30,319",4.62 %,"28,617","1,775","1,666",28,8,0,"32,094"
+Service Calls (500-571) .........................................,"43,267",6.59 %,"42,461","1,675",736,68,2,0,"44,942"
+Good Intent Calls (600-671) ...................................,"63,103",9.62 %,"60,081","10,688","2,863",60,99,1,"73,792"
+Severe Weather or Natural Disaster Calls (800-815),"1,129",0.17 %,"1,074",43,51,3,1,0,"1,172"
+Special Incident Calls (900-911) ............................,"3,853",0.59 %,"3,489",142,353,11,0,0,"3,995"
+Unknown Incident Type (UUU) ..............................,2,0.00 %,2,2,0,0,0,0,4
+FALSE CALLS,,,,,,,,,
+"Malicious Calls (710-715, 751)","2,204",0.34 %,"2,087",74,116,1,0,0,"2,278"
+"Other False Calls (700, 721-746)","51,857",7.90 %,"49,271","2,250","2,570",15,1,0,"54,107"
+Total False Calls ..................................................,"54,061",8.24 %,"51,358","2,324","2,686",16,1,0,"56,385"
+TOTAL CALLS .......................................................,"656,116",100.00 %,"630,521","38,244","24,683",700,212,447,"694,807"
+Total Incidents With Exposure Fires .................................,Total Incidents With Exposure Fires .................................,284,,Total Fire Dollar Loss,Total Fire Dollar Loss,............................,,"$ 245,074,521.00","$ 245,074,521.00"
+Total Exposure Fires ..........................................................,Total Exposure Fires ..........................................................,447,,Total Dollar Loss,....................................,....................................,,"$ 262,285,837.00","$ 262,285,837.00"
+Casualty Summary,Civilian,Fire Service,Fire Service,Fire Service,,,,,
+Fire Related Injuries,471,,214,,,,,,
+Non-Fire Injuries,184,,209,,,,,,
+Fire Related Deaths,68,,3,3,,,,,
+Non-Fire Deaths,59,,0,0,,,,,
+Page 2 of 2,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Fri Mar 11 10:36:42 EST 2011,Fri Mar 11 10:36:42 EST 2011

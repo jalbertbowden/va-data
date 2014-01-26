@@ -1,0 +1,36 @@
+Name: “Table 1 of 1 on page 2 of 2”,Name: “Table 1 of 1 on page 2 of 2”,Name: “Table 1 of 1 on page 2 of 2”,Name: “Table 1 of 1 on page 2 of 2”,Name: “Table 1 of 1 on page 2 of 2”,Name: “Table 1 of 1 on page 2 of 2”,Name: “Table 1 of 1 on page 2 of 2”,Name: “Table 1 of 1 on page 2 of 2”,Name: “Table 1 of 1 on page 2 of 2”,Name: “Table 1 of 1 on page 2 of 2”,Name: “Table 1 of 1 on page 2 of 2”
+Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2
+,,,,,,,,,,
+Summary By Incident Type,Summary By Incident Type,Summary By Incident Type,,,,,,,,
+Report Period:,1/1/03 - 12/31/03,,,,,,,,,
+Calls By Incident Type,Calls By Incident Type,,Percent Of,Mutual Aid,Mutual Aid,Mutual Aid,Other Aid,Invalid Aid,,Total
+,,Frequency,Total Calls,None,Given,Received,Given,Flag,Exposures,Incidents
+FIRES,,,,,,,,,,
+,"Building Fires (110-118, 120-123). . . . . . . . . . . . . . . . .",9017,1.86%,7216,2813,1799,2,0,226,12056
+,Vehicle Fires (130-138). . . . . . . . . . . . . . . . . . . . . . . . .,5274,1.09%,4984,392,288,1,1,131,5797
+,"Others Fires (100, 140-173). . . . . . . . . . . . . . . . . . . . .",8383,1.73%,7857,747,524,2,0,87,9217
+Total Fires. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .,Total Fires. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .,22674,4.69%,20057,3952,2611,5,1,444,27070
+"Overpressure Ruptures, Explosion, Overheat (200-251). . . . .","Overpressure Ruptures, Explosion, Overheat (200-251). . . . .",2644,0.55%,2510,108,133,1,0,9,2761
+RESCUE CALLS,,,,,,,,,,
+,Emergency Medical Treatment (300-323). . . . . . . .,292909,60.54%,288353,7023,4491,64,0,18,299950
+,All Others (331-381). . . . . . . . . . . . . . . . . . . . . . . . .,4228,0.87%,3992,318,225,11,0,0,4546
+Total Rescue Calls. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .,Total Rescue Calls. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .,297137,61.42%,292345,7341,4716,75,0,18,304496
+Hazardous Condition Calls (400-482). . . . . . . . . . . . . . . . . . . .,Hazardous Condition Calls (400-482). . . . . . . . . . . . . . . . . . . .,35295,7.30%,33829,1363,1456,10,0,9,36667
+Service Calls (500-571). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .,Service Calls (500-571). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .,32556,6.73%,31957,1193,572,27,0,16,33765
+Good Intent Calls (600-671). . . . . . . . . . . . . . . . . . . . . . . . . . . .,Good Intent Calls (600-671). . . . . . . . . . . . . . . . . . . . . . . . . . . .,42440,8.77%,41009,5270,1415,15,1,8,47718
+Severe Weather or Natural Disaster Calls (800-815). . . . . . . .,Severe Weather or Natural Disaster Calls (800-815). . . . . . . .,1732,0.36%,1688,63,41,3,0,0,1795
+Special Incident Calls (900-911). . . . . . . . . . . . . . . . . . . . . . . . .,Special Incident Calls (900-911). . . . . . . . . . . . . . . . . . . . . . . . .,4042,0.84%,3851,196,189,1,1,1,4239
+Unknown Incident Type (UUU). . . . . . . . . . . . . . . . . . . . . . . . . .,Unknown Incident Type (UUU). . . . . . . . . . . . . . . . . . . . . . . . . .,187,0.04%,175,125,12,0,0,0,312
+FALSE CALLS,,,,,,,,,,
+,"Malicious Calls (710-715, 751). . . . . . . . . . . . . . . . .",2506,0.52%,2428,34,78,0,0,0,2540
+,"Other False Calls (700, 721-746). . . . . . . . . . . . . . .",42600,8.81%,41088,1420,1508,3,1,5,44025
+Total False Calls. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .,Total False Calls. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .,45106,9.32%,43516,1454,1586,3,1,5,46565
+TOTAL CALLS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .,TOTAL CALLS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .,483813,100.00%,470937,21065,12731,140,4,510,505388
+,Total Incidents With Exposure Fires. . . . . . . . . . . . . . . . . . . . . . . .,Total Incidents With Exposure Fires. . . . . . . . . . . . . . . . . . . . . . . .,311,,Total Fire Dollar Loss. . . . . . . . . . . . . . . . . . . . . . . . . . .,Total Fire Dollar Loss. . . . . . . . . . . . . . . . . . . . . . . . . . .,Total Fire Dollar Loss. . . . . . . . . . . . . . . . . . . . . . . . . . .,Total Fire Dollar Loss. . . . . . . . . . . . . . . . . . . . . . . . . . .,,"$306,059,874"
+,Total Exposure Fires. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .,Total Exposure Fires. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .,510,,Total Dollar Loss. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .,Total Dollar Loss. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .,Total Dollar Loss. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .,Total Dollar Loss. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .,,"$313,784,932"
+,Casualty Summary,,Civilian,Fire Service,Fire Service,,,,,
+,Fire Related Injuries,,499,185,185,,,,,
+,Non-Fire Injuries,,155,70,70,,,,,
+,Fire Related Deaths,,71,0,0,,,,,
+,Non-Fire Deaths,,31,1,1,,,,,
+Page 2 of 2,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,1/16/08 6:28:23 PM,1/16/08 6:28:23 PM,1/16/08 6:28:23 PM

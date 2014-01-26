@@ -1,0 +1,38 @@
+Name: “Table 1 of 1 on page 2 of 2”,Name: “Table 1 of 1 on page 2 of 2”,Name: “Table 1 of 1 on page 2 of 2”,Name: “Table 1 of 1 on page 2 of 2”,Name: “Table 1 of 1 on page 2 of 2”,Name: “Table 1 of 1 on page 2 of 2”,Name: “Table 1 of 1 on page 2 of 2”,Name: “Table 1 of 1 on page 2 of 2”,Name: “Table 1 of 1 on page 2 of 2”,Name: “Table 1 of 1 on page 2 of 2”
+Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2
+,,,,,,,,,
+Summary By Incident Type,,,,,,,,,
+,,,,All Selected Fire Departments,All Selected Fire Departments,All Selected Fire Departments,All Selected Fire Departments,,
+Report Period: From 01/01/2012 to 12/31/2012,,,,,,,,,
+,,,Mutual,Mutual,Mutual,,,,
+Calls By Incident Type,,,,,,,,,
+,,Percent Of,Aid,Aid,Aid,Other Aid,Invalid Aid,,Total
+FIRES,Frequency,Total Calls,None,Given,Received,Given,Flag,Exposures,Incidents
+"Structure Fires (110-118, 120-123) .............","9,059",1.21 %,"6,517","4,324","2,470",25,47,187,"13,570"
+Vehicle Fires (130-138) .............................,"4,138",0.55 %,"3,728",505,401,7,2,122,"4,765"
+"Other Fires (100, 140-173) ........................","11,972",1.60 %,"10,887","1,709","1,055",29,1,50,"13,731"
+Total Fires ................................................,"25,169",3.37 %,"21,132","6,538","3,926",61,50,359,"32,066"
+"Pressure Ruptures, Explosion, Overheat (200-251)","1,372",0.18 %,"1,267",74,104,0,1,0,"1,446"
+RESCUE CALLS,,,,,,,,,
+Emergency Medical Treatment (300-323),"506,540",67.74 %,"488,916","17,529","16,763",792,69,0,"524,069"
+All Others (331-381) .................................,"5,622",0.75 %,"5,202",530,400,17,3,0,"6,152"
+Total Rescue Calls .....................................,"512,162",68.49 %,"494,118","18,059","17,163",809,72,0,"530,221"
+Hazardous Condition Calls (400-482) .......................,"31,088",4.16 %,"29,328","1,690","1,689",64,7,0,"32,778"
+Service Calls (500-571) .........................................,"46,356",6.20 %,"45,500","1,725",727,124,5,0,"48,081"
+Good Intent Calls (600-671) ...................................,"73,391",9.82 %,"69,928","13,392","3,233",125,105,1,"86,784"
+Severe Weather or Natural Disaster Calls (800-815),"1,984",0.27 %,"1,929",80,52,3,0,0,"2,064"
+Special Incident Calls (900-911) ............................,"3,739",0.50 %,"3,182",102,550,7,0,0,"3,841"
+Unknown Incident Type (UUU) ..............................,15,0.00 %,15,1,0,0,0,0,16
+FALSE CALLS,,,,,,,,,
+"Malicious Calls (710-715, 751)","1,997",0.27 %,"1,884",84,113,0,0,0,"2,081"
+"Other False Calls (700, 721-746)","50,468",6.75 %,"47,803","2,288","2,622",39,4,0,"52,756"
+Total False Calls ..................................................,"52,465",7.02 %,"49,687","2,372","2,735",39,4,0,"54,837"
+TOTAL CALLS .......................................................,"747,741",100.00 %,"716,086","44,033","30,179","1,232",244,360,"792,134"
+Total Incidents With Exposure Fires .................................,Total Incidents With Exposure Fires .................................,226,,Total Fire Dollar Loss,Total Fire Dollar Loss,............................,,"$ 273,735,147.00","$ 273,735,147.00"
+Total Exposure Fires ..........................................................,Total Exposure Fires ..........................................................,360,,Total Dollar Loss,....................................,....................................,,"$ 284,546,846.00","$ 284,546,846.00"
+Casualty Summary,Civilian,Fire Service,Fire Service,Fire Service,,,,,
+Fire Related Injuries,419,,264,264,,,,,
+Non-Fire Injuries,208,,407,407,,,,,
+Fire Related Deaths,55,,2,2,,,,,
+Non-Fire Deaths,74,,2,2,,,,,
+Page 2 of 2,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Thu Mar 14 07:39:12 EDT 2013,Thu Mar 14 07:39:12 EDT 2013
