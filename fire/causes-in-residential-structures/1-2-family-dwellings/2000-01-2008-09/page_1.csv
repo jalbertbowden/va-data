@@ -1,0 +1,44 @@
+Name: “Table 1 of 1 on page 1 of 9”,Name: “Table 1 of 1 on page 1 of 9”,Name: “Table 1 of 1 on page 1 of 9”,Name: “Table 1 of 1 on page 1 of 9”,Name: “Table 1 of 1 on page 1 of 9”
+Table: 1,Table: 1,Table: 1,Table: 1,Table: 1
+,,,,
+,,,Residential Fire Sprinklers,Residential Fire Sprinklers
+,,,Data Collection Project,Data Collection Project
+Source:,Source:,,Virginia Fire Incident Reporting System,Virginia Fire Incident Reporting System
+Reporting Period:,Reporting Period:,Reporting Period:,January 2000 to September 2008,January 2000 to September 2008
+Data Criteria,Data Criteria,Data Criteria,,
+•,Incident Type – Structure Fire Codes,Incident Type – Structure Fire Codes,Incident Type – Structure Fire Codes,Incident Type – Structure Fire Codes
+,o,111 – Building fire.,111 – Building fire.,Excludes confined fires (113-118)
+,o,113 – Confined cooking fire in structure,113 – Confined cooking fire in structure,113 – Confined cooking fire in structure
+,o,114 – Confined chimney fire in structure,114 – Confined chimney fire in structure,114 – Confined chimney fire in structure
+,o,115 – Confined incinerator fire in structure,115 – Confined incinerator fire in structure,115 – Confined incinerator fire in structure
+,o,116 – Confined boiler fire in structure,116 – Confined boiler fire in structure,116 – Confined boiler fire in structure
+,o,117 – Confined compactor fire in structure,117 – Confined compactor fire in structure,117 – Confined compactor fire in structure
+,o,118 – Confined trash fire in structure,118 – Confined trash fire in structure,118 – Confined trash fire in structure
+•,Property Use – Residential,Property Use – Residential,Property Use – Residential,
+,o,419 – 1 or 2 family dwelling,419 – 1 or 2 family dwelling,419 – 1 or 2 family dwelling
+•,Aid,,,
+,o,None,,
+,o,Received,Received,
+,o,Other Aid,Other Aid,
+,o,Blank,,
+Note,,,,
+•,"Last database update November 21, 2008","Last database update November 21, 2008","Last database update November 21, 2008","Last database update November 21, 2008"
+•,2008 data is preliminary.,2008 data is preliminary.,2008 data is preliminary.,"Final 2008 stats will be released on April 1, 2009."
+•,Year 2008 data only includes incidents reported for January 2008 to September,Year 2008 data only includes incidents reported for January 2008 to September,Year 2008 data only includes incidents reported for January 2008 to September,Year 2008 data only includes incidents reported for January 2008 to September
+,2008.,,,
+•,OUTLIERS - If an incident response time was 12 hours or greater or response time,OUTLIERS - If an incident response time was 12 hours or greater or response time,OUTLIERS - If an incident response time was 12 hours or greater or response time,OUTLIERS - If an incident response time was 12 hours or greater or response time
+,"was less than 0 minutes, then the respond time was not used in the calculation of","was less than 0 minutes, then the respond time was not used in the calculation of","was less than 0 minutes, then the respond time was not used in the calculation of","was less than 0 minutes, then the respond time was not used in the calculation of"
+,average response time; 227 incidents’ response times were impacted.,average response time; 227 incidents’ response times were impacted.,average response time; 227 incidents’ response times were impacted.,average response time; 227 incidents’ response times were impacted.
+•,If the incident was a fire in a structure confined to a non-combustible container,If the incident was a fire in a structure confined to a non-combustible container,If the incident was a fire in a structure confined to a non-combustible container,If the incident was a fire in a structure confined to a non-combustible container
+,"(codes 113, 114, 115, 116, 117, or 118) and the fire spread was blank, then the","(codes 113, 114, 115, 116, 117, or 118) and the fire spread was blank, then the","(codes 113, 114, 115, 116, 117, or 118) and the fire spread was blank, then the","(codes 113, 114, 115, 116, 117, or 118) and the fire spread was blank, then the"
+,fire spread code was changed to 1 (confined to object).,fire spread code was changed to 1 (confined to object).,fire spread code was changed to 1 (confined to object).,fire spread code was changed to 1 (confined to object).
+Point of Contact:,Point of Contact:,Point of Contact:,,
+,Marion A. Long,Marion A. Long,,
+,Manager of Information & Statistics,Manager of Information & Statistics,Manager of Information & Statistics,Manager of Information & Statistics
+,Virginia Department of Fire Programs,Virginia Department of Fire Programs,Virginia Department of Fire Programs,Virginia Department of Fire Programs
+,1005 Technology Park Drive,1005 Technology Park Drive,1005 Technology Park Drive,
+,"Glen Allen, VA","Glen Allen, VA",23059,
+,804-259-1990,804-259-1990,,
+,804-840-3714 (cell),804-840-3714 (cell),804-840-3714 (cell),
+,Marion.long@vdfp.virginia.gov,Marion.long@vdfp.virginia.gov,Marion.long@vdfp.virginia.gov,
+Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,1

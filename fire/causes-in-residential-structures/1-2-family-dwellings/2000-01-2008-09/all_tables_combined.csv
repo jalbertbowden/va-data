@@ -1,0 +1,295 @@
+,,,Residential Fire Sprinklers,Residential Fire Sprinklers
+,,,Data Collection Project,Data Collection Project
+Source:,Source:,,Virginia Fire Incident Reporting System,Virginia Fire Incident Reporting System
+Reporting Period:,Reporting Period:,Reporting Period:,January 2000 to September 2008,January 2000 to September 2008
+Data Criteria,Data Criteria,Data Criteria,,
+•,Incident Type – Structure Fire Codes,Incident Type – Structure Fire Codes,Incident Type – Structure Fire Codes,Incident Type – Structure Fire Codes
+,o,111 – Building fire.,111 – Building fire.,Excludes confined fires (113-118)
+,o,113 – Confined cooking fire in structure,113 – Confined cooking fire in structure,113 – Confined cooking fire in structure
+,o,114 – Confined chimney fire in structure,114 – Confined chimney fire in structure,114 – Confined chimney fire in structure
+,o,115 – Confined incinerator fire in structure,115 – Confined incinerator fire in structure,115 – Confined incinerator fire in structure
+,o,116 – Confined boiler fire in structure,116 – Confined boiler fire in structure,116 – Confined boiler fire in structure
+,o,117 – Confined compactor fire in structure,117 – Confined compactor fire in structure,117 – Confined compactor fire in structure
+,o,118 – Confined trash fire in structure,118 – Confined trash fire in structure,118 – Confined trash fire in structure
+•,Property Use – Residential,Property Use – Residential,Property Use – Residential,
+,o,419 – 1 or 2 family dwelling,419 – 1 or 2 family dwelling,419 – 1 or 2 family dwelling
+•,Aid,,,
+,o,None,,
+,o,Received,Received,
+,o,Other Aid,Other Aid,
+,o,Blank,,
+Note,,,,
+•,"Last database update November 21, 2008","Last database update November 21, 2008","Last database update November 21, 2008","Last database update November 21, 2008"
+•,2008 data is preliminary.,2008 data is preliminary.,2008 data is preliminary.,"Final 2008 stats will be released on April 1, 2009."
+•,Year 2008 data only includes incidents reported for January 2008 to September,Year 2008 data only includes incidents reported for January 2008 to September,Year 2008 data only includes incidents reported for January 2008 to September,Year 2008 data only includes incidents reported for January 2008 to September
+,2008.,,,
+•,OUTLIERS - If an incident response time was 12 hours or greater or response time,OUTLIERS - If an incident response time was 12 hours or greater or response time,OUTLIERS - If an incident response time was 12 hours or greater or response time,OUTLIERS - If an incident response time was 12 hours or greater or response time
+,"was less than 0 minutes, then the respond time was not used in the calculation of","was less than 0 minutes, then the respond time was not used in the calculation of","was less than 0 minutes, then the respond time was not used in the calculation of","was less than 0 minutes, then the respond time was not used in the calculation of"
+,average response time; 227 incidents’ response times were impacted.,average response time; 227 incidents’ response times were impacted.,average response time; 227 incidents’ response times were impacted.,average response time; 227 incidents’ response times were impacted.
+•,If the incident was a fire in a structure confined to a non-combustible container,If the incident was a fire in a structure confined to a non-combustible container,If the incident was a fire in a structure confined to a non-combustible container,If the incident was a fire in a structure confined to a non-combustible container
+,"(codes 113, 114, 115, 116, 117, or 118) and the fire spread was blank, then the","(codes 113, 114, 115, 116, 117, or 118) and the fire spread was blank, then the","(codes 113, 114, 115, 116, 117, or 118) and the fire spread was blank, then the","(codes 113, 114, 115, 116, 117, or 118) and the fire spread was blank, then the"
+,fire spread code was changed to 1 (confined to object).,fire spread code was changed to 1 (confined to object).,fire spread code was changed to 1 (confined to object).,fire spread code was changed to 1 (confined to object).
+Point of Contact:,Point of Contact:,Point of Contact:,,
+,Marion A. Long,Marion A. Long,,
+,Manager of Information & Statistics,Manager of Information & Statistics,Manager of Information & Statistics,Manager of Information & Statistics
+,Virginia Department of Fire Programs,Virginia Department of Fire Programs,Virginia Department of Fire Programs,Virginia Department of Fire Programs
+,1005 Technology Park Drive,1005 Technology Park Drive,1005 Technology Park Drive,
+,"Glen Allen, VA","Glen Allen, VA",23059,
+,804-259-1990,804-259-1990,,
+,804-840-3714 (cell),804-840-3714 (cell),804-840-3714 (cell),
+,Marion.long@vdfp.virginia.gov,Marion.long@vdfp.virginia.gov,Marion.long@vdfp.virginia.gov,
+Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,1
+,,,,Virginia Residential Building Fires,Virginia Residential Building Fires,Virginia Residential Building Fires,Virginia Residential Building Fires,Virginia Residential Building Fires,,,,
+,,,,,In 1-or-2 Family Dwellings,In 1-or-2 Family Dwellings,In 1-or-2 Family Dwellings,,,,,
+,,,,REPORTED FIRES PER YEAR,REPORTED FIRES PER YEAR,REPORTED FIRES PER YEAR,REPORTED FIRES PER YEAR,REPORTED FIRES PER YEAR,,,,
+,,,,,,,,Civ,,FS,Total,Inj/Death
+Year,#,%,RT Avg,"%
+    ",Loss Tot,Loss/Inc,Civ Inj,,FS Inj,,,
+,,,,,,,,Death,,Death,Inj/Death,Per 1k Inc.
+2000,"3,777",8.8%,7:55,56.3%,"$48,155,163","$12,750",194,26,107,0,327,87
+2001,"3,741",8.7%,7:52,56.9%,"$47,998,062","$12,830",190,18,81,0,289,77
+2002,"4,718",11.0%,7:49,51.5%,"$76,796,666","$16,277",249,24,112,0,385,82
+2003,"5,081",11.8%,7:48,49.3%,"$204,634,885","$40,275",243,37,111,0,391,77
+2004,"5,070",11.8%,8:33,42.4%,"$87,499,919","$17,258",234,71,96,1,402,79
+2005,"5,169",12.0%,8:02,42.5%,"$107,836,293","$20,862",201,31,83,0,315,61
+2006,"5,362",12.4%,7:55,43.3%,"$190,120,899","$35,457",202,40,80,0,322,60
+2007,"5,888",13.7%,8:00,42.2%,"$139,928,586","$23,765",245,58,91,1,395,67
+2008,"4,266",9.9%,7:31,44.4%,"$92,299,311","$21,636",159,36,81,0,276,65
+Total,"43,072",100.0%,7:57,47.0%,"$995,269,784","$23,107","1,917",341,842,2,"3,102",72
+Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,2,,,,,,
+,,,,Virginia Residential Building Fires,Virginia Residential Building Fires,Virginia Residential Building Fires,,,,,,
+,,,,In 1-or-2 Family Dwellings,In 1-or-2 Family Dwellings,In 1-or-2 Family Dwellings,,,,,,
+,,,,Reported Fires by Locality,Reported Fires by Locality,Reported Fires by Locality,,,,,,
+,,,,(Jan 2000-Sep 2008 Combined),(Jan 2000-Sep 2008 Combined),(Jan 2000-Sep 2008 Combined),,,,,,
+,,,,,,,,,,,,Inj/Death
+,,,,,,,,Civ,FS,FS,Total,
+County/City,#,%,RT Avg,"%
+    ",Loss Tot,Loss/Inc,Civ Inj,,,,,Per 1k
+,,,,,,,,Fatal,Inj,Fatal,Inj/Death,
+,,,,,,,,,,,,Inc.
+Accomack County,337,0.8%,9:02,21.7%,"$5,944,760","$17,640",4,2,0,0,6,18
+Albemarle County,349,0.8%,9:41,20.1%,"$10,998,471","$31,514",3,5,2,0,10,29
+Alexandria,228,0.5%,4:13,89.9%,"$1,506,925","$6,609",14,0,1,0,15,66
+Alleghany County,152,0.4%,7:14,46.1%,"$2,228,740","$14,663",1,0,2,0,3,20
+Amelia County,44,0.1%,13:44,6.8%,"$1,761,600","$40,036",0,0,0,0,0,0
+Amherst County,265,0.6%,13:00,7.6%,"$1,997,860","$7,539",9,0,3,0,12,45
+Appomattox County,68,0.2%,11:46,8.8%,"$1,581,425","$23,256",0,0,2,0,2,29
+Arlington County,294,0.7%,5:54,66.4%,"$11,648,317","$39,620",4,1,9,0,14,48
+Augusta County,766,1.8%,10:27,17.3%,"$8,807,506","$11,498",8,5,10,0,23,30
+Bedford,183,0.4%,10:47,15.3%,"$2,365,100","$12,924",0,0,0,0,0,0
+Bedford County,313,0.7%,12:08,17.3%,"$4,111,701","$13,136",1,3,0,0,4,13
+Bland County,57,0.1%,18:17,10.5%,"$565,700","$9,925",0,0,1,0,1,18
+Botetourt County,147,0.3%,13:23,13.6%,"$611,350","$4,159",0,2,1,0,3,20
+Bristol,237,0.6%,4:09,81.4%,"$2,351,645","$9,923",17,1,26,0,44,186
+Brunswick County,147,0.3%,12:15,10.9%,"$2,071,350","$14,091",0,0,0,0,0,0
+Buchanan County,78,0.2%,17:50,9.0%,"$2,724,545","$34,930",3,2,0,0,5,64
+Buckingham County,90,0.2%,13:44,12.2%,"$423,500","$4,706",0,1,0,0,1,11
+Buena Vista,77,0.2%,6:19,44.2%,"$962,850","$12,505",1,1,1,0,3,39
+Campbell County,416,1.0%,11:11,17.8%,"$2,298,270","$5,525",0,3,0,0,3,7
+Caroline County,98,0.2%,12:46,6.1%,"$1,693,350","$17,279",0,0,2,0,2,20
+Carroll County,165,0.4%,12:20,5.5%,"$2,581,650","$15,646",1,0,2,1,4,24
+Charles City County,48,0.1%,15:04,4.2%,"$1,298,810","$27,059",0,1,0,0,1,21
+Charlotte County,68,0.2%,12:29,7.4%,"$2,061,235","$30,312",0,1,1,0,2,29
+Charlottesville,370,0.9%,4:55,75.1%,"$4,534,017","$12,254",29,2,9,0,40,108
+Chesapeake,"1,482",3.4%,6:15,49.3%,"$27,607,978","$18,629",112,6,25,0,143,96
+Chesterfield County,"1,571",3.6%,7:55,18.5%,"$28,002,405","$17,825",110,12,25,0,147,94
+Clarke County,139,0.3%,11:09,13.7%,"$1,919,780","$13,811",3,0,2,0,5,36
+Colonial Heights,155,0.4%,10:10,50.3%,"$1,358,685","$8,766",9,2,6,0,17,110
+Covington,101,0.2%,6:06,40.6%,"$1,088,854","$10,781",7,1,7,0,15,149
+Craig County,34,0.1%,7:51,41.2%,"$236,850","$6,966",0,0,0,0,0,0
+Culpeper County,193,0.4%,12:39,8.3%,"$6,368,852","$32,999",2,1,1,0,4,21
+Cumberland County,21,0.0%,10:14,38.1%,"$506,250","$24,107",0,0,0,0,0,0
+Danville,723,1.7%,4:48,79.9%,"$6,323,114","$8,746",45,2,10,0,57,79
+Dickenson County,117,0.3%,19:20,4.3%,"$2,892,720","$24,724",2,1,10,0,13,111
+Dinwiddie County,115,0.3%,12:53,17.4%,"$1,701,490","$14,796",1,1,1,0,3,26
+Emporia,48,0.1%,6:56,39.6%,"$830,500","$17,302",0,0,0,0,0,0
+,Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,3,,,,,,,
+,,,,Virginia Residential Building Fires,Virginia Residential Building Fires,Virginia Residential Building Fires,,,,,,
+,,,,In 1-or-2 Family Dwellings,In 1-or-2 Family Dwellings,In 1-or-2 Family Dwellings,,,,,,
+,,,,Reported Fires by Locality,Reported Fires by Locality,Reported Fires by Locality,,,,,,
+,,,,(Jan 2000-Sep 2008 Combined),(Jan 2000-Sep 2008 Combined),(Jan 2000-Sep 2008 Combined),,,,,,
+,,,,,,,,,,,,Inj/Death
+,,,,,,,,Civ,FS,FS,Total,
+County/City,#,%,RT Avg,"%
+    ",Loss Tot,Loss/Inc,Civ Inj,,,,,Per 1k
+,,,,,,,,Fatal,Inj,Fatal,Inj/Death,
+,,,,,,,,,,,,Inc.
+Essex County,45,0.1%,11:36,15.6%,"$1,750,500","$38,900",2,7,1,0,10,222
+Fairfax,106,0.2%,8:39,81.1%,"$3,326,110","$31,378",4,0,0,0,4,38
+Fairfax County,"3,623",8.4%,10:43,69.1%,"$134,750,299","$37,193",132,24,62,0,218,60
+Fauquier County,450,1.0%,11:12,18.3%,"$10,365,125","$23,034",5,1,5,0,11,24
+Floyd County,126,0.3%,15:27,6.3%,"$30,500",$242,0,2,0,0,2,16
+Fluvanna County,20,0.0%,8:21,40.0%,$0,$0,0,0,0,0,0,0
+Franklin,151,0.4%,5:46,55.0%,"$1,495,310","$9,903",2,2,1,0,5,33
+Franklin County,443,1.0%,10:54,28.0%,"$7,996,310","$18,050",10,5,6,0,21,47
+Frederick County,651,1.5%,9:47,26.7%,"$3,367,186","$5,172",8,1,11,0,20,31
+Fredericksburg,116,0.3%,4:25,81.0%,"$1,666,799","$14,369",4,1,2,0,7,60
+Galax,180,0.4%,10:46,8.9%,"$1,013,550","$5,631",0,0,1,0,1,6
+Giles County,79,0.2%,8:43,27.8%,"$1,981,427","$25,081",2,2,0,0,4,51
+Gloucester County,312,0.7%,7:49,31.8%,"$14,033,707","$44,980",15,2,7,0,24,77
+Goochland County,163,0.4%,17:06,7.4%,"$1,089,656","$6,685",5,2,0,0,7,43
+Grayson County,137,0.3%,15:41,7.4%,"$24,040,050","$175,475",0,0,0,0,0,0
+Greene County,71,0.2%,11:35,19.7%,"$7,950",$112,1,0,0,0,1,14
+Halifax County,290,0.7%,8:11,43.1%,"$5,121,128","$17,659",1,1,0,0,2,7
+Hampton,891,2.1%,4:17,80.0%,"$10,095,269","$11,330",47,2,13,0,62,70
+Hanover County,464,1.1%,10:11,16.6%,"$7,072,697","$15,243",7,0,13,0,20,43
+Harrisonburg,27,0.1%,4:58,66.7%,"$93,205","$3,452",0,0,0,0,0,0
+Henrico County,"1,900",4.4%,5:52,47.8%,"$34,214,671","$18,008",124,8,43,0,175,92
+Henry County,424,1.0%,10:54,20.3%,"$10,709,150","$25,257",7,9,5,0,21,50
+Hopewell,363,0.8%,4:33,76.6%,"$2,477,960","$6,826",26,2,4,0,32,88
+Isle of Wight County,181,0.4%,7:26,37.4%,"$3,062,237","$16,918",4,2,6,0,12,66
+James City County,424,1.0%,6:08,50.5%,"$10,807,821","$25,490",18,3,12,0,33,78
+King and Queen County,30,0.1%,8:56,14.8%,$370,$12,0,0,0,0,0,0
+King George County,150,0.3%,11:14,18.0%,"$3,055,380","$20,369",5,2,4,0,11,73
+King William County,25,0.1%,12:10,4.0%,"$474,000","$18,960",1,0,0,0,1,40
+Lancaster County,21,0.0%,7:09,33.3%,"$571,000","$27,190",0,0,0,0,0,0
+Lee County,226,0.5%,12:18,7.1%,"$8,383,300","$37,094",3,7,0,0,10,44
+Lexington,45,0.1%,7:43,33.3%,"$1,816,774","$40,373",0,0,0,0,0,0
+Loudoun County,610,1.4%,7:39,37.1%,"$20,432,953","$33,497",32,0,25,0,57,93
+Louisa County,203,0.5%,11:56,11.4%,"$6,041,550","$29,761",1,1,0,0,2,10
+Lunenburg County,64,0.1%,8:35,48.4%,"$1,526,475","$23,851",1,2,0,0,3,47
+Lynchburg,725,1.7%,3:55,88.4%,"$5,413,160","$7,466",30,4,22,0,56,77
+Madison County,116,0.3%,6:55,51.7%,$0,$0,0,0,0,0,0,0
+Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,4,,,,,,,
+,,,,Virginia Residential Building Fires,Virginia Residential Building Fires,Virginia Residential Building Fires,,,,,,
+,,,,In 1-or-2 Family Dwellings,In 1-or-2 Family Dwellings,In 1-or-2 Family Dwellings,,,,,,
+,,,,Reported Fires by Locality,Reported Fires by Locality,Reported Fires by Locality,,,,,,
+,,,,(Jan 2000-Sep 2008 Combined),(Jan 2000-Sep 2008 Combined),(Jan 2000-Sep 2008 Combined),,,,,,
+,,,,,,,,,,,,Inj/Death
+,,,,,,,,Civ,FS,FS,Total,
+County/City,#,%,RT Avg,"%
+    ",Loss Tot,Loss/Inc,Civ Inj,,,,,Per 1k
+,,,,,,,,Fatal,Inj,Fatal,Inj/Death,
+,,,,,,,,,,,,Inc.
+Manassas,169,0.4%,5:02,67.5%,"$3,661,455","$21,665",17,0,3,0,20,118
+Manassas Park,50,0.1%,3:20,80.0%,"$2,092,930","$41,859",1,0,0,0,1,20
+Martinsville,210,0.5%,4:13,79.0%,"$2,703,889","$12,876",19,3,3,0,25,119
+Mathews County,59,0.1%,8:17,11.9%,"$2,655,350","$45,006",0,0,1,0,1,17
+Mecklenburg County,474,1.1%,7:37,43.7%,"$4,082,145","$8,612",2,7,4,0,13,27
+Middlesex County,13,0.0%,17:05,0.0%,"$75,375,500","$5,798,115",0,0,0,0,0,0
+Montgomery County,351,0.8%,6:57,49.0%,"$3,924,355","$11,180",2,3,1,0,6,17
+Nelson County,89,0.2%,15:55,13.5%,"$1,809,700","$20,334",0,3,0,0,3,34
+New Kent County,51,0.1%,10:00,23.5%,"$5,700",$112,0,0,0,0,0,0
+Newport News,"1,116",2.6%,4:44,68.8%,"$13,258,870","$11,881",108,11,20,0,139,125
+Norfolk,"1,260",2.9%,3:53,91.3%,"$12,833,051","$10,185",74,6,68,0,148,117
+Northampton County,64,0.1%,10:34,20.3%,"$1,028,900","$16,077",4,2,0,0,6,94
+Northumberland County,48,0.1%,11:06,10.4%,"$1,850,450","$38,551",1,1,0,0,2,42
+Norton,21,0.0%,6:34,42.9%,"$47,500","$2,262",0,0,0,0,0,0
+Nottoway County,78,0.2%,7:37,33.3%,"$549,020","$7,039",0,0,1,0,1,13
+Orange County,136,0.3%,12:41,11.8%,"$2,124,220","$15,619",2,0,1,0,3,22
+Page County,190,0.4%,8:37,36.8%,"$2,430,200","$12,791",4,0,0,0,4,21
+Patrick County,111,0.3%,12:11,10.8%,"$3,023,520","$27,239",1,3,0,0,4,36
+Petersburg,620,1.4%,5:00,67.1%,"$5,421,666","$8,745",71,13,14,0,98,158
+Pittsylvania County,461,1.1%,10:49,13.7%,"$8,521,176","$18,484",4,4,2,0,10,22
+Poquoson,76,0.2%,3:44,85.5%,"$804,700","$10,588",1,0,1,0,2,26
+Portsmouth,966,2.2%,5:41,70.9%,"$11,188,075","$11,582",11,7,10,0,28,29
+Powhatan County,172,0.4%,10:48,19.8%,"$5,355,330","$31,136",10,2,8,0,20,116
+Prince Edward County,103,0.2%,9:48,11.7%,"$2,163,485","$21,005",4,4,0,0,8,78
+Prince George County,202,0.5%,9:54,18.3%,"$1,667,400","$8,254",1,1,1,0,3,15
+Prince William County,566,1.3%,6:28,46.1%,"$410,000",$724,2,1,0,1,4,7
+Pulaski County,285,0.7%,5:49,60.9%,"$5,805,807","$20,371",6,3,6,0,15,53
+Radford,90,0.2%,4:05,80.0%,"$1,557,272","$17,303",2,4,0,0,6,67
+Rappahannock County,96,0.2%,12:39,9.4%,"$2,859,607","$29,788",0,1,0,0,1,10
+Richmond,"1,951",4.5%,5:27,78.4%,"$36,876,337","$18,901",172,26,70,0,268,137
+Richmond County,6,0.0%,10:20,16.7%,"$25,500","$4,250",1,0,0,0,1,167
+Roanoke,928,2.2%,4:31,80.4%,"$15,940,867","$17,178",69,9,23,0,101,109
+Roanoke County,418,1.0%,8:34,20.1%,"$6,214,973","$14,868",11,2,13,0,26,62
+Rockbridge County,200,0.5%,12:59,16.0%,"$1,732,450","$8,662",0,1,1,0,2,10
+Rockingham County,483,1.1%,11:02,16.8%,"$3,827,900","$7,925",10,0,5,0,15,31
+Russell County,75,0.2%,11:34,18.7%,"$1,188,150","$15,842",0,1,0,0,1,13
+Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,5,,,,,,,
+,,,,Virginia Residential Building Fires,Virginia Residential Building Fires,Virginia Residential Building Fires,,,,,,
+,,,,In 1-or-2 Family Dwellings,In 1-or-2 Family Dwellings,In 1-or-2 Family Dwellings,,,,,,
+,,,,Reported Fires by Locality,Reported Fires by Locality,Reported Fires by Locality,,,,,,
+,,,,(Jan 2000-Sep 2008 Combined),(Jan 2000-Sep 2008 Combined),(Jan 2000-Sep 2008 Combined),,,,,,
+,,,,,,,,,,,,Inj/Death
+,,,,,,,,Civ,FS,FS,Total,
+County/City,#,%,RT Avg,"%
+    ",Loss Tot,Loss/Inc,Civ Inj,,,,,Per 1k
+,,,,,,,,Fatal,Inj,Fatal,Inj/Death,
+,,,,,,,,,,,,Inc.
+Salem,117,0.3%,10:54,59.8%,"$1,202,208","$10,275",7,1,6,0,14,120
+Scott County,172,0.4%,13:53,18.0%,"$3,680,300","$21,397",2,1,1,0,4,23
+Shenandoah County,253,0.6%,12:34,18.2%,"$1,964,210","$7,764",2,7,0,0,9,36
+Smyth County,220,0.5%,10:46,19.1%,"$3,378,470","$15,357",1,1,0,0,2,9
+Southampton County,102,0.2%,9:51,13.7%,"$1,847,650","$18,114",3,7,3,0,13,127
+Spotsylvania County,658,1.5%,8:13,26.7%,"$137,217,579","$208,537",28,3,16,0,47,71
+Stafford County,246,0.6%,7:43,39.0%,"$3,898,426","$15,847",5,0,2,0,7,28
+Staunton,205,0.5%,4:19,77.0%,"$1,172,231","$5,718",6,1,5,0,12,59
+Suffolk,"1,006",2.3%,5:23,63.6%,"$11,600,775","$11,532",39,4,26,0,69,69
+Surry County,31,0.1%,13:26,10.0%,"$796,850","$25,705",0,1,2,0,3,97
+Sussex County,83,0.2%,7:47,39.8%,"$1,860,600","$22,417",1,2,2,0,5,60
+Tazewell County,187,0.4%,8:49,28.3%,"$2,905,660","$15,538",12,5,5,0,22,118
+Virginia Beach,"2,357",5.5%,7:40,29.6%,"$60,609,930","$25,715",222,24,70,0,316,134
+Warren County,95,0.2%,9:18,30.5%,"$1,367,190","$14,391",5,3,4,0,12,126
+Washington County,273,0.6%,12:13,7.7%,"$5,477,100","$20,063",7,7,4,0,18,66
+Waynesboro,197,0.5%,3:39,90.8%,"$1,838,668","$9,333",10,3,4,0,17,86
+Westmoreland County,110,0.3%,9:27,20.9%,"$1,919,240","$17,448",1,0,2,0,3,27
+Williamsburg,59,0.1%,4:26,78.0%,"$309,675","$5,249",6,0,2,0,8,136
+Winchester,223,0.5%,3:19,92.4%,"$1,433,965","$6,430",18,0,9,0,27,121
+Wise County,162,0.4%,9:41,34.0%,"$2,906,055","$17,939",8,4,3,0,15,93
+Wythe County,255,0.6%,9:44,22.4%,"$3,973,380","$15,582",12,1,7,0,20,78
+York County,325,0.8%,4:47,69.5%,"$4,640,438","$14,278",29,0,11,0,40,123
+Total,"43,072",100.0%,7:57,47.0%,"$995,269,784","$23,107","1,917",341,842,2,"3,102",72
+Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,6,,,,,,,
+,,,,Virginia Residential Building Fires,Virginia Residential Building Fires,Virginia Residential Building Fires,Virginia Residential Building Fires,,,,,
+,,Number of 1-or-2 Family Dwelling Fires,Number of 1-or-2 Family Dwelling Fires,Number of 1-or-2 Family Dwelling Fires,Number of 1-or-2 Family Dwelling Fires,Number of 1-or-2 Family Dwelling Fires,Number of 1-or-2 Family Dwelling Fires,Number of 1-or-2 Family Dwelling Fires,,,,
+,,with Fire Confined to a Non-Combustible Container,with Fire Confined to a Non-Combustible Container,with Fire Confined to a Non-Combustible Container,with Fire Confined to a Non-Combustible Container,with Fire Confined to a Non-Combustible Container,with Fire Confined to a Non-Combustible Container,with Fire Confined to a Non-Combustible Container,with Fire Confined to a Non-Combustible Container,,,
+,,,,(Jan 2000 - Sep 2008 Combined),(Jan 2000 - Sep 2008 Combined),(Jan 2000 - Sep 2008 Combined),(Jan 2000 - Sep 2008 Combined),,,,,
+Confined/Non-,,,RT,,,,,Civ,,FS,Total,Inj/Death
+,#,%,,"%
+    ",Loss Tot,Loss/Inc,Civ Inj,,FS Inj,,,
+Confined,,,Avg,,,,,Fatal,,Fatal,Inj/Death,Per 1k Inc.
+Building Fire - Not,,,,,,,,,,,,
+confined,"30,189",70.1%,8:00,49.3%,"$988,709,796","$32,751","1,749",340,824,2,"2,915",97
+"Building Fire,",,,,,,,,,,,,
+Confinded,"12,883",29.9%,7:51,41.4%,"$6,559,988",$509,168,1,18,0,187,15
+Total,"43,072",100.0%,7:57,47.0%,"$995,269,784","$23,107","1,917",341,842,2,"3,102",72
+,Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,7,,,,,,,
+,,,,Virginia Residential Building Fires,Virginia Residential Building Fires,Virginia Residential Building Fires,,,,,,
+,,,,In 1-or-2 Family Dwellings,In 1-or-2 Family Dwellings,In 1-or-2 Family Dwellings,,,,,,
+,,,,Extent of Fire Spread,Extent of Fire Spread,Extent of Fire Spread,,,,,,
+,,,,(Jan 2000 to Sep 2008 Combined),(Jan 2000 to Sep 2008 Combined),(Jan 2000 to Sep 2008 Combined),,,,,,
+,,,,,,,,,,,,Inj/Death
+,,,,,,,,Civ,,FS,,
+Fire Spread Group,#,%,RT Avg,"%
+    ",Loss Tot,Loss/Inc,Civ Inj,,FS Inj,,Inj/Death,Per 1k
+,,,,,,,,Fatal,,Fatal,,
+,,,,,,,,,,,,Inc.
+Blank,"10,729",24.9%,7:48,44.1%,"$22,462,619","$2,094",128,9,29,1,167,16
+Confined to object,"12,010",27.9%,7:38,44.6%,"$45,756,030","$3,810",264,12,37,0,313,26
+Confined to room,"10,338",24.0%,6:48,55.0%,"$174,062,725","$16,837",787,49,111,0,947,92
+Confined to floor,"2,230",5.2%,8:30,54.1%,"$73,650,025","$33,027",172,30,82,0,284,127
+Confined to building,"6,442",15.0%,9:34,42.0%,"$558,842,329","$86,750",475,187,454,1,"1,117",173
+Spread beyond bldg.,"1,323",3.1%,11:41,41.5%,"$120,496,056","$91,078",91,54,129,0,274,207
+Total,"43,072",100.0%,7:56,47.0%,"$995,269,784","$23,107","1,917",341,842,2,"3,102",72
+,250,,,,,,,,,,,
+,200,,,,,,,,,,,
+,150,,,,,,,,,,,
+,100,,,,,,,,207,,,
+,,,,,,,173,,,,,
+,,,,,127,,,,,,,
+,50,,,92,,,,,,,,
+,,26,,,,,,,,,,
+,0,,,,,,,,,,,
+,,Confined to,Confined to,Confined to,Confined to,Confined to,Confined to,,Spread,,,
+,,object,object,room,floor,building,building,beyond bldg.,beyond bldg.,,,
+,,,,,Fire Spread,,,,,,,
+,Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,Source: Virginia Fire Incident Reporting System,8,,,,,,,
+Virginia Residential Building Fires,
+in 1-or-2 Family Dwellings,
+(Jan 2000- Sep 2008 Combined),
+1-or-2 Family Dwelling Fires by Time,1-or-2 Family Dwelling Fires by Time
+,of Day
+,Midnight-3am
+8pm-11pm,9%
+18%,
+,4am-7am
+,8%
+,8am-11am
+,16%
+4pm-7pm,
+28%,
+,Noon-3pm
+,21%
+Source: Virginia Fire Incident Reporting System,9

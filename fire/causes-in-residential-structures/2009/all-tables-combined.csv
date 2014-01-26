@@ -1,0 +1,30 @@
+Residential Structure Fire Causes,Residential Structure Fire Causes,Residential Structure Fire Causes,Residential Structure Fire Causes,,
+Report Parameters:,Report Parameters:,,,,
+Report Period:,1/1/09 - 12/31/09,Version: Both,Status: All,Released: All,
+Report Filters:,No Filters Applied,,,,
+,"NOTE: Report Filter Groups are applied to the report SQL as ""AND"" conditions (i.e. Group 1 AND Group 2 AND Group 3 etc...)","NOTE: Report Filter Groups are applied to the report SQL as ""AND"" conditions (i.e. Group 1 AND Group 2 AND Group 3 etc...)","NOTE: Report Filter Groups are applied to the report SQL as ""AND"" conditions (i.e. Group 1 AND Group 2 AND Group 3 etc...)","NOTE: Report Filter Groups are applied to the report SQL as ""AND"" conditions (i.e. Group 1 AND Group 2 AND Group 3 etc...)",
+State:,VA,,,,
+Report FDIDs:,All,,,,
+Page 1 of 2,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,3/5/10 7:33:34 AM
+Residential Structure Fire Causes,Residential Structure Fire Causes,Residential Structure Fire Causes,Residential Structure Fire Causes,Residential Structure Fire Causes,Residential Structure Fire Causes,Residential Structure Fire Causes,Residential Structure Fire Causes,Residential Structure Fire Causes,,,,,,,,,,
+State:,VA,Report Period:,1/1/09 - 12/31/09,1/1/09 - 12/31/09,1/1/09 - 12/31/09,,,,,,,,,,,,,
+CODE,,CATEGORY,FREQ,FREQ %,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+01,"Incendiary, Suspicious","Incendiary, Suspicious",350,4.33%,11,20.37%,17,5.65%,0,0.00%,21,18.26%,"11,169,471",8.48%,"3,729,396",9.51%,"14,898,867",8.72%
+02,Children Playing,Children Playing,22,0.27%,0,0.00%,3,1.00%,0,0.00%,1,0.87%,"571,950",0.43%,"140,866",0.36%,"712,816",0.42%
+03,,Smoking,143,1.77%,4,7.41%,14,4.65%,0,0.00%,3,2.61%,"4,781,422",3.63%,"1,515,053",3.86%,"6,296,475",3.68%
+04,,Heating,"1,279",15.81%,3,5.56%,17,5.65%,0,0.00%,4,3.48%,"3,081,466",2.34%,"748,471",1.91%,"3,829,937",2.24%
+05,,Cooking,"2,672",33.04%,3,5.56%,81,26.91%,0,0.00%,2,1.74%,"4,300,675",3.26%,"1,446,538",3.69%,"5,747,213",3.36%
+06,Electrical Distribution,Electrical Distribution,112,1.38%,0,0.00%,5,1.66%,0,0.00%,9,7.83%,"3,864,186",2.93%,"1,277,879",3.26%,"5,142,065",3.01%
+,"Appliances, Air Conditioning","Appliances, Air Conditioning",,,,,,,,,,,,,,,,
+07,,,206,2.55%,0,0.00%,7,2.33%,0,0.00%,4,3.48%,"2,222,927",1.69%,"664,848",1.70%,"2,887,775",1.69%
+,"Open Flame, Ember, Torch","Open Flame, Ember, Torch",,,,,,,,,,,,,,,,
+08,,,378,4.67%,2,3.70%,18,5.98%,0,0.00%,3,2.61%,"10,656,339",8.09%,"3,746,425",9.55%,"14,402,764",8.43%
+,"Other Heat, Flame, Spark","Other Heat, Flame, Spark",,,,,,,,,,,,,,,,
+09,,,266,3.29%,2,3.70%,13,4.32%,0,0.00%,8,6.96%,"6,388,395",4.85%,"1,803,760",4.60%,"8,192,155",4.79%
+10,Other Equipment,Other Equipment,57,0.70%,0,0.00%,2,0.66%,0,0.00%,2,1.74%,"729,105",0.55%,"568,647",1.45%,"1,297,752",0.76%
+11,,Natural,124,1.53%,0,0.00%,1,0.33%,0,0.00%,3,2.61%,"2,861,025",2.17%,"968,940",2.47%,"3,829,965",2.24%
+12,,Exposure,269,1.50%,2,3.70%,5,1.66%,0,0.00%,3,2.61%,"10,237,141",7.77%,"2,969,111",7.57%,"13,206,252",7.73%
+13,Unknown Cause,Unknown Cause,"2,359",29.15%,27,50.00%,118,39.20%,1,100.00%,52,45.22%,"70,872,018",53.80%,"19,629,353",50.06%,"90,501,371",52.94%
+Totals,,,"8,237",100.00%,54,100.00%,301,100.00%,1,100.00%,115,100.00%,"131,736,120 100.00%","131,736,120 100.00%","39,209,287",100.00%,"170,945,407",100.00%
+,Page 2 of 2,Page 2 of 2,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,3/5/10 7:35:47 AM,3/5/10 7:35:47 AM,
