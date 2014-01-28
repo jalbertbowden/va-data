@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Virginia Dept. of Conservation and Recreation - DSWC</origin>
+				<pubdate>20040816</pubdate>
+				<title>Flight Area Counties</title>
+				<edition>2004</edition>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<serinfo>
+					<sername>jurisdiction boundaries</sername>
+					<issue>2004 update</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Richmond, Virginia</pubplace>
+					<publish>Virginia DCR-DSWC</publish>
+				</pubinfo>
+				<othercit>Basis is the USGS 7.5 minute topo quad DRGs</othercit>
+				<ftname Sync="TRUE">flight_area_counties</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>
+Jurisdiction boundaries for all counties (95) and cities (39) in Virginia
+at a precision that is, at a minimum, from heads-up digitizing off of DRGs.
+</abstract>
+			<purpose>
+These are the jurisdiction boundaries used by Virginia DCR to geocode
+any geographic information with a jurisdiction FIPS code.  They were
+developed prior to, and for, the development of Virginia's 14 digit
+hydrologic unit boundaries and updated from 2002-2004 as part of the
+development of the National Watershed Boundary Dataset (NWBD).
+</purpose>
+			<supplinf>
+Origin:
+
+Version 1 jurisdiction boundaries were originally digitized at ISSL,
+VPI&amp;SU in 1989 off of the USGS 7.5 minute quadrangle maps.  Some
+modifications were made at that time given the date of some quads.
+The line and attribute data were delivered to the VA DCR in DLG3 format.
+
+Revisions:
+
+Version 1995:
+Version 1995 was made at the Virginia DCR, using version 1 as a base,
+as part of the development of Virginia's 14 digit hydrologic unit layer.
+At that time the jurisdiction boundaries were updated using newer quad
+maps or maps supplied by various jurisdictions and the Virginia DOT,
+all of which were at a better scale than the quads but were not always
+done to map accuracy standards.  These newly digitized products were used
+to replace older existing boundaries.  Changes were made to the
+boundaries of 34 jurisdictions between the first and 1995 versions.
+
+Version 2004:
+Version 2004 varies from version 1995 in many ways.  The major differences
+are that almost all of the linework has been recaptured at a better
+resolution, and linework has been added to delineate what is in a
+jurisdiction from what a local government has jurisdiction over.  The
+improved resolution was realized by overlaying the linework of version 1995
+onto enhanced DRGs and recapturing linework via heads-up digitizing on
+images which are enlarged beyond the 1:24,000 scale of the original paper
+maps.  The determinations of what areas of the state are truly within any
+local jurisdictions versus being within the state but outside of all local
+jurisdictions was assisted by the Virginia Attorney General's Office.
+
+Additionally, as these boundaries were being recaptured as part of the
+NWBD development, jurisdiction boundaries that coexisted as watershed
+boundaries were modified to align with the watershed boundaries as they
+were defined in the NWBD versus aligning with jurisdiction boundaries
+as they were drawn on the USGS topographic quads.  These situations are
+noted in the line attribute table.
+
+Other than the improved linework due to the DRG use and NWBD development
+as noted above, the following changes were made between versions 1995 and
+2004:
+(1) Clifton Forge is removed as it is no longer a city. (2) The shoreline
+boundaries of jurisdictions bordering the Chesapeake Bay and Atlantic Ocean
+have been recaptured off of DOQQs. (3) The offshore waters of Virginia have
+been added to the 3 nautical mile limit. (4) The boundary between Prince
+George and Sussex and between Sussex and Surry has been altered (Disputanta
+South quad). (5) The boundary of Emporia has been altered. (6) The boundary
+between Lynchburg and Amherst was altered. (7) The boundary between Danville
+and Pittsylvania Co was altered. (8) The boundary of Williamsburg has been
+altered based on its representation on their web site. (9) The state
+boundary has been altered from Smith Point to Rhodes Point.  In particular,
+it originates further southeast on the line extending from Smith Point than
+previously portrayed on 7.5 minute topo maps. (10) The boundary between
+Fauquier and Prince William has been altered. (11) The boundary between
+Giles and Monroe County, WV has been altered. (12) The boundary between
+Louisa and Goochland was altered to reflect the boundary as displayed on
+VDOT county maps. (13) Minor adjustments were made to the boundary of
+Norton. (14) Minor adjustments were made to the boundary of Bristol.
+
+Territorial waters within the Commonwealth have been determined with the
+assistance of the Virginia Attorney General's Office.  As advised by that
+office, and in accordance with section 15.2-3105 of the Code of Virginia,
+Chesapeake Bay waters, Atlantic Ocean waters, and the tidal tributaries to
+these bodies of water, are not considered part of any local jurisdiction.
+In other words, "the normal activities of counties and cities do not extend
+off shore".  Section 15.2-3105 extends the boundary of local jurisdictions
+along the Chesapeake Bay or Atlantic Ocean to "embrace all wharfs, piers,
+docks, and other structures, except bridges and tunnels that have been or
+may hereafter be erected along the waterfront".  Therefore shorelines that
+include these structures are now used to define the jurisdiction
+boundaries along the Chesapeake Bay and Atlantic Ocean.  While tidal rivers
+of these bodies are also part of this decree, it would be difficult to
+accurately portray local jurisdiction boundaries excluding all tidal waters
+of the Bay and the Atlantic.  It would also produce a version of jurisdiction
+boundaries for Virginia unlikely to be used by the agencies of the state
+who this layer is intended to assist.  Therefore, an apparent limit arc has
+been added across tidal waters to delineate the Chesapeake Bay and Atlantic
+Ocean proper from their tidal tributaries. These artificial boundaries have
+been attributed as such.
+
+The same legal source also advises that in accordance with Sections
+16.1-69.29 and 17.1-516, the local jurisdictions of the Commonwealth have
+been given "concurrent territorial jurisdiction [to the district and circuit
+courts of counties on each side of any river, watercourse, or bay,] over so
+much thereof as shall be opposite to such counties".  Likewise, local
+jurisdictions have been authorized by Section 29.1-744.C to enact ordinances
+regulating vessels and the conduct of people within the territorial limits,
+including the marginal adjacent Atlantic Ocean.  This section extends the
+territorial limits of the seaside jurisdictions out three miles into the
+Atlantic Ocean.  Accordingly, this version of the jurisdiction boundaries
+contains the delineations of the Chesapeake Bay and Atlantic Ocean as
+necessary to portray these stated territorial jurisdictions, including an
+equidistance mid-Bay boundary that will not align with the mid-Bay
+boundary found in federal spatial layers showing jurisdiction boundaries
+in Virginia.
+
+It is possible to only display the arcs defining jurisdictions, versus also
+showing arcs which only define areas that jurisdictions have jurisdiction
+over.  One method would be to dissolve this shapefile on the fips and/or
+fips2 field.  Dissolving on fips will create a new polygon shapefile
+containing areas within the local jurisdiction.  This shapefile will have
+a separate polygon for the Chesapeake Bay and the Atlantic territorial
+waters.  Dissolving on fips2 will result in a new polygon shapefile
+containing all the areas which the local jurisdictions have jurisdiction
+over.  This is particularly relevant if you are using ArcView.
+</supplinf>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>20010801</begdate>
+					<enddate>present</enddate>
+				</rngdates>
+			</timeinfo>
+			<current>Publication date of sources</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>
+Updated whenever known boundary changes are made and maps of said changes
+can be obtained.  However, there is no process in place to assure that DCR
+is aware of such changes when they occur.
+
+Upcoming modifications will include the infusion of boundaries from
+local governments where those boundaries are agreeable to parties on
+both sides, ridge modifications from more precise topographic sources,
+and more current and precise shorelines from the hydrography developed
+from the VA Base Map Imagery.
+</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-83.837830</westbc>
+				<eastbc Sync="TRUE">-75.160162</eastbc>
+				<northbc Sync="TRUE">39.471482</northbc>
+				<southbc Sync="TRUE">36.464993</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">-373533.600000</leftbc><rightbc Sync="TRUE">373706.800000</rightbc><bottombc Sync="TRUE">60037.600000</bottombc><topbc Sync="TRUE">385287.800000</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>none</themekt>
+				<themekey>jurisdiction</themekey>
+				<themekey>cities</themekey>
+				<themekey>counties</themekey>
+			</theme>
+			<place>
+				<placekt>none</placekt>
+				<placekey>Virginia</placekey>
+			</place>
+		</keywords>
+		<accconst>none</accconst>
+		<useconst>Crediting VA DCR for dataset development is requested.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Karl Huber</cntper>
+					<cntorg>Virginia Dept. of Conservation &amp; Recreation - DSWC</cntorg>
+				</cntperp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>203 Governor Street, Suite 206</address>
+					<city>Richmond</city>
+					<state>Virginia</state>
+					<postal>23219-2094</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>804 371 7484</cntvoice>
+				<cntfax>804 371 2630</cntfax>
+				<cntemail>karl.huber@dcr.virginia.gov</cntemail>
+				<hours>0830-1800</hours>
+			</cntinfo>
+		</ptcontac>
+		<datacred>
+DCR-DSWC is credited with the linework revisions of version 1995.  The almost
+complete redigitizing of version 2004 from DRGs was done by Virginia Tech -
+Biological Systems Engineering staff working at DCR-DSWC.  Legal assistance
+was provided by Frederick Fisher, Senior Assistant Attorney General in the
+Virginia Office of the Attorney General.
+</datacred>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.3.1.1850</native>
+		<crossref>
+			<citeinfo>
+				<origin>ISSL</origin>
+				<pubdate>1989</pubdate>
+				<title>Virginia's jurisdiction boundaries</title>
+				<edition>1</edition>
+				<geoform>map</geoform>
+				<serinfo>
+					<sername>jurisdiction boundaries</sername>
+					<issue>version 1</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Blacksburg, Virginia</pubplace>
+					<publish>ISSL</publish>
+				</pubinfo>
+			</citeinfo>
+		</crossref>
+		<crossref>
+			<citeinfo>
+				<origin>VDOT</origin>
+				<pubdate>19930101</pubdate>
+				<title>County Road Map Atlas</title>
+				<edition>1993</edition>
+				<geoform>map</geoform>
+				<serinfo>
+					<sername>County Road Map Atlas</sername>
+					<issue>1993 Volume</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Richmond, Virginia</pubplace>
+					<publish>VDOT</publish>
+				</pubinfo>
+			</citeinfo>
+		</crossref>
+		<crossref>
+			<citeinfo>
+				<origin>VDOT</origin>
+				<pubdate>1992</pubdate>
+				<title>City Road Maps</title>
+				<edition>1991</edition>
+				<geoform>map</geoform>
+				<serinfo>
+					<sername>City Road Map</sername>
+					<issue>1991 Volume</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Richmond, Virginia</pubplace>
+					<publish>VDOT</publish>
+				</pubinfo>
+			</citeinfo>
+		</crossref>
+		<crossref>
+			<citeinfo>
+				<origin>USDA-NRCS</origin>
+				<pubdate>2000</pubdate>
+				<title>Enhanced DRGs of Virginia</title>
+				<edition>2000</edition>
+				<geoform>map</geoform>
+				<serinfo>
+					<sername>Enhanced DRGs</sername>
+					<issue>Virginia Quads</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Ft Worth, Texas</pubplace>
+					<publish>USDA-NRCS</publish>
+				</pubinfo>
+			</citeinfo>
+		</crossref>
+		<natvform Sync="TRUE">Shapefile</natvform></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>
+Jurisdiction FIPS code assignment to the polygons of this dataset are
+correct except as noted here.
+(1)The code of Virginia does not assign the Chespaeake Bay waters to
+local jurisdictions.  Therefore, the bay polygon has been assigned the
+fabricated FIPS code of 901 by DCR.  Likewise, the offshore Atlantic
+waters within the 3 mile zone are assigned the fabricated FIPS code of
+903. (2)The Hampton Roads area has been assigned as an area which Hampton
+has jurisdiction over, based on best available sources.  (3)The state
+FIPS code (51) is not appended to any local jurisdiction FIPS code.
+</attraccr>
+		</attracc>
+		<logic>
+All arcs are used to define jurisdiction boundaries or areas of assigned
+jurisdiction.  There are no dangling arcs, nor does any polygon contain more
+than one label.  There are, however, more polygons than there are
+jurisdictions because the shoreline is being used to define jurisdiction
+boundaries along the Atlantic and in the Chesapeake Bay.  Thus many islands
+which are not connected to the mainland now appear as separate polygons of
+jurisdictions.
+</logic>
+		<complete>
+This dataset is in need of additional refinement, including the following.
+(1) While it has been concluded that the Bay and Atlantic waters are not part
+of any jurisdiction in Virginia except the state itself, the border between
+the jurisdictions of Virginia and the state owned waters of the Bay and
+Atlantic is always fluctuating.  Using shorelines as boundaries in this layer
+was limited to defining (a) the Chesapeake Bay from the tidal rivers and any
+adjoining land, and (b) the barrier islands of the Atlantic shore from the
+ocean.  DOQQs were used for this task.  The DOQQ for the northeast corner of
+the Tangier Island quad was insufficient for capturing the shorelines of the
+islands in that area.  That portion of the south Potomac River shore which
+defines the border between Virginia and Maryland should also have been captured
+from DOQQs.  Shore linework will eventually be replaced by the shorelines in
+the hydrography portion of the Virginia Base Map product.  (2) Buena Vista
+boundaries (and the related portion of Rockbridge County boundaries) are
+approximate due to incomplete base maps.  (3) No town boundaries are included
+in this coverage.  They would be a welcome addition if a process to update and
+maintain them can be arranged.  (4) Adjoining states claim boundaries which do
+not always coincide with the state boundary of Virginia as found in this layer.
+Attempts to resolve these discrepancies have been complicated by the lack of
+knowledge and documentation held by the agencies of these states on the
+source of the boundaries which they use.  Furthermore, as in Virginia, there
+is more than one version of the boundaries of these states being used by the
+various state agencies of those states and by various federal agencies.
+</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>
+The accuracy of boundaries for jurisdictions as they appear on the 7.5
+minute quadrangle maps is unknown.  USGS map accuracy standards for
+the 7.5 minute quadrangles would indicate minimumal distortion.
+However, it is apparent that jurisdiction boundaries which might be
+intended to be coterminous with ridge lines do not always follow the
+ridge lines as defined during Virginia's watershed boundary delineations
+as performed on DRGs.  It is unclear as to whether or not these
+jurisdiction boundaries should therefore  be moved to where DCR has
+delineated watershed boundaries.  Such adjustments have been performed in
+this version but noted where they have occurred due to the indecision.
+Other potential problems are due to the age of the source maps rather
+than in the cartographic representation of the boundaries as made on the
+maps.  The latest seamless DRGs were used in this task.  Boundaries from
+these 7.5 minute maps were compared to those defined in the VDOT county
+and city map series.  Inconsistencies were researched to determine the
+most accurate representation.  While resulting accuracies are sufficient
+for work at the state scope, they are not as accurate as those that
+could be developed by the jurisdictions themselves in some cases.
+Some updates were done from maps which could not attain minimal RMS
+error when digitized.  Updates to linework performed in version 2004
+produced improved accuracies due to the ability to capture linework off
+of zoomed-in DRGs.  Updates to the shorelines, however, are even more
+current and precise since they were captured from DOQQs.  Atlantic and
+Chesapeake Bay shore boundaries are always changing, however, due to
+rapidly shifting sands and tidal fluctuations.  Therefore all shorelines
+are approximate despite attempts to capture them in detail.  Similar
+erosion based changes occur along the many stretches of the southern
+shoreline of the Potomac River that define the boundary between Virginia
+and Maryland.  An issue which arises from this erosion is whether or not
+the boundary changes along with the shoreline.  Discussions with state
+employees who were deemed to have some knowledge of this issue indicates
+that they do.
+</horizpar>
+				<qhorizpa>
+					<horizpav>0.61 meters</horizpav>
+					<horizpae>ground distance resolution</horizpae>
+				</qhorizpa>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>ISSL</origin>
+						<pubdate>1989</pubdate>
+						<title>VirGIS jurisdiction boundaries, version 1</title>
+					</citeinfo>
+				</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>USGS 7.5 minute quads</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>1949</begdate>
+							<enddate>1987</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>out of date</srccurr>
+				</srctime>
+				<srccitea>1989 jurisdiction bounds</srccitea>
+				<srccontr>base upon which updates were made for version 1995</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>DCR-DSWC</origin>
+						<pubdate>1995</pubdate>
+						<title>VirGIS jurisdiction boundaries, version 1995</title>
+					</citeinfo>
+				</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>USGS 7.5 minute quads</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>1949</begdate>
+							<enddate>1987</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>out of date</srccurr>
+				</srctime>
+				<srccitea>1995 jurisdiction bounds</srccitea>
+				<srccontr>base upon which updates were made for version 2004</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>
+Digitize - the refined linework for jurisdiction boundaries and
+6th order hydrologic unit (hu) boundaries was captured by overlaying
+version 1995 of the jurisdiction/hu dataset on enhanced DRGs and
+performing heads-up digitizing of linework needing refinement.
+</procdesc>
+				<procdate>200208</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Gina Beale</cntper>
+							<cntorg>VA DCR-DSWC</cntorg>
+						</cntperp>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>
+Update - where city/county boundaries had been changed since the date
+of the DRG publications, the previously captured linework of these
+changes were inserted into the refined linework.  If changes had not
+been previously captured, the best representation of those changes were
+obtained and captured, after which they were added to this dataset.
+</procdesc>
+				<procdate>200210</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Gina Beale and Andrea Styles</cntper>
+							<cntorg>VA DCR-DSWC</cntorg>
+						</cntperp>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>
+Additions - mid-Bay boundary was created via spatial processing.
+Other open water boundaries were added, including those in Atlantic.
+</procdesc>
+				<procdate>200302</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Andrea Styles</cntper>
+							<cntorg>VA DCR-DSWC</cntorg>
+						</cntperp>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>
+Label Attribution - FIPS codes were added to the polygon attribute
+table during editing.  This included the FIPS of the jurisdiction which
+the polygon lied within and the FIPS of the jurisdiction which the
+courts of said jurisdiction have jurisdiction over.
+</procdesc>
+				<procdate>200404</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Gina Beale</cntper>
+							<cntorg>VA DCR-DSWC</cntorg>
+						</cntperp>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>
+Attribute Arcs - the boundary lines of this data set were attributed
+with references to the source of each arc.
+</procdesc>
+				<procdate>200407</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Gina Beale</cntper>
+							<cntorg>VA DCR-DSWC</cntorg>
+						</cntperp>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>
+Project - the joint jurisdiction boundary &amp; NWBD boundary cover was
+projected from the UTM plane coordinate system (latest zone to be edited)
+to the Lambert projection.
+</procdesc>
+				<procdate>200408</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Gina Beale</cntper>
+							<cntorg>VA DCR-DSWC</cntorg>
+						</cntperp>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>
+Dissolve - this data set created by dissolving (on FIPS and FIPS2) the
+the cover of combined jurisdiction and watershed boundaries as digitized
+for NWBD development in Virginia.
+</procdesc>
+				<procdate>200408</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Gina Beale</cntper>
+							<cntorg>VA DCR-DSWC</cntorg>
+						</cntperp>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>
+Project - the standard version of the cover of this layer was projected
+to decimal degrees for eventual use in ArcView.
+</procdesc>
+				<procdate>200408</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Gina Beale</cntper>
+							<cntorg>VA DCR-DSWC</cntorg>
+						</cntperp>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>
+Format Conversion - the decimal degree version of the cover of this
+layer was converted to a shapefile using the ARCSHAPE command.
+</procdesc>
+				<procdate>200408</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Gina Beale</cntper>
+							<cntorg>VA DCR-DSWC</cntorg>
+						</cntperp>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="flight_area_counties">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">134</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>String</sdtstype>
+				<ptvctcnt>1119</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>GT-polygon composed of chains</sdtstype>
+				<ptvctcnt>174</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="flight_area_counties"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polygon</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">134</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><projcsn Sync="TRUE">Lambert_Conformal_Conic_Virginia</projcsn></cordsysn><planar><planci><plance Sync="TRUE">coordinate pair</plance><plandu Sync="TRUE">meters</plandu><coordrep><absres Sync="TRUE">0.000000</absres><ordres Sync="TRUE">0.000000</ordres></coordrep></planci><mapproj><mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn><lambertc><stdparll Sync="TRUE">37.000000</stdparll><stdparll Sync="TRUE">39.500000</stdparll><longcm Sync="TRUE">-79.500000</longcm><latprjo Sync="TRUE">36.000000</latprjo><feast Sync="TRUE">0.000000</feast><fnorth Sync="TRUE">0.000000</fnorth></lambertc></mapproj></planar></horizsys>
+		<vertdef><altsys><altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc><altres Sync="TRUE">1.000000</altres></altsys></vertdef></spref>
+	<eainfo>
+		<detailed Name="flight_area_counties">
+			<attr>
+				<attrlabl>SHAPE</attrlabl>
+				<attrdef>feature type</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>polyline</edomv>
+						<edomvd>line defining polygon</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<enttyp>
+				<enttypl Sync="TRUE">flight_area_counties</enttypl>
+				<enttypd>attributes of lines in shapefile</enttypd>
+				<enttypds>ESRI</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">134</enttypc></enttyp>
+			<attr><attrlabl Sync="TRUE">Area</attrlabl><attalias Sync="TRUE">Year</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth><attrdef>Flight Area</attrdef><attrdefs>VGIN</attrdefs><attrdomv><edom><edomv>East</edomv><edomvd>Eastern flight zone</edomvd><edomvds>VGIN</edomvds></edom><edom><edomv>West</edomv><edomvd>Western flight zone</edomvd><edomvds>VGIN</edomvds></edom></attrdomv></attr><attr><attrlabl Sync="TRUE">Year</attrlabl><attalias Sync="TRUE">SP_Zone</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">9</attwidth><attrdef>Flight Year</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><edom><edomv>2009</edomv><edomvd>2009 Flight Area</edomvd><edomvds>VGIN</edomvds></edom><edom><edomv>2011</edomv><edomvd>2011 Flight Area</edomvd><edomvds>VGIN</edomvds></edom></attrdomv></attr><attr><attrlabl Sync="TRUE">SP_Zone</attrlabl><attalias Sync="TRUE">NAME</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">10</attwidth><attrdef>Virginia State Plane Zone</attrdef><attrdomv><edom><edomv>North</edomv><edomvd>Virginia State Plane North Zone</edomvd></edom><edom><edomv>South</edomv><edomvd>Virginia State Plane South Zone</edomvd></edom></attrdomv><attrdefs Sync="TRUE">ESRI</attrdefs></attr><attr><attrlabl Sync="TRUE">NAME</attrlabl><attalias Sync="TRUE">CFIPS</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">128</attwidth><attrdef>Name of City or County</attrdef><attrdomv><udom>Character Field</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">CFIPS</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth><attrdef>FIPS Code</attrdef><attrdomv><udom>Character Field</udom></attrdomv><attrdefs Sync="TRUE">ESRI</attrdefs></attr></detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntperp>
+					<cntper>Karl Huber</cntper>
+					<cntorg>Virginia Dept. of Conservation &amp; Recreation - DSWC</cntorg>
+				</cntperp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>203 Governor Street, Suite 206</address>
+					<city>Richmond</city>
+					<state>Virginia</state>
+					<postal>23219-2094</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>804 371 7484</cntvoice>
+				<cntfax>804 371 2630</cntfax>
+				<cntemail>karl.huber@dcr.virginia.gov</cntemail>
+				<hours>0830-1800</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>statewide 1:24000 jurisdiction boundaries</resdesc>
+		<distliab>none</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>shapefile made from ARC/INFO cover</formname>
+					<formvern>3.3</formvern>
+					<filedec>
+All files of the shapefile and related database tables have been
+compressed and collected into a ZIP file.  Uncompress on XP or use
+WinZip.
+</filedec>
+					<transize>6.15 MB for all files of shapefile</transize>
+					<dssize Sync="TRUE">4.391</dssize></digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>DCR ftp site</networkr>
+							</networka>
+						</computer>
+						<accinstr>
+Email distribution contact to request this data via ftp.
+Instructions for retrieval will be sent back.
+</accinstr>
+						<oncomp>Sun Enterprise with Solaris (UNIX).</oncomp>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>none</fees>
+			<ordering>may be ordered by phone but email preferred</ordering>
+			<turnarnd>a couple of days max if requeseted in native form</turnarnd>
+		</stdorder>
+		<custom>
+If you cannot use this layer in the stated projection and datum, and
+you cannot reproject it yourself, it can  be requested from DCR in
+another projection.
+</custom>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20081210</metd>
+		<metrd>20040830</metrd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>Karl Huber</cntper>
+					<cntorg>Virginia Dept. of Conservation &amp; Recreation - DSWC</cntorg>
+				</cntperp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>203 Governor Street, Suite 206</address>
+					<city>Richmond</city>
+					<state>Virginia</state>
+					<postal>23219-2094</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>804 371 7484</cntvoice>
+				<cntfax>804 371 2630</cntfax>
+				<cntemail>karl.huber@dcr.virginia.gov</cntemail>
+				<hours>0830-1800</hours>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<metac>none</metac>
+		<langmeta Sync="TRUE">en</langmeta><mettc Sync="TRUE">local time</mettc><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><CreaDate>20081210</CreaDate><CreaTime>13483800</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20081210</SyncDate><SyncTime>14021100</SyncTime><ModDate>20081210</ModDate><ModTime>14253600</ModTime><DataProperties><lineage><Process Name="FeatureClassToFeatureClass_1" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Conversion Tools.tbx\FeatureClassToFeatureClass" Date="20070416" Time="113104">FeatureClassToFeatureClass F:\VGIN\1-VBMP-imagery\VBMP2009\Planning\Flight_Areas\county_boundaries.shp F:\VGIN\1-VBMP-imagery\VBMP2009\Planning\Flight_Areas\flight_areas.mdb county_boundaries # "OBJECTID OBJECTID true false false 10 Double 0 10 ,First,#,F:\VGIN\1-VBMP-imagery\VBMP2009\Planning\Flight_Areas\county_boundaries.shp,OBJECTID,-1,-1;NAME NAME true false false 128 Text 0 0 ,First,#,F:\VGIN\1-VBMP-imagery\VBMP2009\Planning\Flight_Areas\county_boundaries.shp,NAME,-1,-1;CFIPS CFIPS true false false 5 Text 0 0 ,First,#,F:\VGIN\1-VBMP-imagery\VBMP2009\Planning\Flight_Areas\county_boundaries.shp,CFIPS,-1,-1;CFIPS_NUM CFIPS_NUM true false false 10 Double 0 10 ,First,#,F:\VGIN\1-VBMP-imagery\VBMP2009\Planning\Flight_Areas\county_boundaries.shp,CFIPS_NUM,-1,-1;PDC PDC true false false 5 Long 0 5 ,First,#,F:\VGIN\1-VBMP-imagery\VBMP2009\Planning\Flight_Areas\county_boundaries.shp,PDC,-1,-1;DEQ DEQ true false false 5 Long 0 5 ,First,#,F:\VGIN\1-VBMP-imagery\VBMP2009\Planning\Flight_Areas\county_boundaries.shp,DEQ,-1,-1;PDCNAME PDCNAME true false false 50 Text 0 0 ,First,#,F:\VGIN\1-VBMP-imagery\VBMP2009\Planning\Flight_Areas\county_boundaries.shp,PDCNAME,-1,-1;SWCD SWCD true false false 5 Long 0 5 ,First,#,F:\VGIN\1-VBMP-imagery\VBMP2009\Planning\Flight_Areas\county_boundaries.shp,SWCD,-1,-1;TECH_COUNC TECH_COUNC true false false 60 Text 0 0 ,First,#,F:\VGIN\1-VBMP-imagery\VBMP2009\Planning\Flight_Areas\county_boundaries.shp,TECH_COUNC,-1,-1;REG_ECDEV REG_ECDEV true false false 60 Text 0 0 ,First,#,F:\VGIN\1-VBMP-imagery\VBMP2009\Planning\Flight_Areas\county_boundaries.shp,REG_ECDEV,-1,-1;COMM_COLL_ COMM_COLL_ true false false 60 Text 0 0 ,First,#,F:\VGIN\1-VBMP-imagery\VBMP2009\Planning\Flight_Areas\county_boundaries.shp,COMM_COLL_,-1,-1;TOBACCO TOBACCO true false false 5 Long 0 5 ,First,#,F:\VGIN\1-VBMP-imagery\VBMP2009\Planning\Flight_Areas\county_boundaries.shp,TOBACCO,-1,-1;METROSA METROSA true false false 50 Text 0 0 ,First,#,F:\VGIN\1-VBMP-imagery\VBMP2009\Planning\Flight_Areas\county_boundaries.shp,METROSA,-1,-1;MICROSA MICROSA true false false 50 Text 0 0 ,First,#,F:\VGIN\1-VBMP-imagery\VBMP2009\Planning\Flight_Areas\county_boundaries.shp,MICROSA,-1,-1;SHAPE_area SHAPE_area true false false 19 Double 0 0 ,First,#,F:\VGIN\1-VBMP-imagery\VBMP2009\Planning\Flight_Areas\county_boundaries.shp,SHAPE_area,-1,-1;SHAPE_len SHAPE_len true false false 19 Double 0 0 ,First,#,F:\VGIN\1-VBMP-imagery\VBMP2009\Planning\Flight_Areas\county_boundaries.shp,SHAPE_len,-1,-1;Lyle Lyle true false false 4 Short 0 4 ,First,#,F:\VGIN\1-VBMP-imagery\VBMP2009\Planning\Flight_Areas\county_boundaries.shp,Lyle,-1,-1;Flight Flight true false false 4 Short 0 4 ,First,#,F:\VGIN\1-VBMP-imagery\VBMP2009\Planning\Flight_Areas\county_boundaries.shp,2009Flight,-1,-1" # F:\VGIN\1-VBMP-imagery\VBMP2009\Planning\Flight_Areas\flight_areas.mdb\county_boundaries</Process></lineage></DataProperties><MetaID>{163C71A7-BC28-430A-84AF-53CA9B6FCD41}</MetaID><Sync>FALSE</Sync></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.1.1332</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">county_boundaries</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">-373533.6</westBL><eastBL Sync="TRUE">379400</eastBL><northBL Sync="TRUE">385287.8</northBL><southBL Sync="TRUE">60037.6</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-83.83783</westBL><eastBL Sync="TRUE">-75.094146</eastBL><northBL Sync="TRUE">39.471481</northBL><southBL Sync="TRUE">36.462665</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\cov-rpb-nas002\vgin\VGIN\1-VBMP-imagery\VBMP2009\Planning\Flight_Areas\flight_areas.mdb</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc></distorTran><distorFormat><formatName Sync="TRUE">Personal GeoDatabase Feature Class</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">Lambert_Conformal_Conic_Virginia</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="county_boundaries"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">0</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20070416</mdDateSt></metadata>
