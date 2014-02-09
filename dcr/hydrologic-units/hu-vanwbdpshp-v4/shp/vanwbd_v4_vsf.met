@@ -1,0 +1,1683 @@
+Identification_Information: 
+  Citation: 
+    Citation_Information: 
+      Originator:
+        Virginia Dept of Conservation and Recreation (VA DCR)
+        Division of Nonpoint Source Pollution Prevention
+      Publication_Date:  20080930
+      Title:  The Virginia Portion of the National Watershed Boundary Dataset (NWBD)
+      Edition:  version 4 of the NWBD sixth order units for Virginia
+      Geospatial_Data_Presentation_Form:  vector digital data
+      Series_Information: 
+        Series_Name:  hydrologic units
+        Issue_Identification:  VA NWBD
+      Publication_Information: 
+        Publication_Place:  Richmond, Virginia
+        Publisher:  Virginia DCR
+  Description: 
+    Abstract: 
+      These are the new, and thrice revised, national fifth and sixth order
+      hydrologic units for Virginia.  They have been created in compliance with the
+      new Federal Standards for Delineation of Hydrologic Unit Boundaries (1 October
+      2004) and therefore differ from the previous sixth order (14 digit) hydrologic
+      units of Virginia as developed by DCR and the USDA in 1995 from the hydrologic
+      unit delineation standards of 1992.
+      This dataset covers the whole state and is seamless with surrounding
+      state's NWBD product although subject to change as the surrounding states make
+      final changes to their data layers.  Revised first through fifth order units are
+      obtainable from codes in this layer.
+    Purpose: 
+      Developed as part of a seamless hydrologic unit product for the nation.
+      To be used for more detailed watershed planning work in the state than
+      can be performed using lower order units.
+      This becomes the official statewide sixth order hydrologic unit
+      delineation for Virginia.
+
+    Supplemental_Information: 
+      Origin:
+      The initial sixth order hydrologic units for Virginia were originally
+      digitized at ISSL, VPI&SU in 1989 off of the USGS 7.5 minute quadrangle
+      maps.  Delineations were made by the Virginia Department of Conservation
+      and Recreation and the USDA Soil Conservation Service, now the Natural
+      Resources Conservation Service (NRCS).  The line and attribute data were
+      delivered to the VA DCR in DLG3 format.  There were 492 units in Virginia
+      at this version.  Units were uniquely identified by a three character string 
+      and were sequentially coded downstream to upstream.
+
+      Revisions: 
+
+      1995 Permutation:
+      For a number of reasons - greater accuracy, new HU delineation standards,
+      new watershed projects, interstate coordination, increased use of watershed
+      geography by the Virginia Department of Environmental Quality (DEQ) -  the
+      NRCS, DCR, and DEQ decided in June of 1993 to revise Virginia's existing sixth
+      order hydrologic unit system.  All linework was checked for accuracy,
+      redelineated, and digitally recaptured by DCR where improvements could be
+      made.  Some watersheds were merged, others divided, and still others
+      significantly adjusted versus their 1989 form.  Coordination with all nearby
+      states resulted in the adjustment of many border units to create a greater
+      continuance of linework from state to state.  The resulting 494 watersheds of
+      the 1995 version were then recoded upstream to downstream (opposite the 1989
+      order) to meet new guidelines.  Unit coding continued to use a three character
+      string as per the original version but their sequential order was also
+      reversed.  Textual descriptions of the units were revised and standardized.
+      The units of this system are often referred to as the 14 digit hydrologic
+      units, since that is how large the official sixth order unit numbering is
+      (versus the 3 character string).
+
+      Initial NWBD Permutation:
+      The NWBD of Virginia has been developed by the Virginia DCR to comply
+      with the new federal standards for the delineation of hydrologic unit
+      boundaries.  It uses the 1995 sixth order hydrologic unit system as it's
+      basis.  Where at all possible, NWBD units were delineated so as to preserve
+      the delineation intentions of the 1995 product, which has been widely used by
+      state agencies.  This adherence to previous products is not part of the new
+      standard.  Despite the aim to make the NWBD units be the same as or subsets
+      of the 1995 sixth order units, a number of boundary changes were made to
+      accomodate the smaller unit size option of the sixth order units of the NWBD.
+      Although 14 digit hydrologic units of the 1995 version that are of a size
+      that is within the acceptable range of the NWBD sixth order units were
+      usually maintained, almost all larger units were divided.
+      The primary differences between the sixth order units of the NWBD and the 
+      14 digit units of 1995 are the following improvements:
+      (1) more precise linework.  All linework was redigitized in a heads up manner
+      off of either the DRGs of the USGS 7.5 minute topographic quad maps, digital
+      NOAA charts, or quarter quad imagery.  This included delineations which
+      previously existed as this process produced a more precise product than did
+      the previous process of digitizing from paper 7.5 minute topographic quadrangles.
+      Delineations were still made onto the original 807 7.5 minute topographic
+      quadrangle maps for Virginia that the 1995 product was delineated on.
+      (2) incorporation of the October 2004 "Federal Standards for Delineation of
+      Hydrologic Unit Boundaries, Version 2.0", which is supported by a consortium
+      of federal agencies and not just the USDA.
+      (3) unit sizes of the sixth order units are much smaller, typically from 10,000
+      to 40,000 acres, whereas they averaged just over 54,000 acres in the 1995 system.
+      (4) water side delineations of frontal units now go to the toeface of the
+      shore, which varies from 10 feet deep in the Bays to 30 feet deep in the
+      Atlantic.  Delineations also proceed out to the 3 nautical mile territorial
+      limit in the Atlantic.
+      (5) units are seamless bewteen states in both linework and numbering.  This
+      was not true for the sixth order units of the 1995 version.
+      (6) fifth order units are now officially referenced using a 10 digit string
+      and sixth order units are referenced using a 12 digit string.  The 1995
+      version required 11 and 14 digits for the same references.  Units are coded
+      uniquely and by drainage basin beginning upstream and proceeding sequentially
+      to each unit downstream.  The general order is main stem followed by tributairy,
+      with no unit flowing into a unit of a lower reference code.
+      (7) other useful attributes have been added, including unit type and modifiers,
+      state codes, and linework source.
+      (8) the standards-defying second and fourth order unit boundaries between (a) 
+      Smith Point at the south shore of the Potomac confluence with the Chesapeake
+      Bay, and (b) the Atlantic Ocean, have been corrected.
+
+      Version 2 of the NWBD Permutation:
+      Following 10 months of use enough attribute coding errors were found in the
+      initial release of the VA NWBD to warrant a revised, corrected version in May
+      of 2007.  No linework changes were made.  A spreadsheet of the attribute changes
+      made between versions 1 and 2 of the VA NWBD can be accessed from the DCR
+      Hydrologic Unit Geography web page at www.dcr.virginia.gov/water_quality/hu.shtml.
+      Most applied to the sixth order coding but a few apply to the fifth order coding.
+      Many involve continued efforts to keep the NWBD seamless between the states.
+      All told, less than 4/10 of 1% of the 27,600+ developer-entered attributes
+      required correction.
+
+      Version 3 of the NWBD Permutation:
+      Modifications to the North Carolina, West Virginia, Maryland, and Pennsylvania NWBD
+      products as well as irregularities found in the Virginia layer during tests to
+      determine seamless issues by Laura Davenport (USDA) and Sarah Walton (USGS) in May 2008
+      neccesited an update to Version 2 of the VA NWBD.  Attribution issues similar to those
+      found in these tests were edited as part of this update as well.  By attribute, these
+      changes affected: HU_10_NAME (3), HUC_12 (10), HU_12_NAME (13), STATES (1), ACRES 
+      (13, UNITACRES in VA form), HUC_10 (2), HU_10_DS (1),and HU_12_DS (8).  There was also
+      three linework additions that created new polygons but not new units.  
+      Issues included:
+      (A) HUC_12, HUC_10, and HU_12_DS renumbering due to renumberings in other states,
+      (B) unit names including "Headwaters" must have the term before the feature name,
+      (C) unit names cannot include the term "Deep" (Atlantic, Chesapeake, and Potomac),
+      but may now include the unit code # (feature-#).
+      In addition, the META_ID variable was added to the polygon records.  Initial values
+      for the polygon and the arc entries for META_ID were VA01 but were changed to VA02 for
+      those polygons with attribution changes in May 2007 (v2) and changed to VA03 for arcs
+      modifed in version 3 and for polygons with attribution changes in Sept/Oct 2008.
+      A spreadsheet of the changes made between the versions of the VA form of the NWBD
+      can be accessed from the DCR Hydrologic Unit Geography web page at:
+      www.dcr.virginia.gov/water_quality/hu.shtml.
+
+      Version 4 of the NWBD Permutation:
+      Completion of the NWBD 6th order units in the surrounding states has lead to the
+      minor adjustments made to create this version of the Virginia layer.  This includes 
+      small boundary adjustments at state borders and a few attribution corrections.
+      Attribution changes include the following for polygons: HU_10_NAME (1), HU_12_NAME (4),
+      and UNITACRES (2).  For arc attributes, HU_LEVEL was modified in twelve places.  There
+      was also six minor linework modifications that created no new polygons or units.  The
+      largest only affected 10 acres.  In addition, the META_ID variable was changed to VA04
+      for all polygons affected by polygon attribute changes and all arcs affected by arc
+      attribute changes or geometry modifications.
+      A spreadsheet of the changes made between the versions of the VA form of the NWBD
+      can be accessed from the DCR Hydrologic Unit Geography web page at:
+      www.dcr.virginia.gov/water_quality/hu.shtml.
+     
+      State vs Federal Form:
+      All versions of the Virginia NWBD have two forms - one used internally by the state
+      and jurisdictions of the state, and another "federal" form that strictly meets the
+      standards as stated in the Federal Standards for Delineation of Hydrologic Unit
+      Boundaries.  This metadata file describes the Virginia form.  The differences
+      between the two are:
+      (A) the inclusion of a 4 character strings used to identify the fifth and sixth order
+      units in the state version.
+      (B) more than two features are allowed in the unit name in the state form.
+      (C) unit names are in order of large to small feature in the state form, the reverse
+      in the federal form.
+      (D) water features with two common references are both entered in the state form with
+      a forward slash connector (i.e. Leesville Lake/Roanoke River) whereas either only one
+      reference is used in the federal form or they are the maximum two listed features.
+      (E) the actual percentage of water in a unit is noted in the state form whereas this
+      info is just used for determining and noting when a unit is of type "water".
+      (F) the tidal notation is only added to the state form.
+      (G) the database tables are more normalized in the state form.
+      (H) and the state form includes a number of files that relate to the layer (long
+      listings of water features, main stem descriptions, and the geographic extent
+      relationships between NWBD and previous 14-digit units).
+
+      Reviews_Applied_to_Data:
+      Advance copies were sent to the USDA NRCS in VA, the USFS in VA, the Virginia DEQ,
+      and VIMS for comment.  Copies of portions of the VA NWBD also went to the
+      agencies in the surrounding states during linework and coding development for
+      their review and use in making a seamless product.  DCR, Virginia DEQ, and the
+      Virginia office of the USDA NRCS had previously reviewed the base 1995 product.
+      A compliance team of federal agency representatives (USDA, EPA, USGS) reviewed
+      the procedures and draft product in a visit to the DCR office and provided
+      comment.  Near complete copies of the VA NWBD were isued to the EPA office in
+      Philadelphia, EPA contractors and other NWBD developers in the surrounding
+      states, the USGS office in Richmond, and the USDA NRCS offices in Richmond and
+      Harrisonburg.  The latest copies of the NWBD of bordering states were obtained
+      at the last possible moment in a final review of linework and version 1 
+      attribution across state boundaries, as this was the last portions of the 
+      Virginia NWBD development work to be completed.  Possible problems found by 
+      users who contacted the VA DCR were either explained or logged for the 
+      subsequent development of version 2 of this effort.  An evaluation of the types
+      of noted attribution problems that were found to be errors resulted in an exhaustive
+      evaluation of this product prior to the creation and release of version 2.
+      The USDA office in Fort Worth Texas coordinated certification of the federal form
+      of versions 1 and 2 of this product as well as for other states.  The USGS also
+      reviewed version 2 of the Virginia layer as part of a review of North Carolina's
+      layer.  In addition, an EPA contractor reviewed the Upper Potomac units in Virginia
+      as part of their work on the NWBD in Pennsylvania and the units shared by Maryland
+      and Virginia in general.  A USDA representative reviewed the units shared by Virginia
+      and West Virginia. These recent reviews resulted in the need for changes in Virginia
+      units near state borders as reflected in version 3.  DCR performed the review that
+      resulted in the linework and arc attribution changes of version 4 at the time that
+      the USDA claimed all states were initially completed in their NWBD development.
+
+      Related_Spatial_and_Tabular_Data_Sets: 
+      A four character internal sixth order unit identifier (VAHU6) relates to a
+      record in a database table (master12_v4.dbf) of attributes about the sum of the
+      parts of the referenced sixth order unit which exist in Virginia.  This is a 
+      normalized table - one record per unique sixth order unit in Virginia.
+
+      A different four character internal fifth order unit identifier (VAHU5)
+      relates to a record in a database table (master10_v4.dbf) of attributes about
+      the sum of the parts of the referenced fifth order unit which exists in
+      Virginia.  This is a normalized table - one record per unique fifth order
+      unit in Virginia.
+
+      Another table (main_v4.dbf) contains a description of the extent (from-to) of
+      the most significant water feature - the mainstem - for each sixth order unit.
+
+      There are two files listing the names of significant water features per unit -
+      one for each sixth order unit (lname6_v4.txt) and one for each fifth order unit
+      (lname5_v4.txt).  The listings are in order of their significance.  They are
+      referred to as the long names lists, as they descibes the units at greater
+      length than does the official unit names.  They are not all inclusive.
+
+  Time_Period_of_Content: 
+    Time_Period_Information: 
+      Range_of_Dates/Times: 
+        Beginning_Date:  20050318
+        Ending_Date:  Present
+    Currentness_Reference:   Publication date of sources
+  Status: 
+    Progress:  Complete but uncertified
+    Maintenance_and_Update_Frequency:  
+      Changes to the linework detail are made whenever reason can be shown to
+      do so. These changes are usually so minor as to only be visible at a
+      very large scale display, and do not constitute a significant variance
+      from the original form of this version.  Should any significant linework
+      errors or any further significant attribution errors be found after Sept
+      2009 they will be logged for revision in a fifth version.
+  Spatial_Domain: 
+    Bounding_Coordinates: 
+      West_Bounding_Coordinate:  -83.675
+      East_Bounding_Coordinate:  -75.176
+      North_Bounding_Coordinate:  39.466
+      South_Bounding_Coordinate:  36.541
+  Keywords: 
+    Theme: 
+      Theme_Keyword_Thesaurus:  none
+      Theme_Keyword:  hydrologic units
+      Theme_Keyword:  watersheds
+      Theme_Keyword:  Watershed Boundary Dataset
+      Theme_Keyword:  fifth order
+      Theme_Keyword:  sixth order
+    Place: 
+      Place_Keyword_Thesaurus:
+        Counties and County Equivalents of the United States and the District of
+        Columbia (FIPS Pub 6-3).
+      Place_Keyword:  Virginia
+  Access_Constraints:  none
+  Use_Constraints:  
+    Linework and hydrologic unit codes should not be altered except by the
+    developer, as this dataset constitutes the accepted digital version of these
+    geographic units for all state and federal programs referencing the VA NWBD.
+    Use at scales much greater than 1:24,000 is discouraged.  Crediting the
+    VA DCR for dataset development is requested.
+  Point_of_Contact: 
+    Contact_Information: 
+      Contact_Person_Primary: 
+        Contact_Person:  Karl Huber
+        Contact_Organization:  Virginia Dept. of Conservation & Recreation
+      Contact_Address: 
+        Address_Type:  mailing and physical address
+        Address:  600 East Main St., 24th Floor
+        City:  Richmond
+        State_or_Province:  Virginia
+        Postal_Code:  23219
+        Country:  USA
+      Contact_Voice_Telephone:  804 786-4356
+      Contact_Facsimile_Telephone:  804 371 2630
+      Contact_Electronic_Mail_Address:  karl.huber@dcr.virginia.gov
+      Hours_of_Service:  0900-1800
+  Data_Set_Credit:  
+    This dataset has been developed by the Virginia Department of Conservation
+    and Recreation (VA DCR) with assistance from the Virginia Tech Biological
+    Systems Engineering Dept.  It is built upon an earlier version developed
+    by the VA DCR with assistance from the USDA NRCS and the VA DEQ.
+  Native_Data_Set_Environment:  UNIX (Solaris), ARC/INFO v7.2.1 thru ArcGIS 9.2
+  Cross_Reference: 
+    Citation_Information: 
+      Originator:  USDA-NRCS
+      Publication_Date:  2000
+      Title:  Enhanced DRGs of Virginia
+      Edition:  2000
+      Geospatial_Data_Presentation_Form:  digital raster graphic
+      Series_Information: 
+        Series_Name:  Enhanced DRGs
+        Issue_Identification:  Virginia Quads
+      Publication_Information: 
+        Publication_Place:  Fort Worth, Texas
+        Publisher:  USDA-NRCS
+  Cross_Reference: 
+    Citation_Information: 
+      Originator:  Virginia Dept. of Conservation and Recreation
+      Publication_Date:  19950601
+      Title:  Virginia's Revised 14 Digit Hydrologic Unit Boundaries.
+      Edition:  2
+      Geospatial_Data_Presentation_Form:  vector digital data
+      Series_Information: 
+        Series_Name:  hydrologic units
+        Issue_Identification:  version 2
+      Publication_Information: 
+        Publication_Place:  Richmond, Virginia
+        Publisher:  Virginia DCR with USDA NRCS
+      Other_Citation_Details:  Jointly developed by VA DCR and USDA NRCS.
+  Cross_Reference: 
+    Citation_Information: 
+      Originator:  Virginia Dept. of Conservation and Recreation
+      Publication_Date:  19910901
+      Title:  Virginia's (Original) 14 Digit Hydrologic Unit Boundaries.
+      Edition:  1
+      Geospatial_Data_Presentation_Form:  vector digital data
+      Series_Information: 
+        Series_Name:  hydrologic units
+        Issue_Identification:  version 1
+      Publication_Information: 
+        Publication_Place:  Richmond, Virginia
+        Publisher:  Virginia DCR with USDA NRCS
+      Other_Citation_Details:  With contractual help of ISSL.
+  Cross_Reference: 
+    Citation_Information: 
+      Originator:  U.S. Water Resources Council
+      Publication_Date:  1974
+      Title:  Hydrologic Unit Map of Virginia
+      Edition:  unknown
+      Geospatial_Data_Presentation_Form:  map
+      Publication_Information: 
+        Publication_Place:  Reston, Virginia
+        Publisher:  USGS
+      Other_Citation_Details:  Only useful to the fourth order.
+
+Data_Quality_Information: 
+  Attribute_Accuracy: 
+    Attribute_Accuracy_Report:  
+      The assigning of all attributes in this dataset to the arcs and
+      polygons of the sixth order hydrologic units has been done by the state
+      personnel with the authority and resources to do so.  Their work has
+      been reviewed by interested agencies of the Commonwealth and Federal government.
+      Any miscoded attribution is corrected upon discovery.  Because not all states
+      have completed their NWBD at the same time, some attribution in units at state
+      borders is the expected correct coding as opposed to the verified coding.
+      This mostly affects the downstream unit codes and unit names.  Likewise,
+      because there are no gaps in the sequential sixth order numbering it is
+      remotely possible that subsequent revisions in bordering states will require
+      revisions to the current 12 digit unit reference codes.
+      The self-imposed unit coding rule to have units only flow into other units with
+      higher unit codes (i.e. 0507020102 cannot flow into 0507020101) could not be
+      strictly enforced at all orders.  It was not strictly followed in the original
+      coding of units for the first through fourth orders in the 1970s (i.e. 03010105
+      flows into 03010104, and fourth order units of 020801 flow into 02080101).
+      Unit codes up to the fourth order were considered established and not open to
+      recoding as part of the NWBD development except for rare cases where mistakes
+      had been made and all federal and state parties were agreeable to recoding. 
+      The higher order flow direction of coding has been adhered to for all fifth
+      and sixth order units within all fourth order units.
+      Reported downstream unit codes for sixth order units that, at their confluence,
+      join to flow across a fifth order unit boundary disagree by design between
+      the actual unit boundary alignment regarding flow and the way the downstream
+      unit attribute is recorded.  As an example, if units A and B join to flow into
+      C, and units A-C are all in the same fifth order unit, units A and B will both
+      have a downstream unit code of C.  If however unit C is in a different fifth
+      order unit from A and B, the downstream unit code attribute will still say
+      that they both flow into C but a close inspection of the linework at the
+      confluence will show that B appears to flow into A (or vice versa) before
+      they jointly flow into C.  This was required by the Compliance Team, who
+      decided that to not make this linework modification would cause the effect
+      of having two distinct inflows (A and B's) from one fifth order unit to
+      the next.
+      
+  Logical_Consistency_Report:  
+    All arcs are used to define hydrologic unit boundaries.  There are no
+    dangling arcs, nor does any polygon contain more than one label.
+    Boundaries at both the fifth and sixth order are or will be seamless across
+    the boundaries of the adjoining states at each order.  Fifth order units
+    may be constructed by aggregating sixth order units without exception.
+  Completeness_Report:  
+    While this dataset could now be considered complete for VA other states may
+    continue to modify their units in such a way as to affect the Virginia NWBD.
+    This data set may also face more minor changes in the future depending on 
+    evolving NWBD standards, geomorphological change, and the need to correctly
+    overlay the high res NHD for Virginia.
+  Positional_Accuracy: 
+    Horizontal_Positional_Accuracy:  
+      Horizontal_Positional_Accuracy_Report:  
+        Hydrologic unit boundary locations as captured from the DRGs will degrade
+        in accuracy from the value reported below where topography is flat and
+        contours more widely dispersed from one another, since contours are the
+        basis for positioning hydrologic unit boundaries.  Accuracy will be most
+        compromised along the Chesapeake Bay and Atlantic Ocean shorelines,
+        particularly on barrier islands, due to the speed of geomorphological change
+        in these areas.
+      Quantitative_Horizontal_Positional_Accuracy_Assessment: 
+        Horizontal_Positional_Accuracy_Value:  14.342
+        Horizontal_Positional_Accuracy_Explanation:
+          Calculated as the offset in meters from true ground location due to the
+          National Map Accuracy Standards of the source map plus the resolution of
+          the capture of coordinates from this source at display scale plus the
+          maximum movement possible due to processing tolerances applied.  Therefore
+          the value represents the worst accuracy expected under normal data capture
+          and processing procedures.
+  Lineage:  
+    Source_Information:  
+      Source_Citation: 
+        Citation_Information: 
+          Originator:  Hession, W. Cully
+          Publication_Date:  19910901
+          Title:  Virginia's Hydrologic Units
+      Source_Scale_Denominator:  24000
+      Type_of_Source_Media:  7.5 minute quad maps
+      Source_Time_Period_of_Content: 
+        Time_Period_Information: 
+          Range_of_Dates/Times: 
+            Beginning_Date:  1949
+            Ending_Date:  1987
+        Source_Currentness_Reference:  out of date
+      Source_Citation_Abbreviation:  1991 HUs
+      Source_Contribution:  base upon which 1995 updates were made
+    Source_Information:  
+      Source_Citation: 
+        Citation_Information: 
+          Originator:  Huber, Karl
+          Publication_Date:  19950601
+          Title:  Virginia's Hydrologic Units
+      Source_Scale_Denominator:  24000
+      Type_of_Source_Media:  7.5 minute quad maps
+      Source_Time_Period_of_Content: 
+        Time_Period_Information: 
+          Range_of_Dates/Times: 
+            Beginning_Date:  1949
+            Ending_Date:  1987
+        Source_Currentness_Reference:  out of date
+      Source_Citation_Abbreviation:  1995 HUs
+      Source_Contribution:  base upon which NWBD was developed
+    Process_Step: 
+      Process_Description:  
+        Delineation - the rough delineation of the new sixth order NWBD units
+        were made to the paper USGS 7.5 minute topographic quad maps on which
+        the 1995 version of the jurisdiction and hydrologic units were drawn.
+      Process_Date:  200403
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person:  Karl Huber
+            Contact_Organization:  VA DCR
+    Process_Step: 
+      Process_Description:  
+        Digitize - the refined linework for sixth order hydrologic unit
+        boundaries was captured on enhanced DRGs of the USGS 7.5 minute
+        topographic quad maps by performing heads-up digitizing.  The paper
+        maps containing the rough delineations of new sixth order boundaries
+        were used as indicators of where refined linework was to be captured.
+        Jurisdiction boundaries were captured coterminously with the hydrologic
+        unit boundaries to assure that linework representative of both would
+        be captured identically.
+      Process_Date:  200406
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person:  Karl Huber
+            Contact_Organization:  VA DCR
+    Process_Step: 
+      Process_Description:  
+        Seamless Boundaries - many map services and much correspondance with the
+        NWBD developers in surrounding states and in the federal government was
+        necessary to assure a seamless dataset across state boundaries.  To develop
+        the many map services required the creation of many shapefiles of specific
+        areas of NWBD concern.
+      Process_Date:  200408
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person:  Karl Huber, Gina Beale, Rebecca Cottle
+            Contact_Organization:  VA DCR
+    Process_Step: 
+      Process_Description:  
+        Updates - evolving NWBD boundary issues in other states required some
+        late changes to the NWBD dataset not originally delineated on the paper
+        quad maps.
+      Process_Date:  200408
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person:  Karl Huber
+            Contact_Organization:  VA DCR
+    Process_Step: 
+      Process_Description:  
+        Unique Unit Coding - two custom 4 character string hydrologic unit codes
+        (VAHU5 and VAHU6) were added to the polygon attribute table to all polygons
+        during editing.  These codes are shorthand for identifying the fifth and
+        sixth order units respectively that the polygon is part of.  Indications
+        of flow were preserved in the coding assignment sequence.
+      Process_Date:  200408
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person:  Gina Beale
+            Contact_Organization:  VA DCR
+    Process_Step: 
+      Process_Description:  
+        Arc Attribution - the boundary lines of this data set were attributed
+        with references to the source of each arc and the lowest order
+        hydrologic unit that uses it. 
+      Process_Date:  200408
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person:  Gina Beale
+            Contact_Organization:  VA DCR
+    Process_Step: 
+      Process_Description:  
+        Polygon Attribution - two databases of unit attributes were created.
+        One was the master table of attributes of the sixth order units.  The
+        other was the master table of attributes of the fifth order units.
+        Attributes include items such as unit names, modifiers, types, codes,
+        and downstream codes.  These tables will eventually be joined to the
+        polygon attribute table to create the federal form of this layer.
+      Process_Date:  200408
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person:  Gina Beale, Karl Huber
+            Contact_Organization:  VA DCR
+    Process_Step: 
+      Process_Description:  
+        Additional Unit Attribution - two text files were created of sixth
+        order unit attributes.  One was the list of significant water features
+        in each sixth order unit, and the other described the extent of the
+        mainstem feature per unit.  These files were converted to database tables.
+      Process_Date:  200408
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person:  Gina Beale, Karl Huber
+            Contact_Organization:  VA DCR
+    Process_Step: 
+      Process_Description:  
+        Mid-Atlantic Resolutions - remaining coastal issues and state dataset
+        differences for the mid-Atlantic states were resolved by a meeting of
+        those states in Dover DE.  Changes were made to the NWBD to reflect these
+        decisions, particularly changes to the original 2nd and 4th order unit
+        boundaries and codes.
+      Process_Date:  20050303
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person:  Karl Huber, Gina Beale
+            Contact_Organization:  VA DCR
+    Process_Step: 
+      Process_Description:
+        Projected - initial UTM cover of combined NWBD and jurisdiction
+        boundaries was projected to Lambert NAD83 with Virginia standards.
+      Process_Date:  20050315
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person:  Gina Beale
+            Contact_Organization:  VA DCR
+    Process_Step: 
+      Process_Description:  
+        Dissolve - the NWBD boundaries were separated from the jurisdiction
+        boundaries by dissolving on HUC codes to create covers at each
+        order (1-6) of hydrologic units.
+      Process_Date:  20050315
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person:  Karl Huber
+            Contact_Organization:  VA DCR
+    Process_Step: 
+      Process_Description:  
+        Reselection Test - arcs were reselected from the combined
+        NWBD-jurisdiction boundary cover based on AAT HU_LEVEL, LPOLY#, and
+        RPOLY# values.  Polygons were built from these arcs and the PAT 
+        compared to the PAT created by dissolving on HUC codes.  This was
+        done for all orders (1-6).  Where the reselection created polygons
+        did not match the dissolved created polygons, bad HU_LEVEL codes
+        were found and corrected.
+      Process_Date:  20050315
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person:  Karl Huber
+            Contact_Organization:  VA DCR
+    Process_Step: 
+      Process_Description:  
+        Updates - evolving standards (March 2002 to Oct 2004) required some
+        additions to the set of NWBD attributes.  Changes were made to the
+        master fifth and sixth order unit tables, including stream name order.
+      Process_Date:  20050317
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person:  Karl Huber, Gina Beale
+            Contact_Organization:  VA DCR
+    Process_Step: 
+      Process_Description:
+        Projected - fifth and sixth order covers of NWBD were projected to Albers
+        NAD83 with North American standards for best polygon acres determination,
+        and then reprojected back to Lambert.
+      Process_Date:  20050317
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person:  Gina Beale
+            Contact_Organization:  VA DCR
+    Process_Step: 
+      Process_Description:  
+        Additional Unit Attribution - another text file was created that listed
+        the significant water features in each fifth order unit.
+      Process_Date:  20050318
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person:  Gina Beale, Karl Huber
+            Contact_Organization:  VA DCR
+    Process_Step: 
+      Process_Description:  
+        Projected - statewide lambert cover was projected from the DCR
+        default of Lambert NAD83 to geographic (decimal degrees) NAD83. 
+      Process_Date:  20060227
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person:  Gina Beale
+            Contact_Organization:  VA DCR
+    Process_Step: 
+      Process_Description:  
+        Draft Layer Created - a coverage and shapefile of the VA NWBD with all
+        related attribute files was created and made available to all.  This draft
+        layer included all edits known to be needed as of 28Feb06.
+      Process_Date:  20060301
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person:  Gina Beale
+            Contact_Organization:  VA DCR
+    Process_Step: 
+      Process_Description:  
+        Final Border Unit Review and Attribution - copies of the NWBD of bordering
+        states KY, TN, WV, and NC were obtained for final border linework and
+        attribution review and editing.  Only attribution edits were necessary for
+        the VA layer.  Required attribution corrections were issued to the other
+        states.  Only verbal agreements with EPA contractors and the USGS could be
+        made for final seamless attempts with MD and TN respectively.
+      Process_Date:  20060417
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person:  Gina Beale, Karl Huber
+            Contact_Organization:  VA DCR
+    Process_Step: 
+      Process_Description:  
+        Final Version 1 Layer Created - a coverage of the VA NWBD with all related
+        attribute files was created and made available to all.  This layer
+        included all edits needed to best assure a seamless product at this time.
+      Process_Date:  20060616
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person:  Gina Beale
+            Contact_Organization:  VA DCR
+    Process_Step: 
+      Process_Description:  
+        Cover Converted to Shapefile - the decimal degrees cover of this data was
+        converted to a shapefile.  The shapefile dbf was simplified by recreating
+        it following the dropping of all ESRI attributes except cover#.
+      Process_Date:  20060620
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person:  Gina Beale
+            Contact_Organization:  VA DCR
+    Process_Step: 
+      Process_Description:  
+        Attribute Error Logging - about 20 attribute errors were reported by users.
+        The nature of these errors led to a complete review of the coding of almost
+        all polygon attributes.  As a result, another 70 errors were found.
+      Process_Date:  20070511
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person:  Karl Huber
+            Contact_Organization:  VA DCR
+    Process_Step: 
+      Process_Description:  
+        Version 2 Created - 90 attribute errors were corrected in the base NWBD cover
+        and in all related tables and files to create version 2 of the VA NWBD.
+      Process_Date:  20070513
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person:  Karl Huber
+            Contact_Organization:  VA DCR
+    Process_Step: 
+      Process_Description:  
+        Version 3 Created - 3 new polygons of existing units were added and 50
+        attribute values were changed in the base NWBD cover and in all related
+        tables to maintain a seamless NWBD across the NC, WV, and MD border and meet
+        other agreed upon corrections, thus creating version 3 of the base state form.
+      Process_Date:  20081106
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person:  Karl Huber
+            Contact_Organization:  VA DCR
+    Process_Step: 
+      Process_Description:  
+        Version 4 Created - a few attribute values were changed in the base NWBD cover
+        and in some related tables.  Some minor linework modifications were made to
+        maintain a seamless NWBD across the NC, and WV border.
+      Process_Date:  20090910
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person:  Karl Huber
+            Contact_Organization:  VA DCR
+    Process_Step: 
+      Process_Description:  
+        Cover Reconverted to Shapefile - the decimal degrees cover of version 4 of
+        this data was converted to a shapefile.  The shapefile dbf was simplified by
+        recreating it following the dropping of all ESRI attributes except cover#.
+      Process_Date:  20090910
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person:  Karl Huber
+            Contact_Organization:  VA DCR
+
+Spatial_Data_Organization_Information: 
+  Direct_Spatial_Reference_Method:  Vector
+  Point_and_Vector_Object_Information: 
+    SDTS_Terms_Description: 
+      SDTS_Point_and_Vector_Object_Type:  Label point
+      Point_and_Vector_Object_Count:  1278
+    SDTS_Terms_Description: 
+      SDTS_Point_and_Vector_Object_Type:  String
+      Point_and_Vector_Object_Count:  5676
+    SDTS_Terms_Description: 
+      SDTS_Point_and_Vector_Object_Type:  GT-polygon composed of chains
+      Point_and_Vector_Object_Count:  1278
+
+Spatial_Reference_Information: 
+  Horizontal_Coordinate_System_Definition: 
+    Geographic: 
+      Latitude_Resolution:  0.000018 
+      Longitude_Resolution:  0.00002328
+      Geographic_Coordinate_Units:  Decimal degrees
+    Geodetic_Model: 
+      Horizontal_Datum_Name:  North American Datum of 1983
+      Ellipsoid_Name:  Geodetic Reference System 80
+      Semi-major_Axis:  6378137.0
+      Denominator_of_Flattening_Ratio:  298.257222101
+
+Entity_and_Attribute_Information: 
+  Detailed_Description: 
+    Entity_Type: 
+      Entity_Type_Label:  vanwbdp_v4.dbf
+      Entity_Type_Definition:  attributes of polygons in layer
+      Entity_Type_Definition_Source:  ESRI
+    Attribute: 
+      Attribute_Label:  INTID
+      Attribute_Definition:  internal feature number
+      Attribute_Definition_Source:  ESRI
+      Attribute_Domain_Values: 
+        Range_Domain: 
+          Range_Domain_Minimum:  2
+          Range_Domain_Maximum:  1279
+    Attribute: 
+      Attribute_Label:  VAHU5
+      Attribute_Definition:
+        A four character string, unique per fifth order unit in Virginia.
+        The first two characters are abbreviations for the basin the unit
+        lies in.  This is followed by a dash and a sequential letter reference
+        within that basin, coded upstream to the outlet.
+      Attribute_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Range_Domain: 
+          Range_Domain_Minimum:  AO-A
+          Range_Domain_Maximum:  YO-S
+    Attribute: 
+      Attribute_Label:  VAHU6
+      Attribute_Definition:
+        A four character string, unique per sixth order unit in Virginia.
+        The first two characters are abbreviations for the basin the unit
+        lies in.  The following two digits are the sequential references
+        within that basin, coded upstream to the outlet.
+      Attribute_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Range_Domain: 
+          Range_Domain_Minimum:  AO01
+          Range_Domain_Maximum:  YO69
+    Attribute: 
+      Attribute_Label:  POLYACRES
+      Attribute_Definition:
+        Area of polygon calculated while the cover was in the Albers projection
+        with standard North American parameter values.
+      Attribute_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Range_Domain: 
+          Range_Domain_Minimum:  0.24 
+          Range_Domain_Maximum:  684,864.25
+          Attribute_Units_of_Measure:  acres
+    Attribute: 
+      Attribute_Label:  META_ID
+      Attribute_Definition:  version indicator
+      Attribute_Definition_Source:
+        Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  VA01
+          Enumerated_Domain_Value_Definition:
+            Polygon attributes set at the time of initial layer completion (2006).
+          Enumerated_Domain_Value_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  VA02
+          Enumerated_Domain_Value_Definition:
+            Polygons with revised attributes in the creation of version 2 of the VA
+            NWBD in May 2007.
+          Enumerated_Domain_Value_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  VA03
+          Enumerated_Domain_Value_Definition:
+            New polygons or polygons with revised attributes in the creation of
+            version 3 of the VA NWBD in Sept and Oct 2008.
+          Enumerated_Domain_Value_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  VA04
+          Enumerated_Domain_Value_Definition:
+            New polygons or polygons with revised attributes in the creation of
+            version 4 of the VA NWBD in Aug and Sept 2009.
+          Enumerated_Domain_Value_Definition_Source:  VA DCR
+
+  Detailed_Description: 
+    Entity_Type: 
+      Entity_Type_Label:  vanwbda_v4.dbf
+      Entity_Type_Definition:  attributes of arcs in layer
+      Entity_Type_Definition_Source:  ESRI
+    Attribute: 
+      Attribute_Label:  INTID
+      Attribute_Definition:  internal feature number
+      Attribute_Definition_Source:  ESRI
+      Attribute_Domain_Values: 
+        Range_Domain: 
+          Range_Domain_Minimum:  1
+          Range_Domain_Maximum:  4670
+    Attribute: 
+      Attribute_Label:  SOURCE
+      Attribute_Definition:  a code defining source of linework
+      Attribute_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  1
+          Enumerated_Domain_Value_Definition:
+            Captured from lines found on USDA DRGs of USGS 7.5 minute quads.
+          Enumerated_Domain_Value_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  2
+          Enumerated_Domain_Value_Definition:
+            Shorelines captured from DOQQs where they define jurisdiction
+            boundaries.  This code applies to arcs defining local jurisdiction
+            lands from state land along the Chesapeake Bay or Atlantic Ocean.
+          Enumerated_Domain_Value_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  4
+          Enumerated_Domain_Value_Definition:  from 2000 TIGER
+          Enumerated_Domain_Value_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  5
+          Enumerated_Domain_Value_Definition:
+            Based on jurisdiction supplied linework.
+          Enumerated_Domain_Value_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  6
+          Enumerated_Domain_Value_Definition:
+            Lines derived by DCR where no other definitive source existed.
+            These were often calculated by buffer processes.
+          Enumerated_Domain_Value_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  7
+          Enumerated_Domain_Value_Definition:
+            Linework developed by DCR using USDA DRGs of USGS 7.5 minute quads
+            as the basis.  These lines do not exist on the maps.
+          Enumerated_Domain_Value_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  8
+          Enumerated_Domain_Value_Definition:
+            Linework developed by DCR using NOAA charts as the basis.  These
+            lines do not exist on the charts
+          Enumerated_Domain_Value_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  9
+          Enumerated_Domain_Value_Definition:
+            Apparent limit added across tidal waters to separate tidal waters
+            within a jurisdiction from the Chesapeake Bay or Atlantic Ocean.
+            These differ from source value 3 in that they are also watershed
+            boundaries.
+          Enumerated_Domain_Value_Definition_Source:  VA DCR
+    Attribute: 
+      Attribute_Label:  HU_LEVEL
+      Attribute_Definition:  lowest level of hydrologic units using this arc
+      Attribute_Definition_Source:
+        Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Range_Domain: 
+          Range_Domain_Minimum:  1  
+          Range_Domain_Maximum:  6
+    Attribute: 
+      Attribute_Label:  META_ID
+      Attribute_Definition:  version indicator
+      Attribute_Definition_Source:
+        Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  VA01
+          Enumerated_Domain_Value_Definition:
+            Arc linework and attributes set at the time of initial layer completion (2006).
+          Enumerated_Domain_Value_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  VA02
+          Enumerated_Domain_Value_Definition:
+            Arc attributes revised in the creation of version 2 of the VA NWBD in
+            May 2007.
+          Enumerated_Domain_Value_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  VA03
+          Enumerated_Domain_Value_Definition:
+            Arc linework and/or attributes revised in the creation of version 3 of the VA
+            NWBD in Sept and Oct 2008.
+          Enumerated_Domain_Value_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  VA04
+          Enumerated_Domain_Value_Definition:
+            Arc linework and/or attributes revised in the creation of version 4 of the VA
+            NWBD in Aug and Sept 2009.
+          Enumerated_Domain_Value_Definition_Source:  VA DCR
+
+  Detailed_Description: 
+    Entity_Type: 
+      Entity_Type_Label:  master12_v4.dbf
+      Entity_Type_Definition:  attributes of sixth order units
+      Entity_Type_Definition_Source:  VA DCR
+    Attribute: 
+      Attribute_Label:  VAHU6
+      Attribute_Definition:
+        A four character string, unique per sixth order unit in Virginia.
+        The first two characters are abbreviations for the basin the unit
+        lies in.  The following two digits are the sequential references
+        within that basin, coded upstream to the outlet.
+      Attribute_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Range_Domain: 
+          Range_Domain_Minimum:  AO01
+          Range_Domain_Maximum:  YO69
+    Attribute: 
+      Attribute_Label:  HUC_12
+      Attribute_Definition:  unique 12 digit code of sixth order unit
+      Attribute_Definition_Source:
+        Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Range_Domain: 
+          Range_Domain_Minimum:  020403030501
+          Range_Domain_Maximum:  060102060403 
+    Attribute: 
+      Attribute_Label:  UNITACRES
+      Attribute_Definition:
+        Total area of all HUC_12 polygons with the same VAHU6 code within
+        Virginia, as calculated while in the Albers projection with standard
+        North American parameter values.
+      Attribute_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Range_Domain: 
+          Range_Domain_Minimum:  2.69 
+          Range_Domain_Maximum:  684864.13
+          Attribute_Units_of_Measure:  acres
+    Attribute: 
+      Attribute_Label:  STATES
+      Attribute_Definition:
+        Abbreviations of all the states that sixth order unit HUC_12 falls
+        within.  Multiple states are separated by commas.
+      Attribute_Definition_Source:
+        Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  VA
+          Enumerated_Domain_Value_Definition:  Virginia
+          Enumerated_Domain_Value_Definition_Source:  USPS
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  MD
+          Enumerated_Domain_Value_Definition:  Maryland
+          Enumerated_Domain_Value_Definition_Source:  USPS
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  WV
+          Enumerated_Domain_Value_Definition:  West Virginia
+          Enumerated_Domain_Value_Definition_Source:  USPS
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  TN
+          Enumerated_Domain_Value_Definition:  Tennessee
+          Enumerated_Domain_Value_Definition_Source:  USPS
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  KY
+          Enumerated_Domain_Value_Definition:  Kentucky
+          Enumerated_Domain_Value_Definition_Source:  USPS
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  NC
+          Enumerated_Domain_Value_Definition:  North Carolina
+          Enumerated_Domain_Value_Definition_Source:  USPS
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  DC
+          Enumerated_Domain_Value_Definition:  District of Columbia
+          Enumerated_Domain_Value_Definition_Source:  USPS
+    Attribute: 
+      Attribute_Label:  HU_12_DS
+      Attribute_Definition:
+        Either the unique 12 digit code of the sixth order unit which is receiving
+        the majority of the flow from unit HUC_12, or the string "OCEAN". 
+      Attribute_Definition_Source:
+        Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Range_Domain: 
+          Range_Domain_Minimum:  020403030503
+          Range_Domain_Maximum:  060102060306 
+    Attribute: 
+      Attribute_Label:  HU_12_NAME
+      Attribute_Definition:  
+        English name that uniquely identifies the sixth order unit HUC_12.
+      Attribute_Definition_Source:
+        Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Unrepresentable_Domain: 
+          Watershed names consist of the names of major water features within
+          the watershed beginning with the most prominent feature and
+          continuing until the unit name is unique within its fifth order unit.
+          Feature names which are joined by a forward slash (/) are two ways of
+          referencing the same feature in the unit.
+    Attribute: 
+      Attribute_Label:  HU_12_MOD
+      Attribute_Definition:
+        Identifiers of modifications to natural overland flow within the
+        sixth order unit HUC_12.  Multiple modifiers may apply.
+      Attribute_Definition_Source:
+        Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  KA
+          Enumerated_Domain_Value_Definition:  karst
+          Enumerated_Domain_Value_Definition_Source:
+            Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  DM
+          Enumerated_Domain_Value_Definition:  dam at outlet or HU boundary
+          Enumerated_Domain_Value_Definition_Source:
+            Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  RS
+          Enumerated_Domain_Value_Definition:  a reservoir influences the HU boundary
+          Enumerated_Domain_Value_Definition_Source:
+            Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  UA
+          Enumerated_Domain_Value_Definition:  urbanization influences the HU boundary
+          Enumerated_Domain_Value_Definition_Source:
+            Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  IT
+          Enumerated_Domain_Value_Definition:  interbasin transfer
+          Enumerated_Domain_Value_Definition_Source:
+            Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  DD
+          Enumerated_Domain_Value_Definition:  drainage ditch
+          Enumerated_Domain_Value_Definition_Source:
+            Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  MA
+          Enumerated_Domain_Value_Definition:  mining activity
+          Enumerated_Domain_Value_Definition_Source:
+            Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  OT
+          Enumerated_Domain_Value_Definition:  other
+          Enumerated_Domain_Value_Definition_Source:
+            Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  NM
+          Enumerated_Domain_Value_Definition:  no modifications
+          Enumerated_Domain_Value_Definition_Source:
+            Federal standards for delineations of hydrologic units (Oct 2004).
+    Attribute: 
+      Attribute_Label:  HU_12_TYPE
+      Attribute_Definition:  hydrologic unit type for sixth order unit HUC_12
+      Attribute_Definition_Source:
+        Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  S
+          Enumerated_Domain_Value_Definition:
+            Standard units - mostly land with a single outlet point.
+          Enumerated_Domain_Value_Definition_Source:
+            Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  F
+          Enumerated_Domain_Value_Definition:
+            Frontal units along ocean, bay, and large lake shorelines that 
+            usually have more than one outlet.  Predominantly land but may include
+            some water near the outlet(s).
+          Enumerated_Domain_Value_Definition_Source:
+            Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  W
+          Enumerated_Domain_Value_Definition:
+            Water units - composed of at least 70% water, which includes mudflats.
+          Enumerated_Domain_Value_Definition_Source:
+            Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  M
+          Enumerated_Domain_Value_Definition:
+            Multiple outlet units - those with more than one outlet, excluding
+            frontal and water units.
+          Enumerated_Domain_Value_Definition_Source:
+            Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  U
+          Enumerated_Domain_Value_Definition:
+            Unclassified units - those that cannot be defined using the list of
+            approved types.
+          Enumerated_Domain_Value_Definition_Source:
+            Federal standards for delineations of hydrologic units (Oct 2004).
+    Attribute: 
+      Attribute_Label:  PC_12_WATER
+      Attribute_Definition:
+        Percent of sixth order unit HUC_12 that is open water.  At this time this
+        figure is relevant only to the portion of the unit that lies in Virginia.
+        Mudflats that are covered by water at high tide were considered open water
+        when calculating this value.
+      Attribute_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Range_Domain: 
+          Range_Domain_Minimum:  0 
+          Range_Domain_Maximum:  100 
+    Attribute: 
+      Attribute_Label:  TIDAL
+      Attribute_Definition:  indicates if waters in unit are tidally influenced
+      Attribute_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  T
+          Enumerated_Domain_Value_Definition:  tidally influenced
+          Enumerated_Domain_Value_Definition_Source:  VADCR
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  N
+          Enumerated_Domain_Value_Definition:  not tidally influenced
+          Enumerated_Domain_Value_Definition_Source: VADCR
+
+  Detailed_Description: 
+    Entity_Type: 
+      Entity_Type_Label:  master10_v4.dbf
+      Entity_Type_Definition:  attributes of fifth order units
+      Entity_Type_Definition_Source:  VA DCR
+    Attribute: 
+      Attribute_Label:  VAHU5
+      Attribute_Definition:
+        A four character string, unique per fifth order unit in Virginia.
+        The first two characters are abbreviations for the basin the unit
+        lies in.  Following a dash is a sequential letter reference
+        within that basin, coded upstream to the outlet.
+      Attribute_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Range_Domain: 
+          Range_Domain_Minimum:  AO-A
+          Range_Domain_Maximum:  YO-S
+    Attribute: 
+      Attribute_Label:  HUC_10
+      Attribute_Definition:  unique 10 digit code of fifth order unit
+      Attribute_Definition_Source:
+        Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Range_Domain: 
+          Range_Domain_Minimum:  0204030305
+          Range_Domain_Maximum:  0601020604 
+    Attribute: 
+      Attribute_Label:  UNITACRES
+      Attribute_Definition:
+        Total area of all HUC_10 polygons with the same VAHU5 code within
+        Virginia, as calculated while in the Albers projection with standard
+        North American parameter values.
+      Attribute_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Range_Domain: 
+          Range_Domain_Minimum:  2.69 
+          Range_Domain_Maximum:  684864.13
+          Attribute_Units_of_Measure:  acres
+    Attribute: 
+      Attribute_Label:  STATES
+      Attribute_Definition:
+        Abbreviations of all the states that sixth order unit HUC_12 falls
+        within.  Multiple states are separated by commas.
+      Attribute_Definition_Source:
+        Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  VA
+          Enumerated_Domain_Value_Definition:  Virginia
+          Enumerated_Domain_Value_Definition_Source:  USPS
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  MD
+          Enumerated_Domain_Value_Definition:  Maryland
+          Enumerated_Domain_Value_Definition_Source:  USPS
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  WV
+          Enumerated_Domain_Value_Definition:  West Virginia
+          Enumerated_Domain_Value_Definition_Source:  USPS
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  TN
+          Enumerated_Domain_Value_Definition:  Tennessee
+          Enumerated_Domain_Value_Definition_Source:  USPS
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  KY
+          Enumerated_Domain_Value_Definition:  Kentucky
+          Enumerated_Domain_Value_Definition_Source:  USPS
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  NC
+          Enumerated_Domain_Value_Definition:  North Carolina
+          Enumerated_Domain_Value_Definition_Source:  USPS
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  DC
+          Enumerated_Domain_Value_Definition:  District of Columbia
+          Enumerated_Domain_Value_Definition_Source:  USPS
+    Attribute: 
+      Attribute_Label:  HU_10_DS
+      Attribute_Definition:
+        Either the unique 10 digit code of the fifth order unit which is
+        receiving the majority of the flow from unit HUC_10, or the string
+        "OCEAN".  If any state names appear in this field they are temporary
+        place holders awaiting completion of unit coding in that state.
+      Attribute_Definition_Source:
+        Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Range_Domain: 
+          Range_Domain_Minimum:  0204030306
+          Range_Domain_Maximum:  0601020604 
+    Attribute: 
+      Attribute_Label:  HU_10_NAME
+      Attribute_Definition:  
+        English name that uniquely identifies the fifth order unit HUC_10.
+      Attribute_Definition_Source:
+        Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Unrepresentable_Domain: 
+          Watershed names consist of the names of major water features within
+          the watershed beginning with the most prominent feature and
+          continuing until the unit name is unique within its fourth order unit.
+          Feature names which are joined by a forward slash (/) are two ways of
+          referencing the same feature in the unit.
+    Attribute: 
+      Attribute_Label:  HU_10_MOD
+      Attribute_Definition:
+        Identifiers of modifications to natural overland flow within the
+        fifth order unit HUC_10.  Multiple modifiers may apply.
+      Attribute_Definition_Source:
+        Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  KA
+          Enumerated_Domain_Value_Definition:  karst
+          Enumerated_Domain_Value_Definition_Source:
+            Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  DM
+          Enumerated_Domain_Value_Definition:  dam at outlet or HU boundary
+          Enumerated_Domain_Value_Definition_Source:
+            Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  RS
+          Enumerated_Domain_Value_Definition:  a reservoir influences the HU boundary
+          Enumerated_Domain_Value_Definition_Source:
+            Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  UA
+          Enumerated_Domain_Value_Definition:  urbanization influences the HU boundary
+          Enumerated_Domain_Value_Definition_Source:
+            Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  IT
+          Enumerated_Domain_Value_Definition:  interbasin transfer
+          Enumerated_Domain_Value_Definition_Source:
+            Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  DD
+          Enumerated_Domain_Value_Definition:  drainage ditch
+          Enumerated_Domain_Value_Definition_Source:
+            Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  MA
+          Enumerated_Domain_Value_Definition:  mining activity
+          Enumerated_Domain_Value_Definition_Source:
+            Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  OT
+          Enumerated_Domain_Value_Definition:  other
+          Enumerated_Domain_Value_Definition_Source:
+            Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  NM
+          Enumerated_Domain_Value_Definition:  no modifications
+          Enumerated_Domain_Value_Definition_Source:
+            Federal standards for delineations of hydrologic units (Oct 2004).
+    Attribute: 
+      Attribute_Label:  HU_10_TYPE
+      Attribute_Definition:  hydrologic unit type for fifth order unit HUC_10
+      Attribute_Definition_Source:
+        Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  S
+          Enumerated_Domain_Value_Definition:
+            Standard units - mostly land with a single outlet point.
+          Enumerated_Domain_Value_Definition_Source:
+            Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  F
+          Enumerated_Domain_Value_Definition:
+            Frontal units along ocean, bay, and large lake shorelines that 
+            usually have more than one outlet.  Predominantly land but may include
+            some water near the outlet(s).
+          Enumerated_Domain_Value_Definition_Source:
+            Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  W
+          Enumerated_Domain_Value_Definition:
+            Water units - composed of at least 70% water, which includes mudflats.
+          Enumerated_Domain_Value_Definition_Source:
+            Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  M
+          Enumerated_Domain_Value_Definition:
+            Multiple outlet units - those with more than one outlet, excluding
+            frontal and water units.
+          Enumerated_Domain_Value_Definition_Source:
+            Federal standards for delineations of hydrologic units (Oct 2004).
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  U
+          Enumerated_Domain_Value_Definition:
+            Unclassified units - those that cannot be defined using list of
+            approved types.
+          Enumerated_Domain_Value_Definition_Source:
+            Federal standards for delineations of hydrologic units (Oct 2004).
+    Attribute: 
+      Attribute_Label:  PC_10_WATER
+      Attribute_Definition:
+        Percent of fifth order unit HUC_10 that is open water.  At this time this
+        figure is relevant only to the portion of the unit that lies in Virginia.
+        Mudflats that are covered by water at high tide were considered open water
+        when calculating this value.
+      Attribute_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Range_Domain: 
+          Range_Domain_Minimum:  0 
+          Range_Domain_Maximum:  100 
+
+  Detailed_Description: 
+    Entity_Type: 
+      Entity_Type_Label:  main_v4.dbf
+      Entity_Type_Definition:
+        Description of the extent of the mainstem water feature within each 
+        sixth order unit.
+      Entity_Type_Definition_Source:  VA DCR
+    Attribute: 
+      Attribute_Label:  VAHU6
+      Attribute_Definition:
+        A four character string, unique per sixth order unit in Virginia.
+        The first two characters are abbreviations for the basin the unit
+        lies in.  The following two digits are the sequential references
+        within that basin, coded upstream to the outlet.
+      Attribute_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Range_Domain: 
+          Range_Domain_Minimum:  AO01
+          Range_Domain_Maximum:  YO69
+    Attribute: 
+      Attribute_Label:  NAME
+      Attribute_Definition:  
+        English name that uniquely identifies the sixth order unit VAHU6.
+      Attribute_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Unrepresentable_Domain: 
+          Watershed names consist of the names of major water features within
+          the watershed beginning with the most prominent feature and
+          continuing until, at a minimum, the unit name is unique within its
+          fifth order unit.
+    Attribute: 
+      Attribute_Label:  FROM
+      Attribute_Definition:  
+        English description of most upstream extent of mainstem in unit VAHU6.
+      Attribute_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Unrepresentable_Domain: 
+          May be a feature of the mainstem, an overlying feature such as a
+          jurisdiction boundary or bridge, or a stream confluence.  Multiple
+          features may be necessary for wide water, in which case they are
+          separated by a forward slash (/).
+    Attribute:
+      Attribute_Label:  INEX_F
+      Attribute_Definition:
+        When the described FROM feature is a stream confluence, this item
+        denotes whether or not that side stream watershed is included or
+        excluded from the sixth order unit VAHU6.  Those that are inclusive
+        are part of the unit.  Where multiple features are used to describe
+        the FROM extent multiple descriptors may be used, in which case they
+        are separated by a forward slash (/).
+      Attribute_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  IN
+          Enumerated_Domain_Value_Definition:  inclusive of FROM feature
+          Enumerated_Domain_Value_Definition_Source:  VADCR
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  EX
+          Enumerated_Domain_Value_Definition:  exclusive of FROM feature
+          Enumerated_Domain_Value_Definition_Source:  VADCR
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  <blank>
+          Enumerated_Domain_Value_Definition:
+            The feature defining the extent is not another water feature,
+            therefore this item does not apply.
+          Enumerated_Domain_Value_Definition_Source:  VADCR
+    Attribute: 
+      Attribute_Label:  TO
+      Attribute_Definition:  
+        English description of most downstream extent of mainstem in unit VAHU6.
+      Attribute_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Unrepresentable_Domain: 
+          May be a feature of the mainstem, an overlying feature such as a
+          jurisdiction boundary or bridge, or a stream confluence.  Multiple
+          features may be necessary for wide water, in which case they are
+          separated by a forward slash (/).
+    Attribute:
+      Attribute_Label:  INEX_T
+      Attribute_Definition:
+        When the described TO feature is a stream confluence, this item
+        denotes whether or not that side stream watershed is included or
+        excluded from the sixth order unit VAHU6.  Those that are inclusive
+        are part of the unit.  Where multiple features are used to describe
+        the TO extent multiple descriptors may be used, in which case they
+        are separated by a forward slash (/).
+      Attribute_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  IN
+          Enumerated_Domain_Value_Definition:  inclusive of TO feature
+          Enumerated_Domain_Value_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  EX
+          Enumerated_Domain_Value_Definition:  exclusive of TO feature
+          Enumerated_Domain_Value_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Enumerated_Domain: 
+          Enumerated_Domain_Value:  <blank>
+          Enumerated_Domain_Value_Definition:
+            The feature defining the extent is not another water feature,
+            therefore this item does not apply.
+          Enumerated_Domain_Value_Definition_Source:  VA DCR
+
+  Detailed_Description: 
+    Entity_Type: 
+      Entity_Type_Label:  lname6_v4.txt
+      Entity_Type_Definition:
+        A comma delimited list of the main water features within each sixth order
+        unit.  Not all inclusive but will include the main water features.  This is
+        considered the long names list for the sixth order units versus their
+        English names.
+      Entity_Type_Definition_Source:  VA DCR
+    Attribute: 
+      Attribute_Label:  VAHU6
+      Attribute_Definition:
+        A four character string, unique per sixth order unit in Virginia.
+        The first two characters are abbreviations for the basin the unit
+        lies in.  The following two digits are the sequential references
+        within that basin, coded upstream to the outlet.
+      Attribute_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Range_Domain: 
+          Range_Domain_Minimum:  AO01
+          Range_Domain_Maximum:  YO69
+    Attribute: 
+      Attribute_Label:  LNAME6
+      Attribute_Definition:  
+        English description of major water features within unit VAHU6.  These
+        are entered in order of their prominence on earth.
+      Attribute_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Unrepresentable_Domain: 
+          May be multiple features separated by a dash.  Some features include
+          a descriptive adjective within parenthesis.  Features found in the
+          unit but not in Virginia are followed by the abbreviation of the state
+          (in parenthesis) where they are found.  Feature names which are joined
+          by a forward slash (/) are two ways of referencing the same feature in
+          the unit.
+
+  Detailed_Description: 
+    Entity_Type: 
+      Entity_Type_Label:  lname5_v4.txt
+      Entity_Type_Definition:
+        A comma delimited list of the main water features within each fifth order
+        unit.  Not all inclusive but will include the main water features.  This is
+        considered the long names list for the fifth order units versus their
+        English names.
+      Entity_Type_Definition_Source:  VA DCR
+    Attribute: 
+      Attribute_Label:  VAHU5
+      Attribute_Definition:
+        A four character string, unique per fifth order unit in Virginia.
+        The first two characters are abbreviations for the basin the unit
+        lies in.  This is followed by a dash and a sequential letter reference
+        within that basin, coded upstream to the outlet.
+      Attribute_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Range_Domain: 
+          Range_Domain_Minimum:  AO-A
+          Range_Domain_Maximum:  YO-S
+    Attribute: 
+      Attribute_Label:  LNAME5
+      Attribute_Definition:  
+        English description of major water features within unit VAHU5.  These
+        are entered in order of their prominence on earth.
+      Attribute_Definition_Source:  VA DCR
+      Attribute_Domain_Values: 
+        Unrepresentable_Domain: 
+          May be multiple features separated by a dash.  Some features include
+          a descriptive adjective within parenthesis.  Features found in the
+          unit but not in Virginia are followed by the abbreviation of the state
+          (in parenthesis) where they are found.  Feature names which are joined
+          by a forward slash (/) are two ways of referencing the same feature in
+          the unit.
+
+  Overview_Description: 
+    Entity_and_Attribute_Overview: 
+      The delineated hydrologic units are represented in the dataset as closed
+      polygons.  Boundaries are representative of ridge lines or, where there
+      is little topographic difference, the imagined line along which water
+      on either side flows off into different immediate streams or other
+      bodies of water.  The polygons/units are coded with the official 10 and
+      12 digit codes as well as with custom shorthand codes.
+    Entity_and_Attribute_Detail_Citation:  
+      This metadata file, section Entity_and_Attribute_Information, compound
+      element Detailed_Description.
+
+Distribution_Information: 
+  Distributor: 
+    Contact_Information: 
+      Contact_Person_Primary: 
+        Contact_Person:  Karl Huber
+        Contact_Organization:  Virginia Dept. of Conservation & Recreation
+      Contact_Address: 
+        Address_Type:  mailing and physical address
+        Address:  600 East main St., 24th Floor
+        City:  Richmond
+        State_or_Province:  Virginia
+        Postal_Code:  23219
+        Country:  USA
+      Contact_Voice_Telephone:  804 786-4356
+      Contact_Facsimile_Telephone:  804 371 2630
+      Contact_Electronic_Mail_Address:  karl.huber@dcr.virginia.gov
+      Hours_of_Service:  0900-1800
+  Resource_Description:  NWBD of Virginia
+  Distribution_Liability:  none
+  Standard_Order_Process: 
+    Digital_Form: 
+      Digital_Transfer_Information:  
+        Format_Name:  ESRI Shapefile
+        Format_Version_Number:  from ARC 9.2
+        File_Decompression_Technique:  Windows compression applied
+        Transfer_Size:  20 MB
+      Digital_Transfer_Option: 
+        Online_Option: 
+          Computer_Contact_Information: 
+            Network_Address: 
+              Network_Resource_Name:  DCR public access server
+          Access_Instructions:
+            See DCR's Hydrologic Unit Geography web page at
+            http://www.dcr.virginia.gov/water_quality/hu.shtml
+    Fees:  none
+    Ordering_Instructions:  email to primary distributor
+    Turnaround:  instantly from web page or a couple of days max if via email request
+  Custom_Order_Process: 
+    If you cannot use this layer in the stated projection and datum, and
+    you cannot reproject it yourself, it can  be requested from DCR in
+    another projection.  Likewise, it is available in the ARC/INFO cover
+    export file format.  Any variance from the standard form as described
+    in this file, however, will mean a delay in the distribution.
+
+Metadata_Reference_Information: 
+  Metadata_Date:  20050311
+  Metadata_Review_Date:  20131002
+  Metadata_Contact:  
+    Contact_Information: 
+      Contact_Person_Primary: 
+        Contact_Person:  Karl Huber
+        Contact_Organization:  VA Dept. of Conservation & Recreation
+      Contact_Address: 
+        Address_Type:  mailing and physical address
+        Address:  600 East Main St., 24th Floor
+        City:  Richmond
+        State_or_Province:  Virginia
+        Postal_Code:  23219
+        Country:  USA
+      Contact_Voice_Telephone:  804 786-4356
+      Contact_Facsimile_Telephone:  804 371 2630
+      Contact_Electronic_Mail_Address:  karl.huber@dcr.virginia.gov
+      Hours_of_Service:  0900-1800
+  Metadata_Standard_Name:  FGDC Content Standard for Digital Geospatial Metadata
+  Metadata_Standard_Version:  FGDC-STD-001-1998
+  Metadata_Access_Constraints:  none
