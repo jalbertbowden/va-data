@@ -1,0 +1,38 @@
+Name: “Table 1 of 1 on page 15 of 19”,Name: “Table 1 of 1 on page 15 of 19”,Name: “Table 1 of 1 on page 15 of 19”,Name: “Table 1 of 1 on page 15 of 19”,Name: “Table 1 of 1 on page 15 of 19”,Name: “Table 1 of 1 on page 15 of 19”,Name: “Table 1 of 1 on page 15 of 19”,Name: “Table 1 of 1 on page 15 of 19”,Name: “Table 1 of 1 on page 15 of 19”,Name: “Table 1 of 1 on page 15 of 19”,Name: “Table 1 of 1 on page 15 of 19”,Name: “Table 1 of 1 on page 15 of 19”,Name: “Table 1 of 1 on page 15 of 19”,Name: “Table 1 of 1 on page 15 of 19”,Name: “Table 1 of 1 on page 15 of 19”,Name: “Table 1 of 1 on page 15 of 19”,Name: “Table 1 of 1 on page 15 of 19”,Name: “Table 1 of 1 on page 15 of 19”,Name: “Table 1 of 1 on page 15 of 19”
+Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15
+,,,,,,,,,,,,,,,,,,
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,No incident found at,,,,,,,,,,,,,,,,,
+622,,"6,079",0.93 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"1,000",0.00 %,0,0.00 %,"1,000",0.00 %
+,dispatch address,,,,,,,,,,,,,,,,,
+,Authorized controlled,,,,,,,,,,,,,,,,,
+631,,"1,606",0.24 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,1,0.00 %,1,0.00 %,2,0.00 %
+,burning,,,,,,,,,,,,,,,,,
+632,Prescribed fire,89,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,Vicinity alarm (incident in,,,,,,,,,,,,,,,,,
+641,,229,0.03 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,other location),,,,,,,,,,,,,,,,,
+,"Steam, other gas",,,,,,,,,,,,,,,,,
+650,"mistaken for smoke,",477,0.07 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,500,0.00 %,0,0.00 %,500,0.00 %
+,other,,,,,,,,,,,,,,,,,
+,"Smoke scare, odor of",,,,,,,,,,,,,,,,,
+651,,"4,498",0.69 %,0,0,0.00 %,0,0.00 %,0,0.00 %,1,0.22 %,"13,511",0.01 %,550,0.00 %,"14,061",0.01 %
+,smoke,,,,,,,,,,,,,,,,,
+,"Steam, vapor, fog or dust",,,,,,,,,,,,,,,,,
+652,thought to be smoke,806,0.12 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"120,000",0.06 %,"8,000",0.01 %,"128,000",0.05 %
+653,"Barbecue, tar kettle",182,0.03 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,"EMS call, party",,,,,,,,,,,,,,,,,
+661,transported by non-fire,452,0.07 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,agency,,,,,,,,,,,,,,,,,
+,Hazmat release,,,,,,,,,,,,,,,,,
+671,investigation w/ no,"1,048",0.16 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,hazmat,,,,,,,,,,,,,,,,,
+,"Biological hazard, none",,,,,,,,,,,,,,,,,
+672,,31,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,found,,,,,,,,,,,,,,,,,
+,Page 15 of 19,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Fri Mar 11 11:08:43 EST 2011,Fri Mar 11 11:08:43 EST 2011,Fri Mar 11 11:08:43 EST 2011

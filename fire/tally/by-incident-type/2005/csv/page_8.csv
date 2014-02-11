@@ -1,0 +1,43 @@
+Name: “Table 1 of 1 on page 8 of 13”,Name: “Table 1 of 1 on page 8 of 13”,Name: “Table 1 of 1 on page 8 of 13”,Name: “Table 1 of 1 on page 8 of 13”,Name: “Table 1 of 1 on page 8 of 13”,Name: “Table 1 of 1 on page 8 of 13”,Name: “Table 1 of 1 on page 8 of 13”,Name: “Table 1 of 1 on page 8 of 13”,Name: “Table 1 of 1 on page 8 of 13”,Name: “Table 1 of 1 on page 8 of 13”,Name: “Table 1 of 1 on page 8 of 13”,Name: “Table 1 of 1 on page 8 of 13”,Name: “Table 1 of 1 on page 8 of 13”,Name: “Table 1 of 1 on page 8 of 13”,Name: “Table 1 of 1 on page 8 of 13”,Name: “Table 1 of 1 on page 8 of 13”,Name: “Table 1 of 1 on page 8 of 13”,Name: “Table 1 of 1 on page 8 of 13”,Name: “Table 1 of 1 on page 8 of 13”
+Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8
+,,,,,,,,,,,,,,,,,,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Incident Type,Incident Type,Incident Type,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/05 - 12/31/05,1/1/05 - 12/31/05,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,Chemical spill or leak,,,,,,,,,,,,,,,,,
+422,,352,0.07%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"30,500",0.01%,"25,250",0.00%,"55,750",0.00%
+,Refrigeration leak,,,,,,,,,,,,,,,,,
+423,,30,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Carbon monoxide,,,,,,,,,,,,,,,,,
+424,incident,685,0.13%,0,0,0.00%,0,0.00%,0,0.00%,4,1.28%,"1,050",0.00%,0,0.00%,"1,050",0.00%
+,"Radioactive condition,",,,,,,,,,,,,,,,,,
+430,other,3,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Electrical,,,,,,,,,,,,,,,,,
+440,wiring/equipment,"2,706",0.51%,1,0,0.00%,1,0.19%,0,0.00%,2,0.64%,"88,110",0.02%,"9,857",0.00%,"97,967",0.01%
+,"problem, other",,,,,,,,,,,,,,,,,
+,Heat from short circuit,,,,,,,,,,,,,,,,,
+441,"(wiring), defective/worn",638,0.12%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"9,495",0.00%,"20,900",0.00%,"30,395",0.00%
+,Overheated motor,,,,,,,,,,,,,,,,,
+442,,574,0.11%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"3,820",0.00%,"4,825",0.00%,"8,645",0.00%
+,Light ballast breakdown,,,,,,,,,,,,,,,,,
+443,,148,0.03%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,600,0.00%,50,0.00%,650,0.00%
+,Power line down,,,,,,,,,,,,,,,,,
+444,,"3,241",0.61%,2,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"4,101",0.00%,0,0.00%,"4,101",0.00%
+,"Arcing, shorted",,,,,,,,,,,,,,,,,
+445,electrical equipment,"1,934",0.36%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"29,265",0.01%,"6,191",0.00%,"35,456",0.00%
+,"Biological hazard,",,,,,,,,,,,,,,,,,
+451,confirmed or suspected,49,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Accident, potential",,,,,,,,,,,,,,,,,
+460,"accident, other","2,115",0.40%,0,2,1.77%,5,0.95%,0,0.00%,1,0.32%,"321,775",0.07%,"35,075",0.00%,"356,850",0.02%
+,Building or structure,,,,,,,,,,,,,,,,,
+461,weakened or collapsed,190,0.04%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"51,500",0.01%,"2,200",0.00%,"53,700",0.00%
+,Aircraft standby,,,,,,,,,,,,,,,,,
+462,,670,0.13%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Vehicle accident,",,,,,,,,,,,,,,,,,
+463,general cleanup,"7,813",1.47%,0,6,5.31%,14,2.67%,0,0.00%,5,1.60%,"1,391,104",0.32%,"163,201",0.02%,"1,554,305",0.10%
+,"Explosive, bomb",,,,,,,,,,,,,,,,,
+471,removal (for bomb,76,0.01%,1,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"scare, use 721)",,,,,,,,,,,,,,,,,
+,Page 8 of 13,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,5/24/06 9:30:46 PM,,

@@ -1,0 +1,42 @@
+Name: “Table 1 of 1 on page 9 of 11”,Name: “Table 1 of 1 on page 9 of 11”,Name: “Table 1 of 1 on page 9 of 11”,Name: “Table 1 of 1 on page 9 of 11”,Name: “Table 1 of 1 on page 9 of 11”,Name: “Table 1 of 1 on page 9 of 11”,Name: “Table 1 of 1 on page 9 of 11”,Name: “Table 1 of 1 on page 9 of 11”,Name: “Table 1 of 1 on page 9 of 11”,Name: “Table 1 of 1 on page 9 of 11”,Name: “Table 1 of 1 on page 9 of 11”,Name: “Table 1 of 1 on page 9 of 11”,Name: “Table 1 of 1 on page 9 of 11”,Name: “Table 1 of 1 on page 9 of 11”,Name: “Table 1 of 1 on page 9 of 11”,Name: “Table 1 of 1 on page 9 of 11”,Name: “Table 1 of 1 on page 9 of 11”,Name: “Table 1 of 1 on page 9 of 11”,Name: “Table 1 of 1 on page 9 of 11”
+Table: 9,Table: 9,Table: 9,Table: 9,Table: 9,Table: 9,Table: 9,Table: 9,Table: 9,Table: 9,Table: 9,Table: 9,Table: 9,Table: 9,Table: 9,Table: 9,Table: 9,Table: 9,Table: 9
+,,,,,,,,,,,,,,,,,,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Property Use,Property Use,Property Use,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/08 - 12/31/08,1/1/08 - 12/31/08,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,Outside material storage,,,,,,,,,,,,,,,,,
+807,area,144,0.02%,3,0,0.00%,0,0.00%,0,0.00%,1,0.31%,"379,733",0.15%,"189,131",0.16%,"568,864",0.15%
+,Outbuilding or shed,,,,,,,,,,,,,,,,,
+808,,358,0.06%,39,1,0.81%,1,0.18%,0,0.00%,4,1.23%,"2,630,844",1.02%,"1,394,117",1.16%,"4,024,961",1.06%
+,"Grain elevator, silo",,,,,,,,,,,,,,,,,
+816,,15,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"25,000",0.01%,0,0.00%,"25,000",0.01%
+,"Livestock, poultry",,,,,,,,,,,,,,,,,
+819,storage,53,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"47,000",0.02%,"50,755",0.04%,"97,755",0.03%
+,Refrigerated storage,,,,,,,,,,,,,,,,,
+839,,65,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"30,000",0.01%,150,0.00%,"30,150",0.01%
+,Outside storage tank,,,,,,,,,,,,,,,,,
+849,,36,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Vehicle storage, other",,,,,,,,,,,,,,,,,
+880,,263,0.04%,0,0,0.00%,2,0.35%,0,0.00%,0,0.00%,"116,801",0.05%,"267,004",0.22%,"383,805",0.10%
+,"Parking garage,",,,,,,,,,,,,,,,,,
+881,(detached residential,97,0.02%,7,1,0.81%,1,0.18%,0,0.00%,3,0.93%,"884,100",0.34%,"530,400",0.44%,"1,414,500",0.37%
+,garage),,,,,,,,,,,,,,,,,
+,"Parking garage, general",,,,,,,,,,,,,,,,,
+882,vehicle,467,0.08%,3,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"328,200",0.13%,"196,875",0.16%,"525,075",0.14%
+,Fire station,,,,,,,,,,,,,,,,,
+888,,"4,306",0.71%,0,0,0.00%,0,0.00%,0,0.00%,26,8.02%,"15,035",0.01%,"1,300",0.00%,"16,335",0.00%
+,Warehouse,,,,,,,,,,,,,,,,,
+891,,"1,491",0.24%,3,0,0.00%,1,0.18%,0,0.00%,2,0.62%,"4,574,503",1.77%,"52,923,103",44.09%,"57,497,606",15.21%
+,"Dock, marina, pier,",,,,,,,,,,,,,,,,,
+898,wharf,124,0.02%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"1,010,800",0.39%,1,0.00%,"1,010,801",0.27%
+,Residential or self,,,,,,,,,,,,,,,,,
+899,storage units,159,0.03%,1,0,0.00%,3,0.53%,0,0.00%,0,0.00%,"66,311",0.03%,"131,701",0.11%,"198,012",0.05%
+,Outside or special,,,,,,,,,,,,,,,,,
+900,"property, other","4,301",0.71%,12,0,0.00%,3,0.53%,0,0.00%,5,1.54%,"1,973,244",0.76%,"123,502",0.10%,"2,096,746",0.55%
+,"Dump, sanitary landfill",,,,,,,,,,,,,,,,,
+919,,341,0.06%,1,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"721,574",0.28%,"4,103",0.00%,"725,677",0.19%
+,"Bridge, trestle",,,,,,,,,,,,,,,,,
+921,,395,0.06%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"106,020",0.04%,"1,000",0.00%,"107,020",0.03%
+,Page 9 of 11,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,4/7/09 11:18:09 AM,4/7/09 11:18:09 AM,

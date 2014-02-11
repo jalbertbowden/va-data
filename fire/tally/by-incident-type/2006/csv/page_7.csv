@@ -1,0 +1,41 @@
+Name: “Table 1 of 1 on page 7 of 13”,Name: “Table 1 of 1 on page 7 of 13”,Name: “Table 1 of 1 on page 7 of 13”,Name: “Table 1 of 1 on page 7 of 13”,Name: “Table 1 of 1 on page 7 of 13”,Name: “Table 1 of 1 on page 7 of 13”,Name: “Table 1 of 1 on page 7 of 13”,Name: “Table 1 of 1 on page 7 of 13”,Name: “Table 1 of 1 on page 7 of 13”,Name: “Table 1 of 1 on page 7 of 13”,Name: “Table 1 of 1 on page 7 of 13”,Name: “Table 1 of 1 on page 7 of 13”,Name: “Table 1 of 1 on page 7 of 13”,Name: “Table 1 of 1 on page 7 of 13”,Name: “Table 1 of 1 on page 7 of 13”,Name: “Table 1 of 1 on page 7 of 13”,Name: “Table 1 of 1 on page 7 of 13”,Name: “Table 1 of 1 on page 7 of 13”,Name: “Table 1 of 1 on page 7 of 13”
+Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7
+,,,,,,,,,,,,,,,,,,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Incident Type,Incident Type,Incident Type,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/06 - 12/31/06,1/1/06 - 12/31/06,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,Surf rescue,,,,,,,,,,,,,,,,,
+364,,8,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Watercraft rescue,,,,,,,,,,,,,,,,,
+365,,137,0.02%,0,0,0.00%,0,0.00%,0,0.00%,1,0.34%,0,0.00%,0,0.00%,0,0.00%
+,"Electrical rescue, other",,,,,,,,,,,,,,,,,
+370,,7,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"1,000",0.00%,"1,000",0.00%,"2,000",0.00%
+,Electrocution or,,,,,,,,,,,,,,,,,
+371,potential electrocution,20,0.00%,0,0,0.00%,1,0.19%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Trapped by power lines,,,,,,,,,,,,,,,,,
+372,,9,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Rescue or EMS standby,,,,,,,,,,,,,,,,,
+381,,"1,199",0.21%,0,0,0.00%,1,0.19%,0,0.00%,0,0.00%,"29,000",0.01%,"2,500",0.00%,"31,500",0.01%
+,"Hazardous condition,",,,,,,,,,,,,,,,,,
+400,other,"3,355",0.59%,1,0,0.00%,0,0.00%,0,0.00%,1,0.34%,"337,851",0.07%,"23,102",0.02%,"360,953",0.06%
+,Flammable gas or liquid,,,,,,,,,,,,,,,,,
+410,"condition, other","1,805",0.32%,0,0,0.00%,2,0.37%,0,0.00%,0,0.00%,"41,510",0.01%,0,0.00%,"41,510",0.01%
+,Gasoline or other,,,,,,,,,,,,,,,,,
+411,flammable liquid spill,"1,900",0.34%,0,0,0.00%,0,0.00%,0,0.00%,1,0.34%,"241,657",0.05%,"180,000",0.14%,"421,657",0.07%
+,Gas leak (natural gas or,,,,,,,,,,,,,,,,,
+412,LPG),"3,578",0.63%,0,0,0.00%,0,0.00%,0,0.00%,1,0.34%,"1,000",0.00%,"1,000",0.00%,"2,000",0.00%
+,Oil or other combustible,,,,,,,,,,,,,,,,,
+413,liquid spill,769,0.14%,0,0,0.00%,0,0.00%,0,0.00%,1,0.34%,"325,000",0.07%,"5,430",0.00%,"330,430",0.05%
+,"Toxic condition, other",,,,,,,,,,,,,,,,,
+420,,95,0.02%,0,1,0.79%,1,0.19%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Chemical hazard (no,,,,,,,,,,,,,,,,,
+421,spill or leak),100,0.02%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Chemical spill or leak,,,,,,,,,,,,,,,,,
+422,,362,0.06%,0,0,0.00%,0,0.00%,0,0.00%,4,1.36%,"148,000",0.03%,"25,000",0.02%,"173,000",0.03%
+,Refrigeration leak,,,,,,,,,,,,,,,,,
+423,,25,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Carbon monoxide,,,,,,,,,,,,,,,,,
+424,incident,703,0.12%,0,0,0.00%,0,0.00%,0,0.00%,2,0.68%,0,0.00%,0,0.00%,0,0.00%
+,Page 7 of 13,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,4/18/07 10:36:53 AM,,

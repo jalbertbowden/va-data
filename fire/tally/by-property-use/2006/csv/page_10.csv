@@ -1,0 +1,41 @@
+Name: “Table 1 of 1 on page 10 of 11”,Name: “Table 1 of 1 on page 10 of 11”,Name: “Table 1 of 1 on page 10 of 11”,Name: “Table 1 of 1 on page 10 of 11”,Name: “Table 1 of 1 on page 10 of 11”,Name: “Table 1 of 1 on page 10 of 11”,Name: “Table 1 of 1 on page 10 of 11”,Name: “Table 1 of 1 on page 10 of 11”,Name: “Table 1 of 1 on page 10 of 11”,Name: “Table 1 of 1 on page 10 of 11”,Name: “Table 1 of 1 on page 10 of 11”,Name: “Table 1 of 1 on page 10 of 11”,Name: “Table 1 of 1 on page 10 of 11”,Name: “Table 1 of 1 on page 10 of 11”,Name: “Table 1 of 1 on page 10 of 11”,Name: “Table 1 of 1 on page 10 of 11”,Name: “Table 1 of 1 on page 10 of 11”,Name: “Table 1 of 1 on page 10 of 11”,Name: “Table 1 of 1 on page 10 of 11”
+Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10
+,,,,,,,,,,,,,,,,,,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Property Use,Property Use,Property Use,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/06 - 12/31/06,1/1/06 - 12/31/06,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,Tunnel,,,,,,,,,,,,,,,,,
+922,,164,0.03%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"3,800",0.00%,0,0.00%,"3,800",0.00%
+,"Outbuilding, protective",,,,,,,,,,,,,,,,,
+926,shelter,230,0.04%,6,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"1,363,428",0.28%,"168,303",0.13%,"1,531,731",0.25%
+,Open land or field,,,,,,,,,,,,,,,,,
+931,,"6,781",1.21%,15,8,6.35%,11,2.07%,0,0.00%,7,2.48%,"2,543,446",0.52%,"600,858",0.46%,"3,144,304",0.50%
+,Campsite with utilities,,,,,,,,,,,,,,,,,
+935,,175,0.03%,0,0,0.00%,0,0.00%,0,0.00%,1,0.35%,"16,150",0.00%,"2,350",0.00%,"18,500",0.00%
+,Vacant lot,,,,,,,,,,,,,,,,,
+936,,"1,308",0.23%,2,0,0.00%,1,0.19%,0,0.00%,0,0.00%,"306,167",0.06%,"20,076",0.02%,"326,243",0.05%
+,Beach,,,,,,,,,,,,,,,,,
+937,,190,0.03%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"5,000",0.00%,0,0.00%,"5,000",0.00%
+,Graded and cared-for,,,,,,,,,,,,,,,,,
+938,plots of land,"2,682",0.48%,13,0,0.00%,4,0.75%,0,0.00%,2,0.71%,"274,755",0.06%,"156,836",0.12%,"431,591",0.07%
+,"Water area, other",,,,,,,,,,,,,,,,,
+940,,329,0.06%,1,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"7,751",0.00%,"1,201",0.00%,"8,952",0.00%
+,"Open ocean, sea or tidal",,,,,,,,,,,,,,,,,
+941,waters,168,0.03%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"1,000",0.00%,"1,000",0.00%,"2,000",0.00%
+,"Lake, river, stream",,,,,,,,,,,,,,,,,
+946,,554,0.10%,0,1,0.79%,1,0.19%,0,0.00%,13,4.61%,"25,500",0.01%,0,0.00%,"25,500",0.00%
+,Railroad right of way,,,,,,,,,,,,,,,,,
+951,,380,0.07%,0,0,0.00%,0,0.00%,0,0.00%,1,0.35%,"26,314",0.01%,"2,002",0.00%,"28,316",0.00%
+,Railroad yard,,,,,,,,,,,,,,,,,
+952,,109,0.02%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"40,025",0.01%,25,0.00%,"40,050",0.01%
+,"Street, other",,,,,,,,,,,,,,,,,
+960,,"14,832",2.65%,0,2,1.59%,8,1.51%,0,0.00%,0,0.00%,"983,424",0.20%,"153,658",0.12%,"1,137,082",0.18%
+,Highway or divided,,,,,,,,,,,,,,,,,
+961,highway,"33,652",6.02%,5,15,11.90%,53,9.98%,0,0.00%,21,7.45%,"7,273,997",1.48%,"969,094",0.74%,"8,243,091",1.32%
+,"Residential street, road",,,,,,,,,,,,,,,,,
+962,or residential driveway,"33,135",5.93%,37,10,7.94%,17,3.20%,0,0.00%,8,2.84%,"5,087,633",1.03%,"297,442",0.23%,"5,385,075",0.86%
+,Street or road in,,,,,,,,,,,,,,,,,
+963,commercial area,"10,768",1.93%,0,2,1.59%,1,0.19%,0,0.00%,4,1.42%,"1,104,939",0.22%,"523,133",0.40%,"1,628,072",0.26%
+,Page 10 of 11,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,4/18/07 10:35:16 AM,4/18/07 10:35:16 AM,

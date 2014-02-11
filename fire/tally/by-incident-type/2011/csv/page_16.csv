@@ -1,0 +1,42 @@
+Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”
+Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16
+,,,,,,,,,,,,,,,,,,
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,Sprinkler activation due,,,,,,,,,,,,,,,,,
+731,,523,0.08 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"30,150",0.02 %,"65,000",0.10 %,"95,150",0.04 %
+,to malfunction,,,,,,,,,,,,,,,,,
+,Extinguishing system,,,,,,,,,,,,,,,,,
+732,activation due to,96,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,malfunction,,,,,,,,,,,,,,,,,
+,Smoke detector,,,,,,,,,,,,,,,,,
+733,activation due to,"3,961",0.58 %,0,0,0.00 %,0,0.00 %,0,0.00 %,1,0.16 %,0,0.00 %,0,0.00 %,0,0.00 %
+,malfunction,,,,,,,,,,,,,,,,,
+,Heat detector activation,,,,,,,,,,,,,,,,,
+734,due to malfunction,287,0.04 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,Alarm system sounded,,,,,,,,,,,,,,,,,
+735,,"5,827",0.85 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,601,0.00 %,0,0.00 %,601,0.00 %
+,due to malfunction,,,,,,,,,,,,,,,,,
+,CO detector activation,,,,,,,,,,,,,,,,,
+736,,"1,279",0.19 %,0,0,0.00 %,1,0.16 %,0,0.00 %,1,0.16 %,0,0.00 %,0,0.00 %,0,0.00 %
+,due to malfunction,,,,,,,,,,,,,,,,,
+,Unintentional,,,,,,,,,,,,,,,,,
+740,"transmission of alarm,","3,484",0.51 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,1,0.00 %,1,0.00 %,2,0.00 %
+,other,,,,,,,,,,,,,,,,,
+,"Sprinkler activation, no",,,,,,,,,,,,,,,,,
+741,,679,0.10 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"83,000",0.04 %,"27,500",0.04 %,"110,500",0.04 %
+,fire - unintentional,,,,,,,,,,,,,,,,,
+,Extinguishing system,,,,,,,,,,,,,,,,,
+742,,75,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,50,0.00 %,50,0.00 %
+,activation,,,,,,,,,,,,,,,,,
+,Smoke detector,,,,,,,,,,,,,,,,,
+743,"activation, no fire -","8,051",1.18 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,300,0.00 %,360,0.00 %,660,0.00 %
+,unintentional,,,,,,,,,,,,,,,,,
+,"Detector activation, no",,,,,,,,,,,,,,,,,
+744,,"3,261",0.48 %,0,0,0.00 %,0,0.00 %,0,0.00 %,2,0.32 %,0,0.00 %,0,0.00 %,0,0.00 %
+,fire - unintentional,,,,,,,,,,,,,,,,,
+,Page 16 of 18,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Thu Mar 08 09:40:59 EST 2012,Thu Mar 08 09:40:59 EST 2012,Thu Mar 08 09:40:59 EST 2012

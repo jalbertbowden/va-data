@@ -1,0 +1,43 @@
+Name: “Table 1 of 1 on page 5 of 11”,Name: “Table 1 of 1 on page 5 of 11”,Name: “Table 1 of 1 on page 5 of 11”,Name: “Table 1 of 1 on page 5 of 11”,Name: “Table 1 of 1 on page 5 of 11”,Name: “Table 1 of 1 on page 5 of 11”,Name: “Table 1 of 1 on page 5 of 11”,Name: “Table 1 of 1 on page 5 of 11”,Name: “Table 1 of 1 on page 5 of 11”,Name: “Table 1 of 1 on page 5 of 11”,Name: “Table 1 of 1 on page 5 of 11”,Name: “Table 1 of 1 on page 5 of 11”,Name: “Table 1 of 1 on page 5 of 11”,Name: “Table 1 of 1 on page 5 of 11”,Name: “Table 1 of 1 on page 5 of 11”,Name: “Table 1 of 1 on page 5 of 11”,Name: “Table 1 of 1 on page 5 of 11”,Name: “Table 1 of 1 on page 5 of 11”,Name: “Table 1 of 1 on page 5 of 11”
+Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5
+,,,,,,,,,,,,,,,,,,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Property Use,Property Use,Property Use,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/08 - 12/31/08,1/1/08 - 12/31/08,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,"Day care, in commercial",,,,,,,,,,,,,,,,,
+254,property,980,0.16%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"25,001",0.01%,"10,005",0.01%,"35,006",0.01%
+,"Day care, in residence,",,,,,,,,,,,,,,,,,
+255,licensed,95,0.02%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Day care in residence,",,,,,,,,,,,,,,,,,
+256,unlicensed.,5,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Health care, detention,",,,,,,,,,,,,,,,,,
+300,"& correction, other","1,564",0.26%,0,0,0.00%,2,0.35%,0,0.00%,0,0.00%,"1,300",0.00%,"3,250",0.00%,"4,550",0.00%
+,24-hour care Nursing,,,,,,,,,,,,,,,,,
+311,"homes, 4 or more","27,308",4.49%,4,0,0.00%,2,0.35%,0,0.00%,0,0.00%,"85,344",0.03%,"15,558",0.01%,"100,902",0.03%
+,persons,,,,,,,,,,,,,,,,,
+,Mental,,,,,,,,,,,,,,,,,
+321,retardation/development,981,0.16%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,25,0.00%,0,0.00%,25,0.00%
+,disability facility,,,,,,,,,,,,,,,,,
+,Alcohol or substance,,,,,,,,,,,,,,,,,
+322,abuse recovery center,629,0.10%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"8,000",0.00%,550,0.00%,"8,550",0.00%
+,"Asylum, mental",,,,,,,,,,,,,,,,,
+323,institution,387,0.06%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,500,0.00%,0,0.00%,500,0.00%
+,Hospital - medical or,,,,,,,,,,,,,,,,,
+331,psychiatric,"2,780",0.46%,1,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"39,803",0.02%,"52,250",0.04%,"92,053",0.02%
+,Hospices,,,,,,,,,,,,,,,,,
+332,,58,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Clinics, Doctors offices,",,,,,,,,,,,,,,,,,
+340,hemodialysis centers,"8,199",1.35%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"557,300",0.22%,"300,700",0.25%,"858,000",0.23%
+,"Clinic, clinic-type",,,,,,,,,,,,,,,,,
+341,infirmary,"1,273",0.21%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Doctor, dentist or oral",,,,,,,,,,,,,,,,,
+342,surgeon's office,"2,731",0.45%,0,0,0.00%,0,0.00%,0,0.00%,1,0.31%,"3,151",0.00%,"2,201",0.00%,"5,352",0.00%
+,Hemodialysis unit,,,,,,,,,,,,,,,,,
+343,,424,0.07%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Jail, prison (not juvenile)",,,,,,,,,,,,,,,,,
+361,,"1,575",0.26%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"5,301",0.00%,"1,740",0.00%,"7,041",0.00%
+,"Reformatory, juvenile",,,,,,,,,,,,,,,,,
+363,detention center,178,0.03%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"6,500",0.00%,500,0.00%,"7,000",0.00%
+,Page 5 of 11,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,4/7/09 9:52:28 AM,4/7/09 9:52:28 AM,

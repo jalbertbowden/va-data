@@ -1,0 +1,42 @@
+Name: “Table 1 of 1 on page 11 of 15”,Name: “Table 1 of 1 on page 11 of 15”,Name: “Table 1 of 1 on page 11 of 15”,Name: “Table 1 of 1 on page 11 of 15”,Name: “Table 1 of 1 on page 11 of 15”,Name: “Table 1 of 1 on page 11 of 15”,Name: “Table 1 of 1 on page 11 of 15”,Name: “Table 1 of 1 on page 11 of 15”,Name: “Table 1 of 1 on page 11 of 15”,Name: “Table 1 of 1 on page 11 of 15”,Name: “Table 1 of 1 on page 11 of 15”,Name: “Table 1 of 1 on page 11 of 15”,Name: “Table 1 of 1 on page 11 of 15”,Name: “Table 1 of 1 on page 11 of 15”,Name: “Table 1 of 1 on page 11 of 15”,Name: “Table 1 of 1 on page 11 of 15”,Name: “Table 1 of 1 on page 11 of 15”,Name: “Table 1 of 1 on page 11 of 15”,Name: “Table 1 of 1 on page 11 of 15”
+Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11
+,,,,,,,,,,,,,,,,,,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Incident Type,Incident Type,Incident Type,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/09 - 12/31/09,1/1/09 - 12/31/09,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,Animal problem or,,,,,,,,,,,,,,,,,
+54,rescue,2,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Animal problem, other",,,,,,,,,,,,,,,,,
+540,,42,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,200,0.00%,0,0.00%,200,0.00%
+,Animal problem,,,,,,,,,,,,,,,,,
+541,,161,0.02%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Animal rescue,,,,,,,,,,,,,,,,,
+542,,272,0.04%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Public service,,,,,,,,,,,,,,,,,
+55,assistance,67,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Public service,,,,,,,,,,,,,,,,,
+550,"assistance, other","4,159",0.64%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"6,000",0.00%,"5,000",0.01%,"11,000",0.00%
+,Assist police or other,,,,,,,,,,,,,,,,,
+551,governmental agency,"1,740",0.27%,0,1,0.97%,0,0.00%,0,0.00%,0,0.00%,"66,665",0.03%,0,0.00%,"66,665",0.02%
+,Police matter,,,,,,,,,,,,,,,,,
+552,,"1,634",0.25%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Public service,,,,,,,,,,,,,,,,,
+553,,"10,587",1.64%,0,0,0.00%,0,0.00%,0,0.00%,2,0.59%,"167,020",0.08%,"2,800",0.00%,"169,820",0.06%
+,Assist invalid,,,,,,,,,,,,,,,,,
+554,,"3,967",0.61%,0,0,0.00%,0,0.00%,0,0.00%,1,0.29%,0,0.00%,0,0.00%,0,0.00%
+,"Defective elevator, no",,,,,,,,,,,,,,,,,
+555,occupants,340,0.05%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"3,000",0.00%,0,0.00%,"3,000",0.00%
+,Unauthorized burning,,,,,,,,,,,,,,,,,
+56,,3,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Unauthorized burning,,,,,,,,,,,,,,,,,
+561,,"1,559",0.24%,0,0,0.00%,0,0.00%,0,0.00%,1,0.29%,211,0.00%,380,0.00%,591,0.00%
+,"Cover assignment,",,,,,,,,,,,,,,,,,
+57,"standby at fire station,",0,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,move-up,,,,,,,,,,,,,,,,,
+,"Cover assignment,",,,,,,,,,,,,,,,,,
+571,"standby, moveup","1,071",0.17%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Good Intent Call,,,,,,,,,,,,,,,,,
+6,,9,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Page 11 of 15,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,3/5/10 10:15:08 AM,,

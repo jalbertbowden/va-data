@@ -1,0 +1,44 @@
+Name: “Table 1 of 1 on page 10 of 13”,Name: “Table 1 of 1 on page 10 of 13”,Name: “Table 1 of 1 on page 10 of 13”,Name: “Table 1 of 1 on page 10 of 13”,Name: “Table 1 of 1 on page 10 of 13”,Name: “Table 1 of 1 on page 10 of 13”,Name: “Table 1 of 1 on page 10 of 13”,Name: “Table 1 of 1 on page 10 of 13”,Name: “Table 1 of 1 on page 10 of 13”,Name: “Table 1 of 1 on page 10 of 13”,Name: “Table 1 of 1 on page 10 of 13”,Name: “Table 1 of 1 on page 10 of 13”,Name: “Table 1 of 1 on page 10 of 13”,Name: “Table 1 of 1 on page 10 of 13”,Name: “Table 1 of 1 on page 10 of 13”,Name: “Table 1 of 1 on page 10 of 13”,Name: “Table 1 of 1 on page 10 of 13”,Name: “Table 1 of 1 on page 10 of 13”,Name: “Table 1 of 1 on page 10 of 13”
+Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10
+,,,,,,,,,,,,,,,,,,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Incident Type,Incident Type,Incident Type,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/08 - 12/31/08,1/1/08 - 12/31/08,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,Assist invalid,,,,,,,,,,,,,,,,,
+554,,"3,950",0.64%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Defective elevator, no",,,,,,,,,,,,,,,,,
+555,occupants,298,0.05%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Unauthorized burning,,,,,,,,,,,,,,,,,
+561,,"1,788",0.29%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,82,0.00%,22,0.00%,104,0.00%
+,"Cover assignment,",,,,,,,,,,,,,,,,,
+571,"standby, moveup","2,052",0.33%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"2,000",0.00%,"1,000",0.00%,"3,000",0.00%
+,"Good intent call, other",,,,,,,,,,,,,,,,,
+600,,"13,897",2.24%,3,0,0.00%,0,0.00%,0,0.00%,2,0.60%,"3,409",0.00%,"4,253",0.00%,"7,662",0.00%
+,Dispatched & canceled,,,,,,,,,,,,,,,,,
+611,en route,"30,401",4.91%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"29,472",0.01%,"5,711",0.00%,"35,183",0.01%
+,Wrong location,,,,,,,,,,,,,,,,,
+621,,381,0.06%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,No incident found at,,,,,,,,,,,,,,,,,
+622,dispatch address,"5,368",0.87%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,300,0.00%,0,0.00%,300,0.00%
+,Authorized controlled,,,,,,,,,,,,,,,,,
+631,burning,"1,987",0.32%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,1,0.00%,0,0.00%,1,0.00%
+,Prescribed fire,,,,,,,,,,,,,,,,,
+632,,134,0.02%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Vicinity alarm (incident,,,,,,,,,,,,,,,,,
+641,in other location),516,0.08%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Steam, other gas",,,,,,,,,,,,,,,,,
+650,"mistaken for smoke,",498,0.08%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,700,0.00%,0,0.00%,700,0.00%
+,other,,,,,,,,,,,,,,,,,
+,"Smoke scare, odor of",,,,,,,,,,,,,,,,,
+651,smoke,"4,703",0.76%,0,0,0.00%,0,0.00%,0,0.00%,3,0.90%,"1,050",0.00%,410,0.00%,"1,460",0.00%
+,"Steam, vapor, fog or",,,,,,,,,,,,,,,,,
+652,dust thought to be,717,0.12%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,smoke,,,,,,,,,,,,,,,,,
+,"Barbecue, tar kettle",,,,,,,,,,,,,,,,,
+653,,139,0.02%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"EMS call, party",,,,,,,,,,,,,,,,,
+661,transported by non-fire,573,0.09%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,100,0.00%,0,0.00%,100,0.00%
+,agency,,,,,,,,,,,,,,,,,
+,Page 10 of 13,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,4/7/09 11:29:54 AM,,

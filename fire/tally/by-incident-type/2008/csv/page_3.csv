@@ -1,0 +1,43 @@
+Name: “Table 1 of 1 on page 3 of 13”,Name: “Table 1 of 1 on page 3 of 13”,Name: “Table 1 of 1 on page 3 of 13”,Name: “Table 1 of 1 on page 3 of 13”,Name: “Table 1 of 1 on page 3 of 13”,Name: “Table 1 of 1 on page 3 of 13”,Name: “Table 1 of 1 on page 3 of 13”,Name: “Table 1 of 1 on page 3 of 13”,Name: “Table 1 of 1 on page 3 of 13”,Name: “Table 1 of 1 on page 3 of 13”,Name: “Table 1 of 1 on page 3 of 13”,Name: “Table 1 of 1 on page 3 of 13”,Name: “Table 1 of 1 on page 3 of 13”,Name: “Table 1 of 1 on page 3 of 13”,Name: “Table 1 of 1 on page 3 of 13”,Name: “Table 1 of 1 on page 3 of 13”,Name: “Table 1 of 1 on page 3 of 13”,Name: “Table 1 of 1 on page 3 of 13”,Name: “Table 1 of 1 on page 3 of 13”
+Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3
+,,,,,,,,,,,,,,,,,,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Incident Type,Incident Type,Incident Type,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/08 - 12/31/08,1/1/08 - 12/31/08,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,Road freight or transport,,,,,,,,,,,,,,,,,
+132,vehicle fire,317,0.05%,14,3,2.42%,2,0.35%,0,0.00%,0,0.00%,"4,551,606",1.76%,"619,349",0.52%,"5,170,955",1.37%
+,Rail vehicle fire,,,,,,,,,,,,,,,,,
+133,,16,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"64,000",0.02%,"5,980",0.00%,"69,980",0.02%
+,Water vehicle fire,,,,,,,,,,,,,,,,,
+134,,28,0.00%,3,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"1,048,103",0.41%,"25,100",0.02%,"1,073,203",0.28%
+,Aircraft fire,,,,,,,,,,,,,,,,,
+135,,6,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"329,000",0.13%,0,0.00%,"329,000",0.09%
+,Self-propelled motor,,,,,,,,,,,,,,,,,
+136,home or recreational,12,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"450,501",0.17%,"113,001",0.09%,"563,502",0.15%
+,vehicle,,,,,,,,,,,,,,,,,
+,Camper or recreational,,,,,,,,,,,,,,,,,
+137,vehicle (RV) fire,39,0.01%,8,1,0.81%,0,0.00%,0,0.00%,0,0.00%,"604,850",0.23%,"53,750",0.04%,"658,600",0.17%
+,Off-road vehicle or,,,,,,,,,,,,,,,,,
+138,heavy equipment fire,187,0.03%,2,0,0.00%,1,0.18%,0,0.00%,0,0.00%,"4,930,951",1.91%,"231,290",0.19%,"5,162,241",1.37%
+,"Natural vegetation fire,",,,,,,,,,,,,,,,,,
+140,other,"1,672",0.27%,10,1,0.81%,1,0.18%,0,0.00%,0,0.00%,"1,686,207",0.65%,"12,449",0.01%,"1,698,656",0.45%
+,"Forest, woods or",,,,,,,,,,,,,,,,,
+141,wildland fire,"1,204",0.19%,5,0,0.00%,1,0.18%,0,0.00%,5,1.49%,"274,451",0.11%,"16,440",0.01%,"290,891",0.08%
+,"Brush, or brush and",,,,,,,,,,,,,,,,,
+142,grass mixture fire,"4,581",0.74%,24,0,0.00%,2,0.35%,0,0.00%,5,1.49%,"718,516",0.28%,"60,219",0.05%,"778,735",0.21%
+,Grass fire,,,,,,,,,,,,,,,,,
+143,,"1,149",0.19%,11,0,0.00%,2,0.35%,0,0.00%,2,0.60%,"61,007",0.02%,"20,843",0.02%,"81,850",0.02%
+,"Outside rubbish fire,",,,,,,,,,,,,,,,,,
+150,other,"1,062",0.17%,1,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"232,592",0.09%,"2,165",0.00%,"234,757",0.06%
+,"Outside rubbish, trash",,,,,,,,,,,,,,,,,
+151,or waste fire,"1,448",0.23%,4,1,0.81%,3,0.53%,0,0.00%,1,0.30%,"84,088",0.03%,"23,047",0.02%,"107,135",0.03%
+,Garbage dump or,,,,,,,,,,,,,,,,,
+152,sanitary landfill fire,49,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"3,101",0.00%,101,0.00%,"3,202",0.00%
+,Construction or,,,,,,,,,,,,,,,,,
+153,demolition landfill fire,61,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,2,0.00%,3,0.00%,5,0.00%
+,Dumpster or other,,,,,,,,,,,,,,,,,
+154,outside trash receptacle,"1,075",0.17%,6,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"82,097",0.03%,"5,647",0.00%,"87,744",0.02%
+,fire,,,,,,,,,,,,,,,,,
+,Page 3 of 13,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,4/7/09 9:52:03 AM,4/7/09 9:52:03 AM,

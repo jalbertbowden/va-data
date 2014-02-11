@@ -1,0 +1,39 @@
+Name: “Table 1 of 1 on page 17 of 18”,Name: “Table 1 of 1 on page 17 of 18”,Name: “Table 1 of 1 on page 17 of 18”,Name: “Table 1 of 1 on page 17 of 18”,Name: “Table 1 of 1 on page 17 of 18”,Name: “Table 1 of 1 on page 17 of 18”,Name: “Table 1 of 1 on page 17 of 18”,Name: “Table 1 of 1 on page 17 of 18”,Name: “Table 1 of 1 on page 17 of 18”,Name: “Table 1 of 1 on page 17 of 18”,Name: “Table 1 of 1 on page 17 of 18”,Name: “Table 1 of 1 on page 17 of 18”,Name: “Table 1 of 1 on page 17 of 18”,Name: “Table 1 of 1 on page 17 of 18”,Name: “Table 1 of 1 on page 17 of 18”,Name: “Table 1 of 1 on page 17 of 18”,Name: “Table 1 of 1 on page 17 of 18”,Name: “Table 1 of 1 on page 17 of 18”,Name: “Table 1 of 1 on page 17 of 18”
+Table: 17,Table: 17,Table: 17,Table: 17,Table: 17,Table: 17,Table: 17,Table: 17,Table: 17,Table: 17,Table: 17,Table: 17,Table: 17,Table: 17,Table: 17,Table: 17,Table: 17,Table: 17,Table: 17
+,,,,,,,,,,,,,,,,,,
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,"Sprinkler activation, no",,,,,,,,,,,,,,,,,
+741,,658,0.09 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"103,100",0.05 %,"38,500",0.06 %,"141,600",0.05 %
+,fire - unintentional,,,,,,,,,,,,,,,,,
+,Extinguishing system,,,,,,,,,,,,,,,,,
+742,,64,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,activation,,,,,,,,,,,,,,,,,
+,Smoke detector,,,,,,,,,,,,,,,,,
+743,"activation, no fire -","7,766",1.04 %,0,0,0.00 %,1,0.16 %,0,0.00 %,2,0.29 %,500,0.00 %,5,0.00 %,505,0.00 %
+,unintentional,,,,,,,,,,,,,,,,,
+,"Detector activation, no",,,,,,,,,,,,,,,,,
+744,,"3,042",0.41 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,fire - unintentional,,,,,,,,,,,,,,,,,
+,"Alarm system sounded,",,,,,,,,,,,,,,,,,
+745,no fire - unintentional,"10,596",1.42 %,0,0,0.00 %,0,0.00 %,0,0.00 %,1,0.14 %,"1,200",0.00 %,1,0.00 %,"1,201",0.00 %
+,Carbon monoxide,,,,,,,,,,,,,,,,,
+746,"detector activation, no",848,0.11 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,CO,,,,,,,,,,,,,,,,,
+,"Biological hazard,",,,,,,,,,,,,,,,,,
+751,,4,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,malicious false report,,,,,,,,,,,,,,,,,
+,Severe weather or,,,,,,,,,,,,,,,,,
+800,,625,0.08 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"28,000",0.01 %,"5,000",0.01 %,"33,000",0.01 %
+,"natural disaster, other",,,,,,,,,,,,,,,,,
+,Earthquake assessment,,,,,,,,,,,,,,,,,
+811,,81,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+812,Flood assessment,53,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"60,000",0.09 %,"60,000",0.02 %
+,"Wind storm,",,,,,,,,,,,,,,,,,
+813,tornado/hurricane,876,0.12 %,0,0,0.00 %,0,0.00 %,0,0.00 %,1,0.14 %,"685,000",0.32 %,"81,500",0.12 %,"766,500",0.27 %
+,assessment,,,,,,,,,,,,,,,,,
+,Page 17 of 18,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Thu Mar 14 07:40:32 EDT 2013,Thu Mar 14 07:40:32 EDT 2013,Thu Mar 14 07:40:32 EDT 2013

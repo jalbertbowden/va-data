@@ -1,0 +1,39 @@
+Name: “Table 1 of 1 on page 15 of 18”,Name: “Table 1 of 1 on page 15 of 18”,Name: “Table 1 of 1 on page 15 of 18”,Name: “Table 1 of 1 on page 15 of 18”,Name: “Table 1 of 1 on page 15 of 18”,Name: “Table 1 of 1 on page 15 of 18”,Name: “Table 1 of 1 on page 15 of 18”,Name: “Table 1 of 1 on page 15 of 18”,Name: “Table 1 of 1 on page 15 of 18”,Name: “Table 1 of 1 on page 15 of 18”,Name: “Table 1 of 1 on page 15 of 18”,Name: “Table 1 of 1 on page 15 of 18”,Name: “Table 1 of 1 on page 15 of 18”,Name: “Table 1 of 1 on page 15 of 18”,Name: “Table 1 of 1 on page 15 of 18”,Name: “Table 1 of 1 on page 15 of 18”,Name: “Table 1 of 1 on page 15 of 18”,Name: “Table 1 of 1 on page 15 of 18”,Name: “Table 1 of 1 on page 15 of 18”
+Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15
+,,,,,,,,,,,,,,,,,,
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,"Smoke scare, odor of",,,,,,,,,,,,,,,,,
+651,,"4,721",0.63 %,0,0,0.00 %,1,0.16 %,0,0.00 %,2,0.29 %,"44,861",0.02 %,"6,081",0.01 %,"50,942",0.02 %
+,smoke,,,,,,,,,,,,,,,,,
+,"Steam, vapor, fog or dust",,,,,,,,,,,,,,,,,
+652,thought to be smoke,666,0.09 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+653,"Barbecue, tar kettle",220,0.03 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,"EMS call, party",,,,,,,,,,,,,,,,,
+661,transported by non-fire,408,0.05 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,agency,,,,,,,,,,,,,,,,,
+,Hazmat release,,,,,,,,,,,,,,,,,
+671,investigation w/ no,"1,162",0.16 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,hazmat,,,,,,,,,,,,,,,,,
+,"Biological hazard, none",,,,,,,,,,,,,,,,,
+672,,38,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,found,,,,,,,,,,,,,,,,,
+,"False alarm or false call,",,,,,,,,,,,,,,,,,
+700,,"8,254",1.10 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"25,151",0.01 %,"5,001",0.01 %,"30,152",0.01 %
+,other,,,,,,,,,,,,,,,,,
+,"Malicious, mischievous",,,,,,,,,,,,,,,,,
+710,,789,0.11 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,"false call, other",,,,,,,,,,,,,,,,,
+,"Municipal alarm system,",,,,,,,,,,,,,,,,,
+711,malicious false alarm,270,0.04 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,"Direct tie to FD,",,,,,,,,,,,,,,,,,
+712,,24,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,malicious/false alarm,,,,,,,,,,,,,,,,,
+,"Telephone, malicious",,,,,,,,,,,,,,,,,
+713,,98,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,false alarm,,,,,,,,,,,,,,,,,
+,Page 15 of 18,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Thu Mar 14 07:40:30 EDT 2013,Thu Mar 14 07:40:30 EDT 2013,Thu Mar 14 07:40:30 EDT 2013

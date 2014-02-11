@@ -1,0 +1,41 @@
+Name: “Table 1 of 1 on page 6 of 13”,Name: “Table 1 of 1 on page 6 of 13”,Name: “Table 1 of 1 on page 6 of 13”,Name: “Table 1 of 1 on page 6 of 13”,Name: “Table 1 of 1 on page 6 of 13”,Name: “Table 1 of 1 on page 6 of 13”,Name: “Table 1 of 1 on page 6 of 13”,Name: “Table 1 of 1 on page 6 of 13”,Name: “Table 1 of 1 on page 6 of 13”,Name: “Table 1 of 1 on page 6 of 13”,Name: “Table 1 of 1 on page 6 of 13”,Name: “Table 1 of 1 on page 6 of 13”,Name: “Table 1 of 1 on page 6 of 13”,Name: “Table 1 of 1 on page 6 of 13”,Name: “Table 1 of 1 on page 6 of 13”,Name: “Table 1 of 1 on page 6 of 13”,Name: “Table 1 of 1 on page 6 of 13”,Name: “Table 1 of 1 on page 6 of 13”,Name: “Table 1 of 1 on page 6 of 13”
+Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6
+,,,,,,,,,,,,,,,,,,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Incident Type,Incident Type,Incident Type,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/05 - 12/31/05,1/1/05 - 12/31/05,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,Motor vehicle/pedestrian,,,,,,,,,,,,,,,,,
+323,accident (MV Ped),"1,489",0.28%,0,0,0.00%,2,0.38%,0,0.00%,0,0.00%,"770,000",0.18%,0,0.00%,"770,000",0.05%
+,Motor vehicle accident,,,,,,,,,,,,,,,,,
+324,with no injuries,"11,251",2.11%,0,0,0.00%,1,0.19%,0,0.00%,0,0.00%,"515,000",0.12%,"77,000",0.01%,"592,000",0.04%
+,"Lock-in (if lock out , use",,,,,,,,,,,,,,,,,
+331,511 ),909,0.17%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Search, other",,,,,,,,,,,,,,,,,
+340,,64,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Search for person on,,,,,,,,,,,,,,,,,
+341,land,75,0.01%,0,1,0.88%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Search for person in,,,,,,,,,,,,,,,,,
+342,water,47,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Search for person,,,,,,,,,,,,,,,,,
+343,underground,1,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Extrication, rescue,",,,,,,,,,,,,,,,,,
+350,other,"1,087",0.20%,0,1,0.88%,0,0.00%,0,0.00%,0,0.00%,"87,000",0.02%,"1,000",0.00%,"88,000",0.01%
+,Extrication of victim(s),,,,,,,,,,,,,,,,,
+351,from building/structure,22,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"4,000",0.00%,0,0.00%,"4,000",0.00%
+,Extrication of victim(s),,,,,,,,,,,,,,,,,
+352,from vehicle,755,0.14%,0,7,6.19%,12,2.29%,0,0.00%,5,1.60%,"324,000",0.07%,"4,000",0.00%,"328,000",0.02%
+,Removal of victim(s),,,,,,,,,,,,,,,,,
+353,from stalled elevator,"1,249",0.23%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Trench/below grade,,,,,,,,,,,,,,,,,
+354,rescue,21,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Confined space rescue,,,,,,,,,,,,,,,,,
+355,,13,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,High angle rescue,,,,,,,,,,,,,,,,,
+356,,33,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Extrication of victim(s),,,,,,,,,,,,,,,,,
+357,from machinery,39,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Water & ice related,,,,,,,,,,,,,,,,,
+360,"rescue, other",75,0.01%,0,0,0.00%,0,0.00%,0,0.00%,1,0.32%,"1,500",0.00%,0,0.00%,"1,500",0.00%
+,Page 6 of 13,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,5/24/06 9:26:47 PM,5/24/06 9:26:47 PM,

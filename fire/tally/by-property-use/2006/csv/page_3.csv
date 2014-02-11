@@ -1,0 +1,43 @@
+Name: “Table 1 of 1 on page 3 of 11”,Name: “Table 1 of 1 on page 3 of 11”,Name: “Table 1 of 1 on page 3 of 11”,Name: “Table 1 of 1 on page 3 of 11”,Name: “Table 1 of 1 on page 3 of 11”,Name: “Table 1 of 1 on page 3 of 11”,Name: “Table 1 of 1 on page 3 of 11”,Name: “Table 1 of 1 on page 3 of 11”,Name: “Table 1 of 1 on page 3 of 11”,Name: “Table 1 of 1 on page 3 of 11”,Name: “Table 1 of 1 on page 3 of 11”,Name: “Table 1 of 1 on page 3 of 11”,Name: “Table 1 of 1 on page 3 of 11”,Name: “Table 1 of 1 on page 3 of 11”,Name: “Table 1 of 1 on page 3 of 11”,Name: “Table 1 of 1 on page 3 of 11”,Name: “Table 1 of 1 on page 3 of 11”,Name: “Table 1 of 1 on page 3 of 11”,Name: “Table 1 of 1 on page 3 of 11”
+Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3
+,,,,,,,,,,,,,,,,,,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Property Use,Property Use,Property Use,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/06 - 12/31/06,1/1/06 - 12/31/06,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,"Church, mosque,",,,,,,,,,,,,,,,,,
+131,"synagogue, temple,","3,585",0.64%,1,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"6,219,588",1.26%,"15,610,927",11.85%,"21,830,515",3.50%
+,chapel,,,,,,,,,,,,,,,,,
+,Funeral parlor,,,,,,,,,,,,,,,,,
+134,,91,0.02%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Clubs, other",,,,,,,,,,,,,,,,,
+140,,281,0.05%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"602,100",0.12%,"100,000",0.08%,"702,100",0.11%
+,Athletic/health club,,,,,,,,,,,,,,,,,
+141,,699,0.13%,1,0,0.00%,0,0.00%,0,0.00%,1,0.35%,"4,400",0.00%,0,0.00%,"4,400",0.00%
+,Clubhouse,,,,,,,,,,,,,,,,,
+142,,344,0.06%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"27,000",0.01%,"10,300",0.01%,"37,300",0.01%
+,Yacht Club,,,,,,,,,,,,,,,,,
+143,,13,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Casino, gambling clubs",,,,,,,,,,,,,,,,,
+144,,13,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Public or government,",,,,,,,,,,,,,,,,,
+150,other,"1,427",0.26%,0,0,0.00%,0,0.00%,0,0.00%,2,0.71%,"95,551",0.02%,"60,551",0.05%,"156,102",0.03%
+,Library,,,,,,,,,,,,,,,,,
+151,,341,0.06%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,700,0.00%,0,0.00%,700,0.00%
+,Museum,,,,,,,,,,,,,,,,,
+152,,250,0.04%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"2,000",0.00%,555,0.00%,"2,555",0.00%
+,"Memorial structure,",,,,,,,,,,,,,,,,,
+154,including monuments &,90,0.02%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"15,000",0.00%,"2,000",0.00%,"17,000",0.00%
+,statues,,,,,,,,,,,,,,,,,
+,Courthouse,,,,,,,,,,,,,,,,,
+155,,368,0.07%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"30,000",0.01%,"100,000",0.08%,"130,000",0.02%
+,"Eating, drinking places",,,,,,,,,,,,,,,,,
+160,,651,0.12%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"106,100",0.02%,"105,500",0.08%,"211,600",0.03%
+,Restaurant or cafeteria,,,,,,,,,,,,,,,,,
+161,,"3,853",0.69%,3,0,0.00%,3,0.56%,0,0.00%,5,1.77%,"7,239,755",1.47%,"1,514,481",1.15%,"8,754,236",1.40%
+,Bar or nightclub,,,,,,,,,,,,,,,,,
+162,,415,0.07%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"45,450",0.01%,"20,500",0.02%,"65,950",0.01%
+,"Passenger terminal,",,,,,,,,,,,,,,,,,
+170,other,69,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"1,000",0.00%,0,0.00%,"1,000",0.00%
+,Page 3 of 11,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,4/18/07 9:31:24 AM,4/18/07 9:31:24 AM,

@@ -1,0 +1,44 @@
+Name: “Table 1 of 1 on page 4 of 15”,Name: “Table 1 of 1 on page 4 of 15”,Name: “Table 1 of 1 on page 4 of 15”,Name: “Table 1 of 1 on page 4 of 15”,Name: “Table 1 of 1 on page 4 of 15”,Name: “Table 1 of 1 on page 4 of 15”,Name: “Table 1 of 1 on page 4 of 15”,Name: “Table 1 of 1 on page 4 of 15”,Name: “Table 1 of 1 on page 4 of 15”,Name: “Table 1 of 1 on page 4 of 15”,Name: “Table 1 of 1 on page 4 of 15”,Name: “Table 1 of 1 on page 4 of 15”,Name: “Table 1 of 1 on page 4 of 15”,Name: “Table 1 of 1 on page 4 of 15”,Name: “Table 1 of 1 on page 4 of 15”,Name: “Table 1 of 1 on page 4 of 15”,Name: “Table 1 of 1 on page 4 of 15”,Name: “Table 1 of 1 on page 4 of 15”,Name: “Table 1 of 1 on page 4 of 15”
+Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4
+,,,,,,,,,,,,,,,,,,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Incident Type,Incident Type,Incident Type,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/09 - 12/31/09,1/1/09 - 12/31/09,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,"Outside rubbish fire,",,,,,,,,,,,,,,,,,
+150,other,872,0.14%,1,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"13,478",0.01%,"6,621",0.01%,"20,099",0.01%
+,"Outside rubbish, trash",,,,,,,,,,,,,,,,,
+151,or waste fire,"1,337",0.21%,4,0,0.00%,2,0.37%,0,0.00%,0,0.00%,"42,372",0.02%,"6,296",0.01%,"48,668",0.02%
+,Garbage dump or,,,,,,,,,,,,,,,,,
+152,sanitary landfill fire,31,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,271,0.00%,1,0.00%,272,0.00%
+,Construction or,,,,,,,,,,,,,,,,,
+153,demolition landfill fire,39,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"5,004",0.00%,504,0.00%,"5,508",0.00%
+,Dumpster or other,,,,,,,,,,,,,,,,,
+154,outside trash receptacle,"1,029",0.16%,5,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"90,241",0.04%,"10,231",0.01%,"100,472",0.03%
+,fire,,,,,,,,,,,,,,,,,
+,Outside stationary,,,,,,,,,,,,,,,,,
+155,compactor/compacted,10,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,trash fire,,,,,,,,,,,,,,,,,
+,Special outside fire,,,,,,,,,,,,,,,,,
+16,,19,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Special outside fire,",,,,,,,,,,,,,,,,,
+160,other,447,0.07%,13,0,0.00%,2,0.37%,0,0.00%,0,0.00%,"157,226",0.07%,"52,449",0.06%,"209,675",0.07%
+,Outside storage fire,,,,,,,,,,,,,,,,,
+161,,93,0.01%,5,1,0.97%,0,0.00%,0,0.00%,0,0.00%,"320,702",0.15%,"1,285,874",1.58%,"1,606,576",0.55%
+,Outside equipment fire,,,,,,,,,,,,,,,,,
+162,,331,0.05%,4,0,0.00%,2,0.37%,0,0.00%,1,0.29%,"558,221",0.26%,"53,666",0.07%,"611,887",0.21%
+,Outside gas or vapor,,,,,,,,,,,,,,,,,
+163,combustion explosion,29,0.00%,0,1,0.97%,3,0.55%,0,0.00%,1,0.29%,"18,035",0.01%,576,0.00%,"18,611",0.01%
+,Outside mailbox fire,,,,,,,,,,,,,,,,,
+164,,18,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,655,0.00%,100,0.00%,755,0.00%
+,"Cultivated vegetation,",,,,,,,,,,,,,,,,,
+170,"crop fire, other",37,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"13,165",0.01%,"3,050",0.00%,"16,215",0.01%
+,Cultivated grain or crop,,,,,,,,,,,,,,,,,
+171,fire,22,0.00%,2,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"2,880",0.00%,"30,500",0.04%,"33,380",0.01%
+,Cultivated trees or,,,,,,,,,,,,,,,,,
+173,nursery stock fire,26,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"2,004",0.00%,526,0.00%,"2,530",0.00%
+,"Overpressure rupture,",,,,,,,,,,,,,,,,,
+200,"explosion, overheat",121,0.02%,0,0,0.00%,1,0.18%,0,0.00%,0,0.00%,"3,600",0.00%,"7,301",0.01%,"10,901",0.00%
+,other,,,,,,,,,,,,,,,,,
+,Page 4 of 15,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,3/5/10 8:42:57 AM,3/5/10 8:42:57 AM,

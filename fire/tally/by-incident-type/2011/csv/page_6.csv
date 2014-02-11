@@ -1,0 +1,39 @@
+Name: “Table 1 of 1 on page 6 of 18”,Name: “Table 1 of 1 on page 6 of 18”,Name: “Table 1 of 1 on page 6 of 18”,Name: “Table 1 of 1 on page 6 of 18”,Name: “Table 1 of 1 on page 6 of 18”,Name: “Table 1 of 1 on page 6 of 18”,Name: “Table 1 of 1 on page 6 of 18”,Name: “Table 1 of 1 on page 6 of 18”,Name: “Table 1 of 1 on page 6 of 18”,Name: “Table 1 of 1 on page 6 of 18”,Name: “Table 1 of 1 on page 6 of 18”,Name: “Table 1 of 1 on page 6 of 18”,Name: “Table 1 of 1 on page 6 of 18”,Name: “Table 1 of 1 on page 6 of 18”,Name: “Table 1 of 1 on page 6 of 18”,Name: “Table 1 of 1 on page 6 of 18”,Name: “Table 1 of 1 on page 6 of 18”,Name: “Table 1 of 1 on page 6 of 18”,Name: “Table 1 of 1 on page 6 of 18”
+Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6
+,,,,,,,,,,,,,,,,,,
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,Overpressure rupture of,,,,,,,,,,,,,,,,,
+212,,9,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"40,000",0.02 %,"15,000",0.02 %,"55,000",0.02 %
+,steam boiler,,,,,,,,,,,,,,,,,
+,Steam rupture of,,,,,,,,,,,,,,,,,
+213,pressure or process,7,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,vessel,,,,,,,,,,,,,,,,,
+,Overpressure rupture,,,,,,,,,,,,,,,,,
+220,,55,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,"from air or gas, other",,,,,,,,,,,,,,,,,
+,Overpressure rupture of,,,,,,,,,,,,,,,,,
+221,air or gas pipe/pipeline,88,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"5,000",0.00 %,"5,000",0.01 %,"10,000",0.00 %
+,Overpressure rupture of,,,,,,,,,,,,,,,,,
+222,boiler from air or gas,2,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,Air or gas rupture of,,,,,,,,,,,,,,,,,
+223,pressure or process,29,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,vessel,,,,,,,,,,,,,,,,,
+,Chemical reaction,,,,,,,,,,,,,,,,,
+231,rupture of process vessel,24,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,"Explosion (no fire), other",,,,,,,,,,,,,,,,,
+240,,57,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,1,0.16 %,"47,075",0.03 %,"5,800",0.01 %,"52,875",0.02 %
+,Munitions or bomb,,,,,,,,,,,,,,,,,
+241,,10,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,100,0.00 %,0,0.00 %,100,0.00 %
+,explosion (no fire),,,,,,,,,,,,,,,,,
+,Blasting agent explosion,,,,,,,,,,,,,,,,,
+242,,2,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,(no fire),,,,,,,,,,,,,,,,,
+,Fireworks explosion (no,,,,,,,,,,,,,,,,,
+243,,96,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,60,0.00 %,0,0.00 %,60,0.00 %
+,fire),,,,,,,,,,,,,,,,,
+,Page 6 of 18,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Thu Mar 08 08:46:02 EST 2012,Thu Mar 08 08:46:02 EST 2012,Thu Mar 08 08:46:02 EST 2012

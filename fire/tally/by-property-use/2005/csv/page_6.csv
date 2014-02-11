@@ -1,0 +1,41 @@
+Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”
+Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6
+,,,,,,,,,,,,,,,,,,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Property Use,Property Use,Property Use,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/05 - 12/31/05,1/1/05 - 12/31/05,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,Police station,,,,,,,,,,,,,,,,,
+365,,510,0.10%,0,0,0.00%,1,0.19%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Residential, other",,,,,,,,,,,,,,,,,
+400,,"8,575",1.63%,6,0,0.00%,13,2.48%,0,0.00%,3,0.98%,"2,882,038",0.66%,"522,528",0.05%,"3,404,566",0.22%
+,1 or 2 family dwelling,,,,,,,,,,,,,,,,,
+419,,"178,703",33.91%,126,44,38.94%,239,45.52%,0,0.00%,122,39.87%,"344,920,888",79.44%,"31,877,794",2.95%,"376,798,682",24.89%
+,Multifamily dwellings,,,,,,,,,,,,,,,,,
+429,,"57,997",11.01%,48,7,6.19%,72,13.71%,0,0.00%,24,7.84%,"16,933,817",3.90%,"9,650,795",0.89%,"26,584,612",1.76%
+,Boarding/rooming,,,,,,,,,,,,,,,,,
+439,"house, residential hotels","1,994",0.38%,0,0,0.00%,4,0.76%,0,0.00%,0,0.00%,"318,551",0.07%,"33,371",0.00%,"351,922",0.02%
+,"Hotel/motel, commercial",,,,,,,,,,,,,,,,,
+449,,"6,835",1.30%,1,0,0.00%,1,0.19%,0,0.00%,2,0.65%,"2,227,521",0.51%,"86,965",0.01%,"2,314,486",0.15%
+,Residential board and,,,,,,,,,,,,,,,,,
+459,care,"2,938",0.56%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"31,521",0.01%,"13,801",0.00%,"45,322",0.00%
+,Dormitory type,,,,,,,,,,,,,,,,,
+460,"residence, other","1,386",0.26%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"46,562",0.01%,"15,124",0.00%,"61,686",0.00%
+,"Sorority house, fraternity",,,,,,,,,,,,,,,,,
+462,house,126,0.02%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"171,600",0.04%,"25,850",0.00%,"197,450",0.01%
+,"Barracks, dormitory",,,,,,,,,,,,,,,,,
+464,,653,0.12%,2,0,0.00%,1,0.19%,0,0.00%,0,0.00%,"913,660",0.21%,"700,010",0.06%,"1,613,670",0.11%
+,"Mercantile, business,",,,,,,,,,,,,,,,,,
+500,other,"4,561",0.87%,5,0,0.00%,0,0.00%,0,0.00%,1,0.33%,"333,303",0.08%,"234,015",0.02%,"567,318",0.04%
+,Convenience store,,,,,,,,,,,,,,,,,
+511,,"2,243",0.43%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"604,946",0.14%,"552,512",0.05%,"1,157,458",0.08%
+,Food and beverage,,,,,,,,,,,,,,,,,
+519,"sales, grocery store","5,136",0.97%,1,0,0.00%,4,0.76%,0,0.00%,1,0.33%,"649,146",0.15%,"377,022",0.03%,"1,026,168",0.07%
+,"Textile, wearing apparel",,,,,,,,,,,,,,,,,
+529,sales,627,0.12%,0,0,0.00%,1,0.19%,0,0.00%,0,0.00%,"72,576",0.02%,"8,001",0.00%,"80,577",0.01%
+,"Household goods,",,,,,,,,,,,,,,,,,
+539,"sales, repairs",684,0.13%,2,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"245,250",0.06%,"802,802",0.07%,"1,048,052",0.07%
+,Specialty shop,,,,,,,,,,,,,,,,,
+549,,"1,685",0.32%,1,0,0.00%,2,0.38%,0,0.00%,1,0.33%,"7,043,951",1.62%,"6,756,001",0.63%,"13,799,952",0.91%
+,Page 6 of 11,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,5/29/06 6:50:39 PM,5/29/06 6:50:39 PM,

@@ -1,0 +1,44 @@
+Name: “Table 1 of 1 on page 11 of 13”,Name: “Table 1 of 1 on page 11 of 13”,Name: “Table 1 of 1 on page 11 of 13”,Name: “Table 1 of 1 on page 11 of 13”,Name: “Table 1 of 1 on page 11 of 13”,Name: “Table 1 of 1 on page 11 of 13”,Name: “Table 1 of 1 on page 11 of 13”,Name: “Table 1 of 1 on page 11 of 13”,Name: “Table 1 of 1 on page 11 of 13”,Name: “Table 1 of 1 on page 11 of 13”,Name: “Table 1 of 1 on page 11 of 13”,Name: “Table 1 of 1 on page 11 of 13”,Name: “Table 1 of 1 on page 11 of 13”,Name: “Table 1 of 1 on page 11 of 13”,Name: “Table 1 of 1 on page 11 of 13”,Name: “Table 1 of 1 on page 11 of 13”,Name: “Table 1 of 1 on page 11 of 13”,Name: “Table 1 of 1 on page 11 of 13”,Name: “Table 1 of 1 on page 11 of 13”
+Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11
+,,,,,,,,,,,,,,,,,,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Incident Type,Incident Type,Incident Type,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/06 - 12/31/06,1/1/06 - 12/31/06,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,Hazmat release,,,,,,,,,,,,,,,,,
+671,investigation w/ no,842,0.15%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,hazmat,,,,,,,,,,,,,,,,,
+,"Biological hazard, none",,,,,,,,,,,,,,,,,
+672,found,34,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"False alarm or false call,",,,,,,,,,,,,,,,,,
+700,other,"9,142",1.62%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,501,0.00%,"1,005",0.00%,"1,506",0.00%
+,"Malicious, mischievous",,,,,,,,,,,,,,,,,
+710,"false call, other","1,337",0.24%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"2,000",0.00%,0,0.00%,"2,000",0.00%
+,"Municipal alarm system,",,,,,,,,,,,,,,,,,
+711,malicious false alarm,531,0.09%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Direct tie to FD,",,,,,,,,,,,,,,,,,
+712,malicious/false alarm,38,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Telephone, malicious",,,,,,,,,,,,,,,,,
+713,false alarm,160,0.03%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"4,500",0.00%,0,0.00%,"4,500",0.00%
+,"Central station,",,,,,,,,,,,,,,,,,
+714,malicious false alarm,385,0.07%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Local alarm system,",,,,,,,,,,,,,,,,,
+715,malicious false alarm,503,0.09%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Bomb scare - no bomb,,,,,,,,,,,,,,,,,
+721,,265,0.05%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"System malfunction,",,,,,,,,,,,,,,,,,
+730,other,"6,483",1.15%,2,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Sprinkler activation due,,,,,,,,,,,,,,,,,
+731,to malfunction,489,0.09%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"8,500",0.00%,"502,500",0.38%,"511,000",0.08%
+,Extinguishing system,,,,,,,,,,,,,,,,,
+732,activation due to,82,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,malfunction,,,,,,,,,,,,,,,,,
+,Smoke detector,,,,,,,,,,,,,,,,,
+733,activation due to,"3,578",0.63%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"5,201,000",1.06%,"100,750",0.08%,"5,301,750",0.85%
+,malfunction,,,,,,,,,,,,,,,,,
+,Heat detector activation,,,,,,,,,,,,,,,,,
+734,due to malfunction,270,0.05%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Alarm system sounded,,,,,,,,,,,,,,,,,
+735,due to malfunction,"4,390",0.78%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"1,000",0.00%,0,0.00%,"1,000",0.00%
+,Page 11 of 13,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,4/18/07 11:08:01 AM,4/18/07 11:08:01 AM,

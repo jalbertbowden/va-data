@@ -1,0 +1,470 @@
+Tally,,,,,
+Report Parameters:,Report Parameters:,,,,
+Report Period:,1/1/05 - 12/31/05,Version: Both,Status: All,Released: All,
+Report Filters:,No Filters Applied,,,,
+,"NOTE: Report Filter Groups are applied to the report SQL as ""AND"" conditions (i.e. Group 1 AND Group 2 AND Group 3 etc...)","NOTE: Report Filter Groups are applied to the report SQL as ""AND"" conditions (i.e. Group 1 AND Group 2 AND Group 3 etc...)","NOTE: Report Filter Groups are applied to the report SQL as ""AND"" conditions (i.e. Group 1 AND Group 2 AND Group 3 etc...)","NOTE: Report Filter Groups are applied to the report SQL as ""AND"" conditions (i.e. Group 1 AND Group 2 AND Group 3 etc...)",
+State:,VA,,,,
+Report FDIDs:,All,,,,
+Page 1 of 13,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,5/24/06 8:28:46 PM
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Incident Type,Incident Type,Incident Type,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/05 - 12/31/05,1/1/05 - 12/31/05,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,"Fire, other",,,,,,,,,,,,,,,,,
+10,,1,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Fire, other",,,,,,,,,,,,,,,,,
+100,,"1,658",0.31%,14,2,1.77%,23,4.38%,0,0.00%,2,0.64%,"2,670,399",0.62%,"210,440",0.02%,"2,880,839",0.19%
+,"Structure fire, other",,,,,,,,,,,,,,,,,
+110,(conversion only),"1,212",0.23%,56,6,5.31%,82,15.62%,0,0.00%,20,6.39%,"280,918,388",64.85%,"27,790",0.00%,"280,946,178",18.69%
+,Building fires,,,,,,,,,,,,,,,,,
+111,,"4,036",0.76%,95,34,30.09%,191,36.38%,0,0.00%,106,33.87%,"107,506,588",24.82%,"52,874,472",4.94%,"160,381,060",10.67%
+,Fires in structures other,,,,,,,,,,,,,,,,,
+112,than in a building,347,0.07%,9,2,1.77%,9,1.71%,0,0.00%,4,1.28%,"4,447,440",1.03%,"1,957,226",0.18%,"6,404,666",0.43%
+,"Cooking fire, confined to",,,,,,,,,,,,,,,,,
+113,container,"1,974",0.37%,1,1,0.88%,33,6.29%,0,0.00%,7,2.24%,"883,502",0.20%,"515,068",0.05%,"1,398,570",0.09%
+,"Chimney or flue fire,",,,,,,,,,,,,,,,,,
+114,confined to chimney or,894,0.17%,1,0,0.00%,0,0.00%,0,0.00%,1,0.32%,"1,720,567",0.40%,"205,167",0.02%,"1,925,734",0.13%
+,flue,,,,,,,,,,,,,,,,,
+,Incinerator overload or,,,,,,,,,,,,,,,,,
+115,"malfunction, fire",20,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"1,100",0.00%,0,0.00%,"1,100",0.00%
+,confined,,,,,,,,,,,,,,,,,
+,Fuel burner/boiler,,,,,,,,,,,,,,,,,
+116,"malfunction, fire",181,0.03%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"28,907",0.01%,"10,986",0.00%,"39,893",0.00%
+,confined,,,,,,,,,,,,,,,,,
+,Commercial Compactor,,,,,,,,,,,,,,,,,
+117,"fire, confined to rubbish",23,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"3,025",0.00%,0,0.00%,"3,025",0.00%
+,"Trash or rubbish fire,",,,,,,,,,,,,,,,,,
+118,contained,457,0.09%,0,1,0.88%,2,0.38%,0,0.00%,6,1.92%,"110,224",0.03%,"188,068",0.02%,"298,292",0.02%
+,Fire in mobile prop.,,,,,,,,,,,,,,,,,
+120,"used as a fixed struc.,",26,0.00%,1,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"42,600",0.01%,"65,710",0.01%,"108,310",0.01%
+,other,,,,,,,,,,,,,,,,,
+,Fire in mobile home,,,,,,,,,,,,,,,,,
+121,used as fixed residence,216,0.04%,4,2,1.77%,9,1.71%,0,0.00%,14,4.47%,"1,496,181",0.35%,"617,529",0.06%,"2,113,710",0.14%
+,"Fire in motor home,",,,,,,,,,,,,,,,,,
+122,"camper, recreational",17,0.00%,0,0,0.00%,1,0.19%,0,0.00%,0,0.00%,"171,000",0.04%,"44,000",0.00%,"215,000",0.01%
+,vehicle,,,,,,,,,,,,,,,,,
+,"Fire in portable building,",,,,,,,,,,,,,,,,,
+123,fixed location,33,0.01%,3,0,0.00%,0,0.00%,0,0.00%,1,0.32%,"370,876",0.09%,"524,601",0.05%,"895,477",0.06%
+,Mobile property,,,,,,,,,,,,,,,,,
+130,"(vehicle) fire, other","1,267",0.24%,51,10,8.85%,9,1.71%,0,0.00%,3,0.96%,"4,306,613",0.99%,"234,888",0.02%,"4,541,501",0.30%
+,Page 2 of 13,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,5/24/06 8:28:46 PM,5/24/06 8:28:46 PM,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Incident Type,Incident Type,Incident Type,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/05 - 12/31/05,1/1/05 - 12/31/05,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,Passenger vehicle fire,,,,,,,,,,,,,,,,,
+131,,"3,301",0.62%,67,6,5.31%,19,3.62%,0,0.00%,10,3.19%,"8,721,703",2.01%,"956,904",0.09%,"9,678,607",0.64%
+,Road freight or transport,,,,,,,,,,,,,,,,,
+132,vehicle fire,308,0.06%,4,2,1.77%,5,0.95%,0,0.00%,1,0.32%,"2,882,456",0.67%,"712,685",0.07%,"3,595,141",0.24%
+,Rail vehicle fire,,,,,,,,,,,,,,,,,
+133,,13,0.00%,1,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"2,054,502",0.47%,"10,002",0.00%,"2,064,504",0.14%
+,Water vehicle fire,,,,,,,,,,,,,,,,,
+134,,33,0.01%,18,0,0.00%,6,1.14%,0,0.00%,0,0.00%,"1,458,550",0.34%,"88,350",0.01%,"1,546,900",0.10%
+,Aircraft fire,,,,,,,,,,,,,,,,,
+135,,3,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Self-propelled motor,,,,,,,,,,,,,,,,,
+136,home or recreational,11,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"37,400",0.01%,"9,650",0.00%,"47,050",0.00%
+,vehicle,,,,,,,,,,,,,,,,,
+,Camper or recreational,,,,,,,,,,,,,,,,,
+137,vehicle (RV) fire,35,0.01%,4,1,0.88%,0,0.00%,0,0.00%,0,0.00%,"142,100",0.03%,"19,704",0.00%,"161,804",0.01%
+,Off-road vehicle or,,,,,,,,,,,,,,,,,
+138,heavy equipment fire,158,0.03%,3,0,0.00%,0,0.00%,0,0.00%,2,0.64%,"2,708,670",0.63%,"34,013",0.00%,"2,742,683",0.18%
+,"Natural vegetation fire,",,,,,,,,,,,,,,,,,
+140,other,"1,810",0.34%,2,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"75,150",0.02%,"3,312",0.00%,"78,462",0.01%
+,"Forest, woods or",,,,,,,,,,,,,,,,,
+141,wildland fire,630,0.12%,5,0,0.00%,3,0.57%,0,0.00%,5,1.60%,"237,896",0.05%,"11,505",0.00%,"249,401",0.02%
+,"Brush, or brush and",,,,,,,,,,,,,,,,,
+142,grass mixture fire,"2,885",0.54%,10,0,0.00%,2,0.38%,0,0.00%,2,0.64%,"183,374",0.04%,"20,955",0.00%,"204,329",0.01%
+,Grass fire,,,,,,,,,,,,,,,,,
+143,,873,0.16%,5,0,0.00%,0,0.00%,0,0.00%,1,0.32%,"5,234",0.00%,"1,757",0.00%,"6,991",0.00%
+,"Outside rubbish fire,",,,,,,,,,,,,,,,,,
+150,other,"1,247",0.23%,4,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"25,324",0.01%,"1,677",0.00%,"27,001",0.00%
+,"Outside rubbish, trash",,,,,,,,,,,,,,,,,
+151,or waste fire,"1,172",0.22%,1,0,0.00%,2,0.38%,0,0.00%,0,0.00%,"46,926",0.01%,979,0.00%,"47,905",0.00%
+,Garbage dump or,,,,,,,,,,,,,,,,,
+152,sanitary landfill fire,43,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"10,001",0.00%,1,0.00%,"10,002",0.00%
+,Construction or,,,,,,,,,,,,,,,,,
+153,demolition landfill fire,59,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"1,001",0.00%,"1,001",0.00%,"2,002",0.00%
+,Page 3 of 13,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,5/24/06 8:32:20 PM,5/24/06 8:32:20 PM,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Incident Type,Incident Type,Incident Type,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/05 - 12/31/05,1/1/05 - 12/31/05,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,Dumpster or other,,,,,,,,,,,,,,,,,
+154,outside trash receptacle,959,0.18%,2,0,0.00%,0,0.00%,0,0.00%,1,0.32%,"59,654",0.01%,800,0.00%,"60,454",0.00%
+,fire,,,,,,,,,,,,,,,,,
+,Outside stationary,,,,,,,,,,,,,,,,,
+155,compactor/compacted,15,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,500,0.00%,0,0.00%,500,0.00%
+,trash fire,,,,,,,,,,,,,,,,,
+,"Special outside fire,",,,,,,,,,,,,,,,,,
+160,other,462,0.09%,5,0,0.00%,3,0.57%,0,0.00%,2,0.64%,"205,362",0.05%,"102,868",0.01%,"308,230",0.02%
+,Outside storage fire,,,,,,,,,,,,,,,,,
+161,,97,0.02%,3,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"189,290",0.04%,"293,070",0.03%,"482,360",0.03%
+,Outside equipment fire,,,,,,,,,,,,,,,,,
+162,,218,0.04%,1,0,0.00%,1,0.19%,0,0.00%,1,0.32%,"323,554",0.07%,"29,786",0.00%,"353,340",0.02%
+,Outside gas or vapor,,,,,,,,,,,,,,,,,
+163,combustion explosion,23,0.00%,0,0,0.00%,3,0.57%,0,0.00%,32,10.22%,"1,002,600",0.23%,400,0.00%,"1,003,000",0.07%
+,Outside mailbox fire,,,,,,,,,,,,,,,,,
+164,,28,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"1,345",0.00%,181,0.00%,"1,526",0.00%
+,"Cultivated vegetation,",,,,,,,,,,,,,,,,,
+170,"crop fire, other",164,0.03%,6,0,0.00%,0,0.00%,0,0.00%,1,0.32%,"78,051",0.02%,"26,250",0.00%,"104,301",0.01%
+,Cultivated grain or crop,,,,,,,,,,,,,,,,,
+171,fire,75,0.01%,2,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"21,725",0.01%,0,0.00%,"21,725",0.00%
+,Cultivated orchard or,,,,,,,,,,,,,,,,,
+172,vineyard fire,1,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Cultivated trees or,,,,,,,,,,,,,,,,,
+173,nursery stock fire,29,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"10,500",0.00%,200,0.00%,"10,700",0.00%
+,"Overpressure rupture,",,,,,,,,,,,,,,,,,
+200,"explosion, overheat",198,0.04%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"21,000",0.00%,"4,300",0.00%,"25,300",0.00%
+,other,,,,,,,,,,,,,,,,,
+,Overpressure rupture,,,,,,,,,,,,,,,,,
+210,"from steam, other",54,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Overpressure rupture of,,,,,,,,,,,,,,,,,
+211,steam pipe or pipeline,10,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Overpressure rupture of,,,,,,,,,,,,,,,,,
+212,steam boiler,6,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Steam rupture of,,,,,,,,,,,,,,,,,
+213,pressure or process,5,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,vessel,,,,,,,,,,,,,,,,,
+,Page 4 of 13,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,5/24/06 8:34:30 PM,,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Incident Type,Incident Type,Incident Type,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/05 - 12/31/05,1/1/05 - 12/31/05,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,Overpressure rupture,,,,,,,,,,,,,,,,,
+220,"from air or gas, other",143,0.03%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"1,000",0.00%,0,0.00%,"1,000",0.00%
+,Overpressure rupture of,,,,,,,,,,,,,,,,,
+221,air or gas pipe/pipeline,120,0.02%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"1,000",0.00%,"1,000",0.00%
+,Overpressure rupture of,,,,,,,,,,,,,,,,,
+222,boiler from air or gas,8,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Air or gas rupture of,,,,,,,,,,,,,,,,,
+223,pressure or process,30,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,vessel,,,,,,,,,,,,,,,,,
+,Chemical reaction,,,,,,,,,,,,,,,,,
+231,rupture of process,13,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,vessel,,,,,,,,,,,,,,,,,
+,"Explosion (no fire), other",,,,,,,,,,,,,,,,,
+240,,34,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"1,700",0.00%,500,0.00%,"2,200",0.00%
+,Munitions or bomb,,,,,,,,,,,,,,,,,
+241,explosion (no fire),6,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Blasting agent explosion,,,,,,,,,,,,,,,,,
+242,(no fire),2,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Fireworks explosion (no,,,,,,,,,,,,,,,,,
+243,fire),14,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,15,0.00%,0,0.00%,15,0.00%
+,"Excessive heat, scorch",,,,,,,,,,,,,,,,,
+251,burns with no ignition,982,0.18%,10,0,0.00%,1,0.19%,0,0.00%,0,0.00%,"34,850",0.01%,"9,086,170",0.85%,"9,121,020",0.61%
+,"Rescue, emergency",,,,,,,,,,,,,,,,,
+300,"medical call (EMS) call,","28,431",5.34%,6,1,0.88%,15,2.86%,0,0.00%,7,2.24%,"77,500",0.02%,"2,000",0.00%,"79,500",0.01%
+,other,,,,,,,,,,,,,,,,,
+,"Medical assist, assist",,,,,,,,,,,,,,,,,
+311,EMS crew,"38,292",7.19%,0,3,2.65%,5,0.95%,0,0.00%,6,1.92%,"169,500",0.04%,500,0.00%,"170,000",0.01%
+,Emergency medical,,,,,,,,,,,,,,,,,
+32,service (EMS),3,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Emergency medical,,,,,,,,,,,,,,,,,
+320,"service, other","33,089",6.21%,19,0,0.00%,1,0.19%,0,0.00%,0,0.00%,250,0.00%,0,0.00%,250,0.00%
+,(conversion only),,,,,,,,,,,,,,,,,
+,"EMS call, excluding",,,,,,,,,,,,,,,,,
+321,vehicle accident with,"194,986",36.62%,0,8,7.08%,6,1.14%,0,0.00%,24,7.67%,"9,852",0.00%,"5,650",0.00%,"15,502",0.00%
+,injury,,,,,,,,,,,,,,,,,
+,Vehicle accident with,,,,,,,,,,,,,,,,,
+322,injuries,"23,521",4.42%,0,16,14.16%,50,9.52%,0,0.00%,13,4.15%,"1,556,100",0.36%,"131,150",0.01%,"1,687,250",0.11%
+,Page 5 of 13,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,5/24/06 8:34:48 PM,5/24/06 8:34:48 PM,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Incident Type,Incident Type,Incident Type,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/05 - 12/31/05,1/1/05 - 12/31/05,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,Motor vehicle/pedestrian,,,,,,,,,,,,,,,,,
+323,accident (MV Ped),"1,489",0.28%,0,0,0.00%,2,0.38%,0,0.00%,0,0.00%,"770,000",0.18%,0,0.00%,"770,000",0.05%
+,Motor vehicle accident,,,,,,,,,,,,,,,,,
+324,with no injuries,"11,251",2.11%,0,0,0.00%,1,0.19%,0,0.00%,0,0.00%,"515,000",0.12%,"77,000",0.01%,"592,000",0.04%
+,"Lock-in (if lock out , use",,,,,,,,,,,,,,,,,
+331,511 ),909,0.17%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Search, other",,,,,,,,,,,,,,,,,
+340,,64,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Search for person on,,,,,,,,,,,,,,,,,
+341,land,75,0.01%,0,1,0.88%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Search for person in,,,,,,,,,,,,,,,,,
+342,water,47,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Search for person,,,,,,,,,,,,,,,,,
+343,underground,1,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Extrication, rescue,",,,,,,,,,,,,,,,,,
+350,other,"1,087",0.20%,0,1,0.88%,0,0.00%,0,0.00%,0,0.00%,"87,000",0.02%,"1,000",0.00%,"88,000",0.01%
+,Extrication of victim(s),,,,,,,,,,,,,,,,,
+351,from building/structure,22,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"4,000",0.00%,0,0.00%,"4,000",0.00%
+,Extrication of victim(s),,,,,,,,,,,,,,,,,
+352,from vehicle,755,0.14%,0,7,6.19%,12,2.29%,0,0.00%,5,1.60%,"324,000",0.07%,"4,000",0.00%,"328,000",0.02%
+,Removal of victim(s),,,,,,,,,,,,,,,,,
+353,from stalled elevator,"1,249",0.23%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Trench/below grade,,,,,,,,,,,,,,,,,
+354,rescue,21,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Confined space rescue,,,,,,,,,,,,,,,,,
+355,,13,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,High angle rescue,,,,,,,,,,,,,,,,,
+356,,33,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Extrication of victim(s),,,,,,,,,,,,,,,,,
+357,from machinery,39,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Water & ice related,,,,,,,,,,,,,,,,,
+360,"rescue, other",75,0.01%,0,0,0.00%,0,0.00%,0,0.00%,1,0.32%,"1,500",0.00%,0,0.00%,"1,500",0.00%
+,Page 6 of 13,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,5/24/06 9:26:47 PM,5/24/06 9:26:47 PM,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Incident Type,Incident Type,Incident Type,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/05 - 12/31/05,1/1/05 - 12/31/05,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,Swimming/recreational,,,,,,,,,,,,,,,,,
+361,water areas rescue,32,0.01%,0,1,0.88%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Ice rescue,,,,,,,,,,,,,,,,,
+362,,3,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Swift water rescue,,,,,,,,,,,,,,,,,
+363,,48,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Surf rescue,,,,,,,,,,,,,,,,,
+364,,8,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Watercraft rescue,,,,,,,,,,,,,,,,,
+365,,129,0.02%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Electrical rescue, other",,,,,,,,,,,,,,,,,
+370,,3,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Electrocution or,,,,,,,,,,,,,,,,,
+371,potential electrocution,13,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Trapped by power lines,,,,,,,,,,,,,,,,,
+372,,7,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Rescue or EMS standby,,,,,,,,,,,,,,,,,
+381,,"1,139",0.21%,0,0,0.00%,0,0.00%,0,0.00%,1,0.32%,"298,000",0.07%,"70,000",0.01%,"368,000",0.02%
+,"Hazardous condition,",,,,,,,,,,,,,,,,,
+400,other,"3,070",0.58%,1,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"148,971",0.03%,"17,600",0.00%,"166,571",0.01%
+,Flammable gas or liquid,,,,,,,,,,,,,,,,,
+410,"condition, other","1,801",0.34%,1,0,0.00%,0,0.00%,0,0.00%,1,0.32%,730,0.00%,0,0.00%,730,0.00%
+,Gasoline or other,,,,,,,,,,,,,,,,,
+411,flammable liquid spill,"1,880",0.35%,0,0,0.00%,0,0.00%,0,0.00%,1,0.32%,"141,900",0.03%,"34,122",0.00%,"176,022",0.01%
+,Gas leak (natural gas or,,,,,,,,,,,,,,,,,
+412,LPG),"3,081",0.58%,0,0,0.00%,0,0.00%,0,0.00%,1,0.32%,"2,500",0.00%,0,0.00%,"2,500",0.00%
+,Oil or other combustible,,,,,,,,,,,,,,,,,
+413,liquid spill,794,0.15%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"6,501",0.00%,620,0.00%,"7,121",0.00%
+,"Toxic condition, other",,,,,,,,,,,,,,,,,
+420,,127,0.02%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Chemical hazard (no,,,,,,,,,,,,,,,,,
+421,spill or leak),109,0.02%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Page 7 of 13,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,5/24/06 9:28:58 PM,,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Incident Type,Incident Type,Incident Type,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/05 - 12/31/05,1/1/05 - 12/31/05,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,Chemical spill or leak,,,,,,,,,,,,,,,,,
+422,,352,0.07%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"30,500",0.01%,"25,250",0.00%,"55,750",0.00%
+,Refrigeration leak,,,,,,,,,,,,,,,,,
+423,,30,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Carbon monoxide,,,,,,,,,,,,,,,,,
+424,incident,685,0.13%,0,0,0.00%,0,0.00%,0,0.00%,4,1.28%,"1,050",0.00%,0,0.00%,"1,050",0.00%
+,"Radioactive condition,",,,,,,,,,,,,,,,,,
+430,other,3,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Electrical,,,,,,,,,,,,,,,,,
+440,wiring/equipment,"2,706",0.51%,1,0,0.00%,1,0.19%,0,0.00%,2,0.64%,"88,110",0.02%,"9,857",0.00%,"97,967",0.01%
+,"problem, other",,,,,,,,,,,,,,,,,
+,Heat from short circuit,,,,,,,,,,,,,,,,,
+441,"(wiring), defective/worn",638,0.12%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"9,495",0.00%,"20,900",0.00%,"30,395",0.00%
+,Overheated motor,,,,,,,,,,,,,,,,,
+442,,574,0.11%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"3,820",0.00%,"4,825",0.00%,"8,645",0.00%
+,Light ballast breakdown,,,,,,,,,,,,,,,,,
+443,,148,0.03%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,600,0.00%,50,0.00%,650,0.00%
+,Power line down,,,,,,,,,,,,,,,,,
+444,,"3,241",0.61%,2,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"4,101",0.00%,0,0.00%,"4,101",0.00%
+,"Arcing, shorted",,,,,,,,,,,,,,,,,
+445,electrical equipment,"1,934",0.36%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"29,265",0.01%,"6,191",0.00%,"35,456",0.00%
+,"Biological hazard,",,,,,,,,,,,,,,,,,
+451,confirmed or suspected,49,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Accident, potential",,,,,,,,,,,,,,,,,
+460,"accident, other","2,115",0.40%,0,2,1.77%,5,0.95%,0,0.00%,1,0.32%,"321,775",0.07%,"35,075",0.00%,"356,850",0.02%
+,Building or structure,,,,,,,,,,,,,,,,,
+461,weakened or collapsed,190,0.04%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"51,500",0.01%,"2,200",0.00%,"53,700",0.00%
+,Aircraft standby,,,,,,,,,,,,,,,,,
+462,,670,0.13%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Vehicle accident,",,,,,,,,,,,,,,,,,
+463,general cleanup,"7,813",1.47%,0,6,5.31%,14,2.67%,0,0.00%,5,1.60%,"1,391,104",0.32%,"163,201",0.02%,"1,554,305",0.10%
+,"Explosive, bomb",,,,,,,,,,,,,,,,,
+471,removal (for bomb,76,0.01%,1,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"scare, use 721)",,,,,,,,,,,,,,,,,
+,Page 8 of 13,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,5/24/06 9:30:46 PM,,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Incident Type,Incident Type,Incident Type,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/05 - 12/31/05,1/1/05 - 12/31/05,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,"Attempted burning,",,,,,,,,,,,,,,,,,
+480,"illegal action, other",75,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,200,0.00%,0,0.00%,200,0.00%
+,Attempt to burn,,,,,,,,,,,,,,,,,
+481,,28,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,200,0.00%,0,0.00%,200,0.00%
+,Threat to burn,,,,,,,,,,,,,,,,,
+482,,32,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Service Call, other",,,,,,,,,,,,,,,,,
+500,,"6,111",1.15%,0,0,0.00%,0,0.00%,0,0.00%,1,0.32%,"11,350",0.00%,"1,000,000,299",93.46%,"1,000,011,649",66.53%
+,"Person in distress, other",,,,,,,,,,,,,,,,,
+510,,"1,881",0.35%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,150,0.00%,150,0.00%
+,Lock-out,,,,,,,,,,,,,,,,,
+511,,"2,506",0.47%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Ring or jewelry removal,,,,,,,,,,,,,,,,,
+512,,26,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Water problem, other",,,,,,,,,,,,,,,,,
+520,,934,0.18%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"92,700",0.02%,"121,000",0.01%,"213,700",0.01%
+,Water evacuation,,,,,,,,,,,,,,,,,
+521,,311,0.06%,1,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"159,800",0.04%,"2,000",0.00%,"161,800",0.01%
+,Water or steam leak,,,,,,,,,,,,,,,,,
+522,,"1,147",0.22%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"218,200",0.05%,"145,200",0.01%,"363,400",0.02%
+,Smoke or odor removal,,,,,,,,,,,,,,,,,
+531,,"2,922",0.55%,2,0,0.00%,5,0.95%,0,0.00%,0,0.00%,"29,135",0.01%,"30,050",0.00%,"59,185",0.00%
+,"Animal problem, other",,,,,,,,,,,,,,,,,
+540,,82,0.02%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Animal problem,,,,,,,,,,,,,,,,,
+541,,166,0.03%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Animal rescue,,,,,,,,,,,,,,,,,
+542,,312,0.06%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Public service,,,,,,,,,,,,,,,,,
+550,"assistance, other","3,144",0.59%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Assist police or other,,,,,,,,,,,,,,,,,
+551,governmental agency,"1,805",0.34%,0,0,0.00%,0,0.00%,0,0.00%,1,0.32%,"2,500",0.00%,0,0.00%,"2,500",0.00%
+,Page 9 of 13,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,5/24/06 9:33:45 PM,5/24/06 9:33:45 PM,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Incident Type,Incident Type,Incident Type,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/05 - 12/31/05,1/1/05 - 12/31/05,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,Police matter,,,,,,,,,,,,,,,,,
+552,,797,0.15%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Public service,,,,,,,,,,,,,,,,,
+553,,"5,890",1.11%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Assist invalid,,,,,,,,,,,,,,,,,
+554,,"1,864",0.35%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Defective elevator, no",,,,,,,,,,,,,,,,,
+555,occupants,157,0.03%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Unauthorized burning,,,,,,,,,,,,,,,,,
+561,,"1,121",0.21%,0,0,0.00%,0,0.00%,0,0.00%,1,0.32%,200,0.00%,0,0.00%,200,0.00%
+,"Cover assignment,",,,,,,,,,,,,,,,,,
+571,"standby, moveup","2,224",0.42%,1,0,0.00%,0,0.00%,0,0.00%,1,0.32%,0,0.00%,0,0.00%,0,0.00%
+,"Good intent call, other",,,,,,,,,,,,,,,,,
+600,,"14,796",2.78%,5,0,0.00%,0,0.00%,0,0.00%,2,0.64%,"4,195",0.00%,111,0.00%,"4,306",0.00%
+,Dispatched & canceled,,,,,,,,,,,,,,,,,
+611,en route,"19,570",3.68%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"18,002",0.00%,"12,001",0.00%,"30,003",0.00%
+,Wrong location,,,,,,,,,,,,,,,,,
+621,,456,0.09%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,No incident found at,,,,,,,,,,,,,,,,,
+622,dispatch address,"2,441",0.46%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Authorized controlled,,,,,,,,,,,,,,,,,
+631,burning,"1,551",0.29%,1,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Prescribed fire,,,,,,,,,,,,,,,,,
+632,,94,0.02%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Vicinity alarm (incident,,,,,,,,,,,,,,,,,
+641,in other location),836,0.16%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Steam, other gas",,,,,,,,,,,,,,,,,
+650,"mistaken for smoke,",525,0.10%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"12,600",0.00%,"6,000",0.00%,"18,600",0.00%
+,other,,,,,,,,,,,,,,,,,
+,"Smoke scare, odor of",,,,,,,,,,,,,,,,,
+651,smoke,"4,697",0.88%,0,0,0.00%,0,0.00%,0,0.00%,1,0.32%,"7,110",0.00%,"6,500",0.00%,"13,610",0.00%
+,"Steam, vapor, fog or",,,,,,,,,,,,,,,,,
+652,dust thought to be,899,0.17%,1,0,0.00%,0,0.00%,0,0.00%,0,0.00%,250,0.00%,0,0.00%,250,0.00%
+,smoke,,,,,,,,,,,,,,,,,
+,Page 10 of 13,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,5/24/06 9:37:06 PM,,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Incident Type,Incident Type,Incident Type,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/05 - 12/31/05,1/1/05 - 12/31/05,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,"Barbecue, tar kettle",,,,,,,,,,,,,,,,,
+653,,92,0.02%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"EMS call, party",,,,,,,,,,,,,,,,,
+661,transported by non-fire,738,0.14%,0,0,0.00%,0,0.00%,0,0.00%,2,0.64%,0,0.00%,0,0.00%,0,0.00%
+,agency,,,,,,,,,,,,,,,,,
+,Hazmat release,,,,,,,,,,,,,,,,,
+671,investigation w/ no,877,0.16%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"70,000",0.02%,0,0.00%,"70,000",0.00%
+,hazmat,,,,,,,,,,,,,,,,,
+,"Biological hazard, none",,,,,,,,,,,,,,,,,
+672,found,51,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"False alarm or false call,",,,,,,,,,,,,,,,,,
+700,other,"8,822",1.66%,0,0,0.00%,0,0.00%,0,0.00%,1,0.32%,100,0.00%,0,0.00%,100,0.00%
+,"Malicious, mischievous",,,,,,,,,,,,,,,,,
+710,"false call, other","1,233",0.23%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Municipal alarm system,",,,,,,,,,,,,,,,,,
+711,malicious false alarm,358,0.07%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Direct tie to FD,",,,,,,,,,,,,,,,,,
+712,malicious/false alarm,41,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Telephone, malicious",,,,,,,,,,,,,,,,,
+713,false alarm,155,0.03%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Central station,",,,,,,,,,,,,,,,,,
+714,malicious false alarm,334,0.06%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Local alarm system,",,,,,,,,,,,,,,,,,
+715,malicious false alarm,553,0.10%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,1,0.00%,1,0.00%
+,Bomb scare - no bomb,,,,,,,,,,,,,,,,,
+721,,257,0.05%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"System malfunction,",,,,,,,,,,,,,,,,,
+730,other,"5,860",1.10%,3,0,0.00%,0,0.00%,0,0.00%,1,0.32%,0,0.00%,0,0.00%,0,0.00%
+,Sprinkler activation due,,,,,,,,,,,,,,,,,
+731,to malfunction,560,0.11%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"17,000",0.00%,0,0.00%,"17,000",0.00%
+,Extinguishing system,,,,,,,,,,,,,,,,,
+732,activation due to,75,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,malfunction,,,,,,,,,,,,,,,,,
+,Smoke detector,,,,,,,,,,,,,,,,,
+733,activation due to,"3,797",0.71%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,malfunction,,,,,,,,,,,,,,,,,
+,Page 11 of 13,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,5/24/06 9:45:51 PM,,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Incident Type,Incident Type,Incident Type,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/05 - 12/31/05,1/1/05 - 12/31/05,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,Heat detector activation,,,,,,,,,,,,,,,,,
+734,due to malfunction,284,0.05%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Alarm system sounded,,,,,,,,,,,,,,,,,
+735,due to malfunction,"4,330",0.81%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,CO detector activation,,,,,,,,,,,,,,,,,
+736,due to malfunction,603,0.11%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Unintentional,,,,,,,,,,,,,,,,,
+74,system/detector,1,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,operation - no fire,,,,,,,,,,,,,,,,,
+,Unintentional,,,,,,,,,,,,,,,,,
+740,"transmission of alarm,","4,638",0.87%,1,0,0.00%,1,0.19%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,other,,,,,,,,,,,,,,,,,
+,"Sprinkler activation, no",,,,,,,,,,,,,,,,,
+741,fire - unintentional,652,0.12%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"116,500",0.03%,"26,000",0.00%,"142,500",0.01%
+,Extinguishing system,,,,,,,,,,,,,,,,,
+742,activation,54,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"3,000",0.00%,"3,000",0.00%
+,Smoke detector,,,,,,,,,,,,,,,,,
+743,"activation, no fire -","5,813",1.09%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,200,0.00%,200,0.00%
+,unintentional,,,,,,,,,,,,,,,,,
+,"Detector activation, no",,,,,,,,,,,,,,,,,
+744,fire - unintentional,"2,670",0.50%,0,0,0.00%,0,0.00%,0,0.00%,1,0.32%,0,0.00%,0,0.00%,0,0.00%
+,"Alarm system sounded,",,,,,,,,,,,,,,,,,
+745,no fire - unintentional,"6,426",1.21%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Carbon monoxide,,,,,,,,,,,,,,,,,
+746,"detector activation, no",385,0.07%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,CO,,,,,,,,,,,,,,,,,
+,"Biological hazard,",,,,,,,,,,,,,,,,,
+751,malicious false report,9,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Severe weather or,,,,,,,,,,,,,,,,,
+800,"natural disaster, other",134,0.03%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"20,000",0.00%,"10,000",0.00%,"30,000",0.00%
+,Flood assessment,,,,,,,,,,,,,,,,,
+812,,28,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Wind storm,",,,,,,,,,,,,,,,,,
+813,tornado/hurricane,79,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"80,000",0.02%,"50,000",0.00%,"130,000",0.01%
+,assessment,,,,,,,,,,,,,,,,,
+,Lightning strike (no fire),,,,,,,,,,,,,,,,,
+814,,251,0.05%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"56,250",0.01%,"3,000",0.00%,"59,250",0.00%
+,Page 12 of 13,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,5/24/06 9:48:21 PM,5/24/06 9:48:21 PM,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Incident Type,Incident Type,Incident Type,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/05 - 12/31/05,1/1/05 - 12/31/05,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,Severe weather or,,,,,,,,,,,,,,,,,
+815,natural disaster standby,11,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Special type of incident,",,,,,,,,,,,,,,,,,
+900,other,"4,332",0.81%,2,0,0.00%,3,0.57%,0,0.00%,7,2.24%,"86,000",0.02%,"2,500",0.00%,"88,500",0.01%
+,Citizen complaint,,,,,,,,,,,,,,,,,
+911,,832,0.16%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Undetermined incident,,,,,,,,,,,,,,,,,
+UUU,type (conversion only),142,0.03%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"900,000",0.21%,0,0.00%,"900,000",0.06%
+Totals,,"532,436",100.00%,436,113,100.00%,525,100.00%,0,100.00%,313,100.00%,"433,165,759 100.00%","433,165,759 100.00%","1,069,923,168",100.00%,"1,503,088,927",100.00%
+Mutual Aid Given Incidents,Mutual Aid Given Incidents,"34,220",,,,,,,,,,,,,,,,
+,Page 13 of 13,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,5/24/06 9:50:51 PM,5/24/06 9:50:51 PM,

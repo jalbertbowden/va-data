@@ -1,0 +1,46 @@
+Name: “Table 1 of 1 on page 2 of 13”,Name: “Table 1 of 1 on page 2 of 13”,Name: “Table 1 of 1 on page 2 of 13”,Name: “Table 1 of 1 on page 2 of 13”,Name: “Table 1 of 1 on page 2 of 13”,Name: “Table 1 of 1 on page 2 of 13”,Name: “Table 1 of 1 on page 2 of 13”,Name: “Table 1 of 1 on page 2 of 13”,Name: “Table 1 of 1 on page 2 of 13”,Name: “Table 1 of 1 on page 2 of 13”,Name: “Table 1 of 1 on page 2 of 13”,Name: “Table 1 of 1 on page 2 of 13”,Name: “Table 1 of 1 on page 2 of 13”,Name: “Table 1 of 1 on page 2 of 13”,Name: “Table 1 of 1 on page 2 of 13”,Name: “Table 1 of 1 on page 2 of 13”,Name: “Table 1 of 1 on page 2 of 13”,Name: “Table 1 of 1 on page 2 of 13”,Name: “Table 1 of 1 on page 2 of 13”
+Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2
+,,,,,,,,,,,,,,,,,,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Incident Type,Incident Type,Incident Type,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/05 - 12/31/05,1/1/05 - 12/31/05,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,"Fire, other",,,,,,,,,,,,,,,,,
+10,,1,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Fire, other",,,,,,,,,,,,,,,,,
+100,,"1,658",0.31%,14,2,1.77%,23,4.38%,0,0.00%,2,0.64%,"2,670,399",0.62%,"210,440",0.02%,"2,880,839",0.19%
+,"Structure fire, other",,,,,,,,,,,,,,,,,
+110,(conversion only),"1,212",0.23%,56,6,5.31%,82,15.62%,0,0.00%,20,6.39%,"280,918,388",64.85%,"27,790",0.00%,"280,946,178",18.69%
+,Building fires,,,,,,,,,,,,,,,,,
+111,,"4,036",0.76%,95,34,30.09%,191,36.38%,0,0.00%,106,33.87%,"107,506,588",24.82%,"52,874,472",4.94%,"160,381,060",10.67%
+,Fires in structures other,,,,,,,,,,,,,,,,,
+112,than in a building,347,0.07%,9,2,1.77%,9,1.71%,0,0.00%,4,1.28%,"4,447,440",1.03%,"1,957,226",0.18%,"6,404,666",0.43%
+,"Cooking fire, confined to",,,,,,,,,,,,,,,,,
+113,container,"1,974",0.37%,1,1,0.88%,33,6.29%,0,0.00%,7,2.24%,"883,502",0.20%,"515,068",0.05%,"1,398,570",0.09%
+,"Chimney or flue fire,",,,,,,,,,,,,,,,,,
+114,confined to chimney or,894,0.17%,1,0,0.00%,0,0.00%,0,0.00%,1,0.32%,"1,720,567",0.40%,"205,167",0.02%,"1,925,734",0.13%
+,flue,,,,,,,,,,,,,,,,,
+,Incinerator overload or,,,,,,,,,,,,,,,,,
+115,"malfunction, fire",20,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"1,100",0.00%,0,0.00%,"1,100",0.00%
+,confined,,,,,,,,,,,,,,,,,
+,Fuel burner/boiler,,,,,,,,,,,,,,,,,
+116,"malfunction, fire",181,0.03%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"28,907",0.01%,"10,986",0.00%,"39,893",0.00%
+,confined,,,,,,,,,,,,,,,,,
+,Commercial Compactor,,,,,,,,,,,,,,,,,
+117,"fire, confined to rubbish",23,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"3,025",0.00%,0,0.00%,"3,025",0.00%
+,"Trash or rubbish fire,",,,,,,,,,,,,,,,,,
+118,contained,457,0.09%,0,1,0.88%,2,0.38%,0,0.00%,6,1.92%,"110,224",0.03%,"188,068",0.02%,"298,292",0.02%
+,Fire in mobile prop.,,,,,,,,,,,,,,,,,
+120,"used as a fixed struc.,",26,0.00%,1,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"42,600",0.01%,"65,710",0.01%,"108,310",0.01%
+,other,,,,,,,,,,,,,,,,,
+,Fire in mobile home,,,,,,,,,,,,,,,,,
+121,used as fixed residence,216,0.04%,4,2,1.77%,9,1.71%,0,0.00%,14,4.47%,"1,496,181",0.35%,"617,529",0.06%,"2,113,710",0.14%
+,"Fire in motor home,",,,,,,,,,,,,,,,,,
+122,"camper, recreational",17,0.00%,0,0,0.00%,1,0.19%,0,0.00%,0,0.00%,"171,000",0.04%,"44,000",0.00%,"215,000",0.01%
+,vehicle,,,,,,,,,,,,,,,,,
+,"Fire in portable building,",,,,,,,,,,,,,,,,,
+123,fixed location,33,0.01%,3,0,0.00%,0,0.00%,0,0.00%,1,0.32%,"370,876",0.09%,"524,601",0.05%,"895,477",0.06%
+,Mobile property,,,,,,,,,,,,,,,,,
+130,"(vehicle) fire, other","1,267",0.24%,51,10,8.85%,9,1.71%,0,0.00%,3,0.96%,"4,306,613",0.99%,"234,888",0.02%,"4,541,501",0.30%
+,Page 2 of 13,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,5/24/06 8:28:46 PM,5/24/06 8:28:46 PM,

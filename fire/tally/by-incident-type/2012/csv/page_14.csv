@@ -1,0 +1,35 @@
+Name: “Table 1 of 1 on page 14 of 18”,Name: “Table 1 of 1 on page 14 of 18”,Name: “Table 1 of 1 on page 14 of 18”,Name: “Table 1 of 1 on page 14 of 18”,Name: “Table 1 of 1 on page 14 of 18”,Name: “Table 1 of 1 on page 14 of 18”,Name: “Table 1 of 1 on page 14 of 18”,Name: “Table 1 of 1 on page 14 of 18”,Name: “Table 1 of 1 on page 14 of 18”,Name: “Table 1 of 1 on page 14 of 18”,Name: “Table 1 of 1 on page 14 of 18”,Name: “Table 1 of 1 on page 14 of 18”,Name: “Table 1 of 1 on page 14 of 18”,Name: “Table 1 of 1 on page 14 of 18”,Name: “Table 1 of 1 on page 14 of 18”,Name: “Table 1 of 1 on page 14 of 18”,Name: “Table 1 of 1 on page 14 of 18”,Name: “Table 1 of 1 on page 14 of 18”,Name: “Table 1 of 1 on page 14 of 18”
+Table: 14,Table: 14,Table: 14,Table: 14,Table: 14,Table: 14,Table: 14,Table: 14,Table: 14,Table: 14,Table: 14,Table: 14,Table: 14,Table: 14,Table: 14,Table: 14,Table: 14,Table: 14,Table: 14
+,,,,,,,,,,,,,,,,,,
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+561,Unauthorized burning,"1,948",0.26 %,0,0,0.00 %,2,0.32 %,0,0.00 %,1,0.14 %,966,0.00 %,17,0.00 %,983,0.00 %
+,"Cover assignment,",,,,,,,,,,,,,,,,,
+571,,"1,110",0.15 %,0,0,0.00 %,0,0.00 %,0,0.00 %,6,0.87 %,0,0.00 %,0,0.00 %,0,0.00 %
+,"standby, moveup",,,,,,,,,,,,,,,,,
+600,"Good intent call, other","11,468",1.53 %,0,0,0.00 %,0,0.00 %,0,0.00 %,1,0.14 %,"8,500",0.00 %,"1,220",0.00 %,"9,720",0.00 %
+,Dispatched and canceled,,,,,,,,,,,,,,,,,
+61,,1,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,enroute,,,,,,,,,,,,,,,,,
+,Dispatched & canceled,,,,,,,,,,,,,,,,,
+611,,"45,339",6.06 %,1,0,0.00 %,0,0.00 %,0,0.00 %,4,0.58 %,"108,302",0.05 %,"28,127",0.04 %,"136,429",0.05 %
+,en route,,,,,,,,,,,,,,,,,
+621,Wrong location,238,0.03 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,No incident found at,,,,,,,,,,,,,,,,,
+622,,"6,562",0.88 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,dispatch address,,,,,,,,,,,,,,,,,
+,Authorized controlled,,,,,,,,,,,,,,,,,
+631,,"1,976",0.26 %,0,0,0.00 %,1,0.16 %,0,0.00 %,0,0.00 %,"1,500",0.00 %,0,0.00 %,"1,500",0.00 %
+,burning,,,,,,,,,,,,,,,,,
+632,Prescribed fire,103,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,Vicinity alarm (incident in,,,,,,,,,,,,,,,,,
+641,,131,0.02 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,500,0.00 %,0,0.00 %,500,0.00 %
+,other location),,,,,,,,,,,,,,,,,
+,"Steam, other gas",,,,,,,,,,,,,,,,,
+650,"mistaken for smoke,",359,0.05 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,other,,,,,,,,,,,,,,,,,
+,Page 14 of 18,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Thu Mar 14 07:40:29 EDT 2013,Thu Mar 14 07:40:29 EDT 2013,Thu Mar 14 07:40:29 EDT 2013

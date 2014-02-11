@@ -1,0 +1,542 @@
+Tally,,,Created by: Dwight Crews (VA)
+Report Parameters:,,,
+Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,,
+Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,
+State: VA,Version: All,Status: All,Released: All
+Report Filters:,,,
+,"NOTE: Report Filter Groups are applied to the report SQL as ""AND"" conditions (i.e. Group 1 AND Group2 and Group 3 etc...)","NOTE: Report Filter Groups are applied to the report SQL as ""AND"" conditions (i.e. Group 1 AND Group2 and Group 3 etc...)","NOTE: Report Filter Groups are applied to the report SQL as ""AND"" conditions (i.e. Group 1 AND Group2 and Group 3 etc...)"
+Report FDIDs*: All,,,
+,,*Data from deactivated fire depts within the list was not included in the report.,*Data from deactivated fire depts within the list was not included in the report.
+Page 1 of 18,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,Thu Mar 08 08:45:59 EST 2012
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+100,"Fire, other","1,054",0.15 %,9,0,0.00 %,25,4.07 %,0,0.00 %,1,0.16 %,"1,959,972",1.04 %,"774,765",1.18 %,"2,734,737",1.08 %
+,"Structure fire, other",,,,,,,,,,,,,,,,,
+110,,1,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"30,000",0.02 %,"20,000",0.03 %,"50,000",0.02 %
+,(conversion only),,,,,,,,,,,,,,,,,
+111,Building fires,"5,054",0.74 %,172,41,35.96 %,318,51.71 %,0,0.00 %,221,35.47 %,"120,328,235",63.95 %,"54,208,079",82.32 %,"174,536,314",68.71 %
+,Fires in structures other,,,,,,,,,,,,,,,,,
+112,than in a building,282,0.04 %,9,0,0.00 %,2,0.33 %,0,0.00 %,5,0.80 %,"2,006,387",1.07 %,"886,283",1.35 %,"2,892,670",1.14 %
+,"Cooking fire, confined to",,,,,,,,,,,,,,,,,
+113,,"2,553",0.37 %,1,0,0.00 %,67,10.89 %,0,0.00 %,3,0.48 %,"518,524",0.28 %,"1,251,530",1.90 %,"1,770,054",0.70 %
+,container,,,,,,,,,,,,,,,,,
+,"Chimney or flue fire,",,,,,,,,,,,,,,,,,
+114,confined to chimney or,965,0.14 %,0,0,0.00 %,4,0.65 %,0,0.00 %,3,0.48 %,"149,060",0.08 %,"44,872",0.07 %,"193,932",0.08 %
+,flue,,,,,,,,,,,,,,,,,
+,Incinerator overload or,,,,,,,,,,,,,,,,,
+115,"malfunction, fire confined",25,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,600,0.00 %,"2,101",0.00 %,"2,701",0.00 %
+,Fuel burner/boiler,,,,,,,,,,,,,,,,,
+116,"malfunction, fire confined",142,0.02 %,0,0,0.00 %,2,0.33 %,0,0.00 %,2,0.32 %,"64,126",0.03 %,"40,272",0.06 %,"104,398",0.04 %
+,Commercial Compactor,,,,,,,,,,,,,,,,,
+117,"fire, confined to rubbish",29,0.00 %,0,0,0.00 %,1,0.16 %,0,0.00 %,0,0.00 %,"4,700",0.00 %,"5,750",0.01 %,"10,450",0.00 %
+,"Trash or rubbish fire,",,,,,,,,,,,,,,,,,
+118,,501,0.07 %,1,0,0.00 %,2,0.33 %,0,0.00 %,0,0.00 %,"28,504",0.02 %,"26,795",0.04 %,"55,299",0.02 %
+,contained,,,,,,,,,,,,,,,,,
+,Fire in mobile prop. used,,,,,,,,,,,,,,,,,
+120,"as a fixed struc., other",18,0.00 %,1,1,0.88 %,0,0.00 %,0,0.00 %,0,0.00 %,"176,800",0.09 %,"119,150",0.18 %,"295,950",0.12 %
+,Page 2 of 18,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Thu Mar 08 08:46:00 EST 2012,Thu Mar 08 08:46:00 EST 2012,Thu Mar 08 08:46:00 EST 2012
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,Fire in mobile home used,,,,,,,,,,,,,,,,,
+121,as fixed residence,184,0.03 %,9,2,1.75 %,13,2.11 %,0,0.00 %,6,0.96 %,"1,653,605",0.88 %,"675,062",1.03 %,"2,328,667",0.92 %
+,"Fire in motor home,",,,,,,,,,,,,,,,,,
+122,"camper, recreational",34,0.00 %,4,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"238,100",0.13 %,"108,200",0.16 %,"346,300",0.14 %
+,vehicle,,,,,,,,,,,,,,,,,
+,"Fire in portable building,",,,,,,,,,,,,,,,,,
+123,,20,0.00 %,0,0,0.00 %,1,0.16 %,0,0.00 %,1,0.16 %,"99,100",0.05 %,"24,850",0.04 %,"123,950",0.05 %
+,fixed location,,,,,,,,,,,,,,,,,
+,Mobile property (vehicle),,,,,,,,,,,,,,,,,
+130,,526,0.08 %,14,1,0.88 %,3,0.49 %,0,0.00 %,0,0.00 %,"1,240,484",0.66 %,"191,241",0.29 %,"1,431,725",0.56 %
+,"fire, other",,,,,,,,,,,,,,,,,
+131,Passenger vehicle fire,"3,093",0.45 %,84,9,7.89 %,16,2.60 %,0,0.00 %,5,0.80 %,"9,143,292",4.86 %,"1,002,043",1.52 %,"10,145,335",3.99 %
+,Road freight or transport,,,,,,,,,,,,,,,,,
+132,,394,0.06 %,5,0,0.00 %,1,0.16 %,0,0.00 %,2,0.32 %,"4,799,288",2.55 %,"1,943,554",2.95 %,"6,742,842",2.65 %
+,vehicle fire,,,,,,,,,,,,,,,,,
+133,Rail vehicle fire,9,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"27,600",0.01 %,100,0.00 %,"27,700",0.01 %
+134,Water vehicle fire,37,0.01 %,2,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"152,300",0.08 %,"64,250",0.10 %,"216,550",0.09 %
+135,Aircraft fire,11,0.00 %,0,2,1.75 %,3,0.49 %,0,0.00 %,1,0.16 %,"795,800",0.42 %,"500,501",0.76 %,"1,296,301",0.51 %
+,Self-propelled motor,,,,,,,,,,,,,,,,,
+136,home or recreational,11,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"93,300",0.05 %,650,0.00 %,"93,950",0.04 %
+,vehicle,,,,,,,,,,,,,,,,,
+,Camper or recreational,,,,,,,,,,,,,,,,,
+137,,34,0.00 %,1,0,0.00 %,0,0.00 %,0,0.00 %,1,0.16 %,"423,620",0.23 %,"83,452",0.13 %,"507,072",0.20 %
+,vehicle (RV) fire,,,,,,,,,,,,,,,,,
+,Page 3 of 18,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Thu Mar 08 08:46:01 EST 2012,Thu Mar 08 08:46:01 EST 2012,Thu Mar 08 08:46:01 EST 2012
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,Off-road vehicle or heavy,,,,,,,,,,,,,,,,,
+138,,178,0.03 %,7,0,0.00 %,1,0.16 %,0,0.00 %,3,0.48 %,"5,712,230",3.04 %,"118,722",0.18 %,"5,830,952",2.30 %
+,equipment fire,,,,,,,,,,,,,,,,,
+,"Natural vegetation fire,",,,,,,,,,,,,,,,,,
+140,,877,0.13 %,0,0,0.00 %,0,0.00 %,0,0.00 %,1,0.16 %,"18,397",0.01 %,"3,012",0.00 %,"21,409",0.01 %
+,other,,,,,,,,,,,,,,,,,
+,"Forest, woods or wildland",,,,,,,,,,,,,,,,,
+141,,817,0.12 %,2,0,0.00 %,2,0.33 %,0,0.00 %,9,1.44 %,"967,179",0.51 %,"146,077",0.22 %,"1,113,256",0.44 %
+,fire,,,,,,,,,,,,,,,,,
+,"Brush, or brush and",,,,,,,,,,,,,,,,,
+142,,"3,855",0.56 %,17,0,0.00 %,2,0.33 %,0,0.00 %,12,1.93 %,"24,210,851",12.87 %,"156,821",0.24 %,"24,367,672",9.59 %
+,grass mixture fire,,,,,,,,,,,,,,,,,
+143,Grass fire,"1,097",0.16 %,3,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"247,315",0.13 %,"5,795",0.01 %,"253,110",0.10 %
+,"Outside rubbish fire,",,,,,,,,,,,,,,,,,
+150,,786,0.11 %,1,0,0.00 %,2,0.33 %,0,0.00 %,0,0.00 %,"163,628",0.09 %,"59,763",0.09 %,"223,391",0.09 %
+,other,,,,,,,,,,,,,,,,,
+,"Outside rubbish, trash or",,,,,,,,,,,,,,,,,
+151,,"1,365",0.20 %,4,0,0.00 %,5,0.81 %,0,0.00 %,0,0.00 %,"167,615",0.09 %,"18,701",0.03 %,"186,316",0.07 %
+,waste fire,,,,,,,,,,,,,,,,,
+,Garbage dump or,,,,,,,,,,,,,,,,,
+152,,37,0.01 %,1,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,1,0.00 %,1,0.00 %,2,0.00 %
+,sanitary landfill fire,,,,,,,,,,,,,,,,,
+,Construction or,,,,,,,,,,,,,,,,,
+153,,49,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"1,051",0.00 %,"1,051",0.00 %,"2,102",0.00 %
+,demolition landfill fire,,,,,,,,,,,,,,,,,
+,Dumpster or other,,,,,,,,,,,,,,,,,
+154,outside trash receptacle,930,0.14 %,3,0,0.00 %,2,0.33 %,0,0.00 %,0,0.00 %,"74,328",0.04 %,"15,347",0.02 %,"89,675",0.04 %
+,fire,,,,,,,,,,,,,,,,,
+,Outside stationary,,,,,,,,,,,,,,,,,
+155,compactor/compacted,16,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"1,000",0.00 %,"2,000",0.00 %,"3,000",0.00 %
+,trash fire,,,,,,,,,,,,,,,,,
+,Page 4 of 18,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Thu Mar 08 08:46:02 EST 2012,Thu Mar 08 08:46:02 EST 2012,Thu Mar 08 08:46:02 EST 2012
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,"Special outside fire, other",,,,,,,,,,,,,,,,,
+160,,631,0.09 %,7,0,0.00 %,4,0.65 %,0,0.00 %,0,0.00 %,"199,240",0.11 %,"32,637",0.05 %,"231,877",0.09 %
+161,Outside storage fire,127,0.02 %,6,0,0.00 %,0,0.00 %,0,0.00 %,5,0.80 %,"218,726",0.12 %,"408,221",0.62 %,"626,947",0.25 %
+162,Outside equipment fire,381,0.06 %,3,0,0.00 %,2,0.33 %,0,0.00 %,1,0.16 %,"649,327",0.35 %,"75,940",0.12 %,"725,267",0.29 %
+,Outside gas or vapor,,,,,,,,,,,,,,,,,
+163,,19,0.00 %,0,0,0.00 %,1,0.16 %,0,0.00 %,0,0.00 %,"18,501",0.01 %,"1,001",0.00 %,"19,502",0.01 %
+,combustion explosion,,,,,,,,,,,,,,,,,
+164,Outside mailbox fire,18,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"1,175",0.00 %,600,0.00 %,"1,775",0.00 %
+,"Cultivated vegetation,",,,,,,,,,,,,,,,,,
+170,,54,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,1,0.16 %,"3,741",0.00 %,576,0.00 %,"4,317",0.00 %
+,"crop fire, other",,,,,,,,,,,,,,,,,
+,Cultivated grain or crop,,,,,,,,,,,,,,,,,
+171,,39,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"144,624",0.08 %,"150,144",0.23 %,"294,768",0.12 %
+,fire,,,,,,,,,,,,,,,,,
+,Cultivated trees or,,,,,,,,,,,,,,,,,
+173,,33,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"1,276",0.00 %,76,0.00 %,"1,352",0.00 %
+,nursery stock fire,,,,,,,,,,,,,,,,,
+,"Overpressure rupture,",,,,,,,,,,,,,,,,,
+200,"explosion, overheat other",111,0.02 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"5,000",0.00 %,0,0.00 %,"5,000",0.00 %
+,Overpressure rupture,,,,,,,,,,,,,,,,,
+210,,26,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,"from steam, other",,,,,,,,,,,,,,,,,
+,Overpressure rupture of,,,,,,,,,,,,,,,,,
+211,steam pipe or pipeline,18,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,200,0.00 %,0,0.00 %,200,0.00 %
+,Page 5 of 18,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Thu Mar 08 08:46:02 EST 2012,Thu Mar 08 08:46:02 EST 2012,Thu Mar 08 08:46:02 EST 2012
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,Overpressure rupture of,,,,,,,,,,,,,,,,,
+212,,9,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"40,000",0.02 %,"15,000",0.02 %,"55,000",0.02 %
+,steam boiler,,,,,,,,,,,,,,,,,
+,Steam rupture of,,,,,,,,,,,,,,,,,
+213,pressure or process,7,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,vessel,,,,,,,,,,,,,,,,,
+,Overpressure rupture,,,,,,,,,,,,,,,,,
+220,,55,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,"from air or gas, other",,,,,,,,,,,,,,,,,
+,Overpressure rupture of,,,,,,,,,,,,,,,,,
+221,air or gas pipe/pipeline,88,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"5,000",0.00 %,"5,000",0.01 %,"10,000",0.00 %
+,Overpressure rupture of,,,,,,,,,,,,,,,,,
+222,boiler from air or gas,2,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,Air or gas rupture of,,,,,,,,,,,,,,,,,
+223,pressure or process,29,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,vessel,,,,,,,,,,,,,,,,,
+,Chemical reaction,,,,,,,,,,,,,,,,,
+231,rupture of process vessel,24,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,"Explosion (no fire), other",,,,,,,,,,,,,,,,,
+240,,57,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,1,0.16 %,"47,075",0.03 %,"5,800",0.01 %,"52,875",0.02 %
+,Munitions or bomb,,,,,,,,,,,,,,,,,
+241,,10,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,100,0.00 %,0,0.00 %,100,0.00 %
+,explosion (no fire),,,,,,,,,,,,,,,,,
+,Blasting agent explosion,,,,,,,,,,,,,,,,,
+242,,2,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,(no fire),,,,,,,,,,,,,,,,,
+,Fireworks explosion (no,,,,,,,,,,,,,,,,,
+243,,96,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,60,0.00 %,0,0.00 %,60,0.00 %
+,fire),,,,,,,,,,,,,,,,,
+,Page 6 of 18,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Thu Mar 08 08:46:02 EST 2012,Thu Mar 08 08:46:02 EST 2012,Thu Mar 08 08:46:02 EST 2012
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,"Excessive heat, scorch",,,,,,,,,,,,,,,,,
+251,,992,0.14 %,1,0,0.00 %,1,0.16 %,0,0.00 %,0,0.00 %,"35,157",0.02 %,"13,224",0.02 %,"48,381",0.02 %
+,burns with no ignition,,,,,,,,,,,,,,,,,
+,"Rescue, emergency",,,,,,,,,,,,,,,,,
+300,"medical call (EMS) call,","18,132",2.65 %,0,3,2.63 %,3,0.49 %,0,0.00 %,0,0.00 %,"29,000",0.02 %,0,0.00 %,"29,000",0.01 %
+,other,,,,,,,,,,,,,,,,,
+,"Medical assist, assist",,,,,,,,,,,,,,,,,
+311,,"40,482",5.91 %,1,2,1.75 %,7,1.14 %,0,0.00 %,3,0.48 %,"405,500",0.22 %,100,0.00 %,"405,600",0.16 %
+,EMS crew,,,,,,,,,,,,,,,,,
+,Emergency medical,,,,,,,,,,,,,,,,,
+320,,517,0.08 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,"service, other",,,,,,,,,,,,,,,,,
+,"EMS call, excluding",,,,,,,,,,,,,,,,,
+,,"340,249",,,,,,,,100.00,,,,,,,,
+321,vehicle accident with,,49.70 %,1,6,5.26 %,5,0.81 %,1,,189,30.34 %,"6,351",0.00 %,1,0.00 %,"6,352",0.00 %
+,,,,,,,,,,%,,,,,,,,
+,injury,,,,,,,,,,,,,,,,,
+,Vehicle accident with,,,,,,,,,,,,,,,,,
+322,,"28,417",4.15 %,0,24,21.05 %,69,11.22 %,0,0.00 %,20,3.21 %,"1,736,751",0.92 %,"131,500",0.20 %,"1,868,251",0.74 %
+,injuries,,,,,,,,,,,,,,,,,
+,Motor vehicle/pedestrian,,,,,,,,,,,,,,,,,
+323,accident (MV Ped),"1,922",0.28 %,0,3,2.63 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,Motor vehicle accident,,,,,,,,,,,,,,,,,
+324,,"16,629",2.43 %,0,0,0.00 %,0,0.00 %,0,0.00 %,5,0.80 %,"1,501,802",0.80 %,"92,700",0.14 %,"1,594,502",0.63 %
+,with no injuries,,,,,,,,,,,,,,,,,
+,"Lock-in (if lock out , use",,,,,,,,,,,,,,,,,
+331,,564,0.08 %,0,0,0.00 %,0,0.00 %,0,0.00 %,2,0.32 %,305,0.00 %,0,0.00 %,305,0.00 %
+,511 ),,,,,,,,,,,,,,,,,
+340,"Search, other",27,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,Search for person on,,,,,,,,,,,,,,,,,
+341,,107,0.02 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,land,,,,,,,,,,,,,,,,,
+,Page 7 of 18,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Thu Mar 08 09:17:25 EST 2012,Thu Mar 08 09:17:25 EST 2012,Thu Mar 08 09:17:25 EST 2012
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,Search for person in,,,,,,,,,,,,,,,,,
+342,,70,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,water,,,,,,,,,,,,,,,,,
+,"Extrication, rescue, other",,,,,,,,,,,,,,,,,
+350,,172,0.03 %,0,0,0.00 %,1,0.16 %,0,0.00 %,0,0.00 %,"1,000",0.00 %,0,0.00 %,"1,000",0.00 %
+,Extrication of victim(s),,,,,,,,,,,,,,,,,
+351,from building/structure,60,0.01 %,0,0,0.00 %,1,0.16 %,0,0.00 %,0,0.00 %,"55,000",0.03 %,"6,500",0.01 %,"61,500",0.02 %
+,Extrication of victim(s),,,,,,,,,,,,,,,,,
+352,,786,0.11 %,0,12,10.53 %,16,2.60 %,0,0.00 %,6,0.96 %,"806,435",0.43 %,"63,225",0.10 %,"869,660",0.34 %
+,from vehicle,,,,,,,,,,,,,,,,,
+,Removal of victim(s) from,,,,,,,,,,,,,,,,,
+353,,"1,812",0.26 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,stalled elevator,,,,,,,,,,,,,,,,,
+,Trench/below grade,,,,,,,,,,,,,,,,,
+354,,18,0.00 %,0,1,0.88 %,0,0.00 %,0,0.00 %,2,0.32 %,0,0.00 %,0,0.00 %,0,0.00 %
+,rescue,,,,,,,,,,,,,,,,,
+355,Confined space rescue,20,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+356,High angle rescue,31,0.00 %,0,1,0.88 %,1,0.16 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,Extrication of victim(s),,,,,,,,,,,,,,,,,
+357,,46,0.01 %,0,0,0.00 %,1,0.16 %,0,0.00 %,0,0.00 %,800,0.00 %,0,0.00 %,800,0.00 %
+,from machinery,,,,,,,,,,,,,,,,,
+,Water & ice related,,,,,,,,,,,,,,,,,
+360,,146,0.02 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,"rescue, other",,,,,,,,,,,,,,,,,
+,Swimming/recreational,,,,,,,,,,,,,,,,,
+361,,58,0.01 %,0,2,1.75 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,water areas rescue,,,,,,,,,,,,,,,,,
+,Page 8 of 18,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Thu Mar 08 09:25:16 EST 2012,Thu Mar 08 09:25:16 EST 2012,Thu Mar 08 09:25:16 EST 2012
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+362,Ice rescue,4,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+363,Swift water rescue,179,0.03 %,0,0,0.00 %,0,0.00 %,0,0.00 %,3,0.48 %,300,0.00 %,0,0.00 %,300,0.00 %
+364,Surf rescue,8,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+365,Watercraft rescue,156,0.02 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+370,"Electrical rescue, other",11,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,Electrocution or potential,,,,,,,,,,,,,,,,,
+371,,11,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,electrocution,,,,,,,,,,,,,,,,,
+,Trapped by power lines,,,,,,,,,,,,,,,,,
+372,,9,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+381,Rescue or EMS standby,"1,359",0.20 %,0,1,0.88 %,1,0.16 %,0,0.00 %,0,0.00 %,"44,800",0.02 %,"2,000",0.00 %,"46,800",0.02 %
+,"Hazardous condition,",,,,,,,,,,,,,,,,,
+400,,"2,022",0.30 %,0,0,0.00 %,1,0.16 %,0,0.00 %,0,0.00 %,"104,501",0.06 %,"18,561",0.03 %,"123,062",0.05 %
+,other,,,,,,,,,,,,,,,,,
+,Flammable gas or liquid,,,,,,,,,,,,,,,,,
+410,,371,0.05 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,500,0.00 %,0,0.00 %,500,0.00 %
+,"condition, other",,,,,,,,,,,,,,,,,
+,Gasoline or other,,,,,,,,,,,,,,,,,
+411,,"1,522",0.22 %,0,0,0.00 %,0,0.00 %,0,0.00 %,1,0.16 %,"16,725",0.01 %,"5,295",0.01 %,"22,020",0.01 %
+,flammable liquid spill,,,,,,,,,,,,,,,,,
+,Page 9 of 18,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Thu Mar 08 09:25:17 EST 2012,Thu Mar 08 09:25:17 EST 2012,Thu Mar 08 09:25:17 EST 2012
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,Gas leak (natural gas or,,,,,,,,,,,,,,,,,
+412,,"4,390",0.64 %,0,0,0.00 %,0,0.00 %,0,0.00 %,7,1.12 %,"2,450",0.00 %,"1,100",0.00 %,"3,550",0.00 %
+,LPG),,,,,,,,,,,,,,,,,
+,Oil or other combustible,,,,,,,,,,,,,,,,,
+413,,659,0.10 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"3,000",0.00 %,0,0.00 %,"3,000",0.00 %
+,liquid spill,,,,,,,,,,,,,,,,,
+420,"Toxic condition, other",59,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,6,0.96 %,0,0.00 %,0,0.00 %,0,0.00 %
+,Chemical hazard (no spill,,,,,,,,,,,,,,,,,
+421,,120,0.02 %,0,0,0.00 %,0,0.00 %,0,0.00 %,8,1.28 %,0,0.00 %,0,0.00 %,0,0.00 %
+,or leak),,,,,,,,,,,,,,,,,
+422,Chemical spill or leak,312,0.05 %,0,0,0.00 %,3,0.49 %,0,0.00 %,2,0.32 %,1,0.00 %,151,0.00 %,152,0.00 %
+423,Refrigeration leak,34,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"1,000",0.00 %,"10,500",0.02 %,"11,500",0.00 %
+,Carbon monoxide,,,,,,,,,,,,,,,,,
+424,,"1,029",0.15 %,0,0,0.00 %,2,0.33 %,0,0.00 %,1,0.16 %,300,0.00 %,1,0.00 %,301,0.00 %
+,incident,,,,,,,,,,,,,,,,,
+,"Radioactive condition,",,,,,,,,,,,,,,,,,
+430,,2,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,other,,,,,,,,,,,,,,,,,
+,"Radiation leak,",,,,,,,,,,,,,,,,,
+431,,3,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,radioactive material,,,,,,,,,,,,,,,,,
+,Electrical,,,,,,,,,,,,,,,,,
+440,wiring/equipment,"2,456",0.36 %,0,0,0.00 %,0,0.00 %,0,0.00 %,2,0.32 %,"20,326",0.01 %,"9,451",0.01 %,"29,777",0.01 %
+,"problem, other",,,,,,,,,,,,,,,,,
+,Heat from short circuit,,,,,,,,,,,,,,,,,
+441,"(wiring), defective/worn",797,0.12 %,0,0,0.00 %,1,0.16 %,0,0.00 %,0,0.00 %,"12,905",0.01 %,"9,751",0.01 %,"22,656",0.01 %
+,Page 10 of 18,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Thu Mar 08 09:25:18 EST 2012,Thu Mar 08 09:25:18 EST 2012,Thu Mar 08 09:25:18 EST 2012
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+442,Overheated motor,754,0.11 %,0,0,0.00 %,0,0.00 %,0,0.00 %,2,0.32 %,"31,450",0.02 %,"9,650",0.01 %,"41,100",0.02 %
+,Light ballast breakdown,,,,,,,,,,,,,,,,,
+443,,168,0.02 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"6,300",0.00 %,500,0.00 %,"6,800",0.00 %
+444,Power line down,"6,472",0.95 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"88,500",0.05 %,"1,500",0.00 %,"90,000",0.04 %
+,"Arcing, shorted electrical",,,,,,,,,,,,,,,,,
+445,,"2,843",0.42 %,0,0,0.00 %,1,0.16 %,0,0.00 %,0,0.00 %,"643,966",0.34 %,"526,446",0.80 %,"1,170,412",0.46 %
+,equipment,,,,,,,,,,,,,,,,,
+,"Biological hazard,",,,,,,,,,,,,,,,,,
+451,confirmed or suspected,52,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,9,1.44 %,0,0.00 %,0,0.00 %,0,0.00 %
+,"Accident, potential",,,,,,,,,,,,,,,,,
+460,,832,0.12 %,0,2,1.75 %,2,0.33 %,0,0.00 %,0,0.00 %,"18,500",0.01 %,0,0.00 %,"18,500",0.01 %
+,"accident, other",,,,,,,,,,,,,,,,,
+,Building or structure,,,,,,,,,,,,,,,,,
+461,,480,0.07 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"905,000",0.48 %,"90,103",0.14 %,"995,103",0.39 %
+,weakened or collapsed,,,,,,,,,,,,,,,,,
+462,Aircraft standby,719,0.11 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,"Vehicle accident, general",,,,,,,,,,,,,,,,,
+463,,"6,250",0.91 %,0,1,0.88 %,14,2.28 %,0,0.00 %,3,0.48 %,"1,206,875",0.64 %,"78,981",0.12 %,"1,285,856",0.51 %
+,cleanup,,,,,,,,,,,,,,,,,
+,"Explosive, bomb removal",,,,,,,,,,,,,,,,,
+471,"(for bomb scare, use",59,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,721),,,,,,,,,,,,,,,,,
+,"Attempted burning, illegal",,,,,,,,,,,,,,,,,
+480,,121,0.02 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,"action, other",,,,,,,,,,,,,,,,,
+,Page 11 of 18,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Thu Mar 08 09:25:19 EST 2012,Thu Mar 08 09:25:19 EST 2012,Thu Mar 08 09:25:19 EST 2012
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+481,Attempt to burn,63,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"3,160",0.00 %,260,0.00 %,"3,420",0.00 %
+482,Threat to burn,14,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+500,"Service Call, other","4,791",0.70 %,0,0,0.00 %,0,0.00 %,0,0.00 %,1,0.16 %,"2,550",0.00 %,0,0.00 %,"2,550",0.00 %
+,"Person in distress, other",,,,,,,,,,,,,,,,,
+510,,"1,703",0.25 %,0,0,0.00 %,1,0.16 %,0,0.00 %,3,0.48 %,0,0.00 %,0,0.00 %,0,0.00 %
+511,Lock-out,"2,668",0.39 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,Ring or jewelry removal,,,,,,,,,,,,,,,,,
+512,,35,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+520,"Water problem, other",867,0.13 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"146,200",0.08 %,"63,000",0.10 %,"209,200",0.08 %
+521,Water evacuation,118,0.02 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,100,0.00 %,400,0.00 %,500,0.00 %
+522,Water or steam leak,"1,288",0.19 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"321,150",0.17 %,"63,900",0.10 %,"385,050",0.15 %
+531,Smoke or odor removal,"2,581",0.38 %,0,0,0.00 %,1,0.16 %,0,0.00 %,1,0.16 %,"1,044,512",0.56 %,"1,018,541",1.55 %,"2,063,053",0.81 %
+540,"Animal problem, other",71,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,Page 12 of 18,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Thu Mar 08 09:25:20 EST 2012,Thu Mar 08 09:25:20 EST 2012,Thu Mar 08 09:25:20 EST 2012
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+541,Animal problem,212,0.03 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+542,Animal rescue,302,0.04 %,0,0,0.00 %,0,0.00 %,0,0.00 %,1,0.16 %,0,0.00 %,0,0.00 %,0,0.00 %
+,Public service,,,,,,,,,,,,,,,,,
+550,,"5,306",0.78 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"5,600",0.00 %,"1,300",0.00 %,"6,900",0.00 %
+,"assistance, other",,,,,,,,,,,,,,,,,
+,Assist police or other,,,,,,,,,,,,,,,,,
+551,,"1,925",0.28 %,0,0,0.00 %,1,0.16 %,0,0.00 %,0,0.00 %,"6,150",0.00 %,0,0.00 %,"6,150",0.00 %
+,governmental agency,,,,,,,,,,,,,,,,,
+552,Police matter,"1,363",0.20 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+553,Public service,"15,747",2.30 %,0,0,0.00 %,0,0.00 %,0,0.00 %,32,5.14 %,"11,696",0.01 %,0,0.00 %,"11,696",0.00 %
+554,Assist invalid,"5,327",0.78 %,0,0,0.00 %,0,0.00 %,0,0.00 %,2,0.32 %,500,0.00 %,0,0.00 %,500,0.00 %
+,"Defective elevator, no",,,,,,,,,,,,,,,,,
+555,,384,0.06 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,occupants,,,,,,,,,,,,,,,,,
+561,Unauthorized burning,"2,095",0.31 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,411,0.00 %,21,0.00 %,432,0.00 %
+,"Cover assignment,",,,,,,,,,,,,,,,,,
+571,,"1,147",0.17 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,"standby, moveup",,,,,,,,,,,,,,,,,
+600,"Good intent call, other","11,211",1.64 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"78,422",0.04 %,"10,646",0.02 %,"89,068",0.04 %
+,Page 13 of 18,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Thu Mar 08 09:33:12 EST 2012,Thu Mar 08 09:33:12 EST 2012,Thu Mar 08 09:33:12 EST 2012
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,Dispatched & canceled,,,,,,,,,,,,,,,,,
+611,,"35,963",5.25 %,1,0,0.00 %,1,0.16 %,0,0.00 %,1,0.16 %,"5,800",0.00 %,0,0.00 %,"5,800",0.00 %
+,en route,,,,,,,,,,,,,,,,,
+621,Wrong location,246,0.04 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,No incident found at,,,,,,,,,,,,,,,,,
+622,,"6,654",0.97 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,301,0.00 %,0,-0.00 %,300,0.00 %
+,dispatch address,,,,,,,,,,,,,,,,,
+,Authorized controlled,,,,,,,,,,,,,,,,,
+631,,"1,950",0.28 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,1,0.00 %,1,0.00 %,2,0.00 %
+,burning,,,,,,,,,,,,,,,,,
+632,Prescribed fire,91,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,5,0.00 %,5,0.00 %,10,0.00 %
+,Vicinity alarm (incident in,,,,,,,,,,,,,,,,,
+641,,226,0.03 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,other location),,,,,,,,,,,,,,,,,
+,"Steam, other gas",,,,,,,,,,,,,,,,,
+650,"mistaken for smoke,",424,0.06 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,other,,,,,,,,,,,,,,,,,
+,"Smoke scare, odor of",,,,,,,,,,,,,,,,,
+651,,"4,917",0.72 %,0,0,0.00 %,0,0.00 %,0,0.00 %,1,0.16 %,"4,675",0.00 %,500,0.00 %,"5,175",0.00 %
+,smoke,,,,,,,,,,,,,,,,,
+,"Steam, vapor, fog or dust",,,,,,,,,,,,,,,,,
+652,thought to be smoke,806,0.12 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,500,0.00 %,0,0.00 %,500,0.00 %
+653,"Barbecue, tar kettle",203,0.03 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,"EMS call, party",,,,,,,,,,,,,,,,,
+661,transported by non-fire,384,0.06 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,agency,,,,,,,,,,,,,,,,,
+,Page 14 of 18,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Thu Mar 08 09:33:13 EST 2012,Thu Mar 08 09:33:13 EST 2012,Thu Mar 08 09:33:13 EST 2012
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,Hazmat release,,,,,,,,,,,,,,,,,
+671,investigation w/ no,"1,049",0.15 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,hazmat,,,,,,,,,,,,,,,,,
+,"Biological hazard, none",,,,,,,,,,,,,,,,,
+672,,49,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,found,,,,,,,,,,,,,,,,,
+,"False alarm or false call,",,,,,,,,,,,,,,,,,
+700,,"8,499",1.24 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,other,,,,,,,,,,,,,,,,,
+,"Malicious, mischievous",,,,,,,,,,,,,,,,,
+710,,845,0.12 %,0,0,0.00 %,0,0.00 %,0,0.00 %,1,0.16 %,0,0.00 %,0,0.00 %,0,0.00 %
+,"false call, other",,,,,,,,,,,,,,,,,
+,"Municipal alarm system,",,,,,,,,,,,,,,,,,
+711,malicious false alarm,256,0.04 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,100,0.00 %,500,0.00 %,600,0.00 %
+,"Direct tie to FD,",,,,,,,,,,,,,,,,,
+712,,36,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,malicious/false alarm,,,,,,,,,,,,,,,,,
+,"Telephone, malicious",,,,,,,,,,,,,,,,,
+713,,101,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,1,0.16 %,0,0.00 %,0,0.00 %,0,0.00 %
+,false alarm,,,,,,,,,,,,,,,,,
+,"Central station, malicious",,,,,,,,,,,,,,,,,
+714,,386,0.06 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,false alarm,,,,,,,,,,,,,,,,,
+,"Local alarm system,",,,,,,,,,,,,,,,,,
+715,,511,0.07 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,malicious false alarm,,,,,,,,,,,,,,,,,
+721,Bomb scare - no bomb,211,0.03 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,"System malfunction,",,,,,,,,,,,,,,,,,
+730,,"3,628",0.53 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,1,0.00 %,1,0.00 %,2,0.00 %
+,other,,,,,,,,,,,,,,,,,
+,Page 15 of 18,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Thu Mar 08 09:33:14 EST 2012,Thu Mar 08 09:33:14 EST 2012,Thu Mar 08 09:33:14 EST 2012
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,Sprinkler activation due,,,,,,,,,,,,,,,,,
+731,,523,0.08 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"30,150",0.02 %,"65,000",0.10 %,"95,150",0.04 %
+,to malfunction,,,,,,,,,,,,,,,,,
+,Extinguishing system,,,,,,,,,,,,,,,,,
+732,activation due to,96,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,malfunction,,,,,,,,,,,,,,,,,
+,Smoke detector,,,,,,,,,,,,,,,,,
+733,activation due to,"3,961",0.58 %,0,0,0.00 %,0,0.00 %,0,0.00 %,1,0.16 %,0,0.00 %,0,0.00 %,0,0.00 %
+,malfunction,,,,,,,,,,,,,,,,,
+,Heat detector activation,,,,,,,,,,,,,,,,,
+734,due to malfunction,287,0.04 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,Alarm system sounded,,,,,,,,,,,,,,,,,
+735,,"5,827",0.85 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,601,0.00 %,0,0.00 %,601,0.00 %
+,due to malfunction,,,,,,,,,,,,,,,,,
+,CO detector activation,,,,,,,,,,,,,,,,,
+736,,"1,279",0.19 %,0,0,0.00 %,1,0.16 %,0,0.00 %,1,0.16 %,0,0.00 %,0,0.00 %,0,0.00 %
+,due to malfunction,,,,,,,,,,,,,,,,,
+,Unintentional,,,,,,,,,,,,,,,,,
+740,"transmission of alarm,","3,484",0.51 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,1,0.00 %,1,0.00 %,2,0.00 %
+,other,,,,,,,,,,,,,,,,,
+,"Sprinkler activation, no",,,,,,,,,,,,,,,,,
+741,,679,0.10 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"83,000",0.04 %,"27,500",0.04 %,"110,500",0.04 %
+,fire - unintentional,,,,,,,,,,,,,,,,,
+,Extinguishing system,,,,,,,,,,,,,,,,,
+742,,75,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,50,0.00 %,50,0.00 %
+,activation,,,,,,,,,,,,,,,,,
+,Smoke detector,,,,,,,,,,,,,,,,,
+743,"activation, no fire -","8,051",1.18 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,300,0.00 %,360,0.00 %,660,0.00 %
+,unintentional,,,,,,,,,,,,,,,,,
+,"Detector activation, no",,,,,,,,,,,,,,,,,
+744,,"3,261",0.48 %,0,0,0.00 %,0,0.00 %,0,0.00 %,2,0.32 %,0,0.00 %,0,0.00 %,0,0.00 %
+,fire - unintentional,,,,,,,,,,,,,,,,,
+,Page 16 of 18,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Thu Mar 08 09:40:59 EST 2012,Thu Mar 08 09:40:59 EST 2012,Thu Mar 08 09:40:59 EST 2012
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,"Alarm system sounded,",,,,,,,,,,,,,,,,,
+745,no fire - unintentional,"10,856",1.59 %,0,0,0.00 %,0,0.00 %,0,0.00 %,5,0.80 %,"188,001",0.10 %,"110,000",0.17 %,"298,001",0.12 %
+,Carbon monoxide,,,,,,,,,,,,,,,,,
+746,"detector activation, no",896,0.13 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,CO,,,,,,,,,,,,,,,,,
+,"Biological hazard,",,,,,,,,,,,,,,,,,
+751,,5,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,malicious false report,,,,,,,,,,,,,,,,,
+,Severe weather or,,,,,,,,,,,,,,,,,
+800,,721,0.11 %,0,0,0.00 %,0,0.00 %,0,0.00 %,4,0.64 %,"245,600",0.13 %,"130,000",0.20 %,"375,600",0.15 %
+,"natural disaster, other",,,,,,,,,,,,,,,,,
+,Earthquake assessment,,,,,,,,,,,,,,,,,
+811,,208,0.03 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+812,Flood assessment,91,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,"Wind storm,",,,,,,,,,,,,,,,,,
+813,tornado/hurricane,"1,287",0.19 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"1,079,050",0.57 %,"61,500",0.09 %,"1,140,550",0.45 %
+,assessment,,,,,,,,,,,,,,,,,
+,Lightning strike (no fire),,,,,,,,,,,,,,,,,
+814,,304,0.04 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"81,500",0.04 %,"10,200",0.02 %,"91,700",0.04 %
+,Severe weather or,,,,,,,,,,,,,,,,,
+815,natural disaster standby,209,0.03 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"60,000",0.03 %,"10,000",0.02 %,"70,000",0.03 %
+,"Special type of incident,",,,,,,,,,,,,,,,,,
+900,,"2,606",0.38 %,0,0,0.00 %,1,0.16 %,0,0.00 %,11,1.77 %,"239,350",0.13 %,"12,700",0.02 %,"252,050",0.10 %
+,other,,,,,,,,,,,,,,,,,
+911,Citizen complaint,926,0.14 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,Page 17 of 18,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Thu Mar 08 09:41:00 EST 2012,Thu Mar 08 09:41:00 EST 2012,Thu Mar 08 09:41:00 EST 2012
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,Undetermined incident,,,,,,,,,,,,,,,,,
+UUU,,3,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,type (conversion only),,,,,,,,,,,,,,,,,
+,,"684,628",,,,,,,,,,,,,,,,
+Totals,,,100 %,370,114,100 %,615,100 %,1,100 %,623,100 %,"188,155,924",100 %,"65,853,410",100 %,"254,009,334",100 %
+Mutual Aid Given Incidents,Mutual Aid Given Incidents,"42,176",,,,,,,,,,,,,,,,
+,Page 18 of 18,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Thu Mar 08 09:41:00 EST 2012,Thu Mar 08 09:41:00 EST 2012,Thu Mar 08 09:41:00 EST 2012

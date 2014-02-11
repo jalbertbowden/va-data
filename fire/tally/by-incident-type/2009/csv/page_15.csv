@@ -1,0 +1,36 @@
+Name: “Table 1 of 1 on page 15 of 15”,Name: “Table 1 of 1 on page 15 of 15”,Name: “Table 1 of 1 on page 15 of 15”,Name: “Table 1 of 1 on page 15 of 15”,Name: “Table 1 of 1 on page 15 of 15”,Name: “Table 1 of 1 on page 15 of 15”,Name: “Table 1 of 1 on page 15 of 15”,Name: “Table 1 of 1 on page 15 of 15”,Name: “Table 1 of 1 on page 15 of 15”,Name: “Table 1 of 1 on page 15 of 15”,Name: “Table 1 of 1 on page 15 of 15”,Name: “Table 1 of 1 on page 15 of 15”,Name: “Table 1 of 1 on page 15 of 15”,Name: “Table 1 of 1 on page 15 of 15”,Name: “Table 1 of 1 on page 15 of 15”,Name: “Table 1 of 1 on page 15 of 15”,Name: “Table 1 of 1 on page 15 of 15”,Name: “Table 1 of 1 on page 15 of 15”,Name: “Table 1 of 1 on page 15 of 15”
+Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15
+,,,,,,,,,,,,,,,,,,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Incident Type,Incident Type,Incident Type,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/09 - 12/31/09,1/1/09 - 12/31/09,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,Severe Weather &,,,,,,,,,,,,,,,,,
+8,Natural Disaster,1,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Severe weather or,,,,,,,,,,,,,,,,,
+800,"natural disaster, other",378,0.06%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"91,000",0.04%,"11,000",0.01%,"102,000",0.03%
+,Earthquake assessment,,,,,,,,,,,,,,,,,
+811,,9,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Flood assessment,,,,,,,,,,,,,,,,,
+812,,85,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"12,500",0.01%,0,0.00%,"12,500",0.00%
+,"Wind storm,",,,,,,,,,,,,,,,,,
+813,tornado/hurricane,239,0.04%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"356,500",0.17%,"28,750",0.04%,"385,250",0.13%
+,assessment,,,,,,,,,,,,,,,,,
+,Lightning strike (no fire),,,,,,,,,,,,,,,,,
+814,,178,0.03%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"15,600",0.01%,"14,000",0.02%,"29,600",0.01%
+,Severe weather or,,,,,,,,,,,,,,,,,
+815,natural disaster standby,32,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"10,000",0.00%,0,0.00%,"10,000",0.00%
+,Special incident type,,,,,,,,,,,,,,,,,
+9,,4,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Special type of incident,,,,,,,,,,,,,,,,,
+90,,7,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Special type of incident,",,,,,,,,,,,,,,,,,
+900,other,"3,821",0.59%,3,0,0.00%,0,0.00%,0,0.00%,5,1.47%,"457,077",0.21%,"151,000",0.19%,"608,077",0.21%
+,Citizen complaint,,,,,,,,,,,,,,,,,
+91,,5,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Citizen complaint,,,,,,,,,,,,,,,,,
+911,,858,0.13%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,650,0.00%,200,0.00%,850,0.00%
+Totals,,"645,080",100.00%,487,103,100.00%,541,100.00%,1,100.00%,341,100.00%,"212,846,845 100.00%","212,846,845 100.00%","81,249,563",100.00%,"294,096,408",100.00%
+Mutual Aid Given Incidents,Mutual Aid Given Incidents,"34,349",,,,,,,,,,,,,,,,
+,Page 15 of 15,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,3/5/10 10:42:29 AM,3/5/10 10:42:29 AM,

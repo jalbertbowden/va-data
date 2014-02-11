@@ -1,0 +1,45 @@
+Name: “Table 1 of 1 on page 4 of 13”,Name: “Table 1 of 1 on page 4 of 13”,Name: “Table 1 of 1 on page 4 of 13”,Name: “Table 1 of 1 on page 4 of 13”,Name: “Table 1 of 1 on page 4 of 13”,Name: “Table 1 of 1 on page 4 of 13”,Name: “Table 1 of 1 on page 4 of 13”,Name: “Table 1 of 1 on page 4 of 13”,Name: “Table 1 of 1 on page 4 of 13”,Name: “Table 1 of 1 on page 4 of 13”,Name: “Table 1 of 1 on page 4 of 13”,Name: “Table 1 of 1 on page 4 of 13”,Name: “Table 1 of 1 on page 4 of 13”,Name: “Table 1 of 1 on page 4 of 13”,Name: “Table 1 of 1 on page 4 of 13”,Name: “Table 1 of 1 on page 4 of 13”,Name: “Table 1 of 1 on page 4 of 13”,Name: “Table 1 of 1 on page 4 of 13”,Name: “Table 1 of 1 on page 4 of 13”
+Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4
+,,,,,,,,,,,,,,,,,,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Incident Type,Incident Type,Incident Type,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/05 - 12/31/05,1/1/05 - 12/31/05,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,Dumpster or other,,,,,,,,,,,,,,,,,
+154,outside trash receptacle,959,0.18%,2,0,0.00%,0,0.00%,0,0.00%,1,0.32%,"59,654",0.01%,800,0.00%,"60,454",0.00%
+,fire,,,,,,,,,,,,,,,,,
+,Outside stationary,,,,,,,,,,,,,,,,,
+155,compactor/compacted,15,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,500,0.00%,0,0.00%,500,0.00%
+,trash fire,,,,,,,,,,,,,,,,,
+,"Special outside fire,",,,,,,,,,,,,,,,,,
+160,other,462,0.09%,5,0,0.00%,3,0.57%,0,0.00%,2,0.64%,"205,362",0.05%,"102,868",0.01%,"308,230",0.02%
+,Outside storage fire,,,,,,,,,,,,,,,,,
+161,,97,0.02%,3,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"189,290",0.04%,"293,070",0.03%,"482,360",0.03%
+,Outside equipment fire,,,,,,,,,,,,,,,,,
+162,,218,0.04%,1,0,0.00%,1,0.19%,0,0.00%,1,0.32%,"323,554",0.07%,"29,786",0.00%,"353,340",0.02%
+,Outside gas or vapor,,,,,,,,,,,,,,,,,
+163,combustion explosion,23,0.00%,0,0,0.00%,3,0.57%,0,0.00%,32,10.22%,"1,002,600",0.23%,400,0.00%,"1,003,000",0.07%
+,Outside mailbox fire,,,,,,,,,,,,,,,,,
+164,,28,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"1,345",0.00%,181,0.00%,"1,526",0.00%
+,"Cultivated vegetation,",,,,,,,,,,,,,,,,,
+170,"crop fire, other",164,0.03%,6,0,0.00%,0,0.00%,0,0.00%,1,0.32%,"78,051",0.02%,"26,250",0.00%,"104,301",0.01%
+,Cultivated grain or crop,,,,,,,,,,,,,,,,,
+171,fire,75,0.01%,2,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"21,725",0.01%,0,0.00%,"21,725",0.00%
+,Cultivated orchard or,,,,,,,,,,,,,,,,,
+172,vineyard fire,1,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Cultivated trees or,,,,,,,,,,,,,,,,,
+173,nursery stock fire,29,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"10,500",0.00%,200,0.00%,"10,700",0.00%
+,"Overpressure rupture,",,,,,,,,,,,,,,,,,
+200,"explosion, overheat",198,0.04%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"21,000",0.00%,"4,300",0.00%,"25,300",0.00%
+,other,,,,,,,,,,,,,,,,,
+,Overpressure rupture,,,,,,,,,,,,,,,,,
+210,"from steam, other",54,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Overpressure rupture of,,,,,,,,,,,,,,,,,
+211,steam pipe or pipeline,10,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Overpressure rupture of,,,,,,,,,,,,,,,,,
+212,steam boiler,6,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Steam rupture of,,,,,,,,,,,,,,,,,
+213,pressure or process,5,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,vessel,,,,,,,,,,,,,,,,,
+,Page 4 of 13,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,5/24/06 8:34:30 PM,,

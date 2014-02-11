@@ -1,0 +1,34 @@
+Name: “Table 1 of 1 on page 3 of 18”,Name: “Table 1 of 1 on page 3 of 18”,Name: “Table 1 of 1 on page 3 of 18”,Name: “Table 1 of 1 on page 3 of 18”,Name: “Table 1 of 1 on page 3 of 18”,Name: “Table 1 of 1 on page 3 of 18”,Name: “Table 1 of 1 on page 3 of 18”,Name: “Table 1 of 1 on page 3 of 18”,Name: “Table 1 of 1 on page 3 of 18”,Name: “Table 1 of 1 on page 3 of 18”,Name: “Table 1 of 1 on page 3 of 18”,Name: “Table 1 of 1 on page 3 of 18”,Name: “Table 1 of 1 on page 3 of 18”,Name: “Table 1 of 1 on page 3 of 18”,Name: “Table 1 of 1 on page 3 of 18”,Name: “Table 1 of 1 on page 3 of 18”,Name: “Table 1 of 1 on page 3 of 18”,Name: “Table 1 of 1 on page 3 of 18”,Name: “Table 1 of 1 on page 3 of 18”
+Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3
+,,,,,,,,,,,,,,,,,,
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,Fire in mobile home used,,,,,,,,,,,,,,,,,
+121,as fixed residence,184,0.03 %,9,2,1.75 %,13,2.11 %,0,0.00 %,6,0.96 %,"1,653,605",0.88 %,"675,062",1.03 %,"2,328,667",0.92 %
+,"Fire in motor home,",,,,,,,,,,,,,,,,,
+122,"camper, recreational",34,0.00 %,4,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"238,100",0.13 %,"108,200",0.16 %,"346,300",0.14 %
+,vehicle,,,,,,,,,,,,,,,,,
+,"Fire in portable building,",,,,,,,,,,,,,,,,,
+123,,20,0.00 %,0,0,0.00 %,1,0.16 %,0,0.00 %,1,0.16 %,"99,100",0.05 %,"24,850",0.04 %,"123,950",0.05 %
+,fixed location,,,,,,,,,,,,,,,,,
+,Mobile property (vehicle),,,,,,,,,,,,,,,,,
+130,,526,0.08 %,14,1,0.88 %,3,0.49 %,0,0.00 %,0,0.00 %,"1,240,484",0.66 %,"191,241",0.29 %,"1,431,725",0.56 %
+,"fire, other",,,,,,,,,,,,,,,,,
+131,Passenger vehicle fire,"3,093",0.45 %,84,9,7.89 %,16,2.60 %,0,0.00 %,5,0.80 %,"9,143,292",4.86 %,"1,002,043",1.52 %,"10,145,335",3.99 %
+,Road freight or transport,,,,,,,,,,,,,,,,,
+132,,394,0.06 %,5,0,0.00 %,1,0.16 %,0,0.00 %,2,0.32 %,"4,799,288",2.55 %,"1,943,554",2.95 %,"6,742,842",2.65 %
+,vehicle fire,,,,,,,,,,,,,,,,,
+133,Rail vehicle fire,9,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"27,600",0.01 %,100,0.00 %,"27,700",0.01 %
+134,Water vehicle fire,37,0.01 %,2,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"152,300",0.08 %,"64,250",0.10 %,"216,550",0.09 %
+135,Aircraft fire,11,0.00 %,0,2,1.75 %,3,0.49 %,0,0.00 %,1,0.16 %,"795,800",0.42 %,"500,501",0.76 %,"1,296,301",0.51 %
+,Self-propelled motor,,,,,,,,,,,,,,,,,
+136,home or recreational,11,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"93,300",0.05 %,650,0.00 %,"93,950",0.04 %
+,vehicle,,,,,,,,,,,,,,,,,
+,Camper or recreational,,,,,,,,,,,,,,,,,
+137,,34,0.00 %,1,0,0.00 %,0,0.00 %,0,0.00 %,1,0.16 %,"423,620",0.23 %,"83,452",0.13 %,"507,072",0.20 %
+,vehicle (RV) fire,,,,,,,,,,,,,,,,,
+,Page 3 of 18,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Thu Mar 08 08:46:01 EST 2012,Thu Mar 08 08:46:01 EST 2012,Thu Mar 08 08:46:01 EST 2012

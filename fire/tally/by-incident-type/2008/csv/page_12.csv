@@ -1,0 +1,45 @@
+Name: “Table 1 of 1 on page 12 of 13”,Name: “Table 1 of 1 on page 12 of 13”,Name: “Table 1 of 1 on page 12 of 13”,Name: “Table 1 of 1 on page 12 of 13”,Name: “Table 1 of 1 on page 12 of 13”,Name: “Table 1 of 1 on page 12 of 13”,Name: “Table 1 of 1 on page 12 of 13”,Name: “Table 1 of 1 on page 12 of 13”,Name: “Table 1 of 1 on page 12 of 13”,Name: “Table 1 of 1 on page 12 of 13”,Name: “Table 1 of 1 on page 12 of 13”,Name: “Table 1 of 1 on page 12 of 13”,Name: “Table 1 of 1 on page 12 of 13”,Name: “Table 1 of 1 on page 12 of 13”,Name: “Table 1 of 1 on page 12 of 13”,Name: “Table 1 of 1 on page 12 of 13”,Name: “Table 1 of 1 on page 12 of 13”,Name: “Table 1 of 1 on page 12 of 13”,Name: “Table 1 of 1 on page 12 of 13”
+Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12
+,,,,,,,,,,,,,,,,,,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Incident Type,Incident Type,Incident Type,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/08 - 12/31/08,1/1/08 - 12/31/08,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,CO detector activation,,,,,,,,,,,,,,,,,
+736,due to malfunction,993,0.16%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Unintentional,,,,,,,,,,,,,,,,,
+740,"transmission of alarm,","4,232",0.68%,1,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"2,000",0.00%,0,0.00%,"2,000",0.00%
+,other,,,,,,,,,,,,,,,,,
+,"Sprinkler activation, no",,,,,,,,,,,,,,,,,
+741,fire - unintentional,784,0.13%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"60,000",0.02%,"19,500",0.02%,"79,500",0.02%
+,Extinguishing system,,,,,,,,,,,,,,,,,
+742,activation,75,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Smoke detector,,,,,,,,,,,,,,,,,
+743,"activation, no fire -","7,634",1.23%,0,0,0.00%,1,0.18%,0,0.00%,1,0.30%,1,0.00%,1,0.00%,2,0.00%
+,unintentional,,,,,,,,,,,,,,,,,
+,"Detector activation, no",,,,,,,,,,,,,,,,,
+744,fire - unintentional,"3,246",0.52%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Alarm system sounded,",,,,,,,,,,,,,,,,,
+745,no fire - unintentional,"9,576",1.55%,0,0,0.00%,0,0.00%,0,0.00%,1,0.30%,"5,025",0.00%,0,0.00%,"5,025",0.00%
+,Carbon monoxide,,,,,,,,,,,,,,,,,
+746,"detector activation, no",683,0.11%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,CO,,,,,,,,,,,,,,,,,
+,"Biological hazard,",,,,,,,,,,,,,,,,,
+751,malicious false report,13,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Severe weather or,,,,,,,,,,,,,,,,,
+800,"natural disaster, other",310,0.05%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"3,367,002",1.30%,"1,000,000",0.83%,"4,367,002",1.15%
+,Earthquake assessment,,,,,,,,,,,,,,,,,
+811,,1,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Flood assessment,,,,,,,,,,,,,,,,,
+812,,41,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"1,000",0.00%,"1,000",0.00%,"2,000",0.00%
+,"Wind storm,",,,,,,,,,,,,,,,,,
+813,tornado/hurricane,382,0.06%,0,0,0.00%,0,0.00%,0,0.00%,1,0.30%,"34,800,698",13.48%,"1,911,200",1.59%,"36,711,898",9.71%
+,assessment,,,,,,,,,,,,,,,,,
+,Lightning strike (no fire),,,,,,,,,,,,,,,,,
+814,,216,0.03%,0,0,0.00%,0,0.00%,0,0.00%,1,0.30%,"45,500",0.02%,"3,500",0.00%,"49,000",0.01%
+,Severe weather or,,,,,,,,,,,,,,,,,
+815,natural disaster standby,31,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Special type of incident,",,,,,,,,,,,,,,,,,
+900,other,"4,326",0.70%,3,1,0.81%,1,0.18%,0,0.00%,4,1.19%,"185,125",0.07%,"13,285",0.01%,"198,410",0.05%
+,Page 12 of 13,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,4/7/09 11:47:48 AM,4/7/09 11:47:48 AM,

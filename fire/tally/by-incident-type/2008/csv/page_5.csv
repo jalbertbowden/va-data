@@ -1,0 +1,46 @@
+Name: “Table 1 of 1 on page 5 of 13”,Name: “Table 1 of 1 on page 5 of 13”,Name: “Table 1 of 1 on page 5 of 13”,Name: “Table 1 of 1 on page 5 of 13”,Name: “Table 1 of 1 on page 5 of 13”,Name: “Table 1 of 1 on page 5 of 13”,Name: “Table 1 of 1 on page 5 of 13”,Name: “Table 1 of 1 on page 5 of 13”,Name: “Table 1 of 1 on page 5 of 13”,Name: “Table 1 of 1 on page 5 of 13”,Name: “Table 1 of 1 on page 5 of 13”,Name: “Table 1 of 1 on page 5 of 13”,Name: “Table 1 of 1 on page 5 of 13”,Name: “Table 1 of 1 on page 5 of 13”,Name: “Table 1 of 1 on page 5 of 13”,Name: “Table 1 of 1 on page 5 of 13”,Name: “Table 1 of 1 on page 5 of 13”,Name: “Table 1 of 1 on page 5 of 13”,Name: “Table 1 of 1 on page 5 of 13”
+Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5
+,,,,,,,,,,,,,,,,,,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Incident Type,Incident Type,Incident Type,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/08 - 12/31/08,1/1/08 - 12/31/08,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,Overpressure rupture of,,,,,,,,,,,,,,,,,
+221,air or gas pipe/pipeline,89,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Overpressure rupture of,,,,,,,,,,,,,,,,,
+222,boiler from air or gas,7,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Air or gas rupture of,,,,,,,,,,,,,,,,,
+223,pressure or process,34,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"2,000",0.00%,500,0.00%,"2,500",0.00%
+,vessel,,,,,,,,,,,,,,,,,
+,Chemical reaction,,,,,,,,,,,,,,,,,
+231,rupture of process,26,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,vessel,,,,,,,,,,,,,,,,,
+,"Explosion (no fire), other",,,,,,,,,,,,,,,,,
+240,,44,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"62,414",0.02%,500,0.00%,"62,914",0.02%
+,Munitions or bomb,,,,,,,,,,,,,,,,,
+241,explosion (no fire),11,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,25,0.00%,0,0.00%,25,0.00%
+,Blasting agent explosion,,,,,,,,,,,,,,,,,
+242,(no fire),3,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,50,0.00%,0,0.00%,50,0.00%
+,Fireworks explosion (no,,,,,,,,,,,,,,,,,
+243,fire),37,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,31,0.00%,1,0.00%,32,0.00%
+,"Excessive heat, scorch",,,,,,,,,,,,,,,,,
+251,burns with no ignition,833,0.13%,4,0,0.00%,1,0.18%,0,0.00%,1,0.30%,"86,065",0.03%,"32,220",0.03%,"118,285",0.03%
+,"Rescue, emergency",,,,,,,,,,,,,,,,,
+300,"medical call (EMS) call,","18,969",3.06%,3,1,0.81%,2,0.35%,0,0.00%,1,0.30%,"32,000",0.01%,50,0.00%,"32,050",0.01%
+,other,,,,,,,,,,,,,,,,,
+,"Medical assist, assist",,,,,,,,,,,,,,,,,
+311,EMS crew,"36,516",5.89%,0,2,1.61%,13,2.30%,0,0.00%,5,1.49%,"17,821",0.01%,301,0.00%,"18,122",0.00%
+,Emergency medical,,,,,,,,,,,,,,,,,
+320,"service, other","6,414",1.04%,20,0,0.00%,1,0.18%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,(conversion only),,,,,,,,,,,,,,,,,
+,"EMS call, excluding",,,,,,,,,,,,,,,,,
+321,vehicle accident with,"283,979",45.84%,0,7,5.65%,4,0.71%,1,100.00%,58,17.31%,"43,810",0.02%,550,0.00%,"44,360",0.01%
+,injury,,,,,,,,,,,,,,,,,
+,Vehicle accident with,,,,,,,,,,,,,,,,,
+322,injuries,"25,885",4.18%,1,22,17.74%,49,8.67%,0,0.00%,18,5.37%,"2,859,800",1.11%,"95,722",0.08%,"2,955,522",0.78%
+,Motor vehicle/pedestrian,,,,,,,,,,,,,,,,,
+323,accident (MV Ped),"1,814",0.29%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"5,000",0.00%,0,0.00%,"5,000",0.00%
+,Motor vehicle accident,,,,,,,,,,,,,,,,,
+324,with no injuries,"15,951",2.57%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"1,162,350",0.45%,"38,320",0.03%,"1,200,670",0.32%
+,Page 5 of 13,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,4/7/09 9:55:30 AM,4/7/09 9:55:30 AM,

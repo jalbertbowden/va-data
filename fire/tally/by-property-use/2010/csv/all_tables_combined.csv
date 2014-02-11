@@ -1,0 +1,422 @@
+Tally,,,Created by: Dwight Crews (VA)
+Report Parameters:,,,
+Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,,
+Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,,
+State: VA,Version: All,Status: All,Released: All
+Report Filters:,,,
+,"NOTE: Report Filter Groups are applied to the report SQL as ""AND"" conditions (i.e. Group 1 AND Group2 and Group 3 etc...)","NOTE: Report Filter Groups are applied to the report SQL as ""AND"" conditions (i.e. Group 1 AND Group2 and Group 3 etc...)","NOTE: Report Filter Groups are applied to the report SQL as ""AND"" conditions (i.e. Group 1 AND Group2 and Group 3 etc...)"
+Report FDIDs*: All,,,
+,,*Data from deactivated fire depts within the list was not included in the report.,*Data from deactivated fire depts within the list was not included in the report.
+Page 1 of 16,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,Fri Mar 11 10:47:35 EST 2011
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,,,,,,,,,,,,,
+,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+000,"Property Use, other","2,739",0.43 %,2,1,0.79 %,0,0.00 %,0,0.00 %,0,0.00 %,"379,519",0.19 %,"59,884",0.09 %,"439,403",0.17 %
+100,"Assembly, other",964,0.15 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"35,000",0.02 %,"9,110",0.01 %,"44,110",0.02 %
+,Fixed use recreation,,,,,,,,,,,,,,,,,
+110,,967,0.15 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"6,650",0.00 %,1,0.00 %,"6,651",0.00 %
+,"places, other",,,,,,,,,,,,,,,,,
+111,Bowling alley,98,0.02 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,600,0.00 %,100,0.00 %,700,0.00 %
+,"Billiard center, pool hall",,,,,,,,,,,,,,,,,
+112,,60,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,Electronic amusement,,,,,,,,,,,,,,,,,
+113,,183,0.03 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"120,000",0.06 %,"1,200",0.00 %,"121,200",0.05 %
+,center,,,,,,,,,,,,,,,,,
+,"Ice rink: indoor, outdoor",,,,,,,,,,,,,,,,,
+114,,150,0.02 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,Roller rink: indoor or,,,,,,,,,,,,,,,,,
+115,,99,0.02 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,outdoor,,,,,,,,,,,,,,,,,
+,Swimming facility: indoor,,,,,,,,,,,,,,,,,
+116,,519,0.08 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"10,100",0.01 %,250,0.00 %,"10,350",0.00 %
+,or outdoor,,,,,,,,,,,,,,,,,
+,"Variable use amusement,",,,,,,,,,,,,,,,,,
+120,recreation places,533,0.08 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"122,500",0.06 %,"4,400",0.01 %,"126,900",0.05 %
+121,"Ballroom, gymnasium",340,0.05 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"1,000",0.00 %,0,0.00 %,"1,000",0.00 %
+,Page 2 of 16,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Fri Mar 11 10:47:36 EST 2011,Fri Mar 11 10:47:36 EST 2011,Fri Mar 11 10:47:36 EST 2011
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,,,,,,,,,,,,,
+,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,"Convention center,",,,,,,,,,,,,,,,,,
+122,,296,0.05 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"25,026",0.01 %,"25,050",0.04 %,"50,076",0.02 %
+,exhibition hall,,,,,,,,,,,,,,,,,
+123,"Stadium, arena",664,0.10 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"15,000",0.01 %,10,0.00 %,"15,010",0.01 %
+124,Playground,535,0.08 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"27,083",0.01 %,"18,204",0.03 %,"45,287",0.02 %
+,Amusement center:,,,,,,,,,,,,,,,,,
+129,,225,0.03 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"4,000",0.00 %,900,0.00 %,"4,900",0.00 %
+,indoor/outdoor,,,,,,,,,,,,,,,,,
+,"Places of worship,",,,,,,,,,,,,,,,,,
+130,,376,0.06 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"170,500",0.09 %,"22,000",0.03 %,"192,500",0.07 %
+,funeral parlors,,,,,,,,,,,,,,,,,
+,"Church, mosque,",,,,,,,,,,,,,,,,,
+131,"synagogue, temple,","4,289",0.67 %,1,0,0.00 %,0,0.00 %,0,0.00 %,2,0.47 %,"548,003",0.28 %,"143,004",0.22 %,"691,007",0.26 %
+,chapel,,,,,,,,,,,,,,,,,
+134,Funeral parlor,98,0.02 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"12,020",0.01 %,0,0.00 %,"12,020",0.00 %
+140,"Clubs, other",294,0.05 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"5,450",0.00 %,"1,000",0.00 %,"6,450",0.00 %
+141,Athletic/health club,"1,046",0.16 %,0,0,0.00 %,0,0.00 %,0,0.00 %,3,0.71 %,"12,800",0.01 %,"2,550",0.00 %,"15,350",0.01 %
+142,Clubhouse,387,0.06 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"400,050",0.20 %,"50,050",0.08 %,"450,100",0.17 %
+143,Yacht Club,22,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,Page 3 of 16,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Fri Mar 11 10:47:37 EST 2011,Fri Mar 11 10:47:37 EST 2011,Fri Mar 11 10:47:37 EST 2011
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,,,,,,,,,,,,,
+,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+144,"Casino, gambling clubs",21,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,"Public or government,",,,,,,,,,,,,,,,,,
+150,,"2,586",0.40 %,0,0,0.00 %,0,0.00 %,0,0.00 %,5,1.18 %,"4,700",0.00 %,0,0.00 %,"4,700",0.00 %
+,other,,,,,,,,,,,,,,,,,
+151,Library,464,0.07 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"107,220",0.05 %,"50,010",0.08 %,"157,230",0.06 %
+152,Museum,339,0.05 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"6,070",0.00 %,20,0.00 %,"6,090",0.00 %
+,"Memorial structure,",,,,,,,,,,,,,,,,,
+154,including monuments &,142,0.02 %,0,0,0.00 %,0,0.00 %,0,0.00 %,2,0.47 %,0,0.00 %,0,0.00 %,0,0.00 %
+,statues,,,,,,,,,,,,,,,,,
+155,Courthouse,470,0.07 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+160,"Eating, drinking places",969,0.15 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"8,550",0.00 %,"10,001",0.02 %,"18,551",0.01 %
+161,Restaurant or cafeteria,"4,964",0.77 %,0,0,0.00 %,3,0.46 %,0,0.00 %,1,0.24 %,"2,718,704",1.38 %,"1,079,894",1.66 %,"3,798,598",1.45 %
+162,Bar or nightclub,684,0.11 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"585,050",0.30 %,"288,150",0.44 %,"873,200",0.33 %
+,"Passenger terminal,",,,,,,,,,,,,,,,,,
+170,,333,0.05 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,other,,,,,,,,,,,,,,,,,
+,Airport passenger,,,,,,,,,,,,,,,,,
+171,,"3,316",0.52 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,725,0.00 %,"9,500",0.01 %,"10,225",0.00 %
+,terminal,,,,,,,,,,,,,,,,,
+,Page 4 of 16,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Fri Mar 11 10:47:38 EST 2011,Fri Mar 11 10:47:38 EST 2011,Fri Mar 11 10:47:38 EST 2011
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,,,,,,,,,,,,,
+,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+173,Bus station,381,0.06 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,1,0.00 %,0,0.00 %,1,0.00 %
+174,Rapid transit station,416,0.06 %,0,0,0.00 %,0,0.00 %,0,0.00 %,1,0.24 %,101,0.00 %,1,0.00 %,102,0.00 %
+180,"Studio/theater, other",65,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"1,800",0.00 %,0,0.00 %,"1,800",0.00 %
+,Live performance theater,,,,,,,,,,,,,,,,,
+181,,113,0.02 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,600,0.00 %,600,0.00 %,"1,200",0.00 %
+,Auditorium or concert hall,,,,,,,,,,,,,,,,,
+182,,74,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,1,0.00 %,1,0.00 %,2,0.00 %
+183,Movie theater,297,0.05 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,150,0.00 %,0,0.00 %,150,0.00 %
+185,"Radio, television studio",22,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,Film/movie production,,,,,,,,,,,,,,,,,
+186,,6,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,studio,,,,,,,,,,,,,,,,,
+200,"Educational, other",785,0.12 %,0,0,0.00 %,0,0.00 %,0,0.00 %,2,0.47 %,"10,577",0.01 %,102,0.00 %,"10,679",0.00 %
+210,"Schools, non-adult",817,0.13 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"64,155",0.03 %,"2,241",0.00 %,"66,396",0.03 %
+211,Preschool,509,0.08 %,1,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"1,000",0.00 %,1,0.00 %,"1,001",0.00 %
+,Page 5 of 16,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Fri Mar 11 10:47:39 EST 2011,Fri Mar 11 10:47:39 EST 2011,Fri Mar 11 10:47:39 EST 2011
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,,,,,,,,,,,,,
+,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,"Elementary school,",,,,,,,,,,,,,,,,,
+213,,"3,813",0.59 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"145,050",0.07 %,"18,750",0.03 %,"163,800",0.06 %
+,including kindergarten,,,,,,,,,,,,,,,,,
+,High school/junior high,,,,,,,,,,,,,,,,,
+215,school/middle school,"5,147",0.80 %,0,0,0.00 %,3,0.46 %,0,0.00 %,0,0.00 %,"56,898",0.03 %,"113,730",0.17 %,"170,628",0.07 %
+,"Adult education center,",,,,,,,,,,,,,,,,,
+241,,"1,746",0.27 %,0,0,0.00 %,0,0.00 %,0,0.00 %,1,0.24 %,"530,449",0.27 %,"568,020",0.87 %,"1,098,469",0.42 %
+,college classroom,,,,,,,,,,,,,,,,,
+,"Day care, other",,,,,,,,,,,,,,,,,
+250,,46,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"8,000",0.00 %,0,0.00 %,"8,000",0.00 %
+,(conversion only),,,,,,,,,,,,,,,,,
+,"Day care, in commercial",,,,,,,,,,,,,,,,,
+254,,991,0.15 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"20,000",0.01 %,"12,250",0.02 %,"32,250",0.01 %
+,property,,,,,,,,,,,,,,,,,
+,"Day care, in residence,",,,,,,,,,,,,,,,,,
+255,,86,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,licensed,,,,,,,,,,,,,,,,,
+,"Day care in residence,",,,,,,,,,,,,,,,,,
+256,,3,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,unlicensed.,,,,,,,,,,,,,,,,,
+,"Health Care, Detention &",,,,,,,,,,,,,,,,,
+3,,1,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,Correction,,,,,,,,,,,,,,,,,
+,"Health care, detention, &",,,,,,,,,,,,,,,,,
+300,,"1,745",0.27 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"5,000",0.00 %,600,0.00 %,"5,600",0.00 %
+,"correction, other",,,,,,,,,,,,,,,,,
+,24-hour care Nursing,,,,,,,,,,,,,,,,,
+311,"homes, 4 or more","28,095",4.37 %,0,0,0.00 %,1,0.15 %,0,0.00 %,2,0.47 %,"2,690,358",1.36 %,"511,785",0.79 %,"3,202,143",1.22 %
+,persons,,,,,,,,,,,,,,,,,
+,Mental,,,,,,,,,,,,,,,,,
+321,retardation/development,"1,076",0.17 %,0,0,0.00 %,0,0.00 %,0,0.00 %,1,0.24 %,"65,550",0.03 %,"12,000",0.02 %,"77,550",0.03 %
+,disability facility,,,,,,,,,,,,,,,,,
+,Page 6 of 16,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Fri Mar 11 10:47:42 EST 2011,Fri Mar 11 10:47:42 EST 2011,Fri Mar 11 10:47:42 EST 2011
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,,,,,,,,,,,,,
+,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,Alcohol or substance,,,,,,,,,,,,,,,,,
+322,,705,0.11 %,1,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,700,0.00 %,700,0.00 %
+,abuse recovery center,,,,,,,,,,,,,,,,,
+,"Asylum, mental institution",,,,,,,,,,,,,,,,,
+323,,318,0.05 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"3,000",0.00 %,0,0.00 %,"3,000",0.00 %
+,Hospital - medical or,,,,,,,,,,,,,,,,,
+331,,"3,022",0.47 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"126,551",0.06 %,"12,806",0.02 %,"139,357",0.05 %
+,psychiatric,,,,,,,,,,,,,,,,,
+332,Hospices,84,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"9,000",0.00 %,0,0.00 %,"9,000",0.00 %
+,"Clinics, Doctors offices,",,,,,,,,,,,,,,,,,
+340,hemodialysis centers,"9,082",1.41 %,0,0,0.00 %,0,0.00 %,0,0.00 %,1,0.24 %,"823,301",0.42 %,"260,065",0.40 %,"1,083,366",0.41 %
+,"Clinic, clinic-type",,,,,,,,,,,,,,,,,
+341,,"1,111",0.17 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,infirmary,,,,,,,,,,,,,,,,,
+,"Doctor, dentist or oral",,,,,,,,,,,,,,,,,
+342,,"2,962",0.46 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"737,750",0.37 %,"602,050",0.93 %,"1,339,800",0.51 %
+,surgeon's office,,,,,,,,,,,,,,,,,
+343,Hemodialysis unit,488,0.08 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,"Jail, prison (not juvenile)",,,,,,,,,,,,,,,,,
+361,,"1,606",0.25 %,0,0,0.00 %,0,0.00 %,0,0.00 %,1,0.24 %,"3,100",0.00 %,360,0.00 %,"3,460",0.00 %
+,"Reformatory, juvenile",,,,,,,,,,,,,,,,,
+363,,196,0.03 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,2,0.00 %,2,0.00 %,4,0.00 %
+,detention center,,,,,,,,,,,,,,,,,
+365,Police station,691,0.11 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,200,0.00 %,0,0.00 %,200,0.00 %
+,Page 7 of 16,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Fri Mar 11 10:57:30 EST 2011,Fri Mar 11 10:57:30 EST 2011,Fri Mar 11 10:57:30 EST 2011
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,,,,,,,,,,,,
+,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+400,"Residential, other","10,736",1.67 %,6,4,3.15 %,6,0.92 %,0,0.00 %,5,1.18 %,"4,207,685",2.13 %,"1,477,429",2.27 %,"5,685,114",2.17 %
+,,"241,802",,,,,,,,,,,,,,,,
+419,1 or 2 family dwelling,,37.61 %,170,59,46.46 %,295,45.04 %,0,0.00 %,190,44.81 %,"96,001,254",48.66 %,"29,437,299",45.28 %,"125,438,553",47.83 %
+429,Multifamily dwellings,"76,441",11.89 %,51,7,5.51 %,95,14.50 %,0,0.00 %,43,10.14 %,"16,225,213",8.22 %,"6,283,663",9.67 %,"22,508,876",8.58 %
+,"Boarding/rooming house,",,,,,,,,,,,,,,,,,
+439,residential hotels,"2,625",0.41 %,0,0,0.00 %,6,0.92 %,0,0.00 %,1,0.24 %,"230,018",0.12 %,"42,167",0.06 %,"272,185",0.10 %
+,"Hotel/motel, commercial",,,,,,,,,,,,,,,,,
+449,,"8,161",1.27 %,0,0,0.00 %,5,0.76 %,0,0.00 %,1,0.24 %,"1,328,216",0.67 %,"377,079",0.58 %,"1,705,295",0.65 %
+,Residential board and,,,,,,,,,,,,,,,,,
+459,,"3,854",0.60 %,0,1,0.79 %,3,0.46 %,0,0.00 %,0,0.00 %,"60,677",0.03 %,"12,117",0.02 %,"72,794",0.03 %
+,care,,,,,,,,,,,,,,,,,
+,Dormitory type,,,,,,,,,,,,,,,,,
+460,,"2,851",0.44 %,0,0,0.00 %,2,0.31 %,0,0.00 %,2,0.47 %,"62,120",0.03 %,"29,640",0.05 %,"91,760",0.03 %
+,"residence, other",,,,,,,,,,,,,,,,,
+,"Sorority house, fraternity",,,,,,,,,,,,,,,,,
+462,,130,0.02 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"3,100",0.00 %,"3,100",0.00 %,"6,200",0.00 %
+,house,,,,,,,,,,,,,,,,,
+464,"Barracks, dormitory",663,0.10 %,0,0,0.00 %,0,0.00 %,0,0.00 %,2,0.47 %,130,0.00 %,900,0.00 %,"1,030",0.00 %
+5,"Mercantile, Business",3,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,"Mercantile, business,",,,,,,,,,,,,,,,,,
+500,,"4,919",0.77 %,0,0,0.00 %,1,0.15 %,0,0.00 %,2,0.47 %,"1,767,300",0.90 %,"669,664",1.03 %,"2,436,964",0.93 %
+,other,,,,,,,,,,,,,,,,,
+,Page 8 of 16,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Fri Mar 11 11:29:10 EST 2011,Fri Mar 11 11:29:10 EST 2011,Fri Mar 11 11:29:10 EST 2011
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,,,,,,,,,,,,,
+,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+511,Convenience store,"3,124",0.49 %,2,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"254,157",0.13 %,"117,440",0.18 %,"371,597",0.14 %
+,Food and beverage,,,,,,,,,,,,,,,,,
+519,,"5,590",0.87 %,2,0,0.00 %,2,0.31 %,0,0.00 %,0,0.00 %,"670,240",0.34 %,"227,810",0.35 %,"898,050",0.34 %
+,"sales, grocery store",,,,,,,,,,,,,,,,,
+,"Textile, wearing apparel",,,,,,,,,,,,,,,,,
+529,,683,0.11 %,2,0,0.00 %,0,0.00 %,0,0.00 %,1,0.24 %,"46,570",0.02 %,"26,900",0.04 %,"73,470",0.03 %
+,sales,,,,,,,,,,,,,,,,,
+,"Household goods, sales,",,,,,,,,,,,,,,,,,
+539,,785,0.12 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"105,305",0.05 %,"87,681",0.13 %,"192,986",0.07 %
+,repairs,,,,,,,,,,,,,,,,,
+549,Specialty shop,"1,575",0.24 %,4,0,0.00 %,1,0.15 %,0,0.00 %,0,0.00 %,"2,651,076",1.34 %,"3,005,907",4.62 %,"5,656,983",2.16 %
+,"Personal service,",,,,,,,,,,,,,,,,,
+557,including barber & beauty,663,0.10 %,0,0,0.00 %,0,0.00 %,0,0.00 %,1,0.24 %,"833,450",0.42 %,"268,700",0.41 %,"1,102,150",0.42 %
+,shops,,,,,,,,,,,,,,,,,
+,"Recreational, hobby,",,,,,,,,,,,,,,,,,
+559,"home repair sales, pet",445,0.07 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,925,0.00 %,410,0.00 %,"1,335",0.00 %
+,store,,,,,,,,,,,,,,,,,
+564,"Laundry, dry cleaning",350,0.05 %,1,0,0.00 %,3,0.46 %,0,0.00 %,0,0.00 %,"158,411",0.08 %,"401,402",0.62 %,"559,813",0.21 %
+,"Professional supplies,",,,,,,,,,,,,,,,,,
+569,,"1,023",0.16 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"1,246,001",0.63 %,"53,751",0.08 %,"1,299,752",0.50 %
+,services,,,,,,,,,,,,,,,,,
+,"Service station, gas",,,,,,,,,,,,,,,,,
+571,,"1,979",0.31 %,1,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"403,010",0.20 %,"47,873",0.07 %,"450,883",0.17 %
+,station,,,,,,,,,,,,,,,,,
+,Motor vehicle or boat,,,,,,,,,,,,,,,,,
+579,,"1,276",0.20 %,4,0,0.00 %,2,0.31 %,0,0.00 %,1,0.24 %,"2,547,251",1.29 %,"1,879,722",2.89 %,"4,426,973",1.69 %
+,"sales, services, repair",,,,,,,,,,,,,,,,,
+,Page 9 of 16,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Fri Mar 11 11:29:11 EST 2011,Fri Mar 11 11:29:11 EST 2011,Fri Mar 11 11:29:11 EST 2011
+Tally,,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,,,,,,,,,,,,,
+,,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,,,,,,,,,,,
+CODE,Description,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,,%,,%,,%,,%,,%,,%,,%
+580,"General retail, other","General retail, other","1,896",0.29 %,0,0,0.00 %,0,0.00 %,0,0.00 %,3,0.71 %,"343,902",0.17 %,"198,052",0.30 %,"541,954",0.21 %
+,Department or discount,Department or discount,,,,,,,,,,,,,,,,,
+581,,,"2,660",0.41 %,0,0,0.00 %,1,0.15 %,0,0.00 %,2,0.47 %,"253,176",0.13 %,"210,401",0.32 %,"463,577",0.18 %
+,,store,,,,,,,,,,,,,,,,,
+592,,Bank,899,0.14 %,2,0,0.00 %,0,0.00 %,0,0.00 %,1,0.24 %,"22,575",0.01 %,50,0.00 %,"22,625",0.01 %
+,Office:,veterinary or,,,,,,,,,,,,,,,,,
+593,,,272,0.04 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,350,0.00 %,"1,000",0.00 %,"1,350",0.00 %
+,research,research,,,,,,,,,,,,,,,,,
+,Post office or mailing,Post office or mailing,,,,,,,,,,,,,,,,,
+596,,,310,0.05 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"2,500",0.00 %,500,0.00 %,"3,000",0.00 %
+,,firms,,,,,,,,,,,,,,,,,
+599,Business office,Business office,"9,649",1.50 %,4,0,0.00 %,2,0.31 %,0,0.00 %,5,1.18 %,"4,380,623",2.22 %,"1,218,809",1.87 %,"5,599,432",2.13 %
+,"Utility, defense,","Utility, defense,",,,,,,,,,,,,,,,,,
+600,"agriculture, mining, other","agriculture, mining, other",477,0.07 %,1,0,0.00 %,1,0.15 %,0,0.00 %,0,0.00 %,"922,113",0.47 %,"391,202",0.60 %,"1,313,315",0.50 %
+,"Energy production plant,","Energy production plant,",,,,,,,,,,,,,,,,,
+610,,,33,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,,other,,,,,,,,,,,,,,,,,
+,Steam or heat generating,Steam or heat generating,,,,,,,,,,,,,,,,,
+614,,,27,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"5,001",0.00 %,1,0.00 %,"5,002",0.00 %
+,,plant,,,,,,,,,,,,,,,,,
+,Electric generating plant,Electric generating plant,,,,,,,,,,,,,,,,,
+615,,,41,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"14,000",0.01 %,"9,000",0.01 %,"23,000",0.01 %
+,Laboratory or science,Laboratory or science,,,,,,,,,,,,,,,,,
+629,,,250,0.04 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"24,600",0.01 %,700,0.00 %,"25,300",0.01 %
+,lababoratory,lababoratory,,,,,,,,,,,,,,,,,
+,Page 10 of 16,Page 10 of 16,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Fri Mar 11 11:29:13 EST 2011,Fri Mar 11 11:29:13 EST 2011,Fri Mar 11 11:29:13 EST 2011
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,,,,,,,,,,,,,
+,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,"Defense, military",,,,,,,,,,,,,,,,,
+631,,640,0.10 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"5,750",0.01 %,"5,750",0.00 %
+,installation,,,,,,,,,,,,,,,,,
+635,Computer center,114,0.02 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"2,000,000",1.01 %,"200,000",0.31 %,"2,200,000",0.84 %
+,Communications center,,,,,,,,,,,,,,,,,
+639,,192,0.03 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,Utility or Distribution,,,,,,,,,,,,,,,,,
+640,,217,0.03 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"3,500",0.00 %,"1,000",0.00 %,"4,500",0.00 %
+,"system, other",,,,,,,,,,,,,,,,,
+642,Electrical distribution,206,0.03 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"18,700",0.01 %,"11,200",0.02 %,"29,900",0.01 %
+,"Gas distribution, pipeline,",,,,,,,,,,,,,,,,,
+644,gas distribution,93,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"5,000",0.00 %,"1,000",0.00 %,"6,000",0.00 %
+,Flammable liquid,,,,,,,,,,,,,,,,,
+645,"distribution, pipeline,",31,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"80,250",0.04 %,"20,000",0.03 %,"100,250",0.04 %
+,flammable,,,,,,,,,,,,,,,,,
+647,Water utility,161,0.03 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"100,500",0.05 %,500,0.00 %,"101,000",0.04 %
+648,Sanitation utility,173,0.03 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"17,026",0.01 %,"2,000",0.00 %,"19,026",0.01 %
+655,Crops or orchard,96,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"46,250",0.02 %,"2,000",0.00 %,"48,250",0.02 %
+659,Livestock production,75,0.01 %,0,1,0.79 %,0,0.00 %,0,0.00 %,0,0.00 %,"297,500",0.15 %,"63,000",0.10 %,"360,500",0.14 %
+,Page 11 of 16,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Fri Mar 11 11:29:13 EST 2011,Fri Mar 11 11:29:13 EST 2011,Fri Mar 11 11:29:13 EST 2011
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,,,,,,,,,,,,,
+,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,"Forest, timberland,",,,,,,,,,,,,,,,,,
+669,,625,0.10 %,0,0,0.00 %,1,0.15 %,0,0.00 %,3,0.71 %,"778,556",0.39 %,"5,254",0.01 %,"783,810",0.30 %
+,woodland,,,,,,,,,,,,,,,,,
+679,Mine or quarry,37,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,1,0.24 %,"320,000",0.16 %,"6,000",0.01 %,"326,000",0.12 %
+,"Manufacturing,",,,,,,,,,,,,,,,,,
+700,,"2,738",0.43 %,0,0,0.00 %,11,1.68 %,0,0.00 %,2,0.47 %,"3,852,865",1.95 %,"1,659,106",2.55 %,"5,511,971",2.10 %
+,processing,,,,,,,,,,,,,,,,,
+800,"Storage, other",313,0.05 %,3,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"2,543,800",1.29 %,"1,277,400",1.96 %,"3,821,200",1.46 %
+,Outside material storage,,,,,,,,,,,,,,,,,
+807,,162,0.03 %,1,0,0.00 %,0,0.00 %,0,0.00 %,1,0.24 %,"756,170",0.38 %,"502,201",0.77 %,"1,258,371",0.48 %
+,area,,,,,,,,,,,,,,,,,
+808,Outbuilding or shed,474,0.07 %,28,0,0.00 %,5,0.76 %,0,0.00 %,5,1.18 %,"2,555,765",1.30 %,"2,767,176",4.26 %,"5,322,941",2.03 %
+816,"Grain elevator, silo",10,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"7,500",0.01 %,"7,500",0.00 %
+,"Livestock, poultry storage",,,,,,,,,,,,,,,,,
+819,,69,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,1,0.24 %,"193,650",0.10 %,"87,300",0.13 %,"280,950",0.11 %
+839,Refrigerated storage,76,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"140,000",0.07 %,10,0.00 %,"140,010",0.05 %
+849,Outside storage tank,27,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"27,000",0.04 %,"27,000",0.01 %
+880,"Vehicle storage, other",258,0.04 %,1,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"244,300",0.12 %,"108,800",0.17 %,"353,100",0.13 %
+,Page 12 of 16,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Fri Mar 11 11:29:14 EST 2011,Fri Mar 11 11:29:14 EST 2011,Fri Mar 11 11:29:14 EST 2011
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,,,,,,,,,,,,,
+,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,"Parking garage,",,,,,,,,,,,,,,,,,
+881,(detached residential,116,0.02 %,4,0,0.00 %,0,0.00 %,0,0.00 %,1,0.24 %,"1,187,059",0.60 %,"1,476,841",2.27 %,"2,663,900",1.02 %
+,garage),,,,,,,,,,,,,,,,,
+,"Parking garage, general",,,,,,,,,,,,,,,,,
+882,,674,0.10 %,5,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"211,550",0.11 %,"5,500",0.01 %,"217,050",0.08 %
+,vehicle,,,,,,,,,,,,,,,,,
+888,Fire station,"4,250",0.66 %,0,0,0.00 %,0,0.00 %,0,0.00 %,33,7.78 %,"7,500",0.00 %,"1,102",0.00 %,"8,602",0.00 %
+891,Warehouse,"1,503",0.23 %,5,0,0.00 %,0,0.00 %,0,0.00 %,7,1.65 %,"1,193,479",0.60 %,"497,502",0.77 %,"1,690,981",0.64 %
+,"Dock, marina, pier, wharf",,,,,,,,,,,,,,,,,
+898,,151,0.02 %,1,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"29,500",0.01 %,"131,000",0.20 %,"160,500",0.06 %
+,Residential or self,,,,,,,,,,,,,,,,,
+899,,171,0.03 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"1,616,600",0.82 %,"1,247,502",1.92 %,"2,864,102",1.09 %
+,storage units,,,,,,,,,,,,,,,,,
+,Outside or special,,,,,,,,,,,,,,,,,
+9,,1,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,property,,,,,,,,,,,,,,,,,
+,Outside or special,,,,,,,,,,,,,,,,,
+900,,"4,288",0.67 %,9,0,0.00 %,4,0.61 %,0,0.00 %,7,1.65 %,"978,282",0.50 %,"673,456",1.04 %,"1,651,738",0.63 %
+,"property, other",,,,,,,,,,,,,,,,,
+919,"Dump, sanitary landfill",270,0.04 %,3,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"845,278",0.43 %,"585,459",0.90 %,"1,430,737",0.55 %
+921,"Bridge, trestle",339,0.05 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"105,901",0.05 %,"3,201",0.00 %,"109,102",0.04 %
+922,Tunnel,108,0.02 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"2,000",0.00 %,0,0.00 %,"2,000",0.00 %
+,Page 13 of 16,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Fri Mar 11 11:39:13 EST 2011,Fri Mar 11 11:39:13 EST 2011,Fri Mar 11 11:39:13 EST 2011
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,,,,,,,,,,,,,
+,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,"Outbuilding, protective",,,,,,,,,,,,,,,,,
+926,,257,0.04 %,2,0,0.00 %,3,0.46 %,0,0.00 %,2,0.47 %,"289,186",0.15 %,"231,553",0.36 %,"520,739",0.20 %
+,shelter,,,,,,,,,,,,,,,,,
+931,Open land or field,"5,814",0.90 %,16,3,2.36 %,8,1.22 %,0,0.00 %,9,2.12 %,"2,325,743",1.18 %,"551,630",0.85 %,"2,877,373",1.10 %
+935,Campsite with utilities,240,0.04 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"19,050",0.01 %,"13,301",0.02 %,"32,351",0.01 %
+936,Vacant lot,"1,180",0.18 %,2,1,0.79 %,1,0.15 %,0,0.00 %,1,0.24 %,"288,985",0.15 %,"7,338",0.01 %,"296,323",0.11 %
+937,Beach,410,0.06 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,621,0.00 %,22,0.00 %,643,0.00 %
+,Graded and cared-for,,,,,,,,,,,,,,,,,
+938,,"2,338",0.36 %,8,1,0.79 %,3,0.46 %,0,0.00 %,2,0.47 %,"312,833",0.16 %,"24,829",0.04 %,"337,662",0.13 %
+,plots of land,,,,,,,,,,,,,,,,,
+940,"Water area, other",331,0.05 %,0,1,0.79 %,0,0.00 %,0,0.00 %,1,0.24 %,"55,001",0.03 %,"2,001",0.00 %,"57,002",0.02 %
+,"Open ocean, sea or tidal",,,,,,,,,,,,,,,,,
+941,,214,0.03 %,5,0,0.00 %,0,0.00 %,0,0.00 %,1,0.24 %,"1,435,500",0.73 %,"102,000",0.16 %,"1,537,500",0.59 %
+,waters,,,,,,,,,,,,,,,,,
+946,"Lake, river, stream",767,0.12 %,0,0,0.00 %,1,0.15 %,0,0.00 %,2,0.47 %,"49,300",0.02 %,"11,000",0.02 %,"60,300",0.02 %
+951,Railroad right of way,409,0.06 %,0,0,0.00 %,0,0.00 %,0,0.00 %,2,0.47 %,"3,445,801",1.75 %,"6,103",0.01 %,"3,451,904",1.32 %
+952,Railroad yard,105,0.02 %,0,0,0.00 %,0,0.00 %,0,0.00 %,1,0.24 %,600,0.00 %,100,0.00 %,700,0.00 %
+,Page 14 of 16,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Fri Mar 11 11:39:15 EST 2011,Fri Mar 11 11:39:15 EST 2011,Fri Mar 11 11:39:15 EST 2011
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,,,,,,,,,,,,
+,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+960,"Street, other","15,137",2.35 %,2,4,3.15 %,12,1.83 %,0,0.00 %,3,0.71 %,"1,158,952",0.59 %,"81,828",0.13 %,"1,240,780",0.47 %
+,Highway or divided,,,,,,,,,,,,,,,,,
+961,,"37,607",5.85 %,4,29,22.83 %,90,13.74 %,0,0.00 %,25,5.90 %,"9,391,070",4.76 %,"1,233,626",1.90 %,"10,624,696",4.05 %
+,highway,,,,,,,,,,,,,,,,,
+,"Residential street, road",,,,,,,,,,,,,,,,,
+962,,"27,336",4.25 %,16,6,4.72 %,43,6.56 %,0,0.00 %,11,2.59 %,"3,654,901",1.85 %,"304,818",0.47 %,"3,959,719",1.51 %
+,or residential driveway,,,,,,,,,,,,,,,,,
+,Street or road in,,,,,,,,,,,,,,,,,
+963,,"13,839",2.15 %,0,0,0.00 %,12,1.83 %,0,0.00 %,14,3.30 %,"798,578",0.40 %,"32,990",0.05 %,"831,568",0.32 %
+,commercial area,,,,,,,,,,,,,,,,,
+965,Vehicle parking area,"14,096",2.19 %,68,0,0.00 %,7,1.07 %,0,0.00 %,4,0.94 %,"5,730,361",2.90 %,"387,141",0.60 %,"6,117,502",2.33 %
+972,Aircraft runway,263,0.04 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+973,Aircraft taxi-way,127,0.02 %,0,0,0.00 %,1,0.15 %,0,0.00 %,1,0.24 %,"15,500",0.01 %,0,0.00 %,"15,500",0.01 %
+974,Aircraft loading area,863,0.13 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"1,500",0.00 %,0,0.00 %,"1,500",0.00 %
+981,Construction site,295,0.05 %,0,2,1.57 %,0,0.00 %,0,0.00 %,0,0.00 %,"837,005",0.42 %,"2,102",0.00 %,"839,107",0.32 %
+982,Oil or gas field,8,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"6,000",0.00 %,"3,000",0.00 %,"9,000",0.00 %
+,"Pipeline, power line or",,,,,,,,,,,,,,,,,
+983,other utility right of way,485,0.08 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"86,126",0.04 %,"2,002",0.00 %,"88,128",0.03 %
+,Page 15 of 16,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Fri Mar 11 11:49:06 EST 2011,Fri Mar 11 11:49:06 EST 2011,Fri Mar 11 11:49:06 EST 2011
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,Selected Coded Field: Basic: Property Use,,,,,,,,,,,,,
+,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,Industrial plant yard -,,,,,,,,,,,,,,,,,
+984,,193,0.03 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"203,001",0.10 %,"50,100",0.08 %,"253,101",0.10 %
+,area,,,,,,,,,,,,,,,,,
+NNN,None,"11,234",1.75 %,3,3,2.36 %,20,3.05 %,0,0.00 %,0,0.00 %,"1,265,237",0.64 %,"138,007",0.21 %,"1,403,244",0.54 %
+UUU,Undetermined,"8,827",1.37 %,0,4,3.15 %,1,0.15 %,0,0.00 %,2,0.47 %,"369,660",0.19 %,"81,510",0.13 %,"451,170",0.17 %
+,,"642,896",,,,,,,,,,,,,,,,
+Totals,,,100 %,441,127,100 %,655,100 %,0,0 %,424,100 %,"197,271,355",100 %,"65,014,482",100 %,"262,285,837",100 %
+Mutual Aid Given Incidents,Mutual Aid Given Incidents,"11,886",,,,,,,,,,,,,,,,
+,Page 16 of 16,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Fri Mar 11 11:49:08 EST 2011,Fri Mar 11 11:49:08 EST 2011,Fri Mar 11 11:49:08 EST 2011

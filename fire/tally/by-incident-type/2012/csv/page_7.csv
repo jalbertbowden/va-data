@@ -1,0 +1,42 @@
+Name: “Table 1 of 1 on page 7 of 18”,Name: “Table 1 of 1 on page 7 of 18”,Name: “Table 1 of 1 on page 7 of 18”,Name: “Table 1 of 1 on page 7 of 18”,Name: “Table 1 of 1 on page 7 of 18”,Name: “Table 1 of 1 on page 7 of 18”,Name: “Table 1 of 1 on page 7 of 18”,Name: “Table 1 of 1 on page 7 of 18”,Name: “Table 1 of 1 on page 7 of 18”,Name: “Table 1 of 1 on page 7 of 18”,Name: “Table 1 of 1 on page 7 of 18”,Name: “Table 1 of 1 on page 7 of 18”,Name: “Table 1 of 1 on page 7 of 18”,Name: “Table 1 of 1 on page 7 of 18”,Name: “Table 1 of 1 on page 7 of 18”,Name: “Table 1 of 1 on page 7 of 18”,Name: “Table 1 of 1 on page 7 of 18”,Name: “Table 1 of 1 on page 7 of 18”,Name: “Table 1 of 1 on page 7 of 18”
+Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7
+,,,,,,,,,,,,,,,,,,
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,Dust explosion (no fire),,,,,,,,,,,,,,,,,
+244,,1,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,"Excessive heat, scorch",,,,,,,,,,,,,,,,,
+251,,978,0.13 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"106,555",0.05 %,"6,250",0.01 %,"112,805",0.04 %
+,burns with no ignition,,,,,,,,,,,,,,,,,
+,"Rescue, emergency",,,,,,,,,,,,,,,,,
+300,"medical call (EMS) call,","25,549",3.42 %,0,6,4.65 %,6,0.96 %,0,0.00 %,1,0.14 %,"27,045",0.01 %,0,0.00 %,"27,045",0.01 %
+,other,,,,,,,,,,,,,,,,,
+,"Medical assist, assist",,,,,,,,,,,,,,,,,
+311,,"43,310",5.79 %,0,1,0.78 %,3,0.48 %,0,0.00 %,15,2.17 %,"23,015",0.01 %,100,0.00 %,"23,115",0.01 %
+,EMS crew,,,,,,,,,,,,,,,,,
+,Emergency medical,,,,,,,,,,,,,,,,,
+32,,2,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,service (EMS),,,,,,,,,,,,,,,,,
+,Emergency medical,,,,,,,,,,,,,,,,,
+320,,"6,393",0.85 %,0,0,0.00 %,0,0.00 %,0,0.00 %,12,1.74 %,0,0.00 %,0,0.00 %,0,0.00 %
+,"service, other",,,,,,,,,,,,,,,,,
+,"EMS call, excluding",,,,,,,,,,,,,,,,,
+,,"380,701",,,,,,,,,,,,,,,,
+321,vehicle accident with,,50.89 %,0,10,7.75 %,10,1.59 %,0,0.00 %,263,38.12 %,"37,552",0.02 %,100,0.00 %,"37,652",0.01 %
+,injury,,,,,,,,,,,,,,,,,
+,Vehicle accident with,,,,,,,,,,,,,,,,,
+322,,"30,923",4.13 %,0,21,16.28 %,99,15.79 %,1,25.00 %,22,3.19 %,"1,771,185",0.82 %,"375,100",0.55 %,"2,146,285",0.75 %
+,injuries,,,,,,,,,,,,,,,,,
+,Motor vehicle/pedestrian,,,,,,,,,,,,,,,,,
+323,accident (MV Ped),"2,058",0.28 %,0,3,2.33 %,1,0.16 %,0,0.00 %,0,0.00 %,"158,000",0.07 %,"20,010",0.03 %,"178,010",0.06 %
+,Motor vehicle accident,,,,,,,,,,,,,,,,,
+324,,"17,606",2.35 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"1,235,450",0.57 %,"106,405",0.16 %,"1,341,855",0.47 %
+,with no injuries,,,,,,,,,,,,,,,,,
+,"Lock-in (if lock out , use",,,,,,,,,,,,,,,,,
+331,,674,0.09 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,500,0.00 %,0,0.00 %,500,0.00 %
+,511 ),,,,,,,,,,,,,,,,,
+,Page 7 of 18,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Thu Mar 14 07:38:30 EDT 2013,Thu Mar 14 07:38:30 EDT 2013,Thu Mar 14 07:38:30 EDT 2013

@@ -1,0 +1,40 @@
+Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”,Name: “Table 1 of 1 on page 16 of 18”
+Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16
+,,,,,,,,,,,,,,,,,,
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,Report Period: From 01/01/2012 to 12/31/2012,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,"Central station, malicious",,,,,,,,,,,,,,,,,
+714,,350,0.05 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,false alarm,,,,,,,,,,,,,,,,,
+,"Local alarm system,",,,,,,,,,,,,,,,,,
+715,,462,0.06 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,malicious false alarm,,,,,,,,,,,,,,,,,
+721,Bomb scare - no bomb,224,0.03 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,"System malfunction,",,,,,,,,,,,,,,,,,
+730,,"3,324",0.44 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,other,,,,,,,,,,,,,,,,,
+,Sprinkler activation due,,,,,,,,,,,,,,,,,
+731,,571,0.08 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"15,000",0.01 %,"9,500",0.01 %,"24,500",0.01 %
+,to malfunction,,,,,,,,,,,,,,,,,
+,Extinguishing system,,,,,,,,,,,,,,,,,
+732,activation due to,74,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,malfunction,,,,,,,,,,,,,,,,,
+,Smoke detector,,,,,,,,,,,,,,,,,
+733,activation due to,"3,813",0.51 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,200,0.00 %,0,0.00 %,200,0.00 %
+,malfunction,,,,,,,,,,,,,,,,,
+,Heat detector activation,,,,,,,,,,,,,,,,,
+734,due to malfunction,280,0.04 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,Alarm system sounded,,,,,,,,,,,,,,,,,
+735,,"5,868",0.78 %,0,0,0.00 %,0,0.00 %,0,0.00 %,1,0.14 %,0,0.00 %,0,0.00 %,0,0.00 %
+,due to malfunction,,,,,,,,,,,,,,,,,
+,CO detector activation,,,,,,,,,,,,,,,,,
+736,,"1,437",0.19 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,due to malfunction,,,,,,,,,,,,,,,,,
+,Unintentional,,,,,,,,,,,,,,,,,
+740,"transmission of alarm,","3,649",0.49 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,other,,,,,,,,,,,,,,,,,
+,Page 16 of 18,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Thu Mar 14 07:40:31 EDT 2013,Thu Mar 14 07:40:31 EDT 2013,Thu Mar 14 07:40:31 EDT 2013

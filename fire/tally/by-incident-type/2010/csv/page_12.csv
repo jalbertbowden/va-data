@@ -1,0 +1,32 @@
+Name: “Table 1 of 1 on page 12 of 19”,Name: “Table 1 of 1 on page 12 of 19”,Name: “Table 1 of 1 on page 12 of 19”,Name: “Table 1 of 1 on page 12 of 19”,Name: “Table 1 of 1 on page 12 of 19”,Name: “Table 1 of 1 on page 12 of 19”,Name: “Table 1 of 1 on page 12 of 19”,Name: “Table 1 of 1 on page 12 of 19”,Name: “Table 1 of 1 on page 12 of 19”,Name: “Table 1 of 1 on page 12 of 19”,Name: “Table 1 of 1 on page 12 of 19”,Name: “Table 1 of 1 on page 12 of 19”,Name: “Table 1 of 1 on page 12 of 19”,Name: “Table 1 of 1 on page 12 of 19”,Name: “Table 1 of 1 on page 12 of 19”,Name: “Table 1 of 1 on page 12 of 19”,Name: “Table 1 of 1 on page 12 of 19”,Name: “Table 1 of 1 on page 12 of 19”,Name: “Table 1 of 1 on page 12 of 19”
+Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12
+,,,,,,,,,,,,,,,,,,
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,"Accident, potential",,,,,,,,,,,,,,,,,
+460,,914,0.14 %,0,0,0.00 %,2,0.31 %,0,0.00 %,0,0.00 %,"99,500",0.05 %,"4,000",0.01 %,"103,500",0.04 %
+,"accident, other",,,,,,,,,,,,,,,,,
+,Building or structure,,,,,,,,,,,,,,,,,
+461,,387,0.06 %,0,0,0.00 %,2,0.31 %,0,0.00 %,3,0.67 %,"1,331,400",0.67 %,"134,605",0.21 %,"1,466,005",0.56 %
+,weakened or collapsed,,,,,,,,,,,,,,,,,
+462,Aircraft standby,622,0.09 %,0,0,0.00 %,1,0.15 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,"Vehicle accident, general",,,,,,,,,,,,,,,,,
+463,,"6,678",1.02 %,0,2,1.57 %,38,5.80 %,0,0.00 %,3,0.67 %,"1,790,350",0.91 %,"173,515",0.27 %,"1,963,865",0.75 %
+,cleanup,,,,,,,,,,,,,,,,,
+,"Explosive, bomb removal",,,,,,,,,,,,,,,,,
+471,"(for bomb scare, use",62,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,721),,,,,,,,,,,,,,,,,
+,"Attempted burning, illegal",,,,,,,,,,,,,,,,,
+480,,102,0.02 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,500,0.00 %,0,0.00 %,500,0.00 %
+,"action, other",,,,,,,,,,,,,,,,,
+481,Attempt to burn,57,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"3,601",0.00 %,1,0.00 %,"3,602",0.00 %
+482,Threat to burn,29,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+500,"Service Call, other","5,010",0.76 %,0,0,0.00 %,1,0.15 %,0,0.00 %,0,0.00 %,"6,000",0.00 %,0,0.00 %,"6,000",0.00 %
+,"Person in distress, other",,,,,,,,,,,,,,,,,
+510,,"1,651",0.25 %,0,0,0.00 %,2,0.31 %,0,0.00 %,1,0.22 %,"6,000",0.00 %,0,0.00 %,"6,000",0.00 %
+511,Lock-out,"2,580",0.39 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %
+,Page 12 of 19,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Fri Mar 11 10:58:42 EST 2011,Fri Mar 11 10:58:42 EST 2011,Fri Mar 11 10:58:42 EST 2011

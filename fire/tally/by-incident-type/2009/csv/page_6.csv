@@ -1,0 +1,45 @@
+Name: “Table 1 of 1 on page 6 of 15”,Name: “Table 1 of 1 on page 6 of 15”,Name: “Table 1 of 1 on page 6 of 15”,Name: “Table 1 of 1 on page 6 of 15”,Name: “Table 1 of 1 on page 6 of 15”,Name: “Table 1 of 1 on page 6 of 15”,Name: “Table 1 of 1 on page 6 of 15”,Name: “Table 1 of 1 on page 6 of 15”,Name: “Table 1 of 1 on page 6 of 15”,Name: “Table 1 of 1 on page 6 of 15”,Name: “Table 1 of 1 on page 6 of 15”,Name: “Table 1 of 1 on page 6 of 15”,Name: “Table 1 of 1 on page 6 of 15”,Name: “Table 1 of 1 on page 6 of 15”,Name: “Table 1 of 1 on page 6 of 15”,Name: “Table 1 of 1 on page 6 of 15”,Name: “Table 1 of 1 on page 6 of 15”,Name: “Table 1 of 1 on page 6 of 15”,Name: “Table 1 of 1 on page 6 of 15”
+Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6
+,,,,,,,,,,,,,,,,,,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Incident Type,Incident Type,Incident Type,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/09 - 12/31/09,1/1/09 - 12/31/09,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,"Excessive heat, scorch",,,,,,,,,,,,,,,,,
+251,burns with no ignition,894,0.14%,2,0,0.00%,0,0.00%,0,0.00%,1,0.29%,"13,872",0.01%,"6,529",0.01%,"20,401",0.01%
+,Rescue & Emergency,,,,,,,,,,,,,,,,,
+3,Medical Service,2,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Incidents,,,,,,,,,,,,,,,,,
+,"Rescue, emergency",,,,,,,,,,,,,,,,,
+30,"medical call (EMS),",2,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,other,,,,,,,,,,,,,,,,,
+,"Rescue, emergency",,,,,,,,,,,,,,,,,
+300,"medical call (EMS) call,","17,750",2.75%,0,1,0.97%,0,0.00%,0,0.00%,2,0.59%,"90,700",0.04%,0,0.00%,"90,700",0.03%
+,other,,,,,,,,,,,,,,,,,
+,"Medical assist, assist",,,,,,,,,,,,,,,,,
+311,EMS crew,"37,733",5.85%,0,0,0.00%,1,0.18%,0,0.00%,2,0.59%,"12,150",0.01%,500,0.00%,"12,650",0.00%
+,Emergency medical,,,,,,,,,,,,,,,,,
+32,service (EMS),131,0.02%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"EMS call, excluding",,,,,,,,,,,,,,,,,
+321,vehicle accident with,"316,233",49.02%,0,1,0.97%,1,0.18%,0,0.00%,55,16.13%,"123,265",0.06%,"16,100",0.02%,"139,365",0.05%
+,injury,,,,,,,,,,,,,,,,,
+,Vehicle accident with,,,,,,,,,,,,,,,,,
+322,injuries,"27,223",4.22%,6,18,17.48%,105,19.41%,0,0.00%,26,7.62%,"3,349,025",1.57%,"164,111",0.20%,"3,513,136",1.19%
+,Motor vehicle/pedestrian,,,,,,,,,,,,,,,,,
+323,accident (MV Ped),"1,778",0.28%,0,1,0.97%,0,0.00%,0,0.00%,1,0.29%,"28,000",0.01%,10,0.00%,"28,010",0.01%
+,Motor vehicle accident,,,,,,,,,,,,,,,,,
+324,with no injuries,"17,823",2.76%,1,1,0.97%,0,0.00%,0,0.00%,4,1.17%,"1,805,339",0.85%,"81,450",0.10%,"1,886,789",0.64%
+,Lock-In,,,,,,,,,,,,,,,,,
+33,,5,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Lock-in (if lock out , use",,,,,,,,,,,,,,,,,
+331,511 ),723,0.11%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"1,200",0.00%,200,0.00%,"1,400",0.00%
+,"Search, other",,,,,,,,,,,,,,,,,
+340,,19,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,500,0.00%,500,0.00%,"1,000",0.00%
+,Search for person on,,,,,,,,,,,,,,,,,
+341,land,116,0.02%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Search for person in,,,,,,,,,,,,,,,,,
+342,water,62,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"23,000",0.01%,0,0.00%,"23,000",0.01%
+,"Extrication, rescue,",,,,,,,,,,,,,,,,,
+350,other,203,0.03%,0,0,0.00%,0,0.00%,0,0.00%,1,0.29%,"25,000",0.01%,0,0.00%,"25,000",0.01%
+,Page 6 of 15,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,3/5/10 8:44:09 AM,3/5/10 8:44:09 AM,

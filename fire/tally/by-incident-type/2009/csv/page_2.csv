@@ -1,0 +1,46 @@
+Name: “Table 1 of 1 on page 2 of 15”,Name: “Table 1 of 1 on page 2 of 15”,Name: “Table 1 of 1 on page 2 of 15”,Name: “Table 1 of 1 on page 2 of 15”,Name: “Table 1 of 1 on page 2 of 15”,Name: “Table 1 of 1 on page 2 of 15”,Name: “Table 1 of 1 on page 2 of 15”,Name: “Table 1 of 1 on page 2 of 15”,Name: “Table 1 of 1 on page 2 of 15”,Name: “Table 1 of 1 on page 2 of 15”,Name: “Table 1 of 1 on page 2 of 15”,Name: “Table 1 of 1 on page 2 of 15”,Name: “Table 1 of 1 on page 2 of 15”,Name: “Table 1 of 1 on page 2 of 15”,Name: “Table 1 of 1 on page 2 of 15”,Name: “Table 1 of 1 on page 2 of 15”,Name: “Table 1 of 1 on page 2 of 15”,Name: “Table 1 of 1 on page 2 of 15”,Name: “Table 1 of 1 on page 2 of 15”
+Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2
+,,,,,,,,,,,,,,,,,,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Incident Type,Incident Type,Incident Type,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/09 - 12/31/09,1/1/09 - 12/31/09,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,Fire,,,,,,,,,,,,,,,,,
+1,,7,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Fire, other",,,,,,,,,,,,,,,,,
+10,,2,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Fire, other",,,,,,,,,,,,,,,,,
+100,,"1,000",0.16%,14,3,2.91%,15,2.77%,0,0.00%,1,0.29%,"1,565,032",0.74%,"2,741,797",3.37%,"4,306,829",1.46%
+,Structure Fire,,,,,,,,,,,,,,,,,
+11,,12,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"41,000",0.02%,"10,000",0.01%,"51,000",0.02%
+,Building fires,,,,,,,,,,,,,,,,,
+111,,"4,917",0.76%,213,51,49.51%,251,46.40%,1,100.00%,159,46.63%,"163,004,830",76.58%,"68,216,896",83.96%,"231,221,726",78.62%
+,Fires in structures other,,,,,,,,,,,,,,,,,
+112,than in a building,288,0.04%,5,1,0.97%,4,0.74%,0,0.00%,2,0.59%,"5,579,009",2.62%,"1,862,809",2.29%,"7,441,818",2.53%
+,"Cooking fire, confined to",,,,,,,,,,,,,,,,,
+113,container,"2,687",0.42%,4,0,0.00%,63,11.65%,0,0.00%,2,0.59%,"529,819",0.25%,"601,697",0.74%,"1,131,516",0.38%
+,"Chimney or flue fire,",,,,,,,,,,,,,,,,,
+114,confined to chimney or,"1,076",0.17%,1,0,0.00%,0,0.00%,0,0.00%,4,1.17%,"158,670",0.07%,"46,167",0.06%,"204,837",0.07%
+,flue,,,,,,,,,,,,,,,,,
+,Incinerator overload or,,,,,,,,,,,,,,,,,
+115,"malfunction, fire",35,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"3,751",0.00%,"10,100",0.01%,"13,851",0.00%
+,confined,,,,,,,,,,,,,,,,,
+,Fuel burner/boiler,,,,,,,,,,,,,,,,,
+116,"malfunction, fire",196,0.03%,0,0,0.00%,3,0.55%,0,0.00%,0,0.00%,"47,066",0.02%,"67,078",0.08%,"114,144",0.04%
+,confined,,,,,,,,,,,,,,,,,
+,Commercial Compactor,,,,,,,,,,,,,,,,,
+117,"fire, confined to rubbish",26,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"4,501",0.00%,"2,100",0.00%,"6,601",0.00%
+,"Trash or rubbish fire,",,,,,,,,,,,,,,,,,
+118,contained,464,0.07%,3,0,0.00%,4,0.74%,0,0.00%,0,0.00%,"54,297",0.03%,"16,926",0.02%,"71,223",0.02%
+,Fire in mobile prop.,,,,,,,,,,,,,,,,,
+120,"used as a fixed struc.,",23,0.00%,1,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"163,810",0.08%,"67,510",0.08%,"231,320",0.08%
+,other,,,,,,,,,,,,,,,,,
+,Fire in mobile home,,,,,,,,,,,,,,,,,
+121,used as fixed residence,163,0.03%,6,3,2.91%,4,0.74%,0,0.00%,6,1.76%,"1,736,907",0.82%,"711,874",0.88%,"2,448,781",0.83%
+,"Fire in motor home,",,,,,,,,,,,,,,,,,
+122,"camper, recreational",15,0.00%,0,0,0.00%,1,0.18%,0,0.00%,0,0.00%,"68,001",0.03%,"4,651",0.01%,"72,652",0.02%
+,vehicle,,,,,,,,,,,,,,,,,
+,"Fire in portable building,",,,,,,,,,,,,,,,,,
+123,fixed location,24,0.00%,2,0,0.00%,0,0.00%,0,0.00%,1,0.29%,"510,350",0.24%,"204,600",0.25%,"714,950",0.24%
+,Page 2 of 15,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,3/5/10 8:36:31 AM,3/5/10 8:36:31 AM,

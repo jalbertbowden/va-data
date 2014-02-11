@@ -1,0 +1,41 @@
+Name: “Table 1 of 1 on page 4 of 18”,Name: “Table 1 of 1 on page 4 of 18”,Name: “Table 1 of 1 on page 4 of 18”,Name: “Table 1 of 1 on page 4 of 18”,Name: “Table 1 of 1 on page 4 of 18”,Name: “Table 1 of 1 on page 4 of 18”,Name: “Table 1 of 1 on page 4 of 18”,Name: “Table 1 of 1 on page 4 of 18”,Name: “Table 1 of 1 on page 4 of 18”,Name: “Table 1 of 1 on page 4 of 18”,Name: “Table 1 of 1 on page 4 of 18”,Name: “Table 1 of 1 on page 4 of 18”,Name: “Table 1 of 1 on page 4 of 18”,Name: “Table 1 of 1 on page 4 of 18”,Name: “Table 1 of 1 on page 4 of 18”,Name: “Table 1 of 1 on page 4 of 18”,Name: “Table 1 of 1 on page 4 of 18”,Name: “Table 1 of 1 on page 4 of 18”,Name: “Table 1 of 1 on page 4 of 18”
+Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4
+,,,,,,,,,,,,,,,,,,
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,Report Period: From 01/01/2011 to 12/31/2011,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,Off-road vehicle or heavy,,,,,,,,,,,,,,,,,
+138,,178,0.03 %,7,0,0.00 %,1,0.16 %,0,0.00 %,3,0.48 %,"5,712,230",3.04 %,"118,722",0.18 %,"5,830,952",2.30 %
+,equipment fire,,,,,,,,,,,,,,,,,
+,"Natural vegetation fire,",,,,,,,,,,,,,,,,,
+140,,877,0.13 %,0,0,0.00 %,0,0.00 %,0,0.00 %,1,0.16 %,"18,397",0.01 %,"3,012",0.00 %,"21,409",0.01 %
+,other,,,,,,,,,,,,,,,,,
+,"Forest, woods or wildland",,,,,,,,,,,,,,,,,
+141,,817,0.12 %,2,0,0.00 %,2,0.33 %,0,0.00 %,9,1.44 %,"967,179",0.51 %,"146,077",0.22 %,"1,113,256",0.44 %
+,fire,,,,,,,,,,,,,,,,,
+,"Brush, or brush and",,,,,,,,,,,,,,,,,
+142,,"3,855",0.56 %,17,0,0.00 %,2,0.33 %,0,0.00 %,12,1.93 %,"24,210,851",12.87 %,"156,821",0.24 %,"24,367,672",9.59 %
+,grass mixture fire,,,,,,,,,,,,,,,,,
+143,Grass fire,"1,097",0.16 %,3,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"247,315",0.13 %,"5,795",0.01 %,"253,110",0.10 %
+,"Outside rubbish fire,",,,,,,,,,,,,,,,,,
+150,,786,0.11 %,1,0,0.00 %,2,0.33 %,0,0.00 %,0,0.00 %,"163,628",0.09 %,"59,763",0.09 %,"223,391",0.09 %
+,other,,,,,,,,,,,,,,,,,
+,"Outside rubbish, trash or",,,,,,,,,,,,,,,,,
+151,,"1,365",0.20 %,4,0,0.00 %,5,0.81 %,0,0.00 %,0,0.00 %,"167,615",0.09 %,"18,701",0.03 %,"186,316",0.07 %
+,waste fire,,,,,,,,,,,,,,,,,
+,Garbage dump or,,,,,,,,,,,,,,,,,
+152,,37,0.01 %,1,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,1,0.00 %,1,0.00 %,2,0.00 %
+,sanitary landfill fire,,,,,,,,,,,,,,,,,
+,Construction or,,,,,,,,,,,,,,,,,
+153,,49,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"1,051",0.00 %,"1,051",0.00 %,"2,102",0.00 %
+,demolition landfill fire,,,,,,,,,,,,,,,,,
+,Dumpster or other,,,,,,,,,,,,,,,,,
+154,outside trash receptacle,930,0.14 %,3,0,0.00 %,2,0.33 %,0,0.00 %,0,0.00 %,"74,328",0.04 %,"15,347",0.02 %,"89,675",0.04 %
+,fire,,,,,,,,,,,,,,,,,
+,Outside stationary,,,,,,,,,,,,,,,,,
+155,compactor/compacted,16,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"1,000",0.00 %,"2,000",0.00 %,"3,000",0.00 %
+,trash fire,,,,,,,,,,,,,,,,,
+,Page 4 of 18,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Thu Mar 08 08:46:02 EST 2012,Thu Mar 08 08:46:02 EST 2012,Thu Mar 08 08:46:02 EST 2012

@@ -1,0 +1,42 @@
+Name: “Table 1 of 1 on page 8 of 11”,Name: “Table 1 of 1 on page 8 of 11”,Name: “Table 1 of 1 on page 8 of 11”,Name: “Table 1 of 1 on page 8 of 11”,Name: “Table 1 of 1 on page 8 of 11”,Name: “Table 1 of 1 on page 8 of 11”,Name: “Table 1 of 1 on page 8 of 11”,Name: “Table 1 of 1 on page 8 of 11”,Name: “Table 1 of 1 on page 8 of 11”,Name: “Table 1 of 1 on page 8 of 11”,Name: “Table 1 of 1 on page 8 of 11”,Name: “Table 1 of 1 on page 8 of 11”,Name: “Table 1 of 1 on page 8 of 11”,Name: “Table 1 of 1 on page 8 of 11”,Name: “Table 1 of 1 on page 8 of 11”,Name: “Table 1 of 1 on page 8 of 11”,Name: “Table 1 of 1 on page 8 of 11”,Name: “Table 1 of 1 on page 8 of 11”,Name: “Table 1 of 1 on page 8 of 11”
+Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8
+,,,,,,,,,,,,,,,,,,
+Tally,Tally,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Property Use,Property Use,Property Use,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/08 - 12/31/08,1/1/08 - 12/31/08,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,Laboratory or science,,,,,,,,,,,,,,,,,
+629,lababoratory,184,0.03%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"3,040",0.00%,0,0.00%,"3,040",0.00%
+,"Defense, military",,,,,,,,,,,,,,,,,
+631,installation,715,0.12%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"7,600",0.00%,"6,000",0.00%,"13,600",0.00%
+,Computer center,,,,,,,,,,,,,,,,,
+635,,174,0.03%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Communications center,,,,,,,,,,,,,,,,,
+639,,238,0.04%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"50,450",0.02%,0,0.00%,"50,450",0.01%
+,Utility or Distribution,,,,,,,,,,,,,,,,,
+640,"system, other",197,0.03%,0,0,0.00%,0,0.00%,0,0.00%,1,0.31%,"27,000",0.01%,"26,000",0.02%,"53,000",0.01%
+,Electrical distribution,,,,,,,,,,,,,,,,,
+642,,228,0.04%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"157,003",0.06%,"3,001",0.00%,"160,004",0.04%
+,"Gas distribution,",,,,,,,,,,,,,,,,,
+644,"pipeline, gas distribution",104,0.02%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"2,015,501",0.78%,"15,001",0.01%,"2,030,502",0.54%
+,Flammable liquid,,,,,,,,,,,,,,,,,
+645,"distribution, pipeline,",40,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,flammable,,,,,,,,,,,,,,,,,
+,Water utility,,,,,,,,,,,,,,,,,
+647,,82,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"1,000",0.00%,"1,000",0.00%
+,Sanitation utility,,,,,,,,,,,,,,,,,
+648,,116,0.02%,0,0,0.00%,0,0.00%,0,0.00%,1,0.31%,"5,200",0.00%,410,0.00%,"5,610",0.00%
+,Crops or orchard,,,,,,,,,,,,,,,,,
+655,,87,0.01%,1,0,0.00%,0,0.00%,0,0.00%,1,0.31%,"142,851",0.06%,"1,761",0.00%,"144,612",0.04%
+,Livestock production,,,,,,,,,,,,,,,,,
+659,,84,0.01%,2,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"152,040",0.06%,"157,547",0.13%,"309,587",0.08%
+,"Forest, timberland,",,,,,,,,,,,,,,,,,
+669,woodland,814,0.13%,3,0,0.00%,1,0.18%,0,0.00%,4,1.23%,"709,330",0.27%,"42,525",0.04%,"751,855",0.20%
+,Mine or quarry,,,,,,,,,,,,,,,,,
+679,,39,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"23,000",0.01%,"40,000",0.03%,"63,000",0.02%
+,"Manufacturing,",,,,,,,,,,,,,,,,,
+700,processing,"2,853",0.47%,3,0,0.00%,1,0.18%,0,0.00%,11,3.40%,"2,242,753",0.87%,"2,961,094",2.47%,"5,203,847",1.38%
+,"Storage, other",,,,,,,,,,,,,,,,,
+800,,321,0.05%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"1,578,501",0.61%,"1,156,201",0.96%,"2,734,702",0.72%
+,Page 8 of 11,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,4/7/09 11:16:56 AM,4/7/09 11:16:56 AM,

@@ -1,0 +1,34 @@
+Name: “Table 1 of 1 on page 5 of 19”,Name: “Table 1 of 1 on page 5 of 19”,Name: “Table 1 of 1 on page 5 of 19”,Name: “Table 1 of 1 on page 5 of 19”,Name: “Table 1 of 1 on page 5 of 19”,Name: “Table 1 of 1 on page 5 of 19”,Name: “Table 1 of 1 on page 5 of 19”,Name: “Table 1 of 1 on page 5 of 19”,Name: “Table 1 of 1 on page 5 of 19”,Name: “Table 1 of 1 on page 5 of 19”,Name: “Table 1 of 1 on page 5 of 19”,Name: “Table 1 of 1 on page 5 of 19”,Name: “Table 1 of 1 on page 5 of 19”,Name: “Table 1 of 1 on page 5 of 19”,Name: “Table 1 of 1 on page 5 of 19”,Name: “Table 1 of 1 on page 5 of 19”,Name: “Table 1 of 1 on page 5 of 19”,Name: “Table 1 of 1 on page 5 of 19”,Name: “Table 1 of 1 on page 5 of 19”
+Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5
+,,,,,,,,,,,,,,,,,,
+Tally,,,,,,,,,,,,,,,,,,
+,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,Selected Coded Field: Basic: Incident Type,,,,,,,,,,,,
+,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,Report Period: From 01/01/2010 to 12/31/2010,,,,,,,,,,,
+CODE,Description,FREQ,FREQ,EXPs,CIV,CIV,CIV,CIV,FF,FF,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+,,,%,,DTHS,DTHS,INJS,INJS,DTHS,DTHS,INJS,INJS,,LOSS,,LOSS,,LOSS
+,,,,,,%,,%,,%,,%,,%,,%,,%
+,Dumpster or other,,,,,,,,,,,,,,,,,
+154,outside trash receptacle,"1,004",0.15 %,5,0,0.00 %,1,0.15 %,0,0.00 %,0,0.00 %,"101,348",0.05 %,"4,055",0.01 %,"105,403",0.04 %
+,fire,,,,,,,,,,,,,,,,,
+,Outside stationary,,,,,,,,,,,,,,,,,
+155,compactor/compacted,23,0.00 %,2,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"28,500",0.01 %,"13,900",0.02 %,"42,400",0.02 %
+,trash fire,,,,,,,,,,,,,,,,,
+16,Special outside fire,12,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,100,0.00 %,100,0.00 %
+,"Special outside fire, other",,,,,,,,,,,,,,,,,
+160,,806,0.12 %,7,0,0.00 %,2,0.31 %,0,0.00 %,3,0.67 %,"195,206",0.10 %,"34,055",0.05 %,"229,261",0.09 %
+161,Outside storage fire,104,0.02 %,1,0,0.00 %,1,0.15 %,0,0.00 %,0,0.00 %,"217,650",0.11 %,"258,102",0.40 %,"475,752",0.18 %
+162,Outside equipment fire,358,0.05 %,3,0,0.00 %,5,0.76 %,0,0.00 %,0,0.00 %,"1,481,353",0.75 %,"98,052",0.15 %,"1,579,405",0.60 %
+,Outside gas or vapor,,,,,,,,,,,,,,,,,
+163,,18,0.00 %,0,0,0.00 %,4,0.61 %,0,0.00 %,2,0.45 %,300,0.00 %,648,0.00 %,948,0.00 %
+,combustion explosion,,,,,,,,,,,,,,,,,
+164,Outside mailbox fire,20,0.00 %,2,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"1,225",0.00 %,803,0.00 %,"2,028",0.00 %
+,"Cultivated vegetation,",,,,,,,,,,,,,,,,,
+170,,76,0.01 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"14,506",0.01 %,"8,041",0.01 %,"22,547",0.01 %
+,"crop fire, other",,,,,,,,,,,,,,,,,
+,Cultivated grain or crop,,,,,,,,,,,,,,,,,
+171,,51,0.01 %,1,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"14,352",0.01 %,"2,077",0.00 %,"16,429",0.01 %
+,fire,,,,,,,,,,,,,,,,,
+,Cultivated trees or,,,,,,,,,,,,,,,,,
+173,,31,0.00 %,0,0,0.00 %,0,0.00 %,0,0.00 %,0,0.00 %,"1,301",0.00 %,1,0.00 %,"1,302",0.00 %
+,nursery stock fire,,,,,,,,,,,,,,,,,
+,Page 5 of 19,,,,,,,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,NFIRS 5.0 National Reporting System,,,,Fri Mar 11 09:47:02 EST 2011,Fri Mar 11 09:47:02 EST 2011,Fri Mar 11 09:47:02 EST 2011

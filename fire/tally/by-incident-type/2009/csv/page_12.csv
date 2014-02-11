@@ -1,0 +1,43 @@
+Name: “Table 1 of 1 on page 12 of 15”,Name: “Table 1 of 1 on page 12 of 15”,Name: “Table 1 of 1 on page 12 of 15”,Name: “Table 1 of 1 on page 12 of 15”,Name: “Table 1 of 1 on page 12 of 15”,Name: “Table 1 of 1 on page 12 of 15”,Name: “Table 1 of 1 on page 12 of 15”,Name: “Table 1 of 1 on page 12 of 15”,Name: “Table 1 of 1 on page 12 of 15”,Name: “Table 1 of 1 on page 12 of 15”,Name: “Table 1 of 1 on page 12 of 15”,Name: “Table 1 of 1 on page 12 of 15”,Name: “Table 1 of 1 on page 12 of 15”,Name: “Table 1 of 1 on page 12 of 15”,Name: “Table 1 of 1 on page 12 of 15”,Name: “Table 1 of 1 on page 12 of 15”,Name: “Table 1 of 1 on page 12 of 15”,Name: “Table 1 of 1 on page 12 of 15”,Name: “Table 1 of 1 on page 12 of 15”,Name: “Table 1 of 1 on page 12 of 15”
+Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12
+,,,,,,,,,,,,,,,,,,,
+Tally,Tally,,,,,,,,,,,,,,,,,,
+Selected Coded Field:,Selected Coded Field:,Selected Coded Field:,Incident Type,Incident Type,Incident Type,,,,,,,,,,,,,,
+Report Period:,Report Period:,1/1/09 - 12/31/09,1/1/09 - 12/31/09,1/1/09 - 12/31/09,,,,,,,,,,,,,,,
+COD,DESCRIPTOR,,FREQ,FREQ %,EXPs,CIV,CIV,CIV,CIV,FF,FF DTH,FF,FF,PROP LOSS,PROP,CONT LOSS,CONT,TOTAL LOSS,TOT
+E,,,,,,DTHS,DTHS %,INJS,INJS %,DTHS,%,INJS,INJS %,,LOSS %,,LOSS %,,LOSS %
+,"Good intent call, other","Good intent call, other",,,,,,,,,,,,,,,,,
+60,,,27,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Good intent call, other","Good intent call, other",,,,,,,,,,,,,,,,,
+600,,,"12,150",1.88%,0,0,0.00%,0,0.00%,0,0.00%,2,0.59%,"12,502",0.01%,501,0.00%,"13,003",0.00%
+,Dispatched and,,,,,,,,,,,,,,,,,,
+61,canceled enroute,,25,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Dispatched & canceled,Dispatched & canceled,,,,,,,,,,,,,,,,,
+611,en route,,"34,081",5.28%,9,1,0.97%,0,0.00%,0,0.00%,0,0.00%,"9,002",0.00%,"2,342",0.00%,"11,344",0.00%
+,Wrong location,,,,,,,,,,,,,,,,,,
+62,,,3,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Wrong location,,,,,,,,,,,,,,,,,,
+621,,,298,0.05%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,100,0.00%,0,0.00%,100,0.00%
+,No incident found at,No incident found at,,,,,,,,,,,,,,,,,
+622,dispatch address,,"5,986",0.93%,1,0,0.00%,0,0.00%,0,0.00%,0,0.00%,500,0.00%,0,0.00%,500,0.00%
+,Authorized controlled,Authorized controlled,,,,,,,,,,,,,,,,,
+631,burning,,"1,766",0.27%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,2,0.00%,2,0.00%,4,0.00%
+,Prescribed fire,,,,,,,,,,,,,,,,,,
+632,,,81,0.01%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Vicinity alarm (incident,Vicinity alarm (incident,,,,,,,,,,,,,,,,,
+641,in other location),,245,0.04%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Steam, other gas",,,,,,,,,,,,,,,,,,
+65,mistaken for smoke,mistaken for smoke,9,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,"Steam, other gas",,,,,,,,,,,,,,,,,,
+650,"mistaken for smoke,","mistaken for smoke,",423,0.07%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,other,,,,,,,,,,,,,,,,,,
+,"Smoke scare, odor of","Smoke scare, odor of",,,,,,,,,,,,,,,,,
+651,smoke,,"4,307",0.67%,0,0,0.00%,0,0.00%,0,0.00%,1,0.29%,"8,990",0.00%,"3,900",0.00%,"12,890",0.00%
+,"Steam, vapor, fog or","Steam, vapor, fog or",,,,,,,,,,,,,,,,,
+652,dust thought to be,dust thought to be,828,0.13%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,"1,000",0.00%,0,0.00%,"1,000",0.00%
+,smoke,,,,,,,,,,,,,,,,,,
+,"Barbecue, tar kettle","Barbecue, tar kettle",,,,,,,,,,,,,,,,,
+653,,,169,0.03%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,EMS call where,party,,,,,,,,,,,,,,,,,
+66,has been transported,has been transported,1,0.00%,0,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%,0,0.00%
+,Page 12 of 15,Page 12 of 15,,,,,,,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,NFIRS 5.0 National Reporting,,,,,3/5/10 10:20:25 AM,,
