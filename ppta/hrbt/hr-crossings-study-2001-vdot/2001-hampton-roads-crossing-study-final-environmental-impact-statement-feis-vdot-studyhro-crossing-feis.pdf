@@ -1,0 +1,1306 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie10 lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie10 lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 9]> <html class="no-js lt-ie10" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang="en"> <!--<![endif]--><head>
+
+
+
+
+
+
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+		<title>
+    Page Not Found
+    </title>
+    
+    
+    
+        <meta name="description" content=" We're sorry, but we couldn't find the page you requested.&#160;If you followed a link:&#160;The link may be out of date."/>
+		<meta name="viewport" content="width=device-width"/>
+        <meta name="revisit-after" content="31 days"/>
+        <meta name="ROBOTS" content="index, follow"/>
+        <meta name="category" content="Transportation"/>
+        <meta name="resource-type" content="document"/>
+        <meta name="copyright" content="This document copyrighted by VDOT"/>
+
+      
+		<link rel="stylesheet" href="/css/commonbanner.css"/>
+		<link rel="stylesheet" href="/css/style.css"/>
+        <link rel="stylesheet" href="/css/extra.css"/>
+
+        <script src="http://code.jquery.com/jquery-latest.js"></script> 
+
+           
+        
+
+       
+        
+        
+        
+        
+        
+        
+        
+            
+        
+        
+              
+                
+        
+                    <link rel="alternate" type="application/rss+xml" title="Page Not Found" href="/info/page_not_found.xml"/>
+                
+        
+        <LINK REL="SHORTCUT ICON" HREF="http://www.virginiadot.org/favicon.ico"/>  
+
+  
+  
+  
+
+  
+
+
+  
+  <script type="text/javascript" src="/js/chrome.js"></script>
+  
+  <script type="text/javascript" src="/js/modernizr-2.5.3.min.js"></script>
+
+  <script type="text/javascript">
+<!--
+      function MM_swapImgRestore() { //v3.0
+          var i, x, a = document.MM_sr; for (i = 0; a && i < a.length && (x = a[i]) && x.oSrc; i++) x.src = x.oSrc;
+      }
+
+
+      function MM_preloadImages() { //v3.0
+          var d = document; if (d.images) {
+              if (!d.MM_p) d.MM_p = new Array();
+              var i, j = d.MM_p.length, a = MM_preloadImages.arguments; for (i = 0; i < a.length; i++)
+                  if (a[i].indexOf("#") != 0) { d.MM_p[j] = new Image; d.MM_p[j++].src = a[i]; } 
+          }
+      }
+
+
+      function MM_findObj(n, d) { //v4.01
+          var p, i, x; if (!d) d = document; if ((p = n.indexOf("?")) > 0 && parent.frames.length) {
+              d = parent.frames[n.substring(p + 1)].document; n = n.substring(0, p);
+          }
+          if (!(x = d[n]) && d.all) x = d.all[n]; for (i = 0; !x && i < d.forms.length; i++) x = d.forms[i][n];
+          for (i = 0; !x && d.layers && i < d.layers.length; i++) x = MM_findObj(n, d.layers[i].document);
+          if (!x && d.getElementById) x = d.getElementById(n); return x;
+      }
+
+
+      function MM_swapImage() { //v3.0
+          var i, j = 0, x, a = MM_swapImage.arguments; document.MM_sr = new Array; for (i = 0; i < (a.length - 2); i += 3)
+              if ((x = MM_findObj(a[i])) != null) { document.MM_sr[j++] = x; if (!x.oSrc) x.oSrc = x.src; x.src = a[i + 2]; }
+      }
+
+
+      function P7_autoLayers() { //v1.4 by PVII
+          var g, b, k, f, args = P7_autoLayers.arguments; a = parseInt(args[0]); if (isNaN(a)) a = 0;
+          if (!document.p7setc) {
+              p7c = new Array(); document.p7setc = true; for (var u = 0; u < 10; u++) {
+                  p7c[u] = new Array();
+              } 
+          } for (k = 0; k < p7c[a].length; k++) {
+              if ((g = MM_findObj(p7c[a][k])) != null) {
+                  b = (document.layers) ? g : g.style; b.visibility = "hidden";
+              } 
+          } for (k = 1; k < args.length; k++) {
+              if ((g = MM_findObj(args[k])) != null) {
+                  b = (document.layers) ? g : g.style; b.visibility = "visible"; f = false;
+                  for (var j = 0; j < p7c[a].length; j++) { if (args[k] == p7c[a][j]) { f = true; } }
+                  if (!f) { p7c[a][p7c[a].length++] = args[k]; } 
+              } 
+          }
+      }
+//-->
+
+</script>
+
+  <script language="javascript">
+
+      function change_form(form) {
+
+          page = document.programpulldown.page.options[document.programpulldown.page.selectedIndex].value;
+
+          location = page
+
+      }
+      function setVDotYoutube(data) {
+          var feed = data.feed;
+          var entries = feed.entry || [];
+          var video_id = entries[0].video_id;
+      }
+</script>
+
+	</head>
+	
+	<body>
+		<!-- ==================== Virginia.gov Common Header Banner ==================== -->
+		<div id="commonBanner" class="clearfix">
+			<div class="bannerInner">
+				<a href="http://www.virginia.gov/" target="_blank"><img src="/images/virginia_dot_gov_logo.jpg" alt="Virginia gov" class="virginiaLogo" width="151" height="40" border="0"/></a>
+				<div class="alignLeft"> 
+					<span class="hidden"><a href="#contentstart" accesskey="S" title="Access Key = S to Skip to Page Content.">Skip to Content</a> | </span>
+					<a target="_blank" title="Virginia agency websites" href="http://www.virginia.gov/government/state-employees/agency-directory">Agencies</a> | 
+		<a target="_blank" title="Virginia Governor" href="http://www.governor.virginia.gov">Governor</a>
+				</div><!--End alignLeft-->
+				<div id="virginiaSearch">
+					<a href="http://www.virginia.gov/search" target="_blank" style="color:#fff; font-weight: bold; padding-top: 10px; position: relative; top: 5px; padding-right: 10px" target="_blank"> Search Virginia.Gov</a>
+				</div><!--End virginiaSearch-->
+			</div><!--End bannerInner-->
+		</div><!--End commonBanner-->
+		<!-- ==================== End Virginia.gov Common Header Banner ==================== -->
+		
+		<!-- ==================== Main Site ==================== -->
+		<div id="wrapper">
+			<div id="site-container">
+				
+				<header>
+					<a class="logo" href="/default.asp"><img src="/images/VDOT_navbanner.gif" alt="VDOT"/></a>
+					<nav id="global-nav"><!-- Use Main Nav Config? -->
+						<ul>
+							<li><a href="/about_vdot/default.asp">About VDOT </a></li>
+							<li><a href="/jobs/default.asp">Jobs</a></li>
+							<li><a href="/info/contactus.asp">Contact Us</a></li>
+							<li><a href="/sitemap/default.asp">Site Map</a></li>
+							<li><a href="/info/Spanishpage.asp">Espa&#241;ol</a></li>
+                            <li><a href="/travel/511.asp#app">VDOT’s 511 Mobile App</a></li>
+							<li class="social">
+                            <a href="/travel/511.asp#app"><img src="/images/icon-511.png" alt="511 Mobile App"/></a>
+								<a href="/newsroom/vdot_twitter_feeds.asp"><img src="/images/icon-twitter.png" alt="Twitter"/></a>
+								<a href="http://www.facebook.com/VirginiaDOT" target="_blank"><img src="/images/icon-facebook.png" alt="Facebook"/></a>
+								<a href="http://www.flickr.com/photos/vadot" target="_blank"><img src="/images/icon-flickr.png" alt="Flickr"/></a>
+								<a href="http://www.youtube.com/vdotweb" target="_blank"><img src="/images/icon-youtube.png" alt="YouTube"/></a>
+								<a href="/newsroom/subscribe_to_rss.asp"><img src="/images/icon-rss.png" alt="RSS Feed"/></a>
+							</li>
+						</ul>
+					</nav>
+					<div class="need-help">
+						<h3><a href="/travel/citizen.asp">Report a road problem</a></h3>
+						<P>800-FOR-ROAD<br/>
+						800-367-7623</p>
+					</div>
+				</header>
+
+                <!-- breadcrumbs -->		
+				<div id="breadcrumbs" class="clearfix">
+					<ul>
+						<li><a href="/default.asp">Home</a></li>
+    
+        <li><a href="/info/default.asp">Info</a></li>
+        
+
+        
+    
+        
+      
+    
+   
+
+        
+
+        
+
+
+        
+
+         
+        <li><a href="#">
+        Page Not Found
+        </a></li>
+    
+					</ul>
+				</div><!--End breadcrumbs -->
+
+                
+                <nav id="main-nav" class="clearfix">
+					<ul>
+						<li>
+							<a href="/travel/default.asp">Travel Center</a>
+                            
+						</li>
+						<li>
+							<a href="/newsroom/default.asp">Newsroom</a>
+                            
+						</li>
+						<li>
+							<a href="/info/default.asp">Info Center</a>
+                            
+						</li>
+						<li>
+							<a href="/business/default.asp">Business Center</a>
+                            
+						</li>
+						<li>
+							<a href="/programs/default.asp">Programs</a>
+                            
+						</li>
+						<li>
+							<a href="/projects/default.asp">Projects &amp; Studies</a>
+                            
+						</li>
+					</ul>
+					<div class="nav-shadow-left"></div><div class="nav-shadow-right"></div>
+				</nav><!--End main-nav-->
+
+
+				<div id="page-image">
+  
+            
+            <!-- local -1-->
+            <img class="featured-image" src="/VDOT/Info/asset_upload_file158_24431.jpg" alt=""/>
+            <!-- <img class="featured-image" src="/images/secondary_banner.jpg" alt="" /> -->
+
+
+						<div id="search-container">
+							<div class="search-field">
+                                <form id="cse-search-box" action="/info/search_virginiadot.asp">
+                                    <div class="search-input-container">                       
+                                        <input type="hidden" name="cx" value="017887964425481268552:dgsunngpzqe"/>
+                                        <input type="hidden" name="ie" value="UTF-8"/>
+                                        <Label for="search-text" style="display:none">search label</Label>
+                                        <input type="text" name="q" alt="Search this site" size="31" id="search-text" placeholder="Search this site"/>
+                                        <input type="submit" name="search-submit" id="search-submit" value=""/>
+                                    </div><!--End search-input-container-->
+                                </form>
+							</div>
+							<p><a href="/VDOT/Info/New_Features/index.asp">First time to our site? Click here.</a></p>
+						</div><!--End search-container-->
+
+
+				</div><!--End page-image-->
+				
+				<div id="content-container" class="clearfix"> 
+                
+					<aside>
+						<div class="aside-section clearfix">
+                            <a href="http://www.511virginia.org" target="_blank">
+                            <img src="/images/511-Graphic.png" alt="511 offers real-time traffic info. Anytime you need it, anywhere you are."/>
+                            <!--
+							<h2>Traffic Information</h2>
+							<div class="logo-511">
+								<img src="/images/logo-511.png" alt="511">
+								--><!-- Visit 511Virginia.org --><!--
+							</div>--><!--End logo-511--><!--
+							<p>511 offers real-time traffic info. Anytime you need it, anywhere you are. </p>
+                            -->
+                            </a>
+						</div>
+
+                        <!--End popular links--><div class="aside-section">
+<h2>Popular Links</h2>
+<ul>
+<li><a href="/business/default.asp">Business Center</a></li>
+<li><a href="/travel/hov-rulesfaq.asp">High Occupancy Vehicle (HOV) Lanes - Rules and FAQs</a></li>
+<li><a href="/jobs/AllJobs.asp">Current Opportunities</a></li>
+<li><a href="/travel/hov-novasched.asp">High Occupancy Vehicle (HOV) Systems</a></li>
+<li><a href="/travel/citizen.asp">Report a Road Problem</a></li>
+<li><a href="/jobs/default.asp">Consider a Career at VDOT</a></li>
+<li><a href="/info/contactus.asp">Contact us</a></li>
+<li><a href="/business/manuals-default.asp">Manuals and Guides</a></li>
+</ul>
+</div>
+<!--End popular links-->
+
+
+						<div class="aside-section twitter">
+							<h2>Connect With Us!</h2>
+							<p><a href="/newsroom/social_media.asp">Visit Our Social Media Pages &#187;</a></p>
+							<div id="jstwitter">
+
+                            </div><!--End jstwitter-->
+						</div>
+                        <!--End other links-->
+						<div class="aside-section">
+							<h2>Other Links</h2>
+							<ul>
+                             
+                                <li><a href="/projects/publicinvolvement.asp">Open to the Public</a></li>
+                                
+                                <li><a href="/newsroom/stimulus_info.asp">Follow Virginia's Stimulus Dollars</a></li>
+                                
+                                <li><a href="http://safevahighways.org/" target="_blank">Highway Safety Challenge</a></li>
+                                
+                                <li><a href="http://syip.virginiadot.org/Pages/allProjects.aspx" target="_blank">Six-Year Improvement Program database</a></li>
+                                
+                                <li><a href="http://www.vamegaprojects.com/" target="_blank">Virginia Megaprojects</a></li>
+                                
+                                <li><a href="/about/resources/vdotchartwnames.pdf">Organizational Chart</a></li>
+                                
+							</ul>
+						</div>
+<!--End other links-->
+					</aside>
+                    
+                    
+                    
+   
+               
+               
+               	<div id="content" role="main">
+                
+                
+                
+                        
+                        <div class="content-inner">
+                        
+                        
+ 
+ 
+
+
+
+<div style="clear:both;"></div>
+<div id="topCopy">
+    
+    <h1>Page Not Found</h1>
+
+    
+<p>
+
+
+
+
+
+</div>
+</p>
+
+
+
+
+
+<p></p>
+
+<p><strong>We're sorry, but we couldn't find the page you requested.<img border="0" width="162" height="159" title="Stop sign" src="/images/Stop-Sign-gif.gif" align="right" alt="Stop sign"/></strong></p>
+
+<p><strong>If you followed a link:<br/>
+&#160;<br/>
+</strong>The link may be out of date. Please inform the <a href="/info/feedbackform.asp">webmaster</a> that the link is not working.</p>
+
+<p><strong>If you typed a link address:<br/>
+<br/>
+</strong>Please check to ensure you spelled the link correctly.</p>
+
+<p>If you need help finding items on this site, try these links:</p>
+
+<ul>
+<li><a href="/">Virginia Department of Transportation home page</a></li>
+
+<li><a href="mailto:vdotwebmaster@vdot.virginia.gov?subject=Page%20not%20found!">Send e-mail to the webmaster of this site</a></li>
+</ul>
+
+<p><!--<p>You may also search this site below. </p><form action=http://google.vipnet.org/search method=get><input maxLength=256 size=32 name=q>&nbsp;<input type=submit value=Search name=btnG><input type=hidden value=/css/style.cssinterface/vdotNEW.xslt name=proxystylesheet><input type=hidden value=0 name=entqr><input type=hidden value=/css/style.css name=sitesearch><input type=hidden value=xml_no_dtd name=output><input type=hidden value=date:D:L:d1 name=sort><input type=hidden value=vipnet name=site><input type=hidden value=UTF-8 name=ie><input type=hidden value=17 name=y><input type=hidden value=vipnet name=client><input type=hidden value=27 name=x></form>--></p>
+
+<p>You can go to our homepage at <a href="http://www.virginiadot.org">http://www.virginiadot.org</a>, or wait to be automatically redirected after a few seconds.</p>
+
+<p>&#160;</p>
+
+<p>&#160;</p>
+
+<p>&#160;</p>
+
+<p>&#160;</p>
+
+<p>&#160;</p>
+
+<p>&#160;</p>
+
+<p>&#160;</p>
+
+<p>&#160;</p>
+
+<p>&#160;</p>
+
+<p>&#160;</p>
+
+<p>&#160;</p>
+
+<p>&#160;</p>
+
+<h2>&#160;</h2>
+
+ 
+
+
+
+
+
+
+
+
+<script>
+  
+$('#navlist li:nth-child(6)').append("<br>");
+$('#navlist li:nth-child(7)').css("border", "none");
+
+</script>
+
+                        
+
+
+
+                        <div id="timestamp">Page last modified: Oct. 14, 2012</div>
+                        
+                        </div>  <!--End content-inner-->
+                        
+					</div><!--End content-->
+
+				</div><!--End content-container-->
+				
+			</div><!-- End site-container-->
+		</div><!--End wrapper-->
+
+        </div></div>    <!-- catch dangling divs -->
+		
+		<footer class="clearfix">
+			<div class="footer-top clearfix">
+				<div class="footer-left">
+					<div class="additional-links">
+						<h3>Additional Links</h3>
+                        <ul class="list-al">
+							<li><a href="https://webmail.vita.virginia.gov/OWA/auth/logon.aspx" target="_blank">Employee Outlook Access</a></li>
+							<li><a href="http://dashboard.virginiadot.org/default.aspx" target="_blank">VDOT Dashboard</a></li>
+							<li><a href="http://www.virginiadot.org/info/foia.asp" target="_blank">Freedom of Information Act</a></li>
+							<li><a href="http://get.adobe.com/reader/" target="_blank">Adobe Reader</a></li>
+							<li><a href="http://get.adobe.com/flashplayer/" target="_blank">Flash Player</a></li>
+							<li><a href="http://office.microsoft.com/en-us/word-help/view-or-print-word-documents-without-word-HA001149695.aspx" target="_blank">Microsoft Office</a></li>
+						</ul>
+					</div><!--End additional-links-->
+					<div class="connect-with-us">
+						<h3>Connect With Us</h3>
+						<ul class="list-cwu">
+							<li><a href="/newsroom/vdot_twitter_feeds.asp">Twitter</a></li>
+							<li><a href="http://www.youtube.com/vdotweb" target="_blank">YouTube</a></li>
+							<li><a href="http://www.flickr.com/photos/vadot" target="_blank">Flickr</a></li>
+							<li><a href="http://www.facebook.com/VirginiaDOT" target="_blank">Facebook</a></li>
+							<li><a href="/newsroom/subscribe_to_rss.asp">RSS Feed</a></li>
+							<li><a href="http://www.511virginia.org" target="_blank">511 Virginia</a></li>
+						</ul>
+					</div><!--End connect-with-us-->
+				</div><!--End footer-left-->
+				<div class="footer-right">
+					<h3>Need Help? 800-FOR-ROAD</h3>
+					<p>VDOT Central Office<br/>
+					1401 E. Broad St.<br/>
+					Richmond, VA 23219</p>
+					<p>800-367-7623 (toll-free)<br/>
+					711 (hearing impaired)<br/>
+					<a href="/travel/citizen.asp">Report a Road Problem</a></p>
+				</div><!--End footer-right-->
+			</div><!--End footer-top-->
+			<div class="footer-copyright">
+                <p><i>This website includes hyperlinks to sites neither controlled nor sponsored by VDOT or the Commonwealth of Virginia.  Links may open in a new window.
+Some resources on this site require the <a href="http://get.adobe.com/reader/" target="_blank">Adobe Reader</a> and <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash Player</a> and the Microsoft <a href="http://office.microsoft.com/en-us/word-help/view-or-print-word-documents-without-word-HA001149695.aspx?CTT=1" target="_blank">Word</a>, <a href="http://office.microsoft.com/en-us/powerpoint-help/install-and-run-the-powerpoint-2003-viewer-HP003078412.aspx?CTT=1" target="_blank">PowerPoint</a> and <a href="http://office.microsoft.com/en-us/excel-help/share-excel-files-by-using-excel-viewer-2003-HA001162074.aspx?CTT=1" target="_blank">Excel</a> viewers. 
+If you wish to receive this content in an accessible format per Section 508 of the federal Rehabilitation Act, 29 U.S.C. &#167; 794 (d), please call 800-367-7623.</i></p>
+				<p>&#169; Copyright 2014, VDOT. All rights reserved. <a href="/info/legal.asp">Web Policy</a> / <a href="/info/legal.asp">Privacy Statement</a> / <a href="/info/accessibility.asp">WAI Compliance</a> / <a href="/sitemap/default.asp">Site Map</a></p>
+			</div><!--End footer-copyright-->
+
+
+		</footer>
+		<!-- ==================== End Main Site ==================== -->		
+		
+		<!-- ==================== Scripts ==================== -->
+        
+        <script src="/js/jquery.tools.min.js"></script>    
+		
+		<script src="/js/easyListSplitter.js"></script>
+		<script src="/js/slides.min.jquery.js"></script>
+		<script src="/js/plugins.js"></script>
+        <script src="/js/jflickrfeed.min.js"></script>
+		
+		
+		<script src="/js/twitter-1.1.js"></script>
+		
+        
+		
+		
+		    
+		<script>
+		
+		    //jQuery Document Ready
+		    $(document).ready(function () {
+		        //Easy List Splitter
+		        $('.list-al, .list-cwu, .list-tab, .list-nav-tc').easyListSplitter({ colNumber: 2 });
+		        //Flickr Feed
+		        $('#flickr').jflickrfeed({
+                    feedapi: 'photoset.gne',
+		            limit: 4,
+		            qstrings: {
+		                /*id: '40713272@N05' - 7-2-2013 - used by itself without specifying feedapi if grabbing from the main photostream rather than a specific set*/
+                        set: '72157634426784382',
+                        nsid: '40713272@N05'
+		            },
+		            useTemplate: false,
+		            itemCallback: function (item) {
+                        var srcTokens = item.image_m.split("/");
+                        var src = srcTokens[srcTokens.length - 1];
+                        srcTokens = src.split("_");
+                        src = "http://www.flickr.com/photos/vadot/with/" + srcTokens[0];
+
+		                $(this).append("<li><span><a href='" + src + "' target='_blank'><img src='" + item.image_m + "' alt='' style='margin: 0 0 8px 0'/></a></span></li>");
+		                $('.photos img:nth-child(2n+1)').css('margin', '0 0 8px 0');
+		            }
+		        });
+
+                /*$(window).load(function(){*/
+                    /* This puts the link for each photo as the URL of the gallery that the photo originally came from */
+                    /*$("div.photos ul#flickr li a").each(function(){
+                        var srcTokens = $(this).find("img").attr("src").split("/");
+                        var src = srcTokens[srcTokens.length - 1];
+                        srcTokens = src.split("_");
+                        src = "http://www.flickr.com/photos/vadot/with/" + srcTokens[0];
+                        $(this).attr("href", src);
+                        $(this).attr("target", "_blank");
+                    });
+                }); */
+
+                
+
+		        jQuery.support.cors = true;
+		        if ($.browser.msie && window.XDomainRequest) {
+		            // Use XDR for IE
+		            var xdr = new XDomainRequest();
+		            xdr.open("get", "http://gdata.youtube.com/feeds/api/users/vdotweb/uploads?v=2&alt=jsonc&orderby=published");
+		            xdr.onload = function () {
+		                var iedata = $.parseJSON(xdr.responseText);
+		                var vlist = iedata.data.items;
+		                $('#home-media .videos').empty().append('<h3><a href="http://www.youtube.com/user/vdotweb">More video</a></h3><object width="334" height="188"><param name="movie" value="http://www.youtube.com/v/' + vlist[0].id + '?version=3&amp;hl=en_US&amp;rel=0&amp;showinfo=0" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><embed src="http://www.youtube.com/v/' + vlist[0].id + '?version=3&amp;hl=en_US&amp;rel=0&amp;showinfo=0" type="application/x-shockwave-flash" width="334" height="188" allowscriptaccess="always" allowfullscreen="true" /></object><p id="video-title" class="video-p">' + vlist[0].title + '</p>');
+		            };
+		            xdr.send();
+		        } else {
+		            $.ajax({
+		                type: "get",
+		                url: "http://gdata.youtube.com/feeds/api/users/vdotweb/uploads?v=2&alt=jsonc&orderby=published",
+		                cache: false,
+		                dataType: 'json',
+		                success: function (data) {
+		                    var vlist = data.data.items;
+		                    $('#home-media .videos object').html('<param name="movie" value="http://www.youtube.com/v/' + vlist[0].id + '?version=3&amp;hl=en_US&amp;rel=0&amp;showinfo=0"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/' + vlist[0].id + '?version=3&amp;hl=en_US&amp;rel=0&amp;showinfo=0" type="application/x-shockwave-flash" width="334" height="188" allowscriptaccess="always" allowfullscreen="true">');
+		                    $('#video-title').text(vlist[0].title);
+		                    var tmp = 0;
+		                },
+		                error: function (xhr, status, error) {
+		                    var tmp = 0;
+		                }
+		            });
+		        }
+		        /*
+		        $.getJSON('https://gdata.youtube.com/feeds/api/users/vdotweb/uploads?v=2&alt=jsonc&orderby=published', function (data) {
+		        var vlist = data.data.items;
+		        $('#home-media .videos object').html('<param name="movie" value="http://www.youtube.com/v/' + vlist[0].id + '?version=3&amp;hl=en_US&amp;rel=0&amp;showinfo=0"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/' + vlist[0].id + '?version=3&amp;hl=en_US&amp;rel=0&amp;showinfo=0" type="application/x-shockwave-flash" width="334" height="188" allowscriptaccess="always" allowfullscreen="true">');
+		        var tmp = 0;
+
+		        });
+		        */
+
+
+		        //Child Sorting
+		        //$('.photos img:nth-child(2n+1)').css('margin', '0 0 8px 0');
+
+		        //i.e. placeholders
+		        var arrInputs = document.getElementsByTagName("input");
+		        for (var i = 0; i < arrInputs.length; i++) {
+		            var curInput = arrInputs[i];
+		            if (!curInput.type || curInput.type == "" || curInput.type == "text")
+		                HandlePlaceholder(curInput);
+		        }
+		    });
+		    //Slider
+		    $(function () {
+		        $("#home-slider").slides({
+		            preload: true,
+		            play: 10000,
+		            pause: 10000,
+		            hoverPause: false,
+		            pagination: true,
+		            effect: 'fade',
+		            crossfade: true
+		        });
+		    });
+		    //Tabbed Content
+		    $(function () {
+		        // setup ul.tabs to work as tabs for each div directly under div.panes
+		        $("ul.tabs-menu").tabs("div.tabs-content > div");
+		    });
+		    // ==================== Dropdown Menu Functionality (Plain) ==================== //
+		    $(function () {
+		        $("#main-nav ul li").hover(function () {
+		            $(this).addClass("hover");
+		            $('div:first', this).delay(200).css({ opacity: 0, visibility: 'visible' }).animate({ opacity: 1 }, 200);
+		        }, function () {
+		            $(this).removeClass("hover");
+		            $('div:first', this).css({ opacity: 0, visibility: 'hidden' });
+		        });
+		    });
+
+		    // ==================== Bubble Tooltips ==================== //
+		    $(function () {
+		        $('.new-feature').each(function () {
+		            var distance = 10;
+		            var time = 250;
+		            var hideDelay = 500;
+
+		            var hideDelayTimer = null;
+
+		            var beingShown = false;
+		            var shown = false;
+		            var trigger = $('.trigger', this);
+		            var info = $('.popup', this).css('opacity', 0);
+
+
+		            $([trigger.get(0), info.get(0)]).mouseover(function () {
+		                if (hideDelayTimer) clearTimeout(hideDelayTimer);
+		                if (beingShown || shown) {
+		                    // don't trigger the animation again
+		                    return;
+		                } else {
+		                    // reset position of info box
+		                    beingShown = true;
+
+		                    info.css({
+		                        top: -90,
+		                        left: -33,
+		                        display: 'block'
+		                    }).animate({
+		                        top: '-=' + distance + 'px',
+		                        opacity: 1
+		                    }, time, 'swing', function () {
+		                        beingShown = false;
+		                        shown = true;
+		                    });
+		                }
+
+		                return false;
+		            }).mouseout(function () {
+		                if (hideDelayTimer) clearTimeout(hideDelayTimer);
+		                hideDelayTimer = setTimeout(function () {
+		                    hideDelayTimer = null;
+		                    info.animate({
+		                        top: '-=' + distance + 'px',
+		                        opacity: 0
+		                    }, time, 'swing', function () {
+		                        shown = false;
+		                        info.css('display', 'none');
+		                    });
+
+		                }, hideDelay);
+
+		                return false;
+		            });
+		        }); //End Bubble Tooltips
+
+                
+		    });
+
+		    //Placeholders for IE
+		    var _debug = false;
+		    var _placeholderSupport = function () {
+		        var t = document.createElement("input");
+		        t.type = "text";
+		        return (typeof t.placeholder !== "undefined");
+		    } ();
+
+            /*
+		    window.onload = function () {
+		        
+		    };
+            */
+
+		    function HandlePlaceholder(oTextbox) {
+		        if (!_placeholderSupport) {
+		            var curPlaceholder = oTextbox.getAttribute("placeholder");
+		            if (curPlaceholder && curPlaceholder.length > 0) {
+		                //Debug("Placeholder found for input box '" + oTextbox.name + "': " + curPlaceholder);
+		                oTextbox.value = curPlaceholder;
+		                oTextbox.setAttribute("old_color", oTextbox.style.color);
+		                oTextbox.style.color = "#c0c0c0";
+		                oTextbox.onfocus = function () {
+		                    //Debug("input box '" + this.name + "' focus");
+		                    this.style.color = this.getAttribute("old_color");
+		                    if (this.value === curPlaceholder)
+		                        this.value = "";
+		                };
+		                oTextbox.onblur = function () {
+		                    //Debug("input box '" + this.name + "' blur");
+		                    if (this.value === "") {
+		                        this.style.color = "#c0c0c0";
+		                        this.value = curPlaceholder;
+		                    }
+		                };
+		            } /*
+		            else {
+		                Debug("input box '" + oTextbox.name + "' does not have placeholder attribute");
+		            } */
+		        } /*
+		        else {
+		            Debug("browser has native support for placeholder");
+		        } */
+		    }
+
+		    function Debug(msg) {
+		        if (typeof _debug !== "undefined" && _debug) {
+		            var oConsole = document.getElementById("Console");
+		            if (!oConsole) {
+		                oConsole = document.createElement("div");
+		                oConsole.id = "Console";
+		                document.body.appendChild(oConsole);
+		            }
+		            oConsole.innerHTML += msg + "<br />";
+		        }
+		    }
+		    
+		</script>
+<!-- START OF SDC Advanced Tracking Code --><!-- Copyright (c) 1996-2008 WebTrends Inc.  All rights reserved. --><!-- V8.0 --><!-- $DateTime: 2007/02/20 09:30:16 $ -->
+<SCRIPT TYPE="text/javascript"><!--
+var gService = true;
+var gTimeZone = -5;
+// Code section for Enable First-Party Cookie Tracking
+function dcsCookie() {
+    if (typeof (dcsOther) == "function") {
+        dcsOther();
+    }
+    else if (typeof (dcsPlugin) == "function") {
+        dcsPlugin();
+    }
+    else if (typeof (dcsFPC) == "function") {
+        dcsFPC(gTimeZone);
+    }
+}
+function dcsGetCookie(name) {
+    var cookies = document.cookie.split("; ");
+    var cmatch = [];
+    var idx = 0;
+    var i = 0;
+    var namelen = name.length;
+    var clen = cookies.length;
+    for (i = 0; i < clen; i++) {
+        var c = cookies[i];
+        if ((c.substring(0, namelen + 1)) == (name + "=")) {
+            cmatch[idx++] = c;
+        }
+    }
+    var cmatchCount = cmatch.length;
+    if (cmatchCount > 0) {
+        idx = 0;
+        if ((cmatchCount > 1) && (typeof (gFpc) != "undefined") && (name == gFpc)) {
+            var dLatest = new Date(0);
+            for (i = 0; i < cmatchCount; i++) {
+                var lv = parseInt(dcsGetCrumb(cmatch[i], "lv"));
+                var dLst = new Date(lv);
+                if (dLst > dLatest) {
+                    dLatest.setTime(dLst.getTime());
+                    idx = i;
+                }
+            }
+        }
+        return unescape(cmatch[idx].substring(namelen + 1));
+    }
+    else {
+        return null;
+    }
+}
+function dcsGetCrumb(cval, crumb) {
+    var aCookie = cval.split(":");
+    for (var i = 0; i < aCookie.length; i++) {
+        var aCrumb = aCookie[i].split("=");
+        if (crumb == aCrumb[0]) {
+            return aCrumb[1];
+        }
+    }
+    return null;
+}
+function dcsGetIdCrumb(cval, crumb) {
+    var id = cval.substring(0, cval.indexOf(":lv="));
+    var aCrumb = id.split("=");
+    for (var i = 0; i < aCrumb.length; i++) {
+        if (crumb == aCrumb[0]) {
+            return aCrumb[1];
+        }
+    }
+    return null;
+}
+function dcsIsFpcSet(name, id, lv, ss) {
+    var c = dcsGetCookie(name);
+    if (c) {
+        return ((id == dcsGetIdCrumb(c, "id")) && (lv == dcsGetCrumb(c, "lv")) && (ss == dcsGetCrumb(c, "ss"))) ? 0 : 3;
+    }
+    return 2;
+}
+function dcsFPC(offset) {
+    if (typeof (offset) == "undefined") {
+        return;
+    }
+    if (document.cookie.indexOf("WTLOPTOUT=") != -1) {
+        return;
+    }
+    var name = gFpc;
+    var dCur = new Date();
+    var adj = (dCur.getTimezoneOffset() * 60000) + (offset * 3600000);
+    dCur.setTime(dCur.getTime() + adj);
+    var dExp = new Date(dCur.getTime() + 315360000000);
+    var dSes = new Date(dCur.getTime());
+    WT.co_f = WT.vt_sid = WT.vt_f = WT.vt_f_a = WT.vt_f_s = WT.vt_f_d = WT.vt_f_tlh = WT.vt_f_tlv = "";
+    if (document.cookie.indexOf(name + "=") == -1) {
+        if ((typeof (gWtId) != "undefined") && (gWtId != "")) {
+            WT.co_f = gWtId;
+        }
+        else if ((typeof (gTempWtId) != "undefined") && (gTempWtId != "")) {
+            WT.co_f = gTempWtId;
+            WT.vt_f = "1";
+        }
+        else {
+            WT.co_f = "2";
+            var cur = dCur.getTime().toString();
+            for (var i = 2; i <= (32 - cur.length); i++) {
+                WT.co_f += Math.floor(Math.random() * 16.0).toString(16);
+            }
+            WT.co_f += cur;
+            WT.vt_f = "1";
+        }
+        if (typeof (gWtAccountRollup) == "undefined") {
+            WT.vt_f_a = "1";
+        }
+        WT.vt_f_s = WT.vt_f_d = "1";
+        WT.vt_f_tlh = WT.vt_f_tlv = "0";
+    }
+    else {
+        var c = dcsGetCookie(name);
+        var id = dcsGetIdCrumb(c, "id");
+        var lv = parseInt(dcsGetCrumb(c, "lv"));
+        var ss = parseInt(dcsGetCrumb(c, "ss"));
+        if ((id == null) || (id == "null") || isNaN(lv) || isNaN(ss)) {
+            return;
+        }
+        WT.co_f = id;
+        var dLst = new Date(lv);
+        WT.vt_f_tlh = Math.floor((dLst.getTime() - adj) / 1000);
+        dSes.setTime(ss);
+        if ((dCur.getTime() > (dLst.getTime() + 1800000)) || (dCur.getTime() > (dSes.getTime() + 28800000))) {
+            WT.vt_f_tlv = Math.floor((dSes.getTime() - adj) / 1000);
+            dSes.setTime(dCur.getTime());
+            WT.vt_f_s = "1";
+        }
+        if ((dCur.getDay() != dLst.getDay()) || (dCur.getMonth() != dLst.getMonth()) || (dCur.getYear() != dLst.getYear())) {
+            WT.vt_f_d = "1";
+        }
+    }
+    WT.co_f = escape(WT.co_f);
+    WT.vt_sid = WT.co_f + "." + (dSes.getTime() - adj);
+    var expiry = "; expires=" + dExp.toGMTString();
+    var cur = dCur.getTime().toString();
+    var ses = dSes.getTime().toString();
+    document.cookie = name + "=" + "id=" + WT.co_f + ":lv=" + cur + ":ss=" + ses + expiry + "; path=/" + (((typeof (gFpcDom) != "undefined") && (gFpcDom != "")) ? ("; domain=" + gFpcDom) : (""));
+    var rc = dcsIsFpcSet(name, WT.co_f, cur, ses);
+    if (rc != 0) {
+        WT.co_f = WT.vt_sid = WT.vt_f_s = WT.vt_f_d = WT.vt_f_tlh = WT.vt_f_tlv = "";
+        WT.vt_f = WT.vt_f_a = rc;
+    }
+}
+
+// Code section for Use the new first-party cookie generated with this tag.
+var gFpc = "WT_FPC";
+var gConvert = true;
+
+// Code section for Enable SmartView Transition Page tracking
+function dcsTP() {
+    if (document.cookie.indexOf("WTLOPTOUT=") != -1) {
+        return;
+    }
+    var name = "WT_DC";
+    var expiry = "; expires=Thu, 31-Dec-2020 08:00:00 GMT";
+    var path = "; path=/";
+    var domain = "";
+    if (document.cookie.indexOf("WT_DC=tsp=1") != -1) {
+        WT.ttp = "1";
+    }
+    if (dcsGetMeta("SmartView_Page") == "1") {
+        WT.tsp = "1";
+        document.cookie = name + "=tsp=1" + expiry + path + domain;
+    }
+    else {
+        document.cookie = name + "=; expires=Sun, 1-Jan-1995 00:00:00 GMT;" + path + domain;
+    }
+}
+function dcsGetMeta(name) {
+    var elems;
+    if (document.all) {
+        elems = document.all.tags("meta");
+    }
+    else if (document.documentElement) {
+        elems = document.getElementsByTagName("meta");
+    }
+    if (typeof (elems) != "undefined") {
+        for (var i = 1; i <= elems.length; i++) {
+            var meta = elems.item(i - 1);
+            if (meta.name && (meta.name.indexOf(name) == 0)) {
+                return meta.content;
+                break;
+            }
+        }
+    }
+    return null;
+}
+
+function dcsAdv() {
+    dcsFunc("dcsET");
+    dcsFunc("dcsCookie");
+    dcsFunc("dcsAdSearch");
+    dcsFunc("dcsTP");
+}
+
+//-->
+</SCRIPT><!-- END OF SDC Advanced Tracking Code --><!-- START OF SmartSource Data Collector TAG --><!-- Copyright (c) 1996-2008 WebTrends Inc.  All rights reserved. --><!-- V8.0 --><!-- $DateTime: 2007/03/05 13:33:14 $ --><!-- ----------------------------------------------------------------------------------- --><!-- Warning: The two script blocks below must remain inline. Moving them to an external --><!-- JavaScript include file can cause serious problems with cross-domain tracking.      --><!-- ----------------------------------------------------------------------------------- -->
+<SCRIPT TYPE="text/javascript"><!--
+    var gDomain = "statse.webtrendslive.com";
+    var gDcsId = "dcs20ghb1100004r7j2wp8oe0_1t4t";
+
+
+    if ((typeof (gConvert) != "undefined") && gConvert && (document.cookie.indexOf(gFpc + "=") == -1) && (document.cookie.indexOf("WTLOPTOUT=") == -1)) {
+        document.write("<SCR" + "IPT TYPE='text/javascript' SRC='" + "http" + (window.location.protocol.indexOf('https:') == 0 ? 's' : '') + "://" + gDomain + "/" + gDcsId + "/wtid.js" + "'><\/SCR" + "IPT>");
+    }
+//-->
+</SCRIPT>
+<SCRIPT TYPE="text/javascript"><!--
+    var gImages = new Array;
+    var gIndex = 0;
+    var DCS = new Object();
+    var WT = new Object();
+    var DCSext = new Object();
+    var gQP = new Array();
+    var gI18n = false;
+    if (window.RegExp) {
+        var RE = gI18n ? { "%25": /\%/g} : { "%09": /\t/g, "%20": / /g, "%23": /\#/g, "%26": /\&/g, "%2B": /\+/g, "%3F": /\?/g, "%5C": /\\/g, "%22": /\"/g, "%7F": /\x7F/g, "%A0": /\xA0/g };
+        if (gI18n) {
+            var EXRE = /dcs(uri)|(ref)|(aut)|(met)|(sta)|(sip)|(pro)|(byt)|(dat)|(p3p)|(cfg)|(redirect)|(cip)/i;
+        }
+    }
+
+    // Add customizations here
+
+    function dcsVar() {
+        var dCurrent = new Date();
+        WT.tz = (dCurrent.getTimezoneOffset() / 60 * -1) || "0";
+        WT.bh = dCurrent.getHours() || "0";
+        WT.ul = navigator.appName == "Netscape" ? navigator.language : navigator.userLanguage;
+        if (typeof (screen) == "object") {
+            WT.cd = navigator.appName == "Netscape" ? screen.pixelDepth : screen.colorDepth;
+            WT.sr = screen.width + "x" + screen.height;
+        }
+        if (typeof (navigator.javaEnabled()) == "boolean") {
+            WT.jo = navigator.javaEnabled() ? "Yes" : "No";
+        }
+        if (document.title) {
+            if (window.RegExp) {
+                var tire = new RegExp("^" + window.location.protocol + "//" + window.location.hostname + "\\s-\\s");
+                WT.ti = document.title.replace(tire, "");
+            }
+            else {
+                WT.ti = document.title;
+            }
+        }
+        WT.js = "Yes";
+        WT.jv = dcsJV();
+        if (document.body && document.body.addBehavior) {
+            document.body.addBehavior("#default#clientCaps");
+            WT.ct = document.body.connectionType || "unknown";
+            document.body.addBehavior("#default#homePage");
+            WT.hp = document.body.isHomePage(location.href) ? "1" : "0";
+        }
+        else {
+            WT.ct = "unknown";
+        }
+        if (document.all) {
+            WT.bs = document.body ? document.body.offsetWidth + "x" + document.body.offsetHeight : "unknown";
+        }
+        else {
+            WT.bs = window.innerWidth + "x" + window.innerHeight;
+        }
+        WT.fi = "No";
+        if (window.ActiveXObject) {
+            for (var i = 10; i > 0; i--) {
+                try {
+                    var flash = new ActiveXObject("ShockwaveFlash.ShockwaveFlash." + i);
+                    WT.fi = "Yes";
+                    WT.fv = i + ".0";
+                    break;
+                }
+                catch (e) {
+                }
+            }
+        }
+        else if (navigator.plugins && navigator.plugins.length) {
+            for (var i = 0; i < navigator.plugins.length; i++) {
+                if (navigator.plugins[i].name.indexOf('Shockwave Flash') != -1) {
+                    WT.fi = "Yes";
+                    WT.fv = navigator.plugins[i].description.split(" ")[2];
+                    break;
+                }
+            }
+        }
+        if (gI18n) {
+            if (typeof (document.defaultCharset) == "string") {
+                WT.le = document.defaultCharset;
+            }
+            else if (typeof (document.characterSet) == "string") {
+                WT.le = document.characterSet;
+            }
+            else {
+                WT.le = "unknown";
+            }
+        }
+        WT.tv = "8.0.3";
+        WT.sp = "@@SPLITVALUE@@";
+        DCS.dcsdat = dCurrent.getTime();
+        DCS.dcssip = window.location.hostname;
+        DCS.dcsuri = window.location.pathname;
+        if (window.location.search) {
+            DCS.dcsqry = window.location.search;
+            if (gQP.length > 0) {
+                for (var i = 0; i < gQP.length; i++) {
+                    var pos = DCS.dcsqry.indexOf(gQP[i]);
+                    if (pos != -1) {
+                        var front = DCS.dcsqry.substring(0, pos);
+                        var end = DCS.dcsqry.substring(pos + gQP[i].length, DCS.dcsqry.length);
+                        DCS.dcsqry = front + end;
+                    }
+                }
+            }
+        }
+        if ((window.document.referrer != "") && (window.document.referrer != "-")) {
+            if (!(navigator.appName == "Microsoft Internet Explorer" && parseInt(navigator.appVersion) < 4)) {
+                DCS.dcsref = window.document.referrer;
+            }
+        }
+    }
+
+    function dcsA(N, V) {
+        if (gI18n && !EXRE.test(N)) {
+            if (N == "dcsqry") {
+                var newV = "";
+                var params = V.substring(1).split("&");
+                for (var i = 0; i < params.length; i++) {
+                    var pair = params[i];
+                    var pos = pair.indexOf("=");
+                    if (pos != -1) {
+                        var key = pair.substring(0, pos);
+                        var val = pair.substring(pos + 1);
+                        if (i != 0) {
+                            newV += "&";
+                        }
+                        newV += key + "=" + dcsEncode(val);
+                    }
+                }
+                V = V.substring(0, 1) + newV;
+            }
+            else {
+                V = dcsEncode(V);
+            }
+        }
+        return "&" + N + "=" + dcsEscape(V, RE);
+    }
+
+    function dcsEscape(S, REL) {
+        if (typeof (REL) != "undefined") {
+            S = S.toString();
+            for (var R in REL) {
+                S = S.replace(REL[R], R);
+            }
+            return S;
+        }
+        else {
+            return escape(S);
+        }
+    }
+
+    function dcsEncode(S) {
+        return (typeof (encodeURIComponent) == "function") ? encodeURIComponent(S) : escape(S);
+    }
+
+    function dcsCreateImage(dcsSrc) {
+        if (document.images) {
+            gImages[gIndex] = new Image;
+            gImages[gIndex].src = dcsSrc;
+            gIndex++;
+        }
+        else {
+            document.write('<IMG alt="Place holder" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="' + dcsSrc + '">');
+        }
+    }
+
+    function dcsMeta() {
+        var elems;
+        if (document.all) {
+            elems = document.all.tags("meta");
+        }
+        else if (document.documentElement) {
+            elems = document.getElementsByTagName("meta");
+        }
+        if (typeof (elems) != "undefined") {
+            var length = elems.length;
+            for (var i = 0; i < length; i++) {
+                var name = elems.item(i).name;
+                var content = elems.item(i).content;
+                var equiv = elems.item(i).httpEquiv;
+                if (name.length > 0) {
+                    if (name.indexOf("WT.") == 0) {
+                        WT[name.substring(3)] = content;
+                    }
+                    else if (name.indexOf("DCSext.") == 0) {
+                        DCSext[name.substring(7)] = content;
+                    }
+                    else if (name.indexOf("DCS.") == 0) {
+                        DCS[name.substring(4)] = content;
+                    }
+                }
+            }
+        }
+    }
+
+    function dcsTag() {
+        if (document.cookie.indexOf("WTLOPTOUT=") != -1) {
+            return;
+        }
+        var P = "http" + (window.location.protocol.indexOf('https:') == 0 ? 's' : '') + "://" + gDomain + (gDcsId == "" ? '' : '/' + gDcsId) + "/dcs.gif?";
+        if (gI18n) {
+            WT.dep = "";
+        }
+        for (var N in DCS) {
+            if (DCS[N]) {
+                P += dcsA(N, DCS[N]);
+            }
+        }
+        var keys = ["co_f", "vt_sid", "vt_f_tlv"];
+        for (var i = 0; i < keys.length; i++) {
+            var key = keys[i];
+            if (WT[key]) {
+                P += dcsA("WT." + key, WT[key]);
+                delete WT[key];
+            }
+        }
+        for (N in WT) {
+            if (WT[N]) {
+                P += dcsA("WT." + N, WT[N]);
+            }
+        }
+        for (N in DCSext) {
+            if (DCSext[N]) {
+                if (gI18n) {
+                    WT.dep = (WT.dep.length == 0) ? N : (WT.dep + ";" + N);
+                }
+                P += dcsA(N, DCSext[N]);
+            }
+        }
+        if (gI18n && (WT.dep.length > 0)) {
+            P += dcsA("WT.dep", WT.dep);
+        }
+        if (P.length > 2048 && navigator.userAgent.indexOf('MSIE') >= 0) {
+            P = P.substring(0, 2040) + "&WT.tu=1";
+        }
+        dcsCreateImage(P);
+    }
+
+    function dcsJV() {
+        var agt = navigator.userAgent.toLowerCase();
+        var major = parseInt(navigator.appVersion);
+        var mac = (agt.indexOf("mac") != -1);
+        var ff = (agt.indexOf("firefox") != -1);
+        var ff0 = (agt.indexOf("firefox/0.") != -1);
+        var ff10 = (agt.indexOf("firefox/1.0") != -1);
+        var ff15 = (agt.indexOf("firefox/1.5") != -1);
+        var ff2up = (ff && !ff0 && !ff10 & !ff15);
+        var nn = (!ff && (agt.indexOf("mozilla") != -1) && (agt.indexOf("compatible") == -1));
+        var nn4 = (nn && (major == 4));
+        var nn6up = (nn && (major >= 5));
+        var ie = ((agt.indexOf("msie") != -1) && (agt.indexOf("opera") == -1));
+        var ie4 = (ie && (major == 4) && (agt.indexOf("msie 4") != -1));
+        var ie5up = (ie && !ie4);
+        var op = (agt.indexOf("opera") != -1);
+        var op5 = (agt.indexOf("opera 5") != -1 || agt.indexOf("opera/5") != -1);
+        var op6 = (agt.indexOf("opera 6") != -1 || agt.indexOf("opera/6") != -1);
+        var op7up = (op && !op5 && !op6);
+        var jv = "1.1";
+        if (ff2up) {
+            jv = "1.7";
+        }
+        else if (ff15) {
+            jv = "1.6";
+        }
+        else if (ff0 || ff10 || nn6up || op7up) {
+            jv = "1.5";
+        }
+        else if ((mac && ie5up) || op6) {
+            jv = "1.4";
+        }
+        else if (ie5up || nn4 || op5) {
+            jv = "1.3";
+        }
+        else if (ie4) {
+            jv = "1.2";
+        }
+        return jv;
+    }
+
+    function dcsFunc(func) {
+        if (typeof (window[func]) == "function") {
+            window[func]();
+        }
+    }
+
+    dcsVar();
+    dcsMeta();
+    dcsFunc("dcsAdv");
+    dcsTag();
+//-->
+</SCRIPT>
+
+<NOSCRIPT><IMG alt="Place holder" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcs20ghb1100004r7j2wp8oe0_1t4t/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.3"/></NOSCRIPT><!-- END OF SmartSource Data Collector  TAG -->
+<!-- Code for Google Analytics follows -->
+
+
+
+<!-- End Code for Google Analytics -->
+
+
+
+
+<script src="http://static.getclicky.com/36434.js"type="text/javascript"></script><noscript>
+<img alt="Clicky" src="http://in.getclicky.com/36434-db5.gif"/></p></noscript>
+
+<!-- GOOGLE ANALYTICS -->
+ 
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-1202642-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+ 
+</script>
+<!-- END ANALYTICS -->
+
+
+
+<script type="text/javascript">
+function trackOutboundLink(link, category, action) { 
+ 
+try { 
+_gaq.push(['_trackEvent', category , action]); 
+} catch(err){}
+ 
+setTimeout(function() {
+document.location.href = link.href;
+}, 100);
+}
+</script>
+
+		<!-- ==================== End Scripts ==================== -->
