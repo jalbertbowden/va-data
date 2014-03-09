@@ -1,0 +1,2374 @@
+STATEFP|COUNTYFP|DISTRICT|NAME|NAMELSAD
+51|001|101|Chincoteague|Chincoteague Voting District
+51|001|201|Atlantic|Atlantic Voting District
+51|001|202|Greenbackville|Greenbackville Voting District
+51|001|203|Hallwood|Hallwood Voting District
+51|001|204|Saxis|Saxis Voting District
+51|001|205|Tangier|Tangier Voting District
+51|001|301|New Church|New Church Voting District
+51|001|302|Oak Hall|Oak Hall Voting District
+51|001|401|Bloxom|Bloxom Voting District
+51|001|402|Parksley|Parksley Voting District
+51|001|501|Mappsville|Mappsville Voting District
+51|001|502|Rue|Rue Voting District
+51|001|601|Accomac|Accomac Voting District
+51|001|701|Onancock|Onancock Voting District
+51|001|702|Onley|Onley Voting District
+51|001|801|Bobtown|Bobtown Voting District
+51|001|802|Keller|Keller Voting District
+51|001|803|Melfa|Melfa Voting District
+51|001|804|Quinby|Quinby Voting District
+51|001|805|Wachapreague|Wachapreague Voting District
+51|001|901|Painter|Painter Voting District
+51|003|101|Woodbrook|Woodbrook Voting District
+51|003|103|Branchlands|Branchlands Voting District
+51|003|104|Agnor-Hurt|Agnor-Hurt Voting District
+51|003|105|Dunlora|Dunlora Voting District
+51|003|106|Northside|Northside Voting District
+51|003|201|Jack Jouett|Jack Jouett Voting District
+51|003|202|University Hall|University Hall Voting District
+51|003|203|Georgetown|Georgetown Voting District
+51|003|204|Belfield|Belfield Voting District
+51|003|301|Ivy|Ivy Voting District
+51|003|302|Red Hill|Red Hill Voting District
+51|003|304|East Ivy|East Ivy Voting District
+51|003|305|Country Green|Country Green Voting District
+51|003|401|Scottsville|Scottsville Voting District
+51|003|402|Monticello|Monticello Voting District
+51|003|403|Porter's|Porter's Voting District
+51|003|405|Cale|Cale Voting District
+51|003|406|Stone Robinson|Stone Robinson Voting District
+51|003|501|Keswick|Keswick Voting District
+51|003|502|Stony Point|Stony Point Voting District
+51|003|503|Hollymead|Hollymead Voting District
+51|003|504|Free Bridge|Free Bridge Voting District
+51|003|505|Burnley|Burnley Voting District
+51|003|601|Crozet|Crozet Voting District
+51|003|602|Free Union|Free Union Voting District
+51|003|603|Earlysville|Earlysville Voting District
+51|003|604|Brownsville|Brownsville Voting District
+51|003|605|Yellow Mountain|Yellow Mountain Voting District
+51|005|101|Arritt|Arritt Voting District
+51|005|103|Dameron|Dameron Voting District
+51|005|201|Humpback Bridge|Humpback Bridge Voting District
+51|005|202|Dolly Ann|Dolly Ann Voting District
+51|005|301|Callaghan|Callaghan Voting District
+51|005|302|Griffith|Griffith Voting District
+51|005|401|Low Moor|Low Moor Voting District
+51|005|402|Jackson Heights|Jackson Heights Voting District
+51|005|501|Iron Gate|Iron Gate Voting District
+51|005|502|Peters Switch|Peters Switch Voting District
+51|005|601|District 1|District 1
+51|005|701|District 2|District 2
+51|007|101|Number One|Voting District Number One
+51|007|201|Number Two|Voting District Number Two
+51|007|301|Number Three|Voting District Number Three
+51|007|401|Number Four|Voting District Number Four
+51|007|501|Number Five|Voting District Number Five
+51|009|101|Wright Shop|Wright Shop Voting District
+51|009|102|New Glasgow|New Glasgow Voting District
+51|009|103|Coolwell|Coolwell Voting District
+51|009|201|Courthouse|Courthouse Voting District
+51|009|202|Temperance|Temperance Voting District
+51|009|301|Monroe|Monroe Voting District
+51|009|302|Elon|Elon Voting District
+51|009|303|Pleasant View|Pleasant View Voting District
+51|009|401|Amelon|Amelon Voting District
+51|009|402|Lonco|Lonco Voting District
+51|009|501|Madison|Madison Voting District
+51|011|101|Vera|Vera Voting District
+51|011|102|Pamplin|Pamplin Voting District
+51|011|201|Chap|Chap Voting District
+51|011|202|Spout Spring|Spout Spring Voting District
+51|011|301|460|460 Voting District
+51|011|302|Stonewall|Stonewall Voting District
+51|011|401|Courthouse|Courthouse Voting District
+51|011|501|Oakville|Oakville Voting District
+51|011|502|Agee|Agee Voting District
+51|013|001|Arlington|Arlington Voting District
+51|013|002|Ashton Heights|Ashton Heights Voting District
+51|013|003|Aurora Hills|Aurora Hills Voting District
+51|013|004|Ballston|Ballston Voting District
+51|013|005|Barcroft|Barcroft Voting District
+51|013|006|Crystal City|Crystal City Voting District
+51|013|007|Cherrydale|Cherrydale Voting District
+51|013|008|Hume|Hume Voting District
+51|013|009|Columbia|Columbia Voting District
+51|013|010|Wilson|Wilson Voting District
+51|013|011|East Falls Church|East Falls Church Voting District
+51|013|012|Fairlington|Fairlington Voting District
+51|013|013|Glen Carlyn|Glen Carlyn Voting District
+51|013|014|Clarendon|Clarendon Voting District
+51|013|015|Lyon Park|Lyon Park Voting District
+51|013|016|Lyon Village|Lyon Village Voting District
+51|013|017|Overlee Knolls|Overlee Knolls Voting District
+51|013|018|Park Lane|Park Lane Voting District
+51|013|019|Rosslyn|Rosslyn Voting District
+51|013|020|Thrifton|Thrifton Voting District
+51|013|021|Virginia Highlands|Virginia Highlands Voting District
+51|013|022|Abingdon|Abingdon Voting District
+51|013|023|Westover|Westover Voting District
+51|013|024|Woodlawn|Woodlawn Voting District
+51|013|025|Arlington Forest|Arlington Forest Voting District
+51|013|026|Fillmore|Fillmore Voting District
+51|013|027|Jefferson|Jefferson Voting District
+51|013|028|Claremont|Claremont Voting District
+51|013|029|Dominion Hills|Dominion Hills Voting District
+51|013|030|Glebe|Glebe Voting District
+51|013|031|Lexington|Lexington Voting District
+51|013|032|Oakridge|Oakridge Voting District
+51|013|033|Rock Spring|Rock Spring Voting District
+51|013|034|Yorktown|Yorktown Voting District
+51|013|035|Madison|Madison Voting District
+51|013|036|Marshall|Marshall Voting District
+51|013|037|Nottingham|Nottingham Voting District
+51|013|038|Arlington View|Arlington View Voting District
+51|013|039|Ashlawn|Ashlawn Voting District
+51|013|040|Virginia Square|Virginia Square Voting District
+51|013|041|Woodbury|Woodbury Voting District
+51|013|042|Shirlington|Shirlington Voting District
+51|013|043|Arlington Mill|Arlington Mill Voting District
+51|013|044|Dawson|Dawson Voting District
+51|013|045|Buckingham|Buckingham Voting District
+51|013|046|Central|Central Voting District
+51|013|047|Four Mile Run|Four Mile Run Voting District
+51|013|048|Courtlands|Courtlands Voting District
+51|013|049|Monroe|Monroe Voting District
+51|013|050|Crystal Plaza|Crystal Plaza Voting District
+51|013|051|Taylor|Taylor Voting District
+51|015|101|Jolivue|Jolivue Voting District
+51|015|102|Expo|Expo Voting District
+51|015|103|Verona|Verona Voting District
+51|015|201|Crimora|Crimora Voting District
+51|015|202|New Hope|New Hope Voting District
+51|015|203|Weyers Cave|Weyers Cave Voting District
+51|015|301|Fort Defiance|Fort Defiance Voting District
+51|015|302|North River|North River Voting District
+51|015|303|Mount Solon|Mount Solon Voting District
+51|015|304|Churchville Fire Station|Churchville Fire Station Voting District
+51|015|401|Buffalo Gap|Buffalo Gap Voting District
+51|015|402|Churchville School|Churchville School Voting District
+51|015|403|Craigsville|Craigsville Voting District
+51|015|404|Deerfield|Deerfield Voting District
+51|015|405|Cedar Green|Cedar Green Voting District
+51|015|501|Greenville|Greenville Voting District
+51|015|502|Middlebrook|Middlebrook Voting District
+51|015|503|Spottswood|Spottswood Voting District
+51|015|504|White Hill|White Hill Voting District
+51|015|601|Sherando|Sherando Voting District
+51|015|602|Stuarts Draft|Stuarts Draft Voting District
+51|015|603|Lyndhurst|Lyndhurst Voting District
+51|015|801|Dooms|Dooms Voting District
+51|015|802|Fishersville|Fishersville Voting District
+51|015|803|Wilson|Wilson Voting District
+51|017|101|Warm Springs|Warm Springs Voting District
+51|017|102|Mountain Grove|Mountain Grove Voting District
+51|017|201|Hot Springs|Hot Springs Voting District
+51|017|301|Fairview|Fairview Voting District
+51|017|302|Burnsville|Burnsville Voting District
+51|017|401|Millboro|Millboro Voting District
+51|017|501|Healing Springs|Healing Springs Voting District
+51|019|101|Goodview Elem School|Goodview Elem School Voting District
+51|019|102|Hardy Fire & Rescue Bldg|Hardy Fire & Rescue Bldg Voting District
+51|019|103|Chamblissburg First Aid Bldg|Chamblissburg First Aid Bldg Voting District
+51|019|202|Staunton River High School|Staunton River High School Voting District
+51|019|203|Moneta Elem School|Moneta Elem School Voting District
+51|019|204|Body Camp Elem School|Body Camp Elem School Voting District
+51|019|205|Saunders Vol Fire Dept|Saunders Vol Fire Dept Voting District
+51|019|301|New London Academy|New London Academy Voting District
+51|019|302|Bedford County Psa|Bedford County Psa Voting District
+51|019|303|Bethesda Methodist Church|Bethesda Methodist Church Voting District
+51|019|304|Forest Youth Athletic Assoc.|Forest Youth Athletic Assoc. Voting District
+51|019|305|Huddleston Elem School|Huddleston Elem School Voting District
+51|019|401|Forest Elem School|Forest Elem School Voting District
+51|019|402|Thomas Jefferson Elem School|Thomas Jefferson Elem School Voting District
+51|019|403|Knights Of Columbus Bldg|Knights Of Columbus Bldg Voting District
+51|019|502|Big Island Elem School|Big Island Elem School Voting District
+51|019|503|Sedalia Center|Sedalia Center Voting District
+51|019|504|Odd Fellows Hall|Odd Fellows Hall Voting District
+51|019|505|Boonsboro Elem School|Boonsboro Elem School Voting District
+51|019|506|Boonsboro Ruritan Club|Boonsboro Ruritan Club Voting District
+51|019|507|Pleasant View|Pleasant View Voting District
+51|019|601|Montvale Elem School|Montvale Elem School Voting District
+51|019|602|Shady Grove Baptist Church|Shady Grove Baptist Church Voting District
+51|019|603|Thaxton Elem School|Thaxton Elem School Voting District
+51|019|604|Saunders Grove Brethren Church|Saunders Grove Brethren Church Voting District
+51|019|701|Goode Rescue Squad|Goode Rescue Squad Voting District
+51|019|702|Liberty High School|Liberty High School Voting District
+51|019|703|Bedford Christian Church|Bedford Christian Church Voting District
+51|019|704|Suck Springs|Suck Springs Voting District
+51|021|101|Bastian|Bastian Voting District
+51|021|102|Ceres|Ceres Voting District
+51|021|201|Davis|Davis Voting District
+51|021|202|Seddon|Seddon Voting District
+51|021|301|Hollybrook|Hollybrook Voting District
+51|021|302|Mechanicsburg|Mechanicsburg Voting District
+51|021|401|Rocky Gap|Rocky Gap Voting District
+51|023|101|Amsterdam|Amsterdam Voting District
+51|023|102|Asbury|Asbury Voting District
+51|023|104|Troutville|Troutville Voting District
+51|023|201|Blue Ridge|Blue Ridge Voting District
+51|023|202|Rainbow Forest|Rainbow Forest Voting District
+51|023|301|Buchanan|Buchanan Voting District
+51|023|302|Mill Creek|Mill Creek Voting District
+51|023|303|Roaring Run|Roaring Run Voting District
+51|023|304|Springwood|Springwood Voting District
+51|023|402|Courthouse|Courthouse Voting District
+51|023|403|Eagle Rock|Eagle Rock Voting District
+51|023|404|Glen Wilton|Glen Wilton Voting District
+51|023|405|Oriskany|Oriskany Voting District
+51|023|406|Town Hall|Town Hall Voting District
+51|023|501|Coyner Springs|Coyner Springs Voting District
+51|023|502|Cloverdale|Cloverdale Voting District
+51|025|101|Brodnax|Brodnax Voting District
+51|025|102|Rock Store|Rock Store Voting District
+51|025|103|Tillman|Tillman Voting District
+51|025|201|Dromgoole|Dromgoole Voting District
+51|025|202|Edgerton|Edgerton Voting District
+51|025|203|Fitzhugh|Fitzhugh Voting District
+51|025|301|Alberta|Alberta Voting District
+51|025|302|Danieltown|Danieltown Voting District
+51|025|303|Elmore|Elmore Voting District
+51|025|304|Seymour|Seymour Voting District
+51|025|401|Sturgeon|Sturgeon Voting District
+51|025|402|King's Store|King's Store Voting District
+51|025|501|Lawrenceville|Lawrenceville Voting District
+51|027|102|Blackey|Blackey Voting District
+51|027|103|Hurley|Hurley Voting District
+51|027|201|Grassy|Grassy Voting District
+51|027|202|Bull|Bull Voting District
+51|027|203|Rocklick|Rocklick Voting District
+51|027|301|Slate|Slate Voting District
+51|027|302|North Grundy|North Grundy Voting District
+51|027|403|South Grundy|South Grundy Voting District
+51|027|404|Oakwood|Oakwood Voting District
+51|027|501|Prater|Prater Voting District
+51|027|502|Fox|Fox Voting District
+51|027|503|Vansant|Vansant Voting District
+51|027|601|Council|Council Voting District
+51|027|602|Garden|Garden Voting District
+51|027|603|Hurricane|Hurricane Voting District
+51|027|701|Whitewood|Whitewood Voting District
+51|027|702|Contrary|Contrary Voting District
+51|029|101|New Canton|New Canton Voting District
+51|029|201|White Hall|White Hall Voting District
+51|029|301|Curdsville|Curdsville Voting District
+51|029|302|New Store|New Store Voting District
+51|029|401|Maysville|Maysville Voting District
+51|029|501|Wrights|Wrights Voting District
+51|029|502|Glenmore|Glenmore Voting District
+51|029|601|Slate River|Slate River Voting District
+51|029|701|Gold Hill|Gold Hill Voting District
+51|031|101|Brookville|Brookville Voting District
+51|031|102|New London|New London Voting District
+51|031|201|Walker|Walker Voting District
+51|031|202|Bedford Springs|Bedford Springs Voting District
+51|031|301|Evington|Evington Voting District
+51|031|302|Lynch Station|Lynch Station Voting District
+51|031|303|Altavista|Altavista Voting District
+51|031|401|Three Forks|Three Forks Voting District
+51|031|402|Court House|Court House Voting District
+51|031|501|Spring Hill|Spring Hill Voting District
+51|031|502|Yellow Branch|Yellow Branch Voting District
+51|031|601|Airport|Airport Voting District
+51|031|602|Kings|Kings Voting District
+51|031|603|Concord|Concord Voting District
+51|031|701|Brookneal|Brookneal Voting District
+51|031|702|Gladys|Gladys Voting District
+51|031|703|Morris Church|Morris Church Voting District
+51|033|101|Bowling Green|Bowling Green Voting District
+51|033|201|Madison|Madison Voting District
+51|033|301|Port Royal|Port Royal Voting District
+51|033|302|Chilesburg|Chilesburg Voting District
+51|033|303|Woodford|Woodford Voting District
+51|033|401|Reedy Church|Reedy Church Voting District
+51|033|402|Penola|Penola Voting District
+51|033|501|Mattaponi|Mattaponi Voting District
+51|035|101|Mount Bethel|Mount Bethel Voting District
+51|035|102|St Paul|St Paul Voting District
+51|035|103|Lambsburg|Lambsburg Voting District
+51|035|104|Oakland A|Oakland A Voting District
+51|035|201|Hillsville B|Hillsville B Voting District
+51|035|202|Laurel Fork|Laurel Fork Voting District
+51|035|203|Gladesboro|Gladesboro Voting District
+51|035|301|Hillsville C|Hillsville C Voting District
+51|035|302|Sylvatus|Sylvatus Voting District
+51|035|303|Dugspur|Dugspur Voting District
+51|035|401|Hillsville D|Hillsville D Voting District
+51|035|402|Woodlawn D|Woodlawn D Voting District
+51|035|403|Oakland D|Oakland D Voting District
+51|035|404|Fancy Gap|Fancy Gap Voting District
+51|035|501|Vaughn|Vaughn Voting District
+51|035|502|Gladeville|Gladeville Voting District
+51|035|503|Woodlawn E|Woodlawn E Voting District
+51|035|504|Laurel|Laurel Voting District
+51|036|101|Precinct 1-1|Precinct 1-1
+51|036|201|Precinct 2-1|Precinct 2-1
+51|036|301|Precinct 3-1|Precinct 3-1
+51|037|101|County Seat|County Seat Voting District
+51|037|201|Red Oak Wylliesburg|Red Oak Wylliesburg Voting District
+51|037|302|Drakes Branch|Drakes Branch Voting District
+51|037|401|Keysville|Keysville Voting District
+51|037|501|Cullen|Cullen Voting District
+51|037|503|Red House|Red House Voting District
+51|037|601|Aspen|Aspen Voting District
+51|037|602|Phenix|Phenix Voting District
+51|037|701|Bacon|Bacon Voting District
+51|037|702|Saxe|Saxe Voting District
+51|041|101|Bellwood|Bellwood Voting District
+51|041|102|South Chester|South Chester Voting District
+51|041|103|Enon|Enon Voting District
+51|041|104|North Chester|North Chester Voting District
+51|041|105|Drewry's Bluff|Drewry's Bluff Voting District
+51|041|106|Harrowgate|Harrowgate Voting District
+51|041|107|Wells|Wells Voting District
+51|041|108|Ecoff|Ecoff Voting District
+51|041|109|Elizabeth Scott|Elizabeth Scott Voting District
+51|041|110|Dutch Gap|Dutch Gap Voting District
+51|041|111|Iron Bridge|Iron Bridge Voting District
+51|041|112|Carver|Carver Voting District
+51|041|201|Gates|Gates Voting District
+51|041|202|Beulah|Beulah Voting District
+51|041|203|Bird|Bird Voting District
+51|041|204|Jacobs|Jacobs Voting District
+51|041|205|Falling Creek|Falling Creek Voting District
+51|041|206|Belmont|Belmont Voting District
+51|041|207|Chippenham|Chippenham Voting District
+51|041|208|Meadowbrook|Meadowbrook Voting District
+51|041|209|Salem Church|Salem Church Voting District
+51|041|210|Five Forks|Five Forks Voting District
+51|041|211|Nash|Nash Voting District
+51|041|212|St. Lukes|St. Lukes Voting District
+51|041|213|Southside|Southside Voting District
+51|041|301|Ettrick|Ettrick Voting District
+51|041|302|Deer Run|Deer Run Voting District
+51|041|303|Matoaca|Matoaca Voting District
+51|041|304|Winfrees Store|Winfrees Store Voting District
+51|041|305|Beach|Beach Voting District
+51|041|306|Winterpock|Winterpock Voting District
+51|041|307|Cosby|Cosby Voting District
+51|041|308|S. Manchester|S. Manchester Voting District
+51|041|309|Skinquarter|Skinquarter Voting District
+51|041|310|Tomahawk|Tomahawk Voting District
+51|041|312|Evergreen|Evergreen Voting District
+51|041|313|Woolridge|Woolridge Voting District
+51|041|315|Bailey Bridge|Bailey Bridge Voting District
+51|041|316|Spring Run|Spring Run Voting District
+51|041|317|Birkdale|Birkdale Voting District
+51|041|401|Harbour Pointe|Harbour Pointe Voting District
+51|041|402|Genito|Genito Voting District
+51|041|403|Brandermill|Brandermill Voting District
+51|041|404|Providence|Providence Voting District
+51|041|405|La Prade|La Prade Voting District
+51|041|406|Smoketree|Smoketree Voting District
+51|041|407|Monacan|Monacan Voting District
+51|041|408|Reams|Reams Voting District
+51|041|409|Manchester|Manchester Voting District
+51|041|410|Wagstaff|Wagstaff Voting District
+51|041|411|Swift Creek|Swift Creek Voting District
+51|041|413|Shenandoah|Shenandoah Voting District
+51|041|414|Crenshaw|Crenshaw Voting District
+51|041|501|Huguenot|Huguenot Voting District
+51|041|502|Crestwood|Crestwood Voting District
+51|041|503|Midlothian|Midlothian Voting District
+51|041|504|Robious|Robious Voting District
+51|041|505|Bon Air|Bon Air Voting District
+51|041|506|Greenfield|Greenfield Voting District
+51|041|507|Salisbury|Salisbury Voting District
+51|041|508|Belgrade|Belgrade Voting District
+51|041|509|Cranbeck|Cranbeck Voting District
+51|041|510|Sycamore|Sycamore Voting District
+51|041|511|Black Heath|Black Heath Voting District
+51|041|513|Beaufont|Beaufont Voting District
+51|041|514|Watkins|Watkins Voting District
+51|041|515|Davis|Davis Voting District
+51|043|101|Russell|Russell Voting District
+51|043|201|Berryville|Berryville Voting District
+51|043|301|Millwood|Millwood Voting District
+51|043|302|Pine Grove|Pine Grove Voting District
+51|043|401|White Post|White Post Voting District
+51|043|501|Buckmarsh|Buckmarsh Voting District
+51|043|502|Blue Ridge|Blue Ridge Voting District
+51|045|101|Court House|Court House Voting District
+51|045|201|Ammendale|Ammendale Voting District
+51|045|202|North Mountain|North Mountain Voting District
+51|045|301|Givens And Reynolds Store|Givens And Reynolds Store Voting District
+51|045|302|McGuire's Store|McGuire's Store Voting District
+51|045|303|Marshalls Store|Marshalls Store Voting District
+51|045|401|Barbours Creek|Barbours Creek Voting District
+51|045|402|Paint Bank|Paint Bank Voting District
+51|045|403|Craig Springs|Craig Springs Voting District
+51|045|404|Forks Of Johns Creek|Forks Of Johns Creek Voting District
+51|045|501|Craig City|Craig City Voting District
+51|047|101|West Fairfax|West Fairfax Voting District
+51|047|201|East Fairfax|East Fairfax Voting District
+51|047|302|Eggbornsville|Eggbornsville Voting District
+51|047|303|Cardova|Cardova Voting District
+51|047|401|Eldorado|Eldorado Voting District
+51|047|402|Brown's Store|Brown's Store Voting District
+51|047|501|Jeffersonton|Jeffersonton Voting District
+51|047|502|Rixeyville|Rixeyville Voting District
+51|047|601|Mitchells|Mitchells Voting District
+51|047|602|Pearl Sample|Pearl Sample Voting District
+51|047|702|Brandy Station|Brandy Station Voting District
+51|047|703|Lignum|Lignum Voting District
+51|047|704|Richardsville|Richardsville Voting District
+51|049|101|Precinct 1|Precinct 1
+51|049|201|Precinct 2|Precinct 2
+51|049|301|Precinct 3|Precinct 3
+51|049|401|Precinct 4|Precinct 4
+51|049|501|Precinct 5|Precinct 5
+51|051|101|South Clintwood|South Clintwood Voting District
+51|051|201|Nora|Nora Voting District
+51|051|202|Frying Pan|Frying Pan Voting District
+51|051|203|Clinchco|Clinchco Voting District
+51|051|301|West Dante|West Dante Voting District
+51|051|302|Herald|Herald Voting District
+51|051|303|Ridge|Ridge Voting District
+51|051|304|Longs Fork|Longs Fork Voting District
+51|051|401|Colley|Colley Voting District
+51|051|402|Haysi|Haysi Voting District
+51|051|501|Tarpon|Tarpon Voting District
+51|051|502|Artrip|Artrip Voting District
+51|051|503|North Clintwood|North Clintwood Voting District
+51|053|101|Rohoic|Rohoic Voting District
+51|053|102|White Oak|White Oak Voting District
+51|053|103|Church Road|Church Road Voting District
+51|053|201|Edgehill|Edgehill Voting District
+51|053|202|Chesdin|Chesdin Voting District
+51|053|301|Reams|Reams Voting District
+51|053|302|New Hope|New Hope Voting District
+51|053|401|Dinwiddie|Dinwiddie Voting District
+51|053|402|Little Zion|Little Zion Voting District
+51|053|403|Cherry Hill|Cherry Hill Voting District
+51|053|501|Courthouse|Courthouse Voting District
+51|053|502|McKenney|McKenney Voting District
+51|053|503|Rocky Run|Rocky Run Voting District
+51|057|101|Greater Tappahannock|Greater Tappahannock Voting District
+51|057|201|North|North Voting District
+51|057|301|South|South Voting District
+51|057|401|Central|Central Voting District
+51|059|102|Bristow|Bristow Voting District
+51|059|104|Chapel|Chapel Voting District
+51|059|105|Fairview|Fairview Voting District
+51|059|106|Heritage|Heritage Voting District
+51|059|108|Kings Park|Kings Park Voting District
+51|059|109|Olde Creek|Olde Creek Voting District
+51|059|110|North Springfield # 1|North Springfield # 1 Voting District
+51|059|111|North Springfield # 2|North Springfield # 2 Voting District
+51|059|113|Oak Hill|Oak Hill Voting District
+51|059|115|Ravensworth|Ravensworth Voting District
+51|059|116|Wakefield|Wakefield Voting District
+51|059|117|Woodson|Woodson Voting District
+51|059|118|Lake Braddock|Lake Braddock Voting District
+51|059|119|Laurel|Laurel Voting District
+51|059|120|Sideburn|Sideburn Voting District
+51|059|121|Villa|Villa Voting District
+51|059|122|Long Branch|Long Branch Voting District
+51|059|123|Robinson|Robinson Voting District
+51|059|124|Olley|Olley Voting District
+51|059|125|Signal Hill|Signal Hill Voting District
+51|059|126|Bonnie Brae|Bonnie Brae Voting District
+51|059|127|Burke Centre|Burke Centre Voting District
+51|059|128|Cardinal|Cardinal Voting District
+51|059|129|Keene Mill|Keene Mill Voting District
+51|059|130|Terra Centre|Terra Centre Voting District
+51|059|202|Flint Hill|Flint Hill Voting District
+51|059|203|Floris|Floris Voting District
+51|059|208|Reston #1|Reston #1 Voting District
+51|059|209|Reston #2|Reston #2 Voting District
+51|059|213|Vienna #1|Vienna #1 Voting District
+51|059|214|Vienna #2|Vienna #2 Voting District
+51|059|216|Vienna #4|Vienna #4 Voting District
+51|059|218|Vienna #6|Vienna #6 Voting District
+51|059|219|Westbriar|Westbriar Voting District
+51|059|220|Dogwood|Dogwood Voting District
+51|059|221|Hunters Woods|Hunters Woods Voting District
+51|059|222|Reston #3|Reston #3 Voting District
+51|059|223|Glade|Glade Voting District
+51|059|224|South Lakes|South Lakes Voting District
+51|059|225|Terraset|Terraset Voting District
+51|059|226|Wolftrap|Wolftrap Voting District
+51|059|227|Sunrise Valley|Sunrise Valley Voting District
+51|059|229|Fox Mill|Fox Mill Voting District
+51|059|233|North Point|North Point Voting District
+51|059|234|Aldrin|Aldrin Voting District
+51|059|235|Frying Pan|Frying Pan Voting District
+51|059|236|Stuart|Stuart Voting District
+51|059|237|McNair|McNair Voting District
+51|059|238|Cameron Glen|Cameron Glen Voting District
+51|059|239|Coppermine|Coppermine Voting District
+51|059|301|Chain Bridge|Chain Bridge Voting District
+51|059|302|Chesterbrook|Chesterbrook Voting District
+51|059|303|Churchill|Churchill Voting District
+51|059|304|Cooper|Cooper Voting District
+51|059|305|El Nido|El Nido Voting District
+51|059|306|Great Falls|Great Falls Voting District
+51|059|307|Haycock|Haycock Voting District
+51|059|309|Kenmore|Kenmore Voting District
+51|059|310|Kirby|Kirby Voting District
+51|059|311|Langley|Langley Voting District
+51|059|312|Longfellow|Longfellow Voting District
+51|059|314|McLean|McLean Voting District
+51|059|315|Pimmit|Pimmit Voting District
+51|059|316|Salona|Salona Voting District
+51|059|317|Westhampton|Westhampton Voting District
+51|059|318|Westmoreland|Westmoreland Voting District
+51|059|319|Herndon #1|Herndon #1 Voting District
+51|059|320|Herndon #2|Herndon #2 Voting District
+51|059|321|Clearview|Clearview Voting District
+51|059|322|Forestville|Forestville Voting District
+51|059|323|Shouse|Shouse Voting District
+51|059|324|Herndon #3|Herndon #3 Voting District
+51|059|325|Hutchison|Hutchison Voting District
+51|059|327|Sugarland|Sugarland Voting District
+51|059|328|Hickory|Hickory Voting District
+51|059|329|Seneca|Seneca Voting District
+51|059|330|Colvin|Colvin Voting District
+51|059|331|Spring Hill|Spring Hill Voting District
+51|059|401|Bush Hill|Bush Hill Voting District
+51|059|402|Cameron|Cameron Voting District
+51|059|404|Franconia|Franconia Voting District
+51|059|405|Groveton|Groveton Voting District
+51|059|406|Hayfield|Hayfield Voting District
+51|059|408|Mount Eagle|Mount Eagle Voting District
+51|059|409|Pioneer|Pioneer Voting District
+51|059|410|Rose Hill|Rose Hill Voting District
+51|059|411|Virginia Hills|Virginia Hills Voting District
+51|059|413|Fairfield|Fairfield Voting District
+51|059|415|Crestwood|Crestwood Voting District
+51|059|417|Garfield|Garfield Voting District
+51|059|418|Lynbrook|Lynbrook Voting District
+51|059|419|Lane|Lane Voting District
+51|059|420|Villages|Villages Voting District
+51|059|421|Kingstowne|Kingstowne Voting District
+51|059|422|Van Dorn|Van Dorn Voting District
+51|059|423|Clermont|Clermont Voting District
+51|059|424|Huntley|Huntley Voting District
+51|059|425|Wilton|Wilton Voting District
+51|059|426|Greenspring|Greenspring Voting District
+51|059|427|Island Creek|Island Creek Voting District
+51|059|501|Baileys|Baileys Voting District
+51|059|502|Barcroft|Barcroft Voting District
+51|059|503|Belvedere|Belvedere Voting District
+51|059|505|Glen Forest|Glen Forest Voting District
+51|059|506|Holmes #1|Holmes #1 Voting District
+51|059|507|Lincolnia|Lincolnia Voting District
+51|059|508|Masonville|Masonville Voting District
+51|059|510|Parklawn|Parklawn Voting District
+51|059|511|Ravenwood|Ravenwood Voting District
+51|059|512|Sleepy Hollow|Sleepy Hollow Voting District
+51|059|513|Saint Albans|Saint Albans Voting District
+51|059|515|Westlawn|Westlawn Voting District
+51|059|516|Weyanoke|Weyanoke Voting District
+51|059|517|Willston|Willston Voting District
+51|059|518|Columbia|Columbia Voting District
+51|059|519|Hummer|Hummer Voting District
+51|059|520|Skyline|Skyline Voting District
+51|059|521|Brook Hill|Brook Hill Voting District
+51|059|522|Camelot|Camelot Voting District
+51|059|523|Poe|Poe Voting District
+51|059|524|Whittier|Whittier Voting District
+51|059|525|Walnut Hill # 1|Walnut Hill # 1 Voting District
+51|059|526|Bren Mar|Bren Mar Voting District
+51|059|527|Edsall|Edsall Voting District
+51|059|528|Ridgelea|Ridgelea Voting District
+51|059|529|Glen Forest #2|Glen Forest #2 Voting District
+51|059|530|Holmes #2|Holmes #2 Voting District
+51|059|531|Leewood|Leewood Voting District
+51|059|601|Belle Haven|Belle Haven Voting District
+51|059|602|Belleview|Belleview Voting District
+51|059|604|Bucknell|Bucknell Voting District
+51|059|605|Fort Hunt|Fort Hunt Voting District
+51|059|606|Hollin Hall|Hollin Hall Voting District
+51|059|607|Huntington|Huntington Voting District
+51|059|608|Kirkside|Kirkside Voting District
+51|059|609|Marlan|Marlan Voting District
+51|059|610|Sherwood|Sherwood Voting District
+51|059|611|Stratford|Stratford Voting District
+51|059|612|Waynewood|Waynewood Voting District
+51|059|613|Westgate|Westgate Voting District
+51|059|614|Whitman|Whitman Voting District
+51|059|615|Woodley|Woodley Voting District
+51|059|616|Gunston|Gunston Voting District
+51|059|617|Lorton|Lorton Voting District
+51|059|618|Newington|Newington Voting District
+51|059|619|Belvoir|Belvoir Voting District
+51|059|621|Grosvenor|Grosvenor Voting District
+51|059|622|Lorton Station|Lorton Station Voting District
+51|059|623|Alban|Alban Voting District
+51|059|624|Hunt|Hunt Voting District
+51|059|625|Lorton Center|Lorton Center Voting District
+51|059|626|Saratoga|Saratoga Voting District
+51|059|627|Woodlawn|Woodlawn Voting District
+51|059|628|Laurel Hill|Laurel Hill Voting District
+51|059|629|South County|South County Voting District
+51|059|700|Fairfax A|Fairfax A Voting District
+51|059|701|Blake|Blake Voting District
+51|059|703|Fort Buffalo|Fort Buffalo Voting District
+51|059|704|Freedom Hill|Freedom Hill Voting District
+51|059|705|Graham|Graham Voting District
+51|059|706|Greenway|Greenway Voting District
+51|059|707|Mantua|Mantua Voting District
+51|059|708|Marshall|Marshall Voting District
+51|059|709|Mosby|Mosby Voting District
+51|059|710|Pine Spring|Pine Spring Voting District
+51|059|711|Price|Price Voting District
+51|059|712|Shreve|Shreve Voting District
+51|059|713|Timber Lane|Timber Lane Voting District
+51|059|714|Walker|Walker Voting District
+51|059|717|Woodburn|Woodburn Voting District
+51|059|718|Pine Ridge|Pine Ridge Voting District
+51|059|719|Stenwood|Stenwood Voting District
+51|059|720|Thoreau|Thoreau Voting District
+51|059|721|Merrifield|Merrifield Voting District
+51|059|726|Magarity|Magarity Voting District
+51|059|727|Oakton|Oakton Voting District
+51|059|728|Walnut Hill # 2|Walnut Hill # 2 Voting District
+51|059|729|Nottoway|Nottoway Voting District
+51|059|730|Penderbrook|Penderbrook Voting District
+51|059|731|Tysons|Tysons Voting District
+51|059|732|Oak Marr|Oak Marr Voting District
+51|059|733|Kilmer|Kilmer Voting District
+51|059|801|Burke|Burke Voting District
+51|059|803|Clifton|Clifton Voting District
+51|059|805|Fairfax Station|Fairfax Station Voting District
+51|059|811|Pohick|Pohick Voting District
+51|059|812|Valley|Valley Voting District
+51|059|815|Woodyard|Woodyard Voting District
+51|059|824|Orange|Orange Voting District
+51|059|825|Cherry Run|Cherry Run Voting District
+51|059|827|Irving|Irving Voting District
+51|059|833|White Oaks|White Oaks Voting District
+51|059|838|Sangster|Sangster Voting District
+51|059|839|Silverbrook|Silverbrook Voting District
+51|059|840|West Springfield|West Springfield Voting District
+51|059|841|Popes Head|Popes Head Voting District
+51|059|842|Parkway|Parkway Voting District
+51|059|843|Fairlakes|Fairlakes Voting District
+51|059|844|Centerpointe|Centerpointe Voting District
+51|059|845|Fountainhead|Fountainhead Voting District
+51|059|846|Greenbriar East|Greenbriar East Voting District
+51|059|847|Greenbriar West|Greenbriar West Voting District
+51|059|848|Fair Oaks|Fair Oaks Voting District
+51|059|849|Newgate North|Newgate North Voting District
+51|059|850|South Run|South Run Voting District
+51|059|851|Willow Springs|Willow Springs Voting District
+51|059|852|Monument|Monument Voting District
+51|059|853|Eagle View|Eagle View Voting District
+51|059|854|Newgate South|Newgate South Voting District
+51|059|901|Centre Ridge|Centre Ridge Voting District
+51|059|902|Brookfield|Brookfield Voting District
+51|059|903|Cub Run|Cub Run Voting District
+51|059|904|Dulles|Dulles Voting District
+51|059|905|Franklin|Franklin Voting District
+51|059|908|Kinross|Kinross Voting District
+51|059|910|London Towne East|London Towne East Voting District
+51|059|911|Navy|Navy Voting District
+51|059|913|Rocky Run|Rocky Run Voting District
+51|059|914|Vale|Vale Voting District
+51|059|915|Virginia Run|Virginia Run Voting District
+51|059|916|Waples Mill|Waples Mill Voting District
+51|059|917|Stone|Stone Voting District
+51|059|918|Centreville|Centreville Voting District
+51|059|919|Green Trails|Green Trails Voting District
+51|059|920|Lees Corner|Lees Corner Voting District
+51|059|921|Deer Park|Deer Park Voting District
+51|059|923|Bull Run|Bull Run Voting District
+51|059|924|London Towne West|London Towne West Voting District
+51|059|925|Old Mill|Old Mill Voting District
+51|059|926|Powell|Powell Voting District
+51|059|927|Lees Corner West|Lees Corner West Voting District
+51|059|928|Poplar Tree|Poplar Tree Voting District
+51|061|101|Kettle Run|Kettle Run Voting District
+51|061|102|Catlett|Catlett Voting District
+51|061|103|Casanova|Casanova Voting District
+51|061|104|Lois|Lois Voting District
+51|061|105|Opal|Opal Voting District
+51|061|201|Courthouse|Courthouse Voting District
+51|061|202|Airlie|Airlie Voting District
+51|061|203|Baldwin Ridge|Baldwin Ridge Voting District
+51|061|204|Warrenton|Warrenton Voting District
+51|061|301|Morrisville|Morrisville Voting District
+51|061|302|Remington|Remington Voting District
+51|061|303|Bealeton|Bealeton Voting District
+51|061|401|Marshall|Marshall Voting District
+51|061|402|Leeds|Leeds Voting District
+51|061|403|Waterloo|Waterloo Voting District
+51|061|501|The Plains|The Plains Voting District
+51|061|502|New Baltimore|New Baltimore Voting District
+51|061|503|Broad Run|Broad Run Voting District
+51|063|101|Locust Grove|Locust Grove Voting District
+51|063|201|Little River|Little River Voting District
+51|063|301|Courthouse|Courthouse Voting District
+51|063|401|Burns Fork|Burns Fork Voting District
+51|063|501|Indian Valley|Indian Valley Voting District
+51|065|101|Palmyra|Palmyra Voting District
+51|065|201|Columbia|Columbia Voting District
+51|065|301|Fork Union|Fork Union Voting District
+51|065|401|Cunningham|Cunningham Voting District
+51|065|501|Rivanna|Rivanna Voting District
+51|065|502|Rivanna 2|Rivanna 2 Voting District
+51|067|102|Burnt Chimney|Burnt Chimney Voting District
+51|067|103|Scruggs|Scruggs Voting District
+51|067|201|Glade Hill|Glade Hill Voting District
+51|067|202|Penhook|Penhook Voting District
+51|067|203|Hodgesville|Hodgesville Voting District
+51|067|204|Dudley|Dudley Voting District
+51|067|301|Snow Creek|Snow Creek Voting District
+51|067|302|Fork Mountain|Fork Mountain Voting District
+51|067|303|Sontag|Sontag Voting District
+51|067|304|Dickinson|Dickinson Voting District
+51|067|401|Henry|Henry Voting District
+51|067|402|Ferrum|Ferrum Voting District
+51|067|403|Endicott|Endicott Voting District
+51|067|501|Waidsboro|Waidsboro Voting District
+51|067|502|Callaway|Callaway Voting District
+51|067|503|Bowmans|Bowmans Voting District
+51|067|504|Gogginsville|Gogginsville Voting District
+51|067|601|Boones Mill|Boones Mill Voting District
+51|067|602|Bonbrook|Bonbrook Voting District
+51|067|603|Cooper's Cove|Cooper's Cove Voting District
+51|067|701|Rocky Mount East|Rocky Mount East Voting District
+51|067|702|Rocky Mount West|Rocky Mount West Voting District
+51|067|703|Rocky Mount South|Rocky Mount South Voting District
+51|069|101|Russells|Russells Voting District
+51|069|102|Gore|Gore Voting District
+51|069|103|Kernstown|Kernstown Voting District
+51|069|104|Cedar Creek|Cedar Creek Voting District
+51|069|201|Gainesborough|Gainesborough Voting District
+51|069|202|Albin|Albin Voting District
+51|069|203|Redland|Redland Voting District
+51|069|301|Clear Brook|Clear Brook Voting District
+51|069|302|Neffs Town|Neffs Town Voting District
+51|069|303|White Hall|White Hall Voting District
+51|069|401|Carpers Valley|Carpers Valley Voting District
+51|069|402|Shenandoah|Shenandoah Voting District
+51|069|403|Parkins Mill|Parkins Mill Voting District
+51|069|501|Stephens City|Stephens City Voting District
+51|069|502|Newtown|Newtown Voting District
+51|069|503|Canterburg|Canterburg Voting District
+51|069|601|Millbrook|Millbrook Voting District
+51|069|602|Ash Hollow|Ash Hollow Voting District
+51|069|603|Greenwood|Greenwood Voting District
+51|071|101|Glen Lyn|Glen Lyn Voting District
+51|071|102|Rich Creek|Rich Creek Voting District
+51|071|103|Narrows|Narrows Voting District
+51|071|201|Pearisburg|Pearisburg Voting District
+51|071|202|Staffordsville|Staffordsville Voting District
+51|071|203|White Gate|White Gate Voting District
+51|071|301|Eggleston|Eggleston Voting District
+51|071|302|Pembroke|Pembroke Voting District
+51|071|303|Newport|Newport Voting District
+51|073|101|Harcum|Harcum Voting District
+51|073|102|Salem|Salem Voting District
+51|073|103|Bethel|Bethel Voting District
+51|073|201|Courthouse|Courthouse Voting District
+51|073|202|Botetourt|Botetourt Voting District
+51|073|301|White Marsh|White Marsh Voting District
+51|073|302|Roanes|Roanes Voting District
+51|073|401|Hayes|Hayes Voting District
+51|073|402|Sarah's Creek|Sarah's Creek Voting District
+51|073|501|Achilles|Achilles Voting District
+51|073|502|Timberneck|Timberneck Voting District
+51|075|101|Fife|Fife Voting District
+51|075|102|Hadensville|Hadensville Voting District
+51|075|201|Three Square|Three Square Voting District
+51|075|202|Sandy Hook|Sandy Hook Voting District
+51|075|301|Goochland Court House|Goochland Court House Voting District
+51|075|401|Crozier|Crozier Voting District
+51|075|402|Centerville|Centerville Voting District
+51|075|501|Manakin|Manakin Voting District
+51|077|101|Bridle Creek|Bridle Creek Voting District
+51|077|102|Flatridge|Flatridge Voting District
+51|077|103|Grant|Grant Voting District
+51|077|104|Mouth Of Wilson|Mouth Of Wilson Voting District
+51|077|105|Mount Rodgers|Mount Rodgers Voting District
+51|077|106|Rugby|Rugby Voting District
+51|077|107|Troutdale|Troutdale Voting District
+51|077|201|Comers Rock|Comers Rock Voting District
+51|077|202|Elk Creek|Elk Creek Voting District
+51|077|203|Independence|Independence Voting District
+51|077|301|Baywood|Baywood Voting District
+51|077|302|Fairview|Fairview Voting District
+51|077|4011|Fries Part 1|Fries Part 1 Voting District
+51|077|4012|Fries Part 2|Fries Part 2 Voting District
+51|077|402|Providence|Providence Voting District
+51|077|403|Oldtown|Oldtown Voting District
+51|079|101|Dyke|Dyke Voting District
+51|079|102|Swift Run|Swift Run Voting District
+51|079|201|Ruckersville|Ruckersville Voting District
+51|079|301|Stanardsville|Stanardsville Voting District
+51|081|101|1-A|Voting District 1-A
+51|081|102|1-B|Voting District 1-B
+51|081|103|1-C|Voting District 1-C
+51|081|201|2-A|Voting District 2-A
+51|081|202|2-B|Voting District 2-B
+51|081|302|3-A|Voting District 3-A
+51|081|401|4-A|Voting District 4-A
+51|081|402|4-B|Voting District 4-B
+51|081|403|4-C|Voting District 4-C
+51|083|101|Childrey|Childrey Voting District
+51|083|102|Liberty|Liberty Voting District
+51|083|103|Republican Grove|Republican Grove Voting District
+51|083|201|Clays Mill|Clays Mill Voting District
+51|083|202|Crossroads|Crossroads Voting District
+51|083|203|Clover|Clover Voting District
+51|083|302|Meadville|Meadville Voting District
+51|083|304|Vernon Hill|Vernon Hill Voting District
+51|083|305|Sinai|Sinai Voting District
+51|083|401|Courthouse|Courthouse Voting District
+51|083|403|Center|Center Voting District
+51|083|502|Dan River|Dan River Voting District
+51|083|503|Scottsburg|Scottsburg Voting District
+51|083|601|Black Walnut|Black Walnut Voting District
+51|083|603|Mt. Carmel|Mt. Carmel Voting District
+51|083|605|Union|Union Voting District
+51|083|701|Hyco|Hyco Voting District
+51|083|702|Midway|Midway Voting District
+51|083|703|Virgilina|Virgilina Voting District
+51|083|801|South Boston East|South Boston East Voting District
+51|083|802|South Boston West|South Boston West Voting District
+51|085|101|Ashland|Ashland Voting District
+51|085|103|Ashcake|Ashcake Voting District
+51|085|104|Sliding Hill|Sliding Hill Voting District
+51|085|201|Beaverdam|Beaverdam Voting District
+51|085|202|Blunts|Blunts Voting District
+51|085|203|Wilmington Parish|Wilmington Parish Voting District
+51|085|204|Goddin's Hill|Goddin's Hill Voting District
+51|085|206|Courthouse|Courthouse Voting District
+51|085|207|Stony Run|Stony Run Voting District
+51|085|301|Clay|Clay Voting District
+51|085|302|Chickahominy|Chickahominy Voting District
+51|085|303|Shady Grove|Shady Grove Voting District
+51|085|304|Atlee|Atlee Voting District
+51|085|305|Cool Spring|Cool Spring Voting District
+51|085|401|Battlefield|Battlefield Voting District
+51|085|402|Old Church|Old Church Voting District
+51|085|403|Cold Harbor|Cold Harbor Voting District
+51|085|404|Black Creek|Black Creek Voting District
+51|085|405|Pebble Creek|Pebble Creek Voting District
+51|085|406|Beaverdam Creek|Beaverdam Creek Voting District
+51|085|502|Rural Point|Rural Point Voting District
+51|085|503|Newman|Newman Voting District
+51|085|504|Studley|Studley Voting District
+51|085|505|Totopotomoy|Totopotomoy Voting District
+51|085|506|Georgetown|Georgetown Voting District
+51|085|507|Laurel Meadow|Laurel Meadow Voting District
+51|085|601|Village|Village Voting District
+51|085|602|Stonewall Jackson|Stonewall Jackson Voting District
+51|085|603|Mechanicsville|Mechanicsville Voting District
+51|085|604|Hanover Grove|Hanover Grove Voting District
+51|085|701|Farrington|Farrington Voting District
+51|085|702|Montpelier|Montpelier Voting District
+51|085|703|Rockville|Rockville Voting District
+51|085|704|Elmont|Elmont Voting District
+51|087|101|Coalpit|Coalpit Voting District
+51|087|102|Dumbarton|Dumbarton Voting District
+51|087|103|Glen Allen|Glen Allen Voting District
+51|087|104|Glenside|Glenside Voting District
+51|087|105|Greendale|Greendale Voting District
+51|087|106|Hermitage|Hermitage Voting District
+51|087|107|Hilliard|Hilliard Voting District
+51|087|108|Hunton|Hunton Voting District
+51|087|109|Johnson|Johnson Voting District
+51|087|110|Lakeside|Lakeside Voting District
+51|087|111|Longan|Longan Voting District
+51|087|112|Maude Trevvett|Maude Trevvett Voting District
+51|087|113|Staples Mill|Staples Mill Voting District
+51|087|114|Summit Court|Summit Court Voting District
+51|087|115|Westwood|Westwood Voting District
+51|087|116|Hungary Creek|Hungary Creek Voting District
+51|087|201|Adams|Adams Voting District
+51|087|202|Azalea|Azalea Voting District
+51|087|203|Belmont|Belmont Voting District
+51|087|204|Brookland|Brookland Voting District
+51|087|205|Canterbury|Canterbury Voting District
+51|087|206|Central Gardens|Central Gardens Voting District
+51|087|207|Chamberlayne|Chamberlayne Voting District
+51|087|208|Fairfield|Fairfield Voting District
+51|087|209|Glen Lea|Glen Lea Voting District
+51|087|210|Greenwood|Greenwood Voting District
+51|087|211|Highland Gardens|Highland Gardens Voting District
+51|087|212|Holllybrook|Holllybrook Voting District
+51|087|213|Hungary|Hungary Voting District
+51|087|214|Longdale|Longdale Voting District
+51|087|215|Maplewood|Maplewood Voting District
+51|087|216|Moody|Moody Voting District
+51|087|217|Mountain|Mountain Voting District
+51|087|218|Oakview|Oakview Voting District
+51|087|219|Randolph|Randolph Voting District
+51|087|220|Ratcliffe|Ratcliffe Voting District
+51|087|221|Stratford Hall|Stratford Hall Voting District
+51|087|222|Wilder|Wilder Voting District
+51|087|223|Yellow Tavern|Yellow Tavern Voting District
+51|087|301|Causeway|Causeway Voting District
+51|087|302|Cedarfield|Cedarfield Voting District
+51|087|303|Crestview|Crestview Voting District
+51|087|304|Innsbrook|Innsbrook Voting District
+51|087|305|Jackson Davis|Jackson Davis Voting District
+51|087|306|Monument Hills|Monument Hills Voting District
+51|087|307|Nuckols Farm|Nuckols Farm Voting District
+51|087|308|Pocahontas|Pocahontas Voting District
+51|087|309|Ridge|Ridge Voting District
+51|087|310|Sadler|Sadler Voting District
+51|087|311|Shady Grove|Shady Grove Voting District
+51|087|312|Skipwith|Skipwith Voting District
+51|087|313|Springfield|Springfield Voting District
+51|087|314|Stoney Run|Stoney Run Voting District
+51|087|315|Three Chopt|Three Chopt Voting District
+51|087|316|Tucker|Tucker Voting District
+51|087|317|Rivers Edge|Rivers Edge Voting District
+51|087|318|Short Pump|Short Pump Voting District
+51|087|401|Byrd|Byrd Voting District
+51|087|402|Derbyshire|Derbyshire Voting District
+51|087|403|Freeman|Freeman Voting District
+51|087|404|Gayton|Gayton Voting District
+51|087|405|Godwin|Godwin Voting District
+51|087|406|Lakewood|Lakewood Voting District
+51|087|407|Lauderdale|Lauderdale Voting District
+51|087|408|Maybeury|Maybeury Voting District
+51|087|409|Mooreland|Mooreland Voting District
+51|087|410|Pemberton|Pemberton Voting District
+51|087|411|Pinchbeck|Pinchbeck Voting District
+51|087|412|Ridgefield|Ridgefield Voting District
+51|087|413|Rollingwood|Rollingwood Voting District
+51|087|414|Spottswood|Spottswood Voting District
+51|087|415|Tuckahoe|Tuckahoe Voting District
+51|087|416|West End|West End Voting District
+51|087|417|Wellborne|Wellborne Voting District
+51|087|501|Antioch|Antioch Voting District
+51|087|502|Cedar Fork|Cedar Fork Voting District
+51|087|503|Chickahominy|Chickahominy Voting District
+51|087|504|Donahoe|Donahoe Voting District
+51|087|505|Dorey|Dorey Voting District
+51|087|506|Eanes|Eanes Voting District
+51|087|507|Elko|Elko Voting District
+51|087|508|Highland Springs|Highland Springs Voting District
+51|087|509|Laburnum|Laburnum Voting District
+51|087|510|Masonic|Masonic Voting District
+51|087|511|Mehfoud|Mehfoud Voting District
+51|087|512|Montrose|Montrose Voting District
+51|087|513|Nine Mile|Nine Mile Voting District
+51|087|514|Pleasants|Pleasants Voting District
+51|087|515|Sandston|Sandston Voting District
+51|087|516|Sullivans|Sullivans Voting District
+51|087|517|Town Hall|Town Hall Voting District
+51|087|518|Whitlocks|Whitlocks Voting District
+51|087|519|Rolfe|Rolfe Voting District
+51|089|101|Bassett No. 2|Bassett No. 2 Voting District
+51|089|102|Gunville|Gunville Voting District
+51|089|103|Scott's Tanyard|Scott's Tanyard Voting District
+51|089|201|Fieldale|Fieldale Voting District
+51|089|202|Horsepasture #1|Horsepasture #1 Voting District
+51|089|203|Horsepasture #2|Horsepasture #2 Voting District
+51|089|204|Spencer|Spencer Voting District
+51|089|302|Axton|Axton Voting District
+51|089|303|Irisburg|Irisburg Voting District
+51|089|304|Mount Olivet|Mount Olivet Voting District
+51|089|305|Mountain Valley|Mountain Valley Voting District
+51|089|401|Collinsville Number 1|Collinsville Number 1 Voting District
+51|089|402|Daniel's Creek|Daniel's Creek Voting District
+51|089|404|Collinsville Number 2|Collinsville Number 2 Voting District
+51|089|405|Mountain View|Mountain View Voting District
+51|089|501|Bassett No. 1|Bassett No. 1 Voting District
+51|089|502|Figsboro|Figsboro Voting District
+51|089|503|Stanleytown|Stanleytown Voting District
+51|089|504|Oak Level|Oak Level Voting District
+51|089|505|Dyers Store|Dyers Store Voting District
+51|089|601|Fontaine|Fontaine Voting District
+51|089|602|Hillcrest|Hillcrest Voting District
+51|089|603|Ridgeway #1|Ridgeway #1 Voting District
+51|089|604|Ridgeway #2|Ridgeway #2 Voting District
+51|091|1|Monterey|Monterey Voting District
+51|091|10|Headwaters|Headwaters Voting District
+51|091|3|Wilson's Mill|Wilson's Mill Voting District
+51|091|5|Blue Grass|Blue Grass Voting District
+51|091|7|Mill Gap|Mill Gap Voting District
+51|091|8|McDowell|McDowell Voting District
+51|093|101|Smithfield|Smithfield Voting District
+51|093|201|Bartlett|Bartlett Voting District
+51|093|202|Carrollton|Carrollton Voting District
+51|093|301|Rushmere|Rushmere Voting District
+51|093|302|Pons|Pons Voting District
+51|093|401|Courthouse|Courthouse Voting District
+51|093|402|Windsor|Windsor Voting District
+51|093|403|Orbit|Orbit Voting District
+51|093|501|Walters|Walters Voting District
+51|093|502|Camps Mill|Camps Mill Voting District
+51|093|503|Carrsville|Carrsville Voting District
+51|093|504|Zuni|Zuni Voting District
+51|093|505|Raynor|Raynor Voting District
+51|095|1011|Berkeley A Part 1|Berkeley A Part 1 Voting District
+51|095|1012|Berkeley A Part 2|Berkeley A Part 2 Voting District
+51|095|1021|Berkeley B Part 1|Berkeley B Part 1 Voting District
+51|095|1022|Berkeley B Part 2|Berkeley B Part 2 Voting District
+51|095|103|Berkeley C|Berkeley C Voting District
+51|095|201|Jamestown A|Jamestown A Voting District
+51|095|202|Jamestown B|Jamestown B Voting District
+51|095|301|Powhatan A|Powhatan A Voting District
+51|095|302|Powhatan B|Powhatan B Voting District
+51|095|303|Powhatan C|Powhatan C Voting District
+51|095|304|Powhatan D|Powhatan D Voting District
+51|095|401|Stonehouse A|Stonehouse A Voting District
+51|095|402|Stonehouse B|Stonehouse B Voting District
+51|095|403|Stonehouse C|Stonehouse C Voting District
+51|095|5011|Roberts A Part 1|Roberts A Part 1 Voting District
+51|095|5012|Roberts A Part 2|Roberts A Part 2 Voting District
+51|095|502|Roberts B|Roberts B Voting District
+51|095|5031|Roberts C Part 1|Roberts C Part 1 Voting District
+51|095|5032|Roberts C Part 2|Roberts C Part 2 Voting District
+51|097|101|Owenton|Owenton Voting District
+51|097|201|Clark's|Clark's Voting District
+51|097|301|Shackleford's|Shackleford's Voting District
+51|097|401|Courthouse|Courthouse Voting District
+51|097|501|Old Mill|Old Mill Voting District
+51|099|101|Courthouse|Courthouse Voting District
+51|099|102|Passapatanzy|Passapatanzy Voting District
+51|099|201|James Monroe|James Monroe Voting District
+51|099|301|Dahlgren|Dahlgren Voting District
+51|099|401|Shiloh|Shiloh Voting District
+51|101|101|West Point|West Point Voting District
+51|101|201|Sweet Hall|Sweet Hall Voting District
+51|101|202|Courthouse|Courthouse Voting District
+51|101|301|Aylett|Aylett Voting District
+51|101|401|Manquin|Manquin Voting District
+51|101|501|Mangohick|Mangohick Voting District
+51|103|101|Precinct 1-1|Precinct 1-1
+51|103|201|Precinct 2-1|Precinct 2-1
+51|103|301|Precinct 3-1|Precinct 3-1
+51|103|302|Precinct 3-2|Precinct 3-2
+51|103|401|Precinct 4-1|Precinct 4-1
+51|103|501|Precinct 5-1|Precinct 5-1
+51|105|101|Elydale|Elydale Voting District
+51|105|102|Ewing|Ewing Voting District
+51|105|103|Rose Hill|Rose Hill Voting District
+51|105|201|Blackwater|Blackwater Voting District
+51|105|202|Flatwoods|Flatwoods Voting District
+51|105|203|North Jonesville|North Jonesville Voting District
+51|105|204|South Jonesville|South Jonesville Voting District
+51|105|301|Ben Hur|Ben Hur Voting District
+51|105|302|West Pennington Gap|West Pennington Gap Voting District
+51|105|303|Woodway|Woodway Voting District
+51|105|401|Stickleyville|Stickleyville Voting District
+51|105|402|Jasper|Jasper Voting District
+51|105|403|Seminary|Seminary Voting District
+51|105|404|Dryden|Dryden Voting District
+51|105|501|Saint Charles|Saint Charles Voting District
+51|105|502|Stone Creek|Stone Creek Voting District
+51|105|503|East Pennington Gap|East Pennington Gap Voting District
+51|105|504|Robbins Chapel|Robbins Chapel Voting District
+51|105|505|Keokee|Keokee Voting District
+51|107|101|Sanders Corner|Sanders Corner Voting District
+51|107|102|Ashburn Farm|Ashburn Farm Voting District
+51|107|105|Hillside|Hillside Voting District
+51|107|106|Eagle Ridge|Eagle Ridge Voting District
+51|107|107|Little River|Little River Voting District
+51|107|108|Mercer|Mercer Voting District
+51|107|109|Hutchison|Hutchison Voting District
+51|107|110|Oak Grove|Oak Grove Voting District
+51|107|111|Briar Woods|Briar Woods Voting District
+51|107|112|Freedom|Freedom Voting District
+51|107|113|Mill Run|Mill Run Voting District
+51|107|114|Dulles South|Dulles South Voting District
+51|107|115|Pinebrook|Pinebrook Voting District
+51|107|116|Legacy|Legacy Voting District
+51|107|117|Carter|Carter Voting District
+51|107|207|River Bend|River Bend Voting District
+51|107|208|Algonkian|Algonkian Voting District
+51|107|209|Potomac Falls|Potomac Falls Voting District
+51|107|210|Cascades|Cascades Voting District
+51|107|211|Buchanan|Buchanan Voting District
+51|107|212|Claude Moore Park|Claude Moore Park Voting District
+51|107|213|Countryside|Countryside Voting District
+51|107|301|Purcellville One|Purcellville One Voting District
+51|107|302|Round Hill|Round Hill Voting District
+51|107|303|Hillsboro|Hillsboro Voting District
+51|107|304|Hamilton|Hamilton Voting District
+51|107|305|Philomont|Philomont Voting District
+51|107|306|Between The Hills|Between The Hills Voting District
+51|107|307|Middleburg|Middleburg Voting District
+51|107|308|St. Louis|St. Louis Voting District
+51|107|309|Aldie|Aldie Voting District
+51|107|310|Purcellville Two|Purcellville Two Voting District
+51|107|311|Woodgrove|Woodgrove Voting District
+51|107|401|West Lovettsville|West Lovettsville Voting District
+51|107|402|Waterford|Waterford Voting District
+51|107|403|Lucketts|Lucketts Voting District
+51|107|405|Greenway|Greenway Voting District
+51|107|406|Balls Bluff|Balls Bluff Voting District
+51|107|407|Harper Park|Harper Park Voting District
+51|107|408|Evergreen|Evergreen Voting District
+51|107|409|Clarkes Gap|Clarkes Gap Voting District
+51|107|410|Tolbert|Tolbert Voting District
+51|107|411|East Lovettsville|East Lovettsville Voting District
+51|107|412|Heritage|Heritage Voting District
+51|107|501|West Leesburg|West Leesburg Voting District
+51|107|502|East Leesburg|East Leesburg Voting District
+51|107|503|Dry Mill|Dry Mill Voting District
+51|107|504|Smart's Mill|Smart's Mill Voting District
+51|107|505|Cool Spring|Cool Spring Voting District
+51|107|506|Brandon Park|Brandon Park Voting District
+51|107|604|Sugarland North|Sugarland North Voting District
+51|107|605|Sugarland South|Sugarland South Voting District
+51|107|606|Seneca|Seneca Voting District
+51|107|607|Lowes Island|Lowes Island Voting District
+51|107|608|Mirror Ridge|Mirror Ridge Voting District
+51|107|609|South Bank|South Bank Voting District
+51|107|701|Sully|Sully Voting District
+51|107|702|Park View|Park View Voting District
+51|107|703|Rolling Ridge|Rolling Ridge Voting District
+51|107|704|Guilford|Guilford Voting District
+51|107|705|Forest Grove|Forest Grove Voting District
+51|107|808|Stone Bridge|Stone Bridge Voting District
+51|107|809|Russell Branch|Russell Branch Voting District
+51|107|810|Cedar Lane|Cedar Lane Voting District
+51|107|811|Dominion|Dominion Voting District
+51|107|812|Farmwell Station|Farmwell Station Voting District
+51|107|813|Selden's Landing|Selden's Landing Voting District
+51|107|814|Newton-Lee|Newton-Lee Voting District
+51|107|815|Belmont Ridge|Belmont Ridge Voting District
+51|107|816|Weller|Weller Voting District
+51|109|101|Zion|Zion Voting District
+51|109|102|Mechanicsville|Mechanicsville Voting District
+51|109|201|Louisa #1|Louisa #1 Voting District
+51|109|202|Louisa #2|Louisa #2 Voting District
+51|109|301|Patrick Henry #1|Patrick Henry #1 Voting District
+51|109|401|Mineral|Mineral Voting District
+51|109|402|Yanceyville|Yanceyville Voting District
+51|109|501|Fredericks Hall|Fredericks Hall Voting District
+51|109|502|Cuckoo|Cuckoo Voting District
+51|109|601|Bumpass|Bumpass Voting District
+51|109|602|Locust Creek|Locust Creek Voting District
+51|109|701|Sheltons Mill|Sheltons Mill Voting District
+51|109|702|South Anna|South Anna Voting District
+51|111|101|Plymouth|Plymouth Voting District
+51|111|201|Brown's Store|Brown's Store Voting District
+51|111|301|Rosebud|Rosebud Voting District
+51|111|302|Flat Rock|Flat Rock Voting District
+51|111|401|Arrowhead Gun Club|Arrowhead Gun Club Voting District
+51|111|402|Pleasant Grove|Pleasant Grove Voting District
+51|111|501|Reedy Creek|Reedy Creek Voting District
+51|111|502|Peoples Community Center|Peoples Community Center Voting District
+51|111|601|Hounds Creek|Hounds Creek Voting District
+51|111|701|Meherrin Fire Dept|Meherrin Fire Dept Voting District
+51|111|702|Victoria Public Library|Victoria Public Library Voting District
+51|113|001|Oak Park|Oak Park Voting District
+51|113|002|Radiant|Radiant Voting District
+51|113|003|Rochelle|Rochelle Voting District
+51|113|004|Graves Mill|Graves Mill Voting District
+51|113|005|Madison|Madison Voting District
+51|113|006|Wolftown|Wolftown Voting District
+51|113|007|Brightwood|Brightwood Voting District
+51|113|008|Criglersville|Criglersville Voting District
+51|113|009|Etlan|Etlan Voting District
+51|115|1|Chesapeake|Chesapeake Voting District
+51|115|2|Westville|Westville Voting District
+51|115|3|Piankatank|Piankatank Voting District
+51|117|101|Wright's Store|Wright's Store Voting District
+51|117|102|Pearson's Store|Pearson's Store Voting District
+51|117|103|South Clarksville|South Clarksville Voting District
+51|117|201|Boydton|Boydton Voting District
+51|117|202|Bluestone Senior High School|Bluestone Senior High School Voting District
+51|117|203|Chase City VFW Post|Chase City VFW Post Voting District
+51|117|301|Bracey|Bracey Voting District
+51|117|302|Lacrosse|Lacrosse Voting District
+51|117|401|American Legion Hall|American Legion Hall Voting District
+51|117|402|Park View Middle School|Park View Middle School Voting District
+51|117|501|South Hill|South Hill Voting District
+51|117|601|Baskerville|Baskerville Voting District
+51|117|602|Union Level|Union Level Voting District
+51|117|603|Smith Crossroads|Smith Crossroads Voting District
+51|117|604|Lake Gaston|Lake Gaston Voting District
+51|117|701|Chase City|Chase City Voting District
+51|117|702|Sunshine|Sunshine Voting District
+51|117|801|Finchley|Finchley Voting District
+51|117|802|Bluestone|Bluestone Voting District
+51|117|803|Chase City Elementary School|Chase City Elementary School Voting District
+51|117|901|Averett|Averett Voting District
+51|117|902|Buffalo Springs|Buffalo Springs Voting District
+51|117|903|Clarksville|Clarksville Voting District
+51|119|101|Saluda|Saluda Voting District
+51|119|102|Urbanna|Urbanna Voting District
+51|119|103|Harmony Village|Harmony Village Voting District
+51|119|201|Wilton|Wilton Voting District
+51|119|202|New Market|New Market Voting District
+51|119|301|Waterview|Waterview Voting District
+51|119|302|Church View|Church View Voting District
+51|121|101|A-1|A-1 Voting District
+51|121|102|A-2|A-2 Voting District
+51|121|103|A-3|A-3 Voting District
+51|121|201|B-1|B-1 Voting District
+51|121|202|B-2|B-2 Voting District
+51|121|203|B-3|B-3 Voting District
+51|121|204|B-4|B-4 Voting District
+51|121|301|C-1|C-1 Voting District
+51|121|302|C-2|C-2 Voting District
+51|121|303|C-3|C-3 Voting District
+51|121|304|C-4|C-4 Voting District
+51|121|401|D-1|D-1 Voting District
+51|121|402|D-2|D-2 Voting District
+51|121|4031|D-3 Part 1|D-3 Part 1 Voting District
+51|121|4032|D-3 Part 2|D-3 Part 2 Voting District
+51|121|404|D-4|D-4 Voting District
+51|121|405|D-5|D-5 Voting District
+51|121|501|E-1|E-1 Voting District
+51|121|502|E-2|E-2 Voting District
+51|121|601|F-1|F-1 Voting District
+51|121|602|F-2|F-2 Voting District
+51|121|701|G-1|G-1 Voting District
+51|121|702|G-2|G-2 Voting District
+51|125|101|Rockfish|Rockfish Voting District
+51|125|201|Lovingston|Lovingston Voting District
+51|125|202|Schuyler|Schuyler Voting District
+51|125|301|Shipman|Shipman Voting District
+51|125|302|Gladstone|Gladstone Voting District
+51|125|401|Roseland|Roseland Voting District
+51|125|402|Montebello|Montebello Voting District
+51|125|501|Faber|Faber Voting District
+51|125|502|Nellysford|Nellysford Voting District
+51|127|102|Tunstall|Tunstall Voting District
+51|127|103|Southern Branch|Southern Branch Voting District
+51|127|201|Quinton|Quinton Voting District
+51|127|202|Kentwood|Kentwood Voting District
+51|127|301|Watkins|Watkins Voting District
+51|127|302|Cumberland|Cumberland Voting District
+51|127|402|Chickahominy River|Chickahominy River Voting District
+51|127|403|Airport|Airport Voting District
+51|127|501|Eltham|Eltham Voting District
+51|127|503|Providence Forge|Providence Forge Voting District
+51|131|101|Precinct 1-1|Precinct 1-1
+51|131|201|Precinct 2-1|Precinct 2-1
+51|131|301|Precinct 3-1|Precinct 3-1
+51|131|401|Precinct 4-1|Precinct 4-1
+51|131|501|Precinct 5-1|Precinct 5-1
+51|131|601|Precinct 6-1|Precinct 6-1
+51|133|101|1a|Voting District 1a
+51|133|201|2a|Voting District 2a
+51|133|301|3a|Voting District 3a
+51|133|302|3b|Voting District 3b
+51|133|401|4a|Voting District 4a
+51|133|501|5a|Voting District 5a
+51|135|101|Precinct 1-1|Precinct 1-1
+51|135|102|Precinct 1-2|Precinct 1-2
+51|135|201|Precinct 2-1|Precinct 2-1
+51|135|202|Precinct 2-2|Precinct 2-2
+51|135|301|Precinct 3-1|Precinct 3-1
+51|135|302|Precinct 3-2|Precinct 3-2
+51|135|401|Precinct 4-1|Precinct 4-1
+51|135|402|Precinct 4-2|Precinct 4-2
+51|135|501|Precinct 5-1|Precinct 5-1
+51|137|101|One West|Voting District One West
+51|137|102|One East|Voting District One East
+51|137|201|Two West|Voting District Two West
+51|137|202|Two East|Voting District Two East
+51|137|301|Three|Voting District Three
+51|137|401|Four West|Voting District Four West
+51|137|402|Four East|Voting District Four East
+51|137|501|Five North|Voting District Five North
+51|137|502|Five South|Voting District Five South
+51|139|101|West Luray|West Luray Voting District
+51|139|201|East Luray|East Luray Voting District
+51|139|301|Marksville|Marksville Voting District
+51|139|401|Newport|Newport Voting District
+51|139|501|Shenandoah|Shenandoah Voting District
+51|141|101|Ararat|Ararat Voting District
+51|141|102|Claudville|Claudville Voting District
+51|141|103|Willis Gap|Willis Gap Voting District
+51|141|201|Dry Pond|Dry Pond Voting District
+51|141|202|Patrick Springs|Patrick Springs Voting District
+51|141|203|Russell Creek|Russell Creek Voting District
+51|141|301|Critz/Stella|Critz/Stella Voting District
+51|141|302|Liberty|Liberty Voting District
+51|141|401|Meadows Of Dan|Meadows Of Dan Voting District
+51|141|402|Stuart Administration|Stuart Administration Voting District
+51|141|501|Stuart Community|Stuart Community Voting District
+51|141|502|Elamsville|Elamsville Voting District
+51|141|503|Woolwine|Woolwine Voting District
+51|143|103|Twin Springs|Twin Springs Voting District
+51|143|105|Chatham|Chatham Voting District
+51|143|106|Tunstall|Tunstall Voting District
+51|143|108|West Blairs|West Blairs Voting District
+51|143|201|Callands|Callands Voting District
+51|143|204|Sandy Level|Sandy Level Voting District
+51|143|206|Climax|Climax Voting District
+51|143|207|Gretna|Gretna Voting District
+51|143|301|Central|Central Voting District
+51|143|305|Riceville|Riceville Voting District
+51|143|307|East Blairs|East Blairs Voting District
+51|143|308|Mt. Airy|Mt. Airy Voting District
+51|143|309|East Gretna|East Gretna Voting District
+51|143|402|Keeling|Keeling Voting District
+51|143|404|Kentuck|Kentuck Voting District
+51|143|405|Ringgold|Ringgold Voting District
+51|143|501|Hurt|Hurt Voting District
+51|143|502|Motley Sycamore|Motley Sycamore Voting District
+51|143|503|Renan|Renan Voting District
+51|143|602|Bearskin|Bearskin Voting District
+51|143|603|Stony Mill|Stony Mill Voting District
+51|143|604|Swansonville|Swansonville Voting District
+51|143|605|Whitmell|Whitmell Voting District
+51|143|606|Brosville|Brosville Voting District
+51|143|607|Dry Fork|Dry Fork Voting District
+51|143|702|Bachelors Hall|Bachelors Hall Voting District
+51|143|703|Ferry Road|Ferry Road Voting District
+51|143|704|Mt. Hermon|Mt. Hermon Voting District
+51|143|705|Mt. Cross|Mt. Cross Voting District
+51|145|101|Subletts|Subletts Voting District
+51|145|102|Manakin|Manakin Voting District
+51|145|103|Flat Rock|Flat Rock Voting District
+51|145|201|Powhatan Station|Powhatan Station Voting District
+51|145|202|Graceland|Graceland Voting District
+51|145|301|Bethesda|Bethesda Voting District
+51|145|302|Lee's Landing|Lee's Landing Voting District
+51|145|401|Powhatan Courthouse|Powhatan Courthouse Voting District
+51|145|402|Ballsville|Ballsville Voting District
+51|145|501|Smith Cross Roads|Smith Cross Roads Voting District
+51|145|502|Pineville|Pineville Voting District
+51|147|101|Farmville|Farmville Voting District
+51|147|201|Lockett|Lockett Voting District
+51|147|301|Leigh|Leigh Voting District
+51|147|302|Mt. Pleasant|Mt. Pleasant Voting District
+51|147|401|Hampden|Hampden Voting District
+51|147|501|Darlington Heights|Darlington Heights Voting District
+51|147|502|Buffalo Heights|Buffalo Heights Voting District
+51|147|601|Prospect|Prospect Voting District
+51|147|701|West End|West End Voting District
+51|147|801|Center|Center Voting District
+51|149|101|Richard Bland|Richard Bland Voting District
+51|149|102|Templeton|Templeton Voting District
+51|149|103|Union Branch|Union Branch Voting District
+51|149|104|Rives|Rives Voting District
+51|149|105|Harrison|Harrison Voting District
+51|149|201|Bland|Bland Voting District
+51|149|202|Blackwater|Blackwater Voting District
+51|149|203|Brandon|Brandon Voting District
+51|149|204|Courts Bldg|Courts Bldg Voting District
+51|149|205|Jefferson Park|Jefferson Park Voting District
+51|153|0|xx|xx Voting District
+51|153|101|Brentsville|Brentsville Voting District
+51|153|102|Bennett|Bennett Voting District
+51|153|103|Buckhall|Buckhall Voting District
+51|153|104|Nokesville|Nokesville Voting District
+51|153|105|Parkside|Parkside Voting District
+51|153|106|Ellis|Ellis Voting District
+51|153|107|Marsteller|Marsteller Voting District
+51|153|108|Victory|Victory Voting District
+51|153|109|Park|Park Voting District
+51|153|110|Buckland Mills|Buckland Mills Voting District
+51|153|111|Bristow Run|Bristow Run Voting District
+51|153|112|Cedar Point|Cedar Point Voting District
+51|153|113|Limestone|Limestone Voting District
+51|153|114|Signal Hill|Signal Hill Voting District
+51|153|201|Saunders|Saunders Voting District
+51|153|202|Marshall|Marshall Voting District
+51|153|203|Benton|Benton Voting District
+51|153|204|McCoart|McCoart Voting District
+51|153|205|Beville|Beville Voting District
+51|153|206|King|King Voting District
+51|153|207|Lodge|Lodge Voting District
+51|153|208|Westridge|Westridge Voting District
+51|153|209|Woodbine|Woodbine Voting District
+51|153|210|Penn|Penn Voting District
+51|153|211|Powell|Powell Voting District
+51|153|301|Dumfries|Dumfries Voting District
+51|153|302|Potomac|Potomac Voting District
+51|153|303|Graham Park|Graham Park Voting District
+51|153|304|Quantico|Quantico Voting District
+51|153|305|Pattie|Pattie Voting District
+51|153|306|Washington-Reid|Washington-Reid Voting District
+51|153|307|Henderson|Henderson Voting District
+51|153|308|Montclair|Montclair Voting District
+51|153|309|Ashland|Ashland Voting District
+51|153|310|Forest Park|Forest Park Voting District
+51|153|311|Swans Creek|Swans Creek Voting District
+51|153|401|Evergreen|Evergreen Voting District
+51|153|402|Battlefield|Battlefield Voting District
+51|153|403|Bull Run|Bull Run Voting District
+51|153|404|Sinclair|Sinclair Voting District
+51|153|405|Stonewall|Stonewall Voting District
+51|153|406|Alvey|Alvey Voting District
+51|153|407|Westgate|Westgate Voting District
+51|153|408|Glenkirk|Glenkirk Voting District
+51|153|409|Sudley North|Sudley North Voting District
+51|153|410|Mountain View|Mountain View Voting District
+51|153|411|Mullen|Mullen Voting District
+51|153|412|Pace West|Pace West Voting District
+51|153|501|Lake Ridge|Lake Ridge Voting District
+51|153|502|Occoquan|Occoquan Voting District
+51|153|503|Old Bridge|Old Bridge Voting District
+51|153|504|Rockledge|Rockledge Voting District
+51|153|505|Mohican|Mohican Voting District
+51|153|506|Bethel|Bethel Voting District
+51|153|507|Chinn|Chinn Voting District
+51|153|508|Springwoods|Springwoods Voting District
+51|153|601|Dale|Dale Voting District
+51|153|602|Neabsco|Neabsco Voting District
+51|153|603|Godwin|Godwin Voting District
+51|153|604|Civic Center|Civic Center Voting District
+51|153|605|Minnieville|Minnieville Voting District
+51|153|606|Bel Air|Bel Air Voting District
+51|153|607|Kerrydale|Kerrydale Voting District
+51|153|608|Enterprise|Enterprise Voting District
+51|153|609|Freedom|Freedom Voting District
+51|153|701|Belmont|Belmont Voting District
+51|153|702|Library|Library Voting District
+51|153|703|Lynn|Lynn Voting District
+51|153|704|Featherstone|Featherstone Voting District
+51|153|705|Potomac View|Potomac View Voting District
+51|153|706|Rippon|Rippon Voting District
+51|153|707|Kilby|Kilby Voting District
+51|153|708|River Oaks|River Oaks Voting District
+51|155|101|Belspring|Belspring Voting District
+51|155|102|New River|New River Voting District
+51|155|103|West Cloyd|West Cloyd Voting District
+51|155|201|Draper|Draper Voting District
+51|155|202|South Pulaski|South Pulaski Voting District
+51|155|203|Newbern|Newbern Voting District
+51|155|301|Dublin|Dublin Voting District
+51|155|302|Hiwassee|Hiwassee Voting District
+51|155|304|Snowville|Snowville Voting District
+51|155|401|Massie|Massie Voting District
+51|155|402|Walker|Walker Voting District
+51|155|501|Robinson|Robinson Voting District
+51|157|101|Washington|Washington Voting District
+51|157|201|Amissville|Amissville Voting District
+51|157|301|Sperryville|Sperryville Voting District
+51|157|401|Scrabble|Scrabble Voting District
+51|157|501|Chester Gap|Chester Gap Voting District
+51|157|502|Flint Hill|Flint Hill Voting District
+51|159|101|Precinct 1-1|Precinct 1-1
+51|159|201|Precinct 2-1|Precinct 2-1
+51|159|301|Precinct 3-1|Precinct 3-1
+51|159|302|Precinct 3-2|Precinct 3-2
+51|159|401|Precinct 4-1|Precinct 4-1
+51|159|501|Precinct 5-1|Precinct 5-1
+51|159|502|Precinct 5-2|Precinct 5-2
+51|161|101|Catawba|Catawba Voting District
+51|161|102|Mason Valley|Mason Valley Voting District
+51|161|103|Glenvar|Glenvar Voting District
+51|161|104|Northside|Northside Voting District
+51|161|105|Peters Creek|Peters Creek Voting District
+51|161|106|Green Hill|Green Hill Voting District
+51|161|107|Bennett Springs|Bennett Springs Voting District
+51|161|108|Wildwood|Wildwood Voting District
+51|161|201|Plantation|Plantation Voting District
+51|161|202|Burlington|Burlington Voting District
+51|161|203|Mountain View|Mountain View Voting District
+51|161|204|Botetourt Springs|Botetourt Springs Voting District
+51|161|205|Orchards|Orchards Voting District
+51|161|206|Hollins|Hollins Voting District
+51|161|301|Bent Mountain|Bent Mountain Voting District
+51|161|302|Poages Mill|Poages Mill Voting District
+51|161|303|Windsor Hills|Windsor Hills Voting District
+51|161|304|Oak Grove|Oak Grove Voting District
+51|161|305|Castle Rock|Castle Rock Voting District
+51|161|306|Garst Mill|Garst Mill Voting District
+51|161|402|Bonsack|Bonsack Voting District
+51|161|403|North Vinton|North Vinton Voting District
+51|161|404|South Vinton|South Vinton Voting District
+51|161|405|Lindenwood|Lindenwood Voting District
+51|161|406|Mount Pleasant|Mount Pleasant Voting District
+51|161|501|Cotton Hill|Cotton Hill Voting District
+51|161|502|Penn Forest|Penn Forest Voting District
+51|161|503|Cave Spring|Cave Spring Voting District
+51|161|504|Ogden|Ogden Voting District
+51|161|505|Clearbrook|Clearbrook Voting District
+51|161|506|Mount Vernon|Mount Vernon Voting District
+51|161|507|Hunting Hills|Hunting Hills Voting District
+51|163|101|Airport|Airport Voting District
+51|163|102|Ben Salem|Ben Salem Voting District
+51|163|103|Plank Road|Plank Road Voting District
+51|163|104|Effinger|Effinger Voting District
+51|163|201|Collierstown|Collierstown Voting District
+51|163|202|Highland Belle|Highland Belle Voting District
+51|163|203|Vo-Tech|Vo-Tech Voting District
+51|163|301|Maury River|Maury River Voting District
+51|163|302|Natural Bridge|Natural Bridge Voting District
+51|163|303|Falling Spring|Falling Spring Voting District
+51|163|401|Fairfield|Fairfield Voting District
+51|163|402|Mountain View|Mountain View Voting District
+51|163|403|Vesuvius|Vesuvius Voting District
+51|163|501|Goshen|Goshen Voting District
+51|163|502|Meadowview|Meadowview Voting District
+51|163|503|Rockbridge Baths|Rockbridge Baths Voting District
+51|163|504|Rockbridge|Rockbridge Voting District
+51|165|101|Broadway|Broadway Voting District
+51|165|102|Timberville|Timberville Voting District
+51|165|103|Fulks Run|Fulks Run Voting District
+51|165|104|Bergton|Bergton Voting District
+51|165|105|Lacey Spring|Lacey Spring Voting District
+51|165|106|Tenth Legion|Tenth Legion Voting District
+51|165|107|Plains|Plains Voting District
+51|165|201|Singers Glen|Singers Glen Voting District
+51|165|202|Edom|Edom Voting District
+51|165|203|Melrose|Melrose Voting District
+51|165|204|Mt. Clinton|Mt. Clinton Voting District
+51|165|207|Ottobine|Ottobine Voting District
+51|165|301|Keezletown|Keezletown Voting District
+51|165|302|Port Republic|Port Republic Voting District
+51|165|303|North River|North River Voting District
+51|165|304|Grottoes|Grottoes Voting District
+51|165|305|Massanetta Springs|Massanetta Springs Voting District
+51|165|306|Cross Keys|Cross Keys Voting District
+51|165|401|Bridgewater|Bridgewater Voting District
+51|165|402|Montezuma|Montezuma Voting District
+51|165|403|Mt. Crawford|Mt. Crawford Voting District
+51|165|404|Dayton|Dayton Voting District
+51|165|405|Silver Lake|Silver Lake Voting District
+51|165|501|Elkton|Elkton Voting District
+51|165|502|Swift Run|Swift Run Voting District
+51|165|503|McGaheysville|McGaheysville Voting District
+51|165|504|South Fork|South Fork Voting District
+51|165|505|Stony Run|Stony Run Voting District
+51|167|101|Moccasin|Moccasin Voting District
+51|167|102|Copper Creek|Copper Creek Voting District
+51|167|103|South Castlewood|South Castlewood Voting District
+51|167|201|North Castlewood|North Castlewood Voting District
+51|167|202|Dante|Dante Voting District
+51|167|203|Cleveland|Cleveland Voting District
+51|167|301|Cooks Mill|Cooks Mill Voting District
+51|167|302|Daughterty|Daughterty Voting District
+51|167|303|Honaker|Honaker Voting District
+51|167|401|Drill|Drill Voting District
+51|167|402|Swords Creek|Swords Creek Voting District
+51|167|403|Elk Garden|Elk Garden Voting District
+51|167|501|East Lebanon|East Lebanon Voting District
+51|167|502|West Lebanon|West Lebanon Voting District
+51|169|101|Weber City|Weber City Voting District
+51|169|102|Yuma|Yuma Voting District
+51|169|202|Weber City East|Weber City East Voting District
+51|169|203|Hiltons|Hiltons Voting District
+51|169|204|Clark's|Clark's Voting District
+51|169|301|Nickelsville|Nickelsville Voting District
+51|169|302|Snowflake|Snowflake Voting District
+51|169|303|Twin Springs|Twin Springs Voting District
+51|169|304|Copper Creek|Copper Creek Voting District
+51|169|401|Gate City|Gate City Voting District
+51|169|501|Dungannon|Dungannon Voting District
+51|169|502|Fort Blackmore|Fort Blackmore Voting District
+51|169|503|Manville|Manville Voting District
+51|169|504|Rye Cove|Rye Cove Voting District
+51|169|601|Clinchport|Clinchport Voting District
+51|169|602|Duffield-Pattonsville|Duffield-Pattonsville Voting District
+51|169|603|Fairview|Fairview Voting District
+51|171|101|Orkney Springs|Orkney Springs Voting District
+51|171|102|Forestville|Forestville Voting District
+51|171|103|New Market|New Market Voting District
+51|171|201|Conicville|Conicville Voting District
+51|171|202|Mt. Jackson|Mt. Jackson Voting District
+51|171|301|Columbia Furnace|Columbia Furnace Voting District
+51|171|302|Edinburg|Edinburg Voting District
+51|171|303|St. Luke|St. Luke Voting District
+51|171|401|Woodstock|Woodstock Voting District
+51|171|402|Fort Valley|Fort Valley Voting District
+51|171|501|Cedar Creek|Cedar Creek Voting District
+51|171|502|Mt. Olive|Mt. Olive Voting District
+51|171|503|Toms Brook|Toms Brook Voting District
+51|171|504|Lebanon Church|Lebanon Church Voting District
+51|171|601|Strasburg|Strasburg Voting District
+51|171|602|Signal Knob|Signal Knob Voting District
+51|173|101|Saltville|Saltville Voting District
+51|173|201|Seven Mile Ford|Seven Mile Ford Voting District
+51|173|202|Rich Valley|Rich Valley Voting District
+51|173|301|Chilhowie|Chilhowie Voting District
+51|173|302|St. Clair|St. Clair Voting District
+51|173|401|East Park|East Park Voting District
+51|173|402|West Park|West Park Voting District
+51|173|501|Atkins|Atkins Voting District
+51|173|502|Wassona|Wassona Voting District
+51|173|601|Royal Oak East|Royal Oak East Voting District
+51|173|602|Royal Oak West|Royal Oak West Voting District
+51|173|701|Adwolfe|Adwolfe Voting District
+51|173|702|Sugar Grove|Sugar Grove Voting District
+51|173|703|Konnarock|Konnarock Voting District
+51|175|101|Berlin|Berlin Voting District
+51|175|102|Ivor|Ivor Voting District
+51|175|201|Boykins|Boykins Voting District
+51|175|202|Branchville|Branchville Voting District
+51|175|203|Meherrin|Meherrin Voting District
+51|175|301|Capron|Capron Voting District
+51|175|302|Sebrell|Sebrell Voting District
+51|175|401|Drewryville|Drewryville Voting District
+51|175|501|Hunterdale|Hunterdale Voting District
+51|175|502|Forks-Of-The-River|Forks-Of-The-River Voting District
+51|175|601|Courtland|Courtland Voting District
+51|175|602|Sedley|Sedley Voting District
+51|175|701|Blackwater River|Blackwater River Voting District
+51|175|702|Newsoms|Newsoms Voting District
+51|177|101|Partlow|Partlow Voting District
+51|177|102|Blaydes Corner|Blaydes Corner Voting District
+51|177|103|Travelers Rest|Travelers Rest Voting District
+51|177|104|Massaponax|Massaponax Voting District
+51|177|201|Elys Ford|Elys Ford Voting District
+51|177|202|Wilderness|Wilderness Voting District
+51|177|203|Ni River|Ni River Voting District
+51|177|204|Chancellor|Chancellor Voting District
+51|177|301|Plank Road|Plank Road Voting District
+51|177|302|Hazel Run|Hazel Run Voting District
+51|177|303|Grange Hall|Grange Hall Voting District
+51|177|401|Summit|Summit Voting District
+51|177|402|Frazers Gate|Frazers Gate Voting District
+51|177|403|Lee Hill|Lee Hill Voting District
+51|177|501|Belmont|Belmont Voting District
+51|177|502|Brokenburg|Brokenburg Voting District
+51|177|503|Todd's Tavern|Todd's Tavern Voting District
+51|177|504|Courthouse|Courthouse Voting District
+51|177|505|Brock|Brock Voting District
+51|177|601|Salem|Salem Voting District
+51|177|602|Smith Station|Smith Station Voting District
+51|177|603|Piedmont|Piedmont Voting District
+51|177|701|Battlefield|Battlefield Voting District
+51|177|702|Brent's Mill|Brent's Mill Voting District
+51|177|703|Fairview|Fairview Voting District
+51|179|101|Hartwood|Hartwood Voting District
+51|179|102|Rocky Run|Rocky Run Voting District
+51|179|103|Simpson|Simpson Voting District
+51|179|104|Ramoth|Ramoth Voting District
+51|179|201|Rock Hill|Rock Hill Voting District
+51|179|202|Roseville|Roseville Voting District
+51|179|203|Ruby|Ruby Voting District
+51|179|204|Stefaniga|Stefaniga Voting District
+51|179|301|Griffis|Griffis Voting District
+51|179|302|Widewater|Widewater Voting District
+51|179|303|Harbor|Harbor Voting District
+51|179|401|Aquia|Aquia Voting District
+51|179|402|Courthouse|Courthouse Voting District
+51|179|403|Brooke|Brooke Voting District
+51|179|501|Grafton|Grafton Voting District
+51|179|502|Falmouth|Falmouth Voting District
+51|179|503|Drew|Drew Voting District
+51|179|504|Gayle|Gayle Voting District
+51|179|601|Ferry Farm|Ferry Farm Voting District
+51|179|602|Chatham|Chatham Voting District
+51|179|603|White Oak|White Oak Voting District
+51|179|701|Woodlands|Woodlands Voting District
+51|179|702|Whitson|Whitson Voting District
+51|179|703|Hampton|Hampton Voting District
+51|181|101|Surry|Surry Voting District
+51|181|201|Bacon's Castle|Bacon's Castle Voting District
+51|181|301|Dendron|Dendron Voting District
+51|181|302|Wall's Bridge|Wall's Bridge Voting District
+51|181|401|Carsley|Carsley Voting District
+51|181|501|Claremont|Claremont Voting District
+51|181|502|Spring Grove|Spring Grove Voting District
+51|183|101|Waverly|Waverly Voting District
+51|183|201|Stony Creek|Stony Creek Voting District
+51|183|202|Little Mill|Little Mill Voting District
+51|183|301|Courthouse|Courthouse Voting District
+51|183|302|Wakefield|Wakefield Voting District
+51|183|401|Mars Hill|Mars Hill Voting District
+51|183|402|West Wakefield|West Wakefield Voting District
+51|183|501|Henry|Henry Voting District
+51|183|502|Yale|Yale Voting District
+51|183|601|Blackwater|Blackwater Voting District
+51|183|602|Newville|Newville Voting District
+51|185|101|Abbs Valley|Abbs Valley Voting District
+51|185|102|Tip Top|Tip Top Voting District
+51|185|103|Boissevain|Boissevain Voting District
+51|185|104|Falls Mills|Falls Mills Voting District
+51|185|106|Pocahontas|Pocahontas Voting District
+51|185|107|Amonate|Amonate Voting District
+51|185|109|Bishop|Bishop Voting District
+51|185|110|Adria|Adria Voting District
+51|185|111|Gap Store|Gap Store Voting District
+51|185|112|Bandy|Bandy Voting District
+51|185|203|Burkes Garden|Burkes Garden Voting District
+51|185|204|Clear Fork|Clear Fork Voting District
+51|185|207|Freestone|Freestone Voting District
+51|185|209|Jeffersonville|Jeffersonville Voting District
+51|185|214|Thompson Valley|Thompson Valley Voting District
+51|185|301|Cedar Bluff|Cedar Bluff Voting District
+51|185|302|Baptist Valley|Baptist Valley Voting District
+51|185|303|Wardell|Wardell Voting District
+51|185|305|Pounding Mill|Pounding Mill Voting District
+51|185|401|Richlands|Richlands Voting District
+51|185|402|Jewell Ridge|Jewell Ridge Voting District
+51|185|404|Raven|Raven Voting District
+51|185|501|Springville|Springville Voting District
+51|185|502|Graham|Graham Voting District
+51|187|101|Fork Town|Fork Town Voting District
+51|187|102|Otterburn|Otterburn Voting District
+51|187|103|Waterlick|Waterlick Voting District
+51|187|201|Happy Creek|Happy Creek Voting District
+51|187|202|Linden|Linden Voting District
+51|187|301|North River|North River Voting District
+51|187|302|Riverton|Riverton Voting District
+51|187|303|Reliance|Reliance Voting District
+51|187|401|East Shenandoah|East Shenandoah Voting District
+51|187|402|West Shenandoah|West Shenandoah Voting District
+51|187|501|South River|South River Voting District
+51|187|502|Bentonville|Bentonville Voting District
+51|187|504|Browntown|Browntown Voting District
+51|191|101|East Abingdon|East Abingdon Voting District
+51|191|102|West Abingdon|West Abingdon Voting District
+51|191|201|Clinchburg|Clinchburg Voting District
+51|191|202|Greendale|Greendale Voting District
+51|191|203|Hayter's Gap|Hayter's Gap Voting District
+51|191|301|Watauga|Watauga Voting District
+51|191|302|South Abingdon|South Abingdon Voting District
+51|191|401|Glade Spring|Glade Spring Voting District
+51|191|402|Meadowview|Meadowview Voting District
+51|191|501|Rhea Valley|Rhea Valley Voting District
+51|191|502|Damascus|Damascus Voting District
+51|191|504|Green Cove|Green Cove Voting District
+51|191|601|Burson Place|Burson Place Voting District
+51|191|602|Mendota|Mendota Voting District
+51|191|603|Valley Institute|Valley Institute Voting District
+51|191|701|High Point|High Point Voting District
+51|191|702|Wallace|Wallace Voting District
+51|191|703|John Battle|John Battle Voting District
+51|193|101|Precinct 1-1|Precinct 1-1
+51|193|102|Precinct 1-2|Precinct 1-2
+51|193|201|Precinct 2-1|Precinct 2-1
+51|193|301|Precinct 3-1|Precinct 3-1
+51|193|401|Precinct 4-1|Precinct 4-1
+51|193|501|Precinct 5-1|Precinct 5-1
+51|195|101|Appalachia|Appalachia Voting District
+51|195|102|Dorchester|Dorchester Voting District
+51|195|103|Guest River|Guest River Voting District
+51|195|104|West Pound|West Pound Voting District
+51|195|201|North Coeburn|North Coeburn Voting District
+51|195|202|Wise|Wise Voting District
+51|195|203|East Pound|East Pound Voting District
+51|195|301|Big Stone Gap|Big Stone Gap Voting District
+51|195|302|East Stone Gap|East Stone Gap Voting District
+51|195|401|Clinch Valley|Clinch Valley Voting District
+51|195|402|South Coeburn|South Coeburn Voting District
+51|195|403|St. Paul|St. Paul Voting District
+51|197|101|Royal Oak|Royal Oak Voting District
+51|197|102|Rural Retreat|Rural Retreat Voting District
+51|197|203|West Wytheville|West Wytheville Voting District
+51|197|303|East Wytheville|East Wytheville Voting District
+51|197|401|Fort Chiswell|Fort Chiswell Voting District
+51|197|402|Max Meadows|Max Meadows Voting District
+51|197|501|Jackson Memorial|Jackson Memorial Voting District
+51|197|502|Sheffey|Sheffey Voting District
+51|197|601|Huddle|Huddle Voting District
+51|197|602|Zion|Zion Voting District
+51|197|603|Evergreen|Evergreen Voting District
+51|199|101|Queens Lake|Queens Lake Voting District
+51|199|102|Yorktown|Yorktown Voting District
+51|199|103|Waller Mill|Waller Mill Voting District
+51|199|104|Magruder|Magruder Voting District
+51|199|203|Coventry|Coventry Voting District
+51|199|204|Kiln Creek|Kiln Creek Voting District
+51|199|301|Seaford|Seaford Voting District
+51|199|302|Harris Grove|Harris Grove Voting District
+51|199|303|Edgehill|Edgehill Voting District
+51|199|401|Harwoods Mill|Harwoods Mill Voting District
+51|199|402|Dare|Dare Voting District
+51|199|501|Tabb|Tabb Voting District
+51|199|502|Bethel|Bethel Voting District
+51|510|101|Ladley Senior Building|Ladley Senior Building Voting District
+51|510|102|City Hall|City Hall Voting District
+51|510|103|Lyles Crouch School|Lyles Crouch School Voting District
+51|510|104|Durant Center|Durant Center Voting District
+51|510|105|Lee Center|Lee Center Voting District
+51|510|106|Cora Kelley Center|Cora Kelley Center Voting District
+51|510|107|Mt. Vernon Recreation Center|Mt. Vernon Recreation Center Voting District
+51|510|108|George Washington Middle School|George Washington Middle School Voting District
+51|510|109|Fire Department Headquarters|Fire Department Headquarters Voting District
+51|510|201|Maury School|Maury School Voting District
+51|510|202|George Mason School|George Mason School Voting District
+51|510|203|Agudas Achim Synagogue|Agudas Achim Synagogue Voting District
+51|510|204|Blessed Sacrament Church|Blessed Sacrament Church Voting District
+51|510|205|Douglas Macarthur School|Douglas Macarthur School Voting District
+51|510|206|Chinquapin Park Recreation Center|Chinquapin Park Recreation Center Voting District
+51|510|207|Temple Beth El Synagogue|Temple Beth El Synagogue Voting District
+51|510|208|Nova Arts Center|Nova Arts Center Voting District
+51|510|209|James K. Polk School|James K. Polk School Voting District
+51|510|210|St. James Church|St. James Church Voting District
+51|510|302|Patrick Henry Rec Center|Patrick Henry Rec Center Voting District
+51|510|303|Charles E. Beatley Library|Charles E. Beatley Library Voting District
+51|510|304|Samuel Tucker School|Samuel Tucker School Voting District
+51|510|305|John Adams School|John Adams School Voting District
+51|510|306|William Ramsey School|William Ramsey School Voting District
+51|510|307|South Port|South Port Voting District
+51|510|308|Cameron Station Community Center|Cameron Station Community Center Voting District
+51|515|1|Ward One|Ward One
+51|515|2|Ward Two|Ward Two
+51|520|1|Ward 1|Ward 1
+51|520|2|Ward 2|Ward 2
+51|520|3|Ward 3|Ward 3
+51|520|41|Ward 4 Part 1|Ward 4 Part 1
+51|520|42|Ward 4 Part 2|Ward 4 Part 2
+51|530|1|First Ward|First Ward
+51|530|2|Second Ward|Second Ward
+51|540|101|Recreation|Recreation Voting District
+51|540|102|Clark|Clark Voting District
+51|540|201|Carver|Carver Voting District
+51|540|202|Walker|Walker Voting District
+51|540|301|Benjamin Tonsler|Benjamin Tonsler Voting District
+51|540|302|Jefferson Park|Jefferson Park Voting District
+51|540|401|Venable|Venable Voting District
+51|540|4021|Alumni Hall Part 1|Alumni Hall Part 1 Voting District
+51|540|4022|Alumni Hall Part 2|Alumni Hall Part 2 Voting District
+51|550|001|Great Bridge|Great Bridge Voting District
+51|550|002|Bethel|Bethel Voting District
+51|550|003|Camelot|Camelot Voting District
+51|550|004|Churchland|Churchland Voting District
+51|550|005|Crestwood|Crestwood Voting District
+51|550|006|Deep Creek|Deep Creek Voting District
+51|550|007|Greenbrier|Greenbrier Voting District
+51|550|008|South Norfolk Recreation|South Norfolk Recreation Voting District
+51|550|009|Bells Mill|Bells Mill Voting District
+51|550|010|Oscar Smith School|Oscar Smith School Voting District
+51|550|011|Geneva Park|Geneva Park Voting District
+51|550|012|Georgetown|Georgetown Voting District
+51|550|013|Gilmerton|Gilmerton Voting District
+51|550|014|Grassfield|Grassfield Voting District
+51|550|015|B. M. Williams School|B. M. Williams School Voting District
+51|550|016|Hickory Grove|Hickory Grove Voting District
+51|550|017|Indian Creek|Indian Creek Voting District
+51|550|018|Indian River|Indian River Voting District
+51|550|019|Jolliff One|Jolliff One Voting District
+51|550|020|E. W. Chittum School|E. W. Chittum School Voting District
+51|550|021|Fellowship|Fellowship Voting District
+51|550|022|Norfolk Highlands|Norfolk Highlands Voting District
+51|550|023|Oak Grove|Oak Grove Voting District
+51|550|024|Oaklette|Oaklette Voting District
+51|550|025|St. Julians|St. Julians Voting District
+51|550|026|Johnson Park|Johnson Park Voting District
+51|550|027|Silverwood|Silverwood Voting District
+51|550|028|Sunray I|Sunray I Voting District
+51|550|029|Tanglewood|Tanglewood Voting District
+51|550|030|South Norfolk|South Norfolk Voting District
+51|550|031|Carver School|Carver School Voting District
+51|550|032|Providence|Providence Voting District
+51|550|033|Westover|Westover Voting District
+51|550|034|Hickory Middle School|Hickory Middle School Voting District
+51|550|035|Taylor Road|Taylor Road Voting District
+51|550|036|Great Bridge Baptist Church|Great Bridge Baptist Church Voting District
+51|550|037|Bridgetown|Bridgetown Voting District
+51|550|038|Bailey Creek|Bailey Creek Voting District
+51|550|039|Lake Drummond|Lake Drummond Voting District
+51|550|040|River Birch|River Birch Voting District
+51|550|041|John T. West|John T. West Voting District
+51|550|042|Parkways|Parkways Voting District
+51|550|043|Pleasant Crossing|Pleasant Crossing Voting District
+51|550|044|Nansemond|Nansemond Voting District
+51|550|045|Sunray Ii|Sunray Ii Voting District
+51|550|046|Bells Mill Ii|Bells Mill Ii Voting District
+51|550|047|Green Sea|Green Sea Voting District
+51|550|048|Joliff Middle School|Joliff Middle School Voting District
+51|550|049|Waterway|Waterway Voting District
+51|550|050|River Walk|River Walk Voting District
+51|550|051|Coopers Way|Coopers Way Voting District
+51|550|052|Shipyard Road|Shipyard Road Voting District
+51|550|053|Fairways|Fairways Voting District
+51|570|1|First|First Voting District
+51|570|2|Second|Second Voting District
+51|570|3|Third|Third Voting District
+51|570|4|Fourth|Voting District Fourth
+51|570|5|Fifth|Fifth Voting District
+51|580|101|Precinct 1-1|Precinct 1-1
+51|580|201|Precinct 2-1|Precinct 2-1
+51|580|301|Precinct 3-1|Precinct 3-1
+51|580|401|Precinct 4-1|Precinct 4-1
+51|580|501|Precinct 5-1|Precinct 5-1
+51|590|1|Ward One|Ward One
+51|590|10|Ward Ten|Ward Ten
+51|590|11|Ward Eleven|Ward Eleven
+51|590|12|Ward Twelve|Ward Twelve
+51|590|13|Ward Thirteen|Ward Thirteen
+51|590|14|Ward Fourteen|Ward Fourteen
+51|590|15|Ward Fifteen|Ward Fifteen
+51|590|16|Ward Sixteen|Ward Sixteen
+51|590|17|Ward Seventeen|Ward Seventeen
+51|590|2|Ward Two|Ward Two
+51|590|3|Ward Three|Ward Three
+51|590|4|Ward Four|Ward Four
+51|590|5|Ward Five|Ward Five
+51|590|6|Ward Six|Ward Six
+51|590|7|Ward Seven|Ward Seven
+51|590|8|Ward Eight|Ward Eight
+51|590|9|Ward Nine|Ward Nine
+51|595|101|Precinct 1-1|Precinct 1-1
+51|595|201|Precinct 2-1|Precinct 2-1
+51|595|301|Precinct 3-1|Precinct 3-1
+51|595|401|Precinct 4-1|Precinct 4-1
+51|595|501|Precinct 5-1|Precinct 5-1
+51|595|601|District 6|District 6
+51|595|701|District 7|District 7
+51|600|1|One|Voting District One
+51|600|2|Two|Voting District Two
+51|600|3|Three|Voting District Three
+51|600|4|Four|Voting District Four
+51|600|5|Five|Voting District Five
+51|600|6|Six|Voting District Six
+51|610|1|First Ward|First Ward
+51|610|2|Second Ward|Second Ward
+51|610|3|Third Ward|Third Ward
+51|610|4|Fourth Ward|Fourth Ward
+51|610|5|Fifth Ward|Fifth Ward
+51|620|101|Precinct 1-1|Precinct 1-1
+51|620|201|Precinct 2-1|Precinct 2-1
+51|620|301|Precinct 3-1|Precinct 3-1
+51|620|401|Precinct 4-1|Precinct 4-1
+51|620|501|Precinct 5-1|Precinct 5-1
+51|620|601|Precinct 6-1|Precinct 6-1
+51|630|101|District 1|District 1
+51|630|201|District 2|District 2
+51|630|301|District 3|District 3
+51|630|401|District 4|District 4
+51|630|402|District 4-Precinct 2|District 4-Precinct 2
+51|640|1|East|East Voting District
+51|640|2|North|North Voting District
+51|640|3|South|South Voting District
+51|650|101|Aberdeen|Aberdeen Voting District
+51|650|102|Bassette|Bassette Voting District
+51|650|103|City Hall|City Hall Voting District
+51|650|104|Cooper|Cooper Voting District
+51|650|105|East Hampton|East Hampton Voting District
+51|650|106|Armstrong|Armstrong Voting District
+51|650|107|Lindsay|Lindsay Voting District
+51|650|108|Thomas|Thomas Voting District
+51|650|109|Phenix|Phenix Voting District
+51|650|110|Phoebus|Phoebus Voting District
+51|650|111|Hampton Library|Hampton Library Voting District
+51|650|112|Smith|Smith Voting District
+51|650|113|Syms|Syms Voting District
+51|650|115|Wythe|Wythe Voting District
+51|650|116|Jones|Jones Voting District
+51|650|117|Kecoughtan|Kecoughtan Voting District
+51|650|118|Mallory|Mallory Voting District
+51|650|201|Booker|Booker Voting District
+51|650|202|Bryan|Bryan Voting District
+51|650|203|Burbank|Burbank Voting District
+51|650|204|Forrest|Forrest Voting District
+51|650|205|Asbury|Asbury Voting District
+51|650|208|Kraft|Kraft Voting District
+51|650|209|Langley|Langley Voting District
+51|650|210|Machen|Machen Voting District
+51|650|212|Bethel|Bethel Voting District
+51|650|213|Phillips|Phillips Voting District
+51|650|214|Tucker Capps|Tucker Capps Voting District
+51|650|215|Tyler|Tyler Voting District
+51|650|216|Sandy Bottom|Sandy Bottom Voting District
+51|660|101|Northeast|Northeast Voting District
+51|660|102|East Central|East Central Voting District
+51|660|103|Southeast|Southeast Voting District
+51|660|201|Northwest|Northwest Voting District
+51|660|202|Southwest|Southwest Voting District
+51|670|101|Ward 1|Ward 1
+51|670|201|Ward 2|Ward 2
+51|670|301|Ward 3|Ward 3
+51|670|401|Ward 4|Ward 4
+51|670|501|Ward 5|Ward 5
+51|670|601|Ward 6|Ward 6
+51|670|701|Ward 7|Ward 7
+51|678|001|Lexington|Lexington Voting District
+51|680|101|First Ward First Precinct|First Ward First Precinct
+51|680|102|First Ward Second Precinct|First Ward Second Precinct
+51|680|103|First Ward Third Precinct|First Ward Third Precinct
+51|680|104|First Ward Fourth Precinct|First Ward Fourth Precinct
+51|680|105|First Ward Fifth Precinct|First Ward Fifth Precinct
+51|680|201|Second Ward First Precinct|Second Ward First Precinct
+51|680|202|Second Ward Second Precinct|Second Ward Second Precinct
+51|680|203|Second Ward Third Precinct|Second Ward Third Precinct
+51|680|301|Third Ward First Precinct|Third Ward First Precinct
+51|680|302|Third Ward Second Precinct|Third Ward Second Precinct
+51|680|303|Third Ward Third Precinct|Third Ward Third Precinct
+51|680|304|Third Ward Fourth Precinct|Third Ward Fourth Precinct
+51|680|305|Third Ward Fifth Precinct|Third Ward Fifth Precinct
+51|680|401|Fourth Ward First Precinct|Fourth Ward First Precinct
+51|680|402|Fourth Ward Second Precinct|Fourth Ward Second Precinct
+51|680|403|Fourth Ward Third Precinct|Fourth Ward Third Precinct
+51|680|404|Fourth Ward Fourth Precinct|Fourth Ward Fourth Precinct
+51|683|1|Dean|Dean Voting District
+51|683|2|Weems|Weems Voting District
+51|683|3|Metz|Metz Voting District
+51|683|4|Haydon|Haydon Voting District
+51|683|5|Baldwin|Baldwin Voting District
+51|685|001|Precinct One|Precinct One
+51|685|002|Precinct Two|Precinct Two
+51|690|001|Precinct 1|Precinct 1
+51|690|002|Precinct 2|Precinct 2
+51|690|003|Precinct 3|Precinct 3
+51|690|004|Precinct 4|Precinct 4
+51|690|005|Precinct 5|Precinct 5
+51|690|006|Precinct 6|Precinct 6
+51|700|101|Denbigh|Denbigh Voting District
+51|700|102|Epes|Epes Voting District
+51|700|103|Jenkins|Jenkins Voting District
+51|700|104|McIntosh|McIntosh Voting District
+51|700|105|Oyster Point|Oyster Point Voting District
+51|700|106|Reservoir|Reservoir Voting District
+51|700|107|Richneck|Richneck Voting District
+51|700|108|Lee Hall|Lee Hall Voting District
+51|700|109|Windsor|Windsor Voting District
+51|700|110|Greenwood|Greenwood Voting District
+51|700|201|Bland|Bland Voting District
+51|700|202|Boulevard|Boulevard Voting District
+51|700|203|Charles|Charles Voting District
+51|700|204|Wellesley|Wellesley Voting District
+51|700|205|Deep Creek|Deep Creek Voting District
+51|700|208|Hidenwood|Hidenwood Voting District
+51|700|209|Hilton|Hilton Voting District
+51|700|210|Nelson|Nelson Voting District
+51|700|211|Palmer|Palmer Voting District
+51|700|212|Riverside|Riverside Voting District
+51|700|213|Sanford|Sanford Voting District
+51|700|215|Warwick|Warwick Voting District
+51|700|216|Yates|Yates Voting District
+51|700|217|Riverview|Riverview Voting District
+51|700|218|Kiln Creek|Kiln Creek Voting District
+51|700|219|Deer Park|Deer Park Voting District
+51|700|302|Briarfield|Briarfield Voting District
+51|700|303|Carver|Carver Voting District
+51|700|304|Chestnut|Chestnut Voting District
+51|700|305|Downtown|Downtown Voting District
+51|700|306|Dunbar|Dunbar Voting District
+51|700|307|Huntington|Huntington Voting District
+51|700|308|Jefferson|Jefferson Voting District
+51|700|309|Magruder|Magruder Voting District
+51|700|310|Marshall|Marshall Voting District
+51|700|311|Newmarket|Newmarket Voting District
+51|700|312|Newsome Park|Newsome Park Voting District
+51|700|313|Reed|Reed Voting District
+51|700|314|River|River Voting District
+51|700|315|Sedgefield|Sedgefield Voting District
+51|700|316|South Morrison|South Morrison Voting District
+51|700|317|Washington|Washington Voting District
+51|700|318|Wilson|Wilson Voting District
+51|700|319|Saunders|Saunders Voting District
+51|700|320|Watkins|Watkins Voting District
+51|710|101|Granby|Granby Voting District
+51|710|102|Ocean View School|Ocean View School Voting District
+51|710|103|Northside|Northside Voting District
+51|710|104|Titustown Center|Titustown Center Voting District
+51|710|105|Tucker House|Tucker House Voting District
+51|710|106|Zion Grace|Zion Grace Voting District
+51|710|201|Old Dominion|Old Dominion Voting District
+51|710|203|Ghent Square|Ghent Square Voting District
+51|710|204|Immanuel|Immanuel Voting District
+51|710|205|Lafayette|Lafayette Voting District
+51|710|207|Lambert's Point|Lambert's Point Voting District
+51|710|208|Larchmont Library|Larchmont Library Voting District
+51|710|209|Larchmont Recreation Center|Larchmont Recreation Center Voting District
+51|710|210|Maury|Maury Voting District
+51|710|211|Chrysler Museum|Chrysler Museum Voting District
+51|710|212|Park Place|Park Place Voting District
+51|710|213|Taylor Elementary School|Taylor Elementary School Voting District
+51|710|214|Stuart|Stuart Voting District
+51|710|215|Suburban Park|Suburban Park Voting District
+51|710|217|Wesley|Wesley Voting District
+51|710|218|Willard|Willard Voting District
+51|710|301|Ballentine|Ballentine Voting District
+51|710|302|Tanner's Creek|Tanner's Creek Voting District
+51|710|303|Bowling Park|Bowling Park Voting District
+51|710|304|Coleman Place School|Coleman Place School Voting District
+51|710|305|Lafayette-Winona|Lafayette-Winona Voting District
+51|710|306|Lindenwood|Lindenwood Voting District
+51|710|308|Norview Methodist|Norview Methodist Voting District
+51|710|309|Norview Middle School|Norview Middle School Voting District
+51|710|310|Rosemont|Rosemont Voting District
+51|710|311|Sherwood Rec Center|Sherwood Rec Center Voting District
+51|710|312|Sherwood School|Sherwood School Voting District
+51|710|313|Union Chapel|Union Chapel Voting District
+51|710|402|Berkley|Berkley Voting District
+51|710|403|Brambleton|Brambleton Voting District
+51|710|404|Campostella|Campostella Voting District
+51|710|405|Chesterfield|Chesterfield Voting District
+51|710|406|Barron Black|Barron Black Voting District
+51|710|408|Easton|Easton Voting District
+51|710|409|Fairlawn|Fairlawn Voting District
+51|710|411|Hunton Y|Hunton Y Voting District
+51|710|412|Ingleside|Ingleside Voting District
+51|710|413|Poplar Halls|Poplar Halls Voting District
+51|710|414|Young Park|Young Park Voting District
+51|710|415|United Way|United Way Voting District
+51|710|501|Bayview School|Bayview School Voting District
+51|710|503|East Ocean View|East Ocean View Voting District
+51|710|504|Larrymore|Larrymore Voting District
+51|710|505|Little Creek|Little Creek Voting District
+51|710|506|Ocean View Center|Ocean View Center Voting District
+51|710|508|Oceanair|Oceanair Voting District
+51|710|509|Tarrallton|Tarrallton Voting District
+51|710|510|Third Presbyterian|Third Presbyterian Voting District
+51|710|511|Crossroads|Crossroads Voting District
+51|710|512|Azalea Gardens|Azalea Gardens Voting District
+51|720|1|East|East Voting District
+51|730|101|First Ward First Precinct|First Ward First Precinct
+51|730|201|Second Ward First Precinct|Second Ward First Precinct
+51|730|301|Third Ward First Precinct|Third Ward First Precinct
+51|730|401|Fourth Ward First Precinct|Fourth Ward First Precinct
+51|730|501|Fifth Ward First Precinct|Fifth Ward First Precinct
+51|730|601|Sixth Ward First Precinct|Sixth Ward First Precinct
+51|730|701|Seventh Ward First Precinct|Seventh Ward First Precinct
+51|735|1|Central|Central Voting District
+51|735|2|Eastern|Eastern Voting District
+51|735|3|Western|Western Voting District
+51|740|1|One|Voting District One
+51|740|10|Ten|Voting District Ten
+51|740|11|Eleven|Voting District Eleven
+51|740|13|Thirteen|Voting District Thirteen
+51|740|14|Fourteen|Voting District Fourteen
+51|740|16|Sixteen|Voting District Sixteen
+51|740|17|Seventeen|Voting District Seventeen
+51|740|19|Nineteen|Voting District Nineteen
+51|740|20|Twenty|Voting District Twenty
+51|740|21|Twenty-One|Voting District Twenty-One
+51|740|22|Twenty-Two|Voting District Twenty-Two
+51|740|23|Twenty-Three|Voting District Twenty-Three
+51|740|24|Twenty-Four|Voting District Twenty-Four
+51|740|25|Twenty-Five|Voting District Twenty-Five
+51|740|26|Twenty-Six|Voting District Twenty-Six
+51|740|27|Twenty-Seven|Voting District Twenty-Seven
+51|740|28|Twenty-Eight|Voting District Twenty-Eight
+51|740|29|Twenty-Nine|Voting District Twenty-Nine
+51|740|30|Thirty|Voting District Thirty
+51|740|31|Thirty-One|Voting District Thirty-One
+51|740|32|Thirty-Two|Voting District Thirty-Two
+51|740|33|Thirty-Three|Voting District Thirty-Three
+51|740|34|Thirty-Four|Voting District Thirty-Four
+51|740|35|Thirty-Five|Voting District Thirty-Five
+51|740|36|Thirty-Six|Voting District Thirty-Six
+51|740|37|Thirty Seven|Voting District Thirty Seven
+51|740|38|Thirty Eight|Voting District Thirty Eight
+51|740|39|Thirty Nine|Voting District Thirty Nine
+51|740|5|Five|Voting District Five
+51|740|7|Seven|Voting District Seven
+51|740|9|Nine|Voting District Nine
+51|750|001|East|East Voting District
+51|750|002|West One|West One Voting District
+51|750|003|West Two|West Two Voting District
+51|760|101|101|Voting District 101
+51|760|102|102|Voting District 102
+51|760|104|104|Voting District 104
+51|760|105|105|Voting District 105
+51|760|106|106|Voting District 106
+51|760|111|111|Voting District 111
+51|760|112|112|Voting District 112
+51|760|113|113|Voting District 113
+51|760|114|114|Voting District 114
+51|760|203|203|Voting District 203
+51|760|204|204|Voting District 204
+51|760|206|206|Voting District 206
+51|760|207|207|Voting District 207
+51|760|208|208|Voting District 208
+51|760|211|211|Voting District 211
+51|760|212|212|Voting District 212
+51|760|213|213|Voting District 213
+51|760|301|301|Voting District 301
+51|760|302|302|Voting District 302
+51|760|303|303|Voting District 303
+51|760|304|304|Voting District 304
+51|760|305|305|Voting District 305
+51|760|306|306|Voting District 306
+51|760|307|307|Voting District 307
+51|760|308|308|Voting District 308
+51|760|309|309|Voting District 309
+51|760|402|402|Voting District 402
+51|760|404|404|Voting District 404
+51|760|409|409|Voting District 409
+51|760|410|410|Voting District 410
+51|760|412|412|Voting District 412
+51|760|413|413|Voting District 413
+51|760|501|501|Voting District 501
+51|760|503|503|Voting District 503
+51|760|504|504|Voting District 504
+51|760|505|505|Voting District 505
+51|760|508|508|Voting District 508
+51|760|509|509|Voting District 509
+51|760|510|510|Voting District 510
+51|760|602|602|Voting District 602
+51|760|603|603|Voting District 603
+51|760|604|604|Voting District 604
+51|760|606|606|Voting District 606
+51|760|607|607|Voting District 607
+51|760|609|609|Voting District 609
+51|760|610|610|Voting District 610
+51|760|701|701|Voting District 701
+51|760|702|702|Voting District 702
+51|760|703|703|Voting District 703
+51|760|705|705|Voting District 705
+51|760|706|706|Voting District 706
+51|760|707|707|Voting District 707
+51|760|802|802|Voting District 802
+51|760|806|806|Voting District 806
+51|760|810|810|Voting District 810
+51|760|811|811|Voting District 811
+51|760|812|812|Voting District 812
+51|760|814|814|Voting District 814
+51|760|902|902|Voting District 902
+51|760|903|903|Voting District 903
+51|760|908|908|Voting District 908
+51|760|909|909|Voting District 909
+51|760|910|910|Voting District 910
+51|760|911|911|Voting District 911
+51|770|1|Highland No. 1|Highland No. 1 Voting District
+51|770|10|Williamson Road No. 1|Williamson Road No. 1 Voting District
+51|770|11|Williamson Road No. 2|Williamson Road No. 2 Voting District
+51|770|12|Williamson Road No. 3|Williamson Road No. 3 Voting District
+51|770|13|Williamson Road No. 4|Williamson Road No. 4 Voting District
+51|770|14|Williamson Road No. 5|Williamson Road No. 5 Voting District
+51|770|15|Williamson Road No. 6|Williamson Road No. 6 Voting District
+51|770|16|Lincoln Terrace|Lincoln Terrace Voting District
+51|770|17|Monterey|Monterey Voting District
+51|770|18|Peters Creek|Peters Creek Voting District
+51|770|19|Melrose|Melrose Voting District
+51|770|2|Highland No. 2|Highland No. 2 Voting District
+51|770|20|Eureka Park|Eureka Park Voting District
+51|770|21|Villa Heights|Villa Heights Voting District
+51|770|22|Washington Heights|Washington Heights Voting District
+51|770|23|Westside|Westside Voting District
+51|770|24|Raleight Court No. 1|Raleight Court No. 1 Voting District
+51|770|26|Raleigh Court No. 2|Raleigh Court No. 2 Voting District
+51|770|27|Raleigh Court No. 3|Raleigh Court No. 3 Voting District
+51|770|28|Raleigh Court No. 4|Raleigh Court No. 4 Voting District
+51|770|29|Raleigh Court No. 5|Raleigh Court No. 5 Voting District
+51|770|30|Wasena|Wasena Voting District
+51|770|31|Fishburn Park|Fishburn Park Voting District
+51|770|32|Grandin Court|Grandin Court Voting District
+51|770|33|South Roanoke No. 1|South Roanoke No. 1 Voting District
+51|770|34|South Roanoke No. 2|South Roanoke No. 2 Voting District
+51|770|35|Lee-Hi|Lee-Hi Voting District
+51|770|37|Garden City|Garden City Voting District
+51|770|5|Jefferson No. 1|Jefferson No. 1 Voting District
+51|770|7|Jefferson-Riverdale|Jefferson-Riverdale Voting District
+51|770|8|Jefferson No. 2|Jefferson No. 2 Voting District
+51|770|9|Tinker|Tinker Voting District
+51|775|001|North Salem No. 2|North Salem No. 2 Voting District
+51|775|002|Conehurst|Conehurst Voting District
+51|775|003|Beverly Heights|Beverly Heights Voting District
+51|775|004|West Salem|West Salem Voting District
+51|775|005|North Salem No. 1|North Salem No. 1 Voting District
+51|775|006|South Salem No. 1|South Salem No. 1 Voting District
+51|775|007|South Salem No. 2|South Salem No. 2 Voting District
+51|775|008|East Salem|East Salem Voting District
+51|775|009|South Side Hills|South Side Hills Voting District
+51|775|010|Hidden Valley|Hidden Valley Voting District
+51|790|101|Ward No. 1|Ward No. 1
+51|790|201|Ward No. 2|Ward No. 2
+51|790|301|Ward No. 3|Ward No. 3
+51|790|401|Ward No. 4|Ward No. 4
+51|790|501|Ward No. 5|Ward No. 5
+51|800|102|Driver|Driver Voting District
+51|800|103|Harbour View|Harbour View Voting District
+51|800|104|Bennetts Creek|Bennetts Creek Voting District
+51|800|201|Ebenezer|Ebenezer Voting District
+51|800|202|Chuckatuck|Chuckatuck Voting District
+51|800|203|King's Fork|King's Fork Voting District
+51|800|301|White Marsh|White Marsh Voting District
+51|800|302|John F. Kennedy|John F. Kennedy Voting District
+51|800|303|Cypress Chapel|Cypress Chapel Voting District
+51|800|401|Airport|Airport Voting District
+51|800|402|Whaleyville|Whaleyville Voting District
+51|800|403|Southside|Southside Voting District
+51|800|501|Kilby's Mill|Kilby's Mill Voting District
+51|800|502|Holland|Holland Voting District
+51|800|503|Holy Neck|Holy Neck Voting District
+51|800|504|Lake Cohoon|Lake Cohoon Voting District
+51|800|601|Lakeside|Lakeside Voting District
+51|800|602|Olde Towne|Olde Towne Voting District
+51|800|603|Elephants Fork/Westhaven|Elephants Fork/Westhaven Voting District
+51|800|701|Hollywood|Hollywood Voting District
+51|800|703|Nansemond River|Nansemond River Voting District
+51|800|705|Yeates|Yeates Voting District
+51|810|0001|North Beach|North Beach Voting District
+51|810|0002|South Beach|South Beach Voting District
+51|810|0003|Ocean Lakes|Ocean Lakes Voting District
+51|810|0004|Linkhorn|Linkhorn Voting District
+51|810|0005|Seatack|Seatack Voting District
+51|810|0006|Alanton|Alanton Voting District
+51|810|0007|Kingston|Kingston Voting District
+51|810|0008|London Bridge|London Bridge Voting District
+51|810|0010|Great Neck|Great Neck Voting District
+51|810|0011|Cape Henry|Cape Henry Voting District
+51|810|0012|Plaza|Plaza Voting District
+51|810|0013|Mt.Trashmore|Mt.Trashmore Voting District
+51|810|0014|Malibu|Malibu Voting District
+51|810|0015|Old Donation|Old Donation Voting District
+51|810|0016|Aragona|Aragona Voting District
+51|810|0017|Ocean Park|Ocean Park Voting District
+51|810|0018|Thoroughgood|Thoroughgood Voting District
+51|810|0019|Lake Smith|Lake Smith Voting District
+51|810|0020|Bayside|Bayside Voting District
+51|810|0021|Davis Corner|Davis Corner Voting District
+51|810|0022|Point O' View|Point O' View Voting District
+51|810|0023|Arrowhead|Arrowhead Voting District
+51|810|0024|Larkspur|Larkspur Voting District
+51|810|0025|Avalon|Avalon Voting District
+51|810|0026|Fairfield|Fairfield Voting District
+51|810|0027|Providence|Providence Voting District
+51|810|0028|Thalia|Thalia Voting District
+51|810|0029|Holland|Holland Voting District
+51|810|0030|Redwing|Redwing Voting District
+51|810|0031|Sigma|Sigma Voting District
+51|810|0032|Creeds|Creeds Voting District
+51|810|0033|Capps Shop|Capps Shop Voting District
+51|810|0034|Blackwater|Blackwater Voting District
+51|810|0035|Courthouse|Courthouse Voting District
+51|810|0036|Windsor Oaks|Windsor Oaks Voting District
+51|810|0037|Chesapeake Beach|Chesapeake Beach Voting District
+51|810|0038|Witchduck|Witchduck Voting District
+51|810|0039|Pembroke|Pembroke Voting District
+51|810|0040|Bonney|Bonney Voting District
+51|810|0041|College Park|College Park Voting District
+51|810|0042|Brandon|Brandon Voting District
+51|810|0043|Bellamy|Bellamy Voting District
+51|810|0044|Centerville|Centerville Voting District
+51|810|0045|Timberlake|Timberlake Voting District
+51|810|0046|Green Run|Green Run Voting District
+51|810|0047|Kings Grant|Kings Grant Voting District
+51|810|0048|Wolfsnare|Wolfsnare Voting District
+51|810|0049|Lynnhaven|Lynnhaven Voting District
+51|810|0050|Oceana|Oceana Voting District
+51|810|0051|Stratford Chase|Stratford Chase Voting District
+51|810|0052|Homestead|Homestead Voting District
+51|810|0053|Shannon|Shannon Voting District
+51|810|0054|Cromwell|Cromwell Voting District
+51|810|0055|Magic Hollow|Magic Hollow Voting District
+51|810|0056|Edinburgh|Edinburgh Voting District
+51|810|0057|Sherry Park|Sherry Park Voting District
+51|810|0058|Glenwood|Glenwood Voting District
+51|810|0059|Shelton Park|Shelton Park Voting District
+51|810|0060|Foxfire|Foxfire Voting District
+51|810|0061|Baker|Baker Voting District
+51|810|0062|Landstown|Landstown Voting District
+51|810|0063|Culver|Culver Voting District
+51|810|0064|Rosemont Forest|Rosemont Forest Voting District
+51|810|0065|Colonial|Colonial Voting District
+51|810|0066|Hunt|Hunt Voting District
+51|810|0067|Eastern Shore|Eastern Shore Voting District
+51|810|0068|Manor|Manor Voting District
+51|810|0069|Shell|Shell Voting District
+51|810|0070|Corporate Landing|Corporate Landing Voting District
+51|810|0071|Round Hill|Round Hill Voting District
+51|810|0072|Rudee|Rudee Voting District
+51|810|0073|Dahlia|Dahlia Voting District
+51|810|0074|Buckner|Buckner Voting District
+51|810|0075|Colony|Colony Voting District
+51|810|0076|Village|Village Voting District
+51|810|0077|Brookwood|Brookwood Voting District
+51|810|0078|Indian Lakes|Indian Lakes Voting District
+51|810|0079|Pleasant Hill|Pleasant Hill Voting District
+51|810|0080|Reon|Reon Voting District
+51|810|0081|Rock Lake|Rock Lake Voting District
+51|810|0082|Shelbourne|Shelbourne Voting District
+51|810|0083|Strawbridge|Strawbridge Voting District
+51|810|0084|Tallwood|Tallwood Voting District
+51|810|0085|Upton|Upton Voting District
+51|810|0086|Hagood|Hagood Voting District
+51|810|0087|Hillcrest|Hillcrest Voting District
+51|810|0088|North Landing|North Landing Voting District
+51|810|0089|Lake Christopher|Lake Christopher Voting District
+51|810|0090|Lake Joyce|Lake Joyce Voting District
+51|810|0091|Lexington|Lexington Voting District
+51|810|0092|Little Neck|Little Neck Voting District
+51|810|0093|Newtown|Newtown Voting District
+51|810|0094|Pinewood|Pinewood Voting District
+51|810|0098|Trantwood (9)/Great Neck (10)|Trantwood (9)/Great Neck (10) Voting District
+51|820|1|Ward A|Ward A
+51|820|2|Ward B|Ward B
+51|820|3|Ward C|Ward C
+51|820|4|Ward D|Ward D
+51|830|001|Stryker|Stryker Voting District
+51|830|002|Berkeley|Berkeley Voting District
+51|840|101|Merrimans|Merrimans Voting District
+51|840|102|Old Town|Old Town Voting District
+51|840|201|Virginia Avenue|Virginia Avenue Voting District
+51|840|301|War Memorial|War Memorial Voting District
+51|840|401|Frederick Douglass|Frederick Douglass Voting District
