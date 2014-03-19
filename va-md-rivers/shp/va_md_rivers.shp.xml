@@ -1,0 +1,942 @@
+<?xml version="1.0"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>National Atlas of the United States</origin>
+				<pubdate>200512</pubdate>
+				<title>VA_MD_RIVERS.SHP: Streams and River Polylines that Fall Within Virginia and Maryland Based on the National Atlas Streams and Waterbodies of the United States Dataset </title>
+				<pubinfo>
+					<pubplace>Reston, VA</pubplace>
+					<publish>National Atlas of the United States</publish>
+				</pubinfo>
+				<onlink>http://nationalatlas.gov/atlasftp.html</onlink>
+				<ftname Sync="TRUE">va_md_rivers</ftname><geoform Sync="TRUE">vector digital data</geoform><onlink>http://pubs.usgs.gov/of/2009/1151/data/basemap/va_md_rivers.zip</onlink><lworkcit><citeinfo><title>Continuous Resistivity Profiling and Seismic-Reflection Data Collected in 2006 from the Potomac River Estuary, Virginia and Maryland</title><origin>VeeAnn A. Cross</origin><origin>David S. Foster</origin><origin>John F. Bratton</origin><pubdate>2010</pubdate><serinfo><sername>Open-File Report</sername><issue>2009-1151</issue></serinfo><pubinfo><pubplace>Woods Hole Coastal and Marine Science Center, Woods Hole, MA</pubplace><publish>U.S. Geological Survey, Coastal and Marine Geology Program</publish></pubinfo><onlink>http://pubs.usgs.gov/of/2009/1151/</onlink></citeinfo></lworkcit></citeinfo>
+		</citation>
+		<descript>
+			<abstract>This map layer shows areal and linear water features of the United States, Puerto Rico, and the U.S. Virgin Islands.  The original file was produced by joining the individual State hydrography layers from the 1:2,000,000-scale Digital Line Graph (DLG) data produced by the USGS.  This map layer was formerly distributed as Hydrography Features of the United States. This is a revised version of the January 2003 map layer.</abstract>
+			<purpose>These data are intended for geographic display and analysis at the national level, and for large regional areas.  The data should be displayed and analyzed at scales appropriate for 1:2,000,000-scale data. No responsibility is assumed by the National Atlas of the United States in the use of these data. A subset of the larger dataset is used as basemap information for work in the Chesapeake Bay area.</purpose>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>1995</begdate>
+					<enddate>2002</enddate>
+				</rngdates>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Irregular</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-83.582695</westbc><eastbc Sync="TRUE">-75.309402</eastbc><northbc Sync="TRUE">39.724049</northbc><southbc Sync="TRUE">36.539070</southbc></bounding>
+			<lboundng><leftbc Sync="TRUE">-83.582695</leftbc><rightbc Sync="TRUE">-75.309402</rightbc><bottombc Sync="TRUE">36.539070</bottombc><topbc Sync="TRUE">39.724049</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>inlandWaters</themekey>
+				<themekey>oceans</themekey>
+			</theme>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>Hydrography</themekey>
+				<themekey>Water</themekey>
+				<themekey>Lake</themekey>
+				<themekey>Reservoir</themekey>
+				<themekey>Pond</themekey>
+				<themekey>Canal</themekey>
+				<themekey>Double-line stream</themekey>
+				<themekey>Shoreline</themekey>
+				<themekey>River</themekey>
+				<themekey>Stream</themekey>
+				<themekey>Intracoastal Waterway</themekey>
+				<themekey>Swamp</themekey>
+				<themekey>Marsh</themekey>
+			</theme>
+			<place>
+				<placekt>U.S. Department of Commerce, 1995, Countries, Dependencies, Areas of
+Special Sovereignty, and Their Principal Administrative Divisions
+(Federal Information Processing Standard (FIPS) 10-4): Washington, DC,
+National Institute of Standards and Technology.</placekt>
+				<placekey>United States</placekey>
+			</place>
+			<place>
+				<placekt>U.S. Department of Commerce, 1987, Codes for the Identification of the
+States, the District of Columbia and the Outlying Areas of The United
+States, and Associated Areas (Federal Information Processing Standard
+5-2):  Washington, DC, National Institute of Standards and Technology.</placekt>
+				<placekey>District of Columbia</placekey>
+				<placekey>Maryland</placekey>
+				<placekey>Virginia</placekey>
+			</place>
+			<place><placekey>North America</placekey><placekey>United States</placekey><placekey>Potomac River Estuary</placekey><placekt>General</placekt><placekey>Chesapeake Bay</placekey></place></keywords>
+		<accconst>None</accconst>
+		<useconst>None.  Acknowledgment of the National Atlas of the United States of America
+would be appreciated in products derived from these data.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Greg Manuel</cntper>
+					<cntorg>National Atlas of the United States</cntorg>
+				</cntperp>
+				<cntaddr>
+					<addrtype>Mailing address</addrtype>
+					<address>12201 Sunrise Valley Drive</address>
+					<address>MS-561</address>
+					<city>Reston</city>
+					<state>VA</state>
+					<postal>20192</postal>
+				</cntaddr>
+				<cntvoice>703-648-6433</cntvoice>
+				<cntemail>atlasmail@usgs.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.2.6.1500</native><natvform Sync="TRUE">Shapefile</natvform><browse><browsen>http://pubs.usgs.gov/of/2009/1151/data/basemap/va_md_rivers.gif</browsen><browsed>Thumbnail image of the polylines of the rivers and streams that fall within Maryland and Virginia.</browsed><browset>GIF</browset></browse></idinfo>
+	<dataqual>
+		<logic>The map layer was checked for topological consistency using the Arc/INFO command BUILD.  No other checks for logical consistency were performed on this map layer.</logic>
+		<complete>The original map layer included water features for all fifty States, Puerto Rico, and the U.S. Virgin Islands.  Data completeness generally reflects the content of the original DLG files. The data have been subsequently edited to only include those streams and river that fall within the states of Virginia and Maryland.</complete>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>1995</pubdate>
+						<title>1:2,000,000-scale Digital Line Graphs - Hydrography</title>
+						<pubinfo>
+							<pubplace>Reston, VA</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>2000000</srcscale>
+				<typesrc>CD-ROM</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>1972</begdate>
+							<enddate>1994</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>2MILHY</srccitea>
+				<srccontr>Spatial and attribute information</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>Unknown</pubdate>
+						<title>1:100,000-scale USGS topographic maps</title>
+						<pubinfo>
+							<pubplace>Reston, VA</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>100000</srcscale>
+				<typesrc>Paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>Unknown</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>Publication date</srccurr>
+				</srctime>
+				<srccitea>1:100,000-scale maps</srccitea>
+				<srccontr>Spatial and attribute information</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>Unknown</pubdate>
+						<title>1:250,000-scale USGS topographic maps for Alaska</title>
+						<pubinfo>
+							<pubplace>Reston, VA</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>250000</srcscale>
+				<typesrc>Paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>Unknown</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>Publication date</srccurr>
+				</srctime>
+				<srccitea>1:250,000-scale maps</srccitea>
+				<srccontr>Attribute information</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>Unknown</pubdate>
+						<title>State base maps</title>
+						<pubinfo>
+							<pubplace>Reston, VA</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>500000</srcscale>
+				<typesrc>Paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>Unknown</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>Publication date</srccurr>
+				</srctime>
+				<srccitea>State base maps</srccitea>
+				<srccontr>Spatial and attribute information</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>National Atlas of the United States</origin>
+						<pubdate>1998</pubdate>
+						<title>Hydrography Features of the United States</title>
+						<pubinfo>
+							<pubplace>Reston, VA</pubplace>
+							<publish>National Atlas of the United States</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>2000000</srcscale>
+				<typesrc>Online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1998</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>Publication date</srccurr>
+				</srctime>
+				<srccitea>ATLASHY98</srccitea>
+				<srccontr>Spatial and attribute information</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>National Atlas of the United States</origin>
+						<pubdate>199903</pubdate>
+						<title>Hydrography Features of the United States</title>
+						<pubinfo>
+							<pubplace>Reston, VA</pubplace>
+							<publish>National Atlas of the United States</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>2000000</srcscale>
+				<typesrc>Online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1999</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>Publication date</srccurr>
+				</srctime>
+				<srccitea>ATLASHY9903</srccitea>
+				<srccontr>Spatial and attribute information</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>National Atlas of the United States</origin>
+						<pubdate>199911</pubdate>
+						<title>Streams and Waterbodies of the United States</title>
+						<pubinfo>
+							<pubplace>Reston, VA</pubplace>
+							<publish>National Atlas of the United States</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>2000000</srcscale>
+				<typesrc>Online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1999</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>Publication date</srccurr>
+				</srctime>
+				<srccitea>ATLASHY9911</srccitea>
+				<srccontr>Spatial and attribute information</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>National Atlas of the United States</origin>
+						<pubdate>200301</pubdate>
+						<title>Streams and Waterbodies of the United States</title>
+						<pubinfo>
+							<pubplace>Reston, VA</pubplace>
+							<publish>National Atlas of the United States</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>2000000</srcscale>
+				<typesrc>Online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2002</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>Publication date</srccurr>
+				</srctime>
+				<srccitea>ATLASHY0301</srccitea>
+				<srccontr>Spatial and attribute information</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>Unknown</pubdate>
+						<title>1:24,000-scale USGS topographic maps</title>
+						<pubinfo>
+							<pubplace>Reston, VA</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>Paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>Unknown</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>Publication date</srccurr>
+				</srctime>
+				<srccitea>1:24,000-scale maps</srccitea>
+				<srccontr>Attribute information</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>The 2MILHY data files were originally digitized by the National Mapping Division based on the sectional maps contained in 'The National Atlas of the United States of America' published by the USGS in 1970.  The
+1:2,000,000-scale Digital Line Graph (DLG) data were merged into a single national water features coverage.  Where necessary to effect the merge, alignment changes were made.  The names were taken from the USGS
+1:100,000-scale maps.  For Alaska, the names were taken from the 1:250,000-scale sheets.  State lines across water bodies were removed from the national coverage.  State attributes were assigned to the features.</procdesc>
+				<srcused>2MILHY</srcused>
+				<srcused>1:100,000-scale maps</srcused>
+				<srcused>1:250,000-scale maps</srcused>
+				<srcused>State base maps</srcused>
+				<procdate>1998</procdate>
+				<srcprod>ATLASHY98</srcprod>
+			</procstep>
+			<procstep>
+				<procdesc>Some spatial features were added and corrected.  Some name attributes were added or corrected.  All occurrences of St. were changed to Saint. Extra spaces were removed from the attributes.  Water features for Puerto Rico and the U.S. Virgin Islands were added.</procdesc>
+				<srcused>1:100,000-scale maps</srcused>
+				<srcused>State base maps</srcused>
+				<srcused>ATLASHY98</srcused>
+				<procdate>1999</procdate>
+				<srcprod>ATLASHY9903</srcprod>
+			</procstep>
+			<procstep>
+				<procdesc>A minor adjustment was made to the shoreline in Galveston Bay, Texas.</procdesc>
+				<srcused>ATLASHY9903</srcused>
+				<srcused>1:100,000 scale maps</srcused>
+				<procdate>1999</procdate>
+				<srcprod>ATLASHY9911</srcprod>
+			</procstep>
+			<procstep>
+				<procdesc>The linear water feature attribute value, Intercoastal waterway, was changed to Intracoastal waterway.</procdesc>
+				<srcused>ATLASHY9911</srcused>
+				<procdate>200212</procdate>
+				<srcprod>ATLASHY0301</srcprod>
+			</procstep>
+			<procstep>
+				<procdesc>Names were researched for approximately 1,200 linear streams, canals, aqueducts, and Intracoastal Waterway instances, in the conterminous United States and Hawaii, that did not have names in ATLASHY0301.  Names
+were determined from the USGS 1:24,000-scale maps; the remaining features without names were not labeled on the 1:24,000-scale maps, or fall in Alaska, or represent dams that have not yet been fully researched.  Features for which no name appears within the source data have a value of "NONE GIVEN" in the Name field.  Features such as shorelines, apparent limits, and closure lines do not have names and have a value of "N/A" in the Name field.  Several name corrections were made.  Minor spatial edits required to accommodate name changes, such as connecting or splitting features, were made as necessary.</procdesc>
+				<srcused>1:24,000-scale maps</srcused>
+				<srcused>ATLASHY0301</srcused>
+				<procdate>200509</procdate>
+			</procstep>
+			<procstep><procdesc>Used ArcMap 9.2 to define the spatial reference as Geographic, NAD83 based on the metadata accompanying the dataset: ArcMap 9.2 - ArcToolbox - Data Management Tools - Projections and Transformations - Define Projection. The parameters use: input dataset - hydrogl020.shp; coordinate system - GCS_North_American_1983. </procdesc><srcused>hydrogl020.shp </srcused><srcprod>hydrogl020.shp </srcprod><procdate>2009</procdate><proccont><cntinfo><cntperp><cntper>VeeAnn A. Cross</cntper><cntorg>U.S. Geological Survey</cntorg></cntperp><cntpos>Marine Geologist</cntpos><cntaddr><addrtype>mailing and physical address</addrtype><address>Woods Hole Coastal and Marine Science Center</address><address>384 Woods Hole Rd.</address><city>Woods Hole</city><state>MA</state><postal>02543-1598</postal></cntaddr><cntvoice>(508) 548-8700  x2251</cntvoice><cntfax>(508) 457-2310</cntfax><cntemail>vatnipp@usgs.gov</cntemail></cntinfo></proccont></procstep><procstep><procdesc>Used ArcCatalog 9.2 to import the text metadata that shipped with the data. The text metadata had to be edited (used Microsoft WordPad version 5.1) to reflect the attribute elements specific to this polyline shapefile, plus add the attribute FID and make all the attribute labels upper-case letters so that the metadata would import correctly. Other minor edits were applied to the metadata - that did not affect the overall content meaning.</procdesc><srcused>hydrogm020_polylinevmod.txt </srcused><srcprod>hydrogl020.shp </srcprod><procdate>2009</procdate><proccont><cntinfo><cntperp><cntper>VeeAnn A. Cross</cntper><cntorg>U.S. Geological Survey</cntorg></cntperp><cntpos>Marine Geologist</cntpos><cntaddr><addrtype>mailing and physical address</addrtype><address>Woods Hole Coastal and Marine Science Center</address><address>384 Woods Hole Rd.</address><city>Woods Hole</city><state>MA</state><postal>02543-1598</postal></cntaddr><cntvoice>(508) 548-8700  x2251</cntvoice><cntfax>(508) 457-2310</cntfax><cntemail>vatnipp@usgs.gov</cntemail></cntinfo></proccont></procstep><procstep><procdesc>Using ArcMap 9.2, from the properties menu of data layer the following definition query was set: "F_CODE" = 4 AND ("STATE" = 'VA' OR "STATE" = 'MD' OR "STATE" = 'MD-VA'). Essentially, this only displayed the polylines with an F_CODE of 4 (meaning it's a river or stream) and only those polylines that have the STATE attribute of VA, MD or MD-VA. Right mouse click on the data layer and Data - Export Data create a new shapefile based on the polylines that the definition query displays.</procdesc><srcused>hydrogl020.shp </srcused><srcprod>va_md_rivers.shp </srcprod><procdate>2009</procdate><proccont><cntinfo><cntperp><cntper>VeeAnn A. Cross</cntper><cntorg>U.S. Geological Survey</cntorg></cntperp><cntpos>Marine Geologist</cntpos><cntaddr><addrtype>mailing and physical address</addrtype><address>Woods Hole Coastal and Marine Science Center</address><address>384 Woods Hole Rd.</address><city>Woods Hole</city><state>MA</state><postal>02543-1598</postal></cntaddr><cntvoice>(508) 548-8700  x2251</cntvoice><cntfax>(508) 457-2310</cntfax><cntemail>vatnipp@usgs.gov</cntemail></cntinfo></proccont></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<indspref>U.S. Department of Commerce, 1987, Codes for the Identification of the
+States, the District of Columbia and The Outlying Areas of the United
+States, and Associated Areas (FIPS 5-2): Washington, DC, National
+Institute of Standards and Technology.</indspref>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="va_md_rivers">
+				<sdtstype>GT-polygon composed of chains</sdtstype>
+				<ptvctcnt>21868</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Complete chain</sdtstype>
+				<ptvctcnt>76975</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="va_md_rivers"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polyline</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">519</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000278</latres>
+				<longres>0.000278</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>GRS1980</ellips>
+				<semiaxis>6378137</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn></cordsysn></horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="va_md_rivers">
+			<enttyp>
+				<enttypl>Linear water features (described by Hydrogl020.dbf)</enttypl>
+				<enttypd>Linear water features in the United States.</enttypd>
+				<enttypds>National Atlas of the United States</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">519</enttypc></enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal Feature number.</attrdef><attrdefs>ESRI</attrdefs><attrdomv><udom>Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>The representation of the entity in the data.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Polyline</edomv>
+						<edomvd>1-dimensional element that may or may not surround a 2-dimensional
+element.</edomvd>
+						<edomvds>ESRI GIS software</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FNODE_</attrlabl>
+				<attrdef>Internal number of the from-node.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>65787</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">9</attwidth></attr>
+			<attr>
+				<attrlabl>TNODE_</attrlabl>
+				<attrdef>Internal number of the to-node.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>65787</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">9</attwidth></attr>
+			<attr>
+				<attrlabl>LPOLY_</attrlabl>
+				<attrdef>Internal number of the polygon to the left of the arc.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>21868</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">9</attwidth></attr>
+			<attr>
+				<attrlabl>RPOLY_</attrlabl>
+				<attrdef>Internal number of the polygon to the right of the arc.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>21869</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">9</attwidth></attr>
+			<attr>
+				<attrlabl>LENGTH</attrlabl>
+				<attrdef>The length of the arc in coverage units.  In the distributed file,
+coverage units represent decimal degrees.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.000</rdommin>
+						<rdommax>5.160</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">13</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr>
+			<attr>
+				<attrlabl>HYDROGM020</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>76975</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">9</attwidth></attr>
+			<attr>
+				<attrlabl>FEATURE</attrlabl>
+				<attrdef>The type of linear water feature.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Apparent Limit</edomv>
+						<edomvd>A naturally occurring line of contact between a body of water and
+the land.  Conditions prevent the feature from being confidently
+positioned.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Aqueduct</edomv>
+						<edomvd>A structure designed to transport domestic or industrial water from
+a supply source to a distribution point, often by gravity.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Braided Stream</edomv>
+						<edomvd>A stream or river that flows in an intricate network of interlacing
+channels.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Canal</edomv>
+						<edomvd>An artificial open waterway constructed to transport water, to
+irrigate or drain land, to connect two or more bodies of water, or
+to serve as a waterway for water craft.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Canal Intermittent</edomv>
+						<edomvd>An artificial open waterway, that contains water only part of the
+year, constructed to transport water, to irrigate or drain land, to
+connect two or more bodies of water, or to serve as a waterway for
+water craft.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Closure Line</edomv>
+						<edomvd>A line separating two different water features.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Dam</edomv>
+						<edomvd>A barrier constructed to control the flow or raise the level of
+water.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Falls</edomv>
+						<edomvd>A vertical or near vertical descent of water over a step or ledge in
+the bed of the river.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Intracoastal waterway</edomv>
+						<edomvd>A system of rivers, canals, and designated channels along the
+northern border and the Atlantic and Gulf Coasts of the United
+States.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Left Bank</edomv>
+						<edomvd>A naturally occurring line of contact between a body of water and
+the land.  This is the left side facing downstream.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Null</edomv>
+						<edomvd>Not a water feature.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Right Bank</edomv>
+						<edomvd>A naturally occurring line of contact between a body of water and
+the land.  This is the right side facing downstream.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Shoreline</edomv>
+						<edomvd>A naturally occurring line of contact between a body of water and
+the land.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Shoreline Intermittent</edomv>
+						<edomvd>A naturally occurring line of contact between a body of water and
+the land.  The water body exists for only part of the year.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Stream</edomv>
+						<edomvd>A body of flowing water.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Stream Intermittent</edomv>
+						<edomvd>A body of flowing water that contains water for only part of the
+year.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">80</attwidth></attr>
+			<attr>
+				<attrlabl>F_CODE</attrlabl>
+				<attrdef>The numeric code indicating the type of water feature described by the
+feature label.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Closure line</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>Shoreline</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>Right or left bank.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>Stream</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>Canal</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>Aqueduct</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7</edomv>
+						<edomvd>Braided stream</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>8</edomv>
+						<edomvd>Intracoastal waterway</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>9</edomv>
+						<edomvd>Falls</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>10</edomv>
+						<edomvd>Apparent limit</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>12</edomv>
+						<edomvd>Shoreline Intermittent</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>14</edomv>
+						<edomvd>Stream Intermittent</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15</edomv>
+						<edomvd>Canal Intermittent</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>22</edomv>
+						<edomvd>Dam</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>90</edomv>
+						<edomvd>Null</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">2</attwidth></attr>
+			<attr>
+				<attrlabl>NAME</attrlabl>
+				<attrdef>The name of the water feature.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<udom>There is no predefined set of valid water feature names.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N/A</edomv>
+						<edomvd>Not Applicable.  Features such as shorelines, left or right banks,
+apparent limits, and closure lines do not have names.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NONE GIVEN</edomv>
+						<edomvd>No name was found in the source material.  The feature most likely
+has a name, but it was not shown on the source maps.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&lt;blank&gt;</edomv>
+						<edomvd>The name of the water feature is unknown.  Names for linear features
+in Alaska have not yet been researched using detailed topographic
+maps.  Names for dams have not yet been completely researched using
+detailed topographic maps and other sources.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">80</attwidth></attr>
+			<attr>
+				<attrlabl>STATE</attrlabl>
+				<attrdef>The 2-letter Federal Information Processing Standard (FIPS) code for the
+State or State equivalent in which the water feature is located.  If the
+water feature falls in two States, both codes are listed, separated by a
+dash.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>&lt;blank&gt;</edomv>
+						<edomvd>The line is not a water feature.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Codes for the Identification of the States, the District of Columbia
+and the Outlying Areas of the United States, and Associated Areas,
+FIPS 5-2.</codesetn>
+						<codesets>U.S. Department of Commerce</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth></attr>
+			<attr>
+				<attrlabl>STATE_FIPS</attrlabl>
+				<attrdef>The 2-digit Federal Information Processing Standard (FIPS) code for the
+State in which the water feature is located.  If the water feature falls
+in two States, both codes are listed, separated by a dash.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>&lt;blank&gt;</edomv>
+						<edomvd>The line is not a water feature.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Codes for the Identification of the States, the District of Columbia
+and the Outlying Areas of the United States, and Associated Areas,
+FIPS 5-2.</codesetn>
+						<codesets>U.S. Department of Commerce</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth></attr>
+			<attr>
+				<attrlabl>NAME_UC</attrlabl>
+				<attrdef>The name of the water feature in upper-case letters.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<udom>There is no predefined set of valid water feature names.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N/A</edomv>
+						<edomvd>Not Applicable.  Features such as shorelines, left or right banks,
+apparent limits, and closure lines do not have names.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NONE GIVEN</edomv>
+						<edomvd>No name was found in the source material.  The feature most likely
+has a name, but it was not shown on the source maps.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&lt;blank&gt;</edomv>
+						<edomvd>The name of the water feature is unknown.  Names for linear features
+in Alaska have not yet been researched using detailed topographic
+maps.  Names for dams have not yet been completely researched using
+detailed topographic maps and other sources.</edomvd>
+						<edomvds>
+National Atlas of the United States
+</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">80</attwidth></attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Earth Science Information Center, U.S. Geological Survey</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>Mailing address</addrtype>
+					<address>507 National Center</address>
+					<city>Reston</city>
+					<state>VA</state>
+					<postal>20192</postal>
+				</cntaddr>
+				<cntvoice>1-888-ASK-USGS (1-888-275-8747)</cntvoice>
+				<cntvoice>703-648-5920</cntvoice>
+				<cntinst>In addition to the address above there are other ESIC offices throughout
+the country.  A full list of these offices is at
+&lt;http://geography.usgs.gov/esic/esic_index.html&gt;.</cntinst>
+			</cntinfo>
+		</distrib>
+		<distliab>Although these data have been processed successfully on a computer system at
+the U.S. Geological Survey, no warranty expressed or implied is made by the
+U.S. Geological Survey regarding the utility of the data on any other
+system, nor shall the act of distribution constitute any such warranty.  No
+responsibility is assumed by the U.S. Geological Survey in the use of these
+data.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>WinZip</formname>
+					<transize>0.205 MB</transize><dssize>0.393 MB</dssize><formvern>9.0</formvern><formcont>This WinZip file contains the polyline shapefile as well as the associated metadata files.</formcont></digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>&lt;http://nationalatlas.gov/atlasftp.html&gt;</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+					<offoptn><offmedia>DVD-ROM</offmedia><reccap><recden>4.75</recden><recdenu>GBytes</recdenu></reccap><recfmt>UDF</recfmt></offoptn></digtopt>
+			</digform>
+			<digform>
+				<digtinfo>
+					<formname>SDTS</formname>
+					<transize Sync="TRUE">0.393</transize><dssize Sync="TRUE">0.393</dssize></digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>&lt;http://nationalatlas.gov/atlasftp.html&gt;</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>
+There is no charge for the map layer.
+</fees>
+		</stdorder>
+		<resdesc Sync="TRUE">Downloadable Data</resdesc><techpreq>This WinZip file contains data available in ESRI polyline shapefile format. The user must have software capable of uncompressing the WinZip file and reading/displaying the shapefile.</techpreq></distinfo>
+	<metainfo>
+		<metd>20051004</metd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>Peg Rawson</cntper>
+					<cntorg>National Atlas of the United States</cntorg>
+				</cntperp>
+				<cntaddr>
+					<addrtype>Mailing address</addrtype>
+					<address>12201 Sunrise Valley Drive</address>
+					<address>MS 561</address>
+					<city>Reston</city>
+					<state>VA</state>
+					<postal>20192</postal>
+				</cntaddr>
+				<cntvoice>703-648-4183</cntvoice>
+				<cntemail>atlasmail@usgs.gov</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<metsi>
+			<metscs>None</metscs>
+			<metsc>Unclassified</metsc>
+			<metshd>None</metshd>
+		</metsi>
+		<langmeta Sync="TRUE">en</langmeta><mettc Sync="TRUE">local time</mettc><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><CreaDate>20090630</CreaDate><CreaTime>18021700</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20100325</SyncDate><SyncTime>12394500</SyncTime><ModDate>20100325</ModDate><ModTime>12395600</ModTime><MetaID>{41A2CBE8-0146-4E8C-8CDB-5361B1544F18}</MetaID></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.2.6.1500</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">va_md_rivers</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">-83.582695</westBL><eastBL Sync="TRUE">-75.309402</eastBL><northBL Sync="TRUE">39.724049</northBL><southBL Sync="TRUE">36.53907</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-83.582695</westBL><eastBL Sync="TRUE">-75.309402</eastBL><northBL Sync="TRUE">39.724049</northBL><southBL Sync="TRUE">36.53907</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\IGSAGIEGWSVCRX0\forpublication\data\basemap\va_md_rivers.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">0.393</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">GCS_North_American_1983</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="va_md_rivers"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">519</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20100325</mdDateSt></metadata>
