@@ -1,0 +1,362 @@
+<HTML>
+
+<HEAD>
+
+	<!--title: CHANGE-->
+
+	<TITLE>Geography Network TIGER<SUP>&#174</SUP> 2000 Data Readme File</TITLE>
+
+	<!--end title-->
+
+</HEAD>
+
+<!--body: DO NOT CHANGE-->
+
+<BODY BGCOLOR="#FFFFFF">
+
+<!--end body-->
+
+
+
+
+<TABLE BORDER=0 WIDTH=600 cellspacing=0 cellpadding=0>
+
+  <TR>
+
+	<TD WIDTH=600>
+
+
+<CENTER><H3>Census TIGER<SUP>&#174</SUP> 2000 Data from Geography Network</H3></CENTER>
+
+<B>INTRODUCTION</B><BR><BR>
+
+We are pleased that you are using the Census TIGER<SUP>&#174</SUP> 2000 data available through Geography Network.  The Geography Network TIGER<SUP>&#174</SUP> data set includes over 70,000 compressed files of geographic data that are available for download.  Each file represents a data layer for a single county in the United States.  As data layers are requested for download, ESRI assembles all the files and packages them as a single .ZIP file for download.<BR><BR>
+
+<B>HOW TO ACCESS THE DATA</B><BR><BR>
+
+To access the data, you must decompress the .ZIP file that was downloaded and then decompress each of data layer .ZIP files it contains.  This can be done using a compression tool such as WinZip or PK Unzip or using ESRI's <A HREF="http://www.esri.com/arcexplorer"><B>ArcExplorer</B></A> software.  Once the data layers have been decompressed, you can display the data using GIS sofware such as ESRI's <A HREF="http://www.esri.com/arcexplorer"><B>ArcExplorer</B></A> or <A HREF="http://www.esri.com/arcview"><B>ArcView GIS</B></A>.  Simply use the "add theme" function for each of the shapefiles.<BR><BR>
+
+<B>FILE NAMING CONVENTION</B><BR><BR>
+
+Each data file name is a combination of a layer abbreviation (e.g. 'blk') and a 5-digit County FIPS Code (e.g. '53001') and the file extension (e.g. '.zip' or '.shp').  For example, the compressed county data layer for Cook County, Illinois would be named 'cty17031.zip'.  The data layers contained within the .ZIP file contain a TIGER<SUP>&#174</SUP> abbreviation prefix (i.e. 'tgr') followed by the County FIPS and layer abbreviation (e.g. 'tgr17031cty.shp').  Below is a list of the abbreviations for each of the TIGER<SUP>&#174</SUP> data layers.<BR><BR>
+
+<TABLE BORDER CELLSPACING=1 CELLPADDING=2>
+<TR><TD>
+<FONT SIZE=2><B>Layer Name</B></FONT></TD>
+<TD>
+<FONT SIZE=2><B>Abbreviation</B></FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Line Features - Roads</FONT></TD>
+<TD>
+<FONT SIZE=2><P>lkA</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Line Features - Rails</FONT></TD>
+<TD>
+<FONT SIZE=2><P>lkB</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Line Features - Misc. Transport</FONT></TD>
+<TD>
+<FONT SIZE=2><P>lkC</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Line Features - Landmarks</FONT></TD>
+<TD>
+<FONT SIZE=2><P>lkD</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Line Features – Physical</FONT></TD>
+<TD>
+<FONT SIZE=2><P>lkE</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Line Features – Non-visible</FONT></TD>
+<TD>
+<FONT SIZE=2><P>lkF</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Line Features – Hydrography</FONT></TD>
+<TD>
+<FONT SIZE=2><P>lkH</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Line Features – Unknown</FONT></TD>
+<TD>
+<FONT SIZE=2><P>lkX</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>County 1990</FONT></TD>
+<TD>
+<FONT SIZE=2><P>cty</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>County - Current</FONT></TD>
+<TD>
+<FONT SIZE=2><P>ctycu</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>County 2000</FONT></TD>
+<TD>
+<FONT SIZE=2><P>cty00</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Census Tracts 1990</FONT></TD>
+<TD>
+<FONT SIZE=2><P>trt</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Census Tracts 2000</FONT></TD>
+<TD>
+<FONT SIZE=2><P>trt00</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Block Groups 1990</FONT></TD>
+<TD>
+<FONT SIZE=2><P>grp</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Block Groups 2000</FONT></TD>
+<TD>
+<FONT SIZE=2><P>grp00</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Census Blocks 1990</FONT></TD>
+<TD>
+<FONT SIZE=2><P>blk</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Census Blocks 2000</FONT></TD>
+<TD>
+<FONT SIZE=2><P>blk00</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Designated Places 1990</FONT></TD>
+<TD>
+<FONT SIZE=2><P>plc</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Designated Places 2000</FONT></TD>
+<TD>
+<FONT SIZE=2><P>plc00</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Designated Places – Current</FONT></TD>
+<TD>
+<FONT SIZE=2><P>plccu</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>County Census Divisions – Current</FONT></TD>
+<TD>
+<FONT SIZE=2><P>ccdcu</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>County Census Divisions 2000</FONT></TD>
+<TD>
+<FONT SIZE=2><P>ccd00</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Voting Districts</FONT></TD>
+<TD>
+<FONT SIZE=2><P>vot</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Voting Districts 2000</FONT></TD>
+<TD>
+<FONT SIZE=2><P>vot00</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Indian/Alaska Native Areas</FONT></TD>
+<TD>
+<FONT SIZE=2><P>air00</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>American Indian Tribal Subdivisions</FONT></TD>
+<TD>
+<FONT SIZE=2><P>aits</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>American Indian/Alaska Native Areas</FONT></TD>
+<TD>
+<FONT SIZE=2><P>air</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>American Indian/Alaska Native Areas - Current</FONT></TD>
+<TD>
+<FONT SIZE=2><P>aircu</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Alaskan Native Regional Corporations</FONT></TD>
+<TD>
+<FONT SIZE=2><P>arc</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Key Geographic Locations</FONT></TD>
+<TD>
+<FONT SIZE=2><P>kgl</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Landmark Polygons</FONT></TD>
+<TD>
+<FONT SIZE=2><P>lpy</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Landmark Points</FONT></TD>
+<TD>
+<FONT SIZE=2><P>lpt</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Traffic Analysis Zones</FONT></TD>
+<TD>
+<FONT SIZE=2><P>taz</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Urban Areas</FONT></TD>
+<TD>
+<FONT SIZE=2><P>urb</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Consolidated Cities</FONT></TD>
+<TD>
+<FONT SIZE=2><P>city</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>School Districts – Elementary</FONT></TD>
+<TD>
+<FONT SIZE=2><P>elm</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>School Districts – Middle</FONT></TD>
+<TD>
+<FONT SIZE=2><P>mid</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>School Districts – Secondary</FONT></TD>
+<TD>
+<FONT SIZE=2><P>sec</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>School Districts – Unified</FONT></TD>
+<TD>
+<FONT SIZE=2><P>uni</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Water Polygons</FONT></TD>
+<TD>
+<FONT SIZE=2><P>wat</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>CMSA/MSA Polygons 2000</FONT></TD>
+<TD>
+<FONT SIZE=2><P>msa00</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>PMSA Polygons 2000</FONT></TD>
+<TD>
+<FONT SIZE=2><P>pms00</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Congressional Districts – 106<SUP>th</SUP></FONT></TD>
+<TD>
+<FONT SIZE=2><P>cd106</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Congressional Districts – Current</FONT></TD>
+<TD>
+<FONT SIZE=2><P>cdc</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>State House Districts</FONT></TD>
+<TD>
+<FONT SIZE=2><P>hse</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>State Senate Districuts</FONT></TD>
+<TD>
+<FONT SIZE=2><P>sen</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Oregon Urban Growth Area</FONT></TD>
+<TD>
+<FONT SIZE=2><P>uga</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Census 2000 Collection Blocks</FONT></TD>
+<TD>
+<FONT SIZE=2><P>colblk</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>ZIP Code Tabulation Areas</FONT></TD>
+<TD>
+<FONT SIZE=2><P>zcta</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>State Legislative District Lower Chamber</FONT></TD>
+<TD>
+<FONT SIZE=2><P>sldl</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>State Legislative District Upper Chamber</FONT></TD>
+<TD>
+<FONT SIZE=2><P>sldu</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Alternate Feature Names</FONT></TD>
+<TD>
+<FONT SIZE=2><P>alt</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Address Matching Info</FONT></TD>
+<TD>
+<FONT SIZE=2><P>add2</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>ZIP+4 Left and Right Info</FONT></TD>
+<TD>
+<FONT SIZE=2><P>zip</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Key Geographic Location Addresses</FONT></TD>
+<TD>
+<FONT SIZE=2><P>add</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Landmark Polygon Names</FONT></TD>
+<TD>
+<FONT SIZE=2><P>lpy2</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Landmark Polygons – Multi-landmark</FONT></TD>
+<TD>
+<FONT SIZE=2><P>lpy3</FONT></TD>
+</TR>
+<TR><TD>
+<FONT SIZE=2><P>Water Polygons – Multi-names</FONT></TD>
+<TD>
+<FONT SIZE=2><P>wat2</FONT></TD>
+</TR>
+</TABLE>
+<BR><BR>
+
+<B>DATA DOCUMENTATION</B><BR><BR>
+
+Documentation for the TIGER<SUP>&#174</SUP> 2000 data can be found on the Census Web site at the URL addresses below:
+<br>
+<UL>
+<LI><A HREF="http://www.census.gov/geo/www/tiger/" target="_blank"><B>Census TIGER<SUP>&#174</SUP> Overview</B></A>:  http://www.census.gov/geo/www/tiger</LI><LI><A HREF="http://www.census.gov/geo/www/tiger/rd_2ktiger/tgrrd2k.pdf" target="_blank"><B>TIGER/Line<SUP>&#174</SUP> Files Technical Documentation</B></A>:  http://www.census.gov/geo/www/tiger/rd_2ktiger/tgrrd2k.pdf</LI>
+<LI><a href="http://www.census.gov/geo/www/tiger/rd_2ktiger/tlrdmeta.txt" target="_blank"><b>TIGER/Line<SUP>&#174</SUP> Files Metadata</b></a>:  http://www.census.gov/geo/www/tiger/rd_2ktiger/tlrdmeta.txt</LI>
+</UL>
+
+<B>Note:</B>  TIGER<SUP>&#174</SUP> and TIGER/Line<SUP>&#174</SUP> are <B>registered trademarks</B> of the U.S. Bureau of the Census.<BR><BR>
+
+</TD>
+</TR>
+</TABLE>
+
+</BODY>
+
+</HTML>
+
+
+
