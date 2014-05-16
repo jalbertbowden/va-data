@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Virginia Department of Conservation and Recreation, Division of Natural Heritage</origin>
+        <pubdate>Unpublished material</pubdate>
+        <title>Colonial National Historical Park Vegetation Mapping Project - Park Boundary</title>
+        <geoform>vector digital data</geoform>
+        <onlink>http://www1.usgs.gov/vip/colo/colobdy.zip</onlink>
+        <onlink>doi:10.5066/F7SF2T4Q</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This shapefile represents the boundaries of Colonial National Historical Park (COLO).  It was obtained from Charles Rafkind, Natural Resource Specialist, Colonial National Historical Park in May 2003 and edited by staff of the Virginia Department of Conservation and Recreation, Division of Natural Heritage.</abstract>
+      <purpose>This shapefile was used to provide a general representation of the COLO boundary for the vegetation classification and mapping project completed by the Virginia Department of Conservation and Recreation, Division of Natural Heritage in June 2008.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>unknown</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>unknown</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned.</update>
+    </status>
+    <spdom>
+      <descgeog>Colonial National Historical Park and environs</descgeog>
+      <bounding>
+        <westbc>-76.837591</westbc>
+        <eastbc>-76.481971</eastbc>
+        <northbc>37.286411</northbc>
+        <southbc>37.188356</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>National Park Boundaries</themekey>
+        <themekey>Federal Lands</themekey>
+        <themekey>Boundaries</themekey>
+        <themekey>National Park System</themekey>
+        <themekey>National Parks</themekey>
+        <themekey>Preserved Areas</themekey>
+      </theme>
+      <place>
+        <placekt>National Park System Unit Name Thesaurus</placekt>
+        <placekey>Colonial National Historical Park</placekey>
+      </place>
+      <place>
+        <placekt>National Park System Unit Code Thesaurus</placekt>
+        <placekey>COLO</placekey>
+      </place>
+      <place>
+        <placekt>Geographic Names Information System</placekt>
+        <placekey>Virginia</placekey>
+        <placekey>City of Williamsburg, Virginia</placekey>
+        <placekey>James City County, Virginia</placekey>
+        <placekey>Surry County, Virginia</placekey>
+        <placekey>York County, Virginia</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>This dataset should not be used for any legal boundary disputes.  To obtain the most accurate, current boundary, users should contact the park.  The National Park Service shall not be held liable for improper or incorrect use of the data described and/or contained herein.  These data are not legal documents and are not intended to be used as such.
+
+The information contained in these data is dynamic and may change over time.  The data are no better than the original sources from which they were derived.  It is the responsibility of the data user to use the data appropriately and consistent within the limitations of geospatial data in general and these data in particular.
+
+The National Park Service gives no warranty, expressed or implied, as to the accuracy, reliability, or completeness of these data.  It is strongly recommended that these data are directly acquired from an NPS server and not indirectly through other sources which may have changed the data in some way.  Although these data have been processed successfully on a computer system at the National Park Service, no warranty expressed or implied is made regarding the utility of the data on another system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of the data and aggregate use with other data.</useconst>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>None</attraccr>
+    </attracc>
+    <logic>None</logic>
+    <complete>None</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>None.  The data appear to align spatially with other available digital geospatial data.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>Staff of the Virginia Department of Conservation and Recreation, Division of Natural Heritage (VA DNR) edited the COLO boundary shapefile obtained from Charles Rafkind, Natural Resource Specialist, Colonial National Historical Park to remove the Cheatham Annex portion that was acquired by the Navy in 2004 and that the NPS requested VA DNR not to map.</procdesc>
+        <procdate>2003</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>165</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>Universal Transverse Mercator</gridsysn>
+          <utm>
+            <utmzone>18</utmzone>
+            <transmer>
+              <sfctrmer>0.999600</sfctrmer>
+              <longcm>-75.000000</longcm>
+              <latprjo>0.000000</latprjo>
+              <feast>500000.000000</feast>
+              <fnorth>0.000000</fnorth>
+            </transmer>
+          </utm>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000001</absres>
+            <ordres>0.000001</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>colobdy</enttypl>
+        <enttypd>Shapefile attribute table</enttypd>
+        <enttypds>ESRI</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AREA_METER</attrlabl>
+        <attrdef>Polygon area in square meters</attrdef>
+        <attrdefs>COLO</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1.188</rdommin>
+            <rdommax>5872646.07</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER_</attrlabl>
+        <attrdef>Polygon perimeter in meters</attrdef>
+        <attrdefs>COLO</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>6.159</rdommin>
+            <rdommax>50572.17</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GPIN</attrlabl>
+        <attrdef>Unknown field created by originator but not documented.</attrdef>
+        <attrdefs>COLO</attrdefs>
+        <attrdomv>
+          <udom>Meaning of attribute domain values is unknown</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>REVS_DATE</attrlabl>
+        <attrdef>Revision date.</attrdef>
+        <attrdefs>COLO</attrdefs>
+        <attrdomv>
+          <udom>Meaning of attribute domain values is unknown</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FEATURE</attrlabl>
+        <attrdef>Feature type.</attrdef>
+        <attrdefs>COLO</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Boundary</edomv>
+            <edomvd>Unknown</edomvd>
+            <edomvds>COLO</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FEATURE_2</attrlabl>
+        <attrdef>Feature 2 is name of the park.</attrdef>
+        <attrdefs>COLO</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>APVA</edomv>
+            <edomvd>Unknown</edomvd>
+            <edomvds>COLO</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Colonial NHP</edomv>
+            <edomvd>Colonial National Historical Park</edomvd>
+            <edomvds>COLO</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>Name of park unit or subunit</attrdef>
+        <attrdefs>COLO</attrdefs>
+        <attrdomv>
+          <udom>Values are park unit/subunit names such as Jamestown, Colonial Parkway, Williamsburg, etc.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ID</attrlabl>
+        <attrdef>Unknown field created by originator but not documented.</attrdef>
+        <attrdefs>COLO</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>87</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>OWNERSHIP</attrlabl>
+        <attrdef>Unknown field created by originator but not documented.</attrdef>
+        <attrdefs>COLO</attrdefs>
+        <attrdomv>
+          <udom>Values are abbreviations or codes such as APVA, Ease, FEE, Life, ROW, etc.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STYPE</attrlabl>
+        <attrdef>Unknown field created by originator but not documented.</attrdef>
+        <attrdefs>COLO</attrdefs>
+        <attrdomv>
+          <udom>Values are abbreviations or codes such as ASC1, CO16, CO17, JCC2, etc.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ACRES</attrlabl>
+        <attrdef>Polygon area in acres</attrdef>
+        <attrdefs>COLO</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>1451.157</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PERIM_MILE</attrlabl>
+        <attrdef>Polygon perimeter in miles</attrdef>
+        <attrdefs>COLO</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.004</rdommin>
+            <rdommax>31.424</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HECTARES</attrlabl>
+        <attrdef>Polygon area in hectares</attrdef>
+        <attrdefs>COLO</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>587.265</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SOURCETHM</attrlabl>
+        <attrdef>Unknown field created by originator but not documented.</attrdef>
+        <attrdefs>COLO</attrdefs>
+        <attrdomv>
+          <udom>Value for one feature is Bldg2.shp; value for all other features is Merge1.shp</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>USGS/CSS/Core Science Analytics and Synthesis</cntorg>
+          <cntper>USGS-NPS Vegetation Characterization Program Coordinator</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Denver Federal Center, Building 810, MS 302</address>
+          <city>Denver</city>
+          <state>Colorado</state>
+          <postal>80225</postal>
+        </cntaddr>
+        <cntvoice>(303) 202-4220</cntvoice>
+        <cntfax>303-202-4219</cntfax>
+        <cntemail>gs-b-npsveg@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>The U.S. Geological Survey and the National Park Service shall not be held liable for improper or incorrect use of the data described and/or contained herein.  These data and related graphics (if available) are not legal documents and are not intended to be used as such.
+
+The information contained in these data is dynamic and may change over time.  The data are not better than the original sources from which they were derived.  It is the responsibility of the data user to use the data appropriately and consistent within the limitations of geospatial data in general and these data in particular.  Any related graphics (if available) are intended to aid the data user in acquiring relevant data; it is not approriate to use the related graphics as data.
+
+The U.S. Geological Survey and the National Park Service gives no warranty, expressed or implied, as to the accuracy, reliability, or completeness of these data.  It is strongly recommended that these data are directly acquired from an U.S. Geological Survey and National Park Service servers and not indirectly through other sources which may have changed the data in some way.  Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made regarding the utility of the data on another system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of the data and aggregate use with other data. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data. Mention of trade names or commercial products in this metadata report does not constitute endorsement or recommendation for use by the U. S. Department of the Interior, U. S. Geological Survey and National Park Service.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>HTML</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://www.usgs.gov/core_science_systems/csas/vip/parks/colo.html</networkr>
+              </networka>
+            </computer>
+            <accinstr>Internet Access</accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>200810</metd>
+    <metrd>20100518</metrd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>USGS/CSS/Core Science Analytics and Synthesis</cntorg>
+          <cntper>USGS-NPS Vegetation Characterization Program Coordinator</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Denver Federal Center, Building 810, MS 302</address>
+          <city>Denver</city>
+          <state>Colorado</state>
+          <postal>80225</postal>
+        </cntaddr>
+        <cntvoice>(303) 202-4220</cntvoice>
+        <cntfax>303-202-4219</cntfax>
+        <cntemail>gs-b-npsveg@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Biological Data Profile of the Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001.1-1999</metstdv>
+    <metextns>
+      <onlink>http://www.usgs.gov/core_science_systems/csas/metadata/index.html</onlink>
+    </metextns>
+  </metainfo>
+</metadata>
+
