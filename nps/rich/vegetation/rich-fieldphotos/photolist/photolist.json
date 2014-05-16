@@ -1,0 +1,142 @@
+[
+  {
+    "Richmond Photo Classification":"",
+    "FIELD2":"",
+    "FIELD3":""
+  },
+  {
+    "Richmond Photo Classification":"Classified Community Name",
+    "FIELD2":"Provisional Community Name",
+    "FIELD3":""
+  },
+  {
+    "Richmond Photo Classification":"Forest",
+    "FIELD2":"",
+    "FIELD3":"PhotoCode"
+  },
+  {
+    "Richmond Photo Classification":"Acer rubrum - Nyssa sylvatica - Magnolia virginiana / Viburnum nudum var. nudum / Osmunda cinnamomea - Woodwardia areolata Forest",
+    "FIELD2":"Coastal Plain / Piedmont Acidic Seepage Swamp",
+    "FIELD3":"cppa"
+  },
+  {
+    "Richmond Photo Classification":"Fagus grandifolia - Quercus (alba, rubra) - Liriodendron tulipifera / (Ilex opaca var. opaca) / Polystichum acrostichoides Forest",
+    "FIELD2":"Mesic Mixed Hardwood Forest",
+    "FIELD3":"mmh"
+  },
+  {
+    "Richmond Photo Classification":"Juglans nigra / Verbesina alternifolia Forest",
+    "FIELD2":"Successional Black Walnut Forest",
+    "FIELD3":"sbw"
+  },
+  {
+    "Richmond Photo Classification":"Liquidambar styraciflua - Liriodendron tulipifera / Lindera benzoin / Arisaema triphyllum Forest",
+    "FIELD2":"Coastal Plain / Piedmont Small-Stream Floodplain Forest",
+    "FIELD3":"cpps"
+  },
+  {
+    "Richmond Photo Classification":"Liriodendron tulipifera - Quercus spp. Forest",
+    "FIELD2":"Successional Tuliptree Forest",
+    "FIELD3":"st"
+  },
+  {
+    "Richmond Photo Classification":"Non-Riverine Saturated Forest-Pine Subtype",
+    "FIELD2":"Non-Riverine Saturated Forest-Pine Subtype",
+    "FIELD3":"nrp"
+  },
+  {
+    "Richmond Photo Classification":"Pinus taeda - Liquidambar styraciflua Semi-natural Forest",
+    "FIELD2":"Loblolly Pine - Hardwood Forest",
+    "FIELD3":"lph"
+  },
+  {
+    "Richmond Photo Classification":"Pinus taeda Planted Forest",
+    "FIELD2":"Loblolly Pine Plantation",
+    "FIELD3":"lp"
+  },
+  {
+    "Richmond Photo Classification":"Pinus virginiana Successional Forest",
+    "FIELD2":"Successional Virginia Pine Forest",
+    "FIELD3":"svp"
+  },
+  {
+    "Richmond Photo Classification":"Quercus (phellos, pagoda, michauxii) / Ilex opaca var. opaca / Clethra alnifolia / Woodwardia areolata Forest",
+    "FIELD2":"Non-Riverine Saturated Forest",
+    "FIELD3":"nrs"
+  },
+  {
+    "Richmond Photo Classification":"Quercus alba - Quercus falcata - (Carya pallida) / Gaylussacia frondosa Forest",
+    "FIELD2":"Coastal Plain Mixed Oak / Heath Forest",
+    "FIELD3":"coh"
+  },
+  {
+    "Richmond Photo Classification":"Quercus alba - Quercus rubra - Carya alba / Cornus florida / Vaccinium stamineum / Desmodium nudiflorum Piedmont Forest",
+    "FIELD2":"Acidic Oak - Hickory Forest",
+    "FIELD3":"aoh"
+  },
+  {
+    "Richmond Photo Classification":"",
+    "FIELD2":"",
+    "FIELD3":""
+  },
+  {
+    "Richmond Photo Classification":"Shrubland",
+    "FIELD2":"",
+    "FIELD3":"PhotoCode"
+  },
+  {
+    "Richmond Photo Classification":"Alnus serrulata Swamp Shrubland",
+    "FIELD2":"Beaver Wetland Complex",
+    "FIELD3":"bw"
+  },
+  {
+    "Richmond Photo Classification":"",
+    "FIELD2":"",
+    "FIELD3":""
+  },
+  {
+    "Richmond Photo Classification":"Herbaceous Vegetation",
+    "FIELD2":"",
+    "FIELD3":"PhotoCode"
+  },
+  {
+    "Richmond Photo Classification":"Dactylis glomerata - Phleum pratense - Festuca spp. - Solidago spp. Herbaceous Vegetation",
+    "FIELD2":"Cultural Meadow",
+    "FIELD3":"cm"
+  },
+  {
+    "Richmond Photo Classification":"",
+    "FIELD2":"",
+    "FIELD3":""
+  },
+  {
+    "Richmond Photo Classification":"Other",
+    "FIELD2":"",
+    "FIELD3":"PhotoCode"
+  },
+  {
+    "Richmond Photo Classification":"Forersted Earthworks",
+    "FIELD2":"Forersted Earthworks",
+    "FIELD3":"fe"
+  },
+  {
+    "Richmond Photo Classification":"Open Earthworks",
+    "FIELD2":"Open Earthworks",
+    "FIELD3":"oe"
+  },
+  {
+    "Richmond Photo Classification":"Other Urban or Built-up Land",
+    "FIELD2":"Other Urban or Built-up Land",
+    "FIELD3":"ubl"
+  },
+  {
+    "Richmond Photo Classification":"Successional Mixed Scrub",
+    "FIELD2":"Successional Mixed Scrub",
+    "FIELD3":"sms"
+  },
+  {
+    "Richmond Photo Classification":"Successional Shrub Swamp",
+    "FIELD2":"Successional Shrub Swamp",
+    "FIELD3":"sss"
+  }
+]
